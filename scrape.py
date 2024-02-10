@@ -59,9 +59,49 @@ def extract_info(text):
 
     return info
 
+def scrape_standings(year):    
+    url = BASE_TM_STAND_URL.format(year)
+    html = urlopen(url)
+    soup = BeautifulSoup(html, "html.parser")
+
+    comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+    for comment in comments:
+        uncommented_content = BeautifulSoup(comment, 'html.parser')
+        comment.replace_with(uncommented_content)
+
+    table = soup.find('table', {'id': 'expanded_standings'})
+
+    # Extract table headers
+    headers = [th.text.strip() for th in table.find_all('tr')[1].find_all('th')]
+    headers.append('link')
+
+    # Initialize a list to store each row as a dictionary
+    data_dicts = []
+
+    # Process each row in the table body
+    for tr in table.find('tbody').find_all('tr'):
+        # Extract cell data
+        cells = tr.find_all(['th', 'td'])
+        row_data = [cell.text.strip() for cell in cells]
+        team_link = tr.find('td', {'data-stat': 'team_name'}).find('a')['href']
+        row_data.append(team_link)
+        # Create a dictionary for the current row, mapping headers to cell data
+        row_dict = dict(zip(headers, row_data))
+        data_dicts.append(row_dict)
+
+    img = "https://cdn.ssref.net/req/202312151/tlogo/bbr/{}-{}.png"
+
+    standings = {}
+
+    for item in data_dicts: 
+        name = item["link"].split("teams/")[1].split("/")[0]
+        item["img"] = img.format(name, year)
+        standings[name] = item
+
+    return standings
+
+
 def scrape_team(team, year):
-    # URL formation adjusted for string formatting
-    BASE_TM_URL = "https://www.basketball-reference.com/teams/{}/{}.html"
     url = BASE_TM_URL.format(team, year)
     
     # Fetching and parsing the HTML content
@@ -202,9 +242,6 @@ def scrape_div(soup, id, overhead=False):
 
     return data_list
 
-def scrape_standings():    
-    return 0
-
 def scrape(url):
     html = urlopen(url)
     soup = BeautifulSoup(html, "html.parser")  
@@ -246,4 +283,4 @@ def scrape(url):
 
 if __name__ == "__main__":
     with open("test.json", "w+", encoding="utf8") as file:
-        file.write(json.dumps(scrape_player("https://www.basketball-reference.com/players/a/allengr01.html"), ensure_ascii=False, indent=4))
+        file.write(json.dumps(scrape_standings(2024), ensure_ascii=False, indent=4))

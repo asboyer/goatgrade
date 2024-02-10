@@ -17,3 +17,6 @@ def find_duplicates(input_list):
 def replace_multiple_whitespaces_with_single(text):
     # Replace one or more whitespace characters (\s+) with a single space
     return re.sub(r'\s+', ' ', text)
+
+def date_to_str(today):
+    return today.strftime("%m_%d_%Y").lower()
