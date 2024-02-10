@@ -15,24 +15,22 @@
             "Kevin Durant",
             "Eric Gordon",
             "Devin Booker",
-            "Jordan Goodwin",
-            "Keita Bates-Diop",
-            "Chimezie Metu",
             "Nassir Little",
-            "Yuta Watanabe",
             "Bradley Beal",
             "Bol Bol",
             "Udoka Azubuike",
             "Saben Lee",
             "Théo Maledon",
+            "Royce O'Neale",
+            "David Roddy",
             "Damion Lee"
         ],
         "injuries": [
             {
-                "Player": "Devin Booker",
+                "Player": "Bradley Beal",
                 "Team": "Phoenix Suns",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Out (Hip) - Booker is OUT for Thursday's (Feb. 8) game against Utah."
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Ankle) - Beal is Probable for Saturday's (Feb. 10) game against Golden State."
             },
             {
                 "Player": "Damion Lee",
@@ -94,7 +92,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "10",
                 "FG": "14",
                 "FGA": "28",
                 "FG%": "3",
@@ -103,18 +101,18 @@
                 "3P%": "5",
                 "2P": "10",
                 "2PA": "17",
-                "2P%": "3",
+                "2P%": "4",
                 "FT": "4",
                 "FTA": "5",
                 "FT%": "8",
                 "ORB": "24",
                 "DRB": "11",
-                "TRB": "18",
+                "TRB": "19",
                 "AST": "15",
                 "STL": "18",
                 "BLK": "7",
                 "TOV": "25",
-                "PF": "7",
+                "PF": "8",
                 "PTS": "12"
             },
             "Year/Year": {
@@ -194,10 +192,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "10",
                 "FG": "16",
                 "FGA": "21",
-                "FG%": "9",
+                "FG%": "8",
                 "3P": "14",
                 "3PA": "19",
                 "3P%": "16",
@@ -212,7 +210,7 @@
                 "TRB": "3",
                 "AST": "11",
                 "STL": "23",
-                "BLK": "8",
+                "BLK": "7",
                 "TOV": "23",
                 "PF": "3",
                 "PTS": "15"
@@ -248,8 +246,8 @@
                 "PW": "31",
                 "PL": "21",
                 "MOV": "3.06",
-                "SOS": "-1.17",
-                "SRS": "1.89",
+                "SOS": "-1.12",
+                "SRS": "1.94",
                 "ORtg": "118.8",
                 "DRtg": "115.7",
                 "Pace": "98.3",
@@ -265,27 +263,27 @@
             },
             "Misc Lg Rank": {
                 "W": "9",
-                "L": "19",
-                "PW": "10",
-                "PL": "10",
-                "MOV": "10",
+                "L": "20",
+                "PW": "11",
+                "PL": "11",
+                "MOV": "11",
                 "SOS": "30",
                 "SRS": "12",
-                "ORtg": "10",
+                "ORtg": "9",
                 "DRtg": "16",
-                "Pace": "18",
+                "Pace": "19",
                 "FTr": "4",
                 "3PAr": "24",
-                "eFG%": "9",
+                "eFG%": "10",
                 "TOV%": "23",
                 "ORB%": "15",
                 "FT/FGA": "7",
                 "DRB%": "22",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-2024.png",
-        "last_update": "Feb 10 2024 02:55:21"
+        "last_update": "Feb 10 2024 17:18:46"
     }
 }

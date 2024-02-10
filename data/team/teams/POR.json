@@ -23,20 +23,22 @@
             "Justin Minaya",
             "Ibou Badji",
             "Moses Brown",
-            "Robert Williams"
+            "Robert Williams",
+            "Ashton Hagans",
+            "Dalano Banton"
         ],
         "injuries": [
             {
                 "Player": "Deandre Ayton",
                 "Team": "Portland Trail Blazers",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Out (Illness) - Ayton is out for Thursday's (Feb. 8) game against Detroit."
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Illness) - Ayton is Questionable for Saturday's (Feb. 10) game against New Orleans."
             },
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Portland Trail Blazers",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Out (Illness) - Brigdon is out for Thursday's (Feb. 8) game against Detroit."
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Illness) - Brogdon is Questionable for Saturday's (Feb. 10) game against New Orleans."
             },
             {
                 "Player": "Moses Brown",
@@ -47,14 +49,26 @@
             {
                 "Player": "Scoot Henderson",
                 "Team": "Portland Trail Blazers",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Out (Foot) - Henderson is out for Thursday's (Feb. 8) game against Detroit."
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Foot) - Henderson is Questionable for Saturday's (Feb. 10) game against New Orleans."
+            },
+            {
+                "Player": "Duop Reath",
+                "Team": "Portland Trail Blazers",
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Knee) - Reath is Questionable for Saturday's (Feb. 10) game against New Orleans."
             },
             {
                 "Player": "Shaedon Sharpe",
                 "Team": "Portland Trail Blazers",
-                "Update": "Tue, Feb 6, 2024",
-                "Description": "Out (Abdominal) - The Trail Blazers announced Sharpe to undergo core muscle surgery."
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Out (Abdominal) - The Trail Blazers announced Sharpe to undergo core muscle surgery. He will be re-evaluated in six weeks."
+            },
+            {
+                "Player": "Anfernee Simons",
+                "Team": "Portland Trail Blazers",
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Out (Ankle) - Simons is OUT for Saturday's (Feb. 10) game against New Orleans."
             },
             {
                 "Player": "Robert Williams",
@@ -116,18 +130,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "19",
                 "FG": "29",
                 "FGA": "11",
                 "FG%": "29",
-                "3P": "19",
+                "3P": "21",
                 "3PA": "17",
                 "3P%": "25",
                 "2P": "26",
-                "2PA": "12",
+                "2PA": "11",
                 "2P%": "30",
-                "FT": "17",
-                "FTA": "20",
+                "FT": "18",
+                "FTA": "19",
                 "FT%": "9",
                 "ORB": "6",
                 "DRB": "30",
@@ -137,7 +151,7 @@
                 "BLK": "23",
                 "TOV": "27",
                 "PF": "24",
-                "PTS": "29"
+                "PTS": "28"
             },
             "Year/Year": {
                 "G": "",
@@ -216,17 +230,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "19",
                 "FG": "19",
-                "FGA": "9",
+                "FGA": "8",
                 "FG%": "25",
                 "3P": "4",
-                "3PA": "7",
-                "3P%": "2",
+                "3PA": "6",
+                "3P%": "1",
                 "2P": "25",
                 "2PA": "15",
                 "2P%": "30",
-                "FT": "24",
+                "FT": "23",
                 "FTA": "22",
                 "FT%": "22",
                 "ORB": "20",
@@ -270,8 +284,8 @@
                 "PW": "14",
                 "PL": "37",
                 "MOV": "-8.22",
-                "SOS": "0.41",
-                "SRS": "-7.81",
+                "SOS": "0.44",
+                "SRS": "-7.78",
                 "ORtg": "109.6",
                 "DRtg": "117.9",
                 "Pace": "97.9",
@@ -289,7 +303,7 @@
                 "W": "26",
                 "L": "5",
                 "PW": "26",
-                "PL": "27",
+                "PL": "26",
                 "MOV": "26",
                 "SOS": "5",
                 "SRS": "26",
@@ -297,17 +311,17 @@
                 "DRtg": "21",
                 "Pace": "24",
                 "FTr": "19",
-                "3PAr": "19",
+                "3PAr": "20",
                 "eFG%": "22",
                 "TOV%": "4",
                 "ORB%": "6",
                 "FT/FGA": "26",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "26"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png",
-        "last_update": "Feb 10 2024 02:55:21"
+        "last_update": "Feb 10 2024 17:18:46"
     }
 }

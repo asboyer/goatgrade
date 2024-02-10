@@ -29,6 +29,13 @@ def scrape_stats(year):
 
     for player in list(reg_stats):
         reg_stats[player].update(adv_stats[player])
+    
+        try:
+            if float(reg_stats[player]["G"]) < 10 or float(reg_stats[player]["MP"]) < 10:
+                del reg_stats[player]
+        except:
+            if float(reg_stats[player]["G"]) < 10:
+                del reg_stats[player]
 
     return clean(reg_stats)
 
@@ -258,27 +265,31 @@ def scrape(url):
             name_cell = tds[0]
             name = name_cell.getText()
             link = name_cell.find('a')['href'] if name_cell.find('a') else None
+            player_id = f"https://www.basketball-reference.com{link}".split("/")[-1].split(".html")[0]
             try:
-                if stats[name] != {}:
+                if stats[player_id] != {}:
                     h = 0
                     for td in tds:
                         header = headers[h]
                         if header == "Tm":
                             team = td.getText()
                         h += 1
-                    stats[name]["Tm"].append(team)
+                    stats[player_id]["Tm"].append(team)
             except:
-                stats[name] = {}
-                stats[name]["link"] = f"https://www.basketball-reference.com{link}"
+                stats[player_id] = {}
+                stats[player_id]["link"] = f"https://www.basketball-reference.com{link}"
+                stats[player_id]["id"] = link.split("/")[-1].split(".html")[0]
+                stats[player_id]["img"] = f'https://www.basketball-reference.com/req/202106291/images/headshots/{stats[player_id]["id"]}.jpg'
                 h = 0
                 for td in tds:
                     header = headers[h]
                     if header == "MP" and "advanced" in url:
                         header = "TMP"
-                    stats[name][header] = td.getText()
+                    stats[player_id][header] = td.getText()
                     h += 1
-                if stats[name]["Tm"] == "TOT":
-                    stats[name]["Tm"] = []
+                if stats[player_id]["Tm"] == "TOT":
+                    stats[player_id]["Tm"] = []
+    
     return stats
 
 if __name__ == "__main__":

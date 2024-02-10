@@ -2,7 +2,7 @@
     "OKC": {
         "info": {
             "record": "35-16",
-            "standing": "3rd in West",
+            "standing": "2nd in West",
             "coach": "Mark Daigneault (35-16)",
             "gm": "Sam Presti",
             "preseason_odds": "+10000"
@@ -18,27 +18,19 @@
             "Jalen Williams",
             "Jaylin Williams",
             "Kenrich Williams",
-            "Vasilije Micić",
             "Ousmane Dieng",
             "Lindy Waters III",
-            "Dāvis Bertāns",
-            "Tre Mann",
             "Olivier Sarr",
             "Aleksej Pokusevski",
-            "Keyontae Johnson"
+            "Keyontae Johnson",
+            "Gordon Hayward"
         ],
         "injuries": [
             {
                 "Player": "Gordon Hayward",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Day To Day (Calf) - Hayward did not play in Wednesday's (Feb. 7) game against Toronto."
-            },
-            {
-                "Player": "Isaiah Joe",
-                "Team": "Oklahoma City Thunder",
-                "Update": "Wed, Feb 7, 2024",
-                "Description": "Day To Day (Sternum) - Joe did not play in Tuesday's (Feb. 6) game against Utah."
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Out (Calf) - Hayward is OUT for Saturday's (Feb. 10) game against Dallas."
             }
         ],
         "team_stats": {
@@ -94,18 +86,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "22",
                 "FG": "2",
-                "FGA": "18",
+                "FGA": "17",
                 "FG%": "2",
                 "3P": "11",
                 "3PA": "16",
                 "3P%": "3",
-                "2P": "5",
+                "2P": "4",
                 "2PA": "14",
-                "2P%": "5",
-                "FT": "14",
-                "FTA": "19",
+                "2P%": "6",
+                "FT": "13",
+                "FTA": "18",
                 "FT%": "2",
                 "ORB": "29",
                 "DRB": "17",
@@ -113,7 +105,7 @@
                 "AST": "10",
                 "STL": "4",
                 "BLK": "1",
-                "TOV": "5",
+                "TOV": "4",
                 "PF": "19",
                 "PTS": "4"
             },
@@ -194,24 +186,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "22",
                 "FG": "3",
                 "FGA": "17",
                 "FG%": "3",
                 "3P": "23",
                 "3PA": "26",
-                "3P%": "13",
+                "3P%": "12",
                 "2P": "2",
                 "2PA": "8",
                 "2P%": "2",
                 "FT": "25",
                 "FTA": "24",
-                "FT%": "17",
+                "FT%": "16",
                 "ORB": "29",
                 "DRB": "12",
                 "TRB": "25",
-                "AST": "19",
-                "STL": "11",
+                "AST": "18",
+                "STL": "10",
                 "BLK": "19",
                 "TOV": "1",
                 "PF": "15",
@@ -248,8 +240,8 @@
                 "PW": "37",
                 "PL": "14",
                 "MOV": "7.75",
-                "SOS": "0.03",
-                "SRS": "7.77",
+                "SOS": "0.01",
+                "SRS": "7.75",
                 "ORtg": "120.4",
                 "DRtg": "112.7",
                 "Pace": "99.5",
@@ -265,7 +257,7 @@
             },
             "Misc Lg Rank": {
                 "W": "4",
-                "L": "25",
+                "L": "26",
                 "PW": "2",
                 "PL": "2",
                 "MOV": "2",
@@ -286,6 +278,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202312151/tlogo/bbr/OKC-2024.png",
-        "last_update": "Feb 10 2024 02:55:21"
+        "last_update": "Feb 10 2024 17:18:46"
     }
 }

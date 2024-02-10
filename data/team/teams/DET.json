@@ -11,28 +11,40 @@
             "Ausar Thompson",
             "Jaden Ivey",
             "Marcus Sasser",
-            "Alec Burks",
-            "Killian Hayes",
             "Cade Cunningham",
             "Jalen Duren",
             "Isaiah Stewart",
             "James Wiseman",
-            "Kevin Knox",
-            "Bojan Bogdanović",
             "Stanley Umude",
-            "Joe Harris",
             "Mike Muscala",
-            "Danilo Gallinari",
-            "Monte Morris",
             "Jared Rhoden",
-            "Malcolm Cazalon"
+            "Malcolm Cazalon",
+            "Ryan Arcidiacono",
+            "Shake Milton",
+            "Troy Brown Jr.",
+            "Simone Fontecchio",
+            "Evan Fournier",
+            "Quentin Grimes",
+            "Malachi Flynn"
         ],
         "injuries": [
+            {
+                "Player": "Cade Cunningham",
+                "Team": "Detroit Pistons",
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Knee) - Cunningham is Probable for Saturday's (Feb. 10) game against Los Angeles."
+            },
             {
                 "Player": "Isaiah Stewart",
                 "Team": "Detroit Pistons",
                 "Update": "Thu, Feb 1, 2024",
                 "Description": "Out (Ankle) - Stewart is expected to missed 10-14 days with an ankle sprain."
+            },
+            {
+                "Player": "Ausar Thompson",
+                "Team": "Detroit Pistons",
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Ankle) - Thompson is Probable for Saturday's (Feb. 10) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -88,9 +100,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "23",
                 "FG": "19",
-                "FGA": "21",
+                "FGA": "20",
                 "FG%": "15",
                 "3P": "28",
                 "3PA": "29",
@@ -102,7 +114,7 @@
                 "FTA": "15",
                 "FT%": "16",
                 "ORB": "10",
-                "DRB": "21",
+                "DRB": "20",
                 "TRB": "15",
                 "AST": "16",
                 "STL": "30",
@@ -188,8 +200,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
-                "FG": "25",
+                "MP": "23",
+                "FG": "26",
                 "FGA": "19",
                 "FG%": "26",
                 "3P": "7",
@@ -200,13 +212,13 @@
                 "2P%": "21",
                 "FT": "30",
                 "FTA": "29",
-                "FT%": "29",
+                "FT%": "30",
                 "ORB": "4",
                 "DRB": "13",
-                "TRB": "9",
+                "TRB": "10",
                 "AST": "16",
                 "STL": "30",
-                "BLK": "27",
+                "BLK": "26",
                 "TOV": "30",
                 "PF": "19",
                 "PTS": "27"
@@ -242,8 +254,8 @@
                 "PW": "13",
                 "PL": "38",
                 "MOV": "-8.96",
-                "SOS": "0.03",
-                "SRS": "-8.93",
+                "SOS": "0.06",
+                "SRS": "-8.90",
                 "ORtg": "112.4",
                 "DRtg": "121.3",
                 "Pace": "100.2",
@@ -261,7 +273,7 @@
                 "W": "30",
                 "L": "1",
                 "PW": "28",
-                "PL": "28",
+                "PL": "27",
                 "MOV": "28",
                 "SOS": "18",
                 "SRS": "28",
@@ -270,16 +282,16 @@
                 "Pace": "7",
                 "FTr": "15",
                 "3PAr": "30",
-                "eFG%": "23",
-                "TOV%": "29",
-                "ORB%": "11",
+                "eFG%": "24",
+                "TOV%": "30",
+                "ORB%": "12",
                 "FT/FGA": "30",
-                "DRB%": "8",
+                "DRB%": "9",
                 "Arena": "",
                 "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png",
-        "last_update": "Feb 10 2024 02:15:38"
+        "last_update": "Feb 10 2024 17:18:46"
     }
 }

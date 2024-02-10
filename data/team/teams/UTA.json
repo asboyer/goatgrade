@@ -9,9 +9,6 @@
         },
         "players": [
             "Collin Sexton",
-            "Ochai Agbaji",
-            "Simone Fontecchio",
-            "Kelly Olynyk",
             "John Collins",
             "Keyonte George",
             "Walker Kessler",
@@ -23,16 +20,19 @@
             "Luka Šamanić",
             "Taylor Hendricks",
             "Brice Sensabaugh",
-            "Johnny Juzang",
             "Micah Potter",
-            "Jason Preston"
+            "Johnny Juzang",
+            "Jason Preston",
+            "Kevin Knox",
+            "Otto Porter Jr.",
+            "Kira Lewis Jr."
         ],
         "injuries": [
             {
                 "Player": "Brice Sensabaugh",
                 "Team": "Utah Jazz",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Out (Hip) - Sensabaugh is out for Thursday's (Feb. 8) game against Phoenix."
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Hip) - Sensabaugh did not play in Thursday's (Feb. 8) game against Phoenix."
             }
         ],
         "team_stats": {
@@ -88,7 +88,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "15",
                 "FGA": "8",
                 "FG%": "19",
@@ -108,7 +108,7 @@
                 "STL": "25",
                 "BLK": "4",
                 "TOV": "30",
-                "PF": "15",
+                "PF": "14",
                 "PTS": "11"
             },
             "Year/Year": {
@@ -188,16 +188,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
-                "FG": "24",
+                "MP": "2",
+                "FG": "25",
                 "FGA": "26",
                 "FG%": "20",
                 "3P": "28",
                 "3PA": "25",
                 "3P%": "27",
                 "2P": "20",
-                "2PA": "21",
-                "2P%": "14",
+                "2PA": "22",
+                "2P%": "15",
                 "FT": "7",
                 "FTA": "9",
                 "FT%": "8",
@@ -209,7 +209,7 @@
                 "BLK": "30",
                 "TOV": "25",
                 "PF": "7",
-                "PTS": "23"
+                "PTS": "24"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -242,8 +242,8 @@
                 "PW": "23",
                 "PL": "30",
                 "MOV": "-2.06",
-                "SOS": "0.37",
-                "SRS": "-1.69",
+                "SOS": "0.36",
+                "SRS": "-1.70",
                 "ORtg": "116.9",
                 "DRtg": "118.9",
                 "Pace": "99.8",
@@ -259,7 +259,7 @@
             },
             "Misc Lg Rank": {
                 "W": "18",
-                "L": "10",
+                "L": "11",
                 "PW": "21",
                 "PL": "23",
                 "MOV": "22",
@@ -274,12 +274,12 @@
                 "TOV%": "27",
                 "ORB%": "2",
                 "FT/FGA": "6",
-                "DRB%": "16",
+                "DRB%": "17",
                 "Arena": "",
                 "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2024.png",
-        "last_update": "Feb 10 2024 02:55:21"
+        "last_update": "Feb 10 2024 17:18:46"
     }
 }

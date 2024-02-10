@@ -18,7 +18,6 @@
             "Moses Moody",
             "Trayce Jackson-Davis",
             "Chris Paul",
-            "Cory Joseph",
             "Draymond Green",
             "Gary Payton II",
             "Lester Quinones",
@@ -38,12 +37,6 @@
                 "Team": "Golden State Warriors",
                 "Update": "Mon, Jan 22, 2024",
                 "Description": "Out (Hamstring) - Payton II will be re-evaluated in 2 weeks due to a left hamstring strain, per Warriors PR"
-            },
-            {
-                "Player": "Klay Thompson",
-                "Team": "Golden State Warriors",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Day To Day (Illness) - Thompson did not play in Thursday's (Feb. 8) game against Indiana."
             }
         ],
         "team_stats": {
@@ -100,7 +93,7 @@
             "Lg Rank": {
                 "G": "",
                 "MP": "30",
-                "FG": "8",
+                "FG": "9",
                 "FGA": "3",
                 "FG%": "17",
                 "3P": "4",
@@ -109,8 +102,8 @@
                 "2P": "24",
                 "2PA": "24",
                 "2P%": "15",
-                "FT": "16",
-                "FTA": "17",
+                "FT": "17",
+                "FTA": "16",
                 "FT%": "11",
                 "ORB": "4",
                 "DRB": "7",
@@ -201,7 +194,7 @@
                 "G": "",
                 "MP": "30",
                 "FG": "17",
-                "FGA": "22",
+                "FGA": "23",
                 "FG%": "13",
                 "3P": "15",
                 "3PA": "23",
@@ -209,18 +202,18 @@
                 "2P": "18",
                 "2PA": "14",
                 "2P%": "17",
-                "FT": "27",
+                "FT": "26",
                 "FTA": "26",
                 "FT%": "23",
-                "ORB": "17",
+                "ORB": "18",
                 "DRB": "9",
                 "TRB": "11",
                 "AST": "13",
                 "STL": "22",
-                "BLK": "9",
+                "BLK": "8",
                 "TOV": "24",
                 "PF": "13",
-                "PTS": "20"
+                "PTS": "21"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -253,8 +246,8 @@
                 "PW": "26",
                 "PL": "23",
                 "MOV": "1.24",
-                "SOS": "0.89",
-                "SRS": "2.13",
+                "SOS": "0.90",
+                "SRS": "2.14",
                 "ORtg": "118.4",
                 "DRtg": "117.2",
                 "Pace": "99.4",
@@ -271,18 +264,18 @@
             "Misc Lg Rank": {
                 "W": "20",
                 "L": "14",
-                "PW": "16",
+                "PW": "17",
                 "PL": "12",
                 "MOV": "13",
                 "SOS": "2",
                 "SRS": "11",
                 "ORtg": "11",
-                "DRtg": "19",
+                "DRtg": "20",
                 "Pace": "12",
                 "FTr": "18",
                 "3PAr": "5",
                 "eFG%": "13",
-                "TOV%": "24",
+                "TOV%": "25",
                 "ORB%": "4",
                 "FT/FGA": "25",
                 "DRB%": "14",
@@ -291,6 +284,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png",
-        "last_update": "Feb 10 2024 02:15:38"
+        "last_update": "Feb 10 2024 17:18:46"
     }
 }

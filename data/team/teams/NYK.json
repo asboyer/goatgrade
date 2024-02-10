@@ -13,18 +13,15 @@
             "Isaiah Hartenstein",
             "Jalen Brunson",
             "Julius Randle",
-            "Quentin Grimes",
             "Miles McBride",
             "Jericho Sims",
             "Mitchell Robinson",
             "Precious Achiuwa",
-            "Ryan Arcidiacono",
             "OG Anunoby",
-            "Malachi Flynn",
-            "Taj Gibson",
             "Charlie Brown Jr.",
             "Jacob Toppin",
-            "Evan Fournier",
+            "Alec Burks",
+            "Bojan Bogdanović",
             "Duane Washington Jr."
         ],
         "injuries": [
@@ -35,16 +32,16 @@
                 "Description": "Out (Elbow) - Anunoby underwent elbow surgery and is expected to miss at least 3 weeks."
             },
             {
-                "Player": "Bojan Bogdanović",
-                "Team": "New York Knicks",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Day To Day (Calf) - Bogdanovic did not play in Wednesday's (Feb. 7) game against Sacramento."
-            },
-            {
                 "Player": "Jalen Brunson",
                 "Team": "New York Knicks",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Day To Day (Ankle) - Brunson did not play in Thursday's (Feb. 8) game against Dallas."
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Ankle) - Brunson is Questionable for Saturday's (Feb. 10) game against Indiana."
+            },
+            {
+                "Player": "Isaiah Hartenstein",
+                "Team": "New York Knicks",
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Out (Achilles) - Hartenstein is OUT for Saturday's (Feb. 10) game against Indiana."
             },
             {
                 "Player": "Julius Randle",
@@ -61,8 +58,8 @@
             {
                 "Player": "Jericho Sims",
                 "Team": "New York Knicks",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Day To Day (Illness) - Sims did not play in Thursday's (Feb. 8) game against Dallas."
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Illness) - Sims is Questionable for Saturday's (Feb. 10) game against Indiana."
             }
         ],
         "team_stats": {
@@ -118,17 +115,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "17",
                 "FG": "22",
-                "FGA": "15",
+                "FGA": "16",
                 "FG%": "21",
                 "3P": "14",
                 "3PA": "13",
                 "3P%": "14",
-                "2P": "22",
+                "2P": "21",
                 "2PA": "19",
                 "2P%": "23",
-                "FT": "13",
+                "FT": "12",
                 "FTA": "12",
                 "FT%": "12",
                 "ORB": "3",
@@ -218,12 +215,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
-                "FG": "8",
+                "MP": "17",
+                "FG": "7",
                 "FGA": "4",
-                "FG%": "10",
+                "FG%": "9",
                 "3P": "13",
-                "3PA": "16",
+                "3PA": "15",
                 "3P%": "15",
                 "2P": "7",
                 "2PA": "4",
@@ -273,7 +270,7 @@
                 "PL": "17",
                 "MOV": "5.46",
                 "SOS": "-0.61",
-                "SRS": "4.85",
+                "SRS": "4.86",
                 "ORtg": "119.0",
                 "DRtg": "113.3",
                 "Pace": "96.7",
@@ -288,20 +285,20 @@
                 "Attendance": "512,214"
             },
             "Misc Lg Rank": {
-                "W": "7",
+                "W": "8",
                 "L": "23",
                 "PW": "4",
                 "PL": "6",
                 "MOV": "6",
-                "SOS": "25",
-                "SRS": "5",
-                "ORtg": "7",
+                "SOS": "24",
+                "SRS": "6",
+                "ORtg": "8",
                 "DRtg": "7",
                 "Pace": "28",
                 "FTr": "13",
                 "3PAr": "12",
                 "eFG%": "12",
-                "TOV%": "19",
+                "TOV%": "20",
                 "ORB%": "1",
                 "FT/FGA": "4",
                 "DRB%": "7",
@@ -310,6 +307,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png",
-        "last_update": "Feb 10 2024 02:55:21"
+        "last_update": "Feb 10 2024 17:18:46"
     }
 }

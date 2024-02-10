@@ -15,7 +15,6 @@
             "Tre Jones",
             "Malaki Branham",
             "Victor Wembanyama",
-            "Doug McDermott",
             "Julian Champagnie",
             "Zach Collins",
             "Blake Wesley",
@@ -25,7 +24,8 @@
             "Devonte' Graham",
             "Sidy Cissoko",
             "Mamadi Diakite",
-            "David Duke Jr."
+            "David Duke Jr.",
+            "Marcus Morris"
         ],
         "injuries": [
             {
@@ -37,8 +37,8 @@
             {
                 "Player": "Marcus Morris",
                 "Team": "San Antonio Spurs",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Day To Day (Foot) - Morris Sr. did not play in Wednesday's (Feb. 7) game against Golden State."
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Out (Foot) - Morris Sr. is OUT for Saturday's (Feb. 10) game against Brooklyn."
             }
         ],
         "team_stats": {
@@ -94,9 +94,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "13",
                 "FG": "20",
-                "FGA": "5",
+                "FGA": "6",
                 "FG%": "26",
                 "3P": "16",
                 "3PA": "11",
@@ -108,10 +108,10 @@
                 "FTA": "29",
                 "FT%": "15",
                 "ORB": "21",
-                "DRB": "13",
-                "TRB": "16",
+                "DRB": "12",
+                "TRB": "17",
                 "AST": "3",
-                "STL": "20",
+                "STL": "21",
                 "BLK": "5",
                 "TOV": "26",
                 "PF": "4",
@@ -194,19 +194,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "13",
                 "FG": "27",
-                "FGA": "25",
+                "FGA": "24",
                 "FG%": "24",
                 "3P": "24",
                 "3PA": "18",
                 "3P%": "26",
                 "2P": "24",
                 "2PA": "26",
-                "2P%": "22",
+                "2P%": "23",
                 "FT": "13",
-                "FTA": "16",
-                "FT%": "10",
+                "FTA": "15",
+                "FT%": "9",
                 "ORB": "19",
                 "DRB": "27",
                 "TRB": "29",
@@ -248,8 +248,8 @@
                 "PW": "13",
                 "PL": "39",
                 "MOV": "-8.73",
-                "SOS": "0.45",
-                "SRS": "-8.28",
+                "SOS": "0.44",
+                "SRS": "-8.29",
                 "ORtg": "110.0",
                 "DRtg": "118.6",
                 "Pace": "101.5",
@@ -271,21 +271,21 @@
                 "MOV": "27",
                 "SOS": "4",
                 "SRS": "27",
-                "ORtg": "28",
+                "ORtg": "27",
                 "DRtg": "24",
                 "Pace": "3",
                 "FTr": "29",
                 "3PAr": "11",
-                "eFG%": "27",
+                "eFG%": "28",
                 "TOV%": "22",
                 "ORB%": "23",
                 "FT/FGA": "9",
-                "DRB%": "21",
+                "DRB%": "20",
                 "Arena": "",
                 "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png",
-        "last_update": "Feb 10 2024 02:55:21"
+        "last_update": "Feb 10 2024 17:18:46"
     }
 }

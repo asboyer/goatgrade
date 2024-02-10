@@ -9,8 +9,6 @@
         },
         "players": [
             "Mikal Bridges",
-            "Royce O'Neale",
-            "Spencer Dinwiddie",
             "Cam Thomas",
             "Dorian Finney-Smith",
             "Nic Claxton",
@@ -19,25 +17,21 @@
             "Trendon Watford",
             "Dennis Smith Jr.",
             "Lonnie Walker IV",
-            "Harry Giles",
             "Jalen Wilson",
             "Ben Simmons",
             "Noah Clowney",
             "Keon Johnson",
-            "Dariq Whitehead"
+            "Dariq Whitehead",
+            "Dennis Schröder",
+            "Keita Bates-Diop",
+            "Jordan Goodwin"
         ],
         "injuries": [
             {
-                "Player": "Dorian Finney-Smith",
-                "Team": "Brooklyn Nets",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Day To Day (Ankle) - Finney-Smith did not play in Thursday's (Feb. 8) game against Cleveland."
-            },
-            {
                 "Player": "Cameron Johnson",
                 "Team": "Brooklyn Nets",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Day To Day (Adductor) - Johnson did not play in Thursday's (Feb. 8) game against Cleveland."
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Out (Adductor) - Johnson is OUT for Saturday's (Feb. 10) game against San Antonio."
             },
             {
                 "Player": "Dariq Whitehead",
@@ -54,8 +48,8 @@
             {
                 "Player": "Lonnie Walker IV",
                 "Team": "Brooklyn Nets",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Day To Day (Hamstring) - Walker IV did not play in Thursday's (Feb. 8) game against Cleveland."
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Hamstring) - Walker IV is Probable for Saturday's (Feb. 10) game against San Antonio."
             }
         ],
         "team_stats": {
@@ -111,11 +105,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "23",
                 "FG": "21",
                 "FGA": "4",
                 "FG%": "27",
-                "3P": "6",
+                "3P": "7",
                 "3PA": "7",
                 "3P%": "16",
                 "2P": "25",
@@ -125,12 +119,12 @@
                 "FTA": "23",
                 "FT%": "25",
                 "ORB": "5",
-                "DRB": "14",
-                "TRB": "8",
+                "DRB": "13",
+                "TRB": "7",
                 "AST": "14",
                 "STL": "22",
-                "BLK": "12",
-                "TOV": "5",
+                "BLK": "11",
+                "TOV": "4",
                 "PF": "13",
                 "PTS": "20"
             },
@@ -211,16 +205,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "23",
                 "FG": "15",
                 "FGA": "16",
                 "FG%": "11",
                 "3P": "20",
                 "3PA": "17",
                 "3P%": "25",
-                "2P": "10",
+                "2P": "11",
                 "2PA": "13",
-                "2P%": "6",
+                "2P%": "5",
                 "FT": "19",
                 "FTA": "13",
                 "FT%": "28",
@@ -229,9 +223,9 @@
                 "TRB": "24",
                 "AST": "8",
                 "STL": "3",
-                "BLK": "14",
+                "BLK": "15",
                 "TOV": "26",
-                "PF": "28",
+                "PF": "29",
                 "PTS": "16"
             },
             "Opp Year/Year": {
@@ -265,7 +259,7 @@
                 "PW": "23",
                 "PL": "28",
                 "MOV": "-1.67",
-                "SOS": "0.25",
+                "SOS": "0.24",
                 "SRS": "-1.42",
                 "ORtg": "115.4",
                 "DRtg": "117.1",
@@ -286,23 +280,23 @@
                 "PW": "22",
                 "PL": "20",
                 "MOV": "21",
-                "SOS": "11",
+                "SOS": "10",
                 "SRS": "20",
                 "ORtg": "18",
-                "DRtg": "18",
+                "DRtg": "19",
                 "Pace": "23",
-                "FTr": "25",
+                "FTr": "26",
                 "3PAr": "8",
                 "eFG%": "14",
-                "TOV%": "25",
+                "TOV%": "26",
                 "ORB%": "7",
                 "FT/FGA": "18",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png",
-        "last_update": "Feb 10 2024 02:15:38"
+        "last_update": "Feb 10 2024 17:18:46"
     }
 }

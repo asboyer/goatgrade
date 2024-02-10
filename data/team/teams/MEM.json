@@ -9,14 +9,12 @@
         },
         "players": [
             "Jaren Jackson Jr.",
-            "David Roddy",
             "Ziaire Williams",
             "John Konchar",
             "Santi Aldama",
             "Vince Williams Jr.",
             "Desmond Bane",
             "Jacob Gilyard",
-            "Xavier Tillman Sr.",
             "Luke Kennard",
             "Marcus Smart",
             "GG Jackson II",
@@ -24,11 +22,10 @@
             "Jake LaRavia",
             "Ja Morant",
             "Scotty Pippen Jr.",
-            "Trey Jemison",
-            "Tosan Evbuomwan",
-            "Matthew Hurt",
-            "Brandon Clarke",
-            "Victor Oladipo"
+            "Lamar Stevens",
+            "Yuta Watanabe",
+            "Chimezie Metu",
+            "Brandon Clarke"
         ],
         "injuries": [
             {
@@ -42,12 +39,6 @@
                 "Team": "Memphis Grizzlies",
                 "Update": "Wed, Dec 20, 2023",
                 "Description": "Out (Achilles) - Clarke said he expects to make his season debut around the NBA All-Star break."
-            },
-            {
-                "Player": "Luke Kennard",
-                "Team": "Memphis Grizzlies",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Day To Day (Illness) - Kennard did not play in Thurday's (Feb. 8) game against Chicago."
             },
             {
                 "Player": "Jake LaRavia",
@@ -64,8 +55,8 @@
             {
                 "Player": "Derrick Rose",
                 "Team": "Memphis Grizzlies",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Day To Day (Ankle) - Rose did not play in Thursday's (Feb. 8) game against Chicago."
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Ankle) - Rose is Questionable for Saturday's (Feb. 10) game against Charlotte."
             },
             {
                 "Player": "Marcus Smart",
@@ -76,8 +67,8 @@
             {
                 "Player": "Ziaire Williams",
                 "Team": "Memphis Grizzlies",
-                "Update": "Thu, Feb 8, 2024",
-                "Description": "Day To Day (Hand) - Williams did not play in Thursday's (Feb. 8) game against Chicago."
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Hand) - Williams is Doubtful for Saturday's (Feb. 10) game against Charlotte."
             }
         ],
         "team_stats": {
@@ -133,23 +124,23 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "13",
                 "FG": "30",
                 "FGA": "23",
                 "FG%": "30",
                 "3P": "8",
                 "3PA": "5",
-                "3P%": "27",
+                "3P%": "28",
                 "2P": "30",
                 "2PA": "28",
                 "2P%": "29",
                 "FT": "27",
                 "FTA": "26",
-                "FT%": "22",
+                "FT%": "23",
                 "ORB": "22",
                 "DRB": "25",
                 "TRB": "24",
-                "AST": "24",
+                "AST": "23",
                 "STL": "13",
                 "BLK": "3",
                 "TOV": "24",
@@ -233,18 +224,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "13",
                 "FG": "11",
                 "FGA": "4",
                 "FG%": "16",
-                "3P": "18",
+                "3P": "17",
                 "3PA": "13",
                 "3P%": "24",
                 "2P": "8",
                 "2PA": "7",
                 "2P%": "8",
                 "FT": "15",
-                "FTA": "15",
+                "FTA": "14",
                 "FT%": "19",
                 "ORB": "12",
                 "DRB": "29",
@@ -287,8 +278,8 @@
                 "PW": "16",
                 "PL": "36",
                 "MOV": "-6.25",
-                "SOS": "0.99",
-                "SRS": "-5.26",
+                "SOS": "0.97",
+                "SRS": "-5.28",
                 "ORtg": "107.9",
                 "DRtg": "114.2",
                 "Pace": "98.8",
@@ -303,7 +294,7 @@
                 "Attendance": "400,484"
             },
             "Misc Lg Rank": {
-                "W": "24",
+                "W": "25",
                 "L": "6",
                 "PW": "25",
                 "PL": "25",
@@ -315,16 +306,16 @@
                 "Pace": "14",
                 "FTr": "23",
                 "3PAr": "3",
-                "eFG%": "17",
+                "eFG%": "16",
                 "TOV%": "3",
                 "ORB%": "26",
-                "FT/FGA": "19",
+                "FT/FGA": "20",
                 "DRB%": "18",
                 "Arena": "",
                 "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png",
-        "last_update": "Feb 10 2024 02:15:38"
+        "last_update": "Feb 10 2024 17:18:46"
     }
 }

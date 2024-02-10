@@ -9,7 +9,6 @@
         },
         "players": [
             "Obi Toppin",
-            "Buddy Hield",
             "Myles Turner",
             "Bennedict Mathurin",
             "Aaron Nesmith",
@@ -24,9 +23,23 @@
             "Oscar Tshiebwe",
             "Kendall Brown",
             "James Johnson",
+            "Doug McDermott",
             "Isaiah Wong"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Tyrese Haliburton",
+                "Team": "Indiana Pacers",
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Hamstring) - Haliburton is Questionable for Saturday's (Feb. 10) game against New York."
+            },
+            {
+                "Player": "Jalen Smith",
+                "Team": "Indiana Pacers",
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Back) - Smith is Questionable for Saturday's (Feb. 10) game against New York."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "53",
@@ -80,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "4",
                 "FG": "1",
                 "FGA": "2",
                 "FG%": "1",
@@ -93,9 +106,9 @@
                 "FT": "22",
                 "FTA": "22",
                 "FT%": "13",
-                "ORB": "20",
-                "DRB": "28",
-                "TRB": "28",
+                "ORB": "19",
+                "DRB": "29",
+                "TRB": "29",
                 "AST": "1",
                 "STL": "8",
                 "BLK": "8",
@@ -180,10 +193,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "4",
                 "FG": "28",
                 "FGA": "18",
-                "FG%": "28",
+                "FG%": "29",
                 "3P": "1",
                 "3PA": "1",
                 "3P%": "21",
@@ -193,11 +206,11 @@
                 "FT": "29",
                 "FTA": "30",
                 "FT%": "21",
-                "ORB": "23",
+                "ORB": "22",
                 "DRB": "8",
-                "TRB": "12",
-                "AST": "6",
-                "STL": "10",
+                "TRB": "13",
+                "AST": "5",
+                "STL": "9",
                 "BLK": "25",
                 "TOV": "9",
                 "PF": "22",
@@ -234,8 +247,8 @@
                 "PW": "29",
                 "PL": "24",
                 "MOV": "1.38",
-                "SOS": "-0.21",
-                "SRS": "1.17",
+                "SOS": "-0.20",
+                "SRS": "1.18",
                 "ORtg": "121.2",
                 "DRtg": "119.8",
                 "Pace": "102.4",
@@ -250,13 +263,13 @@
                 "Attendance": "457,983"
             },
             "Misc Lg Rank": {
-                "W": "12",
+                "W": "13",
                 "L": "15",
                 "PW": "12",
-                "PL": "14",
+                "PL": "15",
                 "MOV": "12",
-                "SOS": "22",
-                "SRS": "14",
+                "SOS": "23",
+                "SRS": "13",
                 "ORtg": "2",
                 "DRtg": "26",
                 "Pace": "2",
@@ -268,10 +281,10 @@
                 "FT/FGA": "29",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png",
-        "last_update": "Feb 10 2024 02:15:38"
+        "last_update": "Feb 10 2024 17:18:46"
     }
 }

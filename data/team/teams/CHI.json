@@ -34,10 +34,28 @@
                 "Description": "Out For Season (Knee) - Ball will miss the 2023-24 season while recovering from surgery."
             },
             {
+                "Player": "Alex Caruso",
+                "Team": "Chicago Bulls",
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Adductor) - Caruso is Probable for Saturday's (Feb. 10) game against Orlando."
+            },
+            {
+                "Player": "Torrey Craig",
+                "Team": "Chicago Bulls",
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Ankle) - Craig is Probable for Saturday's (Feb. 10) game against Orlando."
+            },
+            {
                 "Player": "Zach LaVine",
                 "Team": "Chicago Bulls",
                 "Update": "Sat, Feb 3, 2024",
                 "Description": "Out For Season (Ankle) - The Chicago Bulls announced guard Zach LaVine will undergo surgery on right foot and be out the rest of the season. via @AdamSchefter on X."
+            },
+            {
+                "Player": "Coby White",
+                "Team": "Chicago Bulls",
+                "Update": "Fri, Feb 9, 2024",
+                "Description": "Day To Day (Ankle) - White is Probable for Saturday's (Feb. 10) game against Orlando."
             },
             {
                 "Player": "Patrick Williams",
@@ -99,10 +117,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "6",
                 "FG": "24",
-                "FGA": "19",
-                "FG%": "22",
+                "FGA": "18",
+                "FG%": "23",
                 "3P": "25",
                 "3PA": "22",
                 "3P%": "23",
@@ -112,13 +130,13 @@
                 "FT": "20",
                 "FTA": "24",
                 "FT%": "10",
-                "ORB": "12",
+                "ORB": "11",
                 "DRB": "19",
                 "TRB": "13",
                 "AST": "28",
-                "STL": "12",
+                "STL": "11",
                 "BLK": "14",
-                "TOV": "4",
+                "TOV": "3",
                 "PF": "12",
                 "PTS": "25"
             },
@@ -199,12 +217,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "6",
                 "FG": "5",
                 "FGA": "3",
                 "FG%": "12",
                 "3P": "30",
-                "3PA": "29",
+                "3PA": "30",
                 "3P%": "17",
                 "2P": "1",
                 "2PA": "1",
@@ -220,7 +238,7 @@
                 "BLK": "10",
                 "TOV": "8",
                 "PF": "20",
-                "PTS": "11"
+                "PTS": "10"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -253,8 +271,8 @@
                 "PW": "24",
                 "PL": "28",
                 "MOV": "-1.23",
-                "SOS": "-0.79",
-                "SRS": "-2.02",
+                "SOS": "-0.81",
+                "SRS": "-2.04",
                 "ORtg": "114.1",
                 "DRtg": "115.4",
                 "Pace": "96.4",
@@ -270,7 +288,7 @@
             },
             "Misc Lg Rank": {
                 "W": "19",
-                "L": "10",
+                "L": "11",
                 "PW": "20",
                 "PL": "19",
                 "MOV": "20",
@@ -280,17 +298,17 @@
                 "DRtg": "15",
                 "Pace": "30",
                 "FTr": "22",
-                "3PAr": "23",
+                "3PAr": "22",
                 "eFG%": "19",
                 "TOV%": "5",
                 "ORB%": "17",
-                "FT/FGA": "15",
+                "FT/FGA": "14",
                 "DRB%": "10",
                 "Arena": "",
                 "Attendance": "1"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png",
-        "last_update": "Feb 10 2024 02:15:38"
+        "last_update": "Feb 10 2024 17:18:46"
     }
 }
