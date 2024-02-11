@@ -127,7 +127,7 @@ def grade_players(year, date_string,
         if sorted_players[player]["change"] > 0:
             sorted_players[player]["change"] = f'+{sorted_players[player]["change"]}'
         elif sorted_players[player]["change"] < 0:
-            sorted_players[player]["change"] = f'-{sorted_players[player]["change"]}'
+            sorted_players[player]["change"] = f'{sorted_players[player]["change"]}'
         else:
             sorted_players[player]["change"] = f'{sorted_players[player]["change"]}'
 
