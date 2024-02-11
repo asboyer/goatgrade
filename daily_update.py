@@ -57,6 +57,7 @@ def update_internal_info():
 
         data[team]["stats"] = t[team]["team_stats"]
         data[team]["info"] = t[team]["info"]
+        data[team]["last_update"] = t[team]["last_update"]
 
     f = open(player_stats_path.format(date_string), 'r')
     players = json.load(f)
@@ -73,7 +74,11 @@ def update_internal_info():
         file.write(json.dumps(data, ensure_ascii=False, indent=4))
 
 if __name__ == "__main__":
-    update_teams()
-    # ranks = grade.grade_team(2024, date_string)
-    # with open(f"data/team/grades/{date_string}.json", "w+", encoding="utf8") as file:
+
+    # ranks = grade.grade_players(2024, date_string)
+    # with open(f"data/stat/players/grades/{date_string}.json", "w+", encoding="utf8") as file:
     #     file.write(json.dumps(ranks, ensure_ascii=False, indent=4))
+    # update_internal_info()
+    ranks = grade.grade_team(2024, date_string)
+    with open(f"data/team/grades/{date_string}.json", "w+", encoding="utf8") as file:
+        file.write(json.dumps(ranks, ensure_ascii=False, indent=4))

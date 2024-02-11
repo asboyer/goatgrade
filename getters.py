@@ -23,6 +23,10 @@ def get_player_stats(date_string, categories):
         stats[player]["id"] = data[player]["id"]
         stats[player]["img"] = data[player]["img"]
         stats[player]["name"] = data[player]["Player"]
+        stats[player]["last_update"] = data[player]["last_update"]
+        stats[player]["age"] = data[player]["Age"]
+        stats[player]["pos"] = data[player]["Pos"]
+        stats[player]["link"] = data[player]["link"]
         if isinstance(data[player]["Tm"], list):
             team = data[player]["Tm"][-1]
         else:
@@ -54,7 +58,8 @@ def get_team_stats(date_string, categories):
             "img": data[team]["img"],
             "Players": data[team]["roster"],
             "stat_ranks": stat_ranks,
-            'standing': data[team]["info"]["standing"]
+            'standing': data[team]["info"]["standing"],
+            "last_update": data[team]["last_update"]
         }
 
         stats[team] = j
@@ -67,6 +72,28 @@ def get_grades(date_string):
     f.close()
 
     return data
+
+def get_team_stats_quick(date_string):
+    f = open(write_file_path.format(date_string), 'r')
+    data = json.load(f)
+    f.close()
+    
+    stats = {}  
+
+    for team in data:
+        j = {
+            "Tm": team,
+            "RRK": data[team]["standings"]["Rk"],
+            "Name": data[team]["standings"]["Team"],
+            "img": data[team]["img"],
+            'standing': data[team]["info"]["standing"],
+            "last_update": data[team]["last_update"]
+        }
+
+        stats[team] = j
+
+    return stats
+
 
 def get_grades_team(date_string):
     f = open(team_grades_path.format(date_string), 'r')

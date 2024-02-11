@@ -92,9 +92,22 @@ def grade_players(year, date_string,
         new_ranks[player]["games_played"] = int(stats[player]["G"])
         new_ranks[player]["team"] = stats[player]["team"] 
         new_ranks[player]["img"] = stats[player]["img"] 
-        new_ranks[player]["id"] = stats[player]["id"] 
+        new_ranks[player]["id"] = stats[player]["id"]
+        new_ranks[player]["age"] = stats[player]["age"]
+        new_ranks[player]["pos"] = stats[player]["pos"]
+        new_ranks[player]["link"] = stats[player]["link"]
+        new_ranks[player]["last_update"] = stats[player]["last_update"] 
 
     sorted_players = {k: v for k, v in sorted(new_ranks.items(), key=lambda item: item[1]['grade'], reverse=True)}
+    
+    team_stats = getters.get_team_stats_quick(date_string)
+
+    for player in sorted_players:
+        team = sorted_players[player]["team"]
+        sorted_players[player]["team_standing_string"] = team_stats[team]["standing"]
+        sorted_players[player]["team_league_ranking"] = team_stats[team]["RRK"]
+        sorted_players[player]["team_name"] = team_stats[team]["Name"]
+        sorted_players[player]["team_img"] = team_stats[team]["img"]
 
     placement = 1
     for player in sorted_players:
@@ -167,6 +180,8 @@ def grade_team(year, date_string,
 
         f[team]["avg_grade"] = grade_avg
         f[team]['score'] = grade
+        f[team]['last_update'] = stats[team]["last_update"]
+        f[team]['link'] = "https://www.basketball-reference.com/teams/{}/{}.html".format(year, team)
 
     sorted_teams = {k: v for k, v in sorted(f.items(), key=lambda item: item[1]['score'], reverse=True)}
    
@@ -189,7 +204,7 @@ def grade_team(year, date_string,
         if sorted_players[player]["change"] > 0:
             sorted_players[player]["change"] = f'+{sorted_players[player]["change"]}'
         elif sorted_players[player]["change"] < 0:
-            sorted_players[player]["change"] = f'-{sorted_players[player]["change"]}'
+            sorted_players[player]["change"] = f'{sorted_players[player]["change"]}'
         else:
             sorted_players[player]["change"] = f'{sorted_players[player]["change"]}'
 
