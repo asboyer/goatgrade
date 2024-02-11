@@ -48,7 +48,7 @@ def get_team_grades():
         }
         r.append(j)
 
-    return r
+    return jsonpickle.encode(r)
     
 @app.route("/player/grades")
 def get_player_grades():
@@ -69,7 +69,7 @@ def get_player_grades():
         j = data[player]
         r.append(j)
 
-    return r
+    return jsonpickle.encode(r)
 
 
 
