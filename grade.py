@@ -124,13 +124,6 @@ def grade_players(year, date_string,
         except:
             sorted_players[player]["change"] = 0
 
-        if sorted_players[player]["change"] > 0:
-            sorted_players[player]["change"] = f'+{sorted_players[player]["change"]}'
-        elif sorted_players[player]["change"] < 0:
-            sorted_players[player]["change"] = f'{sorted_players[player]["change"]}'
-        else:
-            sorted_players[player]["change"] = f'{sorted_players[player]["change"]}'
-
     return sorted_players
 
 def grade_team(year, date_string,
@@ -200,12 +193,5 @@ def grade_team(year, date_string,
             sorted_players[player]["change"] = yesterday_grades[player]["rank"] - sorted_players[player]["rank"]  
         except:
             sorted_players[player]["change"] = 0
-
-        if sorted_players[player]["change"] > 0:
-            sorted_players[player]["change"] = f'+{sorted_players[player]["change"]}'
-        elif sorted_players[player]["change"] < 0:
-            sorted_players[player]["change"] = f'{sorted_players[player]["change"]}'
-        else:
-            sorted_players[player]["change"] = f'{sorted_players[player]["change"]}'
 
     return sorted_players
