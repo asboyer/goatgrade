@@ -73,6 +73,13 @@ def update_internal_info():
     with open(f"data/stat/league/{date_string}.json", "w+", encoding="utf8") as file:
         file.write(json.dumps(data, ensure_ascii=False, indent=4))
 
+def update_grades_players():
+    
+
+def update_grades_teams():
+
+
+
 if __name__ == "__main__":
 
     # ranks = grade.grade_players(2024, date_string)
