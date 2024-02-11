@@ -1,4 +1,5 @@
 from flask import Flask
+from flask_cors import CORS
 import os, json
 
 import tools
@@ -14,6 +15,7 @@ player_grades_path = "data/stat/players/grades/{}.json"
 team_grades_path = "data/team/grades/{}.json"
 
 app = Flask(__name__)
+CORS(app)
 
 @app.route("/")
 def home():
