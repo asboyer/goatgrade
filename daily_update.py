@@ -15,6 +15,8 @@ write_file_path = "data/stat/league/{}.json"
 player_stats_path = "data/stat/players/stats/{}.json"
 standings_path = "data/team/standings/{}.json"
 team_path = "data/team/teams/{}.json"
+player_grades_path = "data/stat/players/grades/{}.json"
+team_grades_path = "data/team/grades/{}.json"
 
 date_string = tools.date_to_str(datetime.today())
 
@@ -72,6 +74,17 @@ def update_internal_info():
 
     with open(f"data/stat/league/{date_string}.json", "w+", encoding="utf8") as file:
         file.write(json.dumps(data, ensure_ascii=False, indent=4))
+
+def update_grades_players():
+    ranks = grade.grade_players(year, date_string)
+    with open(player_grades_path.format(date_string), "w+", encoding="utf8") as file:
+        file.write(json.dumps(ranks, ensure_ascii=False, indent=4))
+
+def update_grades_teams():
+    ranks = grade.grade_team(year, date_string)
+    with open(team_grades_path.format(date_string), "w+", encoding="utf8") as file:
+        file.write(json.dumps(ranks, ensure_ascii=False, indent=4))
+
 
 if __name__ == "__main__":
 

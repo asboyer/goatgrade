@@ -1,15 +1,13 @@
+import daily_update
+
 # scrape
-    # scrape_player
-    # scrape_stats
-    # scrape_team
+daily_update.update_players()
+daily_update.update_standings()
+daily_update.update_teams()
 
-# grade
-    # grade_player
-    # grade_team
+# internal organization
+daily_update.update_internal_info()
 
-# daily_update
-    # update_teams
-    # update_players
-    # grade_teams
-    # grade_players
-
+# grades
+daily_update.update_grades_players()
+daily_update.update_grades_teams()
