@@ -19,7 +19,7 @@ app = Flask(__name__)
 def home():
     return {'message': 'asboyer says hi!'}
 
-@app.route("/team/grades")
+@app.route("/teams")
 def get_team_grades():
     date_string = tools.date_to_str(datetime.today())
     if not os.path.isfile(team_grades_path.format(date_string)):
@@ -50,7 +50,7 @@ def get_team_grades():
 
     return jsonpickle.encode(r)
     
-@app.route("/player/grades")
+@app.route("/players")
 def get_player_grades():
     date_string = tools.date_to_str(datetime.today())
     if not os.path.isfile(team_grades_path.format(date_string)):
