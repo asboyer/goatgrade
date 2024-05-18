@@ -1,4 +1,4 @@
-import re
+import re, json, time, os
 
 def find_duplicates(input_list):
     # Count occurrences of each item
@@ -20,3 +20,9 @@ def replace_multiple_whitespaces_with_single(text):
 
 def date_to_str(today):
     return today.strftime("%m_%d_%Y").lower()
+
+def dump(path, data, wait=False):
+    with open(path, "w+", encoding="utf8") as file:
+        if wait:
+            time.sleep(3)
+        file.write(json.dumps(data, ensure_ascii=False, indent=4))

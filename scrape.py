@@ -19,9 +19,10 @@ BASE_REG_STATS_URL = "https://www.basketball-reference.com/leagues/NBA_{}_per_ga
 BASE_ADV_STATS_URL = "https://www.basketball-reference.com/leagues/NBA_{}_advanced.html"
 BASE_TM_STAND_URL = "https://www.basketball-reference.com/leagues/NBA_{}_standings.html"
 BASE_TM_URL = "https://www.basketball-reference.com/teams/{}/{}.html"
+BASE_SEASON_URL = "https://www.basketball-reference.com/leagues/NBA_{}.html"
 
 def scrape_player(url):
-    return player_profile.get_player_profile(url)    
+    return player_profile.get_player_profile(url)
 
 def scrape_stats(year):
     reg_stats = scrape(BASE_REG_STATS_URL.format(year))
@@ -292,6 +293,54 @@ def scrape(url):
     
     return stats
 
+def scrape_champion_mvp(year):
+    url = BASE_SEASON_URL.format(year)
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+    for comment in comments:
+        uncommented_content = BeautifulSoup(comment, 'html.parser')
+        comment.replace_with(uncommented_content)
+
+    champion = None
+    mvp = None
+    rookies = []
+
+    for p in soup.find_all('p'):
+        if 'League Champion' in p.text:
+            champion = (p.find('a').text, p.find('a')['href'])
+        elif 'Most Valuable Player' in p.text:
+            mvp = (p.find('a').text, p.find('a')['href'])
+        elif 'Rookie of the Year' in p.text:
+            rookies = [(a.text, a['href']) for a in p.find_all('a')]
+
+    return champion, mvp, rookies
+
+def scrape_all_nba_teams(year):
+    url = BASE_SEASON_URL.format(year)
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+    for comment in comments:
+        uncommented_content = BeautifulSoup(comment, 'html.parser')
+        comment.replace_with(uncommented_content)
+
+    all_nba_teams = {}
+
+    for i in range(1, 4):
+        team_id = f"all-nba_{i}"
+        team_div = soup.find('div', id=team_id)
+
+        if team_div is not None:
+            players = [(a.text, a['href']) for a in team_div.find_all('a')]
+            all_nba_teams[f"{i}st Team"] = players
+        else:
+            all_nba_teams[f"{i}st Team"] = []
+
+    return all_nba_teams
+
 if __name__ == "__main__":
-    with open("test.json", "w+", encoding="utf8") as file:
-        file.write(json.dumps(scrape_standings(2024), ensure_ascii=False, indent=4))
+    print(scrape_champion_mvp(1995))
+    print(scrape_all_nba_teams(2021))
