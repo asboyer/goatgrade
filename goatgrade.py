@@ -1,13 +1,15 @@
 import daily_update
+import info
 
 # scrape
-daily_update.update_players()
-daily_update.update_standings()
-daily_update.update_teams()
+if info.in_season():
+    daily_update.update_players()
+    daily_update.update_standings()
+    daily_update.update_teams()
 
-# internal organization
-daily_update.update_internal_info()
+    # internal organization
+    daily_update.update_internal_info()
 
-# grades
-daily_update.update_grades_players()
-daily_update.update_grades_teams()
+    # grades
+    daily_update.update_grades_players()
+    daily_update.update_grades_teams()
