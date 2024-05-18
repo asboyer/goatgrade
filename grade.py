@@ -82,7 +82,6 @@ def grade_players(year, date_string,
         
         # player_grade = 100 - ((player_grade / league_grade) * )
 
-
         new_ranks[player] = {}
 
         new_ranks[player]["grade"] = round(player_grade, 2)
@@ -96,7 +95,10 @@ def grade_players(year, date_string,
         new_ranks[player]["age"] = stats[player]["age"]
         new_ranks[player]["pos"] = stats[player]["pos"]
         new_ranks[player]["link"] = stats[player]["link"]
-        new_ranks[player]["last_update"] = stats[player]["last_update"] 
+        new_ranks[player]["last_update"] = stats[player]["last_update"]
+        new_ranks[player]["top_category"] = ""
+        new_ranks[player]["worst_category"] = ""
+
 
     sorted_players = {k: v for k, v in sorted(new_ranks.items(), key=lambda item: item[1]['grade'], reverse=True)}
     
