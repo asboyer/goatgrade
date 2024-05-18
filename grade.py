@@ -80,7 +80,15 @@ def grade_players(year, date_string,
         player_grade += (5 * (league_grade/100))
         player_grade -= (2.5 - (league_grade/100))
         
-        # player_grade = 100 - ((player_grade / league_grade) * )
+        def get_all_min_categories(player, ranks):
+            min_value = min(ranks[player].values())
+            min_categories = [k for k, v in ranks[player].items() if v == min_value]
+            return min_categories, min_value
+        
+        def get_all_max_categories(player, ranks):
+            max_value = max(ranks[player].values())
+            max_categories = [k for k, v in ranks[player].items() if v == max_value]
+            return max_categories, max_value
 
         new_ranks[player] = {}
 
@@ -96,8 +104,10 @@ def grade_players(year, date_string,
         new_ranks[player]["pos"] = stats[player]["pos"]
         new_ranks[player]["link"] = stats[player]["link"]
         new_ranks[player]["last_update"] = stats[player]["last_update"]
-        new_ranks[player]["top_category"] = f"{min(ranks[player], key=ranks[player].get)}: {ranks[min(ranks[player], key=ranks[player].get)]}"
-        new_ranks[player]["worst_category"] = f"{max(ranks[player], key=ranks[player].get)}: {ranks[max(ranks[player], key=ranks[player].get)]}"
+        min_categories, min_value = get_all_min_categories(player, ranks)
+        new_ranks[player]["top_category"] = [f"{category}: {min_value}" for category in min_categories]
+        max_categories, max_value = get_all_max_categories(player, ranks)
+        new_ranks[player]["worst_category"] = [f"{category}: {max_value}" for category in max_categories]
 
     sorted_players = {k: v for k, v in sorted(new_ranks.items(), key=lambda item: item[1]['grade'], reverse=True)}
     
