@@ -3,6 +3,17 @@ import getters
 
 from datetime import datetime, timedelta
 
+        
+def get_all_min_categories(player, ranks):
+    min_value = min(ranks[player].values())
+    min_categories = [k for k, v in ranks[player].items() if v == min_value]
+    return min_categories, min_value
+
+def get_all_max_categories(player, ranks):
+    max_value = max(ranks[player].values())
+    max_categories = [k for k, v in ranks[player].items() if v == max_value]
+    return max_categories, max_value
+
 def grade_players(year, date_string,
             categories=[
                         "PTS", "AST", "TRB", "FG%", "FT%", "3P%", "STL", "BLK",
@@ -79,16 +90,6 @@ def grade_players(year, date_string,
         player_grade = 100 - (player_grade * 100)
         player_grade += (5 * (league_grade/100))
         player_grade -= (2.5 - (league_grade/100))
-        
-        def get_all_min_categories(player, ranks):
-            min_value = min(ranks[player].values())
-            min_categories = [k for k, v in ranks[player].items() if v == min_value]
-            return min_categories, min_value
-        
-        def get_all_max_categories(player, ranks):
-            max_value = max(ranks[player].values())
-            max_categories = [k for k, v in ranks[player].items() if v == max_value]
-            return max_categories, max_value
 
         new_ranks[player] = {}
 
@@ -128,7 +129,10 @@ def grade_players(year, date_string,
     date_obj = datetime.strptime(date_string, "%m_%d_%Y")
     yesterday = date_obj - timedelta(days=1)
     yesterday_str = yesterday.strftime("%m_%d_%Y")
-    yesterday_grades = getters.get_grades(yesterday_str)
+    try:
+        yesterday_grades = getters.get_grades(yesterday_str)
+    except:
+        yesterday_grades = {}
     for player in sorted_players:
         try:
             sorted_players[player]["change"] = yesterday_grades[player]["rank"] - sorted_players[player]["rank"]  
@@ -186,6 +190,10 @@ def grade_team(year, date_string,
         f[team]['score'] = grade
         f[team]['last_update'] = stats[team]["last_update"]
         f[team]['link'] = "https://www.basketball-reference.com/teams/{}/{}.html".format(year, team)
+        min_categories = get_all_min_categories(team, stats)
+        f[team]["top_category"] = [f"{category}: {min_categories[1]}" for category in min_categories[0]]
+        max_categories = get_all_max_categories(team, stats)
+        f[team]["worst_category"] = [f"{category}: {max_categories[1]}" for category in max_categories[0]]
 
     sorted_teams = {k: v for k, v in sorted(f.items(), key=lambda item: item[1]['score'], reverse=True)}
    
@@ -197,7 +205,10 @@ def grade_team(year, date_string,
     date_obj = datetime.strptime(date_string, "%m_%d_%Y")
     yesterday = date_obj - timedelta(days=1)
     yesterday_str = yesterday.strftime("%m_%d_%Y")
-    yesterday_grades = getters.get_grades_team(yesterday_str)
+    try:
+        yesterday_grades = getters.get_grades_team(yesterday_str)
+    except:
+        yesterday_grades = {}
     sorted_players = sorted_teams
     for player in sorted_players:
         try:

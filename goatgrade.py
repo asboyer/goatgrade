@@ -13,3 +13,6 @@ if info.in_season():
     # grades
     daily_update.update_grades_players()
     daily_update.update_grades_teams()
+
+# if last day of season:
+    # move all data to archive
