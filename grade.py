@@ -96,8 +96,8 @@ def grade_players(year, date_string,
         new_ranks[player]["pos"] = stats[player]["pos"]
         new_ranks[player]["link"] = stats[player]["link"]
         new_ranks[player]["last_update"] = stats[player]["last_update"]
-        new_ranks[player]["top_category"] = ""
-        new_ranks[player]["worst_category"] = ""
+        new_ranks[player]["top_category"] = min(ranks[player], key=ranks[player].get)
+        new_ranks[player]["worst_category"] = max(ranks[player], key=ranks[player].get)
 
 
     sorted_players = {k: v for k, v in sorted(new_ranks.items(), key=lambda item: item[1]['grade'], reverse=True)}
