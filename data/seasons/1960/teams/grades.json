@@ -1,1 +1,98 @@
-null
+{
+    "BOS": {
+        "Tm": "BOS",
+        "RRK": "1",
+        "Name": "Boston Celtics",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1960.png",
+        "standing": "Finished in East in 1960 in East in Finals",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 75.09,
+        "score": 91.28,
+        "link": "https://www.basketball-reference.com/teams/1960/BOS.html",
+        "rank": 1
+    },
+    "STL": {
+        "Tm": "STL",
+        "RRK": "3",
+        "Name": "St. Louis Hawks",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1960.png",
+        "standing": "Finished in West in 1960 in West in Finals",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 71.96,
+        "score": 89.4,
+        "link": "https://www.basketball-reference.com/teams/1960/STL.html",
+        "rank": 2
+    },
+    "NYK": {
+        "Tm": "NYK",
+        "RRK": "6",
+        "Name": "New York Knicks",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1960.png",
+        "standing": "Finished in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 74.13,
+        "score": 88.88,
+        "link": "https://www.basketball-reference.com/teams/1960/NYK.html",
+        "rank": 3
+    },
+    "SYR": {
+        "Tm": "SYR",
+        "RRK": "4",
+        "Name": "Syracuse Nationals",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1960.png",
+        "standing": "Finished in East in 1960 in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 70.27,
+        "score": 88.42,
+        "link": "https://www.basketball-reference.com/teams/1960/SYR.html",
+        "rank": 4
+    },
+    "DET": {
+        "Tm": "DET",
+        "RRK": "5",
+        "Name": "Detroit Pistons",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1960.png",
+        "standing": "Finished in West in 1960 in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 69.67,
+        "score": 87.81,
+        "link": "https://www.basketball-reference.com/teams/1960/DET.html",
+        "rank": 5
+    },
+    "PHW": {
+        "Tm": "PHW",
+        "RRK": "2",
+        "Name": "Philadelphia Warriors",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1960.png",
+        "standing": "Finished in East in 1960 in East in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 64.63,
+        "score": 87.38,
+        "link": "https://www.basketball-reference.com/teams/1960/PHW.html",
+        "rank": 6
+    },
+    "CIN": {
+        "Tm": "CIN",
+        "RRK": "8",
+        "Name": "Cincinnati Royals",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1960.png",
+        "standing": "Finished in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 69.78,
+        "score": 86.59,
+        "link": "https://www.basketball-reference.com/teams/1960/CIN.html",
+        "rank": 7
+    },
+    "MNL": {
+        "Tm": "MNL",
+        "RRK": "7",
+        "Name": "Minneapolis Lakers",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1960.png",
+        "standing": "Finished in West in 1960 in West in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 66.29,
+        "score": 85.84,
+        "link": "https://www.basketball-reference.com/teams/1960/MNL.html",
+        "rank": 8
+    }
+}

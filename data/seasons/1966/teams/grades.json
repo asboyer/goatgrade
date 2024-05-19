@@ -1,1 +1,110 @@
-null
+{
+    "BOS": {
+        "Tm": "BOS",
+        "RRK": "2",
+        "Name": "Boston Celtics",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1966.png",
+        "standing": "Finished in East in 1966 in East in East in Finals",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 73.6,
+        "score": 90.37,
+        "link": "https://www.basketball-reference.com/teams/1966/BOS.html",
+        "rank": 1
+    },
+    "CIN": {
+        "Tm": "CIN",
+        "RRK": "3",
+        "Name": "Cincinnati Royals",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1966.png",
+        "standing": "Finished in East in 1966 in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 71.68,
+        "score": 89.31,
+        "link": "https://www.basketball-reference.com/teams/1966/CIN.html",
+        "rank": 2
+    },
+    "LAL": {
+        "Tm": "LAL",
+        "RRK": "4",
+        "Name": "Los Angeles Lakers",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1966.png",
+        "standing": "Finished in West in 1966 in West in Finals",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 71.9,
+        "score": 88.97,
+        "link": "https://www.basketball-reference.com/teams/1966/LAL.html",
+        "rank": 3
+    },
+    "PHI": {
+        "Tm": "PHI",
+        "RRK": "1",
+        "Name": "Philadelphia 76ers",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1966.png",
+        "standing": "Finished in East in 1966 in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 67.26,
+        "score": 88.67,
+        "link": "https://www.basketball-reference.com/teams/1966/PHI.html",
+        "rank": 4
+    },
+    "BAL": {
+        "Tm": "BAL",
+        "RRK": "5",
+        "Name": "Baltimore Bullets",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1966.png",
+        "standing": "Finished in West in 1966 in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 71.13,
+        "score": 88.3,
+        "link": "https://www.basketball-reference.com/teams/1966/BAL.html",
+        "rank": 5
+    },
+    "STL": {
+        "Tm": "STL",
+        "RRK": "6",
+        "Name": "St. Louis Hawks",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1966.png",
+        "standing": "Finished in West in 1966 in West in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 70.81,
+        "score": 87.77,
+        "link": "https://www.basketball-reference.com/teams/1966/STL.html",
+        "rank": 6
+    },
+    "SFW": {
+        "Tm": "SFW",
+        "RRK": "7",
+        "Name": "San Francisco Warriors",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1966.png",
+        "standing": "Finished in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 69.3,
+        "score": 86.85,
+        "link": "https://www.basketball-reference.com/teams/1966/SFW.html",
+        "rank": 7
+    },
+    "DET": {
+        "Tm": "DET",
+        "RRK": "9",
+        "Name": "Detroit Pistons",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1966.png",
+        "standing": "Finished in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 70.29,
+        "score": 86.35,
+        "link": "https://www.basketball-reference.com/teams/1966/DET.html",
+        "rank": 8
+    },
+    "NYK": {
+        "Tm": "NYK",
+        "RRK": "8",
+        "Name": "New York Knicks",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1966.png",
+        "standing": "Finished in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 68.74,
+        "score": 86.25,
+        "link": "https://www.basketball-reference.com/teams/1966/NYK.html",
+        "rank": 9
+    }
+}

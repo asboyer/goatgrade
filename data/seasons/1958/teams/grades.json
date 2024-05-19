@@ -1,1 +1,98 @@
-null
+{
+    "BOS": {
+        "Tm": "BOS",
+        "RRK": "1",
+        "Name": "Boston Celtics",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1958.png",
+        "standing": "Finished in East in 1958 in East in Finals",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 71.77,
+        "score": 90.18,
+        "link": "https://www.basketball-reference.com/teams/1958/BOS.html",
+        "rank": 1
+    },
+    "STL": {
+        "Tm": "STL",
+        "RRK": "2",
+        "Name": "St. Louis Hawks",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1958.png",
+        "standing": "Finished in West in 1958 in West in Finals",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 69.82,
+        "score": 89.11,
+        "link": "https://www.basketball-reference.com/teams/1958/STL.html",
+        "rank": 2
+    },
+    "NYK": {
+        "Tm": "NYK",
+        "RRK": "5",
+        "Name": "New York Knicks",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1958.png",
+        "standing": "Finished in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 72.63,
+        "score": 88.8,
+        "link": "https://www.basketball-reference.com/teams/1958/NYK.html",
+        "rank": 3
+    },
+    "CIN": {
+        "Tm": "CIN",
+        "RRK": "6",
+        "Name": "Cincinnati Royals",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1958.png",
+        "standing": "Finished in West in 1958 in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 70.26,
+        "score": 87.59,
+        "link": "https://www.basketball-reference.com/teams/1958/CIN.html",
+        "rank": 4
+    },
+    "SYR": {
+        "Tm": "SYR",
+        "RRK": "3",
+        "Name": "Syracuse Nationals",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1958.png",
+        "standing": "Finished in East in 1958 in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 65.18,
+        "score": 87.14,
+        "link": "https://www.basketball-reference.com/teams/1958/SYR.html",
+        "rank": 5
+    },
+    "DET": {
+        "Tm": "DET",
+        "RRK": "7",
+        "Name": "Detroit Pistons",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1958.png",
+        "standing": "Finished in West in 1958 in West in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 65.12,
+        "score": 85.45,
+        "link": "https://www.basketball-reference.com/teams/1958/DET.html",
+        "rank": 6
+    },
+    "PHW": {
+        "Tm": "PHW",
+        "RRK": "4",
+        "Name": "Philadelphia Warriors",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1958.png",
+        "standing": "Finished in East in 1958 in East in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 60.34,
+        "score": 85.11,
+        "link": "https://www.basketball-reference.com/teams/1958/PHW.html",
+        "rank": 7
+    },
+    "MNL": {
+        "Tm": "MNL",
+        "RRK": "8",
+        "Name": "Minneapolis Lakers",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1958.png",
+        "standing": "Finished in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 60.9,
+        "score": 83.63,
+        "link": "https://www.basketball-reference.com/teams/1958/MNL.html",
+        "rank": 8
+    }
+}

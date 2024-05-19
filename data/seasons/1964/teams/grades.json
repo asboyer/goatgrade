@@ -1,1 +1,110 @@
-null
+{
+    "CIN": {
+        "Tm": "CIN",
+        "RRK": "2",
+        "Name": "Cincinnati Royals",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1964.png",
+        "standing": "Finished in East in 1964 in East in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 75.62,
+        "score": 91.04,
+        "link": "https://www.basketball-reference.com/teams/1964/CIN.html",
+        "rank": 1
+    },
+    "BOS": {
+        "Tm": "BOS",
+        "RRK": "1",
+        "Name": "Boston Celtics",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1964.png",
+        "standing": "Finished in East in 1964 in East in Finals",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 73.32,
+        "score": 90.69,
+        "link": "https://www.basketball-reference.com/teams/1964/BOS.html",
+        "rank": 2
+    },
+    "STL": {
+        "Tm": "STL",
+        "RRK": "4",
+        "Name": "St. Louis Hawks",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1964.png",
+        "standing": "Finished in West in 1964 in West in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 72.02,
+        "score": 89.01,
+        "link": "https://www.basketball-reference.com/teams/1964/STL.html",
+        "rank": 3
+    },
+    "PHI": {
+        "Tm": "PHI",
+        "RRK": "6",
+        "Name": "Philadelphia 76ers",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1964.png",
+        "standing": "Finished in East in 1964 in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 74.12,
+        "score": 88.87,
+        "link": "https://www.basketball-reference.com/teams/1964/PHI.html",
+        "rank": 4
+    },
+    "SFW": {
+        "Tm": "SFW",
+        "RRK": "3",
+        "Name": "San Francisco Warriors",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1964.png",
+        "standing": "Finished in West in 1964 in West in Finals",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 70.13,
+        "score": 88.79,
+        "link": "https://www.basketball-reference.com/teams/1964/SFW.html",
+        "rank": 5
+    },
+    "LAL": {
+        "Tm": "LAL",
+        "RRK": "5",
+        "Name": "Los Angeles Lakers",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1964.png",
+        "standing": "Finished in West in 1964 in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 71.94,
+        "score": 88.57,
+        "link": "https://www.basketball-reference.com/teams/1964/LAL.html",
+        "rank": 6
+    },
+    "BAL": {
+        "Tm": "BAL",
+        "RRK": "7",
+        "Name": "Baltimore Bullets",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1964.png",
+        "standing": "Finished in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 66.54,
+        "score": 85.93,
+        "link": "https://www.basketball-reference.com/teams/1964/BAL.html",
+        "rank": 7
+    },
+    "DET": {
+        "Tm": "DET",
+        "RRK": "8",
+        "Name": "Detroit Pistons",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1964.png",
+        "standing": "Finished in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 66.43,
+        "score": 85.48,
+        "link": "https://www.basketball-reference.com/teams/1964/DET.html",
+        "rank": 8
+    },
+    "NYK": {
+        "Tm": "NYK",
+        "RRK": "9",
+        "Name": "New York Knicks",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1964.png",
+        "standing": "Finished in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 66.74,
+        "score": 85.17,
+        "link": "https://www.basketball-reference.com/teams/1964/NYK.html",
+        "rank": 9
+    }
+}

@@ -19,17 +19,16 @@ all_time_categories=["eFG%", "2P%","FG%", "AST", "PTS", "TS%", "FT%"]
 
 def get_team_categories(data):
     categories=[
-                "PTS", "AST", "TRB", "FG%", "FT%", "3P%", "STL", "BLK",
-                "MP", "PER", "TS%", "WS", "BPM", "2P%"
+                "FG%", "PTS", "FT%", "AST"
                 ]
     old_categories = []
     for i in range(len(categories)):
         category = categories[i]
         cats = list(data[list(data.items())[0][0]]['stats']['Team'].keys())
-        if category in cats:
-            old_categories.append(category)
-        for category in old_categories:
-            categories.remove(category)
+        # if category in cats:
+        #     old_categories.append(category)
+        # for category in old_categories:
+        #     categories.remove(category)
         
         return categories
 
@@ -256,6 +255,8 @@ def grade_team(stats, player_grades, categories, year):
     for player in sorted_teams:
         sorted_teams[player]["rank"] = placement
         placement += 1
+
+    return sorted_teams
 
 if __name__ == "__main__":
     for season in info.seasons:

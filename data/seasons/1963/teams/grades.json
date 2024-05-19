@@ -1,1 +1,110 @@
-null
+{
+    "BOS": {
+        "Tm": "BOS",
+        "RRK": "1",
+        "Name": "Boston Celtics",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1963.png",
+        "standing": "Finished in East in 1963 in East in Finals",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 74.09,
+        "score": 90.95,
+        "link": "https://www.basketball-reference.com/teams/1963/BOS.html",
+        "rank": 1
+    },
+    "SYR": {
+        "Tm": "SYR",
+        "RRK": "4",
+        "Name": "Syracuse Nationals",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1963.png",
+        "standing": "Finished in East in 1963 in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 77.2,
+        "score": 90.73,
+        "link": "https://www.basketball-reference.com/teams/1963/SYR.html",
+        "rank": 2
+    },
+    "LAL": {
+        "Tm": "LAL",
+        "RRK": "2",
+        "Name": "Los Angeles Lakers",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1963.png",
+        "standing": "Finished in West in 1963 in West in Finals",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 73.38,
+        "score": 90.29,
+        "link": "https://www.basketball-reference.com/teams/1963/LAL.html",
+        "rank": 3
+    },
+    "CIN": {
+        "Tm": "CIN",
+        "RRK": "5",
+        "Name": "Cincinnati Royals",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1963.png",
+        "standing": "Finished in East in 1963 in East in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 74.27,
+        "score": 89.34,
+        "link": "https://www.basketball-reference.com/teams/1963/CIN.html",
+        "rank": 4
+    },
+    "STL": {
+        "Tm": "STL",
+        "RRK": "3",
+        "Name": "St. Louis Hawks",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1963.png",
+        "standing": "Finished in West in 1963 in West in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 71.43,
+        "score": 89.22,
+        "link": "https://www.basketball-reference.com/teams/1963/STL.html",
+        "rank": 5
+    },
+    "DET": {
+        "Tm": "DET",
+        "RRK": "6",
+        "Name": "Detroit Pistons",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1963.png",
+        "standing": "Finished in West in 1963 in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 70.08,
+        "score": 87.53,
+        "link": "https://www.basketball-reference.com/teams/1963/DET.html",
+        "rank": 6
+    },
+    "SFW": {
+        "Tm": "SFW",
+        "RRK": "7",
+        "Name": "San Francisco Warriors",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1963.png",
+        "standing": "Finished in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 70.48,
+        "score": 87.24,
+        "link": "https://www.basketball-reference.com/teams/1963/SFW.html",
+        "rank": 7
+    },
+    "CHZ": {
+        "Tm": "CHZ",
+        "RRK": "8",
+        "Name": "Chicago Zephyrs",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHZ-1963.png",
+        "standing": "Finished in West",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 68.22,
+        "score": 86.07,
+        "link": "https://www.basketball-reference.com/teams/1963/CHZ.html",
+        "rank": 8
+    },
+    "NYK": {
+        "Tm": "NYK",
+        "RRK": "9",
+        "Name": "New York Knicks",
+        "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1963.png",
+        "standing": "Finished in East",
+        "last_update": "May 18 2024 16:50:06",
+        "avg_grade": 67.85,
+        "score": 85.54,
+        "link": "https://www.basketball-reference.com/teams/1963/NYK.html",
+        "rank": 9
+    }
+}
