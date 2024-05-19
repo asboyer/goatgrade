@@ -1,8 +1,9 @@
 import json
+import tools
+import os
 import getters
 
 from datetime import datetime, timedelta
-
         
 def get_all_min_categories(player, ranks):
     min_value = min(ranks[player].values())
@@ -217,3 +218,104 @@ def grade_team(year, date_string,
             sorted_players[player]["change"] = 0
 
     return sorted_players
+
+def archive(year):
+    r = {
+        "players": {},
+        "teams": {},
+        "league_progression": [],
+        "final_results": {}
+    }
+
+    player_path = f"data/archive/{year}/stat/players/grades"
+    team_path = f"data/archive/{year}/team/grades"
+
+    final_results_path = f"data/seasons/{year}/info.json"
+    player_results_path = f"data/seasons/{year}/players/grades.json"
+    team_results_path = f"data/seasons/{year}/teams/grades.json"
+
+    for filename in os.listdir(player_path):
+        player_grades = tools.load(os.path.join(player_path, filename))
+        team_grades = tools.load(os.path.join(team_path, filename))
+
+        r["league_progression"].append( 
+            {
+            "grade": player_grades[list(player_grades.keys())[0]]["league_grade"],
+            "date": filename.split(".")[0]
+            }
+        )
+
+        for player in player_grades:
+            if player not in list(r["players"].keys()):
+                r["players"][player] = []
+            r["players"][player].append(
+                {
+                "grade": player_grades[player]["grade"],
+                "rank": player_grades[player]["rank"],
+                "games_played": player_grades[player]["games_played"],
+                "team": player_grades[player]["team"],
+                "date": filename.split(".")[0],
+                }
+            )
+        
+        for team in team_grades:
+            if team not in list(r["teams"].keys()):
+                r["teams"][team] = []
+            r["teams"][team].append( {
+                "score": team_grades[team]["score"],
+                "rank": team_grades[team]["rank"],
+                "avg_grade": team_grades[team]["avg_grade"],
+                "standing": team_grades[team]["standing"],
+                "date": filename.split(".")[0],
+            })
+
+
+    final_player_grades = tools.load(player_results_path)
+    final_team_grades = tools.load(team_results_path)
+    final_results = tools.load(final_results_path)
+
+    r["final_results"] = final_results
+
+    r["league_progression"].append( 
+        {
+        "grade": final_player_grades[list(final_player_grades.keys())[0]]["league_grade"],
+        "date": "Final"
+        }
+    )
+
+    for player in final_player_grades:
+        if player in list(r["players"].keys()):    
+            r["players"][player].append( 
+                {
+                "grade": final_player_grades[player]["grade"],
+                "rank": final_player_grades[player]["rank"],
+                "games_played": final_player_grades[player]["games_played"],
+                "team": final_player_grades[player]["team"],
+                "img": final_player_grades[player]["img"],
+                "id": final_player_grades[player]["id"],
+                "link": final_player_grades[player]["link"],
+                "team_img": final_player_grades[player]["team_img"],
+                "team": final_player_grades[player]["team"]
+                }
+            )
+    
+    for team in final_team_grades:
+        r["teams"][team].append (
+            {
+            "score": final_team_grades[team]["score"],
+            "rank": final_team_grades[team]["rank"],
+            "avg_grade": final_team_grades[team]["avg_grade"],
+            "standing": final_team_grades[team]["standing"],
+            "img": final_team_grades[team]["img"],
+            "link": final_team_grades[team]["link"],
+            "name": final_team_grades[team]["Name"],
+            "conference": final_team_grades[team]["conference"],
+            "conference_rank": final_team_grades[team]["conference_rank"],
+            "record": final_team_grades[team]["record"]
+        }
+        )
+
+    return r
+
+if __name__ == "__main__":
+    tools.dump("data/archive/results.json", archive("2024"))
