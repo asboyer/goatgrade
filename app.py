@@ -129,3 +129,13 @@ def get_season(year):
 @app.route("/seasons")
 def get_seaons():
     return jsonpickle.encode(info.seasons)
+
+@app.route("/in_season")
+def in_season():
+    return jsonpickle.encode({"in_season": info.in_season()})
+
+@app.route("/archive/<year>")
+def archive(year):
+    if year not in [str(i) for i in info.archived_seasons]:
+        return jsonpickle.encode({"error": "Season not found"})
+    

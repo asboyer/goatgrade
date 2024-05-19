@@ -105,6 +105,10 @@ seasons = [
     2024
 ]
 
+archived_seasons = [
+    "2024"
+]
+
 current_season = {
     "name": "2024-2025",
     "start_day": "10-24-2024",
