@@ -5,7 +5,7 @@ import os, json
 import tools
 import jsonpickle
 
-import info
+import info, scrape_all_seasons
 
 from datetime import datetime, timedelta
 
@@ -57,16 +57,11 @@ def get_team_grades_current():
 
 @app.route("/teams/<year>")
 def get_team_grades(year):
-    date_string = tools.date_to_str(datetime.today())
-    if not os.path.isfile(team_grades_path.format(date_string)):
-        date_obj = datetime.strptime(date_string, "%m_%d_%Y")
-        yesterday = date_obj - timedelta(days=1)
-        yesterday_str = yesterday.strftime("%m_%d_%Y")
-        date_string = yesterday_str
 
-    f = open(team_grades_path.format(date_string), 'r')
-    data = json.load(f)
-    f.close()
+    if year not in [str(i) for i in info.seasons]:
+        return jsonpickle.encode({"error": "Season not found"})
+    
+    data = tools.load(scrape_all_seasons.team_grades_path.format(year))
 
     r = []
 
@@ -77,10 +72,10 @@ def get_team_grades(year):
             "standing": data[team]["standing"],
             "grade": data[team]["score"],
             "rank": data[team]["rank"],
-            "change": data[team]["change"],
             "img": data[team]["img"],
             "link": data[team]["link"],
-            "last_update": data[team]["last_update"]
+            "last_update": data[team]["last_update"],
+            "record": data[team]["record"]
         }
         r.append(j)
 
@@ -108,17 +103,12 @@ def get_player_grades_current():
     return jsonpickle.encode(r)
 
 @app.route("/players/<year>")
-def get_player_grades():
-    date_string = tools.date_to_str(datetime.today())
-    if not os.path.isfile(team_grades_path.format(date_string)):
-        date_obj = datetime.strptime(date_string, "%m_%d_%Y")
-        yesterday = date_obj - timedelta(days=1)
-        yesterday_str = yesterday.strftime("%m_%d_%Y")
-        date_string = yesterday_str    
+def get_player_grades(year):
 
-    f = open(player_grades_path.format(date_string), 'r')
-    data = json.load(f)
-    f.close()
+    if year not in [str(i) for i in info.seasons]:
+        return jsonpickle.encode({"error": "Season not found"})
+    
+    data = tools.load(scrape_all_seasons.player_grades_path.format(year))
 
     r = []
 
@@ -128,10 +118,14 @@ def get_player_grades():
 
     return jsonpickle.encode(r)
 
-@app.route("/seasons")
-def get_seasons():
-    f = open(seasons_path, 'r')
-    data = json.load(f)
-    f.close()
+@app.route("/seasons/<year>")
+def get_season(year):
+    if year not in [str(i) for i in info.seasons]:
+        return jsonpickle.encode({"error": "Season not found"})
+    data = tools.load(scrape_all_seasons.info_path.format(year))
 
     return jsonpickle.encode(data)
+
+@app.route("/seasons")
+def get_seaons():
+    return jsonpickle.encode(info.seasons)

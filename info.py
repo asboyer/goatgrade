@@ -106,9 +106,9 @@ seasons = [
 ]
 
 current_season = {
-    "name": "2023-2024",
-    "start_day": "10-24-2023",
-    "end_day": "4-14-2024",
+    "name": "2024-2025",
+    "start_day": "10-24-2024",
+    "end_day": "4-14-2025",
 }
 
 def get_season_months(start_day, end_day):

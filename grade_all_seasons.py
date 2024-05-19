@@ -106,7 +106,8 @@ def clean_team_stats(data):
             "Players": data[team]["roster"],
             "stat_ranks": stat_ranks,
             'standing': data[team]["info"]["standing"],
-            "last_update": data[team]["last_update"]
+            "last_update": data[team]["last_update"],
+            "record": data[team]["info"]["record"]
         }
 
         stats[team] = j
@@ -214,12 +215,33 @@ def grade_players(data, categoires, year):
 
     return sorted_players
 
+def get_ordinal(i):
+    SUFFIXES = {1: 'st', 2: 'nd', 3: 'rd'}
+
+    if 10 <= i % 100 <= 20:
+        return 'th'
+    else:
+        return SUFFIXES.get(i % 10, 'th')
+
 def grade_team(stats, player_grades, categories, year):
 
     f = {}
+    east_teams = 1
+    west_teams = 1
 
     for team in stats:
         
+        if "east" in stats[team]["standing"].lower():
+            stats[team]["conference"] = "East"
+            stats[team]["conference_rank"] = east_teams
+            east_teams += 1
+        else:
+            stats[team]["conference"] = "West"
+            stats[team]["conference_rank"] = west_teams
+            west_teams += 1
+
+        stats[team]["standing"] = f'{stats[team]["conference_rank"]}{get_ordinal(stats[team]["conference_rank"])} in {stats[team]["conference"]}'
+
         grades = []
         for player in stats[team]["Players"]:
             try:
@@ -239,6 +261,7 @@ def grade_team(stats, player_grades, categories, year):
         grade = round((grade*2 + grade_avg)/3, 2)
 
         f[team] = {}
+        
 
         f[team] = stats[team]
         del f[team]["stat_ranks"]
