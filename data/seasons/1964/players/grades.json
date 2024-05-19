@@ -1,0 +1,2667 @@
+{
+    "westje01": {
+        "grade": 96.54,
+        "name": "Jerry West*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 72,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/westje01.jpg",
+        "id": "westje01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/westje01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 3",
+            "AST: 3",
+            "3P%: 3",
+            "STL: 3",
+            "BLK: 3",
+            "PER: 3",
+            "BPM: 3",
+            "OWS: 3",
+            "USG%: 3",
+            "OBPM: 3",
+            "DBPM: 3",
+            "VORP: 3"
+        ],
+        "worst_category": [
+            "TRB: 34"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West",
+        "team_league_ranking": "5",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1964.png",
+        "rank": 1
+    },
+    "roberos01": {
+        "grade": 92.97,
+        "name": "Oscar Robertson*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 79,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/roberos01.jpg",
+        "id": "roberos01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/r/roberos01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 1",
+            "OWS: 1"
+        ],
+        "worst_category": [
+            "3P%: 23",
+            "STL: 23",
+            "BLK: 23",
+            "BPM: 23",
+            "USG%: 23",
+            "OBPM: 23",
+            "DBPM: 23",
+            "VORP: 23"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in East",
+        "team_league_ranking": "2",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1964.png",
+        "rank": 2
+    },
+    "pettibo01": {
+        "grade": 90.03,
+        "name": "Bob Pettit*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/pettibo01.jpg",
+        "id": "pettibo01",
+        "age": "31",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/p/pettibo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 4",
+            "PER: 4",
+            "WS: 4"
+        ],
+        "worst_category": [
+            "3P%: 26",
+            "STL: 26",
+            "BLK: 26",
+            "BPM: 26",
+            "USG%: 26",
+            "OBPM: 26",
+            "DBPM: 26",
+            "VORP: 26"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in West",
+        "team_league_ranking": "4",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1964.png",
+        "rank": 3
+    },
+    "lucasje01": {
+        "grade": 86.98,
+        "name": "Jerry Lucas*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 79,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lucasje01.jpg",
+        "id": "lucasje01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/l/lucasje01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 1"
+        ],
+        "worst_category": [
+            "3P%: 37",
+            "STL: 37",
+            "BLK: 37",
+            "BPM: 37",
+            "USG%: 37",
+            "OBPM: 37",
+            "DBPM: 37",
+            "VORP: 37"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in East",
+        "team_league_ranking": "2",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1964.png",
+        "rank": 4
+    },
+    "twymaja01": {
+        "grade": 86.67,
+        "name": "Jack Twyman*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 68,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/twymaja01.jpg",
+        "id": "twymaja01",
+        "age": "29",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/t/twymaja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 5"
+        ],
+        "worst_category": [
+            "AST: 41"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in East",
+        "team_league_ranking": "2",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1964.png",
+        "rank": 5
+    },
+    "walkech01": {
+        "grade": 86.6,
+        "name": "Chet Walker*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 76,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/walkech01.jpg",
+        "id": "walkech01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/w/walkech01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 5",
+            "STL: 5",
+            "BLK: 5",
+            "BPM: 5",
+            "USG%: 5",
+            "OBPM: 5",
+            "DBPM: 5",
+            "VORP: 5"
+        ],
+        "worst_category": [
+            "FT%: 53"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1964.png",
+        "rank": 6
+    },
+    "russebi01": {
+        "grade": 84.42,
+        "name": "Bill Russell*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 78,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/russebi01.jpg",
+        "id": "russebi01",
+        "age": "29",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/r/russebi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 1",
+            "DWS: 1"
+        ],
+        "worst_category": [
+            "FT%: 87"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1964.png",
+        "rank": 7
+    },
+    "wilkele01": {
+        "grade": 83.48,
+        "name": "Lenny Wilkens*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 78,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/wilkele01.jpg",
+        "id": "wilkele01",
+        "age": "26",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/wilkele01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 1",
+            "STL: 1",
+            "BLK: 1",
+            "BPM: 1",
+            "USG%: 1",
+            "OBPM: 1",
+            "DBPM: 1",
+            "VORP: 1"
+        ],
+        "worst_category": [
+            "FG%: 54",
+            "2P%: 54",
+            "eFG%: 54"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in West",
+        "team_league_ranking": "4",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1964.png",
+        "rank": 8
+    },
+    "warlebe01": {
+        "grade": 81.82,
+        "name": "Ben Warley",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 79,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/warlebe01.jpg",
+        "id": "warlebe01",
+        "age": "27",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/w/warlebe01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 4",
+            "STL: 4",
+            "BLK: 4",
+            "BPM: 4",
+            "USG%: 4",
+            "OBPM: 4",
+            "DBPM: 4",
+            "VORP: 4"
+        ],
+        "worst_category": [
+            "AST: 75"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1964.png",
+        "rank": 9
+    },
+    "howelba01": {
+        "grade": 81.44,
+        "name": "Bailey Howell*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 77,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/howelba01.jpg",
+        "id": "howelba01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/howelba01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PER: 6"
+        ],
+        "worst_category": [
+            "3P%: 49",
+            "STL: 49",
+            "BLK: 49",
+            "BPM: 49",
+            "USG%: 49",
+            "OBPM: 49",
+            "DBPM: 49",
+            "VORP: 49"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1964.png",
+        "rank": 10
+    },
+    "wileyge01": {
+        "grade": 80.92,
+        "name": "Gene Wiley",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 78,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/wileyge01.jpg",
+        "id": "wileyge01",
+        "age": "26",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/w/wileyge01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 1",
+            "2P%: 1",
+            "eFG%: 1"
+        ],
+        "worst_category": [
+            "AST: 85"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West",
+        "team_league_ranking": "5",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1964.png",
+        "rank": 11
+    },
+    "meschto01": {
+        "grade": 80.13,
+        "name": "Tom Meschery",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/meschto01.jpg",
+        "id": "meschto01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/m/meschto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 12"
+        ],
+        "worst_category": [
+            "FT%: 56"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1964.png",
+        "rank": 12
+    },
+    "sandeto01": {
+        "grade": 79.54,
+        "name": "Tom Sanders*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sandeto01.jpg",
+        "id": "sandeto01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/sandeto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 4"
+        ],
+        "worst_category": [
+            "AST: 62"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1964.png",
+        "rank": 13
+    },
+    "scottra01": {
+        "grade": 79.5,
+        "name": "Ray Scott",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/scottra01.jpg",
+        "id": "scottra01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/scottra01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 7"
+        ],
+        "worst_category": [
+            "WS/48: 58"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1964.png",
+        "rank": 14
+    },
+    "jonessa01": {
+        "grade": 79.33,
+        "name": "Sam Jones*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 76,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/jonessa01.jpg",
+        "id": "jonessa01",
+        "age": "30",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/j/jonessa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 8"
+        ],
+        "worst_category": [
+            "TRB: 50"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1964.png",
+        "rank": 15
+    },
+    "neumapa01": {
+        "grade": 78.22,
+        "name": "Paul Neumann",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 74,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/neumapa01.jpg",
+        "id": "neumapa01",
+        "age": "26",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/n/neumapa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 12"
+        ],
+        "worst_category": [
+            "TRB: 67"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1964.png",
+        "rank": 16
+    },
+    "mcgilbi01": {
+        "grade": 77.98,
+        "name": "Billy McGill",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 74,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mcgilbi01.jpg",
+        "id": "mcgilbi01",
+        "age": "24",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/m/mcgilbi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 6",
+            "2P%: 6",
+            "eFG%: 6"
+        ],
+        "worst_category": [
+            "DWS: 81"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "9",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1964.png",
+        "rank": 17
+    },
+    "thornro01": {
+        "grade": 77.6,
+        "name": "Rod Thorn*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 75,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/thornro01.jpg",
+        "id": "thornro01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/t/thornro01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 10",
+            "STL: 10",
+            "BLK: 10",
+            "BPM: 10",
+            "USG%: 10",
+            "OBPM: 10",
+            "DBPM: 10",
+            "VORP: 10"
+        ],
+        "worst_category": [
+            "FG%: 64",
+            "2P%: 64",
+            "eFG%: 64"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "7",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1964.png",
+        "rank": 18
+    },
+    "vaughch01": {
+        "grade": 77.42,
+        "name": "Chico Vaughn",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 68,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/vaughch01.jpg",
+        "id": "vaughch01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/v/vaughch01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 6",
+            "STL: 6",
+            "BLK: 6",
+            "BPM: 6",
+            "USG%: 6",
+            "OBPM: 6",
+            "DBPM: 6",
+            "VORP: 6"
+        ],
+        "worst_category": [
+            "TRB: 85"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in West",
+        "team_league_ranking": "4",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1964.png",
+        "rank": 19
+    },
+    "larusru01": {
+        "grade": 77.39,
+        "name": "Rudy LaRusso",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 79,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/larusru01.jpg",
+        "id": "larusru01",
+        "age": "26",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/l/larusru01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 15"
+        ],
+        "worst_category": [
+            "3P%: 39",
+            "STL: 39",
+            "BLK: 39",
+            "BPM: 39",
+            "USG%: 39",
+            "OBPM: 39",
+            "DBPM: 39",
+            "VORP: 39"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West",
+        "team_league_ranking": "5",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1964.png",
+        "rank": 20
+    },
+    "greerha01": {
+        "grade": 76.77,
+        "name": "Hal Greer*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/greerha01.jpg",
+        "id": "greerha01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/greerha01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 6"
+        ],
+        "worst_category": [
+            "3P%: 60",
+            "STL: 60",
+            "BLK: 60",
+            "BPM: 60",
+            "USG%: 60",
+            "OBPM: 60",
+            "DBPM: 60",
+            "VORP: 60"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1964.png",
+        "rank": 21
+    },
+    "kerrre01": {
+        "grade": 76.45,
+        "name": "Red Kerr",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kerrre01.jpg",
+        "id": "kerrre01",
+        "age": "31",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/k/kerrre01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 8"
+        ],
+        "worst_category": [
+            "TS%: 44"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1964.png",
+        "rank": 22
+    },
+    "chambwi01": {
+        "grade": 75.8,
+        "name": "Wilt Chamberlain*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/chambwi01.jpg",
+        "id": "chambwi01",
+        "age": "27",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/c/chambwi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 1",
+            "MP: 1",
+            "PER: 1",
+            "WS: 1",
+            "WS/48: 1"
+        ],
+        "worst_category": [
+            "FT%: 89"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1964.png",
+        "rank": 23
+    },
+    "stavela01": {
+        "grade": 75.42,
+        "name": "Larry Staverman",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 60,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/stavela01.jpg",
+        "id": "stavela01",
+        "age": "27",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/stavela01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 11",
+            "STL: 11",
+            "BLK: 11",
+            "BPM: 11",
+            "USG%: 11",
+            "OBPM: 11",
+            "DBPM: 11",
+            "VORP: 11"
+        ],
+        "worst_category": [
+            "MP: 90"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in East",
+        "team_league_ranking": "2",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1964.png",
+        "rank": 24
+    },
+    "dischte01": {
+        "grade": 74.97,
+        "name": "Terry Dischinger",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/dischte01.jpg",
+        "id": "dischte01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/d/dischte01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 3"
+        ],
+        "worst_category": [
+            "3P%: 72",
+            "STL: 72",
+            "BLK: 72",
+            "BPM: 72",
+            "USG%: 72",
+            "OBPM: 72",
+            "DBPM: 72",
+            "VORP: 72"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "7",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1964.png",
+        "rank": 25
+    },
+    "hagancl01": {
+        "grade": 74.27,
+        "name": "Cliff Hagan*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 77,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hagancl01.jpg",
+        "id": "hagancl01",
+        "age": "32",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/hagancl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 11"
+        ],
+        "worst_category": [
+            "3P%: 58",
+            "STL: 58",
+            "BLK: 58",
+            "BPM: 58",
+            "USG%: 58",
+            "OBPM: 58",
+            "DBPM: 58",
+            "VORP: 58"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in West",
+        "team_league_ranking": "4",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1964.png",
+        "rank": 26
+    },
+    "rudomjo01": {
+        "grade": 74.24,
+        "name": "John Rudometkin",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 52,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/rudomjo01.jpg",
+        "id": "rudomjo01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/r/rudomjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 9",
+            "2P%: 9",
+            "eFG%: 9"
+        ],
+        "worst_category": [
+            "DWS: 92"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "9",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1964.png",
+        "rank": 27
+    },
+    "searske01": {
+        "grade": 73.89,
+        "name": "Kenny Sears",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 51,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/searske01.jpg",
+        "id": "searske01",
+        "age": "30",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/s/searske01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 7"
+        ],
+        "worst_category": [
+            "MP: 93"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1964.png",
+        "rank": 28
+    },
+    "smithad01": {
+        "grade": 72.37,
+        "name": "Adrian Smith",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 66,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/smithad01.jpg",
+        "id": "smithad01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/smithad01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 12",
+            "STL: 12",
+            "BLK: 12",
+            "BPM: 12",
+            "USG%: 12",
+            "OBPM: 12",
+            "DBPM: 12",
+            "VORP: 12"
+        ],
+        "worst_category": [
+            "TRB: 80"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in East",
+        "team_league_ranking": "2",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1964.png",
+        "rank": 29
+    },
+    "thurmna01": {
+        "grade": 71.85,
+        "name": "Nate Thurmond*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 76,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/thurmna01.jpg",
+        "id": "thurmna01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/t/thurmna01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 9",
+            "STL: 9",
+            "BLK: 9",
+            "BPM: 9",
+            "USG%: 9",
+            "OBPM: 9",
+            "DBPM: 9",
+            "VORP: 9"
+        ],
+        "worst_category": [
+            "FT%: 88"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1964.png",
+        "rank": 30
+    },
+    "johnsgu01": {
+        "grade": 71.5,
+        "name": "Gus Johnson*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 78,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/johnsgu01.jpg",
+        "id": "johnsgu01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/j/johnsgu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 6"
+        ],
+        "worst_category": [
+            "FT%: 70"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "7",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1964.png",
+        "rank": 31
+    },
+    "havlijo01": {
+        "grade": 71.4,
+        "name": "John Havlicek*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/havlijo01.jpg",
+        "id": "havlijo01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/havlijo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 5"
+        ],
+        "worst_category": [
+            "3P%: 56",
+            "STL: 56",
+            "BLK: 56",
+            "BPM: 56",
+            "USG%: 56",
+            "OBPM: 56",
+            "DBPM: 56",
+            "VORP: 56"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1964.png",
+        "rank": 32
+    },
+    "naullwi01": {
+        "grade": 71.33,
+        "name": "Willie Naulls",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 78,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/naullwi01.jpg",
+        "id": "naullwi01",
+        "age": "29",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/n/naullwi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 15"
+        ],
+        "worst_category": [
+            "AST: 79"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1964.png",
+        "rank": 33
+    },
+    "bellawa01": {
+        "grade": 70.84,
+        "name": "Walt Bellamy*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bellawa01.jpg",
+        "id": "bellawa01",
+        "age": "24",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/b/bellawa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 4",
+            "FG%: 4",
+            "MP: 4",
+            "2P%: 4",
+            "OWS: 4",
+            "eFG%: 4"
+        ],
+        "worst_category": [
+            "3P%: 87",
+            "STL: 87",
+            "BLK: 87",
+            "BPM: 87",
+            "USG%: 87",
+            "OBPM: 87",
+            "DBPM: 87",
+            "VORP: 87"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "7",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1964.png",
+        "rank": 34
+    },
+    "morelja01": {
+        "grade": 70.5,
+        "name": "Jackie Moreland",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 78,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/morelja01.jpg",
+        "id": "morelja01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/m/morelja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 23"
+        ],
+        "worst_category": [
+            "DWS: 57"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1964.png",
+        "rank": 35
+    },
+    "gueriri01": {
+        "grade": 70.39,
+        "name": "Richie Guerin*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/gueriri01.jpg",
+        "id": "gueriri01",
+        "age": "31",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/gueriri01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 8"
+        ],
+        "worst_category": [
+            "TRB: 70"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in West",
+        "team_league_ranking": "4",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1964.png",
+        "rank": 36
+    },
+    "embrywa01": {
+        "grade": 70.19,
+        "name": "Wayne Embry*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/embrywa01.jpg",
+        "id": "embrywa01",
+        "age": "26",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/e/embrywa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 10"
+        ],
+        "worst_category": [
+            "FT%: 74"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in East",
+        "team_league_ranking": "2",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1964.png",
+        "rank": 37
+    },
+    "rodgegu01": {
+        "grade": 69.91,
+        "name": "Guy Rodgers*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 79,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/rodgegu01.jpg",
+        "id": "rodgegu01",
+        "age": "28",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/r/rodgegu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 2"
+        ],
+        "worst_category": [
+            "OWS: 89"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1964.png",
+        "rank": 38
+    },
+    "heinsto01": {
+        "grade": 69.15,
+        "name": "Tom Heinsohn*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 76,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/heinsto01.jpg",
+        "id": "heinsto01",
+        "age": "29",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/heinsto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 6"
+        ],
+        "worst_category": [
+            "FG%: 68",
+            "2P%: 68",
+            "eFG%: 68"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1964.png",
+        "rank": 39
+    },
+    "ramsefr01": {
+        "grade": 68.66,
+        "name": "Frank Ramsey*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 75,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ramsefr01.jpg",
+        "id": "ramsefr01",
+        "age": "32",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/r/ramsefr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 3"
+        ],
+        "worst_category": [
+            "FG%: 83",
+            "2P%: 83",
+            "eFG%: 83"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1964.png",
+        "rank": 40
+    },
+    "nelsodo01": {
+        "grade": 67.87,
+        "name": "Don Nelson*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/nelsodo01.jpg",
+        "id": "nelsodo01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/n/nelsodo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 18"
+        ],
+        "worst_category": [
+            "PTS: 75"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West",
+        "team_league_ranking": "5",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1964.png",
+        "rank": 41
+    },
+    "ohldo01": {
+        "grade": 67.69,
+        "name": "Don Ohl",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 71,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ohldo01.jpg",
+        "id": "ohldo01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/o/ohldo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 17"
+        ],
+        "worst_category": [
+            "TRB: 78"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1964.png",
+        "rank": 42
+    },
+    "heymaar01": {
+        "grade": 67.45,
+        "name": "Art Heyman",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 75,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/heymaar01.jpg",
+        "id": "heymaar01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/h/heymaar01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 17"
+        ],
+        "worst_category": [
+            "DWS: 82"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "9",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1964.png",
+        "rank": 43
+    },
+    "costela01": {
+        "grade": 67.42,
+        "name": "Larry Costello*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 45,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/costela01.jpg",
+        "id": "costela01",
+        "age": "32",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/c/costela01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 1"
+        ],
+        "worst_category": [
+            "TRB: 79"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1964.png",
+        "rank": 44
+    },
+    "bayloel01": {
+        "grade": 66.86,
+        "name": "Elgin Baylor*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 78,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bayloel01.jpg",
+        "id": "bayloel01",
+        "age": "29",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/b/bayloel01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 6"
+        ],
+        "worst_category": [
+            "3P%: 89",
+            "STL: 89",
+            "BLK: 89",
+            "BPM: 89",
+            "USG%: 89",
+            "OBPM: 89",
+            "DBPM: 89",
+            "VORP: 89"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West",
+        "team_league_ranking": "5",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1964.png",
+        "rank": 45
+    },
+    "greenjo01": {
+        "grade": 66.03,
+        "name": "Johnny Green",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/greenjo01.jpg",
+        "id": "greenjo01",
+        "age": "30",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/g/greenjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 11",
+            "2P%: 11",
+            "eFG%: 11"
+        ],
+        "worst_category": [
+            "FT%: 91"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "9",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1964.png",
+        "rank": 46
+    },
+    "eganjo01": {
+        "grade": 65.2,
+        "name": "Johnny Egan",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 66,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/eganjo01.jpg",
+        "id": "eganjo01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/e/eganjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 4"
+        ],
+        "worst_category": [
+            "TRB: 76",
+            "DWS: 76"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "9",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1964.png",
+        "rank": 47
+    },
+    "barnedi01": {
+        "grade": 64.58,
+        "name": "Dick Barnett*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 78,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/barnedi01.jpg",
+        "id": "barnedi01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/b/barnedi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "OWS: 10"
+        ],
+        "worst_category": [
+            "3P%: 91",
+            "STL: 91",
+            "BLK: 91",
+            "BPM: 91",
+            "USG%: 91",
+            "OBPM: 91",
+            "DBPM: 91",
+            "VORP: 91"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West",
+        "team_league_ranking": "5",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1964.png",
+        "rank": 48
+    },
+    "hightwa01": {
+        "grade": 64.54,
+        "name": "Wayne Hightower",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 79,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hightwa01.jpg",
+        "id": "hightwa01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/hightwa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 13"
+        ],
+        "worst_category": [
+            "FG%: 77",
+            "2P%: 77",
+            "eFG%: 77"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1964.png",
+        "rank": 49
+    },
+    "phillga01": {
+        "grade": 64.37,
+        "name": "Gary Phillips",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 66,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/phillga01.jpg",
+        "id": "phillga01",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/p/phillga01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 16"
+        ],
+        "worst_category": [
+            "OWS: 90"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1964.png",
+        "rank": 50
+    },
+    "shaffle01": {
+        "grade": 64.02,
+        "name": "Lee Shaffer",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 41,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/shaffle01.jpg",
+        "id": "shaffle01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/s/shaffle01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 14",
+            "STL: 14",
+            "BLK: 14",
+            "BPM: 14",
+            "USG%: 14",
+            "OBPM: 14",
+            "DBPM: 14",
+            "VORP: 14"
+        ],
+        "worst_category": [
+            "WS: 91",
+            "WS/48: 91"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1964.png",
+        "rank": 51
+    },
+    "ferrybo01": {
+        "grade": 63.57,
+        "name": "Bob Ferry",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 74,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ferrybo01.jpg",
+        "id": "ferrybo01",
+        "age": "26",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/f/ferrybo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 23",
+            "PER: 23",
+            "2P%: 23",
+            "eFG%: 23"
+        ],
+        "worst_category": [
+            "FT%: 66",
+            "3P%: 66",
+            "STL: 66",
+            "BLK: 66",
+            "BPM: 66",
+            "USG%: 66",
+            "OBPM: 66",
+            "DBPM: 66",
+            "VORP: 66"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1964.png",
+        "rank": 52
+    },
+    "chapple01": {
+        "grade": 63.54,
+        "name": "Len Chappell",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 79,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/chapple01.jpg",
+        "id": "chapple01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/c/chapple01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 19",
+            "OWS: 19"
+        ],
+        "worst_category": [
+            "DWS: 88"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "9",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1964.png",
+        "rank": 53
+    },
+    "beatyze01": {
+        "grade": 63.16,
+        "name": "Zelmo Beaty*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 59,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/beatyze01.jpg",
+        "id": "beatyze01",
+        "age": "24",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/b/beatyze01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 11"
+        ],
+        "worst_category": [
+            "3P%: 88",
+            "STL: 88",
+            "BLK: 88",
+            "BPM: 88",
+            "USG%: 88",
+            "OBPM: 88",
+            "DBPM: 88",
+            "VORP: 88"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in West",
+        "team_league_ranking": "4",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1964.png",
+        "rank": 54
+    },
+    "joneskc01": {
+        "grade": 62.71,
+        "name": "K.C. Jones*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/joneskc01.jpg",
+        "id": "joneskc01",
+        "age": "31",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/j/joneskc01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 3"
+        ],
+        "worst_category": [
+            "OWS: 92"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1964.png",
+        "rank": 55
+    },
+    "hawkito01": {
+        "grade": 62.43,
+        "name": "Tom Hawkins",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 73,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hawkito01.jpg",
+        "id": "hawkito01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/hawkito01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 29",
+            "2P%: 29",
+            "eFG%: 29"
+        ],
+        "worst_category": [
+            "FT%: 81"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in East",
+        "team_league_ranking": "2",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1964.png",
+        "rank": 56
+    },
+    "golato01": {
+        "grade": 61.77,
+        "name": "Tom Gola*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 74,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/golato01.jpg",
+        "id": "golato01",
+        "age": "31",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/golato01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 15"
+        ],
+        "worst_category": [
+            "DWS: 85"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "9",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1964.png",
+        "rank": 57
+    },
+    "schaydo01": {
+        "grade": 61.67,
+        "name": "Dolph Schayes*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 24,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/schaydo01.jpg",
+        "id": "schaydo01",
+        "age": "35",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/schaydo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 14"
+        ],
+        "worst_category": [
+            "FG%: 92",
+            "2P%: 92",
+            "eFG%: 92"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1964.png",
+        "rank": 58
+    },
+    "tormobu01": {
+        "grade": 61.32,
+        "name": "Gene Tormohlen",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 51,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/tormobu01.jpg",
+        "id": "tormobu01",
+        "age": "26",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/t/tormobu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 8",
+            "STL: 8",
+            "BLK: 8",
+            "BPM: 8",
+            "USG%: 8",
+            "OBPM: 8",
+            "DBPM: 8",
+            "VORP: 8"
+        ],
+        "worst_category": [
+            "FT%: 92",
+            "TS%: 92"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in West",
+        "team_league_ranking": "4",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1964.png",
+        "rank": 59
+    },
+    "greensi01": {
+        "grade": 61.11,
+        "name": "Si Green",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 75,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/greensi01.jpg",
+        "id": "greensi01",
+        "age": "30",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/g/greensi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 26"
+        ],
+        "worst_category": [
+            "3P%: 62",
+            "STL: 62",
+            "BLK: 62",
+            "BPM: 62",
+            "USG%: 62",
+            "OBPM: 62",
+            "DBPM: 62",
+            "VORP: 62"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "7",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1964.png",
+        "rank": 60
+    },
+    "selvyfr01": {
+        "grade": 60.91,
+        "name": "Frank Selvy",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 73,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/selvyfr01.jpg",
+        "id": "selvyfr01",
+        "age": "31",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/selvyfr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 15",
+            "STL: 15",
+            "BLK: 15",
+            "BPM: 15",
+            "USG%: 15",
+            "OBPM: 15",
+            "DBPM: 15",
+            "VORP: 15"
+        ],
+        "worst_category": [
+            "TRB: 86"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West",
+        "team_league_ranking": "5",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1964.png",
+        "rank": 61
+    },
+    "attleal01": {
+        "grade": 60.53,
+        "name": "Al Attles*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 70,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/attleal01.jpg",
+        "id": "attleal01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/a/attleal01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 17"
+        ],
+        "worst_category": [
+            "3P%: 92",
+            "STL: 92",
+            "BLK: 92",
+            "BPM: 92",
+            "USG%: 92",
+            "OBPM: 92",
+            "DBPM: 92",
+            "VORP: 92"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1964.png",
+        "rank": 62
+    },
+    "kingji01": {
+        "grade": 60.46,
+        "name": "Jim King",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 60,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kingji01.jpg",
+        "id": "kingji01",
+        "age": "22",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/k/kingji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 41"
+        ],
+        "worst_category": [
+            "PTS: 89"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West",
+        "team_league_ranking": "5",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1964.png",
+        "rank": 63
+    },
+    "kojisdo01": {
+        "grade": 59.59,
+        "name": "Don Kojis",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 78,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kojisdo01.jpg",
+        "id": "kojisdo01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/k/kojisdo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 41",
+            "STL: 41",
+            "BLK: 41",
+            "BPM: 41",
+            "USG%: 41",
+            "OBPM: 41",
+            "DBPM: 41",
+            "VORP: 41"
+        ],
+        "worst_category": [
+            "FT%: 85"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "7",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1964.png",
+        "rank": 64
+    },
+    "shuege01": {
+        "grade": 58.9,
+        "name": "Gene Shue",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 47,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/shuege01.jpg",
+        "id": "shuege01",
+        "age": "32",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/s/shuege01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 13",
+            "STL: 13",
+            "BLK: 13",
+            "BPM: 13",
+            "USG%: 13",
+            "OBPM: 13",
+            "DBPM: 13",
+            "VORP: 13"
+        ],
+        "worst_category": [
+            "FG%: 93",
+            "TS%: 93",
+            "WS: 93",
+            "2P%: 93",
+            "OWS: 93",
+            "WS/48: 93",
+            "eFG%: 93"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "7",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1964.png",
+        "rank": 65
+    },
+    "gambeda01": {
+        "grade": 58.62,
+        "name": "Dave Gambee",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 41,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/gambeda01.jpg",
+        "id": "gambeda01",
+        "age": "26",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/g/gambeda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 10"
+        ],
+        "worst_category": [
+            "AST: 77"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1964.png",
+        "rank": 66
+    },
+    "olsenbu01": {
+        "grade": 57.93,
+        "name": "Bud Olsen",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 49,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/olsenbu01.jpg",
+        "id": "olsenbu01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/o/olsenbu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 27",
+            "STL: 27",
+            "BLK: 27",
+            "BPM: 27",
+            "USG%: 27",
+            "OBPM: 27",
+            "DBPM: 27",
+            "VORP: 27"
+        ],
+        "worst_category": [
+            "MP: 91"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in East",
+        "team_league_ranking": "2",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1964.png",
+        "rank": 67
+    },
+    "loughke01": {
+        "grade": 57.79,
+        "name": "Kevin Loughery",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 66,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/loughke01.jpg",
+        "id": "loughke01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/l/loughke01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 27"
+        ],
+        "worst_category": [
+            "FG%: 84",
+            "2P%: 84",
+            "eFG%: 84"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "7",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1964.png",
+        "rank": 68
+    },
+    "boozebo01": {
+        "grade": 57.69,
+        "name": "Bob Boozer",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 81,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/boozebo01.jpg",
+        "id": "boozebo01",
+        "age": "26",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/b/boozebo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 25"
+        ],
+        "worst_category": [
+            "3P%: 84",
+            "STL: 84",
+            "BLK: 84",
+            "BPM: 84",
+            "USG%: 84",
+            "OBPM: 84",
+            "DBPM: 84",
+            "VORP: 84"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "9",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1964.png",
+        "rank": 69
+    },
+    "imhofda01": {
+        "grade": 56.92,
+        "name": "Darrall Imhoff",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 58,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/imhofda01.jpg",
+        "id": "imhofda01",
+        "age": "25",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/i/imhofda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 44"
+        ],
+        "worst_category": [
+            "FT%: 80"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1964.png",
+        "rank": 70
+    },
+    "nordmbe01": {
+        "grade": 56.09,
+        "name": "Bevo Nordmann",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 19,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/nordmbe01.jpg",
+        "id": "nordmbe01",
+        "age": "24",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/n/nordmbe01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 29",
+            "STL: 29",
+            "BLK: 29",
+            "BPM: 29",
+            "USG%: 29",
+            "OBPM: 29",
+            "DBPM: 29",
+            "VORP: 29"
+        ],
+        "worst_category": [
+            "PTS: 93",
+            "AST: 93",
+            "FT%: 93",
+            "PER: 93"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in West",
+        "team_league_ranking": "4",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1964.png",
+        "rank": 71
+    },
+    "hardire01": {
+        "grade": 55.95,
+        "name": "Reggie Harding",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 39,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hardire01.jpg",
+        "id": "hardire01",
+        "age": "21",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/h/hardire01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 12"
+        ],
+        "worst_category": [
+            "WS: 85"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1964.png",
+        "rank": 72
+    },
+    "joneswi01": {
+        "grade": 55.85,
+        "name": "Willie Jones",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 77,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/joneswi01.jpg",
+        "id": "joneswi01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/j/joneswi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 38"
+        ],
+        "worst_category": [
+            "WS: 89"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1964.png",
+        "rank": 73
+    },
+    "ellisle01": {
+        "grade": 55.4,
+        "name": "Leroy Ellis",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 78,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ellisle01.jpg",
+        "id": "ellisle01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/e/ellisle01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 29"
+        ],
+        "worst_category": [
+            "AST: 91"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West",
+        "team_league_ranking": "5",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1964.png",
+        "rank": 74
+    },
+    "krebsji01": {
+        "grade": 55.16,
+        "name": "Jim Krebs",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 68,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/krebsji01.jpg",
+        "id": "krebsji01",
+        "age": "28",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/k/krebsji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 31"
+        ],
+        "worst_category": [
+            "FG%: 82",
+            "2P%: 82",
+            "eFG%: 82"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West",
+        "team_league_ranking": "5",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1964.png",
+        "rank": 75
+    },
+    "hooveto01": {
+        "grade": 55.12,
+        "name": "Tom Hoover",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 59,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hooveto01.jpg",
+        "id": "hooveto01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/h/hooveto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 38"
+        ],
+        "worst_category": [
+            "DWS: 89"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "9",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1964.png",
+        "rank": 76
+    },
+    "farmemi01": {
+        "grade": 53.67,
+        "name": "Mike Farmer",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 76,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/farmemi01.jpg",
+        "id": "farmemi01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/f/farmemi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 8"
+        ],
+        "worst_category": [
+            "PER: 81"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in West",
+        "team_league_ranking": "4",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1964.png",
+        "rank": 77
+    },
+    "bridgbi01": {
+        "grade": 52.98,
+        "name": "Bill Bridges",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 80,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bridgbi01.jpg",
+        "id": "bridgbi01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/b/bridgbi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 19"
+        ],
+        "worst_category": [
+            "3P%: 83",
+            "STL: 83",
+            "BLK: 83",
+            "BPM: 83",
+            "USG%: 83",
+            "OBPM: 83",
+            "DBPM: 83",
+            "VORP: 83"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in West",
+        "team_league_ranking": "4",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1964.png",
+        "rank": 78
+    },
+    "butleal01": {
+        "grade": 52.56,
+        "name": "Al Butler",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 76,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/butleal01.jpg",
+        "id": "butleal01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/butleal01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 40"
+        ],
+        "worst_category": [
+            "DWS: 90"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "9",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1964.png",
+        "rank": 79
+    },
+    "milesed01": {
+        "grade": 51.45,
+        "name": "Eddie Miles",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 60,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/milesed01.jpg",
+        "id": "milesed01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/m/milesed01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 34",
+            "STL: 34",
+            "BLK: 34",
+            "BPM: 34",
+            "USG%: 34",
+            "OBPM: 34",
+            "DBPM: 34",
+            "VORP: 34"
+        ],
+        "worst_category": [
+            "WS: 92",
+            "WS/48: 92"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1964.png",
+        "rank": 80
+    },
+    "hillga01": {
+        "grade": 51.35,
+        "name": "Gary Hill",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 67,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hillga01.jpg",
+        "id": "hillga01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/h/hillga01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 39"
+        ],
+        "worst_category": [
+            "TRB: 90",
+            "PER: 90"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1964.png",
+        "rank": 81
+    },
+    "bockhbu01": {
+        "grade": 50.59,
+        "name": "Bucky Bockhorn",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 70,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bockhbu01.jpg",
+        "id": "bockhbu01",
+        "age": "30",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/b/bockhbu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 32"
+        ],
+        "worst_category": [
+            "3P%: 85",
+            "STL: 85",
+            "BLK: 85",
+            "BPM: 85",
+            "USG%: 85",
+            "OBPM: 85",
+            "DBPM: 85",
+            "VORP: 85"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in East",
+        "team_league_ranking": "2",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1964.png",
+        "rank": 82
+    },
+    "buddda01": {
+        "grade": 50.31,
+        "name": "Dave Budd",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 73,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/buddda01.jpg",
+        "id": "buddda01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/b/buddda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 34"
+        ],
+        "worst_category": [
+            "DWS: 91"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "9",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1964.png",
+        "rank": 83
+    },
+    "butchdo01": {
+        "grade": 49.1,
+        "name": "Donnie Butcher",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 78,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/butchdo01.jpg",
+        "id": "butchdo01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/butchdo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 23"
+        ],
+        "worst_category": [
+            "3P%: 81",
+            "STL: 81",
+            "BLK: 81",
+            "BPM: 81",
+            "USG%: 81",
+            "OBPM: 81",
+            "DBPM: 81",
+            "VORP: 81"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1964.png",
+        "rank": 84
+    },
+    "debusda01": {
+        "grade": 48.2,
+        "name": "Dave DeBusschere*",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 15,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/debusda01.jpg",
+        "id": "debusda01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/d/debusda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 27"
+        ],
+        "worst_category": [
+            "DWS: 87"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1964.png",
+        "rank": 85
+    },
+    "duffybo02": {
+        "grade": 48.16,
+        "name": "Bob Duffy",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 48,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/duffybo02.jpg",
+        "id": "duffybo02",
+        "age": "23",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/d/duffybo02.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 55"
+        ],
+        "worst_category": [
+            "TRB: 92"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1964.png",
+        "rank": 86
+    },
+    "greenje01": {
+        "grade": 46.6,
+        "name": "Jerry Greenspan",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 20,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/greenje01.jpg",
+        "id": "greenje01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/greenje01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 60"
+        ],
+        "worst_category": [
+            "FG%: 90",
+            "2P%: 90",
+            "eFG%: 90"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1964.png",
+        "rank": 87
+    },
+    "dierkco01": {
+        "grade": 45.81,
+        "name": "Connie Dierking",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 76,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/dierkco01.jpg",
+        "id": "dierkco01",
+        "age": "27",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/d/dierkco01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 39"
+        ],
+        "worst_category": [
+            "OWS: 86"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1964.png",
+        "rank": 88
+    },
+    "barnhjo01": {
+        "grade": 45.08,
+        "name": "John Barnhill",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 74,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/barnhjo01.jpg",
+        "id": "barnhjo01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/b/barnhjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 45"
+        ],
+        "worst_category": [
+            "3P%: 90",
+            "STL: 90",
+            "BLK: 90",
+            "BPM: 90",
+            "USG%: 90",
+            "OBPM: 90",
+            "DBPM: 90",
+            "VORP: 90"
+        ],
+        "team_standing_string": "Finished in West in 1964 in West in West",
+        "team_league_ranking": "4",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1964.png",
+        "rank": 89
+    },
+    "cableba01": {
+        "grade": 44.08,
+        "name": "Barney Cable",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 71,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/cableba01.jpg",
+        "id": "cableba01",
+        "age": "28",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/c/cableba01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 55"
+        ],
+        "worst_category": [
+            "PTS: 91",
+            "PER: 91"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "7",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1964.png",
+        "rank": 90
+    },
+    "conlege01": {
+        "grade": 42.38,
+        "name": "Gene Conley",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 46,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/conlege01.jpg",
+        "id": "conlege01",
+        "age": "33",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/c/conlege01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 62"
+        ],
+        "worst_category": [
+            "DWS: 93"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "9",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1964.png",
+        "rank": 91
+    },
+    "biancal01": {
+        "grade": 42.21,
+        "name": "Al Bianchi",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 78,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/biancal01.jpg",
+        "id": "biancal01",
+        "age": "31",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/biancal01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 27"
+        ],
+        "worst_category": [
+            "WS: 90",
+            "WS/48: 90"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1964.png",
+        "rank": 92
+    },
+    "arnetja01": {
+        "grade": 37.64,
+        "name": "Jay Arnette",
+        "league_grade": 70.57,
+        "year": 1964,
+        "games_played": 48,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/arnetja01.jpg",
+        "id": "arnetja01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/a/arnetja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 25"
+        ],
+        "worst_category": [
+            "TRB: 93",
+            "3P%: 93",
+            "STL: 93",
+            "BLK: 93",
+            "BPM: 93",
+            "USG%: 93",
+            "OBPM: 93",
+            "DBPM: 93",
+            "VORP: 93"
+        ],
+        "team_standing_string": "Finished in East in 1964 in East in East",
+        "team_league_ranking": "2",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1964.png",
+        "rank": 93
+    }
+}

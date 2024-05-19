@@ -26,3 +26,7 @@ def dump(path, data, wait=False):
         if wait:
             time.sleep(3)
         file.write(json.dumps(data, ensure_ascii=False, indent=4))
+
+def load(path):
+    with open(path, "r") as file:
+        return json.load(file)

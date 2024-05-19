@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "Chicago Bulls",
+            "/teams/CHI/1998.html"
+        ],
+        [
+            "Michael Jordan",
+            "/players/j/jordami01.html"
+        ],
+        [
+            [
+                "Tim Duncan",
+                "/players/d/duncati01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Tim Duncan",
+                "/players/d/duncati01.html"
+            ],
+            [
+                "Michael Jordan",
+                "/players/j/jordami01.html"
+            ],
+            [
+                "Karl Malone",
+                "/players/m/malonka01.html"
+            ],
+            [
+                "Shaquille O'Neal",
+                "/players/o/onealsh01.html"
+            ],
+            [
+                "Gary Payton",
+                "/players/p/paytoga01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Vin Baker",
+                "/players/b/bakervi01.html"
+            ],
+            [
+                "Tim Hardaway",
+                "/players/h/hardati01.html"
+            ],
+            [
+                "Grant Hill",
+                "/players/h/hillgr01.html"
+            ],
+            [
+                "David Robinson",
+                "/players/r/robinda01.html"
+            ],
+            [
+                "Rod Strickland",
+                "/players/s/stricro02.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Reggie Miller",
+                "/players/m/millere01.html"
+            ],
+            [
+                "Dikembe Mutombo",
+                "/players/m/mutomdi01.html"
+            ],
+            [
+                "Scottie Pippen",
+                "/players/p/pippesc01.html"
+            ],
+            [
+                "Glen Rice",
+                "/players/r/ricegl01.html"
+            ],
+            [
+                "Mitch Richmond",
+                "/players/r/richmmi01.html"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "Los Angeles Lakers",
+            "/teams/LAL/2010.html"
+        ],
+        [
+            "LeBron James",
+            "/players/j/jamesle01.html"
+        ],
+        [
+            [
+                "Tyreke Evans",
+                "/players/e/evansty01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Kobe Bryant",
+                "/players/b/bryanko01.html"
+            ],
+            [
+                "Kevin Durant",
+                "/players/d/duranke01.html"
+            ],
+            [
+                "Dwight Howard",
+                "/players/h/howardw01.html"
+            ],
+            [
+                "LeBron James",
+                "/players/j/jamesle01.html"
+            ],
+            [
+                "Dwyane Wade",
+                "/players/w/wadedw01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Carmelo Anthony",
+                "/players/a/anthoca01.html"
+            ],
+            [
+                "Steve Nash",
+                "/players/n/nashst01.html"
+            ],
+            [
+                "Dirk Nowitzki",
+                "/players/n/nowitdi01.html"
+            ],
+            [
+                "Amar'e Stoudemire",
+                "/players/s/stoudam01.html"
+            ],
+            [
+                "Deron Williams",
+                "/players/w/willide01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Andrew Bogut",
+                "/players/b/bogutan01.html"
+            ],
+            [
+                "Tim Duncan",
+                "/players/d/duncati01.html"
+            ],
+            [
+                "Pau Gasol",
+                "/players/g/gasolpa01.html"
+            ],
+            [
+                "Joe Johnson",
+                "/players/j/johnsjo02.html"
+            ],
+            [
+                "Brandon Roy",
+                "/players/r/roybr01.html"
+            ]
+        ]
+    }
+}

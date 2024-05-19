@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "Los Angeles Lakers",
+            "/teams/LAL/2002.html"
+        ],
+        [
+            "Tim Duncan",
+            "/players/d/duncati01.html"
+        ],
+        [
+            [
+                "Pau Gasol",
+                "/players/g/gasolpa01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Kobe Bryant",
+                "/players/b/bryanko01.html"
+            ],
+            [
+                "Tim Duncan",
+                "/players/d/duncati01.html"
+            ],
+            [
+                "Jason Kidd",
+                "/players/k/kiddja01.html"
+            ],
+            [
+                "Tracy McGrady",
+                "/players/m/mcgratr01.html"
+            ],
+            [
+                "Shaquille O'Neal",
+                "/players/o/onealsh01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Kevin Garnett",
+                "/players/g/garneke01.html"
+            ],
+            [
+                "Allen Iverson",
+                "/players/i/iversal01.html"
+            ],
+            [
+                "Dirk Nowitzki",
+                "/players/n/nowitdi01.html"
+            ],
+            [
+                "Gary Payton",
+                "/players/p/paytoga01.html"
+            ],
+            [
+                "Chris Webber",
+                "/players/w/webbech01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Dikembe Mutombo",
+                "/players/m/mutomdi01.html"
+            ],
+            [
+                "Steve Nash",
+                "/players/n/nashst01.html"
+            ],
+            [
+                "Jermaine O'Neal",
+                "/players/o/onealje01.html"
+            ],
+            [
+                "Paul Pierce",
+                "/players/p/piercpa01.html"
+            ],
+            [
+                "Ben Wallace",
+                "/players/w/wallabe01.html"
+            ]
+        ]
+    }
+}

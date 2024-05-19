@@ -1,0 +1,65 @@
+{
+    "awards": [
+        [
+            "Los Angeles Lakers",
+            "/teams/LAL/1985.html"
+        ],
+        [
+            "Larry Bird",
+            "/players/b/birdla01.html"
+        ],
+        [
+            [
+                "Michael Jordan",
+                "/players/j/jordami01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Larry Bird",
+                "/players/b/birdla01.html"
+            ],
+            [
+                "Magic Johnson",
+                "/players/j/johnsma02.html"
+            ],
+            [
+                "Bernard King",
+                "/players/k/kingbe01.html"
+            ],
+            [
+                "Moses Malone",
+                "/players/m/malonmo01.html"
+            ],
+            [
+                "Isiah Thomas",
+                "/players/t/thomais01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Kareem Abdul-Jabbar",
+                "/players/a/abdulka01.html"
+            ],
+            [
+                "Terry Cummings",
+                "/players/c/cummite01.html"
+            ],
+            [
+                "Michael Jordan",
+                "/players/j/jordami01.html"
+            ],
+            [
+                "Sidney Moncrief",
+                "/players/m/moncrsi01.html"
+            ],
+            [
+                "Ralph Sampson",
+                "/players/s/sampsra01.html"
+            ]
+        ],
+        "3st Team": []
+    }
+}

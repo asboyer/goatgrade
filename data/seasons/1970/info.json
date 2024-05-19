@@ -1,0 +1,65 @@
+{
+    "awards": [
+        [
+            "New York Knicks",
+            "/teams/NYK/1970.html"
+        ],
+        [
+            "Willis Reed",
+            "/players/r/reedwi01.html"
+        ],
+        [
+            [
+                "Kareem Abdul-Jabbar",
+                "/players/a/abdulka01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Billy Cunningham",
+                "/players/c/cunnibi01.html"
+            ],
+            [
+                "Walt Frazier",
+                "/players/f/fraziwa01.html"
+            ],
+            [
+                "Connie Hawkins",
+                "/players/h/hawkico01.html"
+            ],
+            [
+                "Willis Reed",
+                "/players/r/reedwi01.html"
+            ],
+            [
+                "Jerry West",
+                "/players/w/westje01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Kareem Abdul-Jabbar",
+                "/players/a/abdulka01.html"
+            ],
+            [
+                "John Havlicek",
+                "/players/h/havlijo01.html"
+            ],
+            [
+                "Lou Hudson",
+                "/players/h/hudsolo01.html"
+            ],
+            [
+                "Gus Johnson",
+                "/players/j/johnsgu01.html"
+            ],
+            [
+                "Oscar Robertson",
+                "/players/r/roberos01.html"
+            ]
+        ],
+        "3st Team": []
+    }
+}

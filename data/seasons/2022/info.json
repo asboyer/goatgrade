@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "Golden State Warriors",
+            "/teams/GSW/2022.html"
+        ],
+        [
+            "Nikola Jokić",
+            "/players/j/jokicni01.html"
+        ],
+        [
+            [
+                "Scottie Barnes",
+                "/players/b/barnesc01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Giannis Antetokounmpo",
+                "/players/a/antetgi01.html"
+            ],
+            [
+                "Devin Booker",
+                "/players/b/bookede01.html"
+            ],
+            [
+                "Luka Dončić",
+                "/players/d/doncilu01.html"
+            ],
+            [
+                "Nikola Jokić",
+                "/players/j/jokicni01.html"
+            ],
+            [
+                "Jayson Tatum",
+                "/players/t/tatumja01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Stephen Curry",
+                "/players/c/curryst01.html"
+            ],
+            [
+                "DeMar DeRozan",
+                "/players/d/derozde01.html"
+            ],
+            [
+                "Kevin Durant",
+                "/players/d/duranke01.html"
+            ],
+            [
+                "Joel Embiid",
+                "/players/e/embiijo01.html"
+            ],
+            [
+                "Ja Morant",
+                "/players/m/moranja01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "LeBron James",
+                "/players/j/jamesle01.html"
+            ],
+            [
+                "Chris Paul",
+                "/players/p/paulch01.html"
+            ],
+            [
+                "Pascal Siakam",
+                "/players/s/siakapa01.html"
+            ],
+            [
+                "Karl-Anthony Towns",
+                "/players/t/townska01.html"
+            ],
+            [
+                "Trae Young",
+                "/players/y/youngtr01.html"
+            ]
+        ]
+    }
+}

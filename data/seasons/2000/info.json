@@ -1,0 +1,90 @@
+{
+    "awards": [
+        [
+            "Los Angeles Lakers",
+            "/teams/LAL/2000.html"
+        ],
+        [
+            "Shaquille O'Neal",
+            "/players/o/onealsh01.html"
+        ],
+        [
+            [
+                "Elton Brand",
+                "/players/b/brandel01.html"
+            ],
+            [
+                "Steve Francis",
+                "/players/f/francst01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Tim Duncan",
+                "/players/d/duncati01.html"
+            ],
+            [
+                "Kevin Garnett",
+                "/players/g/garneke01.html"
+            ],
+            [
+                "Jason Kidd",
+                "/players/k/kiddja01.html"
+            ],
+            [
+                "Shaquille O'Neal",
+                "/players/o/onealsh01.html"
+            ],
+            [
+                "Gary Payton",
+                "/players/p/paytoga01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Kobe Bryant",
+                "/players/b/bryanko01.html"
+            ],
+            [
+                "Grant Hill",
+                "/players/h/hillgr01.html"
+            ],
+            [
+                "Allen Iverson",
+                "/players/i/iversal01.html"
+            ],
+            [
+                "Karl Malone",
+                "/players/m/malonka01.html"
+            ],
+            [
+                "Alonzo Mourning",
+                "/players/m/mournal01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Vince Carter",
+                "/players/c/cartevi01.html"
+            ],
+            [
+                "Eddie Jones",
+                "/players/j/jonesed02.html"
+            ],
+            [
+                "Stephon Marbury",
+                "/players/m/marbust01.html"
+            ],
+            [
+                "David Robinson",
+                "/players/r/robinda01.html"
+            ],
+            [
+                "Chris Webber",
+                "/players/w/webbech01.html"
+            ]
+        ]
+    }
+}

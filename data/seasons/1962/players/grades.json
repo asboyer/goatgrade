@@ -1,0 +1,2680 @@
+{
+    "westje01": {
+        "grade": 95.62,
+        "name": "Jerry West*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 75,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/westje01.jpg",
+        "id": "westje01",
+        "age": "23",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/westje01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 2",
+            "STL: 2",
+            "BLK: 2",
+            "BPM: 2",
+            "USG%: 2",
+            "OBPM: 2",
+            "DBPM: 2",
+            "VORP: 2"
+        ],
+        "worst_category": [
+            "FT%: 28"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1962.png",
+        "rank": 1
+    },
+    "roberos01": {
+        "grade": 93.63,
+        "name": "Oscar Robertson*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 79,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/roberos01.jpg",
+        "id": "roberos01",
+        "age": "23",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/r/roberos01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 1",
+            "TS%: 1"
+        ],
+        "worst_category": [
+            "DWS: 33"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West",
+        "team_league_ranking": "4",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1962.png",
+        "rank": 2
+    },
+    "twymaja01": {
+        "grade": 93.07,
+        "name": "Jack Twyman*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/twymaja01.jpg",
+        "id": "twymaja01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/t/twymaja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 3",
+            "2P%: 3",
+            "eFG%: 3"
+        ],
+        "worst_category": [
+            "DWS: 58"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West",
+        "team_league_ranking": "4",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1962.png",
+        "rank": 3
+    },
+    "russebi01": {
+        "grade": 89.93,
+        "name": "Bill Russell*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 76,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/russebi01.jpg",
+        "id": "russebi01",
+        "age": "27",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/r/russebi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 1"
+        ],
+        "worst_category": [
+            "FT%: 82"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1962.png",
+        "rank": 4
+    },
+    "pettibo01": {
+        "grade": 89.07,
+        "name": "Bob Pettit*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 78,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/pettibo01.jpg",
+        "id": "pettibo01",
+        "age": "29",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/p/pettibo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 4",
+            "TRB: 4"
+        ],
+        "worst_category": [
+            "DWS: 37"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
+        "rank": 5
+    },
+    "shuege01": {
+        "grade": 84.54,
+        "name": "Gene Shue",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/shuege01.jpg",
+        "id": "shuege01",
+        "age": "30",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/s/shuege01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 6"
+        ],
+        "worst_category": [
+            "TRB: 54"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1962.png",
+        "rank": 6
+    },
+    "shaffle01": {
+        "grade": 83.88,
+        "name": "Lee Shaffer",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 75,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/shaffle01.jpg",
+        "id": "shaffle01",
+        "age": "22",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/s/shaffle01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 11",
+            "STL: 11",
+            "BLK: 11",
+            "BPM: 11",
+            "USG%: 11",
+            "OBPM: 11",
+            "DBPM: 11",
+            "VORP: 11"
+        ],
+        "worst_category": [
+            "AST: 68"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1962.png",
+        "rank": 7
+    },
+    "larusru01": {
+        "grade": 83.68,
+        "name": "Rudy LaRusso",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/larusru01.jpg",
+        "id": "larusru01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/l/larusru01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 7"
+        ],
+        "worst_category": [
+            "AST: 44"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1962.png",
+        "rank": 8
+    },
+    "selvyfr01": {
+        "grade": 82.72,
+        "name": "Frank Selvy",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 79,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/selvyfr01.jpg",
+        "id": "selvyfr01",
+        "age": "29",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/selvyfr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 11"
+        ],
+        "worst_category": [
+            "TRB: 51"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1962.png",
+        "rank": 9
+    },
+    "ramsefr01": {
+        "grade": 82.55,
+        "name": "Frank Ramsey*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 79,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ramsefr01.jpg",
+        "id": "ramsefr01",
+        "age": "30",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/r/ramsefr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 5"
+        ],
+        "worst_category": [
+            "AST: 64"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1962.png",
+        "rank": 10
+    },
+    "sandeto01": {
+        "grade": 82.35,
+        "name": "Tom Sanders*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sandeto01.jpg",
+        "id": "sandeto01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/s/sandeto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 5"
+        ],
+        "worst_category": [
+            "AST: 82"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1962.png",
+        "rank": 11
+    },
+    "jonessa01": {
+        "grade": 82.06,
+        "name": "Sam Jones*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 78,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/jonessa01.jpg",
+        "id": "jonessa01",
+        "age": "28",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/j/jonessa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 6"
+        ],
+        "worst_category": [
+            "3P%: 46",
+            "STL: 46",
+            "BLK: 46",
+            "BPM: 46",
+            "USG%: 46",
+            "OBPM: 46",
+            "DBPM: 46",
+            "VORP: 46"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1962.png",
+        "rank": 12
+    },
+    "lovelcl01": {
+        "grade": 81.89,
+        "name": "Clyde Lovellette*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 40,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lovelcl01.jpg",
+        "id": "lovelcl01",
+        "age": "32",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/l/lovelcl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 4"
+        ],
+        "worst_category": [
+            "DWS: 79"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
+        "rank": 13
+    },
+    "howelba01": {
+        "grade": 81.69,
+        "name": "Bailey Howell*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 79,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/howelba01.jpg",
+        "id": "howelba01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/howelba01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 4"
+        ],
+        "worst_category": [
+            "3P%: 52",
+            "STL: 52",
+            "BLK: 52",
+            "BPM: 52",
+            "USG%: 52",
+            "OBPM: 52",
+            "DBPM: 52",
+            "VORP: 52"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1962.png",
+        "rank": 14
+    },
+    "naullwi01": {
+        "grade": 81.66,
+        "name": "Willie Naulls",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 75,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/naullwi01.jpg",
+        "id": "naullwi01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/n/naullwi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 2"
+        ],
+        "worst_category": [
+            "FG%: 47",
+            "TS%: 47",
+            "2P%: 47",
+            "eFG%: 47"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1962.png",
+        "rank": 15
+    },
+    "kerrre01": {
+        "grade": 80.01,
+        "name": "Red Kerr",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kerrre01.jpg",
+        "id": "kerrre01",
+        "age": "29",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/k/kerrre01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 6",
+            "DWS: 6"
+        ],
+        "worst_category": [
+            "FT%: 45"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1962.png",
+        "rank": 16
+    },
+    "gueriri01": {
+        "grade": 79.94,
+        "name": "Richie Guerin*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 78,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/gueriri01.jpg",
+        "id": "gueriri01",
+        "age": "29",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/gueriri01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 4"
+        ],
+        "worst_category": [
+            "3P%: 59",
+            "STL: 59",
+            "BLK: 59",
+            "BPM: 59",
+            "USG%: 59",
+            "OBPM: 59",
+            "DBPM: 59",
+            "VORP: 59"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1962.png",
+        "rank": 17
+    },
+    "hagancl01": {
+        "grade": 79.71,
+        "name": "Cliff Hagan*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 77,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hagancl01.jpg",
+        "id": "hagancl01",
+        "age": "30",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/hagancl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 6"
+        ],
+        "worst_category": [
+            "3P%: 58",
+            "STL: 58",
+            "BLK: 58",
+            "BPM: 58",
+            "USG%: 58",
+            "OBPM: 58",
+            "DBPM: 58",
+            "VORP: 58"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
+        "rank": 18
+    },
+    "wilkele01": {
+        "grade": 79.25,
+        "name": "Lenny Wilkens*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 20,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/wilkele01.jpg",
+        "id": "wilkele01",
+        "age": "24",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/wilkele01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 1",
+            "STL: 1",
+            "BLK: 1",
+            "BPM: 1",
+            "USG%: 1",
+            "OBPM: 1",
+            "DBPM: 1",
+            "VORP: 1"
+        ],
+        "worst_category": [
+            "DWS: 86"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
+        "rank": 19
+    },
+    "ohldo01": {
+        "grade": 79.21,
+        "name": "Don Ohl",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 77,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ohldo01.jpg",
+        "id": "ohldo01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/o/ohldo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 22",
+            "FG%: 22",
+            "2P%: 22",
+            "eFG%: 22"
+        ],
+        "worst_category": [
+            "TRB: 69"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1962.png",
+        "rank": 20
+    },
+    "greerha01": {
+        "grade": 78.45,
+        "name": "Hal Greer*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 71,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/greerha01.jpg",
+        "id": "greerha01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/greerha01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 9"
+        ],
+        "worst_category": [
+            "3P%: 60",
+            "STL: 60",
+            "BLK: 60",
+            "BPM: 60",
+            "USG%: 60",
+            "OBPM: 60",
+            "DBPM: 60",
+            "VORP: 60"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1962.png",
+        "rank": 21
+    },
+    "schaydo01": {
+        "grade": 77.59,
+        "name": "Dolph Schayes*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 56,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/schaydo01.jpg",
+        "id": "schaydo01",
+        "age": "33",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/schaydo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 1"
+        ],
+        "worst_category": [
+            "FG%: 78",
+            "2P%: 78",
+            "eFG%: 78"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1962.png",
+        "rank": 22
+    },
+    "heinsto01": {
+        "grade": 77.1,
+        "name": "Tom Heinsohn*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 79,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/heinsto01.jpg",
+        "id": "heinsto01",
+        "age": "27",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/heinsto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 4"
+        ],
+        "worst_category": [
+            "3P%: 54",
+            "STL: 54",
+            "BLK: 54",
+            "BPM: 54",
+            "USG%: 54",
+            "OBPM: 54",
+            "DBPM: 54",
+            "VORP: 54"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1962.png",
+        "rank": 23
+    },
+    "chambwi01": {
+        "grade": 76.76,
+        "name": "Wilt Chamberlain*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/chambwi01.jpg",
+        "id": "chambwi01",
+        "age": "25",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/c/chambwi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 1",
+            "TRB: 1",
+            "MP: 1",
+            "PER: 1",
+            "WS: 1",
+            "OWS: 1",
+            "WS/48: 1"
+        ],
+        "worst_category": [
+            "3P%: 78",
+            "STL: 78",
+            "BLK: 78",
+            "BPM: 78",
+            "USG%: 78",
+            "OBPM: 78",
+            "DBPM: 78",
+            "VORP: 78"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1962.png",
+        "rank": 24
+    },
+    "scottra01": {
+        "grade": 76.3,
+        "name": "Ray Scott",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 75,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/scottra01.jpg",
+        "id": "scottra01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/scottra01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 12"
+        ],
+        "worst_category": [
+            "FG%: 63",
+            "FT%: 63",
+            "2P%: 63",
+            "eFG%: 63"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1962.png",
+        "rank": 25
+    },
+    "smithad01": {
+        "grade": 74.68,
+        "name": "Adrian Smith",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/smithad01.jpg",
+        "id": "smithad01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/smithad01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 8",
+            "STL: 8",
+            "BLK: 8",
+            "BPM: 8",
+            "USG%: 8",
+            "OBPM: 8",
+            "DBPM: 8",
+            "VORP: 8"
+        ],
+        "worst_category": [
+            "TRB: 85"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West",
+        "team_league_ranking": "4",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1962.png",
+        "rank": 26
+    },
+    "meschto01": {
+        "grade": 74.42,
+        "name": "Tom Meschery",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/meschto01.jpg",
+        "id": "meschto01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/m/meschto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 7"
+        ],
+        "worst_category": [
+            "PER: 60"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1962.png",
+        "rank": 27
+    },
+    "krebsji01": {
+        "grade": 74.25,
+        "name": "Jim Krebs",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 78,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/krebsji01.jpg",
+        "id": "krebsji01",
+        "age": "26",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/k/krebsji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 21",
+            "2P%: 21",
+            "eFG%: 21"
+        ],
+        "worst_category": [
+            "AST: 65"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1962.png",
+        "rank": 28
+    },
+    "neumapa01": {
+        "grade": 74.22,
+        "name": "Paul Neumann",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 77,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/neumapa01.jpg",
+        "id": "neumapa01",
+        "age": "24",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/n/neumapa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 21"
+        ],
+        "worst_category": [
+            "TRB: 80"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1962.png",
+        "rank": 29
+    },
+    "johnsan01": {
+        "grade": 73.42,
+        "name": "Andy Johnson",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 71,
+        "team": "CHP",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/johnsan01.jpg",
+        "id": "johnsan01",
+        "age": "29",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/j/johnsan01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 18",
+            "2P%: 18",
+            "eFG%: 18"
+        ],
+        "worst_category": [
+            "FT%: 72"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "9",
+        "team_name": "Chicago Packers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHP-1962.png",
+        "rank": 30
+    },
+    "embrywa01": {
+        "grade": 73.36,
+        "name": "Wayne Embry*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 75,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/embrywa01.jpg",
+        "id": "embrywa01",
+        "age": "24",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/e/embrywa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 8"
+        ],
+        "worst_category": [
+            "3P%: 70",
+            "STL: 70",
+            "BLK: 70",
+            "BPM: 70",
+            "USG%: 70",
+            "OBPM: 70",
+            "DBPM: 70",
+            "VORP: 70"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West",
+        "team_league_ranking": "4",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1962.png",
+        "rank": 31
+    },
+    "bellawa01": {
+        "grade": 73.26,
+        "name": "Walt Bellamy*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 79,
+        "team": "CHP",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bellawa01.jpg",
+        "id": "bellawa01",
+        "age": "22",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/b/bellawa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 1",
+            "2P%: 1",
+            "eFG%: 1"
+        ],
+        "worst_category": [
+            "3P%: 90",
+            "STL: 90",
+            "BLK: 90",
+            "BPM: 90",
+            "USG%: 90",
+            "OBPM: 90",
+            "DBPM: 90",
+            "VORP: 90"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "9",
+        "team_name": "Chicago Packers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHP-1962.png",
+        "rank": 32
+    },
+    "morelja01": {
+        "grade": 71.9,
+        "name": "Jackie Moreland",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 74,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/morelja01.jpg",
+        "id": "morelja01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/m/morelja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 30",
+            "STL: 30",
+            "BLK: 30",
+            "BPM: 30",
+            "USG%: 30",
+            "OBPM: 30",
+            "DBPM: 30",
+            "VORP: 30"
+        ],
+        "worst_category": [
+            "AST: 80"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1962.png",
+        "rank": 33
+    },
+    "mcmilsh01": {
+        "grade": 71.24,
+        "name": "Shellie McMillon",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 62,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mcmilsh01.jpg",
+        "id": "mcmilsh01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/m/mcmilsh01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 17",
+            "2P%: 17",
+            "eFG%: 17"
+        ],
+        "worst_category": [
+            "FT%: 83"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
+        "rank": 34
+    },
+    "gambeda01": {
+        "grade": 71.21,
+        "name": "Dave Gambee",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/gambeda01.jpg",
+        "id": "gambeda01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/g/gambeda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 12"
+        ],
+        "worst_category": [
+            "AST: 66"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1962.png",
+        "rank": 35
+    },
+    "reedhu01": {
+        "grade": 70.94,
+        "name": "Hub Reed",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/reedhu01.jpg",
+        "id": "reedhu01",
+        "age": "25",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/r/reedhu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 21",
+            "STL: 21",
+            "BLK: 21",
+            "BPM: 21",
+            "USG%: 21",
+            "OBPM: 21",
+            "DBPM: 21",
+            "VORP: 21"
+        ],
+        "worst_category": [
+            "AST: 85"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West",
+        "team_league_ranking": "4",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1962.png",
+        "rank": 36
+    },
+    "rodgegu01": {
+        "grade": 70.61,
+        "name": "Guy Rodgers*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/rodgegu01.jpg",
+        "id": "rodgegu01",
+        "age": "26",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/r/rodgegu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 2"
+        ],
+        "worst_category": [
+            "OWS: 88"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1962.png",
+        "rank": 37
+    },
+    "greenjo01": {
+        "grade": 70.51,
+        "name": "Johnny Green",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/greenjo01.jpg",
+        "id": "greenjo01",
+        "age": "28",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/g/greenjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 7"
+        ],
+        "worst_category": [
+            "FT%: 79"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1962.png",
+        "rank": 38
+    },
+    "roberjo01": {
+        "grade": 69.52,
+        "name": "Joe Roberts",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/roberjo01.jpg",
+        "id": "roberjo01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/r/roberjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 20",
+            "STL: 20",
+            "BLK: 20",
+            "BPM: 20",
+            "USG%: 20",
+            "OBPM: 20",
+            "DBPM: 20",
+            "VORP: 20"
+        ],
+        "worst_category": [
+            "AST: 90"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1962.png",
+        "rank": 39
+    },
+    "tyrach01": {
+        "grade": 69.42,
+        "name": "Charlie Tyra",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 78,
+        "team": "CHP",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/tyrach01.jpg",
+        "id": "tyrach01",
+        "age": "26",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/t/tyrach01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 4",
+            "STL: 4",
+            "BLK: 4",
+            "BPM: 4",
+            "USG%: 4",
+            "OBPM: 4",
+            "DBPM: 4",
+            "VORP: 4"
+        ],
+        "worst_category": [
+            "OWS: 84"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "9",
+        "team_name": "Chicago Packers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHP-1962.png",
+        "rank": 40
+    },
+    "golato01": {
+        "grade": 69.32,
+        "name": "Tom Gola*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 60,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/golato01.jpg",
+        "id": "golato01",
+        "age": "29",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/golato01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 10",
+            "MP: 10"
+        ],
+        "worst_category": [
+            "3P%: 64",
+            "STL: 64",
+            "BLK: 64",
+            "BPM: 64",
+            "USG%: 64",
+            "OBPM: 64",
+            "DBPM: 64",
+            "VORP: 64"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1962.png",
+        "rank": 41
+    },
+    "walkeho01": {
+        "grade": 69.32,
+        "name": "Horace Walker",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 65,
+        "team": "CHP",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/walkeho01.jpg",
+        "id": "walkeho01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/w/walkeho01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 3",
+            "STL: 3",
+            "BLK: 3",
+            "BPM: 3",
+            "USG%: 3",
+            "OBPM: 3",
+            "DBPM: 3",
+            "VORP: 3"
+        ],
+        "worst_category": [
+            "FG%: 87",
+            "2P%: 87",
+            "eFG%: 87"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "9",
+        "team_name": "Chicago Packers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHP-1962.png",
+        "rank": 42
+    },
+    "simsbo01": {
+        "grade": 69.22,
+        "name": "Bob Sims",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 65,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/simsbo01.jpg",
+        "id": "simsbo01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/simsbo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 9",
+            "STL: 9",
+            "BLK: 9",
+            "BPM: 9",
+            "USG%: 9",
+            "OBPM: 9",
+            "DBPM: 9",
+            "VORP: 9"
+        ],
+        "worst_category": [
+            "FT%: 88"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
+        "rank": 43
+    },
+    "bayloel01": {
+        "grade": 69.03,
+        "name": "Elgin Baylor*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 48,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bayloel01.jpg",
+        "id": "bayloel01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/b/bayloel01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 2",
+            "PER: 2"
+        ],
+        "worst_category": [
+            "3P%: 91",
+            "STL: 91",
+            "BLK: 91",
+            "BPM: 91",
+            "USG%: 91",
+            "OBPM: 91",
+            "DBPM: 91",
+            "VORP: 91"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1962.png",
+        "rank": 44
+    },
+    "costela01": {
+        "grade": 68.79,
+        "name": "Larry Costello*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 63,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/costela01.jpg",
+        "id": "costela01",
+        "age": "30",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/c/costela01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 3"
+        ],
+        "worst_category": [
+            "3P%: 76",
+            "STL: 76",
+            "BLK: 76",
+            "BPM: 76",
+            "USG%: 76",
+            "OBPM: 76",
+            "DBPM: 76",
+            "VORP: 76"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1962.png",
+        "rank": 45
+    },
+    "foustla01": {
+        "grade": 68.76,
+        "name": "Larry Foust",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 57,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/foustla01.jpg",
+        "id": "foustla01",
+        "age": "33",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/f/foustla01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 3"
+        ],
+        "worst_category": [
+            "DWS: 80"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
+        "rank": 46
+    },
+    "lacoufr01": {
+        "grade": 68.73,
+        "name": "Fred LaCour",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 73,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lacoufr01.jpg",
+        "id": "lacoufr01",
+        "age": "23",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/l/lacoufr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 13"
+        ],
+        "worst_category": [
+            "DWS: 74"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
+        "rank": 47
+    },
+    "ferrybo01": {
+        "grade": 68.23,
+        "name": "Bob Ferry",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ferrybo01.jpg",
+        "id": "ferrybo01",
+        "age": "24",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/f/ferrybo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PER: 19"
+        ],
+        "worst_category": [
+            "3P%: 67",
+            "STL: 67",
+            "BLK: 67",
+            "BPM: 67",
+            "USG%: 67",
+            "OBPM: 67",
+            "DBPM: 67",
+            "VORP: 67"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1962.png",
+        "rank": 48
+    },
+    "leonasl01": {
+        "grade": 68.23,
+        "name": "Slick Leonard*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 70,
+        "team": "CHP",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/leonasl01.jpg",
+        "id": "leonasl01",
+        "age": "29",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/l/leonasl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 9"
+        ],
+        "worst_category": [
+            "TRB: 75"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "9",
+        "team_name": "Chicago Packers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHP-1962.png",
+        "rank": 49
+    },
+    "joneskc01": {
+        "grade": 68.03,
+        "name": "K.C. Jones*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/joneskc01.jpg",
+        "id": "joneskc01",
+        "age": "29",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/j/joneskc01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 8"
+        ],
+        "worst_category": [
+            "FT%: 71"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1962.png",
+        "rank": 50
+    },
+    "turneja02": {
+        "grade": 66.38,
+        "name": "Jack Turner",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 42,
+        "team": "CHP",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/turneja02.jpg",
+        "id": "turneja02",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/t/turneja02.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 6",
+            "STL: 6",
+            "BLK: 6",
+            "BPM: 6",
+            "USG%: 6",
+            "OBPM: 6",
+            "DBPM: 6",
+            "VORP: 6"
+        ],
+        "worst_category": [
+            "DWS: 87"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "9",
+        "team_name": "Chicago Packers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHP-1962.png",
+        "rank": 51
+    },
+    "butleal01": {
+        "grade": 66.11,
+        "name": "Al Butler",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 59,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/butleal01.jpg",
+        "id": "butleal01",
+        "age": "23",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/butleal01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 13",
+            "2P%: 13",
+            "eFG%: 13"
+        ],
+        "worst_category": [
+            "3P%: 81",
+            "STL: 81",
+            "BLK: 81",
+            "BPM: 81",
+            "USG%: 81",
+            "OBPM: 81",
+            "DBPM: 81",
+            "VORP: 81"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1962.png",
+        "rank": 52
+    },
+    "sauldwo01": {
+        "grade": 64.83,
+        "name": "Woody Sauldsberry",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 63,
+        "team": "CHP",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sauldwo01.jpg",
+        "id": "sauldwo01",
+        "age": "27",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/sauldwo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 15",
+            "STL: 15",
+            "BLK: 15",
+            "BPM: 15",
+            "USG%: 15",
+            "OBPM: 15",
+            "DBPM: 15",
+            "VORP: 15"
+        ],
+        "worst_category": [
+            "WS: 93",
+            "OWS: 93",
+            "WS/48: 93"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "9",
+        "team_name": "Chicago Packers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHP-1962.png",
+        "rank": 53
+    },
+    "cousybo01": {
+        "grade": 64.56,
+        "name": "Bob Cousy*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 75,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/cousybo01.jpg",
+        "id": "cousybo01",
+        "age": "33",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/c/cousybo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 3",
+            "DWS: 3"
+        ],
+        "worst_category": [
+            "3P%: 75",
+            "STL: 75",
+            "BLK: 75",
+            "BPM: 75",
+            "USG%: 75",
+            "OBPM: 75",
+            "DBPM: 75",
+            "VORP: 75"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1962.png",
+        "rank": 54
+    },
+    "stithsa01": {
+        "grade": 64.1,
+        "name": "Sam Stith",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 32,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/stithsa01.jpg",
+        "id": "stithsa01",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/stithsa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 7",
+            "STL: 7",
+            "BLK: 7",
+            "BPM: 7",
+            "USG%: 7",
+            "OBPM: 7",
+            "DBPM: 7",
+            "VORP: 7"
+        ],
+        "worst_category": [
+            "TRB: 88",
+            "DWS: 88"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1962.png",
+        "rank": 55
+    },
+    "leege01": {
+        "grade": 63.73,
+        "name": "George Lee",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 75,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/leege01.jpg",
+        "id": "leege01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/l/leege01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 35"
+        ],
+        "worst_category": [
+            "AST: 83"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1962.png",
+        "rank": 56
+    },
+    "arizipa01": {
+        "grade": 63.24,
+        "name": "Paul Arizin*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 78,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/arizipa01.jpg",
+        "id": "arizipa01",
+        "age": "33",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/a/arizipa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 13"
+        ],
+        "worst_category": [
+            "3P%: 93",
+            "STL: 93",
+            "BLK: 93",
+            "BPM: 93",
+            "USG%: 93",
+            "OBPM: 93",
+            "DBPM: 93",
+            "VORP: 93"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1962.png",
+        "rank": 57
+    },
+    "attleal01": {
+        "grade": 62.81,
+        "name": "Al Attles*",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 75,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/attleal01.jpg",
+        "id": "attleal01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/a/attleal01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 5",
+            "2P%: 5",
+            "eFG%: 5"
+        ],
+        "worst_category": [
+            "3P%: 92",
+            "STL: 92",
+            "BLK: 92",
+            "BPM: 92",
+            "USG%: 92",
+            "OBPM: 92",
+            "DBPM: 92",
+            "VORP: 92"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1962.png",
+        "rank": 58
+    },
+    "hawkito01": {
+        "grade": 62.51,
+        "name": "Tom Hawkins",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 79,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hawkito01.jpg",
+        "id": "hawkito01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/hawkito01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 36"
+        ],
+        "worst_category": [
+            "AST: 71"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1962.png",
+        "rank": 59
+    },
+    "boozebo01": {
+        "grade": 61.95,
+        "name": "Bob Boozer",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 79,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/boozebo01.jpg",
+        "id": "boozebo01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/b/boozebo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 15"
+        ],
+        "worst_category": [
+            "3P%: 86",
+            "STL: 86",
+            "BLK: 86",
+            "BPM: 86",
+            "USG%: 86",
+            "OBPM: 86",
+            "DBPM: 86",
+            "VORP: 86"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West",
+        "team_league_ranking": "4",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1962.png",
+        "rank": 60
+    },
+    "dukeswa01": {
+        "grade": 61.29,
+        "name": "Walter Dukes",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 77,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/dukeswa01.jpg",
+        "id": "dukeswa01",
+        "age": "31",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/d/dukeswa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 14"
+        ],
+        "worst_category": [
+            "3P%: 72",
+            "STL: 72",
+            "BLK: 72",
+            "BPM: 72",
+            "USG%: 72",
+            "OBPM: 72",
+            "DBPM: 72",
+            "VORP: 72"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1962.png",
+        "rank": 61
+    },
+    "jordoph01": {
+        "grade": 61.25,
+        "name": "Phil Jordon",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 76,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/jordoph01.jpg",
+        "id": "jordoph01",
+        "age": "28",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/j/jordoph01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 38",
+            "MP: 38"
+        ],
+        "worst_category": [
+            "OWS: 92"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1962.png",
+        "rank": 62
+    },
+    "bockhbu01": {
+        "grade": 60.76,
+        "name": "Bucky Bockhorn",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bockhbu01.jpg",
+        "id": "bockhbu01",
+        "age": "28",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/b/bockhbu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "MP: 13"
+        ],
+        "worst_category": [
+            "3P%: 87",
+            "STL: 87",
+            "BLK: 87",
+            "BPM: 87",
+            "USG%: 87",
+            "OBPM: 87",
+            "DBPM: 87",
+            "VORP: 87"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West",
+        "team_league_ranking": "4",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1962.png",
+        "rank": 63
+    },
+    "greensi01": {
+        "grade": 60.66,
+        "name": "Si Green",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 71,
+        "team": "CHP",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/greensi01.jpg",
+        "id": "greensi01",
+        "age": "28",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/greensi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 17"
+        ],
+        "worst_category": [
+            "OWS: 70"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "9",
+        "team_name": "Chicago Packers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHP-1962.png",
+        "rank": 64
+    },
+    "piontda01": {
+        "grade": 59.93,
+        "name": "Dave Piontek",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 45,
+        "team": "CHP",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/piontda01.jpg",
+        "id": "piontda01",
+        "age": "27",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/p/piontda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 23",
+            "STL: 23",
+            "BLK: 23",
+            "BPM: 23",
+            "USG%: 23",
+            "OBPM: 23",
+            "DBPM: 23",
+            "VORP: 23"
+        ],
+        "worst_category": [
+            "AST: 86"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "9",
+        "team_name": "Chicago Packers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHP-1962.png",
+        "rank": 65
+    },
+    "jolifho01": {
+        "grade": 59.73,
+        "name": "Howie Jolliff",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 64,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/jolifho01.jpg",
+        "id": "jolifho01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/j/jolifho01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 42"
+        ],
+        "worst_category": [
+            "FT%: 92"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1962.png",
+        "rank": 66
+    },
+    "deesar01": {
+        "grade": 59.37,
+        "name": "Archie Dees",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 21,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/deesar01.jpg",
+        "id": "deesar01",
+        "age": "25",
+        "pos": "PF-C",
+        "link": "https://www.basketball-reference.com/players/d/deesar01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 15"
+        ],
+        "worst_category": [
+            "DWS: 92"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
+        "rank": 67
+    },
+    "laresyo01": {
+        "grade": 59.1,
+        "name": "York Larese",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 59,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/laresyo01.jpg",
+        "id": "laresyo01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/l/laresyo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 17"
+        ],
+        "worst_category": [
+            "TRB: 91"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1962.png",
+        "rank": 68
+    },
+    "felixra01": {
+        "grade": 59.0,
+        "name": "Ray Felix",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/felixra01.jpg",
+        "id": "felixra01",
+        "age": "31",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/f/felixra01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 34",
+            "2P%: 34",
+            "eFG%: 34"
+        ],
+        "worst_category": [
+            "AST: 88"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1962.png",
+        "rank": 69
+    },
+    "phillga01": {
+        "grade": 58.18,
+        "name": "Gary Phillips",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 67,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/phillga01.jpg",
+        "id": "phillga01",
+        "age": "22",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/p/phillga01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 24",
+            "STL: 24",
+            "BLK: 24",
+            "BPM: 24",
+            "USG%: 24",
+            "OBPM: 24",
+            "DBPM: 24",
+            "VORP: 24"
+        ],
+        "worst_category": [
+            "MP: 91"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1962.png",
+        "rank": 70
+    },
+    "imhofda01": {
+        "grade": 57.75,
+        "name": "Darrall Imhoff",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 76,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/imhofda01.jpg",
+        "id": "imhofda01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/i/imhofda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 40"
+        ],
+        "worst_category": [
+            "FT%: 86"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1962.png",
+        "rank": 71
+    },
+    "eganjo01": {
+        "grade": 57.58,
+        "name": "Johnny Egan",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 58,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/eganjo01.jpg",
+        "id": "eganjo01",
+        "age": "23",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/e/eganjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 34"
+        ],
+        "worst_category": [
+            "TRB: 90"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1962.png",
+        "rank": 72
+    },
+    "loscuji01": {
+        "grade": 57.55,
+        "name": "Jim Loscutoff",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 79,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/loscuji01.jpg",
+        "id": "loscuji01",
+        "age": "31",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/l/loscuji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 29"
+        ],
+        "worst_category": [
+            "AST: 91",
+            "OWS: 91"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1962.png",
+        "rank": 73
+    },
+    "joneswi01": {
+        "grade": 55.99,
+        "name": "Willie Jones",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 69,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/joneswi01.jpg",
+        "id": "joneswi01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/j/joneswi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 45",
+            "STL: 45",
+            "BLK: 45",
+            "BPM: 45",
+            "USG%: 45",
+            "OBPM: 45",
+            "DBPM: 45",
+            "VORP: 45"
+        ],
+        "worst_category": [
+            "OWS: 86"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1962.png",
+        "rank": 74
+    },
+    "mccarjo01": {
+        "grade": 55.86,
+        "name": "Johnny McCarthy",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 15,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mccarjo01.jpg",
+        "id": "mccarjo01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/m/mccarjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 13"
+        ],
+        "worst_category": [
+            "FG%: 93",
+            "FT%: 93",
+            "TS%: 93",
+            "2P%: 93",
+            "eFG%: 93"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
+        "rank": 75
+    },
+    "buddda01": {
+        "grade": 55.76,
+        "name": "Dave Budd",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 79,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/buddda01.jpg",
+        "id": "buddda01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/b/buddda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 31",
+            "2P%: 31",
+            "eFG%: 31"
+        ],
+        "worst_category": [
+            "3P%: 83",
+            "STL: 83",
+            "BLK: 83",
+            "BPM: 83",
+            "USG%: 83",
+            "OBPM: 83",
+            "DBPM: 83",
+            "VORP: 83"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1962.png",
+        "rank": 76
+    },
+    "hillcl01": {
+        "grade": 55.5,
+        "name": "Cleo Hill",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 58,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hillcl01.jpg",
+        "id": "hillcl01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/h/hillcl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 24"
+        ],
+        "worst_category": [
+            "FG%: 83",
+            "2P%: 83",
+            "eFG%: 83"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
+        "rank": 77
+    },
+    "buckhjo01": {
+        "grade": 55.17,
+        "name": "Joe Buckhalter",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 63,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/buckhjo01.jpg",
+        "id": "buckhjo01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/b/buckhjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 14",
+            "2P%: 14",
+            "eFG%: 14"
+        ],
+        "worst_category": [
+            "AST: 89",
+            "MP: 89"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West",
+        "team_league_ranking": "4",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1962.png",
+        "rank": 78
+    },
+    "davisra01": {
+        "grade": 55.17,
+        "name": "Ralph Davis",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 77,
+        "team": "CHP",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/davisra01.jpg",
+        "id": "davisra01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/d/davisra01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 28"
+        ],
+        "worst_category": [
+            "TRB: 83"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "9",
+        "team_name": "Chicago Packers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHP-1962.png",
+        "rank": 79
+    },
+    "ferraal01": {
+        "grade": 55.17,
+        "name": "Al Ferrari",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 79,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ferraal01.jpg",
+        "id": "ferraal01",
+        "age": "28",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/f/ferraal01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 20"
+        ],
+        "worst_category": [
+            "PER: 84"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
+        "rank": 80
+    },
+    "noblech01": {
+        "grade": 55.17,
+        "name": "Chuck Noble",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 26,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/noblech01.jpg",
+        "id": "noblech01",
+        "age": "30",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/n/noblech01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 27",
+            "STL: 27",
+            "BLK: 27",
+            "BPM: 27",
+            "USG%: 27",
+            "OBPM: 27",
+            "DBPM: 27",
+            "VORP: 27"
+        ],
+        "worst_category": [
+            "PTS: 93",
+            "PER: 93"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1962.png",
+        "rank": 81
+    },
+    "cableba01": {
+        "grade": 55.07,
+        "name": "Barney Cable",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 67,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/cableba01.jpg",
+        "id": "cableba01",
+        "age": "26",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/c/cableba01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 22"
+        ],
+        "worst_category": [
+            "3P%: 80",
+            "STL: 80",
+            "BLK: 80",
+            "BPM: 80",
+            "USG%: 80",
+            "OBPM: 80",
+            "DBPM: 80",
+            "VORP: 80"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
+        "rank": 82
+    },
+    "hundlho01": {
+        "grade": 55.07,
+        "name": "Hot Rod Hundley",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 78,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hundlho01.jpg",
+        "id": "hundlho01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/h/hundlho01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 23"
+        ],
+        "worst_category": [
+            "OWS: 90"
+        ],
+        "team_standing_string": "Finished in West in 1962 in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1962.png",
+        "rank": 83
+    },
+    "martiwh01": {
+        "grade": 54.97,
+        "name": "Whitey Martin",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 66,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/martiwh01.jpg",
+        "id": "martiwh01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/m/martiwh01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 34",
+            "STL: 34",
+            "BLK: 34",
+            "BPM: 34",
+            "USG%: 34",
+            "OBPM: 34",
+            "DBPM: 34",
+            "VORP: 34"
+        ],
+        "worst_category": [
+            "PER: 92"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1962.png",
+        "rank": 84
+    },
+    "halbrsw01": {
+        "grade": 54.94,
+        "name": "Swede Halbrook",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 64,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/halbrsw01.jpg",
+        "id": "halbrsw01",
+        "age": "29",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/h/halbrsw01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 41"
+        ],
+        "worst_category": [
+            "AST: 93"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1962.png",
+        "rank": 85
+    },
+    "hattove01": {
+        "grade": 54.8,
+        "name": "Vern Hatton",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 40,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hattove01.jpg",
+        "id": "hattove01",
+        "age": "26",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/h/hattove01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 22"
+        ],
+        "worst_category": [
+            "FG%: 88",
+            "2P%: 88",
+            "eFG%: 88"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
+        "rank": 86
+    },
+    "biancal01": {
+        "grade": 54.18,
+        "name": "Al Bianchi",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 80,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/biancal01.jpg",
+        "id": "biancal01",
+        "age": "29",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/biancal01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 25"
+        ],
+        "worst_category": [
+            "3P%: 89",
+            "STL: 89",
+            "BLK: 89",
+            "BPM: 89",
+            "USG%: 89",
+            "OBPM: 89",
+            "DBPM: 89",
+            "VORP: 89"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1962.png",
+        "rank": 87
+    },
+    "buckncl01": {
+        "grade": 53.75,
+        "name": "Cleveland Buckner",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 62,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/buckncl01.jpg",
+        "id": "buckncl01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/b/buckncl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PER: 26"
+        ],
+        "worst_category": [
+            "AST: 92"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1962.png",
+        "rank": 88
+    },
+    "grabojo01": {
+        "grade": 48.16,
+        "name": "Joe Graboski",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 38,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/grabojo01.jpg",
+        "id": "grabojo01",
+        "age": "32",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/g/grabojo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 62"
+        ],
+        "worst_category": [
+            "AST: 87",
+            "WS: 87",
+            "WS/48: 87"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1962.png",
+        "rank": 89
+    },
+    "conlied01": {
+        "grade": 44.88,
+        "name": "Ed Conlin",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 70,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/conlied01.jpg",
+        "id": "conlied01",
+        "age": "28",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/c/conlied01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 43"
+        ],
+        "worst_category": [
+            "PER: 89"
+        ],
+        "team_standing_string": "Finished in East in 1962 in East in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1962.png",
+        "rank": 90
+    },
+    "carlho01": {
+        "grade": 43.16,
+        "name": "Howie Carl",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 31,
+        "team": "CHP",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/carlho01.jpg",
+        "id": "carlho01",
+        "age": "23",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/c/carlho01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 52"
+        ],
+        "worst_category": [
+            "DWS: 93"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "9",
+        "team_name": "Chicago Packers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHP-1962.png",
+        "rank": 91
+    },
+    "blanege01": {
+        "grade": 40.91,
+        "name": "George Blaney",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 36,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/blanege01.jpg",
+        "id": "blanege01",
+        "age": "22",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/blanege01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 67",
+            "2P%: 67",
+            "eFG%: 67"
+        ],
+        "worst_category": [
+            "TRB: 93",
+            "MP: 93"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1962.png",
+        "rank": 92
+    },
+    "butchdo01": {
+        "grade": 40.09,
+        "name": "Donnie Butcher",
+        "league_grade": 73.89,
+        "year": 1962,
+        "games_played": 47,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/butchdo01.jpg",
+        "id": "butchdo01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/butchdo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 76"
+        ],
+        "worst_category": [
+            "PTS: 92",
+            "MP: 92"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1962.png",
+        "rank": 93
+    }
+}

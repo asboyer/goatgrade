@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "Boston Celtics",
+            "/teams/BOS/2008.html"
+        ],
+        [
+            "Kobe Bryant",
+            "/players/b/bryanko01.html"
+        ],
+        [
+            [
+                "Kevin Durant",
+                "/players/d/duranke01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Kobe Bryant",
+                "/players/b/bryanko01.html"
+            ],
+            [
+                "Kevin Garnett",
+                "/players/g/garneke01.html"
+            ],
+            [
+                "Dwight Howard",
+                "/players/h/howardw01.html"
+            ],
+            [
+                "LeBron James",
+                "/players/j/jamesle01.html"
+            ],
+            [
+                "Chris Paul",
+                "/players/p/paulch01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Tim Duncan",
+                "/players/d/duncati01.html"
+            ],
+            [
+                "Steve Nash",
+                "/players/n/nashst01.html"
+            ],
+            [
+                "Dirk Nowitzki",
+                "/players/n/nowitdi01.html"
+            ],
+            [
+                "Amar'e Stoudemire",
+                "/players/s/stoudam01.html"
+            ],
+            [
+                "Deron Williams",
+                "/players/w/willide01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Carlos Boozer",
+                "/players/b/boozeca01.html"
+            ],
+            [
+                "Manu Ginóbili",
+                "/players/g/ginobma01.html"
+            ],
+            [
+                "Tracy McGrady",
+                "/players/m/mcgratr01.html"
+            ],
+            [
+                "Yao Ming",
+                "/players/m/mingya01.html"
+            ],
+            [
+                "Paul Pierce",
+                "/players/p/piercpa01.html"
+            ]
+        ]
+    }
+}

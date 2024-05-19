@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "Toronto Raptors",
+            "/teams/TOR/2019.html"
+        ],
+        [
+            "Giannis Antetokounmpo",
+            "/players/a/antetgi01.html"
+        ],
+        [
+            [
+                "Luka Dončić",
+                "/players/d/doncilu01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Giannis Antetokounmpo",
+                "/players/a/antetgi01.html"
+            ],
+            [
+                "Stephen Curry",
+                "/players/c/curryst01.html"
+            ],
+            [
+                "Paul George",
+                "/players/g/georgpa01.html"
+            ],
+            [
+                "James Harden",
+                "/players/h/hardeja01.html"
+            ],
+            [
+                "Nikola Jokić",
+                "/players/j/jokicni01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Kevin Durant",
+                "/players/d/duranke01.html"
+            ],
+            [
+                "Joel Embiid",
+                "/players/e/embiijo01.html"
+            ],
+            [
+                "Kyrie Irving",
+                "/players/i/irvinky01.html"
+            ],
+            [
+                "Kawhi Leonard",
+                "/players/l/leonaka01.html"
+            ],
+            [
+                "Damian Lillard",
+                "/players/l/lillada01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Rudy Gobert",
+                "/players/g/goberru01.html"
+            ],
+            [
+                "Blake Griffin",
+                "/players/g/griffbl01.html"
+            ],
+            [
+                "LeBron James",
+                "/players/j/jamesle01.html"
+            ],
+            [
+                "Kemba Walker",
+                "/players/w/walkeke02.html"
+            ],
+            [
+                "Russell Westbrook",
+                "/players/w/westbru01.html"
+            ]
+        ]
+    }
+}

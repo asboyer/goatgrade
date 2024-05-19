@@ -1,0 +1,65 @@
+{
+    "awards": [
+        [
+            "Boston Celtics",
+            "/teams/BOS/1969.html"
+        ],
+        [
+            "Wes Unseld",
+            "/players/u/unselwe01.html"
+        ],
+        [
+            [
+                "Wes Unseld",
+                "/players/u/unselwe01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Elgin Baylor",
+                "/players/b/bayloel01.html"
+            ],
+            [
+                "Billy Cunningham",
+                "/players/c/cunnibi01.html"
+            ],
+            [
+                "Earl Monroe",
+                "/players/m/monroea01.html"
+            ],
+            [
+                "Oscar Robertson",
+                "/players/r/roberos01.html"
+            ],
+            [
+                "Wes Unseld",
+                "/players/u/unselwe01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Dave DeBusschere",
+                "/players/d/debusda01.html"
+            ],
+            [
+                "Hal Greer",
+                "/players/g/greerha01.html"
+            ],
+            [
+                "John Havlicek",
+                "/players/h/havlijo01.html"
+            ],
+            [
+                "Willis Reed",
+                "/players/r/reedwi01.html"
+            ],
+            [
+                "Jerry West",
+                "/players/w/westje01.html"
+            ]
+        ],
+        "3st Team": []
+    }
+}

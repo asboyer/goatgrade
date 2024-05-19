@@ -1,0 +1,65 @@
+{
+    "awards": [
+        [
+            "Boston Celtics",
+            "/teams/BOS/1960.html"
+        ],
+        [
+            "Wilt Chamberlain",
+            "/players/c/chambwi01.html"
+        ],
+        [
+            [
+                "Wilt Chamberlain",
+                "/players/c/chambwi01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Elgin Baylor",
+                "/players/b/bayloel01.html"
+            ],
+            [
+                "Wilt Chamberlain",
+                "/players/c/chambwi01.html"
+            ],
+            [
+                "Bob Cousy",
+                "/players/c/cousybo01.html"
+            ],
+            [
+                "Bob Pettit",
+                "/players/p/pettibo01.html"
+            ],
+            [
+                "Gene Shue",
+                "/players/s/shuege01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Richie Guerin",
+                "/players/g/gueriri01.html"
+            ],
+            [
+                "Bill Russell",
+                "/players/r/russebi01.html"
+            ],
+            [
+                "Dolph Schayes",
+                "/players/s/schaydo01.html"
+            ],
+            [
+                "Bill Sharman",
+                "/players/s/sharmbi01.html"
+            ],
+            [
+                "Jack Twyman",
+                "/players/t/twymaja01.html"
+            ]
+        ],
+        "3st Team": []
+    }
+}

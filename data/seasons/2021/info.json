@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "Milwaukee Bucks",
+            "/teams/MIL/2021.html"
+        ],
+        [
+            "Nikola Jokić",
+            "/players/j/jokicni01.html"
+        ],
+        [
+            [
+                "LaMelo Ball",
+                "/players/b/ballla01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Giannis Antetokounmpo",
+                "/players/a/antetgi01.html"
+            ],
+            [
+                "Stephen Curry",
+                "/players/c/curryst01.html"
+            ],
+            [
+                "Luka Dončić",
+                "/players/d/doncilu01.html"
+            ],
+            [
+                "Nikola Jokić",
+                "/players/j/jokicni01.html"
+            ],
+            [
+                "Kawhi Leonard",
+                "/players/l/leonaka01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Joel Embiid",
+                "/players/e/embiijo01.html"
+            ],
+            [
+                "LeBron James",
+                "/players/j/jamesle01.html"
+            ],
+            [
+                "Damian Lillard",
+                "/players/l/lillada01.html"
+            ],
+            [
+                "Chris Paul",
+                "/players/p/paulch01.html"
+            ],
+            [
+                "Julius Randle",
+                "/players/r/randlju01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Bradley Beal",
+                "/players/b/bealbr01.html"
+            ],
+            [
+                "Jimmy Butler",
+                "/players/b/butleji01.html"
+            ],
+            [
+                "Paul George",
+                "/players/g/georgpa01.html"
+            ],
+            [
+                "Rudy Gobert",
+                "/players/g/goberru01.html"
+            ],
+            [
+                "Kyrie Irving",
+                "/players/i/irvinky01.html"
+            ]
+        ]
+    }
+}

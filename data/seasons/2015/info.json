@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "Golden State Warriors",
+            "/teams/GSW/2015.html"
+        ],
+        [
+            "Stephen Curry",
+            "/players/c/curryst01.html"
+        ],
+        [
+            [
+                "Andrew Wiggins",
+                "/players/w/wiggian01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Stephen Curry",
+                "/players/c/curryst01.html"
+            ],
+            [
+                "Anthony Davis",
+                "/players/d/davisan02.html"
+            ],
+            [
+                "Marc Gasol",
+                "/players/g/gasolma01.html"
+            ],
+            [
+                "James Harden",
+                "/players/h/hardeja01.html"
+            ],
+            [
+                "LeBron James",
+                "/players/j/jamesle01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "LaMarcus Aldridge",
+                "/players/a/aldrila01.html"
+            ],
+            [
+                "DeMarcus Cousins",
+                "/players/c/couside01.html"
+            ],
+            [
+                "Pau Gasol",
+                "/players/g/gasolpa01.html"
+            ],
+            [
+                "Chris Paul",
+                "/players/p/paulch01.html"
+            ],
+            [
+                "Russell Westbrook",
+                "/players/w/westbru01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Tim Duncan",
+                "/players/d/duncati01.html"
+            ],
+            [
+                "Blake Griffin",
+                "/players/g/griffbl01.html"
+            ],
+            [
+                "Kyrie Irving",
+                "/players/i/irvinky01.html"
+            ],
+            [
+                "DeAndre Jordan",
+                "/players/j/jordade01.html"
+            ],
+            [
+                "Klay Thompson",
+                "/players/t/thompkl01.html"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "Golden State Warriors",
+            "/teams/GSW/2018.html"
+        ],
+        [
+            "James Harden",
+            "/players/h/hardeja01.html"
+        ],
+        [
+            [
+                "Ben Simmons",
+                "/players/s/simmobe01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Anthony Davis",
+                "/players/d/davisan02.html"
+            ],
+            [
+                "Kevin Durant",
+                "/players/d/duranke01.html"
+            ],
+            [
+                "James Harden",
+                "/players/h/hardeja01.html"
+            ],
+            [
+                "LeBron James",
+                "/players/j/jamesle01.html"
+            ],
+            [
+                "Damian Lillard",
+                "/players/l/lillada01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "LaMarcus Aldridge",
+                "/players/a/aldrila01.html"
+            ],
+            [
+                "Giannis Antetokounmpo",
+                "/players/a/antetgi01.html"
+            ],
+            [
+                "DeMar DeRozan",
+                "/players/d/derozde01.html"
+            ],
+            [
+                "Joel Embiid",
+                "/players/e/embiijo01.html"
+            ],
+            [
+                "Russell Westbrook",
+                "/players/w/westbru01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Jimmy Butler",
+                "/players/b/butleji01.html"
+            ],
+            [
+                "Stephen Curry",
+                "/players/c/curryst01.html"
+            ],
+            [
+                "Paul George",
+                "/players/g/georgpa01.html"
+            ],
+            [
+                "Victor Oladipo",
+                "/players/o/oladivi01.html"
+            ],
+            [
+                "Karl-Anthony Towns",
+                "/players/t/townska01.html"
+            ]
+        ]
+    }
+}

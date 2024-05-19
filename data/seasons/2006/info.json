@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "Miami Heat",
+            "/teams/MIA/2006.html"
+        ],
+        [
+            "Steve Nash",
+            "/players/n/nashst01.html"
+        ],
+        [
+            [
+                "Chris Paul",
+                "/players/p/paulch01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Kobe Bryant",
+                "/players/b/bryanko01.html"
+            ],
+            [
+                "LeBron James",
+                "/players/j/jamesle01.html"
+            ],
+            [
+                "Steve Nash",
+                "/players/n/nashst01.html"
+            ],
+            [
+                "Dirk Nowitzki",
+                "/players/n/nowitdi01.html"
+            ],
+            [
+                "Shaquille O'Neal",
+                "/players/o/onealsh01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Chauncey Billups",
+                "/players/b/billuch01.html"
+            ],
+            [
+                "Elton Brand",
+                "/players/b/brandel01.html"
+            ],
+            [
+                "Tim Duncan",
+                "/players/d/duncati01.html"
+            ],
+            [
+                "Dwyane Wade",
+                "/players/w/wadedw01.html"
+            ],
+            [
+                "Ben Wallace",
+                "/players/w/wallabe01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Carmelo Anthony",
+                "/players/a/anthoca01.html"
+            ],
+            [
+                "Gilbert Arenas",
+                "/players/a/arenagi01.html"
+            ],
+            [
+                "Allen Iverson",
+                "/players/i/iversal01.html"
+            ],
+            [
+                "Shawn Marion",
+                "/players/m/mariosh01.html"
+            ],
+            [
+                "Yao Ming",
+                "/players/m/mingya01.html"
+            ]
+        ]
+    }
+}

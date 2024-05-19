@@ -1,0 +1,65 @@
+{
+    "awards": [
+        [
+            "Los Angeles Lakers",
+            "/teams/LAL/1972.html"
+        ],
+        [
+            "Kareem Abdul-Jabbar",
+            "/players/a/abdulka01.html"
+        ],
+        [
+            [
+                "Sidney Wicks",
+                "/players/w/wickssi01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Kareem Abdul-Jabbar",
+                "/players/a/abdulka01.html"
+            ],
+            [
+                "Walt Frazier",
+                "/players/f/fraziwa01.html"
+            ],
+            [
+                "John Havlicek",
+                "/players/h/havlijo01.html"
+            ],
+            [
+                "Spencer Haywood",
+                "/players/h/haywosp01.html"
+            ],
+            [
+                "Jerry West",
+                "/players/w/westje01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Tiny Archibald",
+                "/players/a/architi01.html"
+            ],
+            [
+                "Wilt Chamberlain",
+                "/players/c/chambwi01.html"
+            ],
+            [
+                "Archie Clark",
+                "/players/c/clarkar01.html"
+            ],
+            [
+                "Billy Cunningham",
+                "/players/c/cunnibi01.html"
+            ],
+            [
+                "Bob Love",
+                "/players/l/lovebo01.html"
+            ]
+        ],
+        "3st Team": []
+    }
+}

@@ -1,0 +1,4781 @@
+{
+    "westje01": {
+        "grade": 94.44,
+        "name": "Jerry West*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 77,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/westje01.jpg",
+        "id": "westje01",
+        "age": "33",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/westje01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 1"
+        ],
+        "worst_category": [
+            "TRB: 84"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West in West in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1972.png",
+        "rank": 1
+    },
+    "walkech01": {
+        "grade": 93.99,
+        "name": "Chet Walker*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 78,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/walkech01.jpg",
+        "id": "walkech01",
+        "age": "31",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/w/walkech01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 2"
+        ],
+        "worst_category": [
+            "AST: 77"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West",
+        "team_league_ranking": "3",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1972.png",
+        "rank": 2
+    },
+    "wilkele01": {
+        "grade": 91.41,
+        "name": "Lenny Wilkens*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/wilkele01.jpg",
+        "id": "wilkele01",
+        "age": "34",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/wilkele01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 2"
+        ],
+        "worst_category": [
+            "TRB: 83"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "8",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1972.png",
+        "rank": 3
+    },
+    "vanardi01": {
+        "grade": 89.41,
+        "name": "Dick Van Arsdale",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/vanardi01.jpg",
+        "id": "vanardi01",
+        "age": "28",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/v/vanardi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS: 12",
+            "OWS: 12"
+        ],
+        "worst_category": [
+            "TRB: 88"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "6",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1972.png",
+        "rank": 4
+    },
+    "unselwe01": {
+        "grade": 88.89,
+        "name": "Wes Unseld*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 76,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/unselwe01.jpg",
+        "id": "unselwe01",
+        "age": "25",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/u/unselwe01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 2"
+        ],
+        "worst_category": [
+            "FT%: 148"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "9",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1972.png",
+        "rank": 5
+    },
+    "silaspa01": {
+        "grade": 88.68,
+        "name": "Paul Silas",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/silaspa01.jpg",
+        "id": "silaspa01",
+        "age": "28",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/silaspa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS: 10"
+        ],
+        "worst_category": [
+            "FT%: 69"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "6",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1972.png",
+        "rank": 6
+    },
+    "snydedi01": {
+        "grade": 88.39,
+        "name": "Dick Snyder",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 73,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/snydedi01.jpg",
+        "id": "snydedi01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/snydedi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 5",
+            "2P%: 5",
+            "eFG%: 5"
+        ],
+        "worst_category": [
+            "TRB: 118"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "8",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1972.png",
+        "rank": 7
+    },
+    "tomjaru01": {
+        "grade": 87.14,
+        "name": "Rudy Tomjanovich*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 78,
+        "team": "HOU",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/tomjaru01.jpg",
+        "id": "tomjaru01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/t/tomjaru01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 19"
+        ],
+        "worst_category": [
+            "FT%: 111"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "11",
+        "team_name": "Houston Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-1972.png",
+        "rank": 8
+    },
+    "walkne01": {
+        "grade": 86.96,
+        "name": "Neal Walk",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 81,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/walkne01.jpg",
+        "id": "walkne01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/w/walkne01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 21",
+            "STL: 21",
+            "BLK: 21",
+            "BPM: 21",
+            "WS/48: 21",
+            "USG%: 21",
+            "OBPM: 21",
+            "DBPM: 21",
+            "VORP: 21"
+        ],
+        "worst_category": [
+            "AST: 97"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "6",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1972.png",
+        "rank": 9
+    },
+    "roberos01": {
+        "grade": 86.85,
+        "name": "Oscar Robertson*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 64,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/roberos01.jpg",
+        "id": "roberos01",
+        "age": "33",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/r/roberos01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 5"
+        ],
+        "worst_category": [
+            "TRB: 67"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West in West",
+        "team_league_ranking": "2",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1972.png",
+        "rank": 10
+    },
+    "williro01": {
+        "grade": 86.57,
+        "name": "Ron Williams",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "GSW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/williro01.jpg",
+        "id": "williro01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/williro01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 5",
+            "STL: 5",
+            "BLK: 5",
+            "BPM: 5",
+            "USG%: 5",
+            "OBPM: 5",
+            "DBPM: 5",
+            "VORP: 5"
+        ],
+        "worst_category": [
+            "TRB: 157"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West",
+        "team_league_ranking": "5",
+        "team_name": "Golden State Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-1972.png",
+        "rank": 11
+    },
+    "lucasje01": {
+        "grade": 85.58,
+        "name": "Jerry Lucas*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 77,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lucasje01.jpg",
+        "id": "lucasje01",
+        "age": "31",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/l/lucasje01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 9",
+            "WS: 9",
+            "2P%: 9",
+            "eFG%: 9"
+        ],
+        "worst_category": [
+            "3P%: 81",
+            "STL: 81",
+            "BLK: 81",
+            "BPM: 81",
+            "USG%: 81",
+            "OBPM: 81",
+            "DBPM: 81",
+            "VORP: 81"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East in Finals",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1972.png",
+        "rank": 12
+    },
+    "winfile01": {
+        "grade": 84.94,
+        "name": "Lee Winfield",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 81,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/winfile01.jpg",
+        "id": "winfile01",
+        "age": "24",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/winfile01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 4",
+            "STL: 4",
+            "BLK: 4",
+            "BPM: 4",
+            "USG%: 4",
+            "OBPM: 4",
+            "DBPM: 4",
+            "VORP: 4"
+        ],
+        "worst_category": [
+            "FT%: 137"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "8",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1972.png",
+        "rank": 13
+    },
+    "schluda01": {
+        "grade": 84.9,
+        "name": "Dale Schlueter",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 81,
+        "team": "POR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/schluda01.jpg",
+        "id": "schluda01",
+        "age": "26",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/s/schluda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 4"
+        ],
+        "worst_category": [
+            "DWS: 113"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "17",
+        "team_name": "Portland Trail Blazers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-1972.png",
+        "rank": 14
+    },
+    "vanlino01": {
+        "grade": 84.45,
+        "name": "Norm Van Lier",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 79,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/vanlino01.jpg",
+        "id": "vanlino01",
+        "age": "24",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/v/vanlino01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 8"
+        ],
+        "worst_category": [
+            "FG%: 96",
+            "2P%: 96",
+            "eFG%: 96"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West",
+        "team_league_ranking": "3",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1972.png",
+        "rank": 15
+    },
+    "walkeji01": {
+        "grade": 84.44,
+        "name": "Jimmy Walker",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 78,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/walkeji01.jpg",
+        "id": "walkeji01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/w/walkeji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "MP: 18"
+        ],
+        "worst_category": [
+            "DWS: 136"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "14",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1972.png",
+        "rank": 16
+    },
+    "whitejo01": {
+        "grade": 84.29,
+        "name": "Jo Jo White*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 79,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/whitejo01.jpg",
+        "id": "whitejo01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/whitejo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 11",
+            "STL: 11",
+            "BLK: 11",
+            "BPM: 11",
+            "USG%: 11",
+            "OBPM: 11",
+            "DBPM: 11",
+            "VORP: 11"
+        ],
+        "worst_category": [
+            "TS%: 120"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1972.png",
+        "rank": 17
+    },
+    "thurmna01": {
+        "grade": 84.24,
+        "name": "Nate Thurmond*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 78,
+        "team": "GSW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/thurmna01.jpg",
+        "id": "thurmna01",
+        "age": "30",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/t/thurmna01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 4",
+            "MP: 4"
+        ],
+        "worst_category": [
+            "FG%: 112",
+            "2P%: 112",
+            "eFG%: 112"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West",
+        "team_league_ranking": "5",
+        "team_name": "Golden State Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-1972.png",
+        "rank": 18
+    },
+    "mullije01": {
+        "grade": 84.1,
+        "name": "Jeff Mullins",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "GSW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mullije01.jpg",
+        "id": "mullije01",
+        "age": "29",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/m/mullije01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 11"
+        ],
+        "worst_category": [
+            "3P%: 64",
+            "STL: 64",
+            "BLK: 64",
+            "BPM: 64",
+            "USG%: 64",
+            "OBPM: 64",
+            "DBPM: 64",
+            "VORP: 64"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West",
+        "team_league_ranking": "5",
+        "team_name": "Golden State Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-1972.png",
+        "rank": 19
+    },
+    "williar01": {
+        "grade": 84.1,
+        "name": "Art Williams",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 81,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/williar01.jpg",
+        "id": "williar01",
+        "age": "32",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/williar01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 8",
+            "STL: 8",
+            "BLK: 8",
+            "BPM: 8",
+            "USG%: 8",
+            "OBPM: 8",
+            "DBPM: 8",
+            "VORP: 8"
+        ],
+        "worst_category": [
+            "PTS: 146"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1972.png",
+        "rank": 20
+    },
+    "russeca01": {
+        "grade": 83.56,
+        "name": "Cazzie Russell",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 79,
+        "team": "GSW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/russeca01.jpg",
+        "id": "russeca01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/r/russeca01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 21"
+        ],
+        "worst_category": [
+            "FG%: 71",
+            "2P%: 71",
+            "eFG%: 71"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West",
+        "team_league_ranking": "5",
+        "team_name": "Golden State Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-1972.png",
+        "rank": 21
+    },
+    "nelsodo01": {
+        "grade": 82.79,
+        "name": "Don Nelson*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/nelsodo01.jpg",
+        "id": "nelsodo01",
+        "age": "31",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/n/nelsodo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 7"
+        ],
+        "worst_category": [
+            "MP: 90"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1972.png",
+        "rank": 22
+    },
+    "raycl01": {
+        "grade": 82.27,
+        "name": "Clifford Ray",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/raycl01.jpg",
+        "id": "raycl01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/r/raycl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 4"
+        ],
+        "worst_category": [
+            "FT%: 152"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West",
+        "team_league_ranking": "3",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1972.png",
+        "rank": 23
+    },
+    "marinja01": {
+        "grade": 82.25,
+        "name": "Jack Marin",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 78,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/marinja01.jpg",
+        "id": "marinja01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/m/marinja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 1"
+        ],
+        "worst_category": [
+            "AST: 88"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "9",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1972.png",
+        "rank": 24
+    },
+    "washiji01": {
+        "grade": 81.77,
+        "name": "Jim Washington",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 84,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/washiji01.jpg",
+        "id": "washiji01",
+        "age": "28",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/w/washiji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 15",
+            "STL: 15",
+            "BLK: 15",
+            "BPM: 15",
+            "USG%: 15",
+            "OBPM: 15",
+            "DBPM: 15",
+            "VORP: 15"
+        ],
+        "worst_category": [
+            "PER: 116"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "10",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1972.png",
+        "rank": 25
+    },
+    "murphca01": {
+        "grade": 81.54,
+        "name": "Calvin Murphy*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "HOU",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/murphca01.jpg",
+        "id": "murphca01",
+        "age": "23",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/m/murphca01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 2"
+        ],
+        "worst_category": [
+            "TRB: 119"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "11",
+        "team_name": "Houston Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-1972.png",
+        "rank": 26
+    },
+    "vanarto01": {
+        "grade": 81.5,
+        "name": "Tom Van Arsdale",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 73,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/vanarto01.jpg",
+        "id": "vanarto01",
+        "age": "28",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/v/vanarto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 23",
+            "STL: 23",
+            "BLK: 23",
+            "BPM: 23",
+            "USG%: 23",
+            "OBPM: 23",
+            "DBPM: 23",
+            "VORP: 23"
+        ],
+        "worst_category": [
+            "DWS: 122"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "12",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1972.png",
+        "rank": 27
+    },
+    "wickssi01": {
+        "grade": 81.25,
+        "name": "Sidney Wicks",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "POR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/wickssi01.jpg",
+        "id": "wickssi01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/w/wickssi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 10",
+            "STL: 10",
+            "BLK: 10",
+            "BPM: 10",
+            "USG%: 10",
+            "OBPM: 10",
+            "DBPM: 10",
+            "VORP: 10"
+        ],
+        "worst_category": [
+            "WS/48: 131"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "17",
+        "team_name": "Portland Trail Blazers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-1972.png",
+        "rank": 28
+    },
+    "mcmilji01": {
+        "grade": 81.11,
+        "name": "Jim McMillian",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mcmilji01.jpg",
+        "id": "mcmilji01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/m/mcmilji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "MP: 28",
+            "DWS: 28"
+        ],
+        "worst_category": [
+            "3P%: 71",
+            "STL: 71",
+            "BLK: 71",
+            "PER: 71",
+            "BPM: 71",
+            "USG%: 71",
+            "OBPM: 71",
+            "DBPM: 71",
+            "VORP: 71"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West in West in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1972.png",
+        "rank": 29
+    },
+    "laniebo01": {
+        "grade": 80.95,
+        "name": "Bob Lanier*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/laniebo01.jpg",
+        "id": "laniebo01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/l/laniebo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PER: 3"
+        ],
+        "worst_category": [
+            "DWS: 123"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "14",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1972.png",
+        "rank": 30
+    },
+    "weissbo01": {
+        "grade": 80.79,
+        "name": "Bob Weiss",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/weissbo01.jpg",
+        "id": "weissbo01",
+        "age": "29",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/weissbo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 14",
+            "STL: 14",
+            "BLK: 14",
+            "BPM: 14",
+            "USG%: 14",
+            "OBPM: 14",
+            "DBPM: 14",
+            "VORP: 14"
+        ],
+        "worst_category": [
+            "TRB: 146"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West",
+        "team_league_ranking": "3",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1972.png",
+        "rank": 31
+    },
+    "hudsolo01": {
+        "grade": 80.56,
+        "name": "Lou Hudson*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 77,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hudsolo01.jpg",
+        "id": "hudsolo01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/h/hudsolo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "OWS: 7"
+        ],
+        "worst_category": [
+            "3P%: 103",
+            "STL: 103",
+            "BLK: 103",
+            "BPM: 103",
+            "USG%: 103",
+            "OBPM: 103",
+            "DBPM: 103",
+            "VORP: 103"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "10",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1972.png",
+        "rank": 32
+    },
+    "fraziwa01": {
+        "grade": 80.54,
+        "name": "Walt Frazier*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 77,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/fraziwa01.jpg",
+        "id": "fraziwa01",
+        "age": "26",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/f/fraziwa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "OWS: 3",
+            "WS/48: 3"
+        ],
+        "worst_category": [
+            "3P%: 124",
+            "STL: 124",
+            "BLK: 124",
+            "BPM: 124",
+            "USG%: 124",
+            "OBPM: 124",
+            "DBPM: 124",
+            "VORP: 124"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East in Finals",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1972.png",
+        "rank": 33
+    },
+    "kauffbo01": {
+        "grade": 80.16,
+        "name": "Bob Kauffman",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 77,
+        "team": "BUF",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kauffbo01.jpg",
+        "id": "kauffbo01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/k/kauffbo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "MP: 11"
+        ],
+        "worst_category": [
+            "DWS: 114"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "16",
+        "team_name": "Buffalo Braves",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1972.png",
+        "rank": 34
+    },
+    "robinfl01": {
+        "grade": 79.89,
+        "name": "Flynn Robinson",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 64,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/robinfl01.jpg",
+        "id": "robinfl01",
+        "age": "30",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/r/robinfl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 6"
+        ],
+        "worst_category": [
+            "TRB: 158"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West in West in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1972.png",
+        "rank": 35
+    },
+    "sloanje01": {
+        "grade": 79.3,
+        "name": "Jerry Sloan*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sloanje01.jpg",
+        "id": "sloanje01",
+        "age": "29",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/sloanje01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 9"
+        ],
+        "worst_category": [
+            "FT%: 139"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West",
+        "team_league_ranking": "3",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1972.png",
+        "rank": 36
+    },
+    "havlijo01": {
+        "grade": 79.05,
+        "name": "John Havlicek*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/havlijo01.jpg",
+        "id": "havlijo01",
+        "age": "31",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/havlijo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "MP: 1"
+        ],
+        "worst_category": [
+            "3P%: 112",
+            "STL: 112",
+            "BLK: 112",
+            "BPM: 112",
+            "USG%: 112",
+            "OBPM: 112",
+            "DBPM: 112",
+            "VORP: 112"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1972.png",
+        "rank": 37
+    },
+    "goodrga01": {
+        "grade": 78.73,
+        "name": "Gail Goodrich*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/goodrga01.jpg",
+        "id": "goodrga01",
+        "age": "28",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/goodrga01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 5",
+            "OWS: 5"
+        ],
+        "worst_category": [
+            "3P%: 120",
+            "STL: 120",
+            "BLK: 120",
+            "BPM: 120",
+            "USG%: 120",
+            "OBPM: 120",
+            "DBPM: 120",
+            "VORP: 120"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West in West in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1972.png",
+        "rank": 38
+    },
+    "smithra01": {
+        "grade": 78.62,
+        "name": "Randy Smith",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 76,
+        "team": "BUF",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/smithra01.jpg",
+        "id": "smithra01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/s/smithra01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 33",
+            "2P%: 33",
+            "eFG%: 33"
+        ],
+        "worst_category": [
+            "FT%: 149"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "16",
+        "team_name": "Buffalo Braves",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1972.png",
+        "rank": 39
+    },
+    "mcglojo01": {
+        "grade": 78.52,
+        "name": "Jon McGlocklin",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mcglojo01.jpg",
+        "id": "mcglojo01",
+        "age": "28",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/m/mcglojo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 5"
+        ],
+        "worst_category": [
+            "TRB: 140"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West in West",
+        "team_league_ranking": "2",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1972.png",
+        "rank": 40
+    },
+    "mckenst01": {
+        "grade": 78.16,
+        "name": "Stan McKenzie",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "POR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mckenst01.jpg",
+        "id": "mckenst01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/m/mckenst01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 9"
+        ],
+        "worst_category": [
+            "DWS: 142"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "17",
+        "team_name": "Portland Trail Blazers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-1972.png",
+        "rank": 41
+    },
+    "tresvjo01": {
+        "grade": 77.98,
+        "name": "John Tresvant",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 65,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/tresvjo01.jpg",
+        "id": "tresvjo01",
+        "age": "32",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/t/tresvjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 26",
+            "STL: 26",
+            "BLK: 26",
+            "BPM: 26",
+            "USG%: 26",
+            "OBPM: 26",
+            "DBPM: 26",
+            "VORP: 26"
+        ],
+        "worst_category": [
+            "PTS: 124"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "9",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1972.png",
+        "rank": 42
+    },
+    "smithbi02": {
+        "grade": 77.46,
+        "name": "Bingo Smith",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "CLE",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/smithbi02.jpg",
+        "id": "smithbi02",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/s/smithbi02.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 39",
+            "STL: 39",
+            "BLK: 39",
+            "BPM: 39",
+            "USG%: 39",
+            "OBPM: 39",
+            "DBPM: 39",
+            "VORP: 39"
+        ],
+        "worst_category": [
+            "WS/48: 112"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "15",
+        "team_name": "Cleveland Cavaliers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1972.png",
+        "rank": 43
+    },
+    "smithgr01": {
+        "grade": 77.34,
+        "name": "Greg Smith",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "HOU",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/smithgr01.jpg",
+        "id": "smithgr01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/s/smithgr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 34"
+        ],
+        "worst_category": [
+            "FT%: 138"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "11",
+        "team_name": "Houston Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-1972.png",
+        "rank": 44
+    },
+    "haywosp01": {
+        "grade": 77.01,
+        "name": "Spencer Haywood*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 73,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/haywosp01.jpg",
+        "id": "haywosp01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/haywosp01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "MP: 3"
+        ],
+        "worst_category": [
+            "3P%: 109",
+            "STL: 109",
+            "BLK: 109",
+            "BPM: 109",
+            "USG%: 109",
+            "OBPM: 109",
+            "DBPM: 109",
+            "VORP: 109"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "8",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1972.png",
+        "rank": 45
+    },
+    "hawkico01": {
+        "grade": 76.96,
+        "name": "Connie Hawkins*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 76,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hawkico01.jpg",
+        "id": "hawkico01",
+        "age": "29",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/hawkico01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 15"
+        ],
+        "worst_category": [
+            "3P%: 111",
+            "STL: 111",
+            "BLK: 111",
+            "BPM: 111",
+            "USG%: 111",
+            "OBPM: 111",
+            "DBPM: 111",
+            "VORP: 111"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "6",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1972.png",
+        "rank": 46
+    },
+    "lovebo01": {
+        "grade": 75.8,
+        "name": "Bob Love",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 79,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lovebo01.jpg",
+        "id": "lovebo01",
+        "age": "29",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/l/lovebo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 7"
+        ],
+        "worst_category": [
+            "AST: 107"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West",
+        "team_league_ranking": "3",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1972.png",
+        "rank": 47
+    },
+    "lantzst01": {
+        "grade": 75.51,
+        "name": "Stu Lantz",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 81,
+        "team": "HOU",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lantzst01.jpg",
+        "id": "lantzst01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/l/lantzst01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 18"
+        ],
+        "worst_category": [
+            "FG%: 104",
+            "2P%: 104",
+            "eFG%: 104"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "11",
+        "team_name": "Houston Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-1972.png",
+        "rank": 48
+    },
+    "chambwi01": {
+        "grade": 75.42,
+        "name": "Wilt Chamberlain*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/chambwi01.jpg",
+        "id": "chambwi01",
+        "age": "35",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/c/chambwi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 1",
+            "FG%: 1",
+            "TS%: 1",
+            "2P%: 1",
+            "DWS: 1",
+            "eFG%: 1"
+        ],
+        "worst_category": [
+            "FT%: 168"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West in West in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1972.png",
+        "rank": 49
+    },
+    "wohlda01": {
+        "grade": 75.4,
+        "name": "Dave Wohl",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 79,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/wohlda01.jpg",
+        "id": "wohlda01",
+        "age": "22",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/wohlda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 3",
+            "STL: 3",
+            "BLK: 3",
+            "BPM: 3",
+            "USG%: 3",
+            "OBPM: 3",
+            "DBPM: 3",
+            "VORP: 3"
+        ],
+        "worst_category": [
+            "TRB: 151"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "13",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1972.png",
+        "rank": 50
+    },
+    "abdulka01": {
+        "grade": 75.1,
+        "name": "Kareem Abdul-Jabbar*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 81,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/abdulka01.jpg",
+        "id": "abdulka01",
+        "age": "24",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/a/abdulka01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 1",
+            "PER: 1",
+            "WS: 1",
+            "OWS: 1",
+            "WS/48: 1"
+        ],
+        "worst_category": [
+            "3P%: 167",
+            "STL: 167",
+            "BLK: 167",
+            "BPM: 167",
+            "USG%: 167",
+            "OBPM: 167",
+            "DBPM: 167",
+            "VORP: 167"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West in West",
+        "team_league_ranking": "2",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1972.png",
+        "rank": 51
+    },
+    "smithel01": {
+        "grade": 75.03,
+        "name": "Elmore Smith",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 78,
+        "team": "BUF",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/smithel01.jpg",
+        "id": "smithel01",
+        "age": "22",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/s/smithel01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 5"
+        ],
+        "worst_category": [
+            "FT%: 164"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "16",
+        "team_name": "Buffalo Braves",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1972.png",
+        "rank": 52
+    },
+    "stallda01": {
+        "grade": 74.88,
+        "name": "Dave Stallworth",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 78,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/stallda01.jpg",
+        "id": "stallda01",
+        "age": "30",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/s/stallda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 32",
+            "STL: 32",
+            "BLK: 32",
+            "BPM: 32",
+            "USG%: 32",
+            "OBPM: 32",
+            "DBPM: 32",
+            "VORP: 32"
+        ],
+        "worst_category": [
+            "FG%: 113",
+            "2P%: 113",
+            "eFG%: 113"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "9",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1972.png",
+        "rank": 53
+    },
+    "haskicl01": {
+        "grade": 74.74,
+        "name": "Clem Haskins",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 79,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/haskicl01.jpg",
+        "id": "haskicl01",
+        "age": "28",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/h/haskicl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 9"
+        ],
+        "worst_category": [
+            "3P%: 113",
+            "STL: 113",
+            "BLK: 113",
+            "BPM: 113",
+            "USG%: 113",
+            "OBPM: 113",
+            "DBPM: 113",
+            "VORP: 113"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "6",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1972.png",
+        "rank": 54
+    },
+    "hairsha01": {
+        "grade": 74.63,
+        "name": "Happy Hairston",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hairsha01.jpg",
+        "id": "hairsha01",
+        "age": "29",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/hairsha01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 11"
+        ],
+        "worst_category": [
+            "3P%: 114",
+            "STL: 114",
+            "BLK: 114",
+            "BPM: 114",
+            "USG%: 114",
+            "OBPM: 114",
+            "DBPM: 114",
+            "VORP: 114"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West in West in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1972.png",
+        "rank": 55
+    },
+    "roberri01": {
+        "grade": 74.56,
+        "name": "Rick Roberson",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 63,
+        "team": "CLE",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/roberri01.jpg",
+        "id": "roberri01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/r/roberri01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 14"
+        ],
+        "worst_category": [
+            "FT%: 157"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "15",
+        "team_name": "Cleveland Cavaliers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1972.png",
+        "rank": 56
+    },
+    "steella01": {
+        "grade": 74.46,
+        "name": "Larry Steele",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 72,
+        "team": "POR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/steella01.jpg",
+        "id": "steella01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/steella01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 31",
+            "STL: 31",
+            "BLK: 31",
+            "BPM: 31",
+            "USG%: 31",
+            "OBPM: 31",
+            "DBPM: 31",
+            "VORP: 31"
+        ],
+        "worst_category": [
+            "PTS: 148"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "17",
+        "team_name": "Portland Trail Blazers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-1972.png",
+        "rank": 57
+    },
+    "mengejo01": {
+        "grade": 74.29,
+        "name": "John Mengelt",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 78,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mengejo01.jpg",
+        "id": "mengejo01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/m/mengejo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 25"
+        ],
+        "worst_category": [
+            "TRB: 154"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "12",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1972.png",
+        "rank": 58
+    },
+    "sorenda01": {
+        "grade": 73.94,
+        "name": "Dave Sorenson",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 76,
+        "team": "CLE",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sorenda01.jpg",
+        "id": "sorenda01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/sorenda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 33",
+            "STL: 33",
+            "BLK: 33",
+            "BPM: 33",
+            "USG%: 33",
+            "OBPM: 33",
+            "DBPM: 33",
+            "VORP: 33"
+        ],
+        "worst_category": [
+            "MP: 141"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "15",
+        "team_name": "Cleveland Cavaliers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1972.png",
+        "rank": 59
+    },
+    "maravpe01": {
+        "grade": 73.38,
+        "name": "Pete Maravich*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 66,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/maravpe01.jpg",
+        "id": "maravpe01",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/m/maravpe01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 10"
+        ],
+        "worst_category": [
+            "FG%: 120",
+            "2P%: 120",
+            "eFG%: 120"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "10",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1972.png",
+        "rank": 60
+    },
+    "dandrbo01": {
+        "grade": 73.36,
+        "name": "Bob Dandridge*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/dandrbo01.jpg",
+        "id": "dandrbo01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/d/dandrbo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 18",
+            "2P%: 18",
+            "eFG%: 18"
+        ],
+        "worst_category": [
+            "3P%: 137",
+            "STL: 137",
+            "BLK: 137",
+            "BPM: 137",
+            "USG%: 137",
+            "OBPM: 137",
+            "DBPM: 137",
+            "VORP: 137"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West in West",
+        "team_league_ranking": "2",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1972.png",
+        "rank": 61
+    },
+    "willina01": {
+        "grade": 73.31,
+        "name": "Nate Williams",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 81,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/willina01.jpg",
+        "id": "willina01",
+        "age": "21",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/w/willina01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 6",
+            "STL: 6",
+            "BLK: 6",
+            "BPM: 6",
+            "USG%: 6",
+            "OBPM: 6",
+            "DBPM: 6",
+            "VORP: 6"
+        ],
+        "worst_category": [
+            "WS/48: 147"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "12",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1972.png",
+        "rank": 62
+    },
+    "rowecu01": {
+        "grade": 73.22,
+        "name": "Curtis Rowe",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/rowecu01.jpg",
+        "id": "rowecu01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/r/rowecu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 31"
+        ],
+        "worst_category": [
+            "DWS: 139"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "14",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1972.png",
+        "rank": 63
+    },
+    "clarkar01": {
+        "grade": 72.95,
+        "name": "Archie Clark",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 77,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/clarkar01.jpg",
+        "id": "clarkar01",
+        "age": "30",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/c/clarkar01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 4"
+        ],
+        "worst_category": [
+            "3P%: 144",
+            "STL: 144",
+            "BLK: 144",
+            "BPM: 144",
+            "USG%: 144",
+            "OBPM: 144",
+            "DBPM: 144",
+            "VORP: 144"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "9",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1972.png",
+        "rank": 64
+    },
+    "cowenda01": {
+        "grade": 72.92,
+        "name": "Dave Cowens*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 79,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/cowenda01.jpg",
+        "id": "cowenda01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/c/cowenda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 3"
+        ],
+        "worst_category": [
+            "3P%: 141",
+            "STL: 141",
+            "BLK: 141",
+            "BPM: 141",
+            "USG%: 141",
+            "OBPM: 141",
+            "DBPM: 141",
+            "VORP: 141"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1972.png",
+        "rank": 65
+    },
+    "rulebo01": {
+        "grade": 72.74,
+        "name": "Bob Rule",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 76,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/rulebo01.jpg",
+        "id": "rulebo01",
+        "age": "27",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/r/rulebo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 41"
+        ],
+        "worst_category": [
+            "FT%: 132"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "13",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1972.png",
+        "rank": 66
+    },
+    "norwowi01": {
+        "grade": 72.65,
+        "name": "Willie Norwood",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 78,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/norwowi01.jpg",
+        "id": "norwowi01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/n/norwowi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 13",
+            "2P%: 13",
+            "eFG%: 13"
+        ],
+        "worst_category": [
+            "AST: 164"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "14",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1972.png",
+        "rank": 67
+    },
+    "willimi01": {
+        "grade": 72.4,
+        "name": "Milt Williams",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 10,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/willimi01.jpg",
+        "id": "willimi01",
+        "age": "26",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/willimi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 7",
+            "STL: 7",
+            "BLK: 7",
+            "BPM: 7",
+            "USG%: 7",
+            "OBPM: 7",
+            "DBPM: 7",
+            "VORP: 7"
+        ],
+        "worst_category": [
+            "TRB: 168"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "10",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1972.png",
+        "rank": 68
+    },
+    "cunnibi01": {
+        "grade": 72.06,
+        "name": "Billy Cunningham*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 75,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/cunnibi01.jpg",
+        "id": "cunnibi01",
+        "age": "28",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/c/cunnibi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PER: 7"
+        ],
+        "worst_category": [
+            "3P%: 139",
+            "STL: 139",
+            "BLK: 139",
+            "BPM: 139",
+            "USG%: 139",
+            "OBPM: 139",
+            "DBPM: 139",
+            "VORP: 139"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "13",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1972.png",
+        "rank": 69
+    },
+    "bellawa01": {
+        "grade": 72.01,
+        "name": "Walt Bellamy*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bellawa01.jpg",
+        "id": "bellawa01",
+        "age": "32",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/b/bellawa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 4",
+            "2P%: 4",
+            "eFG%: 4"
+        ],
+        "worst_category": [
+            "FT%: 158",
+            "3P%: 158",
+            "STL: 158",
+            "BLK: 158",
+            "BPM: 158",
+            "USG%: 158",
+            "OBPM: 158",
+            "DBPM: 158",
+            "VORP: 158"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "10",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1972.png",
+        "rank": 70
+    },
+    "weslewa01": {
+        "grade": 71.88,
+        "name": "Walt Wesley",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "CLE",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/weslewa01.jpg",
+        "id": "weslewa01",
+        "age": "27",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/w/weslewa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 13",
+            "STL: 13",
+            "BLK: 13",
+            "BPM: 13",
+            "USG%: 13",
+            "OBPM: 13",
+            "DBPM: 13",
+            "VORP: 13"
+        ],
+        "worst_category": [
+            "OWS: 161"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "15",
+        "team_name": "Cleveland Cavaliers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1972.png",
+        "rank": 71
+    },
+    "warneco01": {
+        "grade": 71.74,
+        "name": "Cornell Warner",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 62,
+        "team": "BUF",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/warneco01.jpg",
+        "id": "warneco01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/w/warneco01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 18",
+            "STL: 18",
+            "BLK: 18",
+            "BPM: 18",
+            "USG%: 18",
+            "OBPM: 18",
+            "DBPM: 18",
+            "VORP: 18"
+        ],
+        "worst_category": [
+            "AST: 141",
+            "WS/48: 141"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "16",
+        "team_name": "Buffalo Braves",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1972.png",
+        "rank": 72
+    },
+    "architi01": {
+        "grade": 71.68,
+        "name": "Tiny Archibald*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 76,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/architi01.jpg",
+        "id": "architi01",
+        "age": "23",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/a/architi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 2",
+            "OWS: 2"
+        ],
+        "worst_category": [
+            "3P%: 163",
+            "STL: 163",
+            "BLK: 163",
+            "BPM: 163",
+            "USG%: 163",
+            "OBPM: 163",
+            "DBPM: 163",
+            "VORP: 163"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "12",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1972.png",
+        "rank": 73
+    },
+    "leecl01": {
+        "grade": 71.59,
+        "name": "Clyde Lee",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 78,
+        "team": "GSW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/leecl01.jpg",
+        "id": "leecl01",
+        "age": "27",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/l/leecl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 8"
+        ],
+        "worst_category": [
+            "FT%: 163"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West",
+        "team_league_ranking": "5",
+        "team_name": "Golden State Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-1972.png",
+        "rank": 74
+    },
+    "riordmi01": {
+        "grade": 71.4,
+        "name": "Mike Riordan",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 58,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/riordmi01.jpg",
+        "id": "riordmi01",
+        "age": "26",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/r/riordmi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 51",
+            "STL: 51",
+            "BLK: 51",
+            "BPM: 51",
+            "USG%: 51",
+            "OBPM: 51",
+            "DBPM: 51",
+            "VORP: 51"
+        ],
+        "worst_category": [
+            "TRB: 142"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "9",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1972.png",
+        "rank": 75
+    },
+    "washibo01": {
+        "grade": 71.29,
+        "name": "Bobby Washington",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 69,
+        "team": "CLE",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/washibo01.jpg",
+        "id": "washibo01",
+        "age": "24",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/washibo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 16",
+            "STL: 16",
+            "BLK: 16",
+            "BPM: 16",
+            "USG%: 16",
+            "OBPM: 16",
+            "DBPM: 16",
+            "VORP: 16"
+        ],
+        "worst_category": [
+            "TRB: 152"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "15",
+        "team_name": "Cleveland Cavaliers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1972.png",
+        "rank": 76
+    },
+    "johnsjo01": {
+        "grade": 71.2,
+        "name": "John Johnson",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "CLE",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/johnsjo01.jpg",
+        "id": "johnsjo01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/j/johnsjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 18"
+        ],
+        "worst_category": [
+            "FG%: 109",
+            "2P%: 109",
+            "eFG%: 109"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "15",
+        "team_name": "Cleveland Cavaliers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1972.png",
+        "rank": 77
+    },
+    "maydo01": {
+        "grade": 71.11,
+        "name": "Don May",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 75,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/maydo01.jpg",
+        "id": "maydo01",
+        "age": "26",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/m/maydo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 25",
+            "2P%: 25",
+            "eFG%: 25"
+        ],
+        "worst_category": [
+            "AST: 157"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "10",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1972.png",
+        "rank": 78
+    },
+    "reedwi01": {
+        "grade": 70.75,
+        "name": "Willis Reed*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 11,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/reedwi01.jpg",
+        "id": "reedwi01",
+        "age": "29",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/r/reedwi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 30"
+        ],
+        "worst_category": [
+            "WS: 138"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East in Finals",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1972.png",
+        "rank": 79
+    },
+    "quickbo01": {
+        "grade": 70.66,
+        "name": "Bob Quick",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 18,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/quickbo01.jpg",
+        "id": "quickbo01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/q/quickbo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 17"
+        ],
+        "worst_category": [
+            "DWS: 168"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "14",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1972.png",
+        "rank": 80
+    },
+    "hayesel01": {
+        "grade": 70.47,
+        "name": "Elvin Hayes*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "HOU",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hayesel01.jpg",
+        "id": "hayesel01",
+        "age": "26",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/h/hayesel01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 5"
+        ],
+        "worst_category": [
+            "FT%: 142"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "11",
+        "team_name": "Houston Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-1972.png",
+        "rank": 81
+    },
+    "kojisdo01": {
+        "grade": 70.45,
+        "name": "Don Kojis",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 73,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kojisdo01.jpg",
+        "id": "kojisdo01",
+        "age": "33",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/k/kojisdo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 46"
+        ],
+        "worst_category": [
+            "AST: 137"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "8",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1972.png",
+        "rank": 82
+    },
+    "greenjo01": {
+        "grade": 70.27,
+        "name": "Johnny Green",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/greenjo01.jpg",
+        "id": "greenjo01",
+        "age": "38",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/g/greenjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 3",
+            "2P%: 3",
+            "eFG%: 3"
+        ],
+        "worst_category": [
+            "FT%: 161"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "12",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1972.png",
+        "rank": 83
+    },
+    "monroea01": {
+        "grade": 69.45,
+        "name": "Earl Monroe*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 63,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/monroea01.jpg",
+        "id": "monroea01",
+        "age": "27",
+        "pos": "SG-PG",
+        "link": "https://www.basketball-reference.com/players/m/monroea01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PER: 62"
+        ],
+        "worst_category": [
+            "TRB: 159"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East in Finals",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1972.png",
+        "rank": 84
+    },
+    "trappjo01": {
+        "grade": 69.09,
+        "name": "John Trapp",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 58,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/trappjo01.jpg",
+        "id": "trappjo01",
+        "age": "26",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/t/trappjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 27",
+            "STL: 27",
+            "BLK: 27",
+            "BPM: 27",
+            "USG%: 27",
+            "OBPM: 27",
+            "DBPM: 27",
+            "VORP: 27"
+        ],
+        "worst_category": [
+            "AST: 156"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West in West in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1972.png",
+        "rank": 85
+    },
+    "abdulma01": {
+        "grade": 68.59,
+        "name": "Walt Hazzard",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 72,
+        "team": "BUF",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/abdulma01.jpg",
+        "id": "abdulma01",
+        "age": "29",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/a/abdulma01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 14"
+        ],
+        "worst_category": [
+            "DWS: 126"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "16",
+        "team_name": "Buffalo Braves",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1972.png",
+        "rank": 86
+    },
+    "allenlu01": {
+        "grade": 67.96,
+        "name": "Lucius Allen",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/allenlu01.jpg",
+        "id": "allenlu01",
+        "age": "24",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/a/allenlu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 14",
+            "2P%: 14",
+            "eFG%: 14"
+        ],
+        "worst_category": [
+            "3P%: 164",
+            "STL: 164",
+            "BLK: 164",
+            "BPM: 164",
+            "USG%: 164",
+            "OBPM: 164",
+            "DBPM: 164",
+            "VORP: 164"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West in West",
+        "team_league_ranking": "2",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1972.png",
+        "rank": 87
+    },
+    "bridgbi01": {
+        "grade": 67.86,
+        "name": "Bill Bridges",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 78,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bridgbi01.jpg",
+        "id": "bridgbi01",
+        "age": "32",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/b/bridgbi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 10"
+        ],
+        "worst_category": [
+            "3P%: 153",
+            "STL: 153",
+            "BLK: 153",
+            "BPM: 153",
+            "USG%: 153",
+            "OBPM: 153",
+            "DBPM: 153",
+            "VORP: 153"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "13",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1972.png",
+        "rank": 88
+    },
+    "sandeto01": {
+        "grade": 67.78,
+        "name": "Tom Sanders*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sandeto01.jpg",
+        "id": "sandeto01",
+        "age": "33",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/s/sandeto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 36"
+        ],
+        "worst_category": [
+            "PER: 157"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1972.png",
+        "rank": 89
+    },
+    "warrejo01": {
+        "grade": 67.6,
+        "name": "John Warren",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 68,
+        "team": "CLE",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/warrejo01.jpg",
+        "id": "warrejo01",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/w/warrejo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 13"
+        ],
+        "worst_category": [
+            "PTS: 150",
+            "PER: 150"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "15",
+        "team_name": "Cleveland Cavaliers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1972.png",
+        "rank": 90
+    },
+    "loughke01": {
+        "grade": 67.3,
+        "name": "Kevin Loughery",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 76,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/loughke01.jpg",
+        "id": "loughke01",
+        "age": "31",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/l/loughke01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 31"
+        ],
+        "worst_category": [
+            "TRB: 137"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "13",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1972.png",
+        "rank": 91
+    },
+    "petrige01": {
+        "grade": 67.3,
+        "name": "Geoff Petrie",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 60,
+        "team": "POR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/petrige01.jpg",
+        "id": "petrige01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/p/petrige01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 28",
+            "AST: 28"
+        ],
+        "worst_category": [
+            "WS/48: 150"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "17",
+        "team_name": "Portland Trail Blazers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-1972.png",
+        "rank": 92
+    },
+    "meminde01": {
+        "grade": 66.76,
+        "name": "Dean Meminger",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 78,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/meminde01.jpg",
+        "id": "meminde01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/m/meminde01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 46",
+            "2P%: 46",
+            "eFG%: 46"
+        ],
+        "worst_category": [
+            "FT%: 160"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East in Finals",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1972.png",
+        "rank": 93
+    },
+    "chanedo01": {
+        "grade": 66.69,
+        "name": "Don Chaney",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 79,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/chanedo01.jpg",
+        "id": "chanedo01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/c/chanedo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 36"
+        ],
+        "worst_category": [
+            "3P%: 146",
+            "STL: 146",
+            "BLK: 146",
+            "BPM: 146",
+            "USG%: 146",
+            "OBPM: 146",
+            "DBPM: 146",
+            "VORP: 146"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1972.png",
+        "rank": 94
+    },
+    "guokama02": {
+        "grade": 66.53,
+        "name": "Matt Guokas",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 61,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/guokama02.jpg",
+        "id": "guokama02",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/guokama02.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 16"
+        ],
+        "worst_category": [
+            "PER: 152"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "12",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1972.png",
+        "rank": 95
+    },
+    "yelvech01": {
+        "grade": 66.44,
+        "name": "Charlie Yelverton",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 69,
+        "team": "POR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/yelvech01.jpg",
+        "id": "yelvech01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/y/yelvech01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 2",
+            "STL: 2",
+            "BLK: 2",
+            "BPM: 2",
+            "USG%: 2",
+            "OBPM: 2",
+            "DBPM: 2",
+            "VORP: 2"
+        ],
+        "worst_category": [
+            "WS: 161"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "17",
+        "team_name": "Portland Trail Blazers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-1972.png",
+        "rank": 96
+    },
+    "lovest01": {
+        "grade": 66.21,
+        "name": "Stan Love",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 74,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lovest01.jpg",
+        "id": "lovest01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/l/lovest01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 75",
+            "FG%: 75",
+            "2P%: 75",
+            "eFG%: 75"
+        ],
+        "worst_category": [
+            "AST: 158"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "9",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1972.png",
+        "rank": 97
+    },
+    "rileypa01": {
+        "grade": 66.17,
+        "name": "Pat Riley*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 67,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/rileypa01.jpg",
+        "id": "rileypa01",
+        "age": "26",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/r/rileypa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 52",
+            "STL: 52",
+            "BLK: 52",
+            "BPM: 52",
+            "USG%: 52",
+            "OBPM: 52",
+            "DBPM: 52",
+            "VORP: 52"
+        ],
+        "worst_category": [
+            "TRB: 153"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West in West in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1972.png",
+        "rank": 98
+    },
+    "dischte01": {
+        "grade": 65.85,
+        "name": "Terry Dischinger",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 79,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/dischte01.jpg",
+        "id": "dischte01",
+        "age": "31",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/d/dischte01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 8",
+            "2P%: 8",
+            "eFG%: 8"
+        ],
+        "worst_category": [
+            "DWS: 150"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "14",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1972.png",
+        "rank": 99
+    },
+    "beardbu01": {
+        "grade": 65.78,
+        "name": "Butch Beard",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 68,
+        "team": "CLE",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/beardbu01.jpg",
+        "id": "beardbu01",
+        "age": "24",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/beardbu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 9"
+        ],
+        "worst_category": [
+            "3P%: 159",
+            "STL: 159",
+            "BLK: 159",
+            "BPM: 159",
+            "USG%: 159",
+            "OBPM: 159",
+            "DBPM: 159",
+            "VORP: 159"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "15",
+        "team_name": "Cleveland Cavaliers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1972.png",
+        "rank": 100
+    },
+    "mooreot01": {
+        "grade": 65.58,
+        "name": "Otto Moore",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 81,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mooreot01.jpg",
+        "id": "mooreot01",
+        "age": "25",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/m/mooreot01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 47"
+        ],
+        "worst_category": [
+            "FT%: 154"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "6",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1972.png",
+        "rank": 101
+    },
+    "gillihe01": {
+        "grade": 65.57,
+        "name": "Herm Gilliam",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/gillihe01.jpg",
+        "id": "gillihe01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/g/gillihe01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 19"
+        ],
+        "worst_category": [
+            "3P%: 121",
+            "STL: 121",
+            "BLK: 121",
+            "BPM: 121",
+            "USG%: 121",
+            "OBPM: 121",
+            "DBPM: 121",
+            "VORP: 121"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "10",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1972.png",
+        "rank": 102
+    },
+    "greerha01": {
+        "grade": 65.4,
+        "name": "Hal Greer*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 81,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/greerha01.jpg",
+        "id": "greerha01",
+        "age": "35",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/g/greerha01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 39"
+        ],
+        "worst_category": [
+            "3P%: 117",
+            "STL: 117",
+            "BLK: 117",
+            "PER: 117",
+            "BPM: 117",
+            "USG%: 117",
+            "OBPM: 117",
+            "DBPM: 117",
+            "VORP: 117"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "13",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1972.png",
+        "rank": 103
+    },
+    "bradlbi01": {
+        "grade": 65.24,
+        "name": "Bill Bradley*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 78,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bradlbi01.jpg",
+        "id": "bradlbi01",
+        "age": "28",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/b/bradlbi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 11"
+        ],
+        "worst_category": [
+            "3P%: 154",
+            "STL: 154",
+            "BLK: 154",
+            "BPM: 154",
+            "USG%: 154",
+            "OBPM: 154",
+            "DBPM: 154",
+            "VORP: 154"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East in Finals",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1972.png",
+        "rank": 104
+    },
+    "kingji01": {
+        "grade": 64.87,
+        "name": "Jim King",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 73,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kingji01.jpg",
+        "id": "kingji01",
+        "age": "30",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/k/kingji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 52"
+        ],
+        "worst_category": [
+            "TRB: 165"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West",
+        "team_league_ranking": "3",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1972.png",
+        "rank": 105
+    },
+    "jacksph01": {
+        "grade": 64.53,
+        "name": "Phil Jackson*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/jacksph01.jpg",
+        "id": "jacksph01",
+        "age": "26",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/j/jacksph01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 49"
+        ],
+        "worst_category": [
+            "AST: 144"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East in Finals",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1972.png",
+        "rank": 106
+    },
+    "foxji01": {
+        "grade": 64.46,
+        "name": "Jim Fox",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 81,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/foxji01.jpg",
+        "id": "foxji01",
+        "age": "28",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/f/foxji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 28"
+        ],
+        "worst_category": [
+            "AST: 138"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "12",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1972.png",
+        "rank": 107
+    },
+    "clemeba01": {
+        "grade": 64.3,
+        "name": "Barry Clemens",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/clemeba01.jpg",
+        "id": "clemeba01",
+        "age": "28",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/c/clemeba01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 7",
+            "2P%: 7",
+            "eFG%: 7"
+        ],
+        "worst_category": [
+            "AST: 155"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "8",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1972.png",
+        "rank": 108
+    },
+    "zellega01": {
+        "grade": 63.97,
+        "name": "Gary Zeller",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 28,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/zellega01.jpg",
+        "id": "zellega01",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/z/zellega01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 1",
+            "STL: 1",
+            "BLK: 1",
+            "BPM: 1",
+            "USG%: 1",
+            "OBPM: 1",
+            "DBPM: 1",
+            "VORP: 1"
+        ],
+        "worst_category": [
+            "WS/48: 167"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "9",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1972.png",
+        "rank": 109
+    },
+    "hoskebi01": {
+        "grade": 63.94,
+        "name": "Bill Hosket",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 44,
+        "team": "BUF",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hoskebi01.jpg",
+        "id": "hoskebi01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/hoskebi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 26",
+            "2P%: 26",
+            "eFG%: 26"
+        ],
+        "worst_category": [
+            "DWS: 165"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "16",
+        "team_name": "Buffalo Braves",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1972.png",
+        "rank": 110
+    },
+    "smithwi01": {
+        "grade": 63.94,
+        "name": "William Smith",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 22,
+        "team": "POR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/smithwi01.jpg",
+        "id": "smithwi01",
+        "age": "22",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/s/smithwi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 35",
+            "STL: 35",
+            "BLK: 35",
+            "BPM: 35",
+            "USG%: 35",
+            "OBPM: 35",
+            "DBPM: 35",
+            "VORP: 35"
+        ],
+        "worst_category": [
+            "DWS: 160"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "17",
+        "team_name": "Portland Trail Blazers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-1972.png",
+        "rank": 111
+    },
+    "porteho01": {
+        "grade": 63.65,
+        "name": "Howard Porter",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 67,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/porteho01.jpg",
+        "id": "porteho01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/p/porteho01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 56",
+            "STL: 56",
+            "BLK: 56",
+            "BPM: 56",
+            "USG%: 56",
+            "OBPM: 56",
+            "DBPM: 56",
+            "VORP: 56"
+        ],
+        "worst_category": [
+            "AST: 167",
+            "MP: 167"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West",
+        "team_league_ranking": "3",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1972.png",
+        "rank": 112
+    },
+    "meelycl01": {
+        "grade": 63.24,
+        "name": "Cliff Meely",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 77,
+        "team": "HOU",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/meelycl01.jpg",
+        "id": "meelycl01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/m/meelycl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 43"
+        ],
+        "worst_category": [
+            "OWS: 162"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "11",
+        "team_name": "Houston Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-1972.png",
+        "rank": 113
+    },
+    "debusda01": {
+        "grade": 63.06,
+        "name": "Dave DeBusschere*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/debusda01.jpg",
+        "id": "debusda01",
+        "age": "31",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/d/debusda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 17"
+        ],
+        "worst_category": [
+            "OWS: 143"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East in Finals",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1972.png",
+        "rank": 114
+    },
+    "newlimi01": {
+        "grade": 63.04,
+        "name": "Mike Newlin",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "HOU",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/newlimi01.jpg",
+        "id": "newlimi01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/n/newlimi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 61",
+            "STL: 61",
+            "BLK: 61",
+            "BPM: 61",
+            "USG%: 61",
+            "OBPM: 61",
+            "DBPM: 61",
+            "VORP: 61"
+        ],
+        "worst_category": [
+            "OWS: 145"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "11",
+        "team_name": "Houston Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-1972.png",
+        "rank": 115
+    },
+    "gregoga01": {
+        "grade": 62.58,
+        "name": "Gary Gregor",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 82,
+        "team": "POR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/gregoga01.jpg",
+        "id": "gregoga01",
+        "age": "26",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/g/gregoga01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 40"
+        ],
+        "worst_category": [
+            "WS/48: 137"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "17",
+        "team_name": "Portland Trail Blazers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-1972.png",
+        "rank": 116
+    },
+    "trappge01": {
+        "grade": 62.33,
+        "name": "George Trapp",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 60,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/trappge01.jpg",
+        "id": "trappge01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/t/trappge01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 28",
+            "STL: 28",
+            "BLK: 28",
+            "BPM: 28",
+            "USG%: 28",
+            "OBPM: 28",
+            "DBPM: 28",
+            "VORP: 28"
+        ],
+        "worst_category": [
+            "FG%: 161",
+            "2P%: 161",
+            "eFG%: 161"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "10",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1972.png",
+        "rank": 117
+    },
+    "kimbato01": {
+        "grade": 62.17,
+        "name": "Toby Kimball",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 74,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kimbato01.jpg",
+        "id": "kimbato01",
+        "age": "29",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/k/kimbato01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 55",
+            "2P%: 55",
+            "eFG%: 55"
+        ],
+        "worst_category": [
+            "PTS: 165"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West in West",
+        "team_league_ranking": "2",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1972.png",
+        "rank": 118
+    },
+    "laceysa01": {
+        "grade": 61.72,
+        "name": "Sam Lacey",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 81,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/laceysa01.jpg",
+        "id": "laceysa01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/l/laceysa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 17"
+        ],
+        "worst_category": [
+            "OWS: 156"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "12",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1972.png",
+        "rank": 119
+    },
+    "laytomo01": {
+        "grade": 61.65,
+        "name": "Mo Layton",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/laytomo01.jpg",
+        "id": "laytomo01",
+        "age": "23",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/l/laytomo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 56"
+        ],
+        "worst_category": [
+            "TRB: 147"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "6",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1972.png",
+        "rank": 120
+    },
+    "perrycu01": {
+        "grade": 61.65,
+        "name": "Curtis Perry",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 75,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/perrycu01.jpg",
+        "id": "perrycu01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/p/perrycu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 36"
+        ],
+        "worst_category": [
+            "OWS: 167"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West in West",
+        "team_league_ranking": "2",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1972.png",
+        "rank": 121
+    },
+    "siegfla01": {
+        "grade": 61.61,
+        "name": "Larry Siegfried",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 31,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/siegfla01.jpg",
+        "id": "siegfla01",
+        "age": "32",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/s/siegfla01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 4"
+        ],
+        "worst_category": [
+            "FG%: 165",
+            "PER: 165",
+            "2P%: 165",
+            "eFG%: 165"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "10",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1972.png",
+        "rank": 122
+    },
+    "boerwto01": {
+        "grade": 61.43,
+        "name": "Tom Boerwinkle",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/boerwto01.jpg",
+        "id": "boerwto01",
+        "age": "26",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/b/boerwto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 4"
+        ],
+        "worst_category": [
+            "3P%: 155",
+            "STL: 155",
+            "BLK: 155",
+            "BPM: 155",
+            "USG%: 155",
+            "OBPM: 155",
+            "DBPM: 155",
+            "VORP: 155"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West",
+        "team_league_ranking": "3",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1972.png",
+        "rank": 123
+    },
+    "erickke01": {
+        "grade": 61.0,
+        "name": "Keith Erickson",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 15,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/erickke01.jpg",
+        "id": "erickke01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/e/erickke01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 8"
+        ],
+        "worst_category": [
+            "DWS: 144"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West in West in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1972.png",
+        "rank": 124
+    },
+    "garredi01": {
+        "grade": 60.59,
+        "name": "Dick Garrett",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 73,
+        "team": "BUF",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/garredi01.jpg",
+        "id": "garredi01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/garredi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 3"
+        ],
+        "worst_category": [
+            "DWS: 143"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "16",
+        "team_name": "Buffalo Braves",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1972.png",
+        "rank": 125
+    },
+    "kuberst01": {
+        "grade": 59.84,
+        "name": "Steve Kuberski",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 71,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kuberst01.jpg",
+        "id": "kuberst01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/k/kuberst01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 61"
+        ],
+        "worst_category": [
+            "AST: 165"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1972.png",
+        "rank": 126
+    },
+    "greenla01": {
+        "grade": 59.41,
+        "name": "Lamar Green",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 67,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/greenla01.jpg",
+        "id": "greenla01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/g/greenla01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 64"
+        ],
+        "worst_category": [
+            "AST: 160"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "6",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1972.png",
+        "rank": 127
+    },
+    "blockjo01": {
+        "grade": 59.04,
+        "name": "John Block",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 79,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/blockjo01.jpg",
+        "id": "blockjo01",
+        "age": "27",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/b/blockjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 41"
+        ],
+        "worst_category": [
+            "3P%: 156",
+            "STL: 156",
+            "BLK: 156",
+            "BPM: 156",
+            "USG%: 156",
+            "OBPM: 156",
+            "DBPM: 156",
+            "VORP: 156"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West in West",
+        "team_league_ranking": "2",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1972.png",
+        "rank": 128
+    },
+    "mcdanji01": {
+        "grade": 58.82,
+        "name": "Jim McDaniels",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 12,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mcdanji01.jpg",
+        "id": "mcdanji01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/m/mcdanji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 44"
+        ],
+        "worst_category": [
+            "WS/48: 158"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "8",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1972.png",
+        "rank": 129
+    },
+    "joneswa02": {
+        "grade": 58.55,
+        "name": "Wali Jones",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 48,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/joneswa02.jpg",
+        "id": "joneswa02",
+        "age": "29",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/j/joneswa02.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 32"
+        ],
+        "worst_category": [
+            "TRB: 160"
+        ],
+        "team_standing_string": "Finished in Midwest in 1972 in West in West",
+        "team_league_ranking": "2",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1972.png",
+        "rank": 130
+    },
+    "hewitbi01": {
+        "grade": 58.48,
+        "name": "Bill Hewitt",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 68,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hewitbi01.jpg",
+        "id": "hewitbi01",
+        "age": "27",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/hewitbi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 47",
+            "2P%: 47",
+            "eFG%: 47"
+        ],
+        "worst_category": [
+            "FT%: 166"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "14",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1972.png",
+        "rank": 131
+    },
+    "ellisle01": {
+        "grade": 58.25,
+        "name": "Leroy Ellis",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 74,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ellisle01.jpg",
+        "id": "ellisle01",
+        "age": "31",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/e/ellisle01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 65",
+            "2P%: 65",
+            "WS/48: 65",
+            "eFG%: 65"
+        ],
+        "worst_category": [
+            "AST: 166"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West in West in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1972.png",
+        "rank": 132
+    },
+    "bingda01": {
+        "grade": 58.2,
+        "name": "Dave Bing*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 45,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bingda01.jpg",
+        "id": "bingda01",
+        "age": "28",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/bingda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "MP: 6"
+        ],
+        "worst_category": [
+            "3P%: 157",
+            "STL: 157",
+            "BLK: 157",
+            "BPM: 157",
+            "USG%: 157",
+            "OBPM: 157",
+            "DBPM: 157",
+            "VORP: 157"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "14",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1972.png",
+        "rank": 133
+    },
+    "marlaha01": {
+        "grade": 57.98,
+        "name": "Harvey Marlatt",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 31,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/marlaha01.jpg",
+        "id": "marlaha01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/m/marlaha01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 7"
+        ],
+        "worst_category": [
+            "DWS: 163"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "14",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1972.png",
+        "rank": 134
+    },
+    "barneji02": {
+        "grade": 56.98,
+        "name": "Jim Barnett",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "GSW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/barneji02.jpg",
+        "id": "barneji02",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/barneji02.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 21"
+        ],
+        "worst_category": [
+            "3P%: 160",
+            "STL: 160",
+            "BLK: 160",
+            "BPM: 160",
+            "USG%: 160",
+            "OBPM: 160",
+            "DBPM: 160",
+            "VORP: 160"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West",
+        "team_league_ranking": "5",
+        "team_name": "Golden State Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-1972.png",
+        "rank": 135
+    },
+    "komivho01": {
+        "grade": 56.12,
+        "name": "Howard Komives",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 79,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/komivho01.jpg",
+        "id": "komivho01",
+        "age": "30",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/k/komivho01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 43",
+            "FT%: 43"
+        ],
+        "worst_category": [
+            "WS: 165"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "14",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1972.png",
+        "rank": 136
+    },
+    "carrau01": {
+        "grade": 56.05,
+        "name": "Austin Carr",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 43,
+        "team": "CLE",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/carrau01.jpg",
+        "id": "carrau01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/c/carrau01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 23"
+        ],
+        "worst_category": [
+            "3P%: 150",
+            "STL: 150",
+            "BLK: 150",
+            "BPM: 150",
+            "USG%: 150",
+            "OBPM: 150",
+            "DBPM: 150",
+            "VORP: 150"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "15",
+        "team_name": "Cleveland Cavaliers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1972.png",
+        "rank": 137
+    },
+    "cartefr01": {
+        "grade": 55.8,
+        "name": "Fred Carter",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 79,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/cartefr01.jpg",
+        "id": "cartefr01",
+        "age": "26",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/c/cartefr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 57"
+        ],
+        "worst_category": [
+            "FT%: 150"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "13",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1972.png",
+        "rank": 138
+    },
+    "fostefr01": {
+        "grade": 55.21,
+        "name": "Fred Foster",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 74,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/fostefr01.jpg",
+        "id": "fostefr01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/f/fostefr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 73"
+        ],
+        "worst_category": [
+            "FG%: 134",
+            "2P%: 134",
+            "WS/48: 134",
+            "eFG%: 134"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "13",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1972.png",
+        "rank": 139
+    },
+    "abdulza01": {
+        "grade": 55.14,
+        "name": "Zaid Abdul-Aziz",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 58,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/abdulza01.jpg",
+        "id": "abdulza01",
+        "age": "25",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/a/abdulza01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 22"
+        ],
+        "worst_category": [
+            "3P%: 168",
+            "STL: 168",
+            "BLK: 168",
+            "BPM: 168",
+            "USG%: 168",
+            "OBPM: 168",
+            "DBPM: 168",
+            "VORP: 168"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "8",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1972.png",
+        "rank": 140
+    },
+    "jackslu01": {
+        "grade": 55.01,
+        "name": "Luke Jackson",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 63,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/jackslu01.jpg",
+        "id": "jackslu01",
+        "age": "30",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/j/jackslu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 71"
+        ],
+        "worst_category": [
+            "FG%: 150",
+            "2P%: 150",
+            "eFG%: 150"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "13",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1972.png",
+        "rank": 141
+    },
+    "pattest01": {
+        "grade": 54.74,
+        "name": "Steve Patterson",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 65,
+        "team": "CLE",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/pattest01.jpg",
+        "id": "pattest01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/p/pattest01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 59",
+            "STL: 59",
+            "BLK: 59",
+            "BPM: 59",
+            "USG%: 59",
+            "OBPM: 59",
+            "DBPM: 59",
+            "VORP: 59"
+        ],
+        "worst_category": [
+            "TS%: 167"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "15",
+        "team_name": "Cleveland Cavaliers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1972.png",
+        "rank": 142
+    },
+    "mccarwi01": {
+        "grade": 54.65,
+        "name": "Willie McCarter",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 39,
+        "team": "POR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mccarwi01.jpg",
+        "id": "mccarwi01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/m/mccarwi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 76",
+            "STL: 76",
+            "BLK: 76",
+            "BPM: 76",
+            "USG%: 76",
+            "OBPM: 76",
+            "DBPM: 76",
+            "VORP: 76"
+        ],
+        "worst_category": [
+            "TRB: 164"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "17",
+        "team_name": "Portland Trail Blazers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-1972.png",
+        "rank": 143
+    },
+    "crosspe01": {
+        "grade": 54.6,
+        "name": "Pete Cross",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 74,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/crosspe01.jpg",
+        "id": "crosspe01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/c/crosspe01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 42"
+        ],
+        "worst_category": [
+            "AST: 148"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "8",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1972.png",
+        "rank": 144
+    },
+    "mueller01": {
+        "grade": 54.39,
+        "name": "Erwin Mueller",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 42,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mueller01.jpg",
+        "id": "mueller01",
+        "age": "27",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/m/mueller01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 65",
+            "STL: 65",
+            "BLK: 65",
+            "BPM: 65",
+            "USG%: 65",
+            "OBPM: 65",
+            "DBPM: 65",
+            "VORP: 65"
+        ],
+        "worst_category": [
+            "FG%: 166",
+            "2P%: 166",
+            "eFG%: 166"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "14",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1972.png",
+        "rank": 145
+    },
+    "johnsgu01": {
+        "grade": 54.26,
+        "name": "Gus Johnson*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 39,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/johnsgu01.jpg",
+        "id": "johnsgu01",
+        "age": "33",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/j/johnsgu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 57"
+        ],
+        "worst_category": [
+            "TS%: 159"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "9",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1972.png",
+        "rank": 146
+    },
+    "barnedi01": {
+        "grade": 54.17,
+        "name": "Dick Barnett*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 79,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/barnedi01.jpg",
+        "id": "barnedi01",
+        "age": "35",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/b/barnedi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 69"
+        ],
+        "worst_category": [
+            "3P%: 161",
+            "STL: 161",
+            "BLK: 161",
+            "BPM: 161",
+            "USG%: 161",
+            "OBPM: 161",
+            "DBPM: 161",
+            "VORP: 161"
+        ],
+        "team_standing_string": "Finished in Atlantic in 1972 in East in East in Finals",
+        "team_league_ranking": "7",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1972.png",
+        "rank": 147
+    },
+    "countme01": {
+        "grade": 53.85,
+        "name": "Mel Counts",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 76,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/countme01.jpg",
+        "id": "countme01",
+        "age": "30",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/c/countme01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 67"
+        ],
+        "worst_category": [
+            "MP: 162"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "6",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1972.png",
+        "rank": 148
+    },
+    "ellisjo01": {
+        "grade": 53.67,
+        "name": "Joe Ellis",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 78,
+        "team": "GSW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ellisjo01.jpg",
+        "id": "ellisjo01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/e/ellisjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 60"
+        ],
+        "worst_category": [
+            "OWS: 159"
+        ],
+        "team_standing_string": "Finished in Pacific in 1972 in West",
+        "team_league_ranking": "5",
+        "team_name": "Golden State Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-1972.png",
+        "rank": 149
+    },
+    "heardga01": {
+        "grade": 53.67,
+        "name": "Gar Heard",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 58,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/heardga01.jpg",
+        "id": "heardga01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/heardga01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 39"
+        ],
+        "worst_category": [
+            "OWS: 158"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "8",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1972.png",
+        "rank": 150
+    },
+    "adelmri01": {
+        "grade": 53.47,
+        "name": "Rick Adelman*",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 80,
+        "team": "POR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/adelmri01.jpg",
+        "id": "adelmri01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/a/adelmri01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 17"
+        ],
+        "worst_category": [
+            "3P%: 165",
+            "STL: 165",
+            "BLK: 165",
+            "BPM: 165",
+            "USG%: 165",
+            "OBPM: 165",
+            "DBPM: 165",
+            "VORP: 165"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "17",
+        "team_name": "Portland Trail Blazers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-1972.png",
+        "rank": 151
+    },
+    "bryanem01": {
+        "grade": 53.42,
+        "name": "Em Bryant",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 54,
+        "team": "BUF",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bryanem01.jpg",
+        "id": "bryanem01",
+        "age": "33",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/bryanem01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 41"
+        ],
+        "worst_category": [
+            "FT%: 155"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "16",
+        "team_name": "Buffalo Braves",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1972.png",
+        "rank": 152
+    },
+    "davismi01": {
+        "grade": 53.28,
+        "name": "Mike Davis",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 62,
+        "team": "BUF",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/davismi01.jpg",
+        "id": "davismi01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/d/davismi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 75"
+        ],
+        "worst_category": [
+            "DWS: 157"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "16",
+        "team_name": "Buffalo Braves",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1972.png",
+        "rank": 153
+    },
+    "cheniph01": {
+        "grade": 53.1,
+        "name": "Phil Chenier",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 81,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/cheniph01.jpg",
+        "id": "cheniph01",
+        "age": "21",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/c/cheniph01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "MP: 65"
+        ],
+        "worst_category": [
+            "OWS: 149"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "9",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1972.png",
+        "rank": 154
+    },
+    "mcgregi01": {
+        "grade": 53.03,
+        "name": "Gil McGregor",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 42,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mcgregi01.jpg",
+        "id": "mcgregi01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/m/mcgregi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 73",
+            "STL: 73",
+            "BLK: 73",
+            "BPM: 73",
+            "USG%: 73",
+            "OBPM: 73",
+            "DBPM: 73",
+            "VORP: 73"
+        ],
+        "worst_category": [
+            "AST: 168"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "12",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1972.png",
+        "rank": 155
+    },
+    "davisch01": {
+        "grade": 52.58,
+        "name": "Charlie Davis",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 61,
+        "team": "CLE",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/davisch01.jpg",
+        "id": "davisch01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/d/davisch01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 17"
+        ],
+        "worst_category": [
+            "TRB: 162"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "15",
+        "team_name": "Cleveland Cavaliers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1972.png",
+        "rank": 156
+    },
+    "hiltofr01": {
+        "grade": 52.58,
+        "name": "Fred Hilton",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 61,
+        "team": "BUF",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hiltofr01.jpg",
+        "id": "hiltofr01",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/h/hiltofr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 78"
+        ],
+        "worst_category": [
+            "WS: 168",
+            "OWS: 168"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "16",
+        "team_name": "Buffalo Braves",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1972.png",
+        "rank": 157
+    },
+    "davisji01": {
+        "grade": 51.83,
+        "name": "Jim Davis",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 75,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/davisji01.jpg",
+        "id": "davisji01",
+        "age": "30",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/d/davisji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 98"
+        ],
+        "worst_category": [
+            "AST: 162"
+        ],
+        "team_standing_string": "Finished in Midwest",
+        "team_league_ranking": "14",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1972.png",
+        "rank": 158
+    },
+    "hummejo01": {
+        "grade": 50.84,
+        "name": "John Hummer",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 55,
+        "team": "BUF",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hummejo01.jpg",
+        "id": "hummejo01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/hummejo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 86"
+        ],
+        "worst_category": [
+            "PER: 168"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "16",
+        "team_name": "Buffalo Braves",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1972.png",
+        "rank": 159
+    },
+    "jonesja01": {
+        "grade": 49.56,
+        "name": "Jake Jones",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 17,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/jonesja01.jpg",
+        "id": "jonesja01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/j/jonesja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 97",
+            "STL: 97",
+            "BLK: 97",
+            "BPM: 97",
+            "USG%: 97",
+            "OBPM: 97",
+            "DBPM: 97",
+            "VORP: 97"
+        ],
+        "worst_category": [
+            "DWS: 164"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "12",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1972.png",
+        "rank": 160
+    },
+    "eganjo01": {
+        "grade": 49.49,
+        "name": "Johnny Egan",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 38,
+        "team": "HOU",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/eganjo01.jpg",
+        "id": "eganjo01",
+        "age": "33",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/e/eganjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 39"
+        ],
+        "worst_category": [
+            "PTS: 167",
+            "TRB: 167"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "11",
+        "team_name": "Houston Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-1972.png",
+        "rank": 161
+    },
+    "adamsdo01": {
+        "grade": 48.88,
+        "name": "Don Adams",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 73,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/adamsdo01.jpg",
+        "id": "adamsdo01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/a/adamsdo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 43"
+        ],
+        "worst_category": [
+            "3P%: 166",
+            "STL: 166",
+            "BLK: 166",
+            "BPM: 166",
+            "USG%: 166",
+            "OBPM: 166",
+            "DBPM: 166",
+            "VORP: 166"
+        ],
+        "team_standing_string": "Finished in Central in 1972 in East",
+        "team_league_ranking": "10",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1972.png",
+        "rank": 162
+    },
+    "awtrede01": {
+        "grade": 48.38,
+        "name": "Dennis Awtrey",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 58,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/awtrede01.jpg",
+        "id": "awtrede01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/a/awtrede01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 82"
+        ],
+        "worst_category": [
+            "3P%: 162",
+            "STL: 162",
+            "BLK: 162",
+            "BPM: 162",
+            "USG%: 162",
+            "OBPM: 162",
+            "DBPM: 162",
+            "VORP: 162"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "13",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1972.png",
+        "rank": 163
+    },
+    "chambje01": {
+        "grade": 47.79,
+        "name": "Jerry Chambers",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 26,
+        "team": "BUF",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/chambje01.jpg",
+        "id": "chambje01",
+        "age": "28",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/c/chambje01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PER: 94"
+        ],
+        "worst_category": [
+            "DWS: 167"
+        ],
+        "team_standing_string": "Finished in Atlantic",
+        "team_league_ranking": "16",
+        "team_name": "Buffalo Braves",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1972.png",
+        "rank": 164
+    },
+    "cunnidi01": {
+        "grade": 47.71,
+        "name": "Dick Cunningham",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 63,
+        "team": "HOU",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/cunnidi01.jpg",
+        "id": "cunnidi01",
+        "age": "25",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/c/cunnidi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 89"
+        ],
+        "worst_category": [
+            "PTS: 168"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "11",
+        "team_name": "Houston Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-1972.png",
+        "rank": 165
+    },
+    "gibbsdi01": {
+        "grade": 47.55,
+        "name": "Dick Gibbs",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 64,
+        "team": "HOU",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/gibbsdi01.jpg",
+        "id": "gibbsdi01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/g/gibbsdi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 26"
+        ],
+        "worst_category": [
+            "FG%: 167",
+            "2P%: 167",
+            "eFG%: 167"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "11",
+        "team_name": "Houston Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-1972.png",
+        "rank": 166
+    },
+    "durreke01": {
+        "grade": 46.09,
+        "name": "Ken Durrett",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 19,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/durreke01.jpg",
+        "id": "durreke01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/d/durreke01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 92"
+        ],
+        "worst_category": [
+            "DWS: 166"
+        ],
+        "team_standing_string": "Finished in Central",
+        "team_league_ranking": "12",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1972.png",
+        "rank": 167
+    },
+    "brownfr01": {
+        "grade": 41.49,
+        "name": "Fred Brown",
+        "league_grade": 75.63,
+        "year": 1972,
+        "games_played": 33,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/brownfr01.jpg",
+        "id": "brownfr01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/b/brownfr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 82"
+        ],
+        "worst_category": [
+            "FG%: 168",
+            "MP: 168",
+            "TS%: 168",
+            "2P%: 168",
+            "WS/48: 168",
+            "eFG%: 168"
+        ],
+        "team_standing_string": "Finished in Pacific",
+        "team_league_ranking": "8",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1972.png",
+        "rank": 168
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "awards": [
+        [
+            "Boston Celtics",
+            "/teams/BOS/1976.html"
+        ],
+        [
+            "Kareem Abdul-Jabbar",
+            "/players/a/abdulka01.html"
+        ],
+        [
+            [
+                "Alvan Adams",
+                "/players/a/adamsal01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Kareem Abdul-Jabbar",
+                "/players/a/abdulka01.html"
+            ],
+            [
+                "Tiny Archibald",
+                "/players/a/architi01.html"
+            ],
+            [
+                "Rick Barry",
+                "/players/b/barryri01.html"
+            ],
+            [
+                "Pete Maravich",
+                "/players/m/maravpe01.html"
+            ],
+            [
+                "George McGinnis",
+                "/players/m/mcginge01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Dave Cowens",
+                "/players/c/cowenda01.html"
+            ],
+            [
+                "John Havlicek",
+                "/players/h/havlijo01.html"
+            ],
+            [
+                "Elvin Hayes",
+                "/players/h/hayesel01.html"
+            ],
+            [
+                "Phil Smith",
+                "/players/s/smithph01.html"
+            ],
+            [
+                "Randy Smith",
+                "/players/s/smithra01.html"
+            ]
+        ],
+        "3st Team": []
+    }
+}

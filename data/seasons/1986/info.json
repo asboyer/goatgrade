@@ -1,0 +1,65 @@
+{
+    "awards": [
+        [
+            "Boston Celtics",
+            "/teams/BOS/1986.html"
+        ],
+        [
+            "Larry Bird",
+            "/players/b/birdla01.html"
+        ],
+        [
+            [
+                "Patrick Ewing",
+                "/players/e/ewingpa01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Kareem Abdul-Jabbar",
+                "/players/a/abdulka01.html"
+            ],
+            [
+                "Larry Bird",
+                "/players/b/birdla01.html"
+            ],
+            [
+                "Magic Johnson",
+                "/players/j/johnsma02.html"
+            ],
+            [
+                "Isiah Thomas",
+                "/players/t/thomais01.html"
+            ],
+            [
+                "Dominique Wilkins",
+                "/players/w/wilkido01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Charles Barkley",
+                "/players/b/barklch01.html"
+            ],
+            [
+                "Alex English",
+                "/players/e/englial01.html"
+            ],
+            [
+                "Sidney Moncrief",
+                "/players/m/moncrsi01.html"
+            ],
+            [
+                "Hakeem Olajuwon",
+                "/players/o/olajuha01.html"
+            ],
+            [
+                "Alvin Robertson",
+                "/players/r/roberal01.html"
+            ]
+        ],
+        "3st Team": []
+    }
+}

@@ -1,0 +1,3829 @@
+{
+    "westje01": {
+        "grade": 94.87,
+        "name": "Jerry West*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 61,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/westje01.jpg",
+        "id": "westje01",
+        "age": "30",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/w/westje01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PER: 1"
+        ],
+        "worst_category": [
+            "TRB: 79"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1969.png",
+        "rank": 1
+    },
+    "walkech01": {
+        "grade": 91.0,
+        "name": "Chet Walker*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/walkech01.jpg",
+        "id": "walkech01",
+        "age": "28",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/w/walkech01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 9"
+        ],
+        "worst_category": [
+            "AST: 78"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1969.png",
+        "rank": 2
+    },
+    "reedwi01": {
+        "grade": 90.41,
+        "name": "Willis Reed*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/reedwi01.jpg",
+        "id": "reedwi01",
+        "age": "26",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/r/reedwi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS: 1",
+            "WS/48: 1"
+        ],
+        "worst_category": [
+            "AST: 64"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1969.png",
+        "rank": 3
+    },
+    "wilkele01": {
+        "grade": 90.34,
+        "name": "Lenny Wilkens*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/wilkele01.jpg",
+        "id": "wilkele01",
+        "age": "31",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/wilkele01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 2"
+        ],
+        "worst_category": [
+            "FG%: 62",
+            "2P%: 62",
+            "eFG%: 62"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "12",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1969.png",
+        "rank": 4
+    },
+    "roberos01": {
+        "grade": 89.78,
+        "name": "Oscar Robertson*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 79,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/roberos01.jpg",
+        "id": "roberos01",
+        "age": "30",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/r/roberos01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 1",
+            "OWS: 1"
+        ],
+        "worst_category": [
+            "DWS: 106"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1969.png",
+        "rank": 5
+    },
+    "unselwe01": {
+        "grade": 89.33,
+        "name": "Wes Unseld*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/unselwe01.jpg",
+        "id": "unselwe01",
+        "age": "22",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/u/unselwe01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 2"
+        ],
+        "worst_category": [
+            "FT%: 116"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "1",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1969.png",
+        "rank": 6
+    },
+    "mullije01": {
+        "grade": 86.11,
+        "name": "Jeff Mullins",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 78,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mullije01.jpg",
+        "id": "mullije01",
+        "age": "26",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/m/mullije01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 3"
+        ],
+        "worst_category": [
+            "TRB: 57"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "7",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1969.png",
+        "rank": 7
+    },
+    "lucasje01": {
+        "grade": 85.15,
+        "name": "Jerry Lucas*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 74,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lucasje01.jpg",
+        "id": "lucasje01",
+        "age": "28",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/l/lucasje01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 1"
+        ],
+        "worst_category": [
+            "DWS: 103"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1969.png",
+        "rank": 8
+    },
+    "rulebo01": {
+        "grade": 84.61,
+        "name": "Bob Rule",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/rulebo01.jpg",
+        "id": "rulebo01",
+        "age": "24",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/r/rulebo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 7"
+        ],
+        "worst_category": [
+            "AST: 86"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "12",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1969.png",
+        "rank": 9
+    },
+    "vanardi01": {
+        "grade": 83.44,
+        "name": "Dick Van Arsdale",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/vanardi01.jpg",
+        "id": "vanardi01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/v/vanardi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "MP: 6"
+        ],
+        "worst_category": [
+            "DWS: 94"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "14",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1969.png",
+        "rank": 10
+    },
+    "mcglojo01": {
+        "grade": 82.97,
+        "name": "Jon McGlocklin",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mcglojo01.jpg",
+        "id": "mcglojo01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/m/mcglojo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 4"
+        ],
+        "worst_category": [
+            "TRB: 81"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "13",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1969.png",
+        "rank": 11
+    },
+    "walkeji01": {
+        "grade": 82.1,
+        "name": "Jimmy Walker",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 69,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/walkeji01.jpg",
+        "id": "walkeji01",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/w/walkeji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 11",
+            "STL: 11",
+            "BLK: 11",
+            "BPM: 11",
+            "USG%: 11",
+            "OBPM: 11",
+            "DBPM: 11",
+            "VORP: 11"
+        ],
+        "worst_category": [
+            "TRB: 123"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "11",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1969.png",
+        "rank": 12
+    },
+    "nelsodo01": {
+        "grade": 81.56,
+        "name": "Don Nelson*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/nelsodo01.jpg",
+        "id": "nelsodo01",
+        "age": "28",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/n/nelsodo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 5"
+        ],
+        "worst_category": [
+            "AST: 109"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East in Finals",
+        "team_league_ranking": "6",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1969.png",
+        "rank": 13
+    },
+    "marinja01": {
+        "grade": 81.25,
+        "name": "Jack Marin",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/marinja01.jpg",
+        "id": "marinja01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/m/marinja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 8"
+        ],
+        "worst_category": [
+            "3P%: 54",
+            "STL: 54",
+            "BLK: 54",
+            "BPM: 54",
+            "USG%: 54",
+            "OBPM: 54",
+            "DBPM: 54",
+            "VORP: 54"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "1",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1969.png",
+        "rank": 14
+    },
+    "vanarto01": {
+        "grade": 81.16,
+        "name": "Tom Van Arsdale",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 77,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/vanarto01.jpg",
+        "id": "vanarto01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/v/vanarto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 13",
+            "STL: 13",
+            "BLK: 13",
+            "MP: 13",
+            "BPM: 13",
+            "USG%: 13",
+            "OBPM: 13",
+            "DBPM: 13",
+            "VORP: 13"
+        ],
+        "worst_category": [
+            "DWS: 124"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1969.png",
+        "rank": 15
+    },
+    "robinfl01": {
+        "grade": 80.92,
+        "name": "Flynn Robinson",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 83,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/robinfl01.jpg",
+        "id": "robinfl01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/r/robinfl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 5"
+        ],
+        "worst_category": [
+            "TRB: 94"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "13",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1969.png",
+        "rank": 16
+    },
+    "monroea01": {
+        "grade": 80.81,
+        "name": "Earl Monroe*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/monroea01.jpg",
+        "id": "monroea01",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/m/monroea01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 3"
+        ],
+        "worst_category": [
+            "TRB: 98"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "1",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1969.png",
+        "rank": 17
+    },
+    "washiji01": {
+        "grade": 80.6,
+        "name": "Jim Washington",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/washiji01.jpg",
+        "id": "washiji01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/w/washiji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 9",
+            "STL: 9",
+            "BLK: 9",
+            "BPM: 9",
+            "USG%: 9",
+            "OBPM: 9",
+            "DBPM: 9",
+            "VORP: 9"
+        ],
+        "worst_category": [
+            "AST: 96"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "10",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1969.png",
+        "rank": 18
+    },
+    "russeca01": {
+        "grade": 80.15,
+        "name": "Cazzie Russell",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 50,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/russeca01.jpg",
+        "id": "russeca01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/r/russeca01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 20"
+        ],
+        "worst_category": [
+            "TRB: 84"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1969.png",
+        "rank": 19
+    },
+    "russebi01": {
+        "grade": 80.06,
+        "name": "Bill Russell*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 77,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/russebi01.jpg",
+        "id": "russebi01",
+        "age": "34",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/r/russebi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 1"
+        ],
+        "worst_category": [
+            "FT%: 127"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East in Finals",
+        "team_league_ranking": "6",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1969.png",
+        "rank": 20
+    },
+    "thurmna01": {
+        "grade": 80.03,
+        "name": "Nate Thurmond*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 71,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/thurmna01.jpg",
+        "id": "thurmna01",
+        "age": "27",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/t/thurmna01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 2",
+            "MP: 2"
+        ],
+        "worst_category": [
+            "FT%: 112"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "7",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1969.png",
+        "rank": 21
+    },
+    "sloanje01": {
+        "grade": 79.77,
+        "name": "Jerry Sloan*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 78,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sloanje01.jpg",
+        "id": "sloanje01",
+        "age": "26",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/sloanje01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 14"
+        ],
+        "worst_category": [
+            "FG%: 94",
+            "2P%: 94",
+            "eFG%: 94"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "10",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1969.png",
+        "rank": 22
+    },
+    "hudsolo01": {
+        "grade": 79.66,
+        "name": "Lou Hudson*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 81,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hudsolo01.jpg",
+        "id": "hudsolo01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/hudsolo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "OWS: 8"
+        ],
+        "worst_category": [
+            "3P%: 79",
+            "STL: 79",
+            "BLK: 79",
+            "BPM: 79",
+            "USG%: 79",
+            "OBPM: 79",
+            "DBPM: 79",
+            "VORP: 79"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West",
+        "team_league_ranking": "5",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1969.png",
+        "rank": 23
+    },
+    "snydedi01": {
+        "grade": 79.66,
+        "name": "Dick Snyder",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 81,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/snydedi01.jpg",
+        "id": "snydedi01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/s/snydedi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 20",
+            "2P%: 20",
+            "eFG%: 20"
+        ],
+        "worst_category": [
+            "DWS: 110"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "14",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1969.png",
+        "rank": 24
+    },
+    "howelba01": {
+        "grade": 78.93,
+        "name": "Bailey Howell*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 78,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/howelba01.jpg",
+        "id": "howelba01",
+        "age": "32",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/howelba01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 3"
+        ],
+        "worst_category": [
+            "AST: 80",
+            "3P%: 80",
+            "STL: 80",
+            "BLK: 80",
+            "BPM: 80",
+            "USG%: 80",
+            "OBPM: 80",
+            "DBPM: 80",
+            "VORP: 80"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East in Finals",
+        "team_league_ranking": "6",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1969.png",
+        "rank": 25
+    },
+    "tresvjo01": {
+        "grade": 78.51,
+        "name": "John Tresvant",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 77,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/tresvjo01.jpg",
+        "id": "tresvjo01",
+        "age": "29",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/t/tresvjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 18",
+            "STL: 18",
+            "BLK: 18",
+            "BPM: 18",
+            "USG%: 18",
+            "OBPM: 18",
+            "DBPM: 18",
+            "VORP: 18"
+        ],
+        "worst_category": [
+            "FT%: 115"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "12",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1969.png",
+        "rank": 26
+    },
+    "fraziwa01": {
+        "grade": 78.18,
+        "name": "Walt Frazier*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/fraziwa01.jpg",
+        "id": "fraziwa01",
+        "age": "23",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/f/fraziwa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 3"
+        ],
+        "worst_category": [
+            "3P%: 97",
+            "STL: 97",
+            "BLK: 97",
+            "BPM: 97",
+            "USG%: 97",
+            "OBPM: 97",
+            "DBPM: 97",
+            "VORP: 97"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1969.png",
+        "rank": 27
+    },
+    "loughke01": {
+        "grade": 77.57,
+        "name": "Kevin Loughery",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/loughke01.jpg",
+        "id": "loughke01",
+        "age": "28",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/l/loughke01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 12"
+        ],
+        "worst_category": [
+            "TRB: 103"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "1",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1969.png",
+        "rank": 28
+    },
+    "thornro01": {
+        "grade": 77.43,
+        "name": "Rod Thorn*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 29,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/thornro01.jpg",
+        "id": "thornro01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/t/thornro01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 20",
+            "STL: 20",
+            "BLK: 20",
+            "BPM: 20",
+            "USG%: 20",
+            "OBPM: 20",
+            "DBPM: 20",
+            "VORP: 20"
+        ],
+        "worst_category": [
+            "DWS: 128"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "12",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1969.png",
+        "rank": 29
+    },
+    "kojisdo01": {
+        "grade": 76.44,
+        "name": "Don Kojis",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 81,
+        "team": "SDR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kojisdo01.jpg",
+        "id": "kojisdo01",
+        "age": "30",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/k/kojisdo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 12"
+        ],
+        "worst_category": [
+            "FG%: 68",
+            "2P%: 68",
+            "eFG%: 68"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "9",
+        "team_name": "San Diego Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SDR-1969.png",
+        "rank": 30
+    },
+    "meschto01": {
+        "grade": 76.18,
+        "name": "Tom Meschery",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/meschto01.jpg",
+        "id": "meschto01",
+        "age": "30",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/m/meschto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 23"
+        ],
+        "worst_category": [
+            "WS/48: 78"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "12",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1969.png",
+        "rank": 31
+    },
+    "greerha01": {
+        "grade": 75.92,
+        "name": "Hal Greer*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/greerha01.jpg",
+        "id": "greerha01",
+        "age": "32",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/greerha01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 10",
+            "MP: 10"
+        ],
+        "worst_category": [
+            "3P%: 93",
+            "STL: 93",
+            "BLK: 93",
+            "BPM: 93",
+            "USG%: 93",
+            "OBPM: 93",
+            "DBPM: 93",
+            "VORP: 93"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1969.png",
+        "rank": 32
+    },
+    "siegfla01": {
+        "grade": 75.41,
+        "name": "Larry Siegfried",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 79,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/siegfla01.jpg",
+        "id": "siegfla01",
+        "age": "29",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/s/siegfla01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 1"
+        ],
+        "worst_category": [
+            "FG%: 123",
+            "2P%: 123",
+            "eFG%: 123"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East in Finals",
+        "team_league_ranking": "6",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1969.png",
+        "rank": 33
+    },
+    "sandeto01": {
+        "grade": 75.27,
+        "name": "Tom Sanders*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sandeto01.jpg",
+        "id": "sandeto01",
+        "age": "30",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/s/sandeto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 15"
+        ],
+        "worst_category": [
+            "AST: 97"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East in Finals",
+        "team_league_ranking": "6",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1969.png",
+        "rank": 34
+    },
+    "chambwi01": {
+        "grade": 75.01,
+        "name": "Wilt Chamberlain*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 81,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/chambwi01.jpg",
+        "id": "chambwi01",
+        "age": "32",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/c/chambwi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 1",
+            "FG%: 1",
+            "MP: 1",
+            "2P%: 1",
+            "eFG%: 1"
+        ],
+        "worst_category": [
+            "FT%: 133"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1969.png",
+        "rank": 35
+    },
+    "williro01": {
+        "grade": 75.01,
+        "name": "Ron Williams",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 75,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/williro01.jpg",
+        "id": "williro01",
+        "age": "24",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/williro01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 3",
+            "STL: 3",
+            "BLK: 3",
+            "BPM: 3",
+            "USG%: 3",
+            "OBPM: 3",
+            "DBPM: 3",
+            "VORP: 3"
+        ],
+        "worst_category": [
+            "TRB: 119"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "7",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1969.png",
+        "rank": 36
+    },
+    "johnsgu01": {
+        "grade": 74.63,
+        "name": "Gus Johnson*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 49,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/johnsgu01.jpg",
+        "id": "johnsgu01",
+        "age": "30",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/j/johnsgu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 14"
+        ],
+        "worst_category": [
+            "3P%: 75",
+            "STL: 75",
+            "BLK: 75",
+            "BPM: 75",
+            "USG%: 75",
+            "OBPM: 75",
+            "DBPM: 75",
+            "VORP: 75"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "1",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1969.png",
+        "rank": 37
+    },
+    "scottra01": {
+        "grade": 74.58,
+        "name": "Ray Scott",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/scottra01.jpg",
+        "id": "scottra01",
+        "age": "30",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/scottra01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 21"
+        ],
+        "worst_category": [
+            "FG%: 95",
+            "2P%: 95",
+            "eFG%: 95"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "1",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1969.png",
+        "rank": 38
+    },
+    "weslewa01": {
+        "grade": 74.28,
+        "name": "Walt Wesley",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/weslewa01.jpg",
+        "id": "weslewa01",
+        "age": "24",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/w/weslewa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 7",
+            "STL: 7",
+            "BLK: 7",
+            "BPM: 7",
+            "USG%: 7",
+            "OBPM: 7",
+            "DBPM: 7",
+            "VORP: 7"
+        ],
+        "worst_category": [
+            "DWS: 131"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1969.png",
+        "rank": 39
+    },
+    "smithgr01": {
+        "grade": 73.74,
+        "name": "Greg Smith",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 79,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/smithgr01.jpg",
+        "id": "smithgr01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/smithgr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 22",
+            "3P%: 22",
+            "STL: 22",
+            "BLK: 22",
+            "BPM: 22",
+            "USG%: 22",
+            "OBPM: 22",
+            "DBPM: 22",
+            "VORP: 22"
+        ],
+        "worst_category": [
+            "FT%: 119"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "13",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1969.png",
+        "rank": 40
+    },
+    "hayesel01": {
+        "grade": 73.65,
+        "name": "Elvin Hayes*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "SDR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hayesel01.jpg",
+        "id": "hayesel01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/h/hayesel01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 1"
+        ],
+        "worst_category": [
+            "FT%: 107"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "9",
+        "team_name": "San Diego Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SDR-1969.png",
+        "rank": 41
+    },
+    "williar01": {
+        "grade": 73.43,
+        "name": "Art Williams",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 79,
+        "team": "SDR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/williar01.jpg",
+        "id": "williar01",
+        "age": "29",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/williar01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 4",
+            "STL: 4",
+            "BLK: 4",
+            "BPM: 4",
+            "USG%: 4",
+            "OBPM: 4",
+            "DBPM: 4",
+            "VORP: 4"
+        ],
+        "worst_category": [
+            "TS%: 122"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "9",
+        "team_name": "San Diego Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SDR-1969.png",
+        "rank": 42
+    },
+    "smithad01": {
+        "grade": 72.61,
+        "name": "Adrian Smith",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 73,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/smithad01.jpg",
+        "id": "smithad01",
+        "age": "32",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/smithad01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 13"
+        ],
+        "worst_category": [
+            "TRB: 133"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1969.png",
+        "rank": 43
+    },
+    "larusru01": {
+        "grade": 72.54,
+        "name": "Rudy LaRusso",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 75,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/larusru01.jpg",
+        "id": "larusru01",
+        "age": "31",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/l/larusru01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 22"
+        ],
+        "worst_category": [
+            "FG%: 103",
+            "2P%: 103",
+            "eFG%: 103"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "7",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1969.png",
+        "rank": 44
+    },
+    "hairsha01": {
+        "grade": 72.45,
+        "name": "Happy Hairston",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 81,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hairsha01.jpg",
+        "id": "hairsha01",
+        "age": "26",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/hairsha01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 12"
+        ],
+        "worst_category": [
+            "AST: 100"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "11",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1969.png",
+        "rank": 45
+    },
+    "wilsoge01": {
+        "grade": 72.33,
+        "name": "George Wilson",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 79,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/wilsoge01.jpg",
+        "id": "wilsoge01",
+        "age": "26",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/w/wilsoge01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 1",
+            "STL: 1",
+            "BLK: 1",
+            "BPM: 1",
+            "USG%: 1",
+            "OBPM: 1",
+            "DBPM: 1",
+            "VORP: 1"
+        ],
+        "worst_category": [
+            "WS/48: 111"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1969.png",
+        "rank": 46
+    },
+    "tuckeal01": {
+        "grade": 72.28,
+        "name": "Al Tucker",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 84,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/tuckeal01.jpg",
+        "id": "tuckeal01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/t/tuckeal01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 17",
+            "STL: 17",
+            "BLK: 17",
+            "BPM: 17",
+            "USG%: 17",
+            "OBPM: 17",
+            "DBPM: 17",
+            "VORP: 17"
+        ],
+        "worst_category": [
+            "AST: 115"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1969.png",
+        "rank": 47
+    },
+    "silaspa01": {
+        "grade": 72.26,
+        "name": "Paul Silas",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 79,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/silaspa01.jpg",
+        "id": "silaspa01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/silaspa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 25",
+            "STL: 25",
+            "BLK: 25",
+            "BPM: 25",
+            "USG%: 25",
+            "OBPM: 25",
+            "DBPM: 25",
+            "VORP: 25"
+        ],
+        "worst_category": [
+            "FT%: 114"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West",
+        "team_league_ranking": "5",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1969.png",
+        "rank": 48
+    },
+    "turnebi01": {
+        "grade": 72.17,
+        "name": "Bill Turner",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 79,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/turnebi01.jpg",
+        "id": "turnebi01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/t/turnebi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 16",
+            "STL: 16",
+            "BLK: 16",
+            "BPM: 16",
+            "USG%: 16",
+            "OBPM: 16",
+            "DBPM: 16",
+            "VORP: 16"
+        ],
+        "worst_category": [
+            "AST: 119"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "7",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1969.png",
+        "rank": 49
+    },
+    "boozebo01": {
+        "grade": 72.14,
+        "name": "Bob Boozer",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 79,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/boozebo01.jpg",
+        "id": "boozebo01",
+        "age": "31",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/b/boozebo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS: 5"
+        ],
+        "worst_category": [
+            "3P%: 122",
+            "STL: 122",
+            "BLK: 122",
+            "BPM: 122",
+            "USG%: 122",
+            "OBPM: 122",
+            "DBPM: 122",
+            "VORP: 122"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "10",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1969.png",
+        "rank": 50
+    },
+    "jonessa01": {
+        "grade": 71.91,
+        "name": "Sam Jones*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 70,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/jonessa01.jpg",
+        "id": "jonessa01",
+        "age": "35",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/j/jonessa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PER: 25"
+        ],
+        "worst_category": [
+            "TRB: 91"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East in Finals",
+        "team_league_ranking": "6",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1969.png",
+        "rank": 51
+    },
+    "imhofda01": {
+        "grade": 71.58,
+        "name": "Darrall Imhoff",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/imhofda01.jpg",
+        "id": "imhofda01",
+        "age": "30",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/i/imhofda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 22",
+            "2P%: 22",
+            "eFG%: 22"
+        ],
+        "worst_category": [
+            "FT%: 118"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1969.png",
+        "rank": 52
+    },
+    "bellawa01": {
+        "grade": 69.37,
+        "name": "Walt Bellamy*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 88,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bellawa01.jpg",
+        "id": "bellawa01",
+        "age": "29",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/b/bellawa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 6",
+            "2P%: 6",
+            "eFG%: 6"
+        ],
+        "worst_category": [
+            "3P%: 126",
+            "STL: 126",
+            "BLK: 126",
+            "BPM: 126",
+            "USG%: 126",
+            "OBPM: 126",
+            "DBPM: 126",
+            "VORP: 126"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "11",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1969.png",
+        "rank": 53
+    },
+    "cunnibi01": {
+        "grade": 69.04,
+        "name": "Billy Cunningham*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/cunnibi01.jpg",
+        "id": "cunnibi01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/c/cunnibi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 4"
+        ],
+        "worst_category": [
+            "3P%: 110",
+            "STL: 110",
+            "BLK: 110",
+            "BPM: 110",
+            "USG%: 110",
+            "OBPM: 110",
+            "DBPM: 110",
+            "VORP: 110"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1969.png",
+        "rank": 54
+    },
+    "havlijo01": {
+        "grade": 68.57,
+        "name": "John Havlicek*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/havlijo01.jpg",
+        "id": "havlijo01",
+        "age": "28",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/h/havlijo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 3"
+        ],
+        "worst_category": [
+            "FG%: 105",
+            "2P%: 105",
+            "eFG%: 105"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East in Finals",
+        "team_league_ranking": "6",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1969.png",
+        "rank": 55
+    },
+    "milesed01": {
+        "grade": 68.43,
+        "name": "Eddie Miles",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/milesed01.jpg",
+        "id": "milesed01",
+        "age": "28",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/m/milesed01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 48",
+            "STL: 48",
+            "BLK: 48",
+            "BPM: 48",
+            "USG%: 48",
+            "OBPM: 48",
+            "DBPM: 48",
+            "VORP: 48"
+        ],
+        "worst_category": [
+            "DWS: 112"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "11",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1969.png",
+        "rank": 56
+    },
+    "beatyze01": {
+        "grade": 68.22,
+        "name": "Zelmo Beaty*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 72,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/beatyze01.jpg",
+        "id": "beatyze01",
+        "age": "29",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/b/beatyze01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PER: 10"
+        ],
+        "worst_category": [
+            "3P%: 127",
+            "STL: 127",
+            "BLK: 127",
+            "BPM: 127",
+            "USG%: 127",
+            "OBPM: 127",
+            "DBPM: 127",
+            "VORP: 127"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West",
+        "team_league_ranking": "5",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1969.png",
+        "rank": 57
+    },
+    "bayloel01": {
+        "grade": 68.2,
+        "name": "Elgin Baylor*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 76,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bayloel01.jpg",
+        "id": "bayloel01",
+        "age": "34",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/b/bayloel01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 5",
+            "PER: 5"
+        ],
+        "worst_category": [
+            "3P%: 128",
+            "STL: 128",
+            "BLK: 128",
+            "BPM: 128",
+            "USG%: 128",
+            "OBPM: 128",
+            "DBPM: 128",
+            "VORP: 128"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1969.png",
+        "rank": 58
+    },
+    "lantzst01": {
+        "grade": 68.17,
+        "name": "Stu Lantz",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 73,
+        "team": "SDR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lantzst01.jpg",
+        "id": "lantzst01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/l/lantzst01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 33"
+        ],
+        "worst_category": [
+            "TRB: 106"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "9",
+        "team_name": "San Diego Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SDR-1969.png",
+        "rank": 59
+    },
+    "hetzefr01": {
+        "grade": 67.99,
+        "name": "Fred Hetzel",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 84,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hetzefr01.jpg",
+        "id": "hetzefr01",
+        "age": "26",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/hetzefr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 7"
+        ],
+        "worst_category": [
+            "AST: 99"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1969.png",
+        "rank": 60
+    },
+    "weissbo01": {
+        "grade": 67.89,
+        "name": "Bob Weiss",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 77,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/weissbo01.jpg",
+        "id": "weissbo01",
+        "age": "26",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/weissbo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 8",
+            "STL: 8",
+            "BLK: 8",
+            "BPM: 8",
+            "USG%: 8",
+            "OBPM: 8",
+            "DBPM: 8",
+            "VORP: 8"
+        ],
+        "worst_category": [
+            "TRB: 127"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "10",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1969.png",
+        "rank": 61
+    },
+    "schluda01": {
+        "grade": 66.98,
+        "name": "Dale Schlueter",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 31,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/schluda01.jpg",
+        "id": "schluda01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/s/schluda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 28",
+            "STL: 28",
+            "BLK: 28",
+            "BPM: 28",
+            "USG%: 28",
+            "OBPM: 28",
+            "DBPM: 28",
+            "VORP: 28"
+        ],
+        "worst_category": [
+            "FT%: 122"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "7",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1969.png",
+        "rank": 62
+    },
+    "joneswa02": {
+        "grade": 66.81,
+        "name": "Wali Jones",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 81,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/joneswa02.jpg",
+        "id": "joneswa02",
+        "age": "26",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/j/joneswa02.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 12"
+        ],
+        "worst_category": [
+            "TRB: 110"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1969.png",
+        "rank": 63
+    },
+    "haskicl01": {
+        "grade": 66.53,
+        "name": "Clem Haskins",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 79,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/haskicl01.jpg",
+        "id": "haskicl01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/h/haskicl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 27"
+        ],
+        "worst_category": [
+            "FG%: 89",
+            "2P%: 89",
+            "eFG%: 89"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "10",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1969.png",
+        "rank": 64
+    },
+    "ohldo01": {
+        "grade": 66.53,
+        "name": "Don Ohl",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 76,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ohldo01.jpg",
+        "id": "ohldo01",
+        "age": "32",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/o/ohldo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 40",
+            "STL: 40",
+            "BLK: 40",
+            "BPM: 40",
+            "USG%: 40",
+            "OBPM: 40",
+            "DBPM: 40",
+            "VORP: 40"
+        ],
+        "worst_category": [
+            "TRB: 125"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West",
+        "team_league_ranking": "5",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1969.png",
+        "rank": 65
+    },
+    "foxji01": {
+        "grade": 66.46,
+        "name": "Jim Fox",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 76,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/foxji01.jpg",
+        "id": "foxji01",
+        "age": "25",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/f/foxji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 19"
+        ],
+        "worst_category": [
+            "DWS: 101"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "14",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1969.png",
+        "rank": 66
+    },
+    "rodgegu01": {
+        "grade": 66.39,
+        "name": "Guy Rodgers*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 81,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/rodgegu01.jpg",
+        "id": "rodgegu01",
+        "age": "33",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/r/rodgegu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 6"
+        ],
+        "worst_category": [
+            "FG%: 125",
+            "2P%: 125",
+            "eFG%: 125"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "13",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1969.png",
+        "rank": 67
+    },
+    "clarkar01": {
+        "grade": 66.25,
+        "name": "Archie Clark",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/clarkar01.jpg",
+        "id": "clarkar01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/c/clarkar01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 18",
+            "2P%: 18",
+            "eFG%: 18"
+        ],
+        "worst_category": [
+            "3P%: 114",
+            "STL: 114",
+            "BLK: 114",
+            "BPM: 114",
+            "USG%: 114",
+            "OBPM: 114",
+            "DBPM: 114",
+            "VORP: 114"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1969.png",
+        "rank": 68
+    },
+    "bridgbi01": {
+        "grade": 65.92,
+        "name": "Bill Bridges",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bridgbi01.jpg",
+        "id": "bridgbi01",
+        "age": "29",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/b/bridgbi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 8"
+        ],
+        "worst_category": [
+            "3P%: 120",
+            "STL: 120",
+            "BLK: 120",
+            "BPM: 120",
+            "USG%: 120",
+            "OBPM: 120",
+            "DBPM: 120",
+            "VORP: 120"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West",
+        "team_league_ranking": "5",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1969.png",
+        "rank": 69
+    },
+    "jackslu01": {
+        "grade": 65.85,
+        "name": "Luke Jackson",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 25,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/jackslu01.jpg",
+        "id": "jackslu01",
+        "age": "27",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/j/jackslu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 16"
+        ],
+        "worst_category": [
+            "WS: 99"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1969.png",
+        "rank": 70
+    },
+    "caldwjo01": {
+        "grade": 65.78,
+        "name": "Joe Caldwell",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 81,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/caldwjo01.jpg",
+        "id": "caldwjo01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/c/caldwjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 7",
+            "2P%: 7",
+            "eFG%: 7"
+        ],
+        "worst_category": [
+            "FT%: 126"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West",
+        "team_league_ranking": "5",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1969.png",
+        "rank": 71
+    },
+    "mckenst01": {
+        "grade": 65.64,
+        "name": "Stan McKenzie",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mckenst01.jpg",
+        "id": "mckenst01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/m/mckenst01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 38"
+        ],
+        "worst_category": [
+            "DWS: 125"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "14",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1969.png",
+        "rank": 72
+    },
+    "warlibo01": {
+        "grade": 65.59,
+        "name": "Bob Warlick",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 66,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/warlibo01.jpg",
+        "id": "warlibo01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/w/warlibo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 10",
+            "STL: 10",
+            "BLK: 10",
+            "BPM: 10",
+            "USG%: 10",
+            "OBPM: 10",
+            "DBPM: 10",
+            "VORP: 10"
+        ],
+        "worst_category": [
+            "DWS: 127"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "14",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1969.png",
+        "rank": 73
+    },
+    "debusda01": {
+        "grade": 64.96,
+        "name": "Dave DeBusschere*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 76,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/debusda01.jpg",
+        "id": "debusda01",
+        "age": "28",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/d/debusda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 13"
+        ],
+        "worst_category": [
+            "3P%: 107",
+            "STL: 107",
+            "BLK: 107",
+            "BPM: 107",
+            "USG%: 107",
+            "OBPM: 107",
+            "DBPM: 107",
+            "VORP: 107"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1969.png",
+        "rank": 74
+    },
+    "johnsne02": {
+        "grade": 64.58,
+        "name": "Neil Johnson",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/johnsne02.jpg",
+        "id": "johnsne02",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/j/johnsne02.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 16",
+            "2P%: 16",
+            "eFG%: 16"
+        ],
+        "worst_category": [
+            "DWS: 119"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "14",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1969.png",
+        "rank": 75
+    },
+    "barnedi01": {
+        "grade": 64.28,
+        "name": "Dick Barnett*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/barnedi01.jpg",
+        "id": "barnedi01",
+        "age": "32",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/b/barnedi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "OWS: 19"
+        ],
+        "worst_category": [
+            "3P%: 131",
+            "STL: 131",
+            "BLK: 131",
+            "BPM: 131",
+            "USG%: 131",
+            "OBPM: 131",
+            "DBPM: 131",
+            "VORP: 131"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1969.png",
+        "rank": 76
+    },
+    "dischte01": {
+        "grade": 64.23,
+        "name": "Terry Dischinger",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 75,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/dischte01.jpg",
+        "id": "dischte01",
+        "age": "28",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/d/dischte01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 5",
+            "2P%: 5",
+            "eFG%: 5"
+        ],
+        "worst_category": [
+            "DWS: 121"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "11",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1969.png",
+        "rank": 77
+    },
+    "kauffbo01": {
+        "grade": 64.2,
+        "name": "Bob Kauffman",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kauffbo01.jpg",
+        "id": "kauffbo01",
+        "age": "22",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/k/kauffbo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 32"
+        ],
+        "worst_category": [
+            "AST: 112"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "12",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1969.png",
+        "rank": 78
+    },
+    "gambeda01": {
+        "grade": 64.02,
+        "name": "Dave Gambee",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 59,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/gambeda01.jpg",
+        "id": "gambeda01",
+        "age": "31",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/g/gambeda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 10"
+        ],
+        "worst_category": [
+            "AST: 122"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "11",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1969.png",
+        "rank": 79
+    },
+    "goodrga01": {
+        "grade": 63.85,
+        "name": "Gail Goodrich*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 81,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/goodrga01.jpg",
+        "id": "goodrga01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/g/goodrga01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 8",
+            "AST: 8"
+        ],
+        "worst_category": [
+            "WS/48: 102"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "14",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1969.png",
+        "rank": 80
+    },
+    "kimbato01": {
+        "grade": 63.76,
+        "name": "Toby Kimball",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 76,
+        "team": "SDR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kimbato01.jpg",
+        "id": "kimbato01",
+        "age": "26",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/k/kimbato01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 33"
+        ],
+        "worst_category": [
+            "FT%: 131"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "9",
+        "team_name": "San Diego Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SDR-1969.png",
+        "rank": 81
+    },
+    "countme01": {
+        "grade": 63.5,
+        "name": "Mel Counts",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 77,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/countme01.jpg",
+        "id": "countme01",
+        "age": "27",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/c/countme01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 15"
+        ],
+        "worst_category": [
+            "3P%: 112",
+            "STL: 112",
+            "BLK: 112",
+            "BPM: 112",
+            "USG%: 112",
+            "OBPM: 112",
+            "DBPM: 112",
+            "VORP: 112"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1969.png",
+        "rank": 82
+    },
+    "chapple01": {
+        "grade": 63.1,
+        "name": "Len Chappell",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/chapple01.jpg",
+        "id": "chapple01",
+        "age": "28",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/c/chapple01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 38"
+        ],
+        "worst_category": [
+            "3P%: 115",
+            "STL: 115",
+            "BLK: 115",
+            "BPM: 115",
+            "USG%: 115",
+            "OBPM: 115",
+            "DBPM: 115",
+            "VORP: 115"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "13",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1969.png",
+        "rank": 83
+    },
+    "leecl01": {
+        "grade": 62.98,
+        "name": "Clyde Lee",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 65,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/leecl01.jpg",
+        "id": "leecl01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/l/leecl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 9"
+        ],
+        "worst_category": [
+            "OWS: 119"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "7",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1969.png",
+        "rank": 84
+    },
+    "mooreot01": {
+        "grade": 62.96,
+        "name": "Otto Moore",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 74,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mooreot01.jpg",
+        "id": "mooreot01",
+        "age": "22",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/m/mooreot01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 45"
+        ],
+        "worst_category": [
+            "FT%: 128"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "11",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1969.png",
+        "rank": 85
+    },
+    "davisji01": {
+        "grade": 62.68,
+        "name": "Jim Davis",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 78,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/davisji01.jpg",
+        "id": "davisji01",
+        "age": "27",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/d/davisji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 25"
+        ],
+        "worst_category": [
+            "MP: 109"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West",
+        "team_league_ranking": "5",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1969.png",
+        "rank": 86
+    },
+    "dierkco01": {
+        "grade": 62.51,
+        "name": "Connie Dierking",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/dierkco01.jpg",
+        "id": "dierkco01",
+        "age": "32",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/d/dierkco01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 28"
+        ],
+        "worst_category": [
+            "DWS: 122"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1969.png",
+        "rank": 87
+    },
+    "greenjo01": {
+        "grade": 62.02,
+        "name": "Johnny Green",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 74,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/greenjo01.jpg",
+        "id": "greenjo01",
+        "age": "35",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/g/greenjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 4",
+            "2P%: 4",
+            "eFG%: 4"
+        ],
+        "worst_category": [
+            "MP: 134"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1969.png",
+        "rank": 88
+    },
+    "mannied01": {
+        "grade": 61.97,
+        "name": "Ed Manning",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 63,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mannied01.jpg",
+        "id": "mannied01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/m/mannied01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 50",
+            "2P%: 50",
+            "eFG%: 50"
+        ],
+        "worst_category": [
+            "AST: 133"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "1",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1969.png",
+        "rank": 89
+    },
+    "rileypa01": {
+        "grade": 61.97,
+        "name": "Pat Riley*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 56,
+        "team": "SDR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/rileypa01.jpg",
+        "id": "rileypa01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/r/rileypa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 36",
+            "STL: 36",
+            "BLK: 36",
+            "BPM: 36",
+            "USG%: 36",
+            "OBPM: 36",
+            "DBPM: 36",
+            "VORP: 36"
+        ],
+        "worst_category": [
+            "TRB: 129"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "9",
+        "team_name": "San Diego Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SDR-1969.png",
+        "rank": 90
+    },
+    "hawkito01": {
+        "grade": 60.47,
+        "name": "Tom Hawkins",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 74,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hawkito01.jpg",
+        "id": "hawkito01",
+        "age": "32",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/hawkito01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 9",
+            "2P%: 9",
+            "eFG%: 9"
+        ],
+        "worst_category": [
+            "FT%: 134"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1969.png",
+        "rank": 91
+    },
+    "komivho01": {
+        "grade": 60.07,
+        "name": "Howard Komives",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 85,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/komivho01.jpg",
+        "id": "komivho01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/k/komivho01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 19",
+            "FT%: 19"
+        ],
+        "worst_category": [
+            "WS/48: 119"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "11",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1969.png",
+        "rank": 92
+    },
+    "bingda01": {
+        "grade": 59.98,
+        "name": "Dave Bing*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 77,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bingda01.jpg",
+        "id": "bingda01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/bingda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 4"
+        ],
+        "worst_category": [
+            "3P%: 125",
+            "STL: 125",
+            "BLK: 125",
+            "BPM: 125",
+            "USG%: 125",
+            "OBPM: 125",
+            "DBPM: 125",
+            "VORP: 125"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "11",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1969.png",
+        "rank": 93
+    },
+    "embrywa01": {
+        "grade": 59.72,
+        "name": "Wayne Embry*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 78,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/embrywa01.jpg",
+        "id": "embrywa01",
+        "age": "31",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/e/embrywa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 35"
+        ],
+        "worst_category": [
+            "3P%: 100",
+            "STL: 100",
+            "BLK: 100",
+            "BPM: 100",
+            "USG%: 100",
+            "OBPM: 100",
+            "DBPM: 100",
+            "VORP: 100"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "13",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1969.png",
+        "rank": 94
+    },
+    "mclemmc01": {
+        "grade": 59.67,
+        "name": "McCoy McLemore",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 81,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mclemmc01.jpg",
+        "id": "mclemmc01",
+        "age": "26",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/m/mclemmc01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 25"
+        ],
+        "worst_category": [
+            "WS/48: 123"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "11",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1969.png",
+        "rank": 95
+    },
+    "willisa01": {
+        "grade": 59.46,
+        "name": "Sam Williams",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 55,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/willisa01.jpg",
+        "id": "willisa01",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/w/willisa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 2",
+            "STL: 2",
+            "BLK: 2",
+            "BPM: 2",
+            "USG%: 2",
+            "OBPM: 2",
+            "DBPM: 2",
+            "VORP: 2"
+        ],
+        "worst_category": [
+            "FG%: 132",
+            "MP: 132",
+            "2P%: 132",
+            "eFG%: 132"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "13",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1969.png",
+        "rank": 96
+    },
+    "blockjo01": {
+        "grade": 59.32,
+        "name": "John Block",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 78,
+        "team": "SDR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/blockjo01.jpg",
+        "id": "blockjo01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/b/blockjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 26"
+        ],
+        "worst_category": [
+            "3P%: 124",
+            "STL: 124",
+            "BLK: 124",
+            "BPM: 124",
+            "USG%: 124",
+            "OBPM: 124",
+            "DBPM: 124",
+            "VORP: 124"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "9",
+        "team_name": "San Diego Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SDR-1969.png",
+        "rank": 97
+    },
+    "ellisle01": {
+        "grade": 59.3,
+        "name": "Leroy Ellis",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ellisle01.jpg",
+        "id": "ellisle01",
+        "age": "28",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/e/ellisle01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 40"
+        ],
+        "worst_category": [
+            "AST: 118"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "1",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1969.png",
+        "rank": 98
+    },
+    "bradlbi01": {
+        "grade": 59.25,
+        "name": "Bill Bradley*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bradlbi01.jpg",
+        "id": "bradlbi01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/b/bradlbi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 11"
+        ],
+        "worst_category": [
+            "3P%: 121",
+            "STL: 121",
+            "BLK: 121",
+            "BPM: 121",
+            "USG%: 121",
+            "OBPM: 121",
+            "DBPM: 121",
+            "VORP: 121"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1969.png",
+        "rank": 99
+    },
+    "abdulma01": {
+        "grade": 58.66,
+        "name": "Walt Hazzard",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/abdulma01.jpg",
+        "id": "abdulma01",
+        "age": "26",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/a/abdulma01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 10"
+        ],
+        "worst_category": [
+            "FG%: 109",
+            "2P%: 109",
+            "eFG%: 109"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West",
+        "team_league_ranking": "5",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1969.png",
+        "rank": 100
+    },
+    "jacksph01": {
+        "grade": 58.4,
+        "name": "Phil Jackson*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 47,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/jacksph01.jpg",
+        "id": "jacksph01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/j/jacksph01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 64"
+        ],
+        "worst_category": [
+            "PER: 121"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1969.png",
+        "rank": 101
+    },
+    "gueriri01": {
+        "grade": 58.38,
+        "name": "Richie Guerin*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 27,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/gueriri01.jpg",
+        "id": "gueriri01",
+        "age": "36",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/gueriri01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 16"
+        ],
+        "worst_category": [
+            "TRB: 126"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West",
+        "team_league_ranking": "5",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1969.png",
+        "rank": 102
+    },
+    "hewitbi01": {
+        "grade": 58.03,
+        "name": "Bill Hewitt",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 75,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hewitbi01.jpg",
+        "id": "hewitbi01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/hewitbi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 41",
+            "2P%: 41",
+            "eFG%: 41"
+        ],
+        "worst_category": [
+            "FT%: 120"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1969.png",
+        "rank": 103
+    },
+    "newmada01": {
+        "grade": 57.35,
+        "name": "Dave Newmark",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 81,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/newmada01.jpg",
+        "id": "newmada01",
+        "age": "22",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/n/newmada01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 41",
+            "STL: 41",
+            "BLK: 41",
+            "BPM: 41",
+            "USG%: 41",
+            "OBPM: 41",
+            "DBPM: 41",
+            "VORP: 41"
+        ],
+        "worst_category": [
+            "AST: 126"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "10",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1969.png",
+        "rank": 104
+    },
+    "barneji02": {
+        "grade": 57.28,
+        "name": "Jim Barnett",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "SDR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/barneji02.jpg",
+        "id": "barneji02",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/b/barneji02.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 23"
+        ],
+        "worst_category": [
+            "3P%: 130",
+            "STL: 130",
+            "BLK: 130",
+            "BPM: 130",
+            "USG%: 130",
+            "OBPM: 130",
+            "DBPM: 130",
+            "VORP: 130"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "9",
+        "team_name": "San Diego Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SDR-1969.png",
+        "rank": 105
+    },
+    "mueller01": {
+        "grade": 56.88,
+        "name": "Erwin Mueller",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 78,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mueller01.jpg",
+        "id": "mueller01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/m/mueller01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 45",
+            "STL: 45",
+            "BLK: 45",
+            "BPM: 45",
+            "USG%: 45",
+            "OBPM: 45",
+            "DBPM: 45",
+            "VORP: 45"
+        ],
+        "worst_category": [
+            "FG%: 126",
+            "TS%: 126",
+            "2P%: 126",
+            "eFG%: 126"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "12",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1969.png",
+        "rank": 106
+    },
+    "lovebo01": {
+        "grade": 56.78,
+        "name": "Bob Love",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 49,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lovebo01.jpg",
+        "id": "lovebo01",
+        "age": "26",
+        "pos": "PF-SF",
+        "link": "https://www.basketball-reference.com/players/l/lovebo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 53"
+        ],
+        "worst_category": [
+            "AST: 134"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "10",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1969.png",
+        "rank": 107
+    },
+    "eganjo01": {
+        "grade": 56.1,
+        "name": "Johnny Egan",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 82,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/eganjo01.jpg",
+        "id": "eganjo01",
+        "age": "30",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/e/eganjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 2"
+        ],
+        "worst_category": [
+            "TRB: 131"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1969.png",
+        "rank": 108
+    },
+    "attleal01": {
+        "grade": 55.89,
+        "name": "Al Attles*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 51,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/attleal01.jpg",
+        "id": "attleal01",
+        "age": "32",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/a/attleal01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 9"
+        ],
+        "worst_category": [
+            "3P%: 133",
+            "STL: 133",
+            "BLK: 133",
+            "BPM: 133",
+            "USG%: 133",
+            "OBPM: 133",
+            "DBPM: 133",
+            "VORP: 133"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "7",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1969.png",
+        "rank": 109
+    },
+    "murredo01": {
+        "grade": 55.63,
+        "name": "Dorie Murrey",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 38,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/murredo01.jpg",
+        "id": "murredo01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/m/murredo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 43",
+            "STL: 43",
+            "BLK: 43",
+            "BPM: 43",
+            "USG%: 43",
+            "OBPM: 43",
+            "DBPM: 43",
+            "VORP: 43"
+        ],
+        "worst_category": [
+            "AST: 130"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "12",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1969.png",
+        "rank": 110
+    },
+    "lewisbo01": {
+        "grade": 54.88,
+        "name": "Bobby Lewis",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 62,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lewisbo01.jpg",
+        "id": "lewisbo01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/l/lewisbo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 57"
+        ],
+        "worst_category": [
+            "TRB: 130"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "7",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1969.png",
+        "rank": 111
+    },
+    "lattida01": {
+        "grade": 54.76,
+        "name": "Dave Lattin",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 68,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lattida01.jpg",
+        "id": "lattida01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/l/lattida01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 62",
+            "STL: 62",
+            "BLK: 62",
+            "BPM: 62",
+            "USG%: 62",
+            "OBPM: 62",
+            "DBPM: 62",
+            "VORP: 62"
+        ],
+        "worst_category": [
+            "DWS: 130"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "14",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1969.png",
+        "rank": 112
+    },
+    "kronto01": {
+        "grade": 54.53,
+        "name": "Tommy Kron",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 76,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kronto01.jpg",
+        "id": "kronto01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/k/kronto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 56"
+        ],
+        "worst_category": [
+            "PTS: 123"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "12",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1969.png",
+        "rank": 113
+    },
+    "crawffr01": {
+        "grade": 53.87,
+        "name": "Freddie Crawford",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 81,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/crawffr01.jpg",
+        "id": "crawffr01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/c/crawffr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 29",
+            "2P%: 29",
+            "eFG%: 29"
+        ],
+        "worst_category": [
+            "PER: 128"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1969.png",
+        "rank": 114
+    },
+    "erickke01": {
+        "grade": 53.73,
+        "name": "Keith Erickson",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 77,
+        "team": "LAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/erickke01.jpg",
+        "id": "erickke01",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/e/erickke01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 57"
+        ],
+        "worst_category": [
+            "PER: 123"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West in Finals",
+        "team_league_ranking": "2",
+        "team_name": "Los Angeles Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1969.png",
+        "rank": 115
+    },
+    "kennejo01": {
+        "grade": 53.33,
+        "name": "Joe Kennedy",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 72,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kennejo01.jpg",
+        "id": "kennejo01",
+        "age": "22",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/k/kennejo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 26"
+        ],
+        "worst_category": [
+            "PER: 125"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "12",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1969.png",
+        "rank": 116
+    },
+    "ellisjo01": {
+        "grade": 53.19,
+        "name": "Joe Ellis",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 74,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ellisjo01.jpg",
+        "id": "ellisjo01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/e/ellisjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 44"
+        ],
+        "worst_category": [
+            "OWS: 129"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "7",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1969.png",
+        "rank": 117
+    },
+    "kingji01": {
+        "grade": 53.17,
+        "name": "Jim King",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 46,
+        "team": "SFW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kingji01.jpg",
+        "id": "kingji01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/k/kingji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 45"
+        ],
+        "worst_category": [
+            "FG%: 131",
+            "2P%: 131",
+            "eFG%: 131"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "7",
+        "team_name": "San Francisco Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1969.png",
+        "rank": 118
+    },
+    "paulkch01": {
+        "grade": 52.65,
+        "name": "Charlie Paulk",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 17,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/paulkch01.jpg",
+        "id": "paulkch01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/p/paulkch01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 38",
+            "STL: 38",
+            "BLK: 38",
+            "BPM: 38",
+            "USG%: 38",
+            "OBPM: 38",
+            "DBPM: 38",
+            "VORP: 38"
+        ],
+        "worst_category": [
+            "AST: 135",
+            "FG%: 135",
+            "TS%: 135",
+            "2P%: 135",
+            "WS/48: 135",
+            "eFG%: 135"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "13",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1969.png",
+        "rank": 119
+    },
+    "lehmage01": {
+        "grade": 52.53,
+        "name": "George Lehmann",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 11,
+        "team": "ATL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lehmage01.jpg",
+        "id": "lehmage01",
+        "age": "26",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/l/lehmage01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 55"
+        ],
+        "worst_category": [
+            "TRB: 135",
+            "DWS: 135"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West in West",
+        "team_league_ranking": "5",
+        "team_name": "Atlanta Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1969.png",
+        "rank": 120
+    },
+    "ormsba01": {
+        "grade": 52.53,
+        "name": "Barry Orms",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 64,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ormsba01.jpg",
+        "id": "ormsba01",
+        "age": "22",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/o/ormsba01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 39",
+            "STL: 39",
+            "BLK: 39",
+            "BPM: 39",
+            "USG%: 39",
+            "OBPM: 39",
+            "DBPM: 39",
+            "VORP: 39"
+        ],
+        "worst_category": [
+            "PTS: 135",
+            "PER: 135"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "1",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1969.png",
+        "rank": 121
+    },
+    "harriar01": {
+        "grade": 52.46,
+        "name": "Art Harris",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "SEA",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/harriar01.jpg",
+        "id": "harriar01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/h/harriar01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 39"
+        ],
+        "worst_category": [
+            "OWS: 131"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "12",
+        "team_name": "Seattle SuperSonics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1969.png",
+        "rank": 122
+    },
+    "gregoga01": {
+        "grade": 52.13,
+        "name": "Gary Gregor",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "PHO",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/gregoga01.jpg",
+        "id": "gregoga01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/g/gregoga01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 31"
+        ],
+        "worst_category": [
+            "WS: 131"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "14",
+        "team_name": "Phoenix Suns",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1969.png",
+        "rank": 123
+    },
+    "maydo01": {
+        "grade": 52.09,
+        "name": "Don May",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 48,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/maydo01.jpg",
+        "id": "maydo01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/m/maydo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 53",
+            "STL: 53",
+            "BLK: 53",
+            "BPM: 53",
+            "USG%: 53",
+            "OBPM: 53",
+            "DBPM: 53",
+            "VORP: 53"
+        ],
+        "worst_category": [
+            "PTS: 129",
+            "FG%: 129",
+            "MP: 129",
+            "2P%: 129",
+            "eFG%: 129"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1969.png",
+        "rank": 124
+    },
+    "guokama02": {
+        "grade": 51.2,
+        "name": "Matt Guokas",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 72,
+        "team": "PHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/guokama02.jpg",
+        "id": "guokama02",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/g/guokama02.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 82",
+            "2P%: 82",
+            "eFG%: 82"
+        ],
+        "worst_category": [
+            "TRB: 134"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "3",
+        "team_name": "Philadelphia 76ers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1969.png",
+        "rank": 125
+    },
+    "barneji01": {
+        "grade": 50.04,
+        "name": "Jim Barnes",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 59,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/barneji01.jpg",
+        "id": "barneji01",
+        "age": "27",
+        "pos": "C-PF",
+        "link": "https://www.basketball-reference.com/players/b/barneji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 22"
+        ],
+        "worst_category": [
+            "AST: 132",
+            "3P%: 132",
+            "STL: 132",
+            "BLK: 132",
+            "BPM: 132",
+            "USG%: 132",
+            "OBPM: 132",
+            "DBPM: 132",
+            "VORP: 132"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East in Finals",
+        "team_league_ranking": "6",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1969.png",
+        "rank": 126
+    },
+    "boerwto01": {
+        "grade": 50.04,
+        "name": "Tom Boerwinkle",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/boerwto01.jpg",
+        "id": "boerwto01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/b/boerwto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 13"
+        ],
+        "worst_category": [
+            "OWS: 133"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "10",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1969.png",
+        "rank": 127
+    },
+    "cunnidi01": {
+        "grade": 48.42,
+        "name": "Dick Cunningham",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 77,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/cunnidi01.jpg",
+        "id": "cunnidi01",
+        "age": "22",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/c/cunnidi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 59"
+        ],
+        "worst_category": [
+            "PTS: 128"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "13",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1969.png",
+        "rank": 128
+    },
+    "barnhjo01": {
+        "grade": 46.24,
+        "name": "John Barnhill",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 30,
+        "team": "BAL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/barnhjo01.jpg",
+        "id": "barnhjo01",
+        "age": "30",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/barnhjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 62"
+        ],
+        "worst_category": [
+            "TRB: 132"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East",
+        "team_league_ranking": "1",
+        "team_name": "Baltimore Bullets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1969.png",
+        "rank": 129
+    },
+    "bryanem01": {
+        "grade": 45.79,
+        "name": "Em Bryant",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 80,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bryanem01.jpg",
+        "id": "bryanem01",
+        "age": "30",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/bryanem01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 45"
+        ],
+        "worst_category": [
+            "PER: 129"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East in Finals",
+        "team_league_ranking": "6",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1969.png",
+        "rank": 130
+    },
+    "adelmri01": {
+        "grade": 44.62,
+        "name": "Rick Adelman*",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 77,
+        "team": "SDR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/adelmri01.jpg",
+        "id": "adelmri01",
+        "age": "22",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/a/adelmri01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 40"
+        ],
+        "worst_category": [
+            "3P%: 134",
+            "STL: 134",
+            "BLK: 134",
+            "BPM: 134",
+            "USG%: 134",
+            "OBPM: 134",
+            "DBPM: 134",
+            "VORP: 134"
+        ],
+        "team_standing_string": "Finished in West in 1969 in West",
+        "team_league_ranking": "9",
+        "team_name": "San Diego Rockets",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SDR-1969.png",
+        "rank": 131
+    },
+    "clemeba01": {
+        "grade": 44.6,
+        "name": "Barry Clemens",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 75,
+        "team": "CHI",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/clemeba01.jpg",
+        "id": "clemeba01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/c/clemeba01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 57"
+        ],
+        "worst_category": [
+            "OWS: 135"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "10",
+        "team_name": "Chicago Bulls",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1969.png",
+        "rank": 132
+    },
+    "dinwibi01": {
+        "grade": 40.04,
+        "name": "Bill Dinwiddie",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 69,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/dinwibi01.jpg",
+        "id": "dinwibi01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/d/dinwibi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 101"
+        ],
+        "worst_category": [
+            "WS: 135"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1969.png",
+        "rank": 133
+    },
+    "abdulza01": {
+        "grade": 39.48,
+        "name": "Zaid Abdul-Aziz",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 49,
+        "team": "MIL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/abdulza01.jpg",
+        "id": "abdulza01",
+        "age": "22",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/a/abdulza01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 37"
+        ],
+        "worst_category": [
+            "3P%: 135",
+            "STL: 135",
+            "BLK: 135",
+            "BPM: 135",
+            "USG%: 135",
+            "OBPM: 135",
+            "DBPM: 135",
+            "VORP: 135"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "13",
+        "team_name": "Milwaukee Bucks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1969.png",
+        "rank": 134
+    },
+    "chanedo01": {
+        "grade": 37.2,
+        "name": "Don Chaney",
+        "league_grade": 71.69,
+        "year": 1969,
+        "games_played": 20,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/chanedo01.jpg",
+        "id": "chanedo01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/c/chanedo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 114"
+        ],
+        "worst_category": [
+            "FT%: 135",
+            "MP: 135"
+        ],
+        "team_standing_string": "Finished in East in 1969 in East in East in Finals",
+        "team_league_ranking": "6",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1969.png",
+        "rank": 135
+    }
+}

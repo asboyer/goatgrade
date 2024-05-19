@@ -1,0 +1,65 @@
+{
+    "awards": [
+        [
+            "Los Angeles Lakers",
+            "/teams/LAL/1988.html"
+        ],
+        [
+            "Michael Jordan",
+            "/players/j/jordami01.html"
+        ],
+        [
+            [
+                "Mark Jackson",
+                "/players/j/jacksma01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Charles Barkley",
+                "/players/b/barklch01.html"
+            ],
+            [
+                "Larry Bird",
+                "/players/b/birdla01.html"
+            ],
+            [
+                "Magic Johnson",
+                "/players/j/johnsma02.html"
+            ],
+            [
+                "Michael Jordan",
+                "/players/j/jordami01.html"
+            ],
+            [
+                "Hakeem Olajuwon",
+                "/players/o/olajuha01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Clyde Drexler",
+                "/players/d/drexlcl01.html"
+            ],
+            [
+                "Patrick Ewing",
+                "/players/e/ewingpa01.html"
+            ],
+            [
+                "Karl Malone",
+                "/players/m/malonka01.html"
+            ],
+            [
+                "John Stockton",
+                "/players/s/stockjo01.html"
+            ],
+            [
+                "Dominique Wilkins",
+                "/players/w/wilkido01.html"
+            ]
+        ],
+        "3st Team": []
+    }
+}

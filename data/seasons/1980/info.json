@@ -1,0 +1,65 @@
+{
+    "awards": [
+        [
+            "Los Angeles Lakers",
+            "/teams/LAL/1980.html"
+        ],
+        [
+            "Kareem Abdul-Jabbar",
+            "/players/a/abdulka01.html"
+        ],
+        [
+            [
+                "Larry Bird",
+                "/players/b/birdla01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Kareem Abdul-Jabbar",
+                "/players/a/abdulka01.html"
+            ],
+            [
+                "Larry Bird",
+                "/players/b/birdla01.html"
+            ],
+            [
+                "Julius Erving",
+                "/players/e/ervinju01.html"
+            ],
+            [
+                "George Gervin",
+                "/players/g/gervige01.html"
+            ],
+            [
+                "Paul Westphal",
+                "/players/w/westppa01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Dennis Johnson",
+                "/players/j/johnsde01.html"
+            ],
+            [
+                "Marques Johnson",
+                "/players/j/johnsma01.html"
+            ],
+            [
+                "Moses Malone",
+                "/players/m/malonmo01.html"
+            ],
+            [
+                "Dan Roundfield",
+                "/players/r/roundda01.html"
+            ],
+            [
+                "Gus Williams",
+                "/players/w/willigu01.html"
+            ]
+        ],
+        "3st Team": []
+    }
+}

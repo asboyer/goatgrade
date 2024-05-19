@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "Miami Heat",
+            "/teams/MIA/2013.html"
+        ],
+        [
+            "LeBron James",
+            "/players/j/jamesle01.html"
+        ],
+        [
+            [
+                "Damian Lillard",
+                "/players/l/lillada01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Kobe Bryant",
+                "/players/b/bryanko01.html"
+            ],
+            [
+                "Tim Duncan",
+                "/players/d/duncati01.html"
+            ],
+            [
+                "Kevin Durant",
+                "/players/d/duranke01.html"
+            ],
+            [
+                "LeBron James",
+                "/players/j/jamesle01.html"
+            ],
+            [
+                "Chris Paul",
+                "/players/p/paulch01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Carmelo Anthony",
+                "/players/a/anthoca01.html"
+            ],
+            [
+                "Marc Gasol",
+                "/players/g/gasolma01.html"
+            ],
+            [
+                "Blake Griffin",
+                "/players/g/griffbl01.html"
+            ],
+            [
+                "Tony Parker",
+                "/players/p/parketo01.html"
+            ],
+            [
+                "Russell Westbrook",
+                "/players/w/westbru01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Paul George",
+                "/players/g/georgpa01.html"
+            ],
+            [
+                "James Harden",
+                "/players/h/hardeja01.html"
+            ],
+            [
+                "Dwight Howard",
+                "/players/h/howardw01.html"
+            ],
+            [
+                "David Lee",
+                "/players/l/leeda02.html"
+            ],
+            [
+                "Dwyane Wade",
+                "/players/w/wadedw01.html"
+            ]
+        ]
+    }
+}

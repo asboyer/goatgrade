@@ -1,0 +1,2341 @@
+{
+    "yardlge01": {
+        "grade": 89.98,
+        "name": "George Yardley*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 71,
+        "team": "FTW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/yardlge01.jpg",
+        "id": "yardlge01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/y/yardlge01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 1",
+            "STL: 1",
+            "BLK: 1",
+            "BPM: 1",
+            "USG%: 1",
+            "OBPM: 1",
+            "DBPM: 1",
+            "VORP: 1"
+        ],
+        "worst_category": [
+            "AST: 41"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "Fort Wayne Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/FTW-1956.png",
+        "rank": 1
+    },
+    "sharmbi01": {
+        "grade": 89.23,
+        "name": "Bill Sharman*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sharmbi01.jpg",
+        "id": "sharmbi01",
+        "age": "29",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/sharmbi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 1"
+        ],
+        "worst_category": [
+            "TRB: 51"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "2",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1956.png",
+        "rank": 2
+    },
+    "schaydo01": {
+        "grade": 87.24,
+        "name": "Dolph Schayes*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/schaydo01.jpg",
+        "id": "schaydo01",
+        "age": "27",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/schaydo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 2",
+            "DWS: 2"
+        ],
+        "worst_category": [
+            "FG%: 32",
+            "2P%: 32",
+            "eFG%: 32"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in East in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1956.png",
+        "rank": 3
+    },
+    "pettibo01": {
+        "grade": 86.66,
+        "name": "Bob Pettit*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/pettibo01.jpg",
+        "id": "pettibo01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/p/pettibo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 1",
+            "PER: 1"
+        ],
+        "worst_category": [
+            "FT%: 42"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West in West",
+        "team_league_ranking": "7",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1956.png",
+        "rank": 4
+    },
+    "twymaja01": {
+        "grade": 86.57,
+        "name": "Jack Twyman*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "ROC",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/twymaja01.jpg",
+        "id": "twymaja01",
+        "age": "21",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/t/twymaja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 3",
+            "STL: 3",
+            "BLK: 3",
+            "BPM: 3",
+            "USG%: 3",
+            "OBPM: 3",
+            "DBPM: 3",
+            "VORP: 3"
+        ],
+        "worst_category": [
+            "FT%: 60"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Rochester Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ROC-1956.png",
+        "rank": 5
+    },
+    "sharech01": {
+        "grade": 86.35,
+        "name": "Chuck Share",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sharech01.jpg",
+        "id": "sharech01",
+        "age": "28",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/s/sharech01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 5"
+        ],
+        "worst_category": [
+            "FT%: 55"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West in West",
+        "team_league_ranking": "7",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1956.png",
+        "rank": 6
+    },
+    "searske01": {
+        "grade": 84.05,
+        "name": "Kenny Sears",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 70,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/searske01.jpg",
+        "id": "searske01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/searske01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 6",
+            "TS%: 6",
+            "2P%: 6",
+            "eFG%: 6"
+        ],
+        "worst_category": [
+            "AST: 56"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1956.png",
+        "rank": 7
+    },
+    "johnsne01": {
+        "grade": 81.44,
+        "name": "Neil Johnston*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 70,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/johnsne01.jpg",
+        "id": "johnsne01",
+        "age": "26",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/j/johnsne01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 1",
+            "WS: 1",
+            "OWS: 1"
+        ],
+        "worst_category": [
+            "3P%: 47",
+            "STL: 47",
+            "BLK: 47",
+            "BPM: 47",
+            "USG%: 47",
+            "OBPM: 47",
+            "DBPM: 47",
+            "VORP: 47"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1956.png",
+        "rank": 8
+    },
+    "stokema01": {
+        "grade": 80.73,
+        "name": "Maurice Stokes*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 67,
+        "team": "ROC",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/stokema01.jpg",
+        "id": "stokema01",
+        "age": "22",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/s/stokema01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 1",
+            "DWS: 1"
+        ],
+        "worst_category": [
+            "FG%: 64",
+            "2P%: 64",
+            "eFG%: 64"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Rochester Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ROC-1956.png",
+        "rank": 9
+    },
+    "wanzebo01": {
+        "grade": 80.69,
+        "name": "Bobby Wanzer*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "ROC",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/wanzebo01.jpg",
+        "id": "wanzebo01",
+        "age": "34",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/wanzebo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 2",
+            "STL: 2",
+            "BLK: 2",
+            "BPM: 2",
+            "USG%: 2",
+            "OBPM: 2",
+            "DBPM: 2",
+            "VORP: 2"
+        ],
+        "worst_category": [
+            "TRB: 47"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Rochester Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ROC-1956.png",
+        "rank": 10
+    },
+    "stephja01": {
+        "grade": 79.54,
+        "name": "Jack Stephens",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/stephja01.jpg",
+        "id": "stephja01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/stephja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 6",
+            "STL: 6",
+            "BLK: 6",
+            "BPM: 6",
+            "USG%: 6",
+            "OBPM: 6",
+            "DBPM: 6",
+            "VORP: 6"
+        ],
+        "worst_category": [
+            "FT%: 57"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West in West",
+        "team_league_ranking": "7",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1956.png",
+        "rank": 11
+    },
+    "lovelcl01": {
+        "grade": 78.87,
+        "name": "Clyde Lovellette*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 71,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lovelcl01.jpg",
+        "id": "lovelcl01",
+        "age": "26",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/l/lovelcl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 3"
+        ],
+        "worst_category": [
+            "FT%: 44"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1956.png",
+        "rank": 12
+    },
+    "nichoja01": {
+        "grade": 77.9,
+        "name": "Jack Nichols",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 60,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/nichoja01.jpg",
+        "id": "nichoja01",
+        "age": "29",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/n/nichoja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 7"
+        ],
+        "worst_category": [
+            "DWS: 36"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "2",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1956.png",
+        "rank": 13
+    },
+    "macaued01": {
+        "grade": 77.72,
+        "name": "Ed Macauley*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 71,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/macaued01.jpg",
+        "id": "macaued01",
+        "age": "27",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/m/macaued01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "OWS: 7"
+        ],
+        "worst_category": [
+            "DWS: 43"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "2",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1956.png",
+        "rank": 14
+    },
+    "schnidi01": {
+        "grade": 77.68,
+        "name": "Dick Schnittker",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/schnidi01.jpg",
+        "id": "schnidi01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/s/schnidi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 3"
+        ],
+        "worst_category": [
+            "DWS: 59"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1956.png",
+        "rank": 15
+    },
+    "skoogwh01": {
+        "grade": 77.19,
+        "name": "Whitey Skoog",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/skoogwh01.jpg",
+        "id": "skoogwh01",
+        "age": "29",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/skoogwh01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 9",
+            "STL: 9",
+            "BLK: 9",
+            "BPM: 9",
+            "USG%: 9",
+            "OBPM: 9",
+            "DBPM: 9",
+            "VORP: 9"
+        ],
+        "worst_category": [
+            "PER: 57"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1956.png",
+        "rank": 16
+    },
+    "spoelar01": {
+        "grade": 75.2,
+        "name": "Art Spoelstra",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "ROC",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/spoelar01.jpg",
+        "id": "spoelar01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/s/spoelar01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 7",
+            "STL: 7",
+            "BLK: 7",
+            "BPM: 7",
+            "USG%: 7",
+            "OBPM: 7",
+            "DBPM: 7",
+            "VORP: 7"
+        ],
+        "worst_category": [
+            "AST: 62"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Rochester Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ROC-1956.png",
+        "rank": 17
+    },
+    "mikkeve01": {
+        "grade": 74.58,
+        "name": "Vern Mikkelsen*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mikkeve01.jpg",
+        "id": "mikkeve01",
+        "age": "27",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/m/mikkeve01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 12"
+        ],
+        "worst_category": [
+            "DWS: 37"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1956.png",
+        "rank": 18
+    },
+    "foustla01": {
+        "grade": 71.84,
+        "name": "Larry Foust",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "FTW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/foustla01.jpg",
+        "id": "foustla01",
+        "age": "27",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/f/foustla01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 1"
+        ],
+        "worst_category": [
+            "3P%: 61",
+            "STL: 61",
+            "BLK: 61",
+            "BPM: 61",
+            "USG%: 61",
+            "OBPM: 61",
+            "DBPM: 61",
+            "VORP: 61"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "Fort Wayne Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/FTW-1956.png",
+        "rank": 19
+    },
+    "shuege01": {
+        "grade": 71.13,
+        "name": "Gene Shue",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/shuege01.jpg",
+        "id": "shuege01",
+        "age": "24",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/s/shuege01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 11",
+            "STL: 11",
+            "BLK: 11",
+            "BPM: 11",
+            "USG%: 11",
+            "OBPM: 11",
+            "DBPM: 11",
+            "VORP: 11"
+        ],
+        "worst_category": [
+            "TRB: 65"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1956.png",
+        "rank": 20
+    },
+    "houbrbo01": {
+        "grade": 70.95,
+        "name": "Bob Houbregs*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 70,
+        "team": "FTW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/houbrbo01.jpg",
+        "id": "houbrbo01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/h/houbrbo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 4"
+        ],
+        "worst_category": [
+            "MP: 53"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "Fort Wayne Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/FTW-1956.png",
+        "rank": 21
+    },
+    "golato01": {
+        "grade": 69.94,
+        "name": "Tom Gola*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 68,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/golato01.jpg",
+        "id": "golato01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/golato01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 5"
+        ],
+        "worst_category": [
+            "3P%: 57",
+            "STL: 57",
+            "BLK: 57",
+            "BPM: 57",
+            "USG%: 57",
+            "OBPM: 57",
+            "DBPM: 57",
+            "VORP: 57"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1956.png",
+        "rank": 22
+    },
+    "rochare01": {
+        "grade": 68.65,
+        "name": "Red Rocha",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/rochare01.jpg",
+        "id": "rochare01",
+        "age": "32",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/r/rochare01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 13"
+        ],
+        "worst_category": [
+            "FG%: 56",
+            "2P%: 56",
+            "eFG%: 56"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in East in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1956.png",
+        "rank": 23
+    },
+    "hutchme01": {
+        "grade": 68.12,
+        "name": "Mel Hutchins",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 66,
+        "team": "FTW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hutchme01.jpg",
+        "id": "hutchme01",
+        "age": "27",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/hutchme01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 11",
+            "2P%: 11",
+            "eFG%: 11"
+        ],
+        "worst_category": [
+            "FT%: 70"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "Fort Wayne Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/FTW-1956.png",
+        "rank": 24
+    },
+    "seymopa01": {
+        "grade": 67.73,
+        "name": "Paul Seymour",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 57,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/seymopa01.jpg",
+        "id": "seymopa01",
+        "age": "28",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/seymopa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 9"
+        ],
+        "worst_category": [
+            "FG%: 70",
+            "2P%: 70",
+            "eFG%: 70"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in East in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1956.png",
+        "rank": 25
+    },
+    "martisl01": {
+        "grade": 67.33,
+        "name": "Slater Martin*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/martisl01.jpg",
+        "id": "martisl01",
+        "age": "30",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/m/martisl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "MP: 1"
+        ],
+        "worst_category": [
+            "FG%: 61",
+            "2P%: 61",
+            "eFG%: 61"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1956.png",
+        "rank": 26
+    },
+    "risenar01": {
+        "grade": 67.24,
+        "name": "Arnie Risen*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 68,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/risenar01.jpg",
+        "id": "risenar01",
+        "age": "31",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/r/risenar01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 20"
+        ],
+        "worst_category": [
+            "AST: 63"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "2",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1956.png",
+        "rank": 27
+    },
+    "kerrre01": {
+        "grade": 66.93,
+        "name": "Red Kerr",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kerrre01.jpg",
+        "id": "kerrre01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/k/kerrre01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 7"
+        ],
+        "worst_category": [
+            "AST: 67"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in East in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1956.png",
+        "rank": 28
+    },
+    "arizipa01": {
+        "grade": 66.44,
+        "name": "Paul Arizin*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/arizipa01.jpg",
+        "id": "arizipa01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/a/arizipa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 2",
+            "OWS: 2"
+        ],
+        "worst_category": [
+            "3P%: 82",
+            "STL: 82",
+            "BLK: 82",
+            "BPM: 82",
+            "USG%: 82",
+            "OBPM: 82",
+            "DBPM: 82",
+            "VORP: 82"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1956.png",
+        "rank": 29
+    },
+    "mikange01": {
+        "grade": 66.44,
+        "name": "George Mikan*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 37,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mikange01.jpg",
+        "id": "mikange01",
+        "age": "31",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/m/mikange01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PER: 15"
+        ],
+        "worst_category": [
+            "DWS: 67"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1956.png",
+        "rank": 30
+    },
+    "spearod01": {
+        "grade": 65.47,
+        "name": "Odie Spears",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "FTW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/spearod01.jpg",
+        "id": "spearod01",
+        "age": "31",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/s/spearod01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 8",
+            "STL: 8",
+            "BLK: 8",
+            "BPM: 8",
+            "USG%: 8",
+            "OBPM: 8",
+            "DBPM: 8",
+            "VORP: 8"
+        ],
+        "worst_category": [
+            "FG%: 63",
+            "2P%: 63",
+            "eFG%: 63"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "Fort Wayne Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/FTW-1956.png",
+        "rank": 31
+    },
+    "meinemo01": {
+        "grade": 64.98,
+        "name": "Monk Meineke",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 69,
+        "team": "ROC",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/meinemo01.jpg",
+        "id": "meinemo01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/m/meinemo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 15"
+        ],
+        "worst_category": [
+            "MP: 64"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Rochester Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ROC-1956.png",
+        "rank": 32
+    },
+    "gallaha01": {
+        "grade": 64.72,
+        "name": "Harry Gallatin*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/gallaha01.jpg",
+        "id": "gallaha01",
+        "age": "28",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/g/gallaha01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 8"
+        ],
+        "worst_category": [
+            "3P%: 60",
+            "STL: 60",
+            "BLK: 60",
+            "BPM: 60",
+            "USG%: 60",
+            "OBPM: 60",
+            "DBPM: 60",
+            "VORP: 60"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1956.png",
+        "rank": 33
+    },
+    "phillan01": {
+        "grade": 63.3,
+        "name": "Andy Phillip*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 70,
+        "team": "FTW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/phillan01.jpg",
+        "id": "phillan01",
+        "age": "33",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/p/phillan01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 4"
+        ],
+        "worst_category": [
+            "FT%: 81"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "Fort Wayne Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/FTW-1956.png",
+        "rank": 34
+    },
+    "selvyfr01": {
+        "grade": 63.26,
+        "name": "Frank Selvy",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 17,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/selvyfr01.jpg",
+        "id": "selvyfr01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/selvyfr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 15",
+            "STL: 15",
+            "BLK: 15",
+            "BPM: 15",
+            "USG%: 15",
+            "OBPM: 15",
+            "DBPM: 15",
+            "VORP: 15"
+        ],
+        "worst_category": [
+            "DWS: 79"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West in West",
+        "team_league_ranking": "7",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1956.png",
+        "rank": 35
+    },
+    "colemja01": {
+        "grade": 62.73,
+        "name": "Jack Coleman",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 75,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/colemja01.jpg",
+        "id": "colemja01",
+        "age": "31",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/c/colemja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 4"
+        ],
+        "worst_category": [
+            "3P%: 73",
+            "STL: 73",
+            "BLK: 73",
+            "BPM: 73",
+            "USG%: 73",
+            "OBPM: 73",
+            "DBPM: 73",
+            "VORP: 73"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West in West",
+        "team_league_ranking": "7",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1956.png",
+        "rank": 36
+    },
+    "cousybo01": {
+        "grade": 62.33,
+        "name": "Bob Cousy*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/cousybo01.jpg",
+        "id": "cousybo01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/c/cousybo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 1"
+        ],
+        "worst_category": [
+            "3P%: 70",
+            "STL: 70",
+            "BLK: 70",
+            "BPM: 70",
+            "USG%: 70",
+            "OBPM: 70",
+            "DBPM: 70",
+            "VORP: 70"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "2",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1956.png",
+        "rank": 37
+    },
+    "georgja01": {
+        "grade": 62.2,
+        "name": "Jack George",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/georgja01.jpg",
+        "id": "georgja01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/g/georgja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 2",
+            "MP: 2"
+        ],
+        "worst_category": [
+            "3P%: 58",
+            "STL: 58",
+            "BLK: 58",
+            "BPM: 58",
+            "USG%: 58",
+            "OBPM: 58",
+            "DBPM: 58",
+            "VORP: 58"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1956.png",
+        "rank": 38
+    },
+    "kenvibi01": {
+        "grade": 61.8,
+        "name": "Billy Kenville",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kenvibi01.jpg",
+        "id": "kenvibi01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/k/kenvibi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 13"
+        ],
+        "worst_category": [
+            "MP: 65"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in East in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1956.png",
+        "rank": 39
+    },
+    "felixra01": {
+        "grade": 61.66,
+        "name": "Ray Felix",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/felixra01.jpg",
+        "id": "felixra01",
+        "age": "25",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/f/felixra01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 10"
+        ],
+        "worst_category": [
+            "AST: 79"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1956.png",
+        "rank": 40
+    },
+    "kingge01": {
+        "grade": 61.44,
+        "name": "George King",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kingge01.jpg",
+        "id": "kingge01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/k/kingge01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 6"
+        ],
+        "worst_category": [
+            "FT%: 71"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in East in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1956.png",
+        "rank": 41
+    },
+    "tuckeji01": {
+        "grade": 60.29,
+        "name": "Jim Tucker",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 70,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/tuckeji01.jpg",
+        "id": "tuckeji01",
+        "age": "23",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/t/tuckeji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 4",
+            "STL: 4",
+            "BLK: 4",
+            "BPM: 4",
+            "USG%: 4",
+            "OBPM: 4",
+            "DBPM: 4",
+            "VORP: 4"
+        ],
+        "worst_category": [
+            "AST: 82"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in East in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1956.png",
+        "rank": 42
+    },
+    "flemied01": {
+        "grade": 60.25,
+        "name": "Ed Fleming",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 71,
+        "team": "ROC",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/flemied01.jpg",
+        "id": "flemied01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/f/flemied01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 8"
+        ],
+        "worst_category": [
+            "3P%: 62",
+            "STL: 62",
+            "BLK: 62",
+            "BPM: 62",
+            "USG%: 62",
+            "OBPM: 62",
+            "DBPM: 62",
+            "VORP: 62"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Rochester Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ROC-1956.png",
+        "rank": 43
+    },
+    "peterbo01": {
+        "grade": 59.5,
+        "name": "Bob Peterson",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 58,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/peterbo01.jpg",
+        "id": "peterbo01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/p/peterbo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 24",
+            "2P%: 24",
+            "eFG%: 24"
+        ],
+        "worst_category": [
+            "DWS: 76"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1956.png",
+        "rank": 44
+    },
+    "noblech01": {
+        "grade": 58.48,
+        "name": "Chuck Noble",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "FTW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/noblech01.jpg",
+        "id": "noblech01",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/n/noblech01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 12"
+        ],
+        "worst_category": [
+            "OWS: 73"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "Fort Wayne Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/FTW-1956.png",
+        "rank": 45
+    },
+    "rickedi01": {
+        "grade": 58.48,
+        "name": "Dick Ricketts",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 68,
+        "team": "ROC",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/rickedi01.jpg",
+        "id": "rickedi01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/r/rickedi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 10"
+        ],
+        "worst_category": [
+            "OWS: 82"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Rochester Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ROC-1956.png",
+        "rank": 46
+    },
+    "palazto01": {
+        "grade": 57.28,
+        "name": "Togo Palazzi",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 63,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/palazto01.jpg",
+        "id": "palazto01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/p/palazto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PER: 27"
+        ],
+        "worst_category": [
+            "MP: 79"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "2",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1956.png",
+        "rank": 47
+    },
+    "hemridi01": {
+        "grade": 57.11,
+        "name": "Dick Hemric",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 71,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hemridi01.jpg",
+        "id": "hemridi01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/hemridi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 21",
+            "TS%: 21",
+            "2P%: 21",
+            "eFG%: 21"
+        ],
+        "worst_category": [
+            "AST: 75"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "2",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1956.png",
+        "rank": 48
+    },
+    "dempsge01": {
+        "grade": 56.22,
+        "name": "George Dempsey",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/dempsge01.jpg",
+        "id": "dempsge01",
+        "age": "26",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/d/dempsge01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 1",
+            "2P%: 1",
+            "eFG%: 1"
+        ],
+        "worst_category": [
+            "FT%: 73"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1956.png",
+        "rank": 49
+    },
+    "hitchle01": {
+        "grade": 56.18,
+        "name": "Lew Hitch",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 69,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hitchle01.jpg",
+        "id": "hitchle01",
+        "age": "26",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/hitchle01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 15"
+        ],
+        "worst_category": [
+            "PTS: 75"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1956.png",
+        "rank": 50
+    },
+    "grabojo01": {
+        "grade": 55.91,
+        "name": "Joe Graboski",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/grabojo01.jpg",
+        "id": "grabojo01",
+        "age": "26",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/g/grabojo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 13"
+        ],
+        "worst_category": [
+            "WS/48: 65"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1956.png",
+        "rank": 51
+    },
+    "reganri01": {
+        "grade": 55.38,
+        "name": "Richie Regan",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "ROC",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/reganri01.jpg",
+        "id": "reganri01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/r/reganri01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 19"
+        ],
+        "worst_category": [
+            "OWS: 80"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Rochester Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ROC-1956.png",
+        "rank": 52
+    },
+    "simmoco01": {
+        "grade": 55.25,
+        "name": "Connie Simmons",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 68,
+        "team": "ROC",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/simmoco01.jpg",
+        "id": "simmoco01",
+        "age": "30",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/simmoco01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 10",
+            "STL: 10",
+            "BLK: 10",
+            "BPM: 10",
+            "USG%: 10",
+            "OBPM: 10",
+            "DBPM: 10",
+            "VORP: 10"
+        ],
+        "worst_category": [
+            "OWS: 78"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Rochester Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ROC-1956.png",
+        "rank": 53
+    },
+    "lloydea01": {
+        "grade": 54.81,
+        "name": "Earl Lloyd*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lloydea01.jpg",
+        "id": "lloydea01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/l/lloydea01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 11"
+        ],
+        "worst_category": [
+            "FG%: 72",
+            "2P%: 72",
+            "eFG%: 72"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in East in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1956.png",
+        "rank": 54
+    },
+    "kalafed01": {
+        "grade": 54.23,
+        "name": "Ed Kalafat",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kalafed01.jpg",
+        "id": "kalafed01",
+        "age": "23",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/k/kalafed01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 30"
+        ],
+        "worst_category": [
+            "FG%: 59",
+            "2P%: 59",
+            "eFG%: 59"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1956.png",
+        "rank": 55
+    },
+    "braunca01": {
+        "grade": 53.83,
+        "name": "Carl Braun*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/braunca01.jpg",
+        "id": "braunca01",
+        "age": "28",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/b/braunca01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 5"
+        ],
+        "worst_category": [
+            "3P%: 76",
+            "STL: 76",
+            "BLK: 76",
+            "BPM: 76",
+            "USG%: 76",
+            "OBPM: 76",
+            "DBPM: 76",
+            "VORP: 76"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1956.png",
+        "rank": 56
+    },
+    "dukeswa01": {
+        "grade": 53.75,
+        "name": "Walter Dukes",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 60,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/dukeswa01.jpg",
+        "id": "dukeswa01",
+        "age": "25",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/d/dukeswa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 16"
+        ],
+        "worst_category": [
+            "AST: 80"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1956.png",
+        "rank": 57
+    },
+    "mcguidi01": {
+        "grade": 53.13,
+        "name": "Dick McGuire*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 62,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mcguidi01.jpg",
+        "id": "mcguidi01",
+        "age": "30",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/m/mcguidi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 6"
+        ],
+        "worst_category": [
+            "FT%: 75"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1956.png",
+        "rank": 58
+    },
+    "loscuji01": {
+        "grade": 52.29,
+        "name": "Jim Loscutoff",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 71,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/loscuji01.jpg",
+        "id": "loscuji01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/l/loscuji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 15"
+        ],
+        "worst_category": [
+            "AST: 73"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "2",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1956.png",
+        "rank": 59
+    },
+    "cliftna01": {
+        "grade": 50.29,
+        "name": "Nat Clifton*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 64,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/cliftna01.jpg",
+        "id": "cliftna01",
+        "age": "33",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/c/cliftna01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 27",
+            "2P%: 27",
+            "eFG%: 27"
+        ],
+        "worst_category": [
+            "3P%: 74",
+            "STL: 74",
+            "BLK: 74",
+            "BPM: 74",
+            "USG%: 74",
+            "OBPM: 74",
+            "DBPM: 74",
+            "VORP: 74"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1956.png",
+        "rank": 60
+    },
+    "morrire01": {
+        "grade": 50.21,
+        "name": "Red Morrison",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 71,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/morrire01.jpg",
+        "id": "morrire01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/m/morrire01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 31",
+            "STL: 31",
+            "BLK: 31",
+            "BPM: 31",
+            "USG%: 31",
+            "OBPM: 31",
+            "DBPM: 31",
+            "VORP: 31"
+        ],
+        "worst_category": [
+            "FT%: 82"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "2",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1956.png",
+        "rank": 61
+    },
+    "baechji01": {
+        "grade": 49.94,
+        "name": "Jim Baechtold",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 70,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/baechji01.jpg",
+        "id": "baechji01",
+        "age": "28",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/b/baechji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 15"
+        ],
+        "worst_category": [
+            "3P%: 79",
+            "STL: 79",
+            "BLK: 79",
+            "BPM: 79",
+            "USG%: 79",
+            "OBPM: 79",
+            "DBPM: 79",
+            "VORP: 79"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1956.png",
+        "rank": 62
+    },
+    "mcmahja01": {
+        "grade": 48.35,
+        "name": "Jack McMahon",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 70,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mcmahja01.jpg",
+        "id": "mcmahja01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/m/mcmahja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 16"
+        ],
+        "worst_category": [
+            "OWS: 81"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West in West",
+        "team_league_ranking": "7",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1956.png",
+        "rank": 63
+    },
+    "schafbo01": {
+        "grade": 48.3,
+        "name": "Bob Schafer",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 54,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/schafbo01.jpg",
+        "id": "schafbo01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/schafbo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 19",
+            "STL: 19",
+            "BLK: 19",
+            "BPM: 19",
+            "USG%: 19",
+            "OBPM: 19",
+            "DBPM: 19",
+            "VORP: 19"
+        ],
+        "worst_category": [
+            "TRB: 81",
+            "WS: 81",
+            "WS/48: 81"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West in West",
+        "team_league_ranking": "7",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1956.png",
+        "rank": 64
+    },
+    "parkme01": {
+        "grade": 48.13,
+        "name": "Med Park",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 40,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/parkme01.jpg",
+        "id": "parkme01",
+        "age": "22",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/p/parkme01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 27",
+            "STL: 27",
+            "BLK: 27",
+            "BPM: 27",
+            "USG%: 27",
+            "OBPM: 27",
+            "DBPM: 27",
+            "VORP: 27"
+        ],
+        "worst_category": [
+            "MP: 81"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West in West",
+        "team_league_ranking": "7",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1956.png",
+        "rank": 65
+    },
+    "harribo02": {
+        "grade": 47.95,
+        "name": "Bob Harrison",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/harribo02.jpg",
+        "id": "harribo02",
+        "age": "28",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/h/harribo02.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 14"
+        ],
+        "worst_category": [
+            "PER: 77"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West in West",
+        "team_league_ranking": "7",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1956.png",
+        "rank": 66
+    },
+    "garmadi01": {
+        "grade": 47.6,
+        "name": "Dick Garmaker",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 68,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/garmadi01.jpg",
+        "id": "garmadi01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/garmadi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 11"
+        ],
+        "worst_category": [
+            "TRB: 78"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1956.png",
+        "rank": 67
+    },
+    "mencech01": {
+        "grade": 47.11,
+        "name": "Chuck Mencel",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 69,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mencech01.jpg",
+        "id": "mencech01",
+        "age": "22",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/m/mencech01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 8"
+        ],
+        "worst_category": [
+            "TRB: 80",
+            "WS: 80"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West",
+        "team_league_ranking": "6",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1956.png",
+        "rank": 68
+    },
+    "farledi01": {
+        "grade": 46.8,
+        "name": "Dick Farley",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/farledi01.jpg",
+        "id": "farledi01",
+        "age": "23",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/f/farledi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 38"
+        ],
+        "worst_category": [
+            "TRB: 77"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in East in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1956.png",
+        "rank": 69
+    },
+    "conlied01": {
+        "grade": 45.07,
+        "name": "Ed Conlin",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 66,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/conlied01.jpg",
+        "id": "conlied01",
+        "age": "22",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/c/conlied01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 26"
+        ],
+        "worst_category": [
+            "3P%: 72",
+            "STL: 72",
+            "BLK: 72",
+            "BPM: 72",
+            "USG%: 72",
+            "OBPM: 72",
+            "DBPM: 72",
+            "VORP: 72"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in East in East",
+        "team_league_ranking": "5",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1956.png",
+        "rank": 70
+    },
+    "devlico01": {
+        "grade": 44.94,
+        "name": "Corky Devlin",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 69,
+        "team": "FTW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/devlico01.jpg",
+        "id": "devlico01",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/d/devlico01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 31"
+        ],
+        "worst_category": [
+            "TRB: 73"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "Fort Wayne Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/FTW-1956.png",
+        "rank": 71
+    },
+    "ferraal01": {
+        "grade": 44.68,
+        "name": "Al Ferrari",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 68,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ferraal01.jpg",
+        "id": "ferraal01",
+        "age": "22",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/f/ferraal01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 34"
+        ],
+        "worst_category": [
+            "TRB: 71"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West in West",
+        "team_league_ranking": "7",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1956.png",
+        "rank": 72
+    },
+    "barreer01": {
+        "grade": 43.92,
+        "name": "Ernie Barrett",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 72,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/barreer01.jpg",
+        "id": "barreer01",
+        "age": "26",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/b/barreer01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 21"
+        ],
+        "worst_category": [
+            "3P%: 78",
+            "STL: 78",
+            "BLK: 78",
+            "BPM: 78",
+            "USG%: 78",
+            "OBPM: 78",
+            "DBPM: 78",
+            "VORP: 78"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "2",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1956.png",
+        "rank": 73
+    },
+    "athadi01": {
+        "grade": 41.23,
+        "name": "Dick Atha",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 25,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/athadi01.jpg",
+        "id": "athadi01",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/a/athadi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 18",
+            "2P%: 18",
+            "eFG%: 18"
+        ],
+        "worst_category": [
+            "DWS: 82"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East",
+        "team_league_ranking": "4",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1956.png",
+        "rank": 74
+    },
+    "hannual01": {
+        "grade": 41.14,
+        "name": "Alex Hannum*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 71,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hannual01.jpg",
+        "id": "hannual01",
+        "age": "32",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/hannual01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 31"
+        ],
+        "worst_category": [
+            "OWS: 79"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in West in West",
+        "team_league_ranking": "7",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1956.png",
+        "rank": 75
+    },
+    "becker01": {
+        "grade": 39.85,
+        "name": "Ernie Beck",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 67,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/becker01.jpg",
+        "id": "becker01",
+        "age": "24",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/b/becker01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 33",
+            "2P%: 33",
+            "eFG%: 33"
+        ],
+        "worst_category": [
+            "3P%: 77",
+            "STL: 77",
+            "BLK: 77",
+            "BPM: 77",
+            "USG%: 77",
+            "OBPM: 77",
+            "DBPM: 77",
+            "VORP: 77"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1956.png",
+        "rank": 76
+    },
+    "daviswa01": {
+        "grade": 38.08,
+        "name": "Walt Davis",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 70,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/daviswa01.jpg",
+        "id": "daviswa01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/d/daviswa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 46"
+        ],
+        "worst_category": [
+            "PER: 79"
+        ],
+        "team_standing_string": "Finished in East in 1956 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1956.png",
+        "rank": 77
+    },
+    "coopech01": {
+        "grade": 36.67,
+        "name": "Chuck Cooper*",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 67,
+        "team": "FTW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/coopech01.jpg",
+        "id": "coopech01",
+        "age": "29",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/c/coopech01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 35"
+        ],
+        "worst_category": [
+            "PTS: 74",
+            "FG%: 74",
+            "2P%: 74",
+            "eFG%: 74"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "Fort Wayne Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/FTW-1956.png",
+        "rank": 78
+    },
+    "holstji01": {
+        "grade": 36.58,
+        "name": "Jim Holstein",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 27,
+        "team": "FTW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/holstji01.jpg",
+        "id": "holstji01",
+        "age": "25",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/holstji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 50",
+            "STL: 50",
+            "BLK: 50",
+            "BPM: 50",
+            "USG%: 50",
+            "OBPM: 50",
+            "DBPM: 50",
+            "VORP: 50"
+        ],
+        "worst_category": [
+            "PTS: 81",
+            "FG%: 81",
+            "PER: 81",
+            "TS%: 81",
+            "2P%: 81",
+            "eFG%: 81"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "Fort Wayne Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/FTW-1956.png",
+        "rank": 79
+    },
+    "brianfr01": {
+        "grade": 32.73,
+        "name": "Frankie Brian",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 37,
+        "team": "FTW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/brianfr01.jpg",
+        "id": "brianfr01",
+        "age": "32",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/brianfr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 7"
+        ],
+        "worst_category": [
+            "FG%: 80",
+            "2P%: 80",
+            "WS/48: 80",
+            "eFG%: 80"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "Fort Wayne Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/FTW-1956.png",
+        "rank": 80
+    },
+    "harrich01": {
+        "grade": 32.29,
+        "name": "Chris Harris",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 41,
+        "team": "ROC",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/harrich01.jpg",
+        "id": "harrich01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/h/harrich01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 54",
+            "STL: 54",
+            "BLK: 54",
+            "BPM: 54",
+            "USG%: 54",
+            "OBPM: 54",
+            "DBPM: 54",
+            "VORP: 54"
+        ],
+        "worst_category": [
+            "PTS: 82",
+            "TRB: 82",
+            "FG%: 82",
+            "MP: 82",
+            "PER: 82",
+            "TS%: 82",
+            "WS: 82",
+            "2P%: 82",
+            "WS/48: 82",
+            "eFG%: 82"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Rochester Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ROC-1956.png",
+        "rank": 81
+    },
+    "arnelje01": {
+        "grade": 28.71,
+        "name": "Jesse Arnelle",
+        "league_grade": 62.65,
+        "year": 1956,
+        "games_played": 31,
+        "team": "FTW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/arnelje01.jpg",
+        "id": "arnelje01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/a/arnelje01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 36"
+        ],
+        "worst_category": [
+            "AST: 81",
+            "3P%: 81",
+            "STL: 81",
+            "BLK: 81",
+            "BPM: 81",
+            "USG%: 81",
+            "OBPM: 81",
+            "DBPM: 81",
+            "VORP: 81"
+        ],
+        "team_standing_string": "Finished in West in 1956 in West in Finals",
+        "team_league_ranking": "3",
+        "team_name": "Fort Wayne Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/FTW-1956.png",
+        "rank": 82
+    }
+}

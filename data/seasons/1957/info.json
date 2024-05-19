@@ -1,0 +1,65 @@
+{
+    "awards": [
+        [
+            "Boston Celtics",
+            "/teams/BOS/1957.html"
+        ],
+        [
+            "Bob Cousy",
+            "/players/c/cousybo01.html"
+        ],
+        [
+            [
+                "Tom Heinsohn",
+                "/players/h/heinsto01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Paul Arizin",
+                "/players/a/arizipa01.html"
+            ],
+            [
+                "Bob Cousy",
+                "/players/c/cousybo01.html"
+            ],
+            [
+                "Bob Pettit",
+                "/players/p/pettibo01.html"
+            ],
+            [
+                "Dolph Schayes",
+                "/players/s/schaydo01.html"
+            ],
+            [
+                "Bill Sharman",
+                "/players/s/sharmbi01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Dick Garmaker",
+                "/players/g/garmadi01.html"
+            ],
+            [
+                "Neil Johnston",
+                "/players/j/johnsne01.html"
+            ],
+            [
+                "Slater Martin",
+                "/players/m/martisl01.html"
+            ],
+            [
+                "Maurice Stokes",
+                "/players/s/stokema01.html"
+            ],
+            [
+                "George Yardley",
+                "/players/y/yardlge01.html"
+            ]
+        ],
+        "3st Team": []
+    }
+}

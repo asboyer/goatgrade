@@ -1,0 +1,65 @@
+{
+    "awards": [
+        [
+            "Seattle SuperSonics",
+            "/teams/SEA/1979.html"
+        ],
+        [
+            "Moses Malone",
+            "/players/m/malonmo01.html"
+        ],
+        [
+            [
+                "Phil Ford",
+                "/players/f/fordph01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "George Gervin",
+                "/players/g/gervige01.html"
+            ],
+            [
+                "Elvin Hayes",
+                "/players/h/hayesel01.html"
+            ],
+            [
+                "Marques Johnson",
+                "/players/j/johnsma01.html"
+            ],
+            [
+                "Moses Malone",
+                "/players/m/malonmo01.html"
+            ],
+            [
+                "Paul Westphal",
+                "/players/w/westppa01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Kareem Abdul-Jabbar",
+                "/players/a/abdulka01.html"
+            ],
+            [
+                "Bob Dandridge",
+                "/players/d/dandrbo01.html"
+            ],
+            [
+                "Walter Davis",
+                "/players/d/daviswa03.html"
+            ],
+            [
+                "Phil Ford",
+                "/players/f/fordph01.html"
+            ],
+            [
+                "World B. Free",
+                "/players/f/freewo01.html"
+            ]
+        ],
+        "3st Team": []
+    }
+}

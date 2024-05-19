@@ -1,0 +1,65 @@
+{
+    "awards": [
+        [
+            "Los Angeles Lakers",
+            "/teams/LAL/1982.html"
+        ],
+        [
+            "Moses Malone",
+            "/players/m/malonmo01.html"
+        ],
+        [
+            [
+                "Buck Williams",
+                "/players/w/willibu01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Larry Bird",
+                "/players/b/birdla01.html"
+            ],
+            [
+                "Julius Erving",
+                "/players/e/ervinju01.html"
+            ],
+            [
+                "George Gervin",
+                "/players/g/gervige01.html"
+            ],
+            [
+                "Moses Malone",
+                "/players/m/malonmo01.html"
+            ],
+            [
+                "Gus Williams",
+                "/players/w/willigu01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Alex English",
+                "/players/e/englial01.html"
+            ],
+            [
+                "Magic Johnson",
+                "/players/j/johnsma02.html"
+            ],
+            [
+                "Bernard King",
+                "/players/k/kingbe01.html"
+            ],
+            [
+                "Sidney Moncrief",
+                "/players/m/moncrsi01.html"
+            ],
+            [
+                "Robert Parish",
+                "/players/p/parisro01.html"
+            ]
+        ],
+        "3st Team": []
+    }
+}

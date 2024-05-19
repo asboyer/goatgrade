@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "Los Angeles Lakers",
+            "/teams/LAL/2020.html"
+        ],
+        [
+            "Giannis Antetokounmpo",
+            "/players/a/antetgi01.html"
+        ],
+        [
+            [
+                "Ja Morant",
+                "/players/m/moranja01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Giannis Antetokounmpo",
+                "/players/a/antetgi01.html"
+            ],
+            [
+                "Anthony Davis",
+                "/players/d/davisan02.html"
+            ],
+            [
+                "Luka Dončić",
+                "/players/d/doncilu01.html"
+            ],
+            [
+                "James Harden",
+                "/players/h/hardeja01.html"
+            ],
+            [
+                "LeBron James",
+                "/players/j/jamesle01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Nikola Jokić",
+                "/players/j/jokicni01.html"
+            ],
+            [
+                "Kawhi Leonard",
+                "/players/l/leonaka01.html"
+            ],
+            [
+                "Damian Lillard",
+                "/players/l/lillada01.html"
+            ],
+            [
+                "Chris Paul",
+                "/players/p/paulch01.html"
+            ],
+            [
+                "Pascal Siakam",
+                "/players/s/siakapa01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Jimmy Butler",
+                "/players/b/butleji01.html"
+            ],
+            [
+                "Rudy Gobert",
+                "/players/g/goberru01.html"
+            ],
+            [
+                "Ben Simmons",
+                "/players/s/simmobe01.html"
+            ],
+            [
+                "Jayson Tatum",
+                "/players/t/tatumja01.html"
+            ],
+            [
+                "Russell Westbrook",
+                "/players/w/westbru01.html"
+            ]
+        ]
+    }
+}

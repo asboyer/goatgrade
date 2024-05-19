@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "San Antonio Spurs",
+            "/teams/SAS/1999.html"
+        ],
+        [
+            "Karl Malone",
+            "/players/m/malonka01.html"
+        ],
+        [
+            [
+                "Vince Carter",
+                "/players/c/cartevi01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Tim Duncan",
+                "/players/d/duncati01.html"
+            ],
+            [
+                "Allen Iverson",
+                "/players/i/iversal01.html"
+            ],
+            [
+                "Jason Kidd",
+                "/players/k/kiddja01.html"
+            ],
+            [
+                "Karl Malone",
+                "/players/m/malonka01.html"
+            ],
+            [
+                "Alonzo Mourning",
+                "/players/m/mournal01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Tim Hardaway",
+                "/players/h/hardati01.html"
+            ],
+            [
+                "Grant Hill",
+                "/players/h/hillgr01.html"
+            ],
+            [
+                "Shaquille O'Neal",
+                "/players/o/onealsh01.html"
+            ],
+            [
+                "Gary Payton",
+                "/players/p/paytoga01.html"
+            ],
+            [
+                "Chris Webber",
+                "/players/w/webbech01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Kobe Bryant",
+                "/players/b/bryanko01.html"
+            ],
+            [
+                "Kevin Garnett",
+                "/players/g/garneke01.html"
+            ],
+            [
+                "Antonio McDyess",
+                "/players/m/mcdyean01.html"
+            ],
+            [
+                "Hakeem Olajuwon",
+                "/players/o/olajuha01.html"
+            ],
+            [
+                "John Stockton",
+                "/players/s/stockjo01.html"
+            ]
+        ]
+    }
+}

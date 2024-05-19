@@ -1,0 +1,65 @@
+{
+    "awards": [
+        [
+            "Philadelphia 76ers",
+            "/teams/PHI/1983.html"
+        ],
+        [
+            "Moses Malone",
+            "/players/m/malonmo01.html"
+        ],
+        [
+            [
+                "Terry Cummings",
+                "/players/c/cummite01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Larry Bird",
+                "/players/b/birdla01.html"
+            ],
+            [
+                "Julius Erving",
+                "/players/e/ervinju01.html"
+            ],
+            [
+                "Magic Johnson",
+                "/players/j/johnsma02.html"
+            ],
+            [
+                "Moses Malone",
+                "/players/m/malonmo01.html"
+            ],
+            [
+                "Sidney Moncrief",
+                "/players/m/moncrsi01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Kareem Abdul-Jabbar",
+                "/players/a/abdulka01.html"
+            ],
+            [
+                "Alex English",
+                "/players/e/englial01.html"
+            ],
+            [
+                "George Gervin",
+                "/players/g/gervige01.html"
+            ],
+            [
+                "Isiah Thomas",
+                "/players/t/thomais01.html"
+            ],
+            [
+                "Buck Williams",
+                "/players/w/willibu01.html"
+            ]
+        ],
+        "3st Team": []
+    }
+}

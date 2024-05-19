@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "Golden State Warriors",
+            "/teams/GSW/2017.html"
+        ],
+        [
+            "Russell Westbrook",
+            "/players/w/westbru01.html"
+        ],
+        [
+            [
+                "Malcolm Brogdon",
+                "/players/b/brogdma01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Anthony Davis",
+                "/players/d/davisan02.html"
+            ],
+            [
+                "James Harden",
+                "/players/h/hardeja01.html"
+            ],
+            [
+                "LeBron James",
+                "/players/j/jamesle01.html"
+            ],
+            [
+                "Kawhi Leonard",
+                "/players/l/leonaka01.html"
+            ],
+            [
+                "Russell Westbrook",
+                "/players/w/westbru01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Giannis Antetokounmpo",
+                "/players/a/antetgi01.html"
+            ],
+            [
+                "Stephen Curry",
+                "/players/c/curryst01.html"
+            ],
+            [
+                "Kevin Durant",
+                "/players/d/duranke01.html"
+            ],
+            [
+                "Rudy Gobert",
+                "/players/g/goberru01.html"
+            ],
+            [
+                "Isaiah Thomas",
+                "/players/t/thomais02.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Jimmy Butler",
+                "/players/b/butleji01.html"
+            ],
+            [
+                "DeMar DeRozan",
+                "/players/d/derozde01.html"
+            ],
+            [
+                "Draymond Green",
+                "/players/g/greendr01.html"
+            ],
+            [
+                "DeAndre Jordan",
+                "/players/j/jordade01.html"
+            ],
+            [
+                "John Wall",
+                "/players/w/walljo01.html"
+            ]
+        ]
+    }
+}

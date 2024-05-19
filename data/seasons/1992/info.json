@@ -1,0 +1,86 @@
+{
+    "awards": [
+        [
+            "Chicago Bulls",
+            "/teams/CHI/1992.html"
+        ],
+        [
+            "Michael Jordan",
+            "/players/j/jordami01.html"
+        ],
+        [
+            [
+                "Larry Johnson",
+                "/players/j/johnsla02.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Clyde Drexler",
+                "/players/d/drexlcl01.html"
+            ],
+            [
+                "Michael Jordan",
+                "/players/j/jordami01.html"
+            ],
+            [
+                "Karl Malone",
+                "/players/m/malonka01.html"
+            ],
+            [
+                "Chris Mullin",
+                "/players/m/mullich01.html"
+            ],
+            [
+                "David Robinson",
+                "/players/r/robinda01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Charles Barkley",
+                "/players/b/barklch01.html"
+            ],
+            [
+                "Patrick Ewing",
+                "/players/e/ewingpa01.html"
+            ],
+            [
+                "Tim Hardaway",
+                "/players/h/hardati01.html"
+            ],
+            [
+                "Scottie Pippen",
+                "/players/p/pippesc01.html"
+            ],
+            [
+                "John Stockton",
+                "/players/s/stockjo01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Brad Daugherty",
+                "/players/d/daughbr01.html"
+            ],
+            [
+                "Kevin Johnson",
+                "/players/j/johnske02.html"
+            ],
+            [
+                "Mark Price",
+                "/players/p/pricema01.html"
+            ],
+            [
+                "Dennis Rodman",
+                "/players/r/rodmade01.html"
+            ],
+            [
+                "Kevin Willis",
+                "/players/w/willike02.html"
+            ]
+        ]
+    }
+}

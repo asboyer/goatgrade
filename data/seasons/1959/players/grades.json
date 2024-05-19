@@ -1,0 +1,2431 @@
+{
+    "searske01": {
+        "grade": 91.61,
+        "name": "Kenny Sears",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 71,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/searske01.jpg",
+        "id": "searske01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/searske01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 1",
+            "TS%: 1",
+            "2P%: 1",
+            "OWS: 1",
+            "WS/48: 1",
+            "eFG%: 1"
+        ],
+        "worst_category": [
+            "DWS: 35"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East",
+        "team_league_ranking": "3",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1959.png",
+        "rank": 1
+    },
+    "twymaja01": {
+        "grade": 90.22,
+        "name": "Jack Twyman*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/twymaja01.jpg",
+        "id": "twymaja01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/t/twymaja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 3"
+        ],
+        "worst_category": [
+            "DWS: 51"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1959.png",
+        "rank": 2
+    },
+    "yardlge01": {
+        "grade": 90.1,
+        "name": "George Yardley*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 61,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/yardlge01.jpg",
+        "id": "yardlge01",
+        "age": "30",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/y/yardlge01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 1",
+            "STL: 1",
+            "BLK: 1",
+            "BPM: 1",
+            "USG%: 1",
+            "OBPM: 1",
+            "DBPM: 1",
+            "VORP: 1"
+        ],
+        "worst_category": [
+            "AST: 58"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1959.png",
+        "rank": 3
+    },
+    "pettibo01": {
+        "grade": 89.36,
+        "name": "Bob Pettit*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/pettibo01.jpg",
+        "id": "pettibo01",
+        "age": "26",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/p/pettibo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 1",
+            "PER: 1",
+            "WS: 1"
+        ],
+        "worst_category": [
+            "FT%: 37"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "2",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1959.png",
+        "rank": 4
+    },
+    "russebi01": {
+        "grade": 88.79,
+        "name": "Bill Russell*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 70,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/russebi01.jpg",
+        "id": "russebi01",
+        "age": "24",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/r/russebi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 1",
+            "MP: 1",
+            "DWS: 1"
+        ],
+        "worst_category": [
+            "FT%: 80"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1959.png",
+        "rank": 5
+    },
+    "schaydo01": {
+        "grade": 87.11,
+        "name": "Dolph Schayes*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/schaydo01.jpg",
+        "id": "schaydo01",
+        "age": "30",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/schaydo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 3"
+        ],
+        "worst_category": [
+            "FG%: 40",
+            "2P%: 40",
+            "eFG%: 40"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1959.png",
+        "rank": 6
+    },
+    "sharmbi01": {
+        "grade": 87.07,
+        "name": "Bill Sharman*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sharmbi01.jpg",
+        "id": "sharmbi01",
+        "age": "32",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/sharmbi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 1"
+        ],
+        "worst_category": [
+            "TRB: 53"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1959.png",
+        "rank": 7
+    },
+    "shuege01": {
+        "grade": 82.9,
+        "name": "Gene Shue",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/shuege01.jpg",
+        "id": "shuege01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/s/shuege01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "MP: 7"
+        ],
+        "worst_category": [
+            "TRB: 48"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "7",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1959.png",
+        "rank": 8
+    },
+    "kerrre01": {
+        "grade": 79.96,
+        "name": "Red Kerr",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/kerrre01.jpg",
+        "id": "kerrre01",
+        "age": "26",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/k/kerrre01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 4"
+        ],
+        "worst_category": [
+            "3P%: 44",
+            "STL: 44",
+            "BLK: 44",
+            "BPM: 44",
+            "USG%: 44",
+            "OBPM: 44",
+            "DBPM: 44",
+            "VORP: 44"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1959.png",
+        "rank": 9
+    },
+    "lovelcl01": {
+        "grade": 78.85,
+        "name": "Clyde Lovellette*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 70,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lovelcl01.jpg",
+        "id": "lovelcl01",
+        "age": "29",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/l/lovelcl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 5",
+            "PER: 5",
+            "2P%: 5",
+            "eFG%: 5"
+        ],
+        "worst_category": [
+            "AST: 50"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "2",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1959.png",
+        "rank": 10
+    },
+    "hagancl01": {
+        "grade": 78.61,
+        "name": "Cliff Hagan*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hagancl01.jpg",
+        "id": "hagancl01",
+        "age": "27",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/hagancl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PER: 3"
+        ],
+        "worst_category": [
+            "3P%: 56",
+            "STL: 56",
+            "BLK: 56",
+            "BPM: 56",
+            "USG%: 56",
+            "OBPM: 56",
+            "DBPM: 56",
+            "VORP: 56"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "2",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1959.png",
+        "rank": 11
+    },
+    "ramsefr01": {
+        "grade": 77.79,
+        "name": "Frank Ramsey*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ramsefr01.jpg",
+        "id": "ramsefr01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/r/ramsefr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 7"
+        ],
+        "worst_category": [
+            "FG%: 47",
+            "2P%: 47",
+            "eFG%: 47"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1959.png",
+        "rank": 12
+    },
+    "mcguidi01": {
+        "grade": 77.42,
+        "name": "Dick McGuire*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 71,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mcguidi01.jpg",
+        "id": "mcguidi01",
+        "age": "33",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/m/mcguidi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 2"
+        ],
+        "worst_category": [
+            "TRB: 55"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "7",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1959.png",
+        "rank": 13
+    },
+    "stavela01": {
+        "grade": 76.68,
+        "name": "Larry Staverman",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 57,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/stavela01.jpg",
+        "id": "stavela01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/stavela01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 2",
+            "2P%: 2",
+            "eFG%: 2"
+        ],
+        "worst_category": [
+            "MP: 83"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1959.png",
+        "rank": 14
+    },
+    "mikkeve01": {
+        "grade": 75.87,
+        "name": "Vern Mikkelsen*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mikkeve01.jpg",
+        "id": "mikkeve01",
+        "age": "30",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/m/mikkeve01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 12"
+        ],
+        "worst_category": [
+            "FG%: 35",
+            "2P%: 35",
+            "eFG%: 35"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West in West in Finals",
+        "team_league_ranking": "5",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1959.png",
+        "rank": 15
+    },
+    "sharech01": {
+        "grade": 75.29,
+        "name": "Chuck Share",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sharech01.jpg",
+        "id": "sharech01",
+        "age": "31",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/s/sharech01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 12",
+            "STL: 12",
+            "BLK: 12",
+            "BPM: 12",
+            "USG%: 12",
+            "OBPM: 12",
+            "DBPM: 12",
+            "VORP: 12"
+        ],
+        "worst_category": [
+            "PTS: 64"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "2",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1959.png",
+        "rank": 16
+    },
+    "gueriri01": {
+        "grade": 74.48,
+        "name": "Richie Guerin*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 71,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/gueriri01.jpg",
+        "id": "gueriri01",
+        "age": "26",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/gueriri01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 5"
+        ],
+        "worst_category": [
+            "3P%: 57",
+            "STL: 57",
+            "BLK: 57",
+            "BPM: 57",
+            "USG%: 57",
+            "OBPM: 57",
+            "DBPM: 57",
+            "VORP: 57"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East",
+        "team_league_ranking": "3",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1959.png",
+        "rank": 17
+    },
+    "tyrach01": {
+        "grade": 73.5,
+        "name": "Charlie Tyra",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 69,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/tyrach01.jpg",
+        "id": "tyrach01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/t/tyrach01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 3",
+            "STL: 3",
+            "BLK: 3",
+            "BPM: 3",
+            "USG%: 3",
+            "OBPM: 3",
+            "DBPM: 3",
+            "VORP: 3"
+        ],
+        "worst_category": [
+            "AST: 79"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East",
+        "team_league_ranking": "3",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1959.png",
+        "rank": 18
+    },
+    "rodgegu01": {
+        "grade": 72.92,
+        "name": "Guy Rodgers*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 45,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/rodgegu01.jpg",
+        "id": "rodgegu01",
+        "age": "23",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/r/rodgegu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 3"
+        ],
+        "worst_category": [
+            "FT%: 84"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1959.png",
+        "rank": 19
+    },
+    "naullwi01": {
+        "grade": 72.6,
+        "name": "Willie Naulls",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 68,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/naullwi01.jpg",
+        "id": "naullwi01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/n/naullwi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 8"
+        ],
+        "worst_category": [
+            "FG%: 48",
+            "2P%: 48",
+            "eFG%: 48"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East",
+        "team_league_ranking": "3",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1959.png",
+        "rank": 20
+    },
+    "jonessa01": {
+        "grade": 72.51,
+        "name": "Sam Jones*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 71,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/jonessa01.jpg",
+        "id": "jonessa01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/j/jonessa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 9"
+        ],
+        "worst_category": [
+            "MP: 55"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1959.png",
+        "rank": 21
+    },
+    "selvyfr01": {
+        "grade": 72.06,
+        "name": "Frank Selvy",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 68,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/selvyfr01.jpg",
+        "id": "selvyfr01",
+        "age": "26",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/selvyfr01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 14",
+            "STL: 14",
+            "BLK: 14",
+            "BPM: 14",
+            "USG%: 14",
+            "OBPM: 14",
+            "DBPM: 14",
+            "VORP: 14"
+        ],
+        "worst_category": [
+            "DWS: 67"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East",
+        "team_league_ranking": "3",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1959.png",
+        "rank": 22
+    },
+    "swainbe01": {
+        "grade": 71.98,
+        "name": "Bennie Swain",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 58,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/swainbe01.jpg",
+        "id": "swainbe01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/swainbe01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 6",
+            "STL: 6",
+            "BLK: 6",
+            "BPM: 6",
+            "USG%: 6",
+            "OBPM: 6",
+            "DBPM: 6",
+            "VORP: 6"
+        ],
+        "worst_category": [
+            "MP: 81"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1959.png",
+        "rank": 23
+    },
+    "jordoph01": {
+        "grade": 71.9,
+        "name": "Phil Jordon",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/jordoph01.jpg",
+        "id": "jordoph01",
+        "age": "25",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/j/jordoph01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PER: 18"
+        ],
+        "worst_category": [
+            "AST: 56"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "7",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1959.png",
+        "rank": 24
+    },
+    "golato01": {
+        "grade": 71.7,
+        "name": "Tom Gola*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 64,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/golato01.jpg",
+        "id": "golato01",
+        "age": "26",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/golato01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 6"
+        ],
+        "worst_category": [
+            "3P%: 61",
+            "STL: 61",
+            "BLK: 61",
+            "BPM: 61",
+            "USG%: 61",
+            "OBPM: 61",
+            "DBPM: 61",
+            "VORP: 61"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1959.png",
+        "rank": 25
+    },
+    "heinsto01": {
+        "grade": 71.29,
+        "name": "Tom Heinsohn*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 66,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/heinsto01.jpg",
+        "id": "heinsto01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/heinsto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 3"
+        ],
+        "worst_category": [
+            "3P%: 53",
+            "STL: 53",
+            "BLK: 53",
+            "BPM: 53",
+            "USG%: 53",
+            "OBPM: 53",
+            "DBPM: 53",
+            "VORP: 53"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1959.png",
+        "rank": 26
+    },
+    "palmeji01": {
+        "grade": 70.35,
+        "name": "Jim Palmer",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 67,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/palmeji01.jpg",
+        "id": "palmeji01",
+        "age": "25",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/p/palmeji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 25",
+            "2P%: 25",
+            "eFG%: 25"
+        ],
+        "worst_category": [
+            "DWS: 72"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1959.png",
+        "rank": 27
+    },
+    "reedhu01": {
+        "grade": 68.96,
+        "name": "Hub Reed",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 65,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/reedhu01.jpg",
+        "id": "reedhu01",
+        "age": "22",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/r/reedhu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 14",
+            "2P%: 14",
+            "eFG%: 14"
+        ],
+        "worst_category": [
+            "AST: 81"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "2",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1959.png",
+        "rank": 28
+    },
+    "parkme01": {
+        "grade": 68.34,
+        "name": "Med Park",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 62,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/parkme01.jpg",
+        "id": "parkme01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/p/parkme01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 23"
+        ],
+        "worst_category": [
+            "DWS: 79"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1959.png",
+        "rank": 29
+    },
+    "sobiero01": {
+        "grade": 68.34,
+        "name": "Ron Sobie",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 50,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sobiero01.jpg",
+        "id": "sobiero01",
+        "age": "24",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/s/sobiero01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 6"
+        ],
+        "worst_category": [
+            "DWS: 77"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East",
+        "team_league_ranking": "3",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1959.png",
+        "rank": 30
+    },
+    "costela01": {
+        "grade": 67.93,
+        "name": "Larry Costello*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 70,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/costela01.jpg",
+        "id": "costela01",
+        "age": "27",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/c/costela01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 4"
+        ],
+        "worst_category": [
+            "3P%: 77",
+            "STL: 77",
+            "BLK: 77",
+            "BPM: 77",
+            "USG%: 77",
+            "OBPM: 77",
+            "DBPM: 77",
+            "VORP: 77"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1959.png",
+        "rank": 31
+    },
+    "arizipa01": {
+        "grade": 67.85,
+        "name": "Paul Arizin*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 70,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/arizipa01.jpg",
+        "id": "arizipa01",
+        "age": "30",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/a/arizipa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "PTS: 2"
+        ],
+        "worst_category": [
+            "3P%: 85",
+            "STL: 85",
+            "BLK: 85",
+            "BPM: 85",
+            "USG%: 85",
+            "OBPM: 85",
+            "DBPM: 85",
+            "VORP: 85"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1959.png",
+        "rank": 32
+    },
+    "mcmilsh01": {
+        "grade": 67.08,
+        "name": "Shellie McMillon",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 48,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mcmilsh01.jpg",
+        "id": "mcmilsh01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/m/mcmilsh01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 8",
+            "2P%: 8",
+            "eFG%: 8"
+        ],
+        "worst_category": [
+            "FT%: 85"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "7",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1959.png",
+        "rank": 33
+    },
+    "bayloel01": {
+        "grade": 66.99,
+        "name": "Elgin Baylor*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 70,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bayloel01.jpg",
+        "id": "bayloel01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/b/bayloel01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "MP: 2",
+            "PER: 2"
+        ],
+        "worst_category": [
+            "3P%: 84",
+            "STL: 84",
+            "BLK: 84",
+            "BPM: 84",
+            "USG%: 84",
+            "OBPM: 84",
+            "DBPM: 84",
+            "VORP: 84"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West in West in Finals",
+        "team_league_ranking": "5",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1959.png",
+        "rank": 34
+    },
+    "greerha01": {
+        "grade": 66.34,
+        "name": "Hal Greer*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 68,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/greerha01.jpg",
+        "id": "greerha01",
+        "age": "22",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/greerha01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 6",
+            "2P%: 6",
+            "eFG%: 6"
+        ],
+        "worst_category": [
+            "TRB: 73"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1959.png",
+        "rank": 35
+    },
+    "sauldwo01": {
+        "grade": 65.77,
+        "name": "Woody Sauldsberry",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sauldwo01.jpg",
+        "id": "sauldwo01",
+        "age": "24",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/s/sauldwo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 7"
+        ],
+        "worst_category": [
+            "OWS: 85"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1959.png",
+        "rank": 36
+    },
+    "palazto01": {
+        "grade": 65.36,
+        "name": "Togo Palazzi",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 71,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/palazto01.jpg",
+        "id": "palazto01",
+        "age": "26",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/p/palazto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 28",
+            "STL: 28",
+            "BLK: 28",
+            "BPM: 28",
+            "USG%: 28",
+            "OBPM: 28",
+            "DBPM: 28",
+            "VORP: 28"
+        ],
+        "worst_category": [
+            "MP: 68"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1959.png",
+        "rank": 37
+    },
+    "hopkibo01": {
+        "grade": 65.03,
+        "name": "Bob Hopkins",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 67,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hopkibo01.jpg",
+        "id": "hopkibo01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/h/hopkibo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 26",
+            "2P%: 26",
+            "eFG%: 26"
+        ],
+        "worst_category": [
+            "AST: 64"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1959.png",
+        "rank": 38
+    },
+    "cousybo01": {
+        "grade": 64.91,
+        "name": "Bob Cousy*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 65,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/cousybo01.jpg",
+        "id": "cousybo01",
+        "age": "30",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/c/cousybo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 1"
+        ],
+        "worst_category": [
+            "3P%: 76",
+            "STL: 76",
+            "BLK: 76",
+            "BPM: 76",
+            "USG%: 76",
+            "OBPM: 76",
+            "DBPM: 76",
+            "VORP: 76"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1959.png",
+        "rank": 39
+    },
+    "garmadi01": {
+        "grade": 63.4,
+        "name": "Dick Garmaker",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/garmadi01.jpg",
+        "id": "garmadi01",
+        "age": "26",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/g/garmadi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "MP: 19"
+        ],
+        "worst_category": [
+            "3P%: 63",
+            "STL: 63",
+            "BLK: 63",
+            "BPM: 63",
+            "USG%: 63",
+            "OBPM: 63",
+            "DBPM: 63",
+            "VORP: 63"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West in West in Finals",
+        "team_league_ranking": "5",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1959.png",
+        "rank": 40
+    },
+    "piontda01": {
+        "grade": 63.11,
+        "name": "Dave Piontek",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/piontda01.jpg",
+        "id": "piontda01",
+        "age": "24",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/p/piontda01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 23",
+            "STL: 23",
+            "BLK: 23",
+            "BPM: 23",
+            "USG%: 23",
+            "OBPM: 23",
+            "DBPM: 23",
+            "VORP: 23"
+        ],
+        "worst_category": [
+            "WS/48: 74"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1959.png",
+        "rank": 41
+    },
+    "foustla01": {
+        "grade": 62.46,
+        "name": "Larry Foust",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/foustla01.jpg",
+        "id": "foustla01",
+        "age": "30",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/f/foustla01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 18"
+        ],
+        "worst_category": [
+            "3P%: 64",
+            "STL: 64",
+            "BLK: 64",
+            "BPM: 64",
+            "USG%: 64",
+            "OBPM: 64",
+            "DBPM: 64",
+            "VORP: 64"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West in West in Finals",
+        "team_league_ranking": "5",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1959.png",
+        "rank": 42
+    },
+    "martisl01": {
+        "grade": 61.76,
+        "name": "Slater Martin*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 71,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/martisl01.jpg",
+        "id": "martisl01",
+        "age": "33",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/m/martisl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 8"
+        ],
+        "worst_category": [
+            "FG%: 75",
+            "2P%: 75",
+            "eFG%: 75"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "2",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1959.png",
+        "rank": 43
+    },
+    "rolliph01": {
+        "grade": 60.86,
+        "name": "Phil Rollins",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 44,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/rolliph01.jpg",
+        "id": "rolliph01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/r/rolliph01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 19",
+            "STL: 19",
+            "BLK: 19",
+            "BPM: 19",
+            "USG%: 19",
+            "OBPM: 19",
+            "DBPM: 19",
+            "VORP: 19"
+        ],
+        "worst_category": [
+            "TRB: 78",
+            "DWS: 78"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1959.png",
+        "rank": 44
+    },
+    "krebsji01": {
+        "grade": 60.7,
+        "name": "Jim Krebs",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/krebsji01.jpg",
+        "id": "krebsji01",
+        "age": "23",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/k/krebsji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 29",
+            "2P%: 29",
+            "eFG%: 29"
+        ],
+        "worst_category": [
+            "AST: 76"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West in West in Finals",
+        "team_league_ranking": "5",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1959.png",
+        "rank": 45
+    },
+    "mccarjo01": {
+        "grade": 60.49,
+        "name": "Johnny McCarthy",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 47,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mccarjo01.jpg",
+        "id": "mccarjo01",
+        "age": "24",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/m/mccarjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 6",
+            "MP: 6"
+        ],
+        "worst_category": [
+            "WS/48: 75"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1959.png",
+        "rank": 46
+    },
+    "braunca01": {
+        "grade": 60.0,
+        "name": "Carl Braun*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/braunca01.jpg",
+        "id": "braunca01",
+        "age": "31",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/braunca01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 7"
+        ],
+        "worst_category": [
+            "3P%: 80",
+            "STL: 80",
+            "BLK: 80",
+            "BPM: 80",
+            "USG%: 80",
+            "OBPM: 80",
+            "DBPM: 80",
+            "VORP: 80"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East",
+        "team_league_ranking": "3",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1959.png",
+        "rank": 47
+    },
+    "leonasl01": {
+        "grade": 59.39,
+        "name": "Slick Leonard*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 58,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/leonasl01.jpg",
+        "id": "leonasl01",
+        "age": "26",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/l/leonasl01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 15"
+        ],
+        "worst_category": [
+            "TRB: 69"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West in West in Finals",
+        "team_league_ranking": "5",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1959.png",
+        "rank": 48
+    },
+    "seymopa01": {
+        "grade": 59.27,
+        "name": "Paul Seymour",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 21,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/seymopa01.jpg",
+        "id": "seymopa01",
+        "age": "31",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/s/seymopa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 2"
+        ],
+        "worst_category": [
+            "TRB: 84"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1959.png",
+        "rank": 49
+    },
+    "wilfowi01": {
+        "grade": 58.98,
+        "name": "Win Wilfong",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 63,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/wilfowi01.jpg",
+        "id": "wilfowi01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/w/wilfowi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 2",
+            "STL: 2",
+            "BLK: 2",
+            "BPM: 2",
+            "USG%: 2",
+            "OBPM: 2",
+            "DBPM: 2",
+            "VORP: 2"
+        ],
+        "worst_category": [
+            "MP: 84"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "2",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1959.png",
+        "rank": 50
+    },
+    "grabojo01": {
+        "grade": 57.34,
+        "name": "Joe Graboski",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/grabojo01.jpg",
+        "id": "grabojo01",
+        "age": "29",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/g/grabojo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 10"
+        ],
+        "worst_category": [
+            "OWS: 74"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1959.png",
+        "rank": 51
+    },
+    "tsiorlo01": {
+        "grade": 56.49,
+        "name": "Lou Tsioropoulos",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 35,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/tsiorlo01.jpg",
+        "id": "tsiorlo01",
+        "age": "28",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/t/tsiorlo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 5",
+            "STL: 5",
+            "BLK: 5",
+            "BPM: 5",
+            "USG%: 5",
+            "OBPM: 5",
+            "DBPM: 5",
+            "VORP: 5"
+        ],
+        "worst_category": [
+            "PER: 85"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1959.png",
+        "rank": 52
+    },
+    "mcmahja01": {
+        "grade": 55.87,
+        "name": "Jack McMahon",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/mcmahja01.jpg",
+        "id": "mcmahja01",
+        "age": "30",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/m/mcmahja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 10"
+        ],
+        "worst_category": [
+            "PER: 83"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "2",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1959.png",
+        "rank": 53
+    },
+    "ellisbo01": {
+        "grade": 55.59,
+        "name": "Boo Ellis",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ellisbo01.jpg",
+        "id": "ellisbo01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/e/ellisbo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 13",
+            "2P%: 13",
+            "eFG%: 13"
+        ],
+        "worst_category": [
+            "AST: 74"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West in West in Finals",
+        "team_league_ranking": "5",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1959.png",
+        "rank": 54
+    },
+    "lloydea01": {
+        "grade": 55.54,
+        "name": "Earl Lloyd*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/lloydea01.jpg",
+        "id": "lloydea01",
+        "age": "30",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/l/lloydea01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 23"
+        ],
+        "worst_category": [
+            "OWS: 79"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "7",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1959.png",
+        "rank": 55
+    },
+    "hundlho01": {
+        "grade": 55.05,
+        "name": "Hot Rod Hundley",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 71,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hundlho01.jpg",
+        "id": "hundlho01",
+        "age": "24",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/h/hundlho01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 19"
+        ],
+        "worst_category": [
+            "WS/48: 66"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West in West in Finals",
+        "team_league_ranking": "5",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1959.png",
+        "rank": 56
+    },
+    "sparrgu01": {
+        "grade": 54.89,
+        "name": "Guy Sparrow",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 67,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/sparrgu01.jpg",
+        "id": "sparrgu01",
+        "age": "26",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/s/sparrgu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 8",
+            "STL: 8",
+            "BLK: 8",
+            "BPM: 8",
+            "USG%: 8",
+            "OBPM: 8",
+            "DBPM: 8",
+            "VORP: 8"
+        ],
+        "worst_category": [
+            "WS: 85",
+            "WS/48: 85"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1959.png",
+        "rank": 57
+    },
+    "holupjo01": {
+        "grade": 54.73,
+        "name": "Joe Holup",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 68,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/holupjo01.jpg",
+        "id": "holupjo01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/holupjo01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 34"
+        ],
+        "worst_category": [
+            "PER: 67"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "7",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1959.png",
+        "rank": 58
+    },
+    "farledi01": {
+        "grade": 54.69,
+        "name": "Dick Farley",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 70,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/farledi01.jpg",
+        "id": "farledi01",
+        "age": "26",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/f/farledi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 30"
+        ],
+        "worst_category": [
+            "TRB: 75"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "7",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1959.png",
+        "rank": 59
+    },
+    "loscuji01": {
+        "grade": 54.32,
+        "name": "Jim Loscutoff",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 66,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/loscuji01.jpg",
+        "id": "loscuji01",
+        "age": "28",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/l/loscuji01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 18"
+        ],
+        "worst_category": [
+            "PER: 84",
+            "OWS: 84"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1959.png",
+        "rank": 60
+    },
+    "embrywa01": {
+        "grade": 54.24,
+        "name": "Wayne Embry*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 66,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/embrywa01.jpg",
+        "id": "embrywa01",
+        "age": "21",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/e/embrywa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 17"
+        ],
+        "worst_category": [
+            "FT%: 70",
+            "3P%: 70",
+            "STL: 70",
+            "BLK: 70",
+            "BPM: 70",
+            "DWS: 70",
+            "USG%: 70",
+            "OBPM: 70",
+            "DBPM: 70",
+            "VORP: 70"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1959.png",
+        "rank": 61
+    },
+    "dempsge01": {
+        "grade": 54.11,
+        "name": "George Dempsey",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 57,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/dempsge01.jpg",
+        "id": "dempsge01",
+        "age": "29",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/d/dempsge01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 8"
+        ],
+        "worst_category": [
+            "MP: 82"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1959.png",
+        "rank": 62
+    },
+    "flemied01": {
+        "grade": 52.89,
+        "name": "Ed Fleming",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 71,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/flemied01.jpg",
+        "id": "flemied01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/f/flemied01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 36"
+        ],
+        "worst_category": [
+            "3P%: 65",
+            "STL: 65",
+            "BLK: 65",
+            "BPM: 65",
+            "USG%: 65",
+            "OBPM: 65",
+            "DBPM: 65",
+            "VORP: 65"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West in West in Finals",
+        "team_league_ranking": "5",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1959.png",
+        "rank": 63
+    },
+    "johnsne01": {
+        "grade": 52.6,
+        "name": "Neil Johnston*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 28,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/johnsne01.jpg",
+        "id": "johnsne01",
+        "age": "29",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/j/johnsne01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 18"
+        ],
+        "worst_category": [
+            "FG%: 79",
+            "2P%: 79",
+            "eFG%: 79"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1959.png",
+        "rank": 64
+    },
+    "johnsan01": {
+        "grade": 52.23,
+        "name": "Andy Johnson",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 67,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/johnsan01.jpg",
+        "id": "johnsan01",
+        "age": "26",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/j/johnsan01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 42"
+        ],
+        "worst_category": [
+            "FT%: 78"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1959.png",
+        "rank": 65
+    },
+    "felixra01": {
+        "grade": 52.11,
+        "name": "Ray Felix",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/felixra01.jpg",
+        "id": "felixra01",
+        "age": "28",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/f/felixra01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 22"
+        ],
+        "worst_category": [
+            "AST: 77"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East",
+        "team_league_ranking": "3",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1959.png",
+        "rank": 66
+    },
+    "noblech01": {
+        "grade": 52.07,
+        "name": "Chuck Noble",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 65,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/noblech01.jpg",
+        "id": "noblech01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/n/noblech01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 29",
+            "STL: 29",
+            "BLK: 29",
+            "BPM: 29",
+            "USG%: 29",
+            "OBPM: 29",
+            "DBPM: 29",
+            "VORP: 29"
+        ],
+        "worst_category": [
+            "TRB: 85"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "7",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1959.png",
+        "rank": 67
+    },
+    "parrja01": {
+        "grade": 51.5,
+        "name": "Jack Parr",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 66,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/parrja01.jpg",
+        "id": "parrja01",
+        "age": "22",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/p/parrja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 25",
+            "STL: 25",
+            "BLK: 25",
+            "BPM: 25",
+            "USG%: 25",
+            "OBPM: 25",
+            "DBPM: 25",
+            "VORP: 25"
+        ],
+        "worst_category": [
+            "PTS: 83"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1959.png",
+        "rank": 68
+    },
+    "dukeswa01": {
+        "grade": 51.29,
+        "name": "Walter Dukes",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/dukeswa01.jpg",
+        "id": "dukeswa01",
+        "age": "28",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/d/dukeswa01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 6"
+        ],
+        "worst_category": [
+            "3P%: 72",
+            "STL: 72",
+            "BLK: 72",
+            "BPM: 72",
+            "USG%: 72",
+            "OBPM: 72",
+            "DBPM: 72",
+            "VORP: 72"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "7",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1959.png",
+        "rank": 69
+    },
+    "georgja01": {
+        "grade": 49.41,
+        "name": "Jack George",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 71,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/georgja01.jpg",
+        "id": "georgja01",
+        "age": "30",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/g/georgja01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 17"
+        ],
+        "worst_category": [
+            "FG%: 76",
+            "2P%: 76",
+            "eFG%: 76"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East",
+        "team_league_ranking": "3",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1959.png",
+        "rank": 70
+    },
+    "conlied01": {
+        "grade": 49.21,
+        "name": "Ed Conlin",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "DET",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/conlied01.jpg",
+        "id": "conlied01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/c/conlied01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "DWS: 25"
+        ],
+        "worst_category": [
+            "3P%: 78",
+            "STL: 78",
+            "BLK: 78",
+            "BPM: 78",
+            "USG%: 78",
+            "OBPM: 78",
+            "DBPM: 78",
+            "VORP: 78"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "7",
+        "team_name": "Detroit Pistons",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1959.png",
+        "rank": 71
+    },
+    "greensi01": {
+        "grade": 47.69,
+        "name": "Si Green",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 46,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/greensi01.jpg",
+        "id": "greensi01",
+        "age": "25",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/g/greensi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 25"
+        ],
+        "worst_category": [
+            "WS: 73"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "2",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1959.png",
+        "rank": 72
+    },
+    "bockhbu01": {
+        "grade": 47.24,
+        "name": "Bucky Bockhorn",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 71,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/bockhbu01.jpg",
+        "id": "bockhbu01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/b/bockhbu01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 21"
+        ],
+        "worst_category": [
+            "3P%: 81",
+            "STL: 81",
+            "BLK: 81",
+            "BPM: 81",
+            "USG%: 81",
+            "OBPM: 81",
+            "DBPM: 81",
+            "VORP: 81"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1959.png",
+        "rank": 73
+    },
+    "joneskc01": {
+        "grade": 45.89,
+        "name": "K.C. Jones*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 49,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/joneskc01.jpg",
+        "id": "joneskc01",
+        "age": "26",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/j/joneskc01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 47",
+            "STL: 47",
+            "BLK: 47",
+            "BPM: 47",
+            "WS/48: 47",
+            "USG%: 47",
+            "OBPM: 47",
+            "DBPM: 47",
+            "VORP: 47"
+        ],
+        "worst_category": [
+            "PTS: 85"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1959.png",
+        "rank": 74
+    },
+    "hamilst01": {
+        "grade": 45.73,
+        "name": "Steve Hamilton",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 67,
+        "team": "MNL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hamilst01.jpg",
+        "id": "hamilst01",
+        "age": "24",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/h/hamilst01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TS%: 53"
+        ],
+        "worst_category": [
+            "AST: 83"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West in West in Finals",
+        "team_league_ranking": "5",
+        "team_name": "Minneapolis Lakers",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1959.png",
+        "rank": 75
+    },
+    "biancal01": {
+        "grade": 45.61,
+        "name": "Al Bianchi",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/biancal01.jpg",
+        "id": "biancal01",
+        "age": "26",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/b/biancal01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 28"
+        ],
+        "worst_category": [
+            "3P%: 82",
+            "STL: 82",
+            "BLK: 82",
+            "BPM: 82",
+            "USG%: 82",
+            "OBPM: 82",
+            "DBPM: 82",
+            "VORP: 82"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1959.png",
+        "rank": 76
+    },
+    "marshto01": {
+        "grade": 45.2,
+        "name": "Tom Marshall",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 18,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/marshto01.jpg",
+        "id": "marshto01",
+        "age": "28",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/m/marshto01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 37",
+            "STL: 37",
+            "BLK: 37",
+            "BPM: 37",
+            "USG%: 37",
+            "OBPM: 37",
+            "DBPM: 37",
+            "VORP: 37"
+        ],
+        "worst_category": [
+            "FG%: 85",
+            "TS%: 85",
+            "2P%: 85",
+            "DWS: 85",
+            "eFG%: 85"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1959.png",
+        "rank": 77
+    },
+    "ferraal01": {
+        "grade": 45.12,
+        "name": "Al Ferrari",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/ferraal01.jpg",
+        "id": "ferraal01",
+        "age": "25",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/f/ferraal01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "AST: 39"
+        ],
+        "worst_category": [
+            "TRB: 82"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "2",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1959.png",
+        "rank": 78
+    },
+    "hattove01": {
+        "grade": 45.08,
+        "name": "Vern Hatton",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 64,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/hattove01.jpg",
+        "id": "hattove01",
+        "age": "23",
+        "pos": "PG",
+        "link": "https://www.basketball-reference.com/players/h/hattove01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 53"
+        ],
+        "worst_category": [
+            "WS/48: 77"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1959.png",
+        "rank": 79
+    },
+    "macaued01": {
+        "grade": 44.1,
+        "name": "Ed Macauley*",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 14,
+        "team": "STL",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/macaued01.jpg",
+        "id": "macaued01",
+        "age": "30",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/m/macaued01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "3P%: 38",
+            "STL: 38",
+            "BLK: 38",
+            "BPM: 38",
+            "USG%: 38",
+            "OBPM: 38",
+            "DBPM: 38",
+            "VORP: 38"
+        ],
+        "worst_category": [
+            "FG%: 84",
+            "2P%: 84",
+            "DWS: 84",
+            "eFG%: 84"
+        ],
+        "team_standing_string": "Finished in West in 1959 in West",
+        "team_league_ranking": "2",
+        "team_name": "St. Louis Hawks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1959.png",
+        "rank": 80
+    },
+    "deesar01": {
+        "grade": 43.6,
+        "name": "Archie Dees",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 68,
+        "team": "CIN",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/deesar01.jpg",
+        "id": "deesar01",
+        "age": "22",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/d/deesar01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 22"
+        ],
+        "worst_category": [
+            "DWS: 81"
+        ],
+        "team_standing_string": "Finished in West",
+        "team_league_ranking": "8",
+        "team_name": "Cincinnati Royals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1959.png",
+        "rank": 81
+    },
+    "farmemi01": {
+        "grade": 42.38,
+        "name": "Mike Farmer",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 72,
+        "team": "NYK",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/farmemi01.jpg",
+        "id": "farmemi01",
+        "age": "22",
+        "pos": "SF",
+        "link": "https://www.basketball-reference.com/players/f/farmemi01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FT%: 7"
+        ],
+        "worst_category": [
+            "PER: 80"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East",
+        "team_league_ranking": "3",
+        "team_name": "New York Knicks",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1959.png",
+        "rank": 82
+    },
+    "becker01": {
+        "grade": 40.21,
+        "name": "Ernie Beck",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 70,
+        "team": "PHW",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/becker01.jpg",
+        "id": "becker01",
+        "age": "27",
+        "pos": "SG",
+        "link": "https://www.basketball-reference.com/players/b/becker01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "FG%: 38",
+            "2P%: 38",
+            "eFG%: 38"
+        ],
+        "worst_category": [
+            "3P%: 83",
+            "STL: 83",
+            "BLK: 83",
+            "BPM: 83",
+            "USG%: 83",
+            "OBPM: 83",
+            "DBPM: 83",
+            "VORP: 83"
+        ],
+        "team_standing_string": "Finished in East",
+        "team_league_ranking": "6",
+        "team_name": "Philadelphia Warriors",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1959.png",
+        "rank": 83
+    },
+    "dierkco01": {
+        "grade": 39.23,
+        "name": "Connie Dierking",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 64,
+        "team": "SYR",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/dierkco01.jpg",
+        "id": "dierkco01",
+        "age": "22",
+        "pos": "C",
+        "link": "https://www.basketball-reference.com/players/d/dierkco01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "WS/48: 55"
+        ],
+        "worst_category": [
+            "MP: 85"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in East",
+        "team_league_ranking": "4",
+        "team_name": "Syracuse Nationals",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1959.png",
+        "rank": 84
+    },
+    "conlege01": {
+        "grade": 33.55,
+        "name": "Gene Conley",
+        "league_grade": 65.39,
+        "year": 1959,
+        "games_played": 50,
+        "team": "BOS",
+        "img": "https://www.basketball-reference.com/req/202106291/images/headshots/conlege01.jpg",
+        "id": "conlege01",
+        "age": "28",
+        "pos": "PF",
+        "link": "https://www.basketball-reference.com/players/c/conlege01.html",
+        "last_update": "May 18 2024 16:50:06",
+        "top_category": [
+            "TRB: 39"
+        ],
+        "worst_category": [
+            "AST: 85"
+        ],
+        "team_standing_string": "Finished in East in 1959 in East in Finals",
+        "team_league_ranking": "1",
+        "team_name": "Boston Celtics",
+        "team_img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1959.png",
+        "rank": 85
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "awards": [
+        [
+            "Los Angeles Lakers",
+            "/teams/LAL/1987.html"
+        ],
+        [
+            "Magic Johnson",
+            "/players/j/johnsma02.html"
+        ],
+        [
+            [
+                "Chuck Person",
+                "/players/p/persoch01.html"
+            ]
+        ]
+    ],
+    "all_nba": {
+        "1st Team": [
+            [
+                "Larry Bird",
+                "/players/b/birdla01.html"
+            ],
+            [
+                "Magic Johnson",
+                "/players/j/johnsma02.html"
+            ],
+            [
+                "Michael Jordan",
+                "/players/j/jordami01.html"
+            ],
+            [
+                "Kevin McHale",
+                "/players/m/mchalke01.html"
+            ],
+            [
+                "Hakeem Olajuwon",
+                "/players/o/olajuha01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Charles Barkley",
+                "/players/b/barklch01.html"
+            ],
+            [
+                "Fat Lever",
+                "/players/l/leverfa01.html"
+            ],
+            [
+                "Moses Malone",
+                "/players/m/malonmo01.html"
+            ],
+            [
+                "Isiah Thomas",
+                "/players/t/thomais01.html"
+            ],
+            [
+                "Dominique Wilkins",
+                "/players/w/wilkido01.html"
+            ]
+        ],
+        "3st Team": []
+    }
+}
