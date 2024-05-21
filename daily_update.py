@@ -92,6 +92,6 @@ if __name__ == "__main__":
     # with open(f"data/stat/players/grades/{date_string}.json", "w+", encoding="utf8") as file:
     #     file.write(json.dumps(ranks, ensure_ascii=False, indent=4))
     # update_internal_info()
-    ranks = grade.grade_team(2024, date_string)
-    with open(f"data/team/grades/{date_string}.json", "w+", encoding="utf8") as file:
+    ranks = grade.grade_team(2024, "05_18_2024")
+    with open(f"data/team/grades/05_18_2024.json", "w+", encoding="utf8") as file:
         file.write(json.dumps(ranks, ensure_ascii=False, indent=4))

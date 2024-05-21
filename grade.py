@@ -142,6 +142,14 @@ def grade_players(year, date_string,
 
     return sorted_players
 
+def get_ordinal(i):
+    SUFFIXES = {1: 'st', 2: 'nd', 3: 'rd'}
+
+    if 10 <= i % 100 <= 20:
+        return 'th'
+    else:
+        return SUFFIXES.get(i % 10, 'th')
+
 def grade_team(year, date_string,
             categories=[
                         "PTS", "AST", "TRB", "FG%", "FT%", "3P%", "STL", "BLK",
@@ -160,9 +168,22 @@ def grade_team(year, date_string,
     player_grades = getters.get_grades(date_string)
 
     f = {}
+    east_teams = 1
+    west_teams = 1
 
     for team in stats:
         
+        if "east" in stats[team]["standing"].lower():
+            stats[team]["conference"] = "East"
+            stats[team]["conference_rank"] = east_teams
+            east_teams += 1
+        else:
+            stats[team]["conference"] = "West"
+            stats[team]["conference_rank"] = west_teams
+            west_teams += 1
+
+        stats[team]["standing"] = f'{stats[team]["conference_rank"]}{get_ordinal(stats[team]["conference_rank"])} in {stats[team]["conference"]}'
+
         grades = []
         for player in stats[team]["Players"]:
             try:
@@ -191,10 +212,6 @@ def grade_team(year, date_string,
         f[team]['score'] = grade
         f[team]['last_update'] = stats[team]["last_update"]
         f[team]['link'] = "https://www.basketball-reference.com/teams/{}/{}.html".format(year, team)
-        min_categories = get_all_min_categories(team, stats)
-        f[team]["top_category"] = [f"{category}: {min_categories[1]}" for category in min_categories[0]]
-        max_categories = get_all_max_categories(team, stats)
-        f[team]["worst_category"] = [f"{category}: {max_categories[1]}" for category in max_categories[0]]
 
     sorted_teams = {k: v for k, v in sorted(f.items(), key=lambda item: item[1]['score'], reverse=True)}
    
