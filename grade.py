@@ -311,7 +311,8 @@ def archive(year):
                 "id": final_player_grades[player]["id"],
                 "link": final_player_grades[player]["link"],
                 "team_img": final_player_grades[player]["team_img"],
-                "team": final_player_grades[player]["team"]
+                "team": final_player_grades[player]["team"],
+                "name": final_player_grades[player]["name"],
                 }
             )
     
@@ -340,8 +341,6 @@ def archive(year):
             "record": final_team_grades[team]["record"]
         }
         )
-
-
 
     return r
 
