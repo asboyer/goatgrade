@@ -16,6 +16,7 @@ team_path = "data/team/teams/{}.json"
 player_grades_path = "data/stat/players/grades/{}.json"
 team_grades_path = "data/team/grades/{}.json"
 seasons_path = "data/league/seasons.json"
+archive_path = "data/archive/{}/results.json"
 
 app = Flask(__name__)
 CORS(app)
@@ -138,4 +139,7 @@ def in_season():
 def archive(year):
     if year not in [str(i) for i in info.archived_seasons]:
         return jsonpickle.encode({"error": "Season not found"})
-    
+
+    data = tools.load(archive_path.format(year))
+
+    return jsonpickle.encode(data)

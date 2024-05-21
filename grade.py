@@ -318,4 +318,4 @@ def archive(year):
     return r
 
 if __name__ == "__main__":
-    tools.dump("data/archive/results.json", archive("2024"))
+    tools.dump("data/archive/2024/results.json", archive("2024"))
