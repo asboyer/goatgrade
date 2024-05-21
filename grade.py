@@ -276,6 +276,12 @@ def archive(year):
 
     r["final_results"] = final_results
 
+    for data in r["league_progression"]:
+        data["date"] = datetime.strptime(data["date"], "%m_%d_%Y")
+    r["league_progression"].sort(key=lambda x: x['date'])
+    for data in r["league_progression"]:
+        data["date"] = data["date"].strftime("%m_%d_%Y")
+
     r["league_progression"].append( 
         {
         "grade": final_player_grades[list(final_player_grades.keys())[0]]["league_grade"],
@@ -284,6 +290,16 @@ def archive(year):
     )
 
     for player in final_player_grades:
+
+        # sort
+        for data in r["players"][player]:
+            data["date"] = datetime.strptime(data["date"], "%m_%d_%Y")
+        
+        r["players"][player].sort(key=lambda x: x['date'])
+
+        for data in r["players"][player]:
+            data["date"] = data["date"].strftime("%m_%d_%Y")
+
         if player in list(r["players"].keys()):    
             r["players"][player].append( 
                 {
@@ -300,6 +316,16 @@ def archive(year):
             )
     
     for team in final_team_grades:
+
+        # sort
+        for data in r["teams"][team]:
+            data["date"] = datetime.strptime(data["date"], "%m_%d_%Y")
+        
+        r["teams"][team].sort(key=lambda x: x['date'])
+
+        for data in r["teams"][team]:
+            data["date"] = data["date"].strftime("%m_%d_%Y")
+
         r["teams"][team].append (
             {
             "score": final_team_grades[team]["score"],
@@ -314,6 +340,8 @@ def archive(year):
             "record": final_team_grades[team]["record"]
         }
         )
+
+
 
     return r
 
