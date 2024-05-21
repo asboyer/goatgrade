@@ -26,12 +26,12 @@ def home():
 
 @app.route("/teams")
 def get_team_grades_current():
+    date_obj = datetime.today()
     date_string = tools.date_to_str(datetime.today())
-    if not os.path.isfile(team_grades_path.format(date_string)):
-        date_obj = datetime.strptime(date_string, "%m_%d_%Y")
-        yesterday = date_obj - timedelta(days=1)
-        yesterday_str = yesterday.strftime("%m_%d_%Y")
-        date_string = yesterday_str
+
+    while not os.path.isfile(team_grades_path.format(date_string)):
+        date_obj = date_obj - timedelta(days=1)
+        date_string = tools.date_to_str(date_obj)
 
     f = open(team_grades_path.format(date_string), 'r')
     data = json.load(f)
@@ -83,12 +83,12 @@ def get_team_grades(year):
     
 @app.route("/players")
 def get_player_grades_current():
+    date_obj = datetime.today()
     date_string = tools.date_to_str(datetime.today())
-    if not os.path.isfile(team_grades_path.format(date_string)):
-        date_obj = datetime.strptime(date_string, "%m_%d_%Y")
-        yesterday = date_obj - timedelta(days=1)
-        yesterday_str = yesterday.strftime("%m_%d_%Y")
-        date_string = yesterday_str    
+
+    while not os.path.isfile(team_grades_path.format(date_string)):
+        date_obj = date_obj - timedelta(days=1)
+        date_string = tools.date_to_str(date_obj)
 
     f = open(player_grades_path.format(date_string), 'r')
     data = json.load(f)
