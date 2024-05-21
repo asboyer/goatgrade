@@ -95,9 +95,9 @@ def get_player_grades_current():
     data = json.load(f)
     f.close()
 
-    teams = open(team_grades_path.format(date_string), 'r')
-    data = json.load(teams)
-    teams.close()
+    f = open(team_grades_path.format(date_string), 'r')
+    teams = json.load(f)
+    f.close()
 
     r = []
 
