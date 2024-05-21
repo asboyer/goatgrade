@@ -284,10 +284,14 @@ def grade_team(stats, player_grades, categories, year):
 if __name__ == "__main__":
     for season in info.seasons:
         stats, categories = clean_player_stats(tools.load(player_stats_path.format(season)))
-        ranks = grade_players(stats, categories, season)
-        tools.dump(player_grades_path.format(season), ranks)
-
+        player_ranks = grade_players(stats, categories, season)
 
         team_stats, team_categories = clean_team_stats(tools.load(league_path.format(season, season)))
-        ranks = grade_team(team_stats, ranks, team_categories, season)
+        ranks = grade_team(team_stats, player_ranks, team_categories, season)
         tools.dump(team_grades_path.format(season), ranks)
+
+        for player in player_ranks:
+            player_ranks[player]["team_standing_string"] = ranks[player_ranks[player]["team"]]["standing"]
+
+        tools.dump(player_grades_path.format(season), player_ranks)
+

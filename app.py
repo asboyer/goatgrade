@@ -95,6 +95,10 @@ def get_player_grades_current():
     data = json.load(f)
     f.close()
 
+    f = open("data/seasons/1985/players/grades.json", 'r')
+    data = json.load(f)
+    f.close()
+
     r = []
 
     for player in data:
