@@ -95,13 +95,14 @@ def get_player_grades_current():
     data = json.load(f)
     f.close()
 
-    f = open("data/seasons/1985/players/grades.json", 'r')
-    data = json.load(f)
-    f.close()
+    teams = open(team_grades_path.format(date_string), 'r')
+    data = json.load(teams)
+    teams.close()
 
     r = []
 
     for player in data:
+        data[player]["team_standing_string"] = teams[data[player]["team"]]["standing"]
         j = data[player]
         r.append(j)
 
