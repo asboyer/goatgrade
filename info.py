@@ -113,7 +113,7 @@ archived_seasons = [
 current_season = {
     "name": "2024-2025",
     "start_day": "10-24-2024",
-    "end_day": "4-14-2025",
+    "end_day": "04-14-2025",
 }
 
 def get_season_months(start_day, end_day):
@@ -144,29 +144,10 @@ def add_months(sourcedate, months):
 
 def in_season():
     today = datetime.today()
-    current_year = today.year
-    current_month = today.month
-    current_day = today.day
+    start_date = datetime.strptime(current_season["start_day"], "%m-%d-%Y")
+    end_date = datetime.strptime(current_season["end_day"], "%m-%d-%Y")
 
-    early_season_months, late_season_moths = get_season_months(current_season["start_day"], current_season["end_day"])
-    nba_season_months = early_season_months + late_season_moths
-    season_year = int(current_season["name"].split("-")[1])
-
-    in_season = current_month in nba_season_months
-    in_early_season = current_month in early_season_months and current_year + 1 == season_year
-    in_late_season = current_month in late_season_moths and current_year == season_year
-
-    start_day = int(current_season["start_day"].split("-")[1])
-    start_month = int(current_season["start_day"].split("-")[0])
-    end_day = int(current_season["end_day"].split("-")[1])
-    end_month = int(current_season["end_day"].split("-")[0])
-
-    if in_early_season and (current_month == start_month and current_day < start_day):
-        return False
-    if in_late_season and (current_month == end_month and current_day > end_day):
-        return False
-
-    return in_season and (in_early_season or in_late_season)
+    return start_date <= today <= end_date
 
 # write a function that returns the percentage of the season that has passed
 def season_percentage():
@@ -194,7 +175,6 @@ def season_percentage():
         return 0
     if in_late_season and (current_month == end_month and current_day > end_day):
         return 1.0
-
 
     start_date = datetime(start_year, start_month, start_day)
 
