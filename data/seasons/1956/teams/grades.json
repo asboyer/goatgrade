@@ -1,6 +1,6 @@
 {
     "BOS": {
-        "Tm": "BOS",
+        "Team": "BOS",
         "RRK": "2",
         "Name": "Boston Celtics",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1956.png",
@@ -15,7 +15,7 @@
         "rank": 1
     },
     "FTW": {
-        "Tm": "FTW",
+        "Team": "FTW",
         "RRK": "3",
         "Name": "Fort Wayne Pistons",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/FTW-1956.png",
@@ -30,7 +30,7 @@
         "rank": 2
     },
     "MNL": {
-        "Tm": "MNL",
+        "Team": "MNL",
         "RRK": "6",
         "Name": "Minneapolis Lakers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MNL-1956.png",
@@ -45,7 +45,7 @@
         "rank": 3
     },
     "ROC": {
-        "Tm": "ROC",
+        "Team": "ROC",
         "RRK": "8",
         "Name": "Rochester Royals",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ROC-1956.png",
@@ -60,7 +60,7 @@
         "rank": 4
     },
     "SYR": {
-        "Tm": "SYR",
+        "Team": "SYR",
         "RRK": "5",
         "Name": "Syracuse Nationals",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1956.png",
@@ -75,7 +75,7 @@
         "rank": 5
     },
     "NYK": {
-        "Tm": "NYK",
+        "Team": "NYK",
         "RRK": "4",
         "Name": "New York Knicks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1956.png",
@@ -90,7 +90,7 @@
         "rank": 6
     },
     "PHW": {
-        "Tm": "PHW",
+        "Team": "PHW",
         "RRK": "1",
         "Name": "Philadelphia Warriors",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1956.png",
@@ -105,7 +105,7 @@
         "rank": 7
     },
     "STL": {
-        "Tm": "STL",
+        "Team": "STL",
         "RRK": "7",
         "Name": "St. Louis Hawks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1956.png",

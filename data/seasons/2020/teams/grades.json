@@ -1,6 +1,6 @@
 {
     "MIL": {
-        "Tm": "MIL",
+        "Team": "MIL",
         "RRK": "1",
         "Name": "Milwaukee Bucks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2020.png",
@@ -15,7 +15,7 @@
         "rank": 1
     },
     "TOR": {
-        "Tm": "TOR",
+        "Team": "TOR",
         "RRK": "2",
         "Name": "Toronto Raptors",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/TOR-2020.png",
@@ -30,7 +30,7 @@
         "rank": 2
     },
     "BOS": {
-        "Tm": "BOS",
+        "Team": "BOS",
         "RRK": "5",
         "Name": "Boston Celtics",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2020.png",
@@ -45,7 +45,7 @@
         "rank": 3
     },
     "LAC": {
-        "Tm": "LAC",
+        "Team": "LAC",
         "RRK": "4",
         "Name": "Los Angeles Clippers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAC-2020.png",
@@ -60,7 +60,7 @@
         "rank": 4
     },
     "LAL": {
-        "Tm": "LAL",
+        "Team": "LAL",
         "RRK": "3",
         "Name": "Los Angeles Lakers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2020.png",
@@ -75,7 +75,7 @@
         "rank": 5
     },
     "DEN": {
-        "Tm": "DEN",
+        "Team": "DEN",
         "RRK": "6",
         "Name": "Denver Nuggets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2020.png",
@@ -90,7 +90,7 @@
         "rank": 6
     },
     "IND": {
-        "Tm": "IND",
+        "Team": "IND",
         "RRK": "7",
         "Name": "Indiana Pacers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2020.png",
@@ -105,7 +105,7 @@
         "rank": 7
     },
     "HOU": {
-        "Tm": "HOU",
+        "Team": "HOU",
         "RRK": "8",
         "Name": "Houston Rockets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2020.png",
@@ -120,7 +120,7 @@
         "rank": 8
     },
     "MIA": {
-        "Tm": "MIA",
+        "Team": "MIA",
         "RRK": "9",
         "Name": "Miami Heat",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2020.png",
@@ -135,7 +135,7 @@
         "rank": 9
     },
     "OKC": {
-        "Tm": "OKC",
+        "Team": "OKC",
         "RRK": "10",
         "Name": "Oklahoma City Thunder",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/OKC-2020.png",
@@ -150,7 +150,7 @@
         "rank": 10
     },
     "UTA": {
-        "Tm": "UTA",
+        "Team": "UTA",
         "RRK": "11",
         "Name": "Utah Jazz",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2020.png",
@@ -165,7 +165,7 @@
         "rank": 11
     },
     "DAL": {
-        "Tm": "DAL",
+        "Team": "DAL",
         "RRK": "12",
         "Name": "Dallas Mavericks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2020.png",
@@ -180,7 +180,7 @@
         "rank": 12
     },
     "PHI": {
-        "Tm": "PHI",
+        "Team": "PHI",
         "RRK": "13",
         "Name": "Philadelphia 76ers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-2020.png",
@@ -195,7 +195,7 @@
         "rank": 13
     },
     "BRK": {
-        "Tm": "BRK",
+        "Team": "BRK",
         "RRK": "14",
         "Name": "Brooklyn Nets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2020.png",
@@ -210,7 +210,7 @@
         "rank": 14
     },
     "PHO": {
-        "Tm": "PHO",
+        "Team": "PHO",
         "RRK": "17",
         "Name": "Phoenix Suns",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-2020.png",
@@ -225,7 +225,7 @@
         "rank": 15
     },
     "POR": {
-        "Tm": "POR",
+        "Team": "POR",
         "RRK": "15",
         "Name": "Portland Trail Blazers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2020.png",
@@ -240,7 +240,7 @@
         "rank": 16
     },
     "MEM": {
-        "Tm": "MEM",
+        "Team": "MEM",
         "RRK": "16",
         "Name": "Memphis Grizzlies",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2020.png",
@@ -255,7 +255,7 @@
         "rank": 17
     },
     "SAS": {
-        "Tm": "SAS",
+        "Team": "SAS",
         "RRK": "19",
         "Name": "San Antonio Spurs",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2020.png",
@@ -270,7 +270,7 @@
         "rank": 18
     },
     "ORL": {
-        "Tm": "ORL",
+        "Team": "ORL",
         "RRK": "18",
         "Name": "Orlando Magic",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2020.png",
@@ -285,7 +285,7 @@
         "rank": 19
     },
     "SAC": {
-        "Tm": "SAC",
+        "Team": "SAC",
         "RRK": "20",
         "Name": "Sacramento Kings",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2020.png",
@@ -300,7 +300,7 @@
         "rank": 20
     },
     "NOP": {
-        "Tm": "NOP",
+        "Team": "NOP",
         "RRK": "21",
         "Name": "New Orleans Pelicans",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2020.png",
@@ -315,7 +315,7 @@
         "rank": 21
     },
     "WAS": {
-        "Tm": "WAS",
+        "Team": "WAS",
         "RRK": "22",
         "Name": "Washington Wizards",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2020.png",
@@ -330,7 +330,7 @@
         "rank": 22
     },
     "CHI": {
-        "Tm": "CHI",
+        "Team": "CHI",
         "RRK": "24",
         "Name": "Chicago Bulls",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2020.png",
@@ -345,7 +345,7 @@
         "rank": 23
     },
     "CHO": {
-        "Tm": "CHO",
+        "Team": "CHO",
         "RRK": "23",
         "Name": "Charlotte Hornets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2020.png",
@@ -360,7 +360,7 @@
         "rank": 24
     },
     "NYK": {
-        "Tm": "NYK",
+        "Team": "NYK",
         "RRK": "25",
         "Name": "New York Knicks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2020.png",
@@ -375,7 +375,7 @@
         "rank": 25
     },
     "DET": {
-        "Tm": "DET",
+        "Team": "DET",
         "RRK": "27",
         "Name": "Detroit Pistons",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2020.png",
@@ -390,7 +390,7 @@
         "rank": 26
     },
     "CLE": {
-        "Tm": "CLE",
+        "Team": "CLE",
         "RRK": "28",
         "Name": "Cleveland Cavaliers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2020.png",
@@ -405,7 +405,7 @@
         "rank": 27
     },
     "ATL": {
-        "Tm": "ATL",
+        "Team": "ATL",
         "RRK": "26",
         "Name": "Atlanta Hawks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2020.png",
@@ -420,7 +420,7 @@
         "rank": 28
     },
     "MIN": {
-        "Tm": "MIN",
+        "Team": "MIN",
         "RRK": "29",
         "Name": "Minnesota Timberwolves",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIN-2020.png",
@@ -435,7 +435,7 @@
         "rank": 29
     },
     "GSW": {
-        "Tm": "GSW",
+        "Team": "GSW",
         "RRK": "30",
         "Name": "Golden State Warriors",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2020.png",

@@ -2,39 +2,31 @@
     "DEN": {
         "info": {
             "record": "57-25",
-            "standing": "2nd in West in 2024 in West in West",
+            "standing": "Finished in West in 2024 in West in West",
             "coach": "Michael Malone (57-25)",
             "gm": "Calvin Booth",
             "preseason_odds": "+450"
         },
         "players": [
-            "Reggie Jackson",
             "Christian Braun",
-            "Michael Porter Jr.",
-            "Peyton Watson",
-            "Nikola Jokić",
             "Kentavious Caldwell-Pope",
-            "Aaron Gordon",
-            "Jamal Murray",
-            "Justin Holiday",
-            "Zeke Nnaji",
-            "Julian Strawther",
-            "DeAndre Jordan",
-            "Jalen Pickett",
             "Collin Gillespie",
+            "Aaron Gordon",
+            "Justin Holiday",
             "Jay Huff",
+            "Reggie Jackson",
+            "Nikola Jokić",
+            "DeAndre Jordan",
             "Braxton Key",
+            "Jamal Murray",
+            "Zeke Nnaji",
+            "Jalen Pickett",
+            "Michael Porter Jr.",
+            "Julian Strawther",
             "Hunter Tyson",
-            "Vlatko Čančar"
+            "Peyton Watson"
         ],
-        "injuries": [
-            {
-                "Player": "Vlatko Čančar",
-                "Team": "Denver Nuggets",
-                "Update": "Thu, Aug 17, 2023",
-                "Description": "Out (Knee) - The Nuggets announced that Cancar underwent surgery on his left knee and is out indefinitely."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -279,7 +271,7 @@
                 "Attendance": "6"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/DEN-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/DEN-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

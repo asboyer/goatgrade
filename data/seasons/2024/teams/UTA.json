@@ -2,30 +2,33 @@
     "UTA": {
         "info": {
             "record": "31-51",
-            "standing": "12th in West",
+            "standing": "Finished in West",
             "coach": "Will Hardy (31-51)",
             "gm": "Danny Ainge",
             "preseason_odds": "+25000"
         },
         "players": [
-            "Collin Sexton",
-            "Keyonte George",
+            "Ochai Agbaji",
+            "Darius Bazley",
+            "Jordan Clarkson",
             "John Collins",
             "Kris Dunn",
-            "Walker Kessler",
-            "Lauri Markkanen",
-            "Jordan Clarkson",
-            "Talen Horton-Tucker",
-            "Omer Yurtseven",
-            "Luka Šamanić",
+            "Simone Fontecchio",
+            "Keyonte George",
             "Taylor Hendricks",
-            "Brice Sensabaugh",
+            "Talen Horton-Tucker",
             "Johnny Juzang",
-            "Micah Potter",
+            "Walker Kessler",
             "Kira Lewis Jr.",
+            "Kenneth Lofton Jr.",
+            "Lauri Markkanen",
+            "Kelly Olynyk",
+            "Micah Potter",
             "Jason Preston",
-            "Darius Bazley",
-            "Kenneth Lofton Jr."
+            "Luka Šamanić",
+            "Brice Sensabaugh",
+            "Collin Sexton",
+            "Omer Yurtseven"
         ],
         "injuries": [],
         "team_stats": {
@@ -248,7 +251,7 @@
                 "FT/FGA": ".182",
                 "DRB%": "75.2",
                 "Arena": "Delta Center",
-                "Attendance": "728,240"
+                "Attendance": "746,446"
             },
             "Misc Lg Rank": {
                 "W": "23",
@@ -269,10 +272,10 @@
                 "FT/FGA": "8",
                 "DRB%": "21",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "14"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/UTA-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/UTA-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

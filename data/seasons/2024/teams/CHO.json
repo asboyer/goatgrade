@@ -2,45 +2,40 @@
     "CHO": {
         "info": {
             "record": "21-61",
-            "standing": "13th in East",
+            "standing": "Finished in East",
             "coach": "Steve Clifford (21-61)",
-            "gm": "Mitch Kupchak",
+            "gm": "Mitch Kupchak, Jeff Peterson",
             "preseason_odds": "+50000"
         },
         "players": [
-            "Brandon Miller",
-            "Miles Bridges",
-            "Nick Richards",
-            "JT Thor",
-            "Bryce McGowens",
-            "Nick Smith Jr.",
-            "Vasilije Micić",
-            "Grant Williams",
-            "Tre Mann",
-            "Dāvis Bertāns",
-            "Cody Martin",
-            "Leaky Black",
-            "LaMelo Ball",
-            "Mark Williams",
-            "Aleksej Pokusevski",
             "Amari Bailey",
+            "LaMelo Ball",
+            "Dāvis Bertāns",
+            "Leaky Black",
             "Marques Bolden",
-            "Seth Curry"
+            "James Bouknight",
+            "Miles Bridges",
+            "Seth Curry",
+            "Gordon Hayward",
+            "Théo Maledon",
+            "Tre Mann",
+            "Cody Martin",
+            "Bryce McGowens",
+            "Nathan Mensah",
+            "Vasilije Micić",
+            "Brandon Miller",
+            "Frank Ntilikina",
+            "Aleksej Pokusevski",
+            "Nick Richards",
+            "Terry Rozier",
+            "Ish Smith",
+            "Nick Smith Jr.",
+            "JT Thor",
+            "P.J. Washington",
+            "Grant Williams",
+            "Mark Williams"
         ],
-        "injuries": [
-            {
-                "Player": "LaMelo Ball",
-                "Team": "Charlotte Hornets",
-                "Update": "Wed, Mar 27, 2024",
-                "Description": "Out For Season (Ankle) - Ball hasn't played since Jan. 26 and will miss the remainder of the season as he continues rehab, per Senior lead NBA Insider Shams Charania."
-            },
-            {
-                "Player": "Mark Williams",
-                "Team": "Charlotte Hornets",
-                "Update": "Thu, Mar 14, 2024",
-                "Description": "Out (Back) - Williams hasn't played since Dec. 8 against Toronto and remains without a timetable to return."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -285,7 +280,7 @@
                 "Attendance": "30"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/CHO-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/CHO-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

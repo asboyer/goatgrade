@@ -2,29 +2,30 @@
     "GSW": {
         "info": {
             "record": "46-36",
-            "standing": "10th in West",
+            "standing": "Finished in West",
             "coach": "Steve Kerr (46-36)",
             "gm": "Mike Dunleavy",
             "preseason_odds": "+1200"
         },
         "players": [
-            "Klay Thompson",
             "Stephen Curry",
-            "Jonathan Kuminga",
-            "Brandin Podziemski",
-            "Kevon Looney",
-            "Andrew Wiggins",
-            "Trayce Jackson-Davis",
-            "Moses Moody",
-            "Dario Šarić",
-            "Chris Paul",
+            "Usman Garuba",
             "Draymond Green",
+            "Trayce Jackson-Davis",
+            "Cory Joseph",
+            "Jonathan Kuminga",
+            "Kevon Looney",
+            "Moses Moody",
+            "Chris Paul",
             "Gary Payton II",
-            "Lester Quinones",
-            "Gui Santos",
+            "Brandin Podziemski",
+            "Lester Quiñones",
             "Jerome Robinson",
+            "Gui Santos",
+            "Dario Šarić",
             "Pat Spencer",
-            "Usman Garuba"
+            "Klay Thompson",
+            "Andrew Wiggins"
         ],
         "injuries": [],
         "team_stats": {
@@ -268,10 +269,10 @@
                 "FT/FGA": "20",
                 "DRB%": "13",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "17"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/GSW-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/GSW-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

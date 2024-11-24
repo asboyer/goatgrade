@@ -2,38 +2,33 @@
     "MIN": {
         "info": {
             "record": "56-26",
-            "standing": "3rd in West in 2024 in West in West",
+            "standing": "Finished in West in 2024 in West in West in West",
             "coach": "Chris Finch (56-26)",
             "gm": "Tim Connelly",
             "preseason_odds": "+6600"
         },
         "players": [
             "Nickeil Alexander-Walker",
-            "Naz Reid",
-            "Anthony Edwards",
             "Kyle Anderson",
-            "Rudy Gobert",
+            "Troy Brown Jr.",
             "Mike Conley",
-            "Jaden McDaniels",
-            "Karl-Anthony Towns",
-            "Jordan McLaughlin",
-            "Josh Minott",
-            "Monte Morris",
+            "Anthony Edwards",
             "Luka Garza",
-            "Wendell Moore Jr.",
+            "Rudy Gobert",
+            "Justin Jackson",
+            "Jaden McDaniels",
+            "Jordan McLaughlin",
             "Leonard Miller",
+            "Shake Milton",
+            "Josh Minott",
+            "Wendell Moore Jr.",
+            "Monte Morris",
             "Daishen Nix",
-            "T.J. Warren",
-            "Jaylen Clark"
+            "Naz Reid",
+            "Karl-Anthony Towns",
+            "T.J. Warren"
         ],
-        "injuries": [
-            {
-                "Player": "Jaylen Clark",
-                "Team": "Minnesota Timberwolves",
-                "Update": "Mon, Mar 25, 2024",
-                "Description": "Out (Achilles) - Clark still remains out due to an achilles injury, and has no timetable for return."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -278,7 +273,7 @@
                 "Attendance": "20"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/MIN-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/MIN-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

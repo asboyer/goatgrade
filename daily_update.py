@@ -7,9 +7,10 @@ from datetime import datetime
 
 import info
 import tools
+import scrape_all_seasons
 import grade
 
-year = 2024
+year = int(info.current_season["name"].split("-")[1])
 
 write_file_path = "data/stat/league/{}.json"
 player_stats_path = "data/stat/players/stats/{}.json"
@@ -20,12 +21,31 @@ team_grades_path = "data/team/grades/{}.json"
 
 date_string = tools.date_to_str(datetime.today())
 
+def init_archive():
+    if not os.path.exists(f"data/archive/{year}"):
+        os.makedirs(f"data/archive/{year}")
+        os.makedirs(f"data/archive/{year}/stat")
+        os.makedirs(f"data/archive/{year}/stat/players")
+        os.makedirs(f"data/archive/{year}/stat/players/grades")
+        os.makedirs(f"data/archive/{year}/stat/players/stats")
+        os.makedirs(f"data/archive/{year}/stat/league")
+        os.makedirs(f"data/archive/{year}/team")
+        os.makedirs(f"data/archive/{year}/team/grades")
+        os.makedirs(f"data/archive/{year}/team/standings")
+        os.makedirs(f"data/archive/{year}/team/teams")
+    if not os.path.exists(f"data/archive/{year}/stat/players/results.json"):
+        with open(f"data/archive/{year}/results.json", "w+", encoding="utf8") as file:
+            file.write(json.dumps({}, ensure_ascii=False, indent=4))
+
 def update_teams():
     for team in info.teams:
         t = scrape.scrape_team(team, year)
         with open(f"data/team/teams/{team}.json", "w+", encoding="utf8") as file:
-            time.sleep(5)
+            time.sleep(2.5)
             print(team)
+            file.write(json.dumps(t, ensure_ascii=False, indent=4))
+        with open(f"data/archive/{year}/team/teams/{team}.json", "w+", encoding="utf8") as file:
+            time.sleep(2.5)
             file.write(json.dumps(t, ensure_ascii=False, indent=4))
 
 def update_players():
@@ -33,9 +53,17 @@ def update_players():
     with open(f"data/stat/players/stats/{date_string}.json", "w+", encoding="utf8") as file:
         file.write(json.dumps(t, ensure_ascii=False, indent=4))
 
+    init_archive()
+
+    with open(f"data/archive/{year}/stat/players/stats/{date_string}.json", "w+", encoding="utf8") as file:
+        file.write(json.dumps(t, ensure_ascii=False, indent=4))
+
 def update_standings():
     t = scrape.scrape_standings(year)
     with open(f"data/team/standings/{date_string}.json", "w+", encoding="utf8") as file:
+        file.write(json.dumps(t, ensure_ascii=False, indent=4))
+
+    with open(f"data/archive/{year}/team/standings/{date_string}.json", "w+", encoding="utf8") as file:
         file.write(json.dumps(t, ensure_ascii=False, indent=4))
 
 def update_internal_info():
@@ -66,25 +94,61 @@ def update_internal_info():
     f.close()
 
     for player in players:
-        if isinstance(players[player]["Tm"], list):
-            team = players[player]["Tm"][-1]
+        if isinstance(players[player]["Team"], list):
+            team = players[player]["Team"][-1]
         else:
-            team = players[player]["Tm"]
+            team = players[player]["Team"]
         data[team]["roster"].append(player)
 
     with open(f"data/stat/league/{date_string}.json", "w+", encoding="utf8") as file:
+        file.write(json.dumps(data, ensure_ascii=False, indent=4))
+    
+    with open(f"data/archive/{year}/stat/league/{date_string}.json", "w+", encoding="utf8") as file:
         file.write(json.dumps(data, ensure_ascii=False, indent=4))
 
 def update_grades_players():
     ranks = grade.grade_players(year, date_string)
     with open(player_grades_path.format(date_string), "w+", encoding="utf8") as file:
         file.write(json.dumps(ranks, ensure_ascii=False, indent=4))
+    
+    with open(f"data/archive/{year}/stat/players/grades/{date_string}.json", "w+", encoding="utf8") as file:
+        file.write(json.dumps(ranks, ensure_ascii=False, indent=4))
 
 def update_grades_teams():
     ranks = grade.grade_team(year, date_string)
     with open(team_grades_path.format(date_string), "w+", encoding="utf8") as file:
         file.write(json.dumps(ranks, ensure_ascii=False, indent=4))
+    
+    with open(f"data/archive/{year}/team/grades/{date_string}.json", "w+", encoding="utf8") as file:
+        file.write(json.dumps(ranks, ensure_ascii=False, indent=4))
 
+def update_upstream():
+    tools.dump(f"data/archive/{year}/results.json", grade.soft_archive(str(year)))
+    os.system("git add .")
+    os.system("git commit -m 'daily update'")
+    os.system("git push")
+
+def clean_up():
+
+    scrape_all_seasons.grade_season(year)
+
+    grade.archive(str(year))
+    
+
+    for file in os.listdir("data/stat/league"):
+        os.remove(f"data/stat/league/{file}")
+
+    for file in os.listdir("data/stat/players/grades"):
+        os.remove(f"data/stat/players/grades/{file}")
+
+    for file in os.listdir("data/stat/players/stats"):
+        os.remove(f"data/stat/players/stats/{file}")
+
+    for file in os.listdir("data/team/standings"):
+        os.remove(f"data/team/standings/{file}")
+
+    for file in os.listdir("data/team/grades"):
+        os.remove(f"data/team/grades/{file}")
 
 if __name__ == "__main__":
 

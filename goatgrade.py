@@ -13,7 +13,11 @@ if info.in_season():
     # grades
     daily_update.update_grades_players()
     daily_update.update_grades_teams()
+
+    daily_update.update_upstream()
 else:
     print("Season is over!")
+    if info.season_percentage() == 1.0:
+        daily_update.clean_up()
 # if last day of season:
     # move all data to archive

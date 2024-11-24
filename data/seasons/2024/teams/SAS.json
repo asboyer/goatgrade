@@ -2,51 +2,34 @@
     "SAS": {
         "info": {
             "record": "22-60",
-            "standing": "14th in West",
+            "standing": "Finished in West",
             "coach": "Gregg Popovich (22-60)",
             "gm": "Brian Wright",
             "preseason_odds": "+15000"
         },
         "players": [
-            "Tre Jones",
-            "Malaki Branham",
-            "Jeremy Sochan",
-            "Julian Champagnie",
-            "Cedi Osman",
-            "Victor Wembanyama",
-            "Keldon Johnson",
-            "Zach Collins",
-            "Devin Vassell",
-            "Blake Wesley",
-            "Sandro Mamukelashvili",
             "Dominick Barlow",
-            "Devonte' Graham",
             "Charles Bassey",
+            "Jamaree Bouyea",
+            "Malaki Branham",
+            "Julian Champagnie",
             "Sidy Cissoko",
+            "Zach Collins",
+            "Mamadi Diakite",
             "David Duke Jr.",
+            "Devonte' Graham",
             "RaiQuan Gray",
-            "Jamaree Bouyea"
+            "Keldon Johnson",
+            "Tre Jones",
+            "Sandro Mamukelashvili",
+            "Doug McDermott",
+            "Cedi Osman",
+            "Jeremy Sochan",
+            "Devin Vassell",
+            "Victor Wembanyama",
+            "Blake Wesley"
         ],
-        "injuries": [
-            {
-                "Player": "Charles Bassey",
-                "Team": "San Antonio Spurs",
-                "Update": "Tue, Dec 12, 2023",
-                "Description": "Out For Season (Knee) - The San Antonio Spurs announced C Charles Bassey is out for the season with a torn ACL."
-            },
-            {
-                "Player": "Jeremy Sochan",
-                "Team": "San Antonio Spurs",
-                "Update": "Mon, Apr 1, 2024",
-                "Description": "Out For Season (Ankle) - Spurs announced Sochan is out for the rest of the season with an ankle injury."
-            },
-            {
-                "Player": "Devin Vassell",
-                "Team": "San Antonio Spurs",
-                "Update": "Mon, Apr 1, 2024",
-                "Description": "Out For Season (Foot) - Spurs announced Vassell is out for the rest of the season with a foot injury."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -288,10 +271,10 @@
                 "FT/FGA": "4",
                 "DRB%": "9",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "15"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/SAS-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/SAS-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

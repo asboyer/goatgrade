@@ -2,51 +2,31 @@
     "HOU": {
         "info": {
             "record": "41-41",
-            "standing": "11th in West",
+            "standing": "Finished in West",
             "coach": "Ime Udoka (41-41)",
             "gm": "Rafael Stone",
             "preseason_odds": "+25000"
         },
         "players": [
-            "Jalen Green",
-            "Aaron Holiday",
-            "Jeff Green",
-            "Jabari Smith Jr.",
-            "Fred VanVleet",
             "Dillon Brooks",
-            "Jae'Sean Tate",
-            "Alperen Sengun",
-            "Amen Thompson",
-            "Jock Landale",
-            "Cam Whitmore",
             "Reggie Bullock",
             "Tari Eason",
-            "Jeenathan Williams",
+            "Jalen Green",
+            "Jeff Green",
             "Nate Hinton",
+            "Aaron Holiday",
+            "Jock Landale",
             "Boban Marjanović",
             "Jermaine Samuels",
-            "Steven Adams"
+            "Alperen Sengun",
+            "Jabari Smith Jr.",
+            "Jae'Sean Tate",
+            "Amen Thompson",
+            "Fred VanVleet",
+            "Cam Whitmore",
+            "Jeenathan Williams"
         ],
-        "injuries": [
-            {
-                "Player": "Steven Adams",
-                "Team": "Houston Rockets",
-                "Update": "Tue, Oct 24, 2023",
-                "Description": "Out For Season (Knee) - The Grizzlies announced that Adams will undergo season-ending surgery on his right knee."
-            },
-            {
-                "Player": "Tari Eason",
-                "Team": "Houston Rockets",
-                "Update": "Sun, Mar 3, 2024",
-                "Description": "Out For Season (Leg) - Rockets coach Ime Udoka announced that Eason will undergo season-ending surgery."
-            },
-            {
-                "Player": "Alperen Sengun",
-                "Team": "Houston Rockets",
-                "Update": "Tue, Mar 12, 2024",
-                "Description": "Out For Season (Ankle) - Sengun has been diagnosed with a Grade 3 sprain and will likely miss the rest of the season. via Shams Charania"
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -291,7 +271,7 @@
                 "Attendance": "22"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/HOU-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/HOU-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

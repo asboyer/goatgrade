@@ -2,57 +2,40 @@
     "NYK": {
         "info": {
             "record": "50-32",
-            "standing": "2nd in East in 2024 in East in East",
+            "standing": "Finished in East in 2024 in East in East",
             "coach": "Tom Thibodeau (50-32)",
             "gm": "Leon Rose",
             "preseason_odds": "+5000"
         },
         "players": [
-            "Donte DiVincenzo",
-            "Josh Hart",
-            "Jalen Brunson",
-            "Isaiah Hartenstein",
-            "Miles McBride",
             "Precious Achiuwa",
-            "Julius Randle",
-            "Jericho Sims",
-            "Mitchell Robinson",
-            "Bojan Bogdanović",
             "OG Anunoby",
-            "Alec Burks",
-            "DaQuan Jeffries",
-            "Jacob Toppin",
+            "Ryan Arcidiacono",
+            "RJ Barrett",
+            "Bojan Bogdanović",
             "Charlie Brown Jr.",
-            "Shake Milton",
+            "Jalen Brunson",
+            "Alec Burks",
             "Mamadi Diakite",
-            "Duane Washington Jr."
+            "Donte DiVincenzo",
+            "Malachi Flynn",
+            "Evan Fournier",
+            "Taj Gibson",
+            "Quentin Grimes",
+            "Josh Hart",
+            "Isaiah Hartenstein",
+            "DaQuan Jeffries",
+            "Miles McBride",
+            "Shake Milton",
+            "Immanuel Quickley",
+            "Julius Randle",
+            "Mitchell Robinson",
+            "Jericho Sims",
+            "Dmytro Skapintsev",
+            "Jacob Toppin",
+            "Dylan Windler"
         ],
-        "injuries": [
-            {
-                "Player": "OG Anunoby",
-                "Team": "New York Knicks",
-                "Update": "Thu, May 16, 2024",
-                "Description": "Out (Hamstring) - Anunoby is OUT for Friday's (May 17) game against Indiana."
-            },
-            {
-                "Player": "Bojan Bogdanović",
-                "Team": "New York Knicks",
-                "Update": "Tue, Apr 30, 2024",
-                "Description": "Out For Season (Foot) - Bogdanovic will undergo surgery on his left foot and will be re-evaluated in three months."
-            },
-            {
-                "Player": "Julius Randle",
-                "Team": "New York Knicks",
-                "Update": "Thu, Apr 4, 2024",
-                "Description": "Out For Season (Shoulder) - The Knicks announced that Randle will undergo surgery on his right shoulder and will be re-evaluated in five months."
-            },
-            {
-                "Player": "Mitchell Robinson",
-                "Team": "New York Knicks",
-                "Update": "Tue, May 7, 2024",
-                "Description": "Out (Ankle) - Robinson has been diagnosed with a stress injury in his left ankle and will be re-evaluated in six to eight weeks."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -297,7 +280,7 @@
                 "Attendance": "5"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/NYK-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/NYK-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

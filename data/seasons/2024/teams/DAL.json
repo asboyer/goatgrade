@@ -2,51 +2,36 @@
     "DAL": {
         "info": {
             "record": "50-32",
-            "standing": "5th in West in 2024 in West in West",
+            "standing": "Finished in West in 2024 in West in West in West in Finals",
             "coach": "Jason Kidd (50-32)",
             "gm": "Nico Harrison",
             "preseason_odds": "+2500"
         },
         "players": [
-            "Tim Hardaway Jr.",
-            "Derrick Jones Jr.",
-            "Jaden Hardy",
+            "Greg Brown III",
+            "Seth Curry",
+            "Dexter Dennis",
             "Luka Dončić",
-            "Dwight Powell",
-            "Kyrie Irving",
-            "Josh Green",
-            "Dereck Lively II",
             "Dante Exum",
+            "Alex Fudge",
+            "Daniel Gafford",
+            "Josh Green",
+            "Tim Hardaway Jr.",
+            "Jaden Hardy",
+            "Richaun Holmes",
+            "Kyrie Irving",
+            "Derrick Jones Jr.",
             "Maxi Kleber",
             "A.J. Lawson",
+            "Dereck Lively II",
+            "Markieff Morris",
+            "Dwight Powell",
             "Olivier-Maxence Prosper",
             "P.J. Washington",
-            "Daniel Gafford",
-            "Markieff Morris",
             "Brandon Williams",
-            "Greg Brown III",
-            "Alex Fudge"
+            "Grant Williams"
         ],
-        "injuries": [
-            {
-                "Player": "Luka Dončić",
-                "Team": "Dallas Mavericks",
-                "Update": "Fri, May 17, 2024",
-                "Description": "Day To Day (Knee) - Doncic is probable for Saturday's (May 18) game against Oklahoma City."
-            },
-            {
-                "Player": "Maxi Kleber",
-                "Team": "Dallas Mavericks",
-                "Update": "Mon, May 6, 2024",
-                "Description": "Out (Shoulder) - Kleber suffered an AC joint separation in his right shoulder and will be re-evaluated in three weeks."
-            },
-            {
-                "Player": "Olivier-Maxence Prosper",
-                "Team": "Dallas Mavericks",
-                "Update": "Fri, May 17, 2024",
-                "Description": "Out (Ankle) - Prosper is out for Saturday's (May 18) game against Oklahoma City."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -291,7 +276,7 @@
                 "Attendance": "2"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/DAL-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/DAL-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

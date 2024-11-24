@@ -2,57 +2,45 @@
     "DET": {
         "info": {
             "record": "14-68",
-            "standing": "15th in East",
+            "standing": "Finished in East",
             "coach": "Monty Williams (14-68)",
             "gm": "Troy Weaver",
             "preseason_odds": "+50000"
         },
         "players": [
-            "Jaden Ivey",
-            "Marcus Sasser",
-            "Ausar Thompson",
-            "James Wiseman",
+            "Marvin Bagley III",
+            "Buddy Boeheim",
+            "Bojan Bogdanović",
+            "Troy Brown Jr.",
+            "Alec Burks",
+            "Malcolm Cazalon",
             "Cade Cunningham",
             "Jalen Duren",
-            "Isaiah Stewart",
-            "Evan Fournier",
-            "Malachi Flynn",
-            "Stanley Umude",
-            "Troy Brown Jr.",
-            "Jared Rhoden",
-            "Simone Fontecchio",
-            "Chimezie Metu",
             "Tosan Evbuomwan",
-            "Buddy Boeheim",
+            "Malachi Flynn",
+            "Simone Fontecchio",
+            "Evan Fournier",
+            "Danilo Gallinari",
+            "Taj Gibson",
             "Quentin Grimes",
-            "Taj Gibson"
+            "Joe Harris",
+            "Killian Hayes",
+            "Jaden Ivey",
+            "Kevin Knox",
+            "Isaiah Livers",
+            "Chimezie Metu",
+            "Shake Milton",
+            "Monte Morris",
+            "Mike Muscala",
+            "Jaylen Nowell",
+            "Jared Rhoden",
+            "Marcus Sasser",
+            "Isaiah Stewart",
+            "Ausar Thompson",
+            "Stanley Umude",
+            "James Wiseman"
         ],
-        "injuries": [
-            {
-                "Player": "Quentin Grimes",
-                "Team": "Detroit Pistons",
-                "Update": "Fri, Mar 29, 2024",
-                "Description": "Out For Season (Knee) - Grimes will miss the rest of the season to rehab lingering muscle soreness related to his knee injury, according to Shams Charani."
-            },
-            {
-                "Player": "Isaiah Stewart",
-                "Team": "Detroit Pistons",
-                "Update": "Wed, Mar 20, 2024",
-                "Description": "Out For Season (Hamstring) - The Pistons announced that Stewart will miss the rest of the season with a right hamstring strain."
-            },
-            {
-                "Player": "Ausar Thompson",
-                "Team": "Detroit Pistons",
-                "Update": "Wed, Mar 20, 2024",
-                "Description": "Out For Season (Illness) - The Pistons announced that Thompson will miss the rest of the season while being treated for a blood clot."
-            },
-            {
-                "Player": "Stanley Umude",
-                "Team": "Detroit Pistons",
-                "Update": "Fri, Mar 22, 2024",
-                "Description": "Out For Season (Ankle) - Umude is expected to miss the rest of the season with a hairline fracture to the right ankle."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -297,7 +285,7 @@
                 "Attendance": "19"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/DET-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/DET-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

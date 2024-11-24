@@ -2,38 +2,38 @@
     "WAS": {
         "info": {
             "record": "15-67",
-            "standing": "14th in East",
+            "standing": "Finished in East",
             "coach": "Wes Unseld (7-36), Brian Keefe (8-31)",
             "gm": "Michael Winger",
             "preseason_odds": "+50000"
         },
         "players": [
-            "Corey Kispert",
-            "Jordan Poole",
             "Deni Avdija",
-            "Kyle Kuzma",
-            "Tyus Jones",
-            "Bilal Coulibaly",
-            "Anthony Gill",
-            "Johnny Davis",
-            "Landry Shamet",
-            "Eugene Omoruyi",
-            "Jared Butler",
-            "Patrick Baldwin Jr.",
             "Marvin Bagley III",
+            "Patrick Baldwin Jr.",
             "Jules Bernard",
-            "Richaun Holmes",
+            "Jared Butler",
             "Justin Champagnie",
-            "Tristan Vukcevic"
+            "Bilal Coulibaly",
+            "Johnny Davis",
+            "Hamidou Diallo",
+            "Daniel Gafford",
+            "Danilo Gallinari",
+            "Anthony Gill",
+            "Richaun Holmes",
+            "Trey Jemison",
+            "Tyus Jones",
+            "Corey Kispert",
+            "Kyle Kuzma",
+            "Mike Muscala",
+            "Eugene Omoruyi",
+            "Jordan Poole",
+            "Ryan Rollins",
+            "Landry Shamet",
+            "Tristan Vukcevic",
+            "Delon Wright"
         ],
-        "injuries": [
-            {
-                "Player": "Bilal Coulibaly",
-                "Team": "Washington Wizards",
-                "Update": "Mon, Mar 18, 2024",
-                "Description": "Out For Season (Wrist) - Wizard announced Coulibaly will miss the remainder of the regular season after being diagnosed with a right wrist fracture."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -278,7 +278,7 @@
                 "Attendance": "26"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/WAS-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/WAS-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

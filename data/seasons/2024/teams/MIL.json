@@ -2,39 +2,35 @@
     "MIL": {
         "info": {
             "record": "49-33",
-            "standing": "3rd in East in 2024 in East",
+            "standing": "Finished in East in 2024 in East",
             "coach": "Adrian Griffin (30-13), Joe Prunty (2-1), Doc Rivers (17-19)",
             "gm": "Jon Horst",
             "preseason_odds": "+600"
         },
         "players": [
-            "Bobby Portis",
-            "Brook Lopez",
-            "Malik Beasley",
-            "Pat Connaughton",
             "Giannis Antetokounmpo",
-            "Damian Lillard",
-            "Andre Jackson Jr.",
-            "A.J. Green",
-            "Khris Middleton",
-            "Jae Crowder",
-            "MarJon Beauchamp",
             "Thanasis Antetokounmpo",
+            "Malik Beasley",
+            "MarJon Beauchamp",
             "Patrick Beverley",
-            "Chris Livingston",
+            "Marques Bolden",
+            "Pat Connaughton",
+            "Jae Crowder",
             "Danilo Gallinari",
-            "TyTy Washington Jr.",
+            "A.J. Green",
+            "Andre Jackson Jr.",
+            "Damian Lillard",
+            "Chris Livingston",
+            "Brook Lopez",
+            "Robin Lopez",
+            "Khris Middleton",
+            "Cameron Payne",
+            "Bobby Portis",
             "Ryan Rollins",
-            "Jaylin Galloway"
+            "TyTy Washington Jr.",
+            "Lindell Wigginton"
         ],
-        "injuries": [
-            {
-                "Player": "Thanasis Antetokounmpo",
-                "Team": "Milwaukee Bucks",
-                "Update": "Wed, May 8, 2024",
-                "Description": "Out (Achilles) - Antetokounmpo will undergo surgery for a torn achilles tendon according to Shams Charania of The Athletic."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -276,10 +272,10 @@
                 "FT/FGA": "13",
                 "DRB%": "5",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "16"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/MIL-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/MIL-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

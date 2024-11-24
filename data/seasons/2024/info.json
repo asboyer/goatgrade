@@ -1,8 +1,11 @@
 {
     "awards": [
-        null,
         [
-            "Nikola Jokić",
+            "Boston Celtics",
+            "/teams/BOS/2024.html"
+        ],
+        [
+            "Nikola JokiÄ",
             "/players/j/jokicni01.html"
         ],
         [
@@ -13,8 +16,71 @@
         ]
     ],
     "all_nba": {
-        "1st Team": [],
-        "2st Team": [],
-        "3st Team": []
+        "1st Team": [
+            [
+                "Giannis Antetokounmpo",
+                "/players/a/antetgi01.html"
+            ],
+            [
+                "Luka DonÄiÄ",
+                "/players/d/doncilu01.html"
+            ],
+            [
+                "Shai Gilgeous-Alexander",
+                "/players/g/gilgesh01.html"
+            ],
+            [
+                "Nikola JokiÄ",
+                "/players/j/jokicni01.html"
+            ],
+            [
+                "Jayson Tatum",
+                "/players/t/tatumja01.html"
+            ]
+        ],
+        "2st Team": [
+            [
+                "Jalen Brunson",
+                "/players/b/brunsja01.html"
+            ],
+            [
+                "Anthony Davis",
+                "/players/d/davisan02.html"
+            ],
+            [
+                "Kevin Durant",
+                "/players/d/duranke01.html"
+            ],
+            [
+                "Anthony Edwards",
+                "/players/e/edwaran01.html"
+            ],
+            [
+                "Kawhi Leonard",
+                "/players/l/leonaka01.html"
+            ]
+        ],
+        "3st Team": [
+            [
+                "Devin Booker",
+                "/players/b/bookede01.html"
+            ],
+            [
+                "Stephen Curry",
+                "/players/c/curryst01.html"
+            ],
+            [
+                "Tyrese Haliburton",
+                "/players/h/halibty01.html"
+            ],
+            [
+                "LeBron James",
+                "/players/j/jamesle01.html"
+            ],
+            [
+                "Domantas Sabonis",
+                "/players/s/sabondo01.html"
+            ]
+        ]
     }
 }

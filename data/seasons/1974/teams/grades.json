@@ -1,6 +1,6 @@
 {
     "MIL": {
-        "Tm": "MIL",
+        "Team": "MIL",
         "RRK": "1",
         "Name": "Milwaukee Bucks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1974.png",
@@ -15,7 +15,7 @@
         "rank": 1
     },
     "BOS": {
-        "Tm": "BOS",
+        "Team": "BOS",
         "RRK": "2",
         "Name": "Boston Celtics",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1974.png",
@@ -30,7 +30,7 @@
         "rank": 2
     },
     "CHI": {
-        "Tm": "CHI",
+        "Team": "CHI",
         "RRK": "3",
         "Name": "Chicago Bulls",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1974.png",
@@ -45,7 +45,7 @@
         "rank": 3
     },
     "NYK": {
-        "Tm": "NYK",
+        "Team": "NYK",
         "RRK": "5",
         "Name": "New York Knicks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1974.png",
@@ -60,7 +60,7 @@
         "rank": 4
     },
     "DET": {
-        "Tm": "DET",
+        "Team": "DET",
         "RRK": "4",
         "Name": "Detroit Pistons",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1974.png",
@@ -75,7 +75,7 @@
         "rank": 5
     },
     "LAL": {
-        "Tm": "LAL",
+        "Team": "LAL",
         "RRK": "7",
         "Name": "Los Angeles Lakers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1974.png",
@@ -90,7 +90,7 @@
         "rank": 6
     },
     "GSW": {
-        "Tm": "GSW",
+        "Team": "GSW",
         "RRK": "8",
         "Name": "Golden State Warriors",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-1974.png",
@@ -105,7 +105,7 @@
         "rank": 7
     },
     "CAP": {
-        "Tm": "CAP",
+        "Team": "CAP",
         "RRK": "6",
         "Name": "Capital Bullets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CAP-1974.png",
@@ -120,7 +120,7 @@
         "rank": 8
     },
     "BUF": {
-        "Tm": "BUF",
+        "Team": "BUF",
         "RRK": "9",
         "Name": "Buffalo Braves",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1974.png",
@@ -135,7 +135,7 @@
         "rank": 9
     },
     "SEA": {
-        "Tm": "SEA",
+        "Team": "SEA",
         "RRK": "10",
         "Name": "Seattle SuperSonics",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1974.png",
@@ -150,7 +150,7 @@
         "rank": 10
     },
     "ATL": {
-        "Tm": "ATL",
+        "Team": "ATL",
         "RRK": "11",
         "Name": "Atlanta Hawks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1974.png",
@@ -165,7 +165,7 @@
         "rank": 11
     },
     "HOU": {
-        "Tm": "HOU",
+        "Team": "HOU",
         "RRK": "13",
         "Name": "Houston Rockets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-1974.png",
@@ -180,7 +180,7 @@
         "rank": 12
     },
     "KCO": {
-        "Tm": "KCO",
+        "Team": "KCO",
         "RRK": "12",
         "Name": "Kansas City-Omaha Kings",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/KCO-1974.png",
@@ -195,7 +195,7 @@
         "rank": 13
     },
     "PHO": {
-        "Tm": "PHO",
+        "Team": "PHO",
         "RRK": "14",
         "Name": "Phoenix Suns",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1974.png",
@@ -210,7 +210,7 @@
         "rank": 14
     },
     "POR": {
-        "Tm": "POR",
+        "Team": "POR",
         "RRK": "16",
         "Name": "Portland Trail Blazers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-1974.png",
@@ -225,7 +225,7 @@
         "rank": 15
     },
     "CLE": {
-        "Tm": "CLE",
+        "Team": "CLE",
         "RRK": "15",
         "Name": "Cleveland Cavaliers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1974.png",
@@ -240,7 +240,7 @@
         "rank": 16
     },
     "PHI": {
-        "Tm": "PHI",
+        "Team": "PHI",
         "RRK": "17",
         "Name": "Philadelphia 76ers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1974.png",

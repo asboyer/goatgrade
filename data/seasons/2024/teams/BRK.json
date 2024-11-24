@@ -2,51 +2,35 @@
     "BRK": {
         "info": {
             "record": "32-50",
-            "standing": "11th in East",
+            "standing": "Finished in East",
             "coach": "Jacque Vaughn (21-33), Kevin Ollie (11-17)",
             "gm": "Sean Marks",
             "preseason_odds": "+12500"
         },
         "players": [
-            "Mikal Bridges",
-            "Nic Claxton",
-            "Dorian Finney-Smith",
-            "Cam Thomas",
-            "Trendon Watford",
-            "Day'Ron Sharpe",
-            "Cameron Johnson",
-            "Lonnie Walker IV",
-            "Dennis Smith Jr.",
-            "Jalen Wilson",
-            "Dennis Schröder",
-            "Noah Clowney",
-            "Ben Simmons",
             "Keita Bates-Diop",
-            "Keon Johnson",
+            "Mikal Bridges",
+            "Armoni Brooks",
+            "Nic Claxton",
+            "Noah Clowney",
+            "Spencer Dinwiddie",
+            "Dorian Finney-Smith",
+            "Harry Giles",
             "Jacob Gilyard",
+            "Cameron Johnson",
+            "Keon Johnson",
             "Dariq Whitehead",
-            "Jaylen Martin"
+            "Royce O'Neale",
+            "Dennis Schröder",
+            "Day'Ron Sharpe",
+            "Ben Simmons",
+            "Dennis Smith Jr.",
+            "Cam Thomas",
+            "Lonnie Walker IV",
+            "Trendon Watford",
+            "Jalen Wilson"
         ],
-        "injuries": [
-            {
-                "Player": "Keita Bates-Diop",
-                "Team": "Brooklyn Nets",
-                "Update": "Wed, Mar 27, 2024",
-                "Description": "Out For Season (Shin) - The Nets announced Bates-Diop will miss the remainder of the season after under going a procedure to address a stress fracture."
-            },
-            {
-                "Player": "Dariq Whitehead",
-                "Team": "Brooklyn Nets",
-                "Update": "Sat, Jan 27, 2024",
-                "Description": "Out For Season (Shin) - Nets coach Jacque Vaughn said Whitehead will undergo season-ending surgery."
-            },
-            {
-                "Player": "Ben Simmons",
-                "Team": "Brooklyn Nets",
-                "Update": "Thu, Mar 7, 2024",
-                "Description": "Out For Season (Back) - The Nets announced that Simmons will miss the rest of the season with a nerve impingement in his lower back."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -291,7 +275,7 @@
                 "Attendance": "21"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/BRK-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/BRK-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

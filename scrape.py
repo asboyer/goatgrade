@@ -30,19 +30,19 @@ def scrape_stats(year):
 
     for player in list(reg_stats):
         reg_stats[player].update(adv_stats[player])
-    
+        min_played = 10 * info.season_percentage()
         try:
-            if float(reg_stats[player]["G"]) < 10 or float(reg_stats[player]["MP"]) < 10:
+            if float(reg_stats[player]["G"]) < min_played or float(reg_stats[player]["MP"]) < min_played:
                 del reg_stats[player]
         except:
-            if float(reg_stats[player]["G"]) < 10:
+            if float(reg_stats[player]["G"]) < min_played:
                 del reg_stats[player]
 
     return clean(reg_stats)
 
 def clean(stats):
     for player in list(stats):
-        del stats[player]['\xa0']
+        # del stats[player]['\xa0']
         stats[player]["last_update"] = today.strftime("%b %d %Y %H:%M:%S")
     return stats
 
@@ -267,15 +267,17 @@ def scrape(url):
             name = name_cell.getText()
             link = name_cell.find('a')['href'] if name_cell.find('a') else None
             player_id = f"https://www.basketball-reference.com{link}".split("/")[-1].split(".html")[0]
+            if "basketball-reference" in player_id:
+                continue
             try:
                 if stats[player_id] != {}:
                     h = 0
                     for td in tds:
                         header = headers[h]
-                        if header == "Tm":
+                        if header == "Team":
                             team = td.getText()
                         h += 1
-                    stats[player_id]["Tm"].append(team)
+                    stats[player_id]["Team"].append(team)
             except:
                 stats[player_id] = {}
                 stats[player_id]["link"] = f"https://www.basketball-reference.com{link}"
@@ -288,8 +290,8 @@ def scrape(url):
                         header = "TMP"
                     stats[player_id][header] = td.getText()
                     h += 1
-                if stats[player_id]["Tm"] == "TOT":
-                    stats[player_id]["Tm"] = []
+                if stats[player_id]["Team"] == "TOT":
+                    stats[player_id]["Team"] = []
     
     return stats
 
@@ -342,5 +344,5 @@ def scrape_all_nba_teams(year):
     return all_nba_teams
 
 if __name__ == "__main__":
-    print(scrape_champion_mvp(1995))
-    print(scrape_all_nba_teams(2021))
+    print(scrape_champion_mvp(2024))
+    # print(scrape_all_nba_teams(2021))

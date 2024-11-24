@@ -2,38 +2,33 @@
     "BOS": {
         "info": {
             "record": "64-18",
-            "standing": "1st in East in 2024 in East in East",
+            "standing": "Finished in East in 2024 in East in East in East in Finals",
             "coach": "Joe Mazzulla (64-18)",
             "gm": "Brad Stevens",
             "preseason_odds": "+450"
         },
         "players": [
-            "Payton Pritchard",
-            "Sam Hauser",
-            "Jayson Tatum",
-            "Derrick White",
+            "Dalano Banton",
+            "Oshae Brissett",
             "Jaylen Brown",
+            "JD Davison",
+            "Sam Hauser",
             "Jrue Holiday",
             "Al Horford",
             "Luke Kornet",
-            "Kristaps Porziņģis",
-            "Oshae Brissett",
             "Svi Mykhailiuk",
+            "Drew Peterson",
+            "Kristaps Porziņģis",
+            "Payton Pritchard",
             "Neemias Queta",
-            "Xavier Tillman Sr.",
             "Jaden Springer",
+            "Lamar Stevens",
+            "Jayson Tatum",
+            "Xavier Tillman Sr.",
             "Jordan Walsh",
-            "JD Davison",
-            "Drew Peterson"
+            "Derrick White"
         ],
-        "injuries": [
-            {
-                "Player": "Kristaps Porziņģis",
-                "Team": "Boston Celtics",
-                "Update": "Thu, May 16, 2024",
-                "Description": "Day To Day (Soleus) - Porzingis did not play in Wednesday's (May. 15) game against Cleveland."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -254,7 +249,7 @@
                 "FT/FGA": ".145",
                 "DRB%": "76.3",
                 "Arena": "TD Garden",
-                "Attendance": "766,240"
+                "Attendance": "785,396"
             },
             "Misc Lg Rank": {
                 "W": "1",
@@ -275,10 +270,10 @@
                 "FT/FGA": "1",
                 "DRB%": "11",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "10"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/BOS-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/BOS-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }
