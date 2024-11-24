@@ -42,7 +42,7 @@ def scrape_stats(year):
 
 def clean(stats):
     for player in list(stats):
-        del stats[player]['\xa0']
+        # del stats[player]['\xa0']
         stats[player]["last_update"] = today.strftime("%b %d %Y %H:%M:%S")
     return stats
 
@@ -267,15 +267,17 @@ def scrape(url):
             name = name_cell.getText()
             link = name_cell.find('a')['href'] if name_cell.find('a') else None
             player_id = f"https://www.basketball-reference.com{link}".split("/")[-1].split(".html")[0]
+            if "basketball-reference" in player_id:
+                continue
             try:
                 if stats[player_id] != {}:
                     h = 0
                     for td in tds:
                         header = headers[h]
-                        if header == "Tm":
+                        if header == "Team":
                             team = td.getText()
                         h += 1
-                    stats[player_id]["Tm"].append(team)
+                    stats[player_id]["Team"].append(team)
             except:
                 stats[player_id] = {}
                 stats[player_id]["link"] = f"https://www.basketball-reference.com{link}"
@@ -288,8 +290,8 @@ def scrape(url):
                         header = "TMP"
                     stats[player_id][header] = td.getText()
                     h += 1
-                if stats[player_id]["Tm"] == "TOT":
-                    stats[player_id]["Tm"] = []
+                if stats[player_id]["Team"] == "TOT":
+                    stats[player_id]["Team"] = []
     
     return stats
 

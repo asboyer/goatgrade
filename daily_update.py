@@ -9,7 +9,7 @@ import info
 import tools
 import grade
 
-year = 2024
+year = int(info.current_season["name"].split("-")[1])
 
 write_file_path = "data/stat/league/{}.json"
 player_stats_path = "data/stat/players/stats/{}.json"
@@ -66,10 +66,10 @@ def update_internal_info():
     f.close()
 
     for player in players:
-        if isinstance(players[player]["Tm"], list):
-            team = players[player]["Tm"][-1]
+        if isinstance(players[player]["Team"], list):
+            team = players[player]["Team"][-1]
         else:
-            team = players[player]["Tm"]
+            team = players[player]["Team"]
         data[team]["roster"].append(player)
 
     with open(f"data/stat/league/{date_string}.json", "w+", encoding="utf8") as file:

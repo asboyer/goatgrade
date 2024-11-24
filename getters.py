@@ -27,10 +27,10 @@ def get_player_stats(date_string, categories):
         stats[player]["age"] = data[player]["Age"]
         stats[player]["pos"] = data[player]["Pos"]
         stats[player]["link"] = data[player]["link"]
-        if isinstance(data[player]["Tm"], list):
-            team = data[player]["Tm"][-1]
+        if isinstance(data[player]["Team"], list):
+            team = data[player]["Team"][-1]
         else:
-            team = data[player]["Tm"]
+            team = data[player]["Team"]
         stats[player]["team"] = team
     return stats
 
