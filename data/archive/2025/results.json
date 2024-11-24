@@ -1,0 +1,4405 @@
+{
+    "players": {
+        "jokicni01": [
+            {
+                "grade": 100.63,
+                "rank": 1,
+                "games_played": 12,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "gilgesh01": [
+            {
+                "grade": 98.12,
+                "rank": 2,
+                "games_played": 16,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "sabondo01": [
+            {
+                "grade": 97.98,
+                "rank": 3,
+                "games_played": 14,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "davisan02": [
+            {
+                "grade": 97.87,
+                "rank": 4,
+                "games_played": 15,
+                "team": "LAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "willija06": [
+            {
+                "grade": 97.71,
+                "rank": 5,
+                "games_played": 16,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "curryst01": [
+            {
+                "grade": 97.54,
+                "rank": 6,
+                "games_played": 13,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "antetgi01": [
+            {
+                "grade": 97.14,
+                "rank": 7,
+                "games_played": 16,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "tatumja01": [
+            {
+                "grade": 96.85,
+                "rank": 8,
+                "games_played": 16,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "irvinky01": [
+            {
+                "grade": 96.65,
+                "rank": 9,
+                "games_played": 15,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "townska01": [
+            {
+                "grade": 96.54,
+                "rank": 10,
+                "games_played": 15,
+                "team": "NYK",
+                "date": "11_24_2024"
+            }
+        ],
+        "vucevni01": [
+            {
+                "grade": 96.46,
+                "rank": 11,
+                "games_played": 18,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "hartjo01": [
+            {
+                "grade": 95.59,
+                "rank": 12,
+                "games_played": 16,
+                "team": "NYK",
+                "date": "11_24_2024"
+            }
+        ],
+        "mobleev01": [
+            {
+                "grade": 95.37,
+                "rank": 13,
+                "games_played": 16,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "wembavi01": [
+            {
+                "grade": 95.32,
+                "rank": 14,
+                "games_played": 14,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "wagnefr01": [
+            {
+                "grade": 95.31,
+                "rank": 15,
+                "games_played": 18,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "jacksja02": [
+            {
+                "grade": 95.24,
+                "rank": 16,
+                "games_played": 15,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "williro04": [
+            {
+                "grade": 95.11,
+                "rank": 17,
+                "games_played": 6,
+                "team": "POR",
+                "date": "11_24_2024"
+            }
+        ],
+        "duranke01": [
+            {
+                "grade": 94.85,
+                "rank": 18,
+                "games_played": 9,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "allenja01": [
+            {
+                "grade": 94.8,
+                "rank": 19,
+                "games_played": 17,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "whitede01": [
+            {
+                "grade": 94.65,
+                "rank": 20,
+                "games_played": 16,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "collijo01": [
+            {
+                "grade": 94.51,
+                "rank": 21,
+                "games_played": 16,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "horfoal01": [
+            {
+                "grade": 94.26,
+                "rank": 22,
+                "games_played": 13,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "jamesle01": [
+            {
+                "grade": 94.12,
+                "rank": 23,
+                "games_played": 16,
+                "team": "LAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "jeromty01": [
+            {
+                "grade": 94.1,
+                "rank": 24,
+                "games_played": 17,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "holmgch01": [
+            {
+                "grade": 94.09,
+                "rank": 25,
+                "games_played": 10,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "sengual01": [
+            {
+                "grade": 93.98,
+                "rank": 26,
+                "games_played": 18,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "easonta01": [
+            {
+                "grade": 93.94,
+                "rank": 27,
+                "games_played": 18,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "braunch01": [
+            {
+                "grade": 93.58,
+                "rank": 28,
+                "games_played": 15,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "foxde01": [
+            {
+                "grade": 93.56,
+                "rank": 29,
+                "games_played": 16,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "johnsca02": [
+            {
+                "grade": 93.48,
+                "rank": 30,
+                "games_played": 16,
+                "team": "BRK",
+                "date": "11_24_2024"
+            }
+        ],
+        "leverca01": [
+            {
+                "grade": 93.47,
+                "rank": 31,
+                "games_played": 13,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "doncilu01": [
+            {
+                "grade": 93.46,
+                "rank": 32,
+                "games_played": 14,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "edwaran01": [
+            {
+                "grade": 93.45,
+                "rank": 33,
+                "games_played": 15,
+                "team": "MIN",
+                "date": "11_24_2024"
+            }
+        ],
+        "garlada01": [
+            {
+                "grade": 93.39,
+                "rank": 34,
+                "games_played": 16,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "paulch01": [
+            {
+                "grade": 93.14,
+                "rank": 35,
+                "games_played": 17,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "herroty01": [
+            {
+                "grade": 93.12,
+                "rank": 36,
+                "games_played": 13,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "wiggian01": [
+            {
+                "grade": 93.08,
+                "rank": 37,
+                "games_played": 14,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "banchpa01": [
+            {
+                "grade": 93.07,
+                "rank": 38,
+                "games_played": 5,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "mitchdo01": [
+            {
+                "grade": 92.93,
+                "rank": 39,
+                "games_played": 16,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "derozde01": [
+            {
+                "grade": 92.79,
+                "rank": 40,
+                "games_played": 13,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "thompam01": [
+            {
+                "grade": 92.77,
+                "rank": 41,
+                "games_played": 18,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "huffja01": [
+            {
+                "grade": 92.7,
+                "rank": 42,
+                "games_played": 17,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "anunoog01": [
+            {
+                "grade": 92.66,
+                "rank": 43,
+                "games_played": 16,
+                "team": "NYK",
+                "date": "11_24_2024"
+            }
+        ],
+        "gaffoda01": [
+            {
+                "grade": 92.6,
+                "rank": 44,
+                "games_played": 16,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "powelno01": [
+            {
+                "grade": 92.52,
+                "rank": 45,
+                "games_played": 15,
+                "team": "LAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "siakapa01": [
+            {
+                "grade": 92.38,
+                "rank": 46,
+                "games_played": 16,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "pritcpa01": [
+            {
+                "grade": 92.29,
+                "rank": 47,
+                "games_played": 16,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "poeltja01": [
+            {
+                "grade": 92.01,
+                "rank": 48,
+                "games_played": 16,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "gordoaa01": [
+            {
+                "grade": 91.74,
+                "rank": 49,
+                "games_played": 7,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "livelde01": [
+            {
+                "grade": 91.65,
+                "rank": 50,
+                "games_played": 12,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "stewais01": [
+            {
+                "grade": 91.63,
+                "rank": 51,
+                "games_played": 18,
+                "team": "DET",
+                "date": "11_24_2024"
+            }
+        ],
+        "hardeja01": [
+            {
+                "grade": 91.6,
+                "rank": 52,
+                "games_played": 17,
+                "team": "LAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "butleji01": [
+            {
+                "grade": 91.5,
+                "rank": 53,
+                "games_played": 9,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "ballla01": [
+            {
+                "grade": 91.44,
+                "rank": 54,
+                "games_played": 16,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "randlju01": [
+            {
+                "grade": 91.44,
+                "rank": 55,
+                "games_played": 15,
+                "team": "MIN",
+                "date": "11_24_2024"
+            }
+        ],
+        "edeyza01": [
+            {
+                "grade": 91.42,
+                "rank": 56,
+                "games_played": 14,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "reidna01": [
+            {
+                "grade": 91.33,
+                "rank": 57,
+                "games_played": 15,
+                "team": "MIN",
+                "date": "11_24_2024"
+            }
+        ],
+        "hieldbu01": [
+            {
+                "grade": 91.3,
+                "rank": 58,
+                "games_played": 16,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "portemi01": [
+            {
+                "grade": 91.09,
+                "rank": 59,
+                "games_played": 15,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "bitadgo01": [
+            {
+                "grade": 90.98,
+                "rank": 60,
+                "games_played": 14,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "lillada01": [
+            {
+                "grade": 90.87,
+                "rank": 61,
+                "games_played": 14,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "wagnemo01": [
+            {
+                "grade": 90.8,
+                "rank": 62,
+                "games_played": 18,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "markkla01": [
+            {
+                "grade": 90.76,
+                "rank": 63,
+                "games_played": 13,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "bookede01": [
+            {
+                "grade": 90.63,
+                "rank": 64,
+                "games_played": 16,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "bealbr01": [
+            {
+                "grade": 90.62,
+                "rank": 65,
+                "games_played": 9,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "holidjr01": [
+            {
+                "grade": 90.62,
+                "rank": 66,
+                "games_played": 15,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "zubaciv01": [
+            {
+                "grade": 90.54,
+                "rank": 67,
+                "games_played": 17,
+                "team": "LAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "valanjo01": [
+            {
+                "grade": 90.5,
+                "rank": 68,
+                "games_played": 14,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "pippesc02": [
+            {
+                "grade": 90.49,
+                "rank": 69,
+                "games_played": 17,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "cunnica01": [
+            {
+                "grade": 90.48,
+                "rank": 70,
+                "games_played": 17,
+                "team": "DET",
+                "date": "11_24_2024"
+            }
+        ],
+        "durenja01": [
+            {
+                "grade": 90.47,
+                "rank": 71,
+                "games_played": 16,
+                "team": "DET",
+                "date": "11_24_2024"
+            }
+        ],
+        "goberru01": [
+            {
+                "grade": 90.44,
+                "rank": 72,
+                "games_played": 15,
+                "team": "MIN",
+                "date": "11_24_2024"
+            }
+        ],
+        "lavinza01": [
+            {
+                "grade": 90.41,
+                "rank": 73,
+                "games_played": 15,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "lopezbr01": [
+            {
+                "grade": 90.24,
+                "rank": 74,
+                "games_played": 17,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "aldamsa01": [
+            {
+                "grade": 90.1,
+                "rank": 75,
+                "games_played": 17,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "jackstr02": [
+            {
+                "grade": 89.9,
+                "rank": 76,
+                "games_played": 16,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "johnsja05": [
+            {
+                "grade": 89.89,
+                "rank": 77,
+                "games_played": 16,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "agbajoc01": [
+            {
+                "grade": 89.74,
+                "rank": 78,
+                "games_played": 16,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "kornelu01": [
+            {
+                "grade": 89.72,
+                "rank": 79,
+                "games_played": 14,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "mccaija01": [
+            {
+                "grade": 89.68,
+                "rank": 80,
+                "games_played": 15,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "thorjt01": [
+            {
+                "grade": 89.58,
+                "rank": 81,
+                "games_played": 2,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "laravja01": [
+            {
+                "grade": 89.5,
+                "rank": 82,
+                "games_played": 17,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "vanvlfr01": [
+            {
+                "grade": 89.49,
+                "rank": 83,
+                "games_played": 17,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "claxtni01": [
+            {
+                "grade": 89.46,
+                "rank": 84,
+                "games_played": 12,
+                "team": "BRK",
+                "date": "11_24_2024"
+            }
+        ],
+        "millebr02": [
+            {
+                "grade": 89.45,
+                "rank": 85,
+                "games_played": 12,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "colliza01": [
+            {
+                "grade": 89.37,
+                "rank": 86,
+                "games_played": 17,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "mathube01": [
+            {
+                "grade": 89.26,
+                "rank": 87,
+                "games_played": 16,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "marshna01": [
+            {
+                "grade": 89.17,
+                "rank": 88,
+                "games_played": 16,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "dortlu01": [
+            {
+                "grade": 89.09,
+                "rank": 89,
+                "games_played": 16,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "greendr01": [
+            {
+                "grade": 89.07,
+                "rank": 90,
+                "games_played": 16,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "brunsja01": [
+            {
+                "grade": 88.83,
+                "rank": 91,
+                "games_played": 16,
+                "team": "NYK",
+                "date": "11_24_2024"
+            }
+        ],
+        "poolejo01": [
+            {
+                "grade": 88.67,
+                "rank": 92,
+                "games_played": 14,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "adebaba01": [
+            {
+                "grade": 88.57,
+                "rank": 93,
+                "games_played": 13,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "barneha02": [
+            {
+                "grade": 88.44,
+                "rank": 94,
+                "games_played": 17,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "kesslwa01": [
+            {
+                "grade": 88.4,
+                "rank": 95,
+                "games_played": 10,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "bouchch01": [
+            {
+                "grade": 88.38,
+                "rank": 96,
+                "games_played": 16,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "nancela02": [
+            {
+                "grade": 88.12,
+                "rank": 97,
+                "games_played": 9,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "suggsja01": [
+            {
+                "grade": 87.9,
+                "rank": 98,
+                "games_played": 18,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "alexani01": [
+            {
+                "grade": 87.78,
+                "rank": 99,
+                "games_played": 15,
+                "team": "MIN",
+                "date": "11_24_2024"
+            }
+        ],
+        "schrode01": [
+            {
+                "grade": 87.68,
+                "rank": 100,
+                "games_played": 16,
+                "team": "BRK",
+                "date": "11_24_2024"
+            }
+        ],
+        "mamuksa01": [
+            {
+                "grade": 87.66,
+                "rank": 101,
+                "games_played": 13,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "moorewe01": [
+            {
+                "grade": 87.65,
+                "rank": 102,
+                "games_played": 8,
+                "team": "DET",
+                "date": "11_24_2024"
+            }
+        ],
+        "richani01": [
+            {
+                "grade": 87.4,
+                "rank": 103,
+                "games_played": 5,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "whiteco01": [
+            {
+                "grade": 87.39,
+                "rank": 104,
+                "games_played": 18,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "martico01": [
+            {
+                "grade": 87.32,
+                "rank": 105,
+                "games_played": 16,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "jonesde02": [
+            {
+                "grade": 87.29,
+                "rank": 106,
+                "games_played": 17,
+                "team": "LAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "dunnkr01": [
+            {
+                "grade": 87.24,
+                "rank": 107,
+                "games_played": 17,
+                "team": "LAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "okogijo01": [
+            {
+                "grade": 87.17,
+                "rank": 108,
+                "games_played": 8,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "loveke01": [
+            {
+                "grade": 87.04,
+                "rank": 109,
+                "games_played": 5,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "yabusgu01": [
+            {
+                "grade": 87.03,
+                "rank": 110,
+                "games_played": 15,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "capelca01": [
+            {
+                "grade": 86.99,
+                "rank": 111,
+                "games_played": 17,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "sochaje01": [
+            {
+                "grade": 86.96,
+                "rank": 112,
+                "games_played": 7,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "wiggiaa01": [
+            {
+                "grade": 86.93,
+                "rank": 113,
+                "games_played": 16,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "moranja01": [
+            {
+                "grade": 86.74,
+                "rank": 114,
+                "games_played": 8,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "coffeam01": [
+            {
+                "grade": 86.54,
+                "rank": 115,
+                "games_played": 17,
+                "team": "LAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "mccontj01": [
+            {
+                "grade": 86.54,
+                "rank": 116,
+                "games_played": 15,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "elliske01": [
+            {
+                "grade": 86.48,
+                "rank": 117,
+                "games_played": 15,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "barnesc01": [
+            {
+                "grade": 86.45,
+                "rank": 118,
+                "games_played": 5,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "okongon01": [
+            {
+                "grade": 86.45,
+                "rank": 119,
+                "games_played": 15,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "maxeyty01": [
+            {
+                "grade": 86.4,
+                "rank": 120,
+                "games_played": 9,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "reaveau01": [
+            {
+                "grade": 86.4,
+                "rank": 121,
+                "games_played": 16,
+                "team": "LAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "finnedo01": [
+            {
+                "grade": 86.37,
+                "rank": 122,
+                "games_played": 14,
+                "team": "BRK",
+                "date": "11_24_2024"
+            }
+        ],
+        "cartewe01": [
+            {
+                "grade": 86.21,
+                "rank": 123,
+                "games_played": 6,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "toppiob01": [
+            {
+                "grade": 86.17,
+                "rank": 124,
+                "games_played": 15,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "isaacjo01": [
+            {
+                "grade": 86.09,
+                "rank": 125,
+                "games_played": 15,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "harrito02": [
+            {
+                "grade": 86.06,
+                "rank": 126,
+                "games_played": 18,
+                "team": "DET",
+                "date": "11_24_2024"
+            }
+        ],
+        "bridgmi02": [
+            {
+                "grade": 85.99,
+                "rank": 127,
+                "games_played": 11,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "champju02": [
+            {
+                "grade": 85.96,
+                "rank": 128,
+                "games_played": 17,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "mccolcj01": [
+            {
+                "grade": 85.83,
+                "rank": 129,
+                "games_played": 4,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "jonesty01": [
+            {
+                "grade": 85.82,
+                "rank": 130,
+                "games_played": 16,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "youngtr01": [
+            {
+                "grade": 85.75,
+                "rank": 131,
+                "games_played": 16,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "barrerj01": [
+            {
+                "grade": 85.74,
+                "rank": 132,
+                "games_played": 13,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "brownja02": [
+            {
+                "grade": 85.67,
+                "rank": 133,
+                "games_played": 12,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "washipj01": [
+            {
+                "grade": 85.65,
+                "rank": 134,
+                "games_played": 11,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "greenaj01": [
+            {
+                "grade": 85.63,
+                "rank": 135,
+                "games_played": 16,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "ingrabr01": [
+            {
+                "grade": 85.6,
+                "rank": 136,
+                "games_played": 16,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "willigr01": [
+            {
+                "grade": 85.56,
+                "rank": 137,
+                "games_played": 16,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "clingdo01": [
+            {
+                "grade": 85.56,
+                "rank": 138,
+                "games_played": 17,
+                "team": "POR",
+                "date": "11_24_2024"
+            }
+        ],
+        "smithja05": [
+            {
+                "grade": 85.54,
+                "rank": 139,
+                "games_played": 18,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "halibty01": [
+            {
+                "grade": 85.53,
+                "rank": 140,
+                "games_played": 16,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "onealro01": [
+            {
+                "grade": 85.52,
+                "rank": 141,
+                "games_played": 16,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "highsha01": [
+            {
+                "grade": 85.48,
+                "rank": 142,
+                "games_played": 11,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "banede01": [
+            {
+                "grade": 85.46,
+                "rank": 143,
+                "games_played": 10,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "jacksqu01": [
+            {
+                "grade": 85.46,
+                "rank": 144,
+                "games_played": 8,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "joeis01": [
+            {
+                "grade": 85.44,
+                "rank": 145,
+                "games_played": 14,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "looneke01": [
+            {
+                "grade": 85.38,
+                "rank": 146,
+                "games_played": 14,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "knechda01": [
+            {
+                "grade": 85.35,
+                "rank": 147,
+                "games_played": 16,
+                "team": "LAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "huntede01": [
+            {
+                "grade": 85.29,
+                "rank": 148,
+                "games_played": 6,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "paytoga02": [
+            {
+                "grade": 85.26,
+                "rank": 149,
+                "games_played": 16,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "portecr01": [
+            {
+                "grade": 85.18,
+                "rank": 150,
+                "games_played": 12,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "coulibi01": [
+            {
+                "grade": 85.17,
+                "rank": 151,
+                "games_played": 13,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "thomaca02": [
+            {
+                "grade": 85.0,
+                "rank": 152,
+                "games_played": 15,
+                "team": "BRK",
+                "date": "11_24_2024"
+            }
+        ],
+        "reddica01": [
+            {
+                "grade": 84.91,
+                "rank": 153,
+                "games_played": 10,
+                "team": "LAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "burksal01": [
+            {
+                "grade": 84.9,
+                "rank": 154,
+                "games_played": 6,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "mathega01": [
+            {
+                "grade": 84.81,
+                "rank": 155,
+                "games_played": 16,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "bantoda01": [
+            {
+                "grade": 84.67,
+                "rank": 156,
+                "games_played": 15,
+                "team": "POR",
+                "date": "11_24_2024"
+            }
+        ],
+        "hayesja02": [
+            {
+                "grade": 84.65,
+                "rank": 157,
+                "games_played": 10,
+                "team": "LAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "johnske04": [
+            {
+                "grade": 84.59,
+                "rank": 158,
+                "games_played": 16,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "princta02": [
+            {
+                "grade": 84.59,
+                "rank": 159,
+                "games_played": 17,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "okorois01": [
+            {
+                "grade": 84.54,
+                "rank": 160,
+                "games_played": 15,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "monkma01": [
+            {
+                "grade": 84.4,
+                "rank": 161,
+                "games_played": 10,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "mcdanja02": [
+            {
+                "grade": 84.4,
+                "rank": 162,
+                "games_played": 15,
+                "team": "MIN",
+                "date": "11_24_2024"
+            }
+        ],
+        "vassede01": [
+            {
+                "grade": 84.34,
+                "rank": 163,
+                "games_played": 4,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "iveyja01": [
+            {
+                "grade": 84.27,
+                "rank": 164,
+                "games_played": 17,
+                "team": "DET",
+                "date": "11_24_2024"
+            }
+        ],
+        "payneca01": [
+            {
+                "grade": 84.2,
+                "rank": 165,
+                "games_played": 12,
+                "team": "NYK",
+                "date": "11_24_2024"
+            }
+        ],
+        "smithja04": [
+            {
+                "grade": 84.13,
+                "rank": 166,
+                "games_played": 16,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "bassech01": [
+            {
+                "grade": 84.11,
+                "rank": 167,
+                "games_played": 9,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "roddyda01": [
+            {
+                "grade": 84.07,
+                "rank": 168,
+                "games_played": 12,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "aytonde01": [
+            {
+                "grade": 83.98,
+                "rank": 169,
+                "games_played": 11,
+                "team": "POR",
+                "date": "11_24_2024"
+            }
+        ],
+        "jovicni01": [
+            {
+                "grade": 83.95,
+                "rank": 170,
+                "games_played": 13,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "grimequ01": [
+            {
+                "grade": 83.9,
+                "rank": 171,
+                "games_played": 15,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "turnemy01": [
+            {
+                "grade": 83.85,
+                "rank": 172,
+                "games_played": 14,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "giddejo01": [
+            {
+                "grade": 83.82,
+                "rank": 173,
+                "games_played": 18,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "reedpa01": [
+            {
+                "grade": 83.78,
+                "rank": 174,
+                "games_played": 8,
+                "team": "DET",
+                "date": "11_24_2024"
+            }
+        ],
+        "bridgmi01": [
+            {
+                "grade": 83.63,
+                "rank": 175,
+                "games_played": 16,
+                "team": "NYK",
+                "date": "11_24_2024"
+            }
+        ],
+        "daniedy01": [
+            {
+                "grade": 83.6,
+                "rank": 176,
+                "games_played": 15,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "grantje01": [
+            {
+                "grade": 83.58,
+                "rank": 177,
+                "games_played": 17,
+                "team": "POR",
+                "date": "11_24_2024"
+            }
+        ],
+        "simmobe01": [
+            {
+                "grade": 83.57,
+                "rank": 178,
+                "games_played": 12,
+                "team": "BRK",
+                "date": "11_24_2024"
+            }
+        ],
+        "butleja02": [
+            {
+                "grade": 83.52,
+                "rank": 179,
+                "games_played": 10,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "sharpsh01": [
+            {
+                "grade": 83.51,
+                "rank": 180,
+                "games_played": 9,
+                "team": "POR",
+                "date": "11_24_2024"
+            }
+        ],
+        "brookdi01": [
+            {
+                "grade": 83.49,
+                "rank": 181,
+                "games_played": 18,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "quetane01": [
+            {
+                "grade": 83.49,
+                "rank": 182,
+                "games_played": 15,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "hausesa01": [
+            {
+                "grade": 83.42,
+                "rank": 183,
+                "games_played": 13,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "duartch01": [
+            {
+                "grade": 83.39,
+                "rank": 184,
+                "games_played": 8,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "beaslma01": [
+            {
+                "grade": 83.35,
+                "rank": 185,
+                "games_played": 18,
+                "team": "DET",
+                "date": "11_24_2024"
+            }
+        ],
+        "poweldw01": [
+            {
+                "grade": 83.34,
+                "rank": 186,
+                "games_played": 13,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "sextoco01": [
+            {
+                "grade": 83.31,
+                "rank": 187,
+                "games_played": 16,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "willizi01": [
+            {
+                "grade": 83.23,
+                "rank": 188,
+                "games_played": 6,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "watsope01": [
+            {
+                "grade": 83.23,
+                "rank": 189,
+                "games_played": 15,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "jacksis01": [
+            {
+                "grade": 83.17,
+                "rank": 190,
+                "games_played": 5,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "murraja01": [
+            {
+                "grade": 83.13,
+                "rank": 191,
+                "games_played": 12,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "kennalu01": [
+            {
+                "grade": 83.06,
+                "rank": 192,
+                "games_played": 9,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "willije02": [
+            {
+                "grade": 83.04,
+                "rank": 193,
+                "games_played": 3,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "niangge01": [
+            {
+                "grade": 82.95,
+                "rank": 194,
+                "games_played": 17,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "wadede01": [
+            {
+                "grade": 82.94,
+                "rank": 195,
+                "games_played": 13,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "morrimo01": [
+            {
+                "grade": 82.88,
+                "rank": 196,
+                "games_played": 12,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "mcbrimi01": [
+            {
+                "grade": 82.87,
+                "rank": 197,
+                "games_played": 11,
+                "team": "NYK",
+                "date": "11_24_2024"
+            }
+        ],
+        "greenja05": [
+            {
+                "grade": 82.84,
+                "rank": 198,
+                "games_played": 18,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "bryanth01": [
+            {
+                "grade": 82.83,
+                "rank": 199,
+                "games_played": 7,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "waterli01": [
+            {
+                "grade": 82.77,
+                "rank": 200,
+                "games_played": 14,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "alvarjo01": [
+            {
+                "grade": 82.68,
+                "rank": 201,
+                "games_played": 11,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "smithty02": [
+            {
+                "grade": 82.56,
+                "rank": 202,
+                "games_played": 9,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "georgpa01": [
+            {
+                "grade": 82.53,
+                "rank": 203,
+                "games_played": 8,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "wellsja01": [
+            {
+                "grade": 82.52,
+                "rank": 204,
+                "games_played": 17,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "conlemi01": [
+            {
+                "grade": 82.49,
+                "rank": 205,
+                "games_played": 13,
+                "team": "MIN",
+                "date": "11_24_2024"
+            }
+        ],
+        "martike04": [
+            {
+                "grade": 82.47,
+                "rank": 206,
+                "games_played": 12,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "nesmiaa01": [
+            {
+                "grade": 82.38,
+                "rank": 207,
+                "games_played": 6,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "merrisa01": [
+            {
+                "grade": 82.32,
+                "rank": 208,
+                "games_played": 13,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "avdijde01": [
+            {
+                "grade": 82.28,
+                "rank": 209,
+                "games_played": 17,
+                "team": "POR",
+                "date": "11_24_2024"
+            }
+        ],
+        "rolliry01": [
+            {
+                "grade": 82.28,
+                "rank": 210,
+                "games_played": 9,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "westbru01": [
+            {
+                "grade": 82.27,
+                "rank": 211,
+                "games_played": 15,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "mitchaj01": [
+            {
+                "grade": 82.25,
+                "rank": 212,
+                "games_played": 16,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "lowryky01": [
+            {
+                "grade": 82.16,
+                "rank": 213,
+                "games_played": 13,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "dickgr01": [
+            {
+                "grade": 82.12,
+                "rank": 214,
+                "games_played": 16,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "murrake02": [
+            {
+                "grade": 82.06,
+                "rank": 215,
+                "games_played": 16,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "embiijo01": [
+            {
+                "grade": 82.01,
+                "rank": 216,
+                "games_played": 4,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "filipky01": [
+            {
+                "grade": 81.99,
+                "rank": 217,
+                "games_played": 14,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "holidaa01": [
+            {
+                "grade": 81.96,
+                "rank": 218,
+                "games_played": 10,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "wallaca01": [
+            {
+                "grade": 81.91,
+                "rank": 219,
+                "games_played": 16,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "hachiru01": [
+            {
+                "grade": 81.84,
+                "rank": 220,
+                "games_played": 11,
+                "team": "LAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "kuminjo01": [
+            {
+                "grade": 81.82,
+                "rank": 221,
+                "games_played": 15,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "hylanbo01": [
+            {
+                "grade": 81.77,
+                "rank": 222,
+                "games_played": 4,
+                "team": "LAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "mogbojo01": [
+            {
+                "grade": 81.75,
+                "rank": 223,
+                "games_played": 16,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "clarkbr01": [
+            {
+                "grade": 81.71,
+                "rank": 224,
+                "games_played": 16,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "anderky01": [
+            {
+                "grade": 81.69,
+                "rank": 225,
+                "games_played": 15,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "beekmre01": [
+            {
+                "grade": 81.39,
+                "rank": 226,
+                "games_played": 2,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "bambamo01": [
+            {
+                "grade": 81.23,
+                "rank": 227,
+                "games_played": 4,
+                "team": "LAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "bostobr01": [
+            {
+                "grade": 81.21,
+                "rank": 228,
+                "games_played": 14,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "meltode01": [
+            {
+                "grade": 81.21,
+                "rank": 229,
+                "games_played": 6,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "landajo01": [
+            {
+                "grade": 81.21,
+                "rank": 230,
+                "games_played": 13,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "diabamo01": [
+            {
+                "grade": 81.2,
+                "rank": 231,
+                "games_played": 16,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "quinole01": [
+            {
+                "grade": 81.15,
+                "rank": 232,
+                "games_played": 2,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "thompkl01": [
+            {
+                "grade": 81.01,
+                "rank": 233,
+                "games_played": 16,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "missiyv01": [
+            {
+                "grade": 80.99,
+                "rank": 234,
+                "games_played": 16,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "willike04": [
+            {
+                "grade": 80.87,
+                "rank": 235,
+                "games_played": 6,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "huertke01": [
+            {
+                "grade": 80.78,
+                "rank": 236,
+                "games_played": 14,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "lenal01": [
+            {
+                "grade": 80.75,
+                "rank": 237,
+                "games_played": 12,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "plumlma01": [
+            {
+                "grade": 80.69,
+                "rank": 238,
+                "games_played": 15,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "portibo01": [
+            {
+                "grade": 80.63,
+                "rank": 239,
+                "games_played": 16,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "camarto01": [
+            {
+                "grade": 80.53,
+                "rank": 240,
+                "games_played": 17,
+                "team": "POR",
+                "date": "11_24_2024"
+            }
+        ],
+        "blackan01": [
+            {
+                "grade": 80.53,
+                "rank": 241,
+                "games_played": 18,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "kolokch01": [
+            {
+                "grade": 80.53,
+                "rank": 242,
+                "games_played": 8,
+                "team": "LAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "bonaad01": [
+            {
+                "grade": 80.48,
+                "rank": 243,
+                "games_played": 10,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "howarje01": [
+            {
+                "grade": 80.44,
+                "rank": 244,
+                "games_played": 17,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "strawju01": [
+            {
+                "grade": 80.42,
+                "rank": 245,
+                "games_played": 15,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "murphtr02": [
+            {
+                "grade": 80.41,
+                "rank": 246,
+                "games_played": 5,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "batumni01": [
+            {
+                "grade": 80.33,
+                "rank": 247,
+                "games_played": 17,
+                "team": "LAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "ighodos01": [
+            {
+                "grade": 80.23,
+                "rank": 248,
+                "games_played": 11,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "manntr01": [
+            {
+                "grade": 80.21,
+                "rank": 249,
+                "games_played": 13,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "konchjo01": [
+            {
+                "grade": 80.13,
+                "rank": 250,
+                "games_played": 8,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "greenja02": [
+            {
+                "grade": 80.09,
+                "rank": 251,
+                "games_played": 17,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "eubandr01": [
+            {
+                "grade": 79.93,
+                "rank": 252,
+                "games_played": 13,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "bolbo01": [
+            {
+                "grade": 79.87,
+                "rank": 253,
+                "games_played": 4,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "drumman01": [
+            {
+                "grade": 79.84,
+                "rank": 254,
+                "games_played": 14,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "carusal01": [
+            {
+                "grade": 79.74,
+                "rank": 255,
+                "games_played": 13,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "doziepj01": [
+            {
+                "grade": 79.57,
+                "rank": 256,
+                "games_played": 4,
+                "team": "MIN",
+                "date": "11_24_2024"
+            }
+        ],
+        "kolekty01": [
+            {
+                "grade": 79.54,
+                "rank": 257,
+                "games_played": 11,
+                "team": "NYK",
+                "date": "11_24_2024"
+            }
+        ],
+        "smithdr01": [
+            {
+                "grade": 79.5,
+                "rank": 258,
+                "games_played": 5,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "dosunay01": [
+            {
+                "grade": 79.43,
+                "rank": 259,
+                "games_played": 18,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "willizi02": [
+            {
+                "grade": 79.36,
+                "rank": 260,
+                "games_played": 16,
+                "team": "BRK",
+                "date": "11_24_2024"
+            }
+        ],
+        "robinje02": [
+            {
+                "grade": 79.33,
+                "rank": 261,
+                "games_played": 17,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "hardati02": [
+            {
+                "grade": 79.28,
+                "rank": 262,
+                "games_played": 15,
+                "team": "DET",
+                "date": "11_24_2024"
+            }
+        ],
+        "branhma01": [
+            {
+                "grade": 79.2,
+                "rank": 263,
+                "games_played": 15,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "joneska01": [
+            {
+                "grade": 79.16,
+                "rank": 264,
+                "games_played": 11,
+                "team": "LAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "moodymo01": [
+            {
+                "grade": 79.13,
+                "rank": 265,
+                "games_played": 16,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "liddeej01": [
+            {
+                "grade": 79.12,
+                "rank": 266,
+                "games_played": 3,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "larsspe01": [
+            {
+                "grade": 79.11,
+                "rank": 267,
+                "games_played": 8,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "gillan01": [
+            {
+                "grade": 79.07,
+                "rank": 268,
+                "games_played": 9,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "hortota01": [
+            {
+                "grade": 79.06,
+                "rank": 269,
+                "games_played": 12,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "martica02": [
+            {
+                "grade": 78.94,
+                "rank": 270,
+                "games_played": 15,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "simsje01": [
+            {
+                "grade": 78.94,
+                "rank": 271,
+                "games_played": 16,
+                "team": "NYK",
+                "date": "11_24_2024"
+            }
+        ],
+        "caldwke01": [
+            {
+                "grade": 78.89,
+                "rank": 272,
+                "games_played": 17,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "wilsoja03": [
+            {
+                "grade": 78.79,
+                "rank": 273,
+                "games_played": 16,
+                "team": "BRK",
+                "date": "11_24_2024"
+            }
+        ],
+        "divindo01": [
+            {
+                "grade": 78.5,
+                "rank": 274,
+                "games_played": 15,
+                "team": "MIN",
+                "date": "11_24_2024"
+            }
+        ],
+        "carrica01": [
+            {
+                "grade": 78.49,
+                "rank": 275,
+                "games_played": 14,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "dasiltr01": [
+            {
+                "grade": 78.44,
+                "rank": 276,
+                "games_played": 14,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "greenje02": [
+            {
+                "grade": 78.39,
+                "rank": 277,
+                "games_played": 7,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "shannte01": [
+            {
+                "grade": 78.37,
+                "rank": 278,
+                "games_played": 4,
+                "team": "MIN",
+                "date": "11_24_2024"
+            }
+        ],
+        "jonesco02": [
+            {
+                "grade": 78.31,
+                "rank": 279,
+                "games_played": 8,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "sassema01": [
+            {
+                "grade": 78.28,
+                "rank": 280,
+                "games_played": 10,
+                "team": "DET",
+                "date": "11_24_2024"
+            }
+        ],
+        "robindu01": [
+            {
+                "grade": 78.26,
+                "rank": 281,
+                "games_played": 12,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "greenjo02": [
+            {
+                "grade": 78.21,
+                "rank": 282,
+                "games_played": 14,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "washity02": [
+            {
+                "grade": 78.15,
+                "rank": 283,
+                "games_played": 3,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "sensabr01": [
+            {
+                "grade": 78.13,
+                "rank": 284,
+                "games_played": 10,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "millejo02": [
+            {
+                "grade": 78.13,
+                "rank": 285,
+                "games_played": 6,
+                "team": "LAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "robinor01": [
+            {
+                "grade": 78.13,
+                "rank": 286,
+                "games_played": 2,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "mannte01": [
+            {
+                "grade": 78.04,
+                "rank": 287,
+                "games_played": 17,
+                "team": "LAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "tateja01": [
+            {
+                "grade": 77.99,
+                "rank": 288,
+                "games_played": 8,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "walkeja02": [
+            {
+                "grade": 77.87,
+                "rank": 289,
+                "games_played": 16,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "craigto01": [
+            {
+                "grade": 77.69,
+                "rank": 290,
+                "games_played": 5,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "roziete01": [
+            {
+                "grade": 77.67,
+                "rank": 291,
+                "games_played": 12,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "jaqueja01": [
+            {
+                "grade": 77.61,
+                "rank": 292,
+                "games_played": 9,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "battlja01": [
+            {
+                "grade": 77.53,
+                "rank": 293,
+                "games_played": 15,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "quickim01": [
+            {
+                "grade": 77.48,
+                "rank": 294,
+                "games_played": 3,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "lylestr01": [
+            {
+                "grade": 77.43,
+                "rank": 295,
+                "games_played": 16,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "juzanjo01": [
+            {
+                "grade": 77.39,
+                "rank": 296,
+                "games_played": 12,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "clarkjo01": [
+            {
+                "grade": 77.34,
+                "rank": 297,
+                "games_played": 13,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "terryda01": [
+            {
+                "grade": 77.27,
+                "rank": 298,
+                "games_played": 18,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "gibsota01": [
+            {
+                "grade": 77.25,
+                "rank": 299,
+                "games_played": 8,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "oubreke01": [
+            {
+                "grade": 77.14,
+                "rank": 300,
+                "games_played": 15,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "sheppre01": [
+            {
+                "grade": 76.94,
+                "rank": 301,
+                "games_played": 18,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "russeda01": [
+            {
+                "grade": 76.91,
+                "rank": 302,
+                "games_played": 16,
+                "team": "LAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "tysonja01": [
+            {
+                "grade": 76.79,
+                "rank": 303,
+                "games_played": 7,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "fernabr01": [
+            {
+                "grade": 76.68,
+                "rank": 304,
+                "games_played": 11,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "trentga02": [
+            {
+                "grade": 76.65,
+                "rank": 305,
+                "games_played": 15,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "castlst01": [
+            {
+                "grade": 76.56,
+                "rank": 306,
+                "games_played": 17,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "murrakr01": [
+            {
+                "grade": 76.54,
+                "rank": 307,
+                "games_played": 16,
+                "team": "POR",
+                "date": "11_24_2024"
+            }
+        ],
+        "smartma01": [
+            {
+                "grade": 76.38,
+                "rank": 308,
+                "games_played": 7,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "watfotr01": [
+            {
+                "grade": 76.36,
+                "rank": 309,
+                "games_played": 3,
+                "team": "BRK",
+                "date": "11_24_2024"
+            }
+        ],
+        "willipa01": [
+            {
+                "grade": 76.35,
+                "rank": 310,
+                "games_played": 15,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "brownmo01": [
+            {
+                "grade": 76.35,
+                "rank": 311,
+                "games_played": 2,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "nurkiju01": [
+            {
+                "grade": 76.28,
+                "rank": 312,
+                "games_played": 14,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "simonan01": [
+            {
+                "grade": 76.02,
+                "rank": 313,
+                "games_played": 14,
+                "team": "POR",
+                "date": "11_24_2024"
+            }
+        ],
+        "templga01": [
+            {
+                "grade": 75.82,
+                "rank": 314,
+                "games_played": 5,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "hawkijo01": [
+            {
+                "grade": 75.69,
+                "rank": 315,
+                "games_played": 9,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "mclaujo01": [
+            {
+                "grade": 75.46,
+                "rank": 316,
+                "games_played": 13,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "podzibr01": [
+            {
+                "grade": 75.45,
+                "rank": 317,
+                "games_played": 15,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "harriga01": [
+            {
+                "grade": 75.42,
+                "rank": 318,
+                "games_played": 16,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "mitchda01": [
+            {
+                "grade": 75.16,
+                "rank": 319,
+                "games_played": 16,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "josepco01": [
+            {
+                "grade": 75.11,
+                "rank": 320,
+                "games_played": 11,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "klebima01": [
+            {
+                "grade": 75.07,
+                "rank": 321,
+                "games_played": 7,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "gortmja01": [
+            {
+                "grade": 75.05,
+                "rank": 322,
+                "games_played": 2,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "cainja01": [
+            {
+                "grade": 75.03,
+                "rank": 323,
+                "games_played": 12,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "chrisma02": [
+            {
+                "grade": 74.97,
+                "rank": 324,
+                "games_played": 15,
+                "team": "LAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "diengou01": [
+            {
+                "grade": 74.89,
+                "rank": 325,
+                "games_played": 16,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "fontesi01": [
+            {
+                "grade": 74.84,
+                "rank": 326,
+                "games_played": 16,
+                "team": "DET",
+                "date": "11_24_2024"
+            }
+        ],
+        "porteke02": [
+            {
+                "grade": 74.59,
+                "rank": 327,
+                "games_played": 17,
+                "team": "LAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "hendesc01": [
+            {
+                "grade": 74.44,
+                "rank": 328,
+                "games_played": 15,
+                "team": "POR",
+                "date": "11_24_2024"
+            }
+        ],
+        "adamsst01": [
+            {
+                "grade": 74.25,
+                "rank": 329,
+                "games_played": 8,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "dunnry01": [
+            {
+                "grade": 74.23,
+                "rank": 330,
+                "games_played": 15,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "sarral01": [
+            {
+                "grade": 74.22,
+                "rank": 331,
+                "games_played": 14,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "risacza01": [
+            {
+                "grade": 74.21,
+                "rank": 332,
+                "games_played": 17,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "jordade01": [
+            {
+                "grade": 74.09,
+                "rank": 333,
+                "games_played": 6,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "dinwisp01": [
+            {
+                "grade": 74.04,
+                "rank": 334,
+                "games_played": 14,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "miltosh01": [
+            {
+                "grade": 74.02,
+                "rank": 335,
+                "games_played": 12,
+                "team": "BRK",
+                "date": "11_24_2024"
+            }
+        ],
+        "allengr01": [
+            {
+                "grade": 73.99,
+                "rank": 336,
+                "games_played": 12,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "cissosi01": [
+            {
+                "grade": 73.85,
+                "rank": 337,
+                "games_played": 7,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "sheppbe01": [
+            {
+                "grade": 73.79,
+                "rank": 338,
+                "games_played": 13,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "wallake01": [
+            {
+                "grade": 73.78,
+                "rank": 339,
+                "games_played": 12,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "paytoel01": [
+            {
+                "grade": 73.69,
+                "rank": 340,
+                "games_played": 2,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "jonesis01": [
+            {
+                "grade": 73.69,
+                "rank": 341,
+                "games_played": 7,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "georgky01": [
+            {
+                "grade": 73.51,
+                "rank": 342,
+                "games_played": 14,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "joneshe01": [
+            {
+                "grade": 73.47,
+                "rank": 343,
+                "games_played": 4,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "hendrita01": [
+            {
+                "grade": 73.38,
+                "rank": 344,
+                "games_played": 3,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "kispeco01": [
+            {
+                "grade": 73.31,
+                "rank": 345,
+                "games_played": 14,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "theisda01": [
+            {
+                "grade": 73.09,
+                "rank": 346,
+                "games_played": 12,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "travelu01": [
+            {
+                "grade": 73.08,
+                "rank": 347,
+                "games_played": 4,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "thomptr01": [
+            {
+                "grade": 72.99,
+                "rank": 348,
+                "games_played": 7,
+                "team": "CLE",
+                "date": "11_24_2024"
+            }
+        ],
+        "georgke01": [
+            {
+                "grade": 72.93,
+                "rank": 349,
+                "games_played": 15,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "balllo01": [
+            {
+                "grade": 72.89,
+                "rank": 350,
+                "games_played": 3,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "castlco01": [
+            {
+                "grade": 72.88,
+                "rank": 351,
+                "games_played": 6,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "jemistr01": [
+            {
+                "grade": 72.86,
+                "rank": 352,
+                "games_played": 11,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "cancavl01": [
+            {
+                "grade": 72.86,
+                "rank": 353,
+                "games_played": 4,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "reevean01": [
+            {
+                "grade": 72.76,
+                "rank": 354,
+                "games_played": 10,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "clownno01": [
+            {
+                "grade": 72.75,
+                "rank": 355,
+                "games_played": 14,
+                "team": "BRK",
+                "date": "11_24_2024"
+            }
+        ],
+        "wrighde01": [
+            {
+                "grade": 72.74,
+                "rank": 356,
+                "games_played": 14,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "kuzmaky01": [
+            {
+                "grade": 72.66,
+                "rank": 357,
+                "games_played": 9,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "sanogad01": [
+            {
+                "grade": 72.54,
+                "rank": 358,
+                "games_played": 3,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "jacksre01": [
+            {
+                "grade": 72.46,
+                "rank": 359,
+                "games_played": 7,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "matkoka01": [
+            {
+                "grade": 72.36,
+                "rank": 360,
+                "games_played": 4,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "phillju01": [
+            {
+                "grade": 72.33,
+                "rank": 361,
+                "games_played": 17,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "jonesma05": [
+            {
+                "grade": 72.25,
+                "rank": 362,
+                "games_played": 3,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "curryse01": [
+            {
+                "grade": 72.23,
+                "rank": 363,
+                "games_played": 15,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "hollaro01": [
+            {
+                "grade": 71.88,
+                "rank": 364,
+                "games_played": 18,
+                "team": "DET",
+                "date": "11_24_2024"
+            }
+        ],
+        "jacksan01": [
+            {
+                "grade": 71.85,
+                "rank": 365,
+                "games_played": 16,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "dadiepa01": [
+            {
+                "grade": 71.61,
+                "rank": 366,
+                "games_played": 9,
+                "team": "NYK",
+                "date": "11_24_2024"
+            }
+        ],
+        "ruperra01": [
+            {
+                "grade": 71.49,
+                "rank": 367,
+                "games_played": 15,
+                "team": "POR",
+                "date": "11_24_2024"
+            }
+        ],
+        "leeda03": [
+            {
+                "grade": 71.42,
+                "rank": 368,
+                "games_played": 4,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "millspa02": [
+            {
+                "grade": 71.38,
+                "rank": 369,
+                "games_played": 9,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "bogdabo01": [
+            {
+                "grade": 71.34,
+                "rank": 370,
+                "games_played": 4,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "connapa01": [
+            {
+                "grade": 71.28,
+                "rank": 371,
+                "games_played": 13,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "spencca01": [
+            {
+                "grade": 71.16,
+                "rank": 372,
+                "games_played": 2,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "hardyja02": [
+            {
+                "grade": 71.01,
+                "rank": 373,
+                "games_played": 15,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "krejcvi01": [
+            {
+                "grade": 70.99,
+                "rank": 374,
+                "games_played": 7,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "johnsja01": [
+            {
+                "grade": 70.75,
+                "rank": 375,
+                "games_played": 3,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "johnske07": [
+            {
+                "grade": 70.7,
+                "rank": 376,
+                "games_played": 14,
+                "team": "BRK",
+                "date": "11_24_2024"
+            }
+        ],
+        "toppija01": [
+            {
+                "grade": 70.68,
+                "rank": 377,
+                "games_played": 5,
+                "team": "NYK",
+                "date": "11_24_2024"
+            }
+        ],
+        "weslebl01": [
+            {
+                "grade": 70.65,
+                "rank": 378,
+                "games_played": 15,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "willivi01": [
+            {
+                "grade": 70.61,
+                "rank": 379,
+                "games_played": 3,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "tysonhu01": [
+            {
+                "grade": 70.51,
+                "rank": 380,
+                "games_played": 10,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "dilliro01": [
+            {
+                "grade": 70.47,
+                "rank": 381,
+                "games_played": 8,
+                "team": "MIN",
+                "date": "11_24_2024"
+            }
+        ],
+        "anthoco01": [
+            {
+                "grade": 70.41,
+                "rank": 382,
+                "games_played": 16,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "colliis01": [
+            {
+                "grade": 70.36,
+                "rank": 383,
+                "games_played": 9,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "brogdma01": [
+            {
+                "grade": 70.25,
+                "rank": 384,
+                "games_played": 3,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "robbili01": [
+            {
+                "grade": 70.23,
+                "rank": 385,
+                "games_played": 4,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "nembhan01": [
+            {
+                "grade": 70.19,
+                "rank": 386,
+                "games_played": 7,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "martity01": [
+            {
+                "grade": 70.17,
+                "rank": 387,
+                "games_played": 4,
+                "team": "BRK",
+                "date": "11_24_2024"
+            }
+        ],
+        "holmeri01": [
+            {
+                "grade": 70.16,
+                "rank": 388,
+                "games_played": 2,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "brownko01": [
+            {
+                "grade": 69.88,
+                "rank": 389,
+                "games_played": 5,
+                "team": "LAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "baglema01": [
+            {
+                "grade": 69.86,
+                "rank": 390,
+                "games_played": 9,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "richajo01": [
+            {
+                "grade": 69.77,
+                "rank": 391,
+                "games_played": 8,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "hukpoar01": [
+            {
+                "grade": 69.71,
+                "rank": 392,
+                "games_played": 7,
+                "team": "NYK",
+                "date": "11_24_2024"
+            }
+        ],
+        "nowelja01": [
+            {
+                "grade": 69.67,
+                "rank": 393,
+                "games_played": 8,
+                "team": "NOP",
+                "date": "11_24_2024"
+            }
+        ],
+        "baldwpa01": [
+            {
+                "grade": 69.56,
+                "rank": 394,
+                "games_played": 9,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "peterdr01": [
+            {
+                "grade": 69.55,
+                "rank": 395,
+                "games_played": 3,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "flaglad01": [
+            {
+                "grade": 69.48,
+                "rank": 396,
+                "games_played": 8,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "jonestr01": [
+            {
+                "grade": 69.42,
+                "rank": 397,
+                "games_played": 5,
+                "team": "SAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "wareke01": [
+            {
+                "grade": 69.37,
+                "rank": 398,
+                "games_played": 8,
+                "team": "MIA",
+                "date": "11_24_2024"
+            }
+        ],
+        "davisjo06": [
+            {
+                "grade": 69.15,
+                "rank": 399,
+                "games_played": 11,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "walkeja01": [
+            {
+                "grade": 69.12,
+                "rank": 400,
+                "games_played": 12,
+                "team": "POR",
+                "date": "11_24_2024"
+            }
+        ],
+        "whitmca01": [
+            {
+                "grade": 69.09,
+                "rank": 401,
+                "games_played": 8,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "gordoer01": [
+            {
+                "grade": 69.08,
+                "rank": 402,
+                "games_played": 13,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "buzelma01": [
+            {
+                "grade": 68.8,
+                "rank": 403,
+                "games_played": 17,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "saricda01": [
+            {
+                "grade": 68.73,
+                "rank": 404,
+                "games_played": 10,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "jonesdi01": [
+            {
+                "grade": 68.54,
+                "rank": 405,
+                "games_played": 15,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "salauti01": [
+            {
+                "grade": 68.46,
+                "rank": 406,
+                "games_played": 14,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "umudest01": [
+            {
+                "grade": 68.42,
+                "rank": 407,
+                "games_played": 5,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "minotjo01": [
+            {
+                "grade": 68.37,
+                "rank": 408,
+                "games_played": 6,
+                "team": "MIN",
+                "date": "11_24_2024"
+            }
+        ],
+        "mykhasv01": [
+            {
+                "grade": 68.17,
+                "rank": 409,
+                "games_played": 2,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "santogu01": [
+            {
+                "grade": 67.95,
+                "rank": 410,
+                "games_played": 6,
+                "team": "GSW",
+                "date": "11_24_2024"
+            }
+        ],
+        "hallpj01": [
+            {
+                "grade": 67.9,
+                "rank": 411,
+                "games_played": 2,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "dowtije01": [
+            {
+                "grade": 67.69,
+                "rank": 412,
+                "games_played": 8,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "walshjo01": [
+            {
+                "grade": 67.53,
+                "rank": 413,
+                "games_played": 13,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "nnajize01": [
+            {
+                "grade": 67.46,
+                "rank": 414,
+                "games_played": 10,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "furphjo01": [
+            {
+                "grade": 67.45,
+                "rank": 415,
+                "games_played": 8,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "mcderdo01": [
+            {
+                "grade": 67.35,
+                "rank": 416,
+                "games_played": 12,
+                "team": "SAC",
+                "date": "11_24_2024"
+            }
+        ],
+        "carteje01": [
+            {
+                "grade": 67.34,
+                "rank": 417,
+                "games_played": 7,
+                "team": "CHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "jamesbr02": [
+            {
+                "grade": 67.17,
+                "rank": 418,
+                "games_played": 6,
+                "team": "LAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "sprinja01": [
+            {
+                "grade": 67.05,
+                "rank": 419,
+                "games_played": 4,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "inglejo01": [
+            {
+                "grade": 66.95,
+                "rank": 420,
+                "games_played": 7,
+                "team": "MIN",
+                "date": "11_24_2024"
+            }
+        ],
+        "sheadja01": [
+            {
+                "grade": 66.89,
+                "rank": 421,
+                "games_played": 16,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "queentr01": [
+            {
+                "grade": 66.34,
+                "rank": 422,
+                "games_played": 2,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "champju01": [
+            {
+                "grade": 66.34,
+                "rank": 423,
+                "games_played": 2,
+                "team": "WAS",
+                "date": "11_24_2024"
+            }
+        ],
+        "beaucma01": [
+            {
+                "grade": 65.71,
+                "rank": 424,
+                "games_played": 10,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "tillmxa01": [
+            {
+                "grade": 65.59,
+                "rank": 425,
+                "games_played": 11,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "freemen01": [
+            {
+                "grade": 65.58,
+                "rank": 426,
+                "games_played": 9,
+                "team": "IND",
+                "date": "11_24_2024"
+            }
+        ],
+        "willico04": [
+            {
+                "grade": 65.57,
+                "rank": 427,
+                "games_played": 16,
+                "team": "UTA",
+                "date": "11_24_2024"
+            }
+        ],
+        "bufkiko01": [
+            {
+                "grade": 65.56,
+                "rank": 428,
+                "games_played": 3,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "prospol01": [
+            {
+                "grade": 65.45,
+                "rank": 429,
+                "games_played": 9,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "scheiba01": [
+            {
+                "grade": 65.41,
+                "rank": 430,
+                "games_played": 3,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "councri01": [
+            {
+                "grade": 65.19,
+                "rank": 431,
+                "games_played": 12,
+                "team": "PHI",
+                "date": "11_24_2024"
+            }
+        ],
+        "mcveija01": [
+            {
+                "grade": 65.18,
+                "rank": 432,
+                "games_played": 6,
+                "team": "HOU",
+                "date": "11_24_2024"
+            }
+        ],
+        "cartodj01": [
+            {
+                "grade": 65.15,
+                "rank": 433,
+                "games_played": 4,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "rhodeja01": [
+            {
+                "grade": 65.05,
+                "rank": 434,
+                "games_played": 4,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "morrima02": [
+            {
+                "grade": 64.83,
+                "rank": 435,
+                "games_played": 2,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "walteja01": [
+            {
+                "grade": 64.64,
+                "rank": 436,
+                "games_played": 4,
+                "team": "TOR",
+                "date": "11_24_2024"
+            }
+        ],
+        "micicva01": [
+            {
+                "grade": 64.35,
+                "rank": 437,
+                "games_played": 6,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "johnsaj01": [
+            {
+                "grade": 64.14,
+                "rank": 438,
+                "games_played": 4,
+                "team": "MIL",
+                "date": "11_24_2024"
+            }
+        ],
+        "garzalu01": [
+            {
+                "grade": 64.03,
+                "rank": 439,
+                "games_played": 4,
+                "team": "MIN",
+                "date": "11_24_2024"
+            }
+        ],
+        "davisjd01": [
+            {
+                "grade": 64.0,
+                "rank": 440,
+                "games_played": 3,
+                "team": "BOS",
+                "date": "11_24_2024"
+            }
+        ],
+        "vincega01": [
+            {
+                "grade": 63.95,
+                "rank": 441,
+                "games_played": 16,
+                "team": "LAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "kawamyu01": [
+            {
+                "grade": 63.94,
+                "rank": 442,
+                "games_played": 9,
+                "team": "MEM",
+                "date": "11_24_2024"
+            }
+        ],
+        "smithni01": [
+            {
+                "grade": 63.72,
+                "rank": 443,
+                "games_played": 5,
+                "team": "CHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "reathdu01": [
+            {
+                "grade": 63.56,
+                "rank": 444,
+                "games_played": 9,
+                "team": "POR",
+                "date": "11_24_2024"
+            }
+        ],
+        "willibr03": [
+            {
+                "grade": 63.31,
+                "rank": 445,
+                "games_played": 5,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "gueyemo02": [
+            {
+                "grade": 63.21,
+                "rank": 446,
+                "games_played": 2,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "houstca01": [
+            {
+                "grade": 62.81,
+                "rank": 447,
+                "games_played": 11,
+                "team": "ORL",
+                "date": "11_24_2024"
+            }
+        ],
+        "armeltr01": [
+            {
+                "grade": 62.74,
+                "rank": 448,
+                "games_played": 2,
+                "team": "LAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "jenkida01": [
+            {
+                "grade": 62.71,
+                "rank": 449,
+                "games_played": 2,
+                "team": "DET",
+                "date": "11_24_2024"
+            }
+        ],
+        "alexatr01": [
+            {
+                "grade": 62.63,
+                "rank": 450,
+                "games_played": 6,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "lewisma05": [
+            {
+                "grade": 62.5,
+                "rank": 451,
+                "games_played": 3,
+                "team": "LAL",
+                "date": "11_24_2024"
+            }
+        ],
+        "barlodo01": [
+            {
+                "grade": 62.3,
+                "rank": 452,
+                "games_played": 2,
+                "team": "ATL",
+                "date": "11_24_2024"
+            }
+        ],
+        "leonsma01": [
+            {
+                "grade": 62.28,
+                "rank": 453,
+                "games_played": 6,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "pickeja02": [
+            {
+                "grade": 62.22,
+                "rank": 454,
+                "games_played": 2,
+                "team": "DEN",
+                "date": "11_24_2024"
+            }
+        ],
+        "bridgja01": [
+            {
+                "grade": 61.98,
+                "rank": 455,
+                "games_played": 2,
+                "team": "PHO",
+                "date": "11_24_2024"
+            }
+        ],
+        "ducasal01": [
+            {
+                "grade": 61.87,
+                "rank": 456,
+                "games_played": 4,
+                "team": "OKC",
+                "date": "11_24_2024"
+            }
+        ],
+        "ryanma01": [
+            {
+                "grade": 61.38,
+                "rank": 457,
+                "games_played": 4,
+                "team": "NYK",
+                "date": "11_24_2024"
+            }
+        ],
+        "edwarke02": [
+            {
+                "grade": 61.3,
+                "rank": 458,
+                "games_played": 3,
+                "team": "DAL",
+                "date": "11_24_2024"
+            }
+        ]
+    },
+    "teams": {
+        "CLE": [
+            {
+                "score": 93.18,
+                "rank": 1,
+                "avg_grade": 92.35,
+                "standing": "1st in East",
+                "date": "11_24_2024"
+            }
+        ],
+        "BOS": [
+            {
+                "score": 91.62,
+                "rank": 2,
+                "avg_grade": 90.94,
+                "standing": "2nd in East",
+                "date": "11_24_2024"
+            }
+        ],
+        "MEM": [
+            {
+                "score": 91.58,
+                "rank": 3,
+                "avg_grade": 90.21,
+                "standing": "6th in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "OKC": [
+            {
+                "score": 90.99,
+                "rank": 4,
+                "avg_grade": 89.44,
+                "standing": "3rd in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "GSW": [
+            {
+                "score": 90.87,
+                "rank": 5,
+                "avg_grade": 89.29,
+                "standing": "1st in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "ORL": [
+            {
+                "score": 90.59,
+                "rank": 6,
+                "avg_grade": 88.86,
+                "standing": "3rd in East",
+                "date": "11_24_2024"
+            }
+        ],
+        "DAL": [
+            {
+                "score": 90.14,
+                "rank": 7,
+                "avg_grade": 89.55,
+                "standing": "7th in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "SAS": [
+            {
+                "score": 90.02,
+                "rank": 8,
+                "avg_grade": 88.93,
+                "standing": "10th in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "HOU": [
+            {
+                "score": 89.88,
+                "rank": 9,
+                "avg_grade": 88.14,
+                "standing": "2nd in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "LAC": [
+            {
+                "score": 89.22,
+                "rank": 10,
+                "avg_grade": 87.34,
+                "standing": "4th in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "NYK": [
+            {
+                "score": 88.95,
+                "rank": 11,
+                "avg_grade": 87.98,
+                "standing": "4th in East",
+                "date": "11_24_2024"
+            }
+        ],
+        "SAC": [
+            {
+                "score": 88.37,
+                "rank": 12,
+                "avg_grade": 87.35,
+                "standing": "12th in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "MIL": [
+            {
+                "score": 88.09,
+                "rank": 13,
+                "avg_grade": 86.74,
+                "standing": "5th in East",
+                "date": "11_24_2024"
+            }
+        ],
+        "DEN": [
+            {
+                "score": 87.91,
+                "rank": 14,
+                "avg_grade": 88.26,
+                "standing": "8th in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "DET": [
+            {
+                "score": 87.76,
+                "rank": 15,
+                "avg_grade": 87.21,
+                "standing": "8th in East",
+                "date": "11_24_2024"
+            }
+        ],
+        "MIN": [
+            {
+                "score": 87.23,
+                "rank": 16,
+                "avg_grade": 87.61,
+                "standing": "11th in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "LAL": [
+            {
+                "score": 86.75,
+                "rank": 17,
+                "avg_grade": 86.96,
+                "standing": "5th in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "IND": [
+            {
+                "score": 86.68,
+                "rank": 18,
+                "avg_grade": 86.55,
+                "standing": "11th in East",
+                "date": "11_24_2024"
+            }
+        ],
+        "ATL": [
+            {
+                "score": 86.5,
+                "rank": 19,
+                "avg_grade": 86.42,
+                "standing": "6th in East",
+                "date": "11_24_2024"
+            }
+        ],
+        "CHI": [
+            {
+                "score": 86.43,
+                "rank": 20,
+                "avg_grade": 85.52,
+                "standing": "7th in East",
+                "date": "11_24_2024"
+            }
+        ],
+        "PHO": [
+            {
+                "score": 86.32,
+                "rank": 21,
+                "avg_grade": 87.27,
+                "standing": "9th in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "CHO": [
+            {
+                "score": 85.51,
+                "rank": 22,
+                "avg_grade": 86.07,
+                "standing": "10th in East",
+                "date": "11_24_2024"
+            }
+        ],
+        "TOR": [
+            {
+                "score": 85.5,
+                "rank": 23,
+                "avg_grade": 85.47,
+                "standing": "13th in East",
+                "date": "11_24_2024"
+            }
+        ],
+        "MIA": [
+            {
+                "score": 85.4,
+                "rank": 24,
+                "avg_grade": 87.17,
+                "standing": "12th in East",
+                "date": "11_24_2024"
+            }
+        ],
+        "BRK": [
+            {
+                "score": 85.01,
+                "rank": 25,
+                "avg_grade": 85.46,
+                "standing": "9th in East",
+                "date": "11_24_2024"
+            }
+        ],
+        "POR": [
+            {
+                "score": 84.62,
+                "rank": 26,
+                "avg_grade": 84.9,
+                "standing": "13th in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "UTA": [
+            {
+                "score": 83.1,
+                "rank": 27,
+                "avg_grade": 84.3,
+                "standing": "15th in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "NOP": [
+            {
+                "score": 82.88,
+                "rank": 28,
+                "avg_grade": 82.5,
+                "standing": "14th in West",
+                "date": "11_24_2024"
+            }
+        ],
+        "PHI": [
+            {
+                "score": 82.33,
+                "rank": 29,
+                "avg_grade": 84.18,
+                "standing": "14th in East",
+                "date": "11_24_2024"
+            }
+        ],
+        "WAS": [
+            {
+                "score": 81.21,
+                "rank": 30,
+                "avg_grade": 81.64,
+                "standing": "15th in East",
+                "date": "11_24_2024"
+            }
+        ]
+    },
+    "league_progression": [
+        {
+            "grade": 106.5,
+            "date": "11_24_2024"
+        }
+    ],
+    "final_results": {}
+}

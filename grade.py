@@ -374,5 +374,60 @@ def archive(year):
 
     return r
 
+def soft_archive(year, most_recent_date=""):
+    r = {
+        "players": {},
+        "teams": {},
+        "league_progression": [],
+        "final_results": {}
+    }
+
+    player_path = f"data/archive/{year}/stat/players/grades"
+    team_path = f"data/archive/{year}/team/grades"
+
+    for filename in os.listdir(player_path):
+        player_grades = tools.load(os.path.join(player_path, filename))
+        team_grades = tools.load(os.path.join(team_path, filename))
+
+        r["league_progression"].append( 
+            {
+            "grade": player_grades[list(player_grades.keys())[0]]["league_grade"],
+            "date": filename.split(".")[0]
+            }
+        )
+
+        for player in player_grades:
+            if player not in list(r["players"].keys()):
+                r["players"][player] = []
+            r["players"][player].append(
+                {
+                "grade": player_grades[player]["grade"],
+                "rank": player_grades[player]["rank"],
+                "games_played": player_grades[player]["games_played"],
+                "team": player_grades[player]["team"],
+                "date": filename.split(".")[0],
+                }
+            )
+        
+        for team in team_grades:
+            if team not in list(r["teams"].keys()):
+                r["teams"][team] = []
+            r["teams"][team].append( {
+                "score": team_grades[team]["score"],
+                "rank": team_grades[team]["rank"],
+                "avg_grade": team_grades[team]["avg_grade"],
+                "standing": team_grades[team]["standing"],
+                "date": filename.split(".")[0],
+            })
+
+
+    for data in r["league_progression"]:
+        data["date"] = datetime.strptime(data["date"], "%m_%d_%Y")
+    r["league_progression"].sort(key=lambda x: x['date'])
+    for data in r["league_progression"]:
+        data["date"] = data["date"].strftime("%m_%d_%Y")
+
+    return r
+
 if __name__ == "__main__":
     tools.dump("data/archive/2024/results.json", archive("2024"))

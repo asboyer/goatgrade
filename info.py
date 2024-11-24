@@ -192,7 +192,7 @@ def season_percentage():
     if in_early_season and (current_month == start_month and current_day < start_day):
         return 0
     if in_late_season and (current_month == end_month and current_day > end_day):
-        return 100
+        return 1.0
 
 
     start_date = datetime(start_year, start_month, start_day)
