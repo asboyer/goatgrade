@@ -1,6 +1,6 @@
 {
     "MIL": {
-        "Tm": "MIL",
+        "Team": "MIL",
         "RRK": "1",
         "Name": "Milwaukee Bucks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1971.png",
@@ -15,7 +15,7 @@
         "rank": 1
     },
     "CHI": {
-        "Tm": "CHI",
+        "Team": "CHI",
         "RRK": "3",
         "Name": "Chicago Bulls",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1971.png",
@@ -30,7 +30,7 @@
         "rank": 2
     },
     "NYK": {
-        "Tm": "NYK",
+        "Team": "NYK",
         "RRK": "2",
         "Name": "New York Knicks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1971.png",
@@ -45,7 +45,7 @@
         "rank": 3
     },
     "PHO": {
-        "Tm": "PHO",
+        "Team": "PHO",
         "RRK": "5",
         "Name": "Phoenix Suns",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1971.png",
@@ -60,7 +60,7 @@
         "rank": 4
     },
     "LAL": {
-        "Tm": "LAL",
+        "Team": "LAL",
         "RRK": "4",
         "Name": "Los Angeles Lakers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1971.png",
@@ -75,7 +75,7 @@
         "rank": 5
     },
     "BAL": {
-        "Tm": "BAL",
+        "Team": "BAL",
         "RRK": "9",
         "Name": "Baltimore Bullets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1971.png",
@@ -90,7 +90,7 @@
         "rank": 6
     },
     "SFW": {
-        "Tm": "SFW",
+        "Team": "SFW",
         "RRK": "10",
         "Name": "San Francisco Warriors",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1971.png",
@@ -105,7 +105,7 @@
         "rank": 7
     },
     "DET": {
-        "Tm": "DET",
+        "Team": "DET",
         "RRK": "7",
         "Name": "Detroit Pistons",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1971.png",
@@ -120,7 +120,7 @@
         "rank": 8
     },
     "BOS": {
-        "Tm": "BOS",
+        "Team": "BOS",
         "RRK": "8",
         "Name": "Boston Celtics",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1971.png",
@@ -135,7 +135,7 @@
         "rank": 9
     },
     "PHI": {
-        "Tm": "PHI",
+        "Team": "PHI",
         "RRK": "6",
         "Name": "Philadelphia 76ers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1971.png",
@@ -150,7 +150,7 @@
         "rank": 10
     },
     "SEA": {
-        "Tm": "SEA",
+        "Team": "SEA",
         "RRK": "12",
         "Name": "Seattle SuperSonics",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1971.png",
@@ -165,7 +165,7 @@
         "rank": 11
     },
     "SDR": {
-        "Tm": "SDR",
+        "Team": "SDR",
         "RRK": "11",
         "Name": "San Diego Rockets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SDR-1971.png",
@@ -180,7 +180,7 @@
         "rank": 12
     },
     "CIN": {
-        "Tm": "CIN",
+        "Team": "CIN",
         "RRK": "14",
         "Name": "Cincinnati Royals",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1971.png",
@@ -195,7 +195,7 @@
         "rank": 13
     },
     "CLE": {
-        "Tm": "CLE",
+        "Team": "CLE",
         "RRK": "17",
         "Name": "Cleveland Cavaliers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1971.png",
@@ -210,7 +210,7 @@
         "rank": 14
     },
     "ATL": {
-        "Tm": "ATL",
+        "Team": "ATL",
         "RRK": "13",
         "Name": "Atlanta Hawks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1971.png",
@@ -225,7 +225,7 @@
         "rank": 15
     },
     "POR": {
-        "Tm": "POR",
+        "Team": "POR",
         "RRK": "15",
         "Name": "Portland Trail Blazers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-1971.png",
@@ -240,7 +240,7 @@
         "rank": 16
     },
     "BUF": {
-        "Tm": "BUF",
+        "Team": "BUF",
         "RRK": "16",
         "Name": "Buffalo Braves",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1971.png",

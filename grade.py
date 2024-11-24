@@ -4,6 +4,14 @@ import os
 import getters
 
 from datetime import datetime, timedelta
+
+import heapq
+
+def get_top_three_categories(ranks, player):
+    # Get the top three categories based on their scores
+    top_three = heapq.nlargest(3, ranks[player].items(), key=lambda x: x[1])
+    # Extract and return only the category names
+    return [category for category, score in top_three]
         
 def get_all_min_categories(player, ranks):
     min_value = min(ranks[player].values())
@@ -75,6 +83,11 @@ def grade_players(year, date_string,
 
     for player in ranks:
         score = 0
+
+        # get the three highest values in ranks[player][category]
+
+        top_three_outliers = get_top_three_categories(ranks, player)
+
         for category in ranks[player]:
             score += ranks[player][category]
 

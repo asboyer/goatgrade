@@ -1,6 +1,6 @@
 {
     "BOS": {
-        "Tm": "BOS",
+        "Team": "BOS",
         "RRK": "1",
         "Name": "Boston Celtics",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1962.png",
@@ -15,7 +15,7 @@
         "rank": 1
     },
     "LAL": {
-        "Tm": "LAL",
+        "Team": "LAL",
         "RRK": "2",
         "Name": "Los Angeles Lakers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1962.png",
@@ -30,7 +30,7 @@
         "rank": 2
     },
     "SYR": {
-        "Tm": "SYR",
+        "Team": "SYR",
         "RRK": "5",
         "Name": "Syracuse Nationals",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SYR-1962.png",
@@ -45,7 +45,7 @@
         "rank": 3
     },
     "CIN": {
-        "Tm": "CIN",
+        "Team": "CIN",
         "RRK": "4",
         "Name": "Cincinnati Royals",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1962.png",
@@ -60,7 +60,7 @@
         "rank": 4
     },
     "STL": {
-        "Tm": "STL",
+        "Team": "STL",
         "RRK": "8",
         "Name": "St. Louis Hawks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1962.png",
@@ -75,7 +75,7 @@
         "rank": 5
     },
     "DET": {
-        "Tm": "DET",
+        "Team": "DET",
         "RRK": "6",
         "Name": "Detroit Pistons",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1962.png",
@@ -90,7 +90,7 @@
         "rank": 6
     },
     "PHW": {
-        "Tm": "PHW",
+        "Team": "PHW",
         "RRK": "3",
         "Name": "Philadelphia Warriors",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHW-1962.png",
@@ -105,7 +105,7 @@
         "rank": 7
     },
     "NYK": {
-        "Tm": "NYK",
+        "Team": "NYK",
         "RRK": "7",
         "Name": "New York Knicks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1962.png",
@@ -120,7 +120,7 @@
         "rank": 8
     },
     "CHP": {
-        "Tm": "CHP",
+        "Team": "CHP",
         "RRK": "9",
         "Name": "Chicago Packers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHP-1962.png",

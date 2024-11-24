@@ -2,37 +2,42 @@
     "PHI": {
         "info": {
             "record": "47-35",
-            "standing": "7th in East in 2024 in East",
+            "standing": "Finished in East in 2024 in East",
             "coach": "Nick Nurse (47-35)",
             "gm": "Daryl Morey",
             "preseason_odds": "+1800"
         },
         "players": [
-            "Paul Reed",
-            "Tyrese Maxey",
-            "Tobias Harris",
-            "Kelly Oubre Jr.",
-            "KJ Martin",
-            "Nicolas Batum",
             "Mo Bamba",
-            "Joel Embiid",
-            "De'Anthony Melton",
-            "Buddy Hield",
+            "Nicolas Batum",
+            "Darius Bazley",
+            "Patrick Beverley",
             "Ricky Council IV",
-            "Cameron Payne",
             "Robert Covington",
+            "Jeff Dowtin",
+            "Joel Embiid",
+            "Danny Green",
+            "Tobias Harris",
+            "Buddy Hield",
+            "Danuel House Jr.",
+            "Furkan Korkmaz",
+            "Kenneth Lofton Jr.",
             "Kyle Lowry",
+            "KJ Martin",
+            "Tyrese Maxey",
+            "De'Anthony Melton",
+            "Marcus Morris",
+            "Kelly Oubre Jr.",
+            "Cameron Payne",
+            "Filip Petrušev",
+            "Paul Reed",
+            "Javonte Smart",
             "Terquavion Smith",
-            "Jeff Dowtin"
+            "Jaden Springer",
+            "P.J. Tucker",
+            "D.J. Wilson"
         ],
-        "injuries": [
-            {
-                "Player": "Robert Covington",
-                "Team": "Philadelphia 76ers",
-                "Update": "Thu, Mar 14, 2024",
-                "Description": "Out (Knee) - Covington last played (Dec. 30), and has no timetable on his return."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -277,7 +282,7 @@
                 "Attendance": "3"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/PHI-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/PHI-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

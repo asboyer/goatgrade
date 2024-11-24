@@ -30,12 +30,12 @@ def scrape_stats(year):
 
     for player in list(reg_stats):
         reg_stats[player].update(adv_stats[player])
-    
+        min_played = 10 * info.season_percentage()
         try:
-            if float(reg_stats[player]["G"]) < 10 or float(reg_stats[player]["MP"]) < 10:
+            if float(reg_stats[player]["G"]) < min_played or float(reg_stats[player]["MP"]) < min_played:
                 del reg_stats[player]
         except:
-            if float(reg_stats[player]["G"]) < 10:
+            if float(reg_stats[player]["G"]) < min_played:
                 del reg_stats[player]
 
     return clean(reg_stats)
@@ -344,5 +344,5 @@ def scrape_all_nba_teams(year):
     return all_nba_teams
 
 if __name__ == "__main__":
-    print(scrape_champion_mvp(1995))
-    print(scrape_all_nba_teams(2021))
+    print(scrape_champion_mvp(2024))
+    # print(scrape_all_nba_teams(2021))

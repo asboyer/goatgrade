@@ -1,6 +1,6 @@
 {
     "BOS": {
-        "Tm": "BOS",
+        "Team": "BOS",
         "RRK": "1",
         "Name": "Boston Celtics",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2024.png",
@@ -13,7 +13,7 @@
         "change": 0
     },
     "OKC": {
-        "Tm": "OKC",
+        "Team": "OKC",
         "RRK": "3",
         "Name": "Oklahoma City Thunder",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/OKC-2024.png",
@@ -26,7 +26,7 @@
         "change": 3
     },
     "PHO": {
-        "Tm": "PHO",
+        "Team": "PHO",
         "RRK": "12",
         "Name": "Phoenix Suns",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-2024.png",
@@ -39,7 +39,7 @@
         "change": 0
     },
     "MIN": {
-        "Tm": "MIN",
+        "Team": "MIN",
         "RRK": "4",
         "Name": "Minnesota Timberwolves",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIN-2024.png",
@@ -52,7 +52,7 @@
         "change": -2
     },
     "NOP": {
-        "Tm": "NOP",
+        "Team": "NOP",
         "RRK": "9",
         "Name": "New Orleans Pelicans",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png",
@@ -65,7 +65,7 @@
         "change": -1
     },
     "IND": {
-        "Tm": "IND",
+        "Team": "IND",
         "RRK": "13",
         "Name": "Indiana Pacers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png",
@@ -78,7 +78,7 @@
         "change": 2
     },
     "DEN": {
-        "Tm": "DEN",
+        "Team": "DEN",
         "RRK": "2",
         "Name": "Denver Nuggets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png",
@@ -91,7 +91,7 @@
         "change": -1
     },
     "LAC": {
-        "Tm": "LAC",
+        "Team": "LAC",
         "RRK": "5",
         "Name": "Los Angeles Clippers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAC-2024.png",
@@ -104,7 +104,7 @@
         "change": -1
     },
     "CLE": {
-        "Tm": "CLE",
+        "Team": "CLE",
         "RRK": "7",
         "Name": "Cleveland Cavaliers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png",
@@ -117,7 +117,7 @@
         "change": 0
     },
     "ORL": {
-        "Tm": "ORL",
+        "Team": "ORL",
         "RRK": "11",
         "Name": "Orlando Magic",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png",
@@ -130,7 +130,7 @@
         "change": 0
     },
     "MIL": {
-        "Tm": "MIL",
+        "Team": "MIL",
         "RRK": "6",
         "Name": "Milwaukee Bucks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png",
@@ -143,7 +143,7 @@
         "change": 0
     },
     "NYK": {
-        "Tm": "NYK",
+        "Team": "NYK",
         "RRK": "10",
         "Name": "New York Knicks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png",
@@ -156,7 +156,7 @@
         "change": 0
     },
     "LAL": {
-        "Tm": "LAL",
+        "Team": "LAL",
         "RRK": "15",
         "Name": "Los Angeles Lakers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png",
@@ -169,7 +169,7 @@
         "change": 1
     },
     "PHI": {
-        "Tm": "PHI",
+        "Team": "PHI",
         "RRK": "18",
         "Name": "Philadelphia 76ers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-2024.png",
@@ -182,7 +182,7 @@
         "change": -1
     },
     "GSW": {
-        "Tm": "GSW",
+        "Team": "GSW",
         "RRK": "17",
         "Name": "Golden State Warriors",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png",
@@ -195,7 +195,7 @@
         "change": 3
     },
     "DAL": {
-        "Tm": "DAL",
+        "Team": "DAL",
         "RRK": "8",
         "Name": "Dallas Mavericks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2024.png",
@@ -208,7 +208,7 @@
         "change": 0
     },
     "CHI": {
-        "Tm": "CHI",
+        "Team": "CHI",
         "RRK": "20",
         "Name": "Chicago Bulls",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png",
@@ -221,7 +221,7 @@
         "change": 2
     },
     "HOU": {
-        "Tm": "HOU",
+        "Team": "HOU",
         "RRK": "19",
         "Name": "Houston Rockets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png",
@@ -234,7 +234,7 @@
         "change": -3
     },
     "MIA": {
-        "Tm": "MIA",
+        "Team": "MIA",
         "RRK": "16",
         "Name": "Miami Heat",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png",
@@ -247,7 +247,7 @@
         "change": 1
     },
     "SAC": {
-        "Tm": "SAC",
+        "Team": "SAC",
         "RRK": "14",
         "Name": "Sacramento Kings",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png",
@@ -260,7 +260,7 @@
         "change": -3
     },
     "ATL": {
-        "Tm": "ATL",
+        "Team": "ATL",
         "RRK": "21",
         "Name": "Atlanta Hawks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png",
@@ -273,7 +273,7 @@
         "change": 2
     },
     "BRK": {
-        "Tm": "BRK",
+        "Team": "BRK",
         "RRK": "22",
         "Name": "Brooklyn Nets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png",
@@ -286,7 +286,7 @@
         "change": -1
     },
     "UTA": {
-        "Tm": "UTA",
+        "Team": "UTA",
         "RRK": "23",
         "Name": "Utah Jazz",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2024.png",
@@ -299,7 +299,7 @@
         "change": -1
     },
     "SAS": {
-        "Tm": "SAS",
+        "Team": "SAS",
         "RRK": "28",
         "Name": "San Antonio Spurs",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png",
@@ -312,7 +312,7 @@
         "change": 2
     },
     "TOR": {
-        "Tm": "TOR",
+        "Team": "TOR",
         "RRK": "25",
         "Name": "Toronto Raptors",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/TOR-2024.png",
@@ -325,7 +325,7 @@
         "change": -1
     },
     "MEM": {
-        "Tm": "MEM",
+        "Team": "MEM",
         "RRK": "24",
         "Name": "Memphis Grizzlies",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png",
@@ -338,7 +338,7 @@
         "change": -1
     },
     "POR": {
-        "Tm": "POR",
+        "Team": "POR",
         "RRK": "26",
         "Name": "Portland Trail Blazers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png",
@@ -351,7 +351,7 @@
         "change": 0
     },
     "DET": {
-        "Tm": "DET",
+        "Team": "DET",
         "RRK": "30",
         "Name": "Detroit Pistons",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png",
@@ -364,7 +364,7 @@
         "change": 1
     },
     "WAS": {
-        "Tm": "WAS",
+        "Team": "WAS",
         "RRK": "29",
         "Name": "Washington Wizards",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png",
@@ -377,7 +377,7 @@
         "change": -1
     },
     "CHO": {
-        "Tm": "CHO",
+        "Team": "CHO",
         "RRK": "27",
         "Name": "Charlotte Hornets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2024.png",

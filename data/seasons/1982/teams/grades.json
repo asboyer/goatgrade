@@ -1,6 +1,6 @@
 {
     "PHI": {
-        "Tm": "PHI",
+        "Team": "PHI",
         "RRK": "2",
         "Name": "Philadelphia 76ers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1982.png",
@@ -15,7 +15,7 @@
         "rank": 1
     },
     "MIL": {
-        "Tm": "MIL",
+        "Team": "MIL",
         "RRK": "4",
         "Name": "Milwaukee Bucks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1982.png",
@@ -30,7 +30,7 @@
         "rank": 2
     },
     "BOS": {
-        "Tm": "BOS",
+        "Team": "BOS",
         "RRK": "1",
         "Name": "Boston Celtics",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1982.png",
@@ -45,7 +45,7 @@
         "rank": 3
     },
     "LAL": {
-        "Tm": "LAL",
+        "Team": "LAL",
         "RRK": "3",
         "Name": "Los Angeles Lakers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1982.png",
@@ -60,7 +60,7 @@
         "rank": 4
     },
     "SEA": {
-        "Tm": "SEA",
+        "Team": "SEA",
         "RRK": "5",
         "Name": "Seattle SuperSonics",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1982.png",
@@ -75,7 +75,7 @@
         "rank": 5
     },
     "DEN": {
-        "Tm": "DEN",
+        "Team": "DEN",
         "RRK": "7",
         "Name": "Denver Nuggets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-1982.png",
@@ -90,7 +90,7 @@
         "rank": 6
     },
     "PHO": {
-        "Tm": "PHO",
+        "Team": "PHO",
         "RRK": "9",
         "Name": "Phoenix Suns",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1982.png",
@@ -105,7 +105,7 @@
         "rank": 7
     },
     "SAS": {
-        "Tm": "SAS",
+        "Team": "SAS",
         "RRK": "6",
         "Name": "San Antonio Spurs",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-1982.png",
@@ -120,7 +120,7 @@
         "rank": 8
     },
     "GSW": {
-        "Tm": "GSW",
+        "Team": "GSW",
         "RRK": "10",
         "Name": "Golden State Warriors",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-1982.png",
@@ -135,7 +135,7 @@
         "rank": 9
     },
     "ATL": {
-        "Tm": "ATL",
+        "Team": "ATL",
         "RRK": "13",
         "Name": "Atlanta Hawks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1982.png",
@@ -150,7 +150,7 @@
         "rank": 10
     },
     "HOU": {
-        "Tm": "HOU",
+        "Team": "HOU",
         "RRK": "8",
         "Name": "Houston Rockets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-1982.png",
@@ -165,7 +165,7 @@
         "rank": 11
     },
     "NJN": {
-        "Tm": "NJN",
+        "Team": "NJN",
         "RRK": "11",
         "Name": "New Jersey Nets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NJN-1982.png",
@@ -180,7 +180,7 @@
         "rank": 12
     },
     "WSB": {
-        "Tm": "WSB",
+        "Team": "WSB",
         "RRK": "12",
         "Name": "Washington Bullets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/WSB-1982.png",
@@ -195,7 +195,7 @@
         "rank": 13
     },
     "DET": {
-        "Tm": "DET",
+        "Team": "DET",
         "RRK": "15",
         "Name": "Detroit Pistons",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1982.png",
@@ -210,7 +210,7 @@
         "rank": 14
     },
     "POR": {
-        "Tm": "POR",
+        "Team": "POR",
         "RRK": "14",
         "Name": "Portland Trail Blazers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-1982.png",
@@ -225,7 +225,7 @@
         "rank": 15
     },
     "IND": {
-        "Tm": "IND",
+        "Team": "IND",
         "RRK": "16",
         "Name": "Indiana Pacers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-1982.png",
@@ -240,7 +240,7 @@
         "rank": 16
     },
     "CHI": {
-        "Tm": "CHI",
+        "Team": "CHI",
         "RRK": "17",
         "Name": "Chicago Bulls",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1982.png",
@@ -255,7 +255,7 @@
         "rank": 17
     },
     "NYK": {
-        "Tm": "NYK",
+        "Team": "NYK",
         "RRK": "18",
         "Name": "New York Knicks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1982.png",
@@ -270,7 +270,7 @@
         "rank": 18
     },
     "KCK": {
-        "Tm": "KCK",
+        "Team": "KCK",
         "RRK": "19",
         "Name": "Kansas City Kings",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/KCK-1982.png",
@@ -285,7 +285,7 @@
         "rank": 19
     },
     "DAL": {
-        "Tm": "DAL",
+        "Team": "DAL",
         "RRK": "20",
         "Name": "Dallas Mavericks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-1982.png",
@@ -300,7 +300,7 @@
         "rank": 20
     },
     "SDC": {
-        "Tm": "SDC",
+        "Team": "SDC",
         "RRK": "22",
         "Name": "San Diego Clippers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SDC-1982.png",
@@ -315,7 +315,7 @@
         "rank": 21
     },
     "UTA": {
-        "Tm": "UTA",
+        "Team": "UTA",
         "RRK": "21",
         "Name": "Utah Jazz",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-1982.png",
@@ -330,7 +330,7 @@
         "rank": 22
     },
     "CLE": {
-        "Tm": "CLE",
+        "Team": "CLE",
         "RRK": "23",
         "Name": "Cleveland Cavaliers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1982.png",

@@ -1,6 +1,6 @@
 {
     "WSB": {
-        "Tm": "WSB",
+        "Team": "WSB",
         "RRK": "2",
         "Name": "Washington Bullets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/WSB-1975.png",
@@ -15,7 +15,7 @@
         "rank": 1
     },
     "BOS": {
-        "Tm": "BOS",
+        "Team": "BOS",
         "RRK": "1",
         "Name": "Boston Celtics",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1975.png",
@@ -30,7 +30,7 @@
         "rank": 2
     },
     "BUF": {
-        "Tm": "BUF",
+        "Team": "BUF",
         "RRK": "3",
         "Name": "Buffalo Braves",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BUF-1975.png",
@@ -45,7 +45,7 @@
         "rank": 3
     },
     "GSW": {
-        "Tm": "GSW",
+        "Team": "GSW",
         "RRK": "4",
         "Name": "Golden State Warriors",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-1975.png",
@@ -60,7 +60,7 @@
         "rank": 4
     },
     "CHI": {
-        "Tm": "CHI",
+        "Team": "CHI",
         "RRK": "5",
         "Name": "Chicago Bulls",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1975.png",
@@ -75,7 +75,7 @@
         "rank": 5
     },
     "HOU": {
-        "Tm": "HOU",
+        "Team": "HOU",
         "RRK": "8",
         "Name": "Houston Rockets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-1975.png",
@@ -90,7 +90,7 @@
         "rank": 6
     },
     "KCO": {
-        "Tm": "KCO",
+        "Team": "KCO",
         "RRK": "6",
         "Name": "Kansas City-Omaha Kings",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/KCO-1975.png",
@@ -105,7 +105,7 @@
         "rank": 7
     },
     "SEA": {
-        "Tm": "SEA",
+        "Team": "SEA",
         "RRK": "7",
         "Name": "Seattle SuperSonics",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SEA-1975.png",
@@ -120,7 +120,7 @@
         "rank": 8
     },
     "POR": {
-        "Tm": "POR",
+        "Team": "POR",
         "RRK": "13",
         "Name": "Portland Trail Blazers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-1975.png",
@@ -135,7 +135,7 @@
         "rank": 9
     },
     "DET": {
-        "Tm": "DET",
+        "Team": "DET",
         "RRK": "9",
         "Name": "Detroit Pistons",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1975.png",
@@ -150,7 +150,7 @@
         "rank": 10
     },
     "CLE": {
-        "Tm": "CLE",
+        "Team": "CLE",
         "RRK": "11",
         "Name": "Cleveland Cavaliers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-1975.png",
@@ -165,7 +165,7 @@
         "rank": 11
     },
     "NYK": {
-        "Tm": "NYK",
+        "Team": "NYK",
         "RRK": "10",
         "Name": "New York Knicks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1975.png",
@@ -180,7 +180,7 @@
         "rank": 12
     },
     "MIL": {
-        "Tm": "MIL",
+        "Team": "MIL",
         "RRK": "12",
         "Name": "Milwaukee Bucks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-1975.png",
@@ -195,7 +195,7 @@
         "rank": 13
     },
     "PHI": {
-        "Tm": "PHI",
+        "Team": "PHI",
         "RRK": "14",
         "Name": "Philadelphia 76ers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1975.png",
@@ -210,7 +210,7 @@
         "rank": 14
     },
     "PHO": {
-        "Tm": "PHO",
+        "Team": "PHO",
         "RRK": "15",
         "Name": "Phoenix Suns",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-1975.png",
@@ -225,7 +225,7 @@
         "rank": 15
     },
     "ATL": {
-        "Tm": "ATL",
+        "Team": "ATL",
         "RRK": "16",
         "Name": "Atlanta Hawks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-1975.png",
@@ -240,7 +240,7 @@
         "rank": 16
     },
     "LAL": {
-        "Tm": "LAL",
+        "Team": "LAL",
         "RRK": "17",
         "Name": "Los Angeles Lakers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1975.png",
@@ -255,7 +255,7 @@
         "rank": 17
     },
     "NOJ": {
-        "Tm": "NOJ",
+        "Team": "NOJ",
         "RRK": "18",
         "Name": "New Orleans Jazz",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NOJ-1975.png",

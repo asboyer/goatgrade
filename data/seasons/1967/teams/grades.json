@@ -1,6 +1,6 @@
 {
     "BOS": {
-        "Tm": "BOS",
+        "Team": "BOS",
         "RRK": "2",
         "Name": "Boston Celtics",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1967.png",
@@ -15,7 +15,7 @@
         "rank": 1
     },
     "PHI": {
-        "Tm": "PHI",
+        "Team": "PHI",
         "RRK": "1",
         "Name": "Philadelphia 76ers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1967.png",
@@ -30,7 +30,7 @@
         "rank": 2
     },
     "CIN": {
-        "Tm": "CIN",
+        "Team": "CIN",
         "RRK": "4",
         "Name": "Cincinnati Royals",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1967.png",
@@ -45,7 +45,7 @@
         "rank": 3
     },
     "SFW": {
-        "Tm": "SFW",
+        "Team": "SFW",
         "RRK": "3",
         "Name": "San Francisco Warriors",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1967.png",
@@ -60,7 +60,7 @@
         "rank": 4
     },
     "STL": {
-        "Tm": "STL",
+        "Team": "STL",
         "RRK": "5",
         "Name": "St. Louis Hawks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1967.png",
@@ -75,7 +75,7 @@
         "rank": 5
     },
     "NYK": {
-        "Tm": "NYK",
+        "Team": "NYK",
         "RRK": "7",
         "Name": "New York Knicks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1967.png",
@@ -90,7 +90,7 @@
         "rank": 6
     },
     "LAL": {
-        "Tm": "LAL",
+        "Team": "LAL",
         "RRK": "6",
         "Name": "Los Angeles Lakers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1967.png",
@@ -105,7 +105,7 @@
         "rank": 7
     },
     "CHI": {
-        "Tm": "CHI",
+        "Team": "CHI",
         "RRK": "8",
         "Name": "Chicago Bulls",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-1967.png",
@@ -120,7 +120,7 @@
         "rank": 8
     },
     "DET": {
-        "Tm": "DET",
+        "Team": "DET",
         "RRK": "9",
         "Name": "Detroit Pistons",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1967.png",
@@ -135,7 +135,7 @@
         "rank": 9
     },
     "BAL": {
-        "Tm": "BAL",
+        "Team": "BAL",
         "RRK": "10",
         "Name": "Baltimore Bullets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1967.png",

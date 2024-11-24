@@ -2,57 +2,32 @@
     "CHI": {
         "info": {
             "record": "39-43",
-            "standing": "9th in East",
+            "standing": "Finished in East",
             "coach": "Billy Donovan (39-43)",
             "gm": "Artūras Karnišovas",
             "preseason_odds": "+12500"
         },
         "players": [
-            "DeMar DeRozan",
-            "Coby White",
-            "Andre Drummond",
-            "Nikola Vučević",
-            "Ayo Dosunmu",
+            "Onuralp Bitim",
             "Jevon Carter",
             "Alex Caruso",
-            "Dalen Terry",
             "Torrey Craig",
-            "Patrick Williams",
-            "Julian Phillips",
-            "Zach LaVine",
-            "Onuralp Bitim",
-            "Javonte Green",
-            "Adama Sanogo",
-            "Andrew Funk",
+            "DeMar DeRozan",
+            "Ayo Dosunmu",
             "Henri Drell",
-            "Lonzo Ball"
+            "Andre Drummond",
+            "Andrew Funk",
+            "Javonte Green",
+            "Zach LaVine",
+            "Julian Phillips",
+            "Adama Sanogo",
+            "Terry Taylor",
+            "Dalen Terry",
+            "Nikola Vučević",
+            "Coby White",
+            "Patrick Williams"
         ],
-        "injuries": [
-            {
-                "Player": "Lonzo Ball",
-                "Team": "Chicago Bulls",
-                "Update": "Tue, Nov 7, 2023",
-                "Description": "Out For Season (Knee) - Ball will miss the 2023-24 season while recovering from surgery."
-            },
-            {
-                "Player": "Onuralp Bitim",
-                "Team": "Chicago Bulls",
-                "Update": "Tue, Apr 16, 2024",
-                "Description": "Out For Season (Eye) - Bitim is OUT for Wednesday's (Apr. 17) game versus Atlanta."
-            },
-            {
-                "Player": "Zach LaVine",
-                "Team": "Chicago Bulls",
-                "Update": "Sat, Feb 3, 2024",
-                "Description": "Out For Season (Ankle) - The Chicago Bulls announced guard Zach LaVine will undergo surgery on right foot and be out the rest of the season. via @AdamSchefter on X."
-            },
-            {
-                "Player": "Patrick Williams",
-                "Team": "Chicago Bulls",
-                "Update": "Fri, Feb 23, 2024",
-                "Description": "Out For Season (Foot) - The Bulls announced that Williams will undergo season ending foot surgery. "
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -297,7 +272,7 @@
                 "Attendance": "1"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/CHI-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/CHI-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

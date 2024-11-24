@@ -14,7 +14,7 @@ league_path = "data/seasons/{}/league/league.json"
 def get_team_list(data):
     teams = []
     for player in data:
-        team = data[player]["Tm"]
+        team = data[player]["Team"]
         if isinstance(team, list):
             for t in team:
                 teams.append(t)
@@ -30,6 +30,8 @@ def get_teams(teams, year):
 
 if __name__ == "__main__":
     for season in info.seasons:
+        if season != 2024:
+            continue
         print(f"Scraping {season} season")
 
         os.makedirs(f"data/seasons/{str(season)}", exist_ok=True)
@@ -78,10 +80,10 @@ if __name__ == "__main__":
             data[team]["last_update"] = t[team]["last_update"]
 
         for player in player_data:
-            if isinstance(player_data[player]["Tm"], list):
-                team = player_data[player]["Tm"][-1]
+            if isinstance(player_data[player]["Team"], list):
+                team = player_data[player]["Team"][-1]
             else:
-                team = player_data[player]["Tm"]
+                team = player_data[player]["Team"]
             data[team]["roster"].append(player)
 
         tools.dump(league_path.format(season), data)

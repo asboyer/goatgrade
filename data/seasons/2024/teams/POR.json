@@ -2,45 +2,36 @@
     "POR": {
         "info": {
             "record": "21-61",
-            "standing": "15th in West",
+            "standing": "Finished in West",
             "coach": "Chauncey Billups (21-61)",
             "gm": "Joe Cronin",
             "preseason_odds": "+12500"
         },
         "players": [
-            "Jabari Walker",
-            "Toumani Camara",
-            "Duop Reath",
-            "Matisse Thybulle",
-            "Scoot Henderson",
-            "Kris Murray",
             "Deandre Ayton",
-            "Jerami Grant",
-            "Anfernee Simons",
-            "Malcolm Brogdon",
-            "Rayan Rupert",
-            "Justin Minaya",
-            "Shaedon Sharpe",
-            "Dalano Banton",
-            "Moses Brown",
             "Ibou Badji",
+            "Dalano Banton",
+            "Jamaree Bouyea",
+            "Malcolm Brogdon",
+            "Moses Brown",
+            "Toumani Camara",
+            "Jerami Grant",
             "Ashton Hagans",
+            "Scoot Henderson",
+            "Skylar Mays",
+            "Justin Minaya",
+            "Taze Moore",
+            "Kris Murray",
+            "Duop Reath",
+            "Rayan Rupert",
+            "Shaedon Sharpe",
+            "Anfernee Simons",
+            "Matisse Thybulle",
+            "Ish Wainright",
+            "Jabari Walker",
             "Robert Williams"
         ],
-        "injuries": [
-            {
-                "Player": "Toumani Camara",
-                "Team": "Portland Trail Blazers",
-                "Update": "Sat, Mar 30, 2024",
-                "Description": "Out For Season (Rib) - Camara is OUT for the rest of the season but will make a full recovery from his rib fracture."
-            },
-            {
-                "Player": "Robert Williams",
-                "Team": "Portland Trail Blazers",
-                "Update": "Fri, Nov 10, 2023",
-                "Description": "Out For Season (Knee) - Williams III will be required to undergo season-ending knee surgery, per Adrian Wojnarowski."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -285,7 +276,7 @@
                 "Attendance": "13"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/POR-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/POR-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

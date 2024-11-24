@@ -2,45 +2,33 @@
     "ATL": {
         "info": {
             "record": "36-46",
-            "standing": "10th in East",
+            "standing": "Finished in East",
             "coach": "Quin Snyder (36-46)",
             "gm": "Landry Fields",
             "preseason_odds": "+8000"
         },
         "players": [
-            "Bogdan Bogdanović",
-            "Dejounte Murray",
-            "Clint Capela",
-            "Garrison Mathews",
             "Saddiq Bey",
-            "De'Andre Hunter",
-            "Jalen Johnson",
-            "Onyeka Okongwu",
-            "Trae Young",
+            "Bogdan Bogdanović",
+            "Kobe Bufkin",
+            "Clint Capela",
             "Bruno Fernando",
             "Trent Forrest",
-            "Wesley Matthews",
-            "Vit Krejci",
             "AJ Griffin",
-            "Kobe Bufkin",
+            "Mouhamed Gueye",
+            "De'Andre Hunter",
+            "Jalen Johnson",
+            "Vit Krejci",
             "Seth Lundy",
+            "Garrison Mathews",
+            "Wesley Matthews",
+            "Patty Mills",
+            "Dejounte Murray",
+            "Onyeka Okongwu",
             "Dylan Windler",
-            "Mouhamed Gueye"
+            "Trae Young"
         ],
-        "injuries": [
-            {
-                "Player": "Saddiq Bey",
-                "Team": "Atlanta Hawks",
-                "Update": "Thu, Mar 28, 2024",
-                "Description": "Out For Season (Knee) - The Atlanta Hawks announced Saddiq Bey underwent successful surgery Wednesday (Mar. 27) to repair the torn left anterior cruciate ligament (ACL) in his left knee. "
-            },
-            {
-                "Player": "Seth Lundy",
-                "Team": "Atlanta Hawks",
-                "Update": "Tue, May 14, 2024",
-                "Description": "Out (Ankle) - Lundy underwent left ankle surgery on May 1 to remove a medial ankle bone spur. "
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -285,7 +273,7 @@
                 "Attendance": "25"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/ATL-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/ATL-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

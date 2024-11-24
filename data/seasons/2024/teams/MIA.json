@@ -2,39 +2,35 @@
     "MIA": {
         "info": {
             "record": "46-36",
-            "standing": "8th in East in 2024 in East",
+            "standing": "Finished in East in 2024 in East",
             "coach": "Erik Spoelstra (46-36)",
             "gm": "Pat Riley",
             "preseason_odds": "+1600"
         },
         "players": [
-            "Jaime Jaquez Jr.",
             "Bam Adebayo",
-            "Duncan Robinson",
-            "Haywood Highsmith",
-            "Caleb Martin",
-            "Jimmy Butler",
-            "Kevin Love",
-            "Nikola Jović",
-            "Josh Richardson",
-            "Tyler Herro",
             "Thomas Bryant",
+            "Jimmy Butler",
+            "Jamal Cain",
+            "R.J. Hampton",
+            "Tyler Herro",
+            "Haywood Highsmith",
+            "Jaime Jaquez Jr.",
+            "Nikola Jović",
+            "Kevin Love",
+            "Kyle Lowry",
+            "Caleb Martin",
+            "Patty Mills",
+            "Josh Richardson",
+            "Duncan Robinson",
             "Orlando Robinson",
             "Terry Rozier",
-            "Jamal Cain",
+            "Dru Smith",
             "Cole Swider",
-            "Delon Wright",
-            "Patty Mills",
-            "Alondes Williams"
+            "Alondes Williams",
+            "Delon Wright"
         ],
-        "injuries": [
-            {
-                "Player": "Josh Richardson",
-                "Team": "Miami Heat",
-                "Update": "Wed, Mar 6, 2024",
-                "Description": "Out For Season (Shoulder) - The Heat announced that Richardson underwent right shoulder surgery and will miss the remainder of the season."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -279,7 +275,7 @@
                 "Attendance": "4"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/MIA-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/MIA-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

@@ -28,20 +28,23 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2024.png",
         "roster": [
-            "brissos01",
+            "tatumja01",
             "brownja02",
-            "hausesa01",
+            "porzikr01",
+            "whitede01",
             "holidjr01",
+            "pritcpa01",
+            "hausesa01",
             "horfoal01",
+            "quetane01",
+            "tillmxa01",
             "kornelu01",
             "mykhasv01",
-            "porzikr01",
-            "pritcpa01",
-            "quetane01",
+            "brissos01",
+            "peterdr01",
             "sprinja01",
-            "tatumja01",
-            "tillmxa01",
-            "whitede01"
+            "davisjd01",
+            "walshjo01"
         ],
         "stats": {
             "Team": {
@@ -263,7 +266,7 @@
                 "FT/FGA": ".145",
                 "DRB%": "76.3",
                 "Arena": "TD Garden",
-                "Attendance": "766,240"
+                "Attendance": "785,396"
             },
             "Misc Lg Rank": {
                 "W": "1",
@@ -284,17 +287,17 @@
                 "FT/FGA": "1",
                 "DRB%": "11",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "10"
             }
         },
         "info": {
             "record": "64-18",
-            "standing": "1st in East in 2024 in East in East",
+            "standing": "Finished in East in 2024 in East in East in East in Finals",
             "coach": "Joe Mazzulla (64-18)",
             "gm": "Brad Stevens",
             "preseason_odds": "+450"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "DEN": {
         "standings": {
@@ -325,17 +328,23 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png",
         "roster": [
-            "braunch01",
-            "caldwke01",
-            "gordoaa01",
-            "holidju01",
-            "jacksre01",
             "jokicni01",
-            "jordade01",
             "murraja01",
             "portemi01",
+            "gordoaa01",
+            "jacksre01",
+            "caldwke01",
+            "braunch01",
+            "watsope01",
             "strawju01",
-            "watsope01"
+            "holidju01",
+            "jordade01",
+            "gilleco01",
+            "nnajize01",
+            "pickeja02",
+            "huffja01",
+            "keybr01",
+            "tysonhu01"
         ],
         "stats": {
             "Team": {
@@ -583,12 +592,12 @@
         },
         "info": {
             "record": "57-25",
-            "standing": "2nd in West in 2024 in West in West",
+            "standing": "Finished in West in 2024 in West in West",
             "coach": "Michael Malone (57-25)",
             "gm": "Calvin Booth",
             "preseason_odds": "+450"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "OKC": {
         "standings": {
@@ -619,20 +628,24 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/OKC-2024.png",
         "roster": [
+            "gilgesh01",
+            "willija06",
+            "holmgch01",
+            "giddejo01",
+            "dortlu01",
+            "haywago01",
+            "joeis01",
+            "wiggiaa01",
+            "wallaca01",
+            "willike04",
             "biyombi01",
             "diengou01",
-            "dortlu01",
-            "giddejo01",
-            "gilgesh01",
-            "haywago01",
-            "holmgch01",
-            "joeis01",
-            "muscami01",
-            "wallaca01",
-            "wiggiaa01",
-            "willija06",
             "willija07",
-            "willike04"
+            "waterli01",
+            "muscami01",
+            "sarrol01",
+            "flaglad01",
+            "johnske08"
         ],
         "stats": {
             "Team": {
@@ -880,12 +893,12 @@
         },
         "info": {
             "record": "57-25",
-            "standing": "1st in West in 2024 in West in West",
+            "standing": "Finished in West in 2024 in West in West",
             "coach": "Mark Daigneault (57-25)",
             "gm": "Sam Presti",
             "preseason_odds": "+10000"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "MIN": {
         "standings": {
@@ -916,17 +929,22 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIN-2024.png",
         "roster": [
+            "edwaran01",
+            "townska01",
+            "goberru01",
+            "reidna01",
+            "conlemi01",
+            "mcdanja02",
             "alexani01",
             "anderky01",
-            "conlemi01",
-            "edwaran01",
-            "goberru01",
-            "mcdanja02",
-            "mclaujo01",
             "morrimo01",
-            "reidna01",
-            "townska01",
-            "warretj01"
+            "garzalu01",
+            "warretj01",
+            "mclaujo01",
+            "nixda01",
+            "millele01",
+            "minotjo01",
+            "moorewe01"
         ],
         "stats": {
             "Team": {
@@ -1174,12 +1192,12 @@
         },
         "info": {
             "record": "56-26",
-            "standing": "3rd in West in 2024 in West in West",
+            "standing": "Finished in West in 2024 in West in West in West",
             "coach": "Chris Finch (56-26)",
             "gm": "Tim Connelly",
             "preseason_odds": "+6600"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "LAC": {
         "standings": {
@@ -1210,19 +1228,23 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAC-2024.png",
         "roster": [
-            "bostobr01",
-            "coffeam01",
+            "leonaka01",
             "georgpa01",
             "hardeja01",
-            "hylanbo01",
-            "leonaka01",
-            "mannte01",
-            "plumlma01",
             "powelno01",
-            "theisda01",
-            "tuckepj01",
+            "zubaciv01",
             "westbru01",
-            "zubaciv01"
+            "mannte01",
+            "hylanbo01",
+            "coffeam01",
+            "plumlma01",
+            "bostobr01",
+            "diabamo01",
+            "moonxa01",
+            "brownko01",
+            "tuckepj01",
+            "millejo02",
+            "primojo01"
         ],
         "stats": {
             "Team": {
@@ -1465,17 +1487,17 @@
                 "FT/FGA": "9",
                 "DRB%": "23",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "11"
             }
         },
         "info": {
             "record": "51-31",
-            "standing": "4th in West in 2024 in West",
+            "standing": "Finished in West in 2024 in West",
             "coach": "Tyronn Lue (51-31)",
             "gm": "Lawrence Frank",
             "preseason_odds": "+2200"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "DAL": {
         "standings": {
@@ -1507,17 +1529,23 @@
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2024.png",
         "roster": [
             "doncilu01",
-            "exumda01",
-            "gaffoda01",
-            "greenjo02",
-            "hardati02",
-            "hardyja02",
             "irvinky01",
-            "jonesde02",
-            "klebima01",
+            "hardati02",
+            "washipj01",
+            "gaffoda01",
             "livelde01",
+            "jonesde02",
+            "greenjo02",
+            "exumda01",
+            "hardyja02",
+            "dennide01",
+            "klebima01",
             "poweldw01",
-            "washipj01"
+            "lawsoaj01",
+            "willibr03",
+            "prospol01",
+            "fudgeal01",
+            "browngr01"
         ],
         "stats": {
             "Team": {
@@ -1765,12 +1793,12 @@
         },
         "info": {
             "record": "50-32",
-            "standing": "5th in West in 2024 in West in West",
+            "standing": "Finished in West in 2024 in West in West in West in Finals",
             "coach": "Jason Kidd (50-32)",
             "gm": "Nico Harrison",
             "preseason_odds": "+2500"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "NYK": {
         "standings": {
@@ -1801,19 +1829,24 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png",
         "roster": [
-            "achiupr01",
-            "anunoog01",
-            "bogdabo02",
             "brunsja01",
-            "burksal01",
-            "divindo01",
-            "hartjo01",
-            "harteis01",
-            "mcbrimi01",
-            "miltosh01",
             "randlju01",
+            "divindo01",
+            "bogdabo02",
+            "anunoog01",
+            "burksal01",
+            "hartjo01",
+            "mcbrimi01",
+            "harteis01",
+            "achiupr01",
             "robinmi01",
-            "simsje01"
+            "miltosh01",
+            "diakima01",
+            "simsje01",
+            "toppija01",
+            "brownch02",
+            "jeffrda01",
+            "arcidry01"
         ],
         "stats": {
             "Team": {
@@ -2061,12 +2094,12 @@
         },
         "info": {
             "record": "50-32",
-            "standing": "2nd in East in 2024 in East in East",
+            "standing": "Finished in East in 2024 in East in East",
             "coach": "Tom Thibodeau (50-32)",
             "gm": "Leon Rose",
             "preseason_odds": "+5000"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "MIL": {
         "standings": {
@@ -2098,18 +2131,24 @@
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png",
         "roster": [
             "antetgi01",
+            "lillada01",
+            "middlkh01",
+            "portibo01",
+            "lopezbr01",
             "beaslma01",
-            "beaucma01",
             "beverpa01",
-            "connapa01",
             "crowdja01",
             "gallida01",
+            "connapa01",
             "greenaj01",
+            "beaucma01",
+            "rolliry01",
             "jacksan01",
-            "lillada01",
-            "lopezbr01",
-            "middlkh01",
-            "portibo01"
+            "wiggili01",
+            "washity02",
+            "livinch01",
+            "lopezro01",
+            "antetth01"
         ],
         "stats": {
             "Team": {
@@ -2352,17 +2391,17 @@
                 "FT/FGA": "13",
                 "DRB%": "5",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "16"
             }
         },
         "info": {
             "record": "49-33",
-            "standing": "3rd in East in 2024 in East",
+            "standing": "Finished in East in 2024 in East",
             "coach": "Adrian Griffin (30-13), Joe Prunty (2-1), Doc Rivers (17-19)",
             "gm": "Jon Horst",
             "preseason_odds": "+600"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "NOP": {
         "standings": {
@@ -2393,18 +2432,19 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png",
         "roster": [
-            "alvarjo01",
-            "daniedy01",
-            "hawkijo01",
+            "willizi01",
             "ingrabr01",
-            "joneshe01",
-            "marshna01",
             "mccolcj01",
             "murphtr02",
-            "nancela02",
-            "ryanma01",
             "valanjo01",
-            "willizi01"
+            "joneshe01",
+            "hawkijo01",
+            "alvarjo01",
+            "marshna01",
+            "daniedy01",
+            "nancela02",
+            "seabrde01",
+            "zelleco01"
         ],
         "stats": {
             "Team": {
@@ -2652,12 +2692,12 @@
         },
         "info": {
             "record": "49-33",
-            "standing": "7th in West in 2024 in West",
+            "standing": "Finished in West in 2024 in West",
             "coach": "Willie Green (49-33)",
             "gm": "David Griffin",
             "preseason_odds": "+4000"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "PHO": {
         "standings": {
@@ -2688,20 +2728,21 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-2024.png",
         "roster": [
-            "allengr01",
-            "bealbr01",
-            "bolbo01",
             "bookede01",
             "duranke01",
-            "eubandr01",
+            "bealbr01",
+            "allengr01",
             "gordoer01",
-            "littlna01",
-            "maledth01",
             "nurkiju01",
             "onealro01",
+            "bolbo01",
+            "eubandr01",
             "okogijo01",
-            "roddyda01",
-            "youngth01"
+            "maledth01",
+            "littlna01",
+            "leesa01",
+            "azubuud01",
+            "wainris01"
         ],
         "stats": {
             "Team": {
@@ -2949,12 +2990,12 @@
         },
         "info": {
             "record": "49-33",
-            "standing": "6th in West in 2024 in West",
+            "standing": "Finished in West in 2024 in West",
             "coach": "Frank Vogel (49-33)",
             "gm": "James Jones",
             "preseason_odds": "+600"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "CLE": {
         "standings": {
@@ -2985,19 +3026,24 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png",
         "roster": [
-            "allenja01",
-            "garlada01",
-            "leverca01",
-            "merrisa01",
             "mitchdo01",
+            "garlada01",
+            "allenja01",
             "mobleev01",
-            "morrima03",
+            "leverca01",
+            "strusma01",
             "niangge01",
             "okorois01",
+            "merrisa01",
+            "morrima03",
             "portecr01",
-            "strusma01",
+            "wadede01",
             "thomptr01",
-            "wadede01"
+            "batesem01",
+            "jonesda03",
+            "mobleis01",
+            "jeromty01",
+            "nancepe01"
         ],
         "stats": {
             "Team": {
@@ -3245,12 +3291,12 @@
         },
         "info": {
             "record": "48-34",
-            "standing": "4th in East in 2024 in East in East",
+            "standing": "Finished in East in 2024 in East in East",
             "coach": "J.B. Bickerstaff (48-34)",
             "gm": "Koby Altman",
             "preseason_odds": "+2500"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "IND": {
         "standings": {
@@ -3281,19 +3327,22 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png",
         "roster": [
-            "halibty01",
-            "jacksis01",
-            "mathube01",
-            "mccontj01",
-            "mcderdo01",
-            "nembhan01",
-            "nesmiaa01",
-            "sheppbe01",
             "siakapa01",
-            "smithja04",
-            "toppiob01",
+            "halibty01",
             "turnemy01",
-            "walkeja02"
+            "mathube01",
+            "nesmiaa01",
+            "toppiob01",
+            "mccontj01",
+            "smithja04",
+            "nembhan01",
+            "jacksis01",
+            "mcderdo01",
+            "sheppbe01",
+            "walkeja02",
+            "tshieos01",
+            "brownke03",
+            "jacksqu01"
         ],
         "stats": {
             "Team": {
@@ -3541,12 +3590,12 @@
         },
         "info": {
             "record": "47-35",
-            "standing": "6th in East in 2024 in East in East",
+            "standing": "Finished in East in 2024 in East in East in East",
             "coach": "Rick Carlisle (47-35)",
             "gm": "Kevin Pritchard",
             "preseason_odds": "+25000"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "LAL": {
         "standings": {
@@ -3577,20 +3626,25 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png",
         "roster": [
-            "chrisma02",
-            "davisan02",
-            "dinwisp01",
-            "hachiru01",
-            "hayesja02",
             "jamesle01",
-            "mayssk01",
-            "princta02",
-            "reaveau01",
-            "reddica01",
+            "davisan02",
             "russeda01",
+            "reaveau01",
+            "hachiru01",
+            "dinwisp01",
+            "princta02",
+            "woodch01",
+            "reddica01",
             "vandeja01",
+            "hayesja02",
+            "chrisma02",
+            "mayssk01",
             "vincega01",
-            "woodch01"
+            "gilesha01",
+            "hodgedm01",
+            "hoodsja01",
+            "castlco01",
+            "lewisma05"
         ],
         "stats": {
             "Team": {
@@ -3838,12 +3892,12 @@
         },
         "info": {
             "record": "47-35",
-            "standing": "8th in West in 2024 in West",
+            "standing": "Finished in West in 2024 in West",
             "coach": "Darvin Ham (47-35)",
             "gm": "Rob Pelinka",
             "preseason_odds": "+1500"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "ORL": {
         "standings": {
@@ -3874,20 +3928,24 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png",
         "roster": [
-            "anthoco01",
             "banchpa01",
-            "bitadgo01",
-            "blackan01",
+            "wagnefr01",
+            "suggsja01",
+            "anthoco01",
             "cartewe01",
+            "wagnemo01",
             "fultzma01",
             "harriga01",
-            "houstca01",
-            "inglejo01",
             "isaacjo01",
+            "bitadgo01",
+            "blackan01",
+            "inglejo01",
+            "houstca01",
             "queentr01",
-            "suggsja01",
-            "wagnefr01",
-            "wagnemo01"
+            "okekech01",
+            "harrike01",
+            "howarje01",
+            "schofad01"
         ],
         "stats": {
             "Team": {
@@ -4130,17 +4188,17 @@
                 "FT/FGA": "24",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "12"
             }
         },
         "info": {
             "record": "47-35",
-            "standing": "5th in East in 2024 in East",
+            "standing": "Finished in East in 2024 in East",
             "coach": "Jamahl Mosley (47-35)",
             "gm": "Jeff Weltman",
             "preseason_odds": "+25000"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "PHI": {
         "standings": {
@@ -4171,21 +4229,25 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-2024.png",
         "roster": [
-            "bambamo01",
-            "batumni01",
-            "covinro01",
-            "dowtije01",
             "embiijo01",
-            "harrito02",
-            "hieldbu01",
-            "houseda01",
-            "lowryky01",
-            "martike04",
             "maxeyty01",
-            "meltode01",
+            "harrito02",
             "oubreke01",
+            "hieldbu01",
+            "lowryky01",
             "payneca01",
-            "reedpa01"
+            "reedpa01",
+            "councri01",
+            "batumni01",
+            "wilsodj01",
+            "covinro01",
+            "bambamo01",
+            "dowtije01",
+            "houseda01",
+            "martike04",
+            "smithte01",
+            "korkmfu01",
+            "greenda02"
         ],
         "stats": {
             "Team": {
@@ -4433,12 +4495,12 @@
         },
         "info": {
             "record": "47-35",
-            "standing": "7th in East in 2024 in East",
+            "standing": "Finished in East in 2024 in East",
             "coach": "Nick Nurse (47-35)",
             "gm": "Daryl Morey",
             "preseason_odds": "+1800"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "MIA": {
         "standings": {
@@ -4469,21 +4531,25 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png",
         "roster": [
-            "adebaba01",
-            "bryanth01",
             "butleji01",
-            "cainja01",
             "herroty01",
-            "highsha01",
-            "jaqueja01",
-            "jovicni01",
-            "loveke01",
-            "martica02",
-            "millspa02",
-            "richajo01",
-            "robindu01",
             "roziete01",
-            "wrighde01"
+            "adebaba01",
+            "robindu01",
+            "jaqueja01",
+            "martica02",
+            "richajo01",
+            "loveke01",
+            "jovicni01",
+            "highsha01",
+            "bryanth01",
+            "wrighde01",
+            "smithdr01",
+            "millspa02",
+            "cainja01",
+            "swideco01",
+            "hamptrj01",
+            "willial06"
         ],
         "stats": {
             "Team": {
@@ -4731,12 +4797,12 @@
         },
         "info": {
             "record": "46-36",
-            "standing": "8th in East in 2024 in East",
+            "standing": "Finished in East in 2024 in East",
             "coach": "Erik Spoelstra (46-36)",
             "gm": "Pat Riley",
             "preseason_odds": "+1600"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "GSW": {
         "standings": {
@@ -4768,19 +4834,23 @@
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png",
         "roster": [
             "curryst01",
-            "greendr01",
-            "jackstr02",
-            "josepco01",
-            "kuminjo01",
-            "looneke01",
-            "moodymo01",
-            "paulch01",
-            "paytoga02",
-            "podzibr01",
-            "quinole01",
-            "saricda01",
             "thompkl01",
-            "wiggian01"
+            "kuminjo01",
+            "wiggian01",
+            "paulch01",
+            "podzibr01",
+            "greendr01",
+            "moodymo01",
+            "saricda01",
+            "jackstr02",
+            "paytoga02",
+            "looneke01",
+            "quinole01",
+            "santogu01",
+            "josepco01",
+            "robinje01",
+            "spencpa01",
+            "garubus01"
         ],
         "stats": {
             "Team": {
@@ -5023,17 +5093,17 @@
                 "FT/FGA": "20",
                 "DRB%": "13",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "17"
             }
         },
         "info": {
             "record": "46-36",
-            "standing": "10th in West",
+            "standing": "Finished in West",
             "coach": "Steve Kerr (46-36)",
             "gm": "Mike Dunleavy",
             "preseason_odds": "+1200"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "SAC": {
         "standings": {
@@ -5064,17 +5134,26 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png",
         "roster": [
-            "barneha02",
-            "duartch01",
-            "elliske01",
             "foxde01",
-            "huertke01",
-            "lylestr01",
-            "mitchda01",
+            "sabondo01",
             "monkma01",
             "murrake02",
-            "sabondo01",
-            "vezenal01"
+            "barneha02",
+            "huertke01",
+            "lylestr01",
+            "elliske01",
+            "vezenal01",
+            "mitchda01",
+            "mcgeeja01",
+            "duartch01",
+            "lenal01",
+            "jonesco02",
+            "fordjo01",
+            "edwarke02",
+            "jonesma05",
+            "petrufi01",
+            "slawsja01",
+            "toscaju01"
         ],
         "stats": {
             "Team": {
@@ -5317,17 +5396,17 @@
                 "FT/FGA": "25",
                 "DRB%": "1",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "18"
             }
         },
         "info": {
             "record": "46-36",
-            "standing": "9th in West",
+            "standing": "Finished in West",
             "coach": "Mike Brown (46-36)",
             "gm": "Monte McNair",
             "preseason_odds": "+3500"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "HOU": {
         "standings": {
@@ -5358,18 +5437,23 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png",
         "roster": [
-            "brookdi01",
-            "easonta01",
-            "greenja05",
-            "greenje02",
-            "holidaa01",
-            "landajo01",
             "sengual01",
-            "smithja05",
-            "tateja01",
-            "thompam01",
+            "greenja05",
             "vanvlfr01",
-            "whitmca01"
+            "smithja05",
+            "brookdi01",
+            "whitmca01",
+            "easonta01",
+            "thompam01",
+            "holidaa01",
+            "greenje02",
+            "landajo01",
+            "tateja01",
+            "marjabo01",
+            "willije02",
+            "bullore01",
+            "hintona01",
+            "samueje01"
         ],
         "stats": {
             "Team": {
@@ -5617,12 +5701,12 @@
         },
         "info": {
             "record": "41-41",
-            "standing": "11th in West",
+            "standing": "Finished in West",
             "coach": "Ime Udoka (41-41)",
             "gm": "Rafael Stone",
             "preseason_odds": "+25000"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "CHI": {
         "standings": {
@@ -5653,18 +5737,24 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png",
         "roster": [
-            "bitimon01",
-            "carteje01",
-            "carusal01",
-            "craigto01",
             "derozde01",
-            "dosunay01",
-            "drumman01",
             "lavinza01",
-            "terryda01",
-            "vucevni01",
             "whiteco01",
-            "willipa01"
+            "vucevni01",
+            "dosunay01",
+            "greenja02",
+            "carusal01",
+            "willipa01",
+            "drumman01",
+            "craigto01",
+            "carteje01",
+            "sanogad01",
+            "bitimon01",
+            "terryda01",
+            "drellhe01",
+            "phillju01",
+            "taylote01",
+            "funkan01"
         ],
         "stats": {
             "Team": {
@@ -5912,12 +6002,12 @@
         },
         "info": {
             "record": "39-43",
-            "standing": "9th in East",
+            "standing": "Finished in East",
             "coach": "Billy Donovan (39-43)",
             "gm": "Artūras Karnišovas",
             "preseason_odds": "+12500"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "ATL": {
         "standings": {
@@ -5948,20 +6038,24 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png",
         "roster": [
-            "beysa01",
+            "youngtr01",
+            "murrade01",
             "bogdabo01",
-            "bufkiko01",
-            "capelca01",
-            "fernabr01",
-            "forretr01",
-            "huntede01",
             "johnsja05",
+            "huntede01",
+            "beysa01",
+            "capelca01",
+            "okongon01",
+            "fernabr01",
             "krejcvi01",
             "mathega01",
+            "bufkiko01",
+            "gueyemo02",
             "matthwe02",
-            "murrade01",
-            "okongon01",
-            "youngtr01"
+            "windldy01",
+            "griffaj01",
+            "forretr01",
+            "lundyse01"
         ],
         "stats": {
             "Team": {
@@ -6209,12 +6303,12 @@
         },
         "info": {
             "record": "36-46",
-            "standing": "10th in East",
+            "standing": "Finished in East",
             "coach": "Quin Snyder (36-46)",
             "gm": "Landry Fields",
             "preseason_odds": "+8000"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "BRK": {
         "standings": {
@@ -6245,22 +6339,24 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png",
         "roster": [
-            "bateske01",
-            "bridgmi01",
-            "brookar01",
-            "claxtni01",
-            "clownno01",
-            "finnedo01",
-            "gilyaja01",
-            "johnsca02",
-            "schrode01",
-            "sharpda01",
-            "simmobe01",
-            "smithde03",
             "thomaca02",
+            "bridgmi01",
+            "schrode01",
+            "johnsca02",
+            "claxtni01",
             "walkelo01",
+            "finnedo01",
             "watfotr01",
-            "wilsoja03"
+            "sharpda01",
+            "smithde03",
+            "johnske07",
+            "simmobe01",
+            "clownno01",
+            "wilsoja03",
+            "gilyaja01",
+            "brookar01",
+            "bateske01",
+            "whiteda01"
         ],
         "stats": {
             "Team": {
@@ -6508,12 +6604,12 @@
         },
         "info": {
             "record": "32-50",
-            "standing": "11th in East",
+            "standing": "Finished in East",
             "coach": "Jacque Vaughn (21-33), Kevin Ollie (11-17)",
             "gm": "Sean Marks",
             "preseason_odds": "+12500"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "UTA": {
         "standings": {
@@ -6544,19 +6640,24 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2024.png",
         "roster": [
+            "markkla01",
+            "sextoco01",
             "clarkjo01",
             "collijo01",
-            "dunnkr01",
             "georgke01",
-            "hendrita01",
             "hortota01",
-            "juzanjo01",
             "kesslwa01",
-            "markkla01",
-            "pottemi01",
             "sensabr01",
-            "sextoco01",
-            "yurtsom01"
+            "hendrita01",
+            "juzanjo01",
+            "dunnkr01",
+            "bazleda01",
+            "loftoke01",
+            "yurtsom01",
+            "samanlu01",
+            "pottemi01",
+            "lewiski01",
+            "prestja01"
         ],
         "stats": {
             "Team": {
@@ -6778,7 +6879,7 @@
                 "FT/FGA": ".182",
                 "DRB%": "75.2",
                 "Arena": "Delta Center",
-                "Attendance": "728,240"
+                "Attendance": "746,446"
             },
             "Misc Lg Rank": {
                 "W": "23",
@@ -6799,17 +6900,17 @@
                 "FT/FGA": "8",
                 "DRB%": "21",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "14"
             }
         },
         "info": {
             "record": "31-51",
-            "standing": "12th in West",
+            "standing": "Finished in West",
             "coach": "Will Hardy (31-51)",
             "gm": "Danny Ainge",
             "preseason_odds": "+25000"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "MEM": {
         "standings": {
@@ -6840,22 +6941,32 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png",
         "roster": [
-            "aldamsa01",
+            "moranja01",
             "banede01",
-            "goodwjo01",
-            "jacksgg01",
             "jacksja02",
-            "jemistr01",
-            "kennalu01",
-            "konchjo01",
-            "laravja01",
-            "pippesc02",
-            "rosede01",
+            "jacksgg01",
             "smartma01",
-            "stevela01",
-            "watanyu01",
+            "pippesc02",
+            "clarkbr01",
+            "kennalu01",
+            "laravja01",
+            "aldamsa01",
             "willivi01",
-            "willizi02"
+            "willizi02",
+            "rosede01",
+            "stevela01",
+            "pereima01",
+            "jemistr01",
+            "goodwjo01",
+            "simpsza01",
+            "jarrede01",
+            "konchjo01",
+            "hurtma01",
+            "watanyu01",
+            "gabriwe01",
+            "allenti01",
+            "whiteja03",
+            "harrish01"
         ],
         "stats": {
             "Team": {
@@ -7103,12 +7214,12 @@
         },
         "info": {
             "record": "27-55",
-            "standing": "13th in West",
+            "standing": "Finished in West",
             "coach": "Taylor Jenkins (27-55)",
             "gm": "Zach Kleiman",
             "preseason_odds": "+2200"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "TOR": {
         "standings": {
@@ -7139,23 +7250,27 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/TOR-2024.png",
         "roster": [
-            "agbajoc01",
-            "barnesc01",
             "barrerj01",
-            "bouchch01",
-            "brownbr01",
-            "dickgr01",
-            "freemja01",
-            "gueyemo01",
-            "mcdanja01",
-            "nworajo01",
-            "olynyke01",
-            "poeltja01",
-            "portejo01",
-            "porteot01",
+            "barnesc01",
             "quickim01",
+            "trentga02",
+            "poeltja01",
+            "brownbr01",
+            "olynyke01",
+            "dickgr01",
+            "nworajo01",
+            "freemja01",
+            "ramseja01",
+            "bouchch01",
+            "agbajoc01",
+            "simmoko01",
+            "portejo01",
+            "mcdanja01",
             "templga01",
-            "trentga02"
+            "cartodj01",
+            "willima11",
+            "porteot01",
+            "gueyemo01"
         ],
         "stats": {
             "Team": {
@@ -7403,12 +7518,12 @@
         },
         "info": {
             "record": "25-57",
-            "standing": "12th in East",
+            "standing": "Finished in East",
             "coach": "Darko Rajakovic (25-57)",
             "gm": "Masai Ujiri",
             "preseason_odds": "+8000"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "SAS": {
         "standings": {
@@ -7439,20 +7554,24 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png",
         "roster": [
-            "barlodo01",
-            "bassech01",
-            "branhma01",
-            "champju02",
-            "cissosi01",
-            "colliza01",
-            "grahade01",
-            "johnske04",
-            "jonestr01",
-            "osmande01",
-            "sochaje01",
-            "vassede01",
             "wembavi01",
-            "weslebl01"
+            "vassede01",
+            "johnske04",
+            "sochaje01",
+            "colliza01",
+            "jonestr01",
+            "branhma01",
+            "grayra01",
+            "champju02",
+            "osmande01",
+            "dukeda01",
+            "grahade01",
+            "barlodo01",
+            "weslebl01",
+            "mamuksa01",
+            "cissosi01",
+            "bassech01",
+            "bouyeja01"
         ],
         "stats": {
             "Team": {
@@ -7695,17 +7814,17 @@
                 "FT/FGA": "4",
                 "DRB%": "9",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "15"
             }
         },
         "info": {
             "record": "22-60",
-            "standing": "14th in West",
+            "standing": "Finished in West",
             "coach": "Gregg Popovich (22-60)",
             "gm": "Brian Wright",
             "preseason_odds": "+15000"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "CHO": {
         "standings": {
@@ -7737,24 +7856,27 @@
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2024.png",
         "roster": [
             "ballla01",
-            "bertada01",
-            "blackle01",
-            "boldema01",
             "bridgmi02",
-            "curryse01",
+            "millebr02",
+            "willima07",
+            "willigr01",
+            "richani01",
             "manntr01",
             "martico01",
-            "mcgowbr01",
-            "mensana01",
             "micicva01",
-            "millebr02",
-            "pokusal01",
-            "richani01",
-            "smithis01",
+            "bertada01",
             "smithni01",
+            "pokusal01",
+            "curryse01",
+            "mcgowbr01",
+            "bouknja01",
+            "boldema01",
+            "smithis01",
             "thorjt01",
-            "willigr01",
-            "willima07"
+            "blackle01",
+            "baileam01",
+            "mensana01",
+            "ntilila01"
         ],
         "stats": {
             "Team": {
@@ -8002,12 +8124,12 @@
         },
         "info": {
             "record": "21-61",
-            "standing": "13th in East",
+            "standing": "Finished in East",
             "coach": "Steve Clifford (21-61)",
-            "gm": "Mitch Kupchak",
+            "gm": "Mitch Kupchak, Jeff Peterson",
             "preseason_odds": "+50000"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "POR": {
         "standings": {
@@ -8038,22 +8160,25 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png",
         "roster": [
-            "aytonde01",
-            "badjiib01",
-            "bantoda01",
-            "brogdma01",
-            "camarto01",
-            "grantje01",
-            "haganas01",
-            "hendesc01",
-            "minayju01",
-            "murrakr01",
-            "reathdu01",
-            "ruperra01",
-            "sharpsh01",
             "simonan01",
+            "grantje01",
+            "aytonde01",
+            "sharpsh01",
+            "brogdma01",
+            "hendesc01",
+            "bantoda01",
+            "reathdu01",
+            "walkeja01",
+            "camarto01",
+            "williro04",
+            "murrakr01",
             "thybuma01",
-            "walkeja01"
+            "mooreta02",
+            "haganas01",
+            "ruperra01",
+            "brownmo01",
+            "minayju01",
+            "badjiib01"
         ],
         "stats": {
             "Team": {
@@ -8301,12 +8426,12 @@
         },
         "info": {
             "record": "21-61",
-            "standing": "15th in West",
+            "standing": "Finished in West",
             "coach": "Chauncey Billups (21-61)",
             "gm": "Joe Cronin",
             "preseason_odds": "+12500"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "WAS": {
         "standings": {
@@ -8337,20 +8462,24 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png",
         "roster": [
-            "avdijde01",
-            "baglema01",
-            "baldwpa01",
-            "butleja02",
-            "champju01",
-            "coulibi01",
-            "davisjo06",
-            "holmeri01",
-            "jonesty01",
-            "kispeco01",
             "kuzmaky01",
             "poolejo01",
+            "avdijde01",
+            "kispeco01",
+            "jonesty01",
+            "baglema01",
+            "vukcetr01",
+            "coulibi01",
             "shamela01",
-            "vukcetr01"
+            "butleja02",
+            "champju01",
+            "holmeri01",
+            "omorueu01",
+            "baldwpa01",
+            "bernaju01",
+            "gillan01",
+            "davisjo06",
+            "diallha01"
         ],
         "stats": {
             "Team": {
@@ -8598,12 +8727,12 @@
         },
         "info": {
             "record": "15-67",
-            "standing": "14th in East",
+            "standing": "Finished in East",
             "coach": "Wes Unseld (7-36), Brian Keefe (8-31)",
             "gm": "Michael Winger",
             "preseason_odds": "+50000"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     },
     "DET": {
         "standings": {
@@ -8634,28 +8763,29 @@
         },
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png",
         "roster": [
-            "browntr01",
             "cunnica01",
-            "durenja01",
-            "evbuoto01",
-            "flynnma01",
-            "fontesi01",
-            "fournev01",
-            "gibsota01",
-            "grimequ01",
-            "harrijo01",
-            "hayeski01",
             "iveyja01",
+            "durenja01",
+            "stewais01",
+            "fontesi01",
+            "thompau01",
+            "sassema01",
             "knoxke01",
-            "liveris01",
+            "wisemja01",
+            "grimequ01",
+            "fournev01",
+            "hayeski01",
             "metuch01",
             "nowelja01",
-            "rhodeja01",
-            "sassema01",
-            "stewais01",
-            "thompau01",
+            "evbuoto01",
+            "flynnma01",
             "umudest01",
-            "wisemja01"
+            "liveris01",
+            "rhodeja01",
+            "browntr01",
+            "boehebu01",
+            "harrijo01",
+            "gibsota01"
         ],
         "stats": {
             "Team": {
@@ -8903,11 +9033,11 @@
         },
         "info": {
             "record": "14-68",
-            "standing": "15th in East",
+            "standing": "Finished in East",
             "coach": "Monty Williams (14-68)",
             "gm": "Troy Weaver",
             "preseason_odds": "+50000"
         },
-        "last_update": "May 18 2024 21:37:02"
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

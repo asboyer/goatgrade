@@ -2,39 +2,32 @@
     "CLE": {
         "info": {
             "record": "48-34",
-            "standing": "4th in East in 2024 in East in East",
+            "standing": "Finished in East in 2024 in East in East",
             "coach": "J.B. Bickerstaff (48-34)",
             "gm": "Koby Altman",
             "preseason_odds": "+2500"
         },
         "players": [
-            "Georges Niang",
             "Jarrett Allen",
-            "Max Strus",
-            "Isaac Okoro",
+            "Emoni Bates",
+            "Darius Garland",
+            "Ty Jerome",
+            "Damian Jones",
             "Caris LeVert",
             "Sam Merrill",
-            "Darius Garland",
             "Donovan Mitchell",
-            "Dean Wade",
-            "Craig Porter Jr.",
             "Evan Mobley",
-            "Tristan Thompson",
-            "Damian Jones",
-            "Emoni Bates",
-            "Marcus Morris",
             "Isaiah Mobley",
+            "Marcus Morris",
             "Pete Nance",
-            "Ty Jerome"
+            "Georges Niang",
+            "Isaac Okoro",
+            "Craig Porter Jr.",
+            "Max Strus",
+            "Tristan Thompson",
+            "Dean Wade"
         ],
-        "injuries": [
-            {
-                "Player": "Ty Jerome",
-                "Team": "Cleveland Cavaliers",
-                "Update": "Thu, Mar 21, 2024",
-                "Description": "Out (Ankle) - Jerome underwent surgery on his right ankle (Jan. 23) and remains out indefinitely."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -279,7 +272,7 @@
                 "Attendance": "9"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/CLE-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/CLE-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

@@ -2,30 +2,33 @@
     "LAC": {
         "info": {
             "record": "51-31",
-            "standing": "4th in West in 2024 in West",
+            "standing": "Finished in West in 2024 in West",
             "coach": "Tyronn Lue (51-31)",
             "gm": "Lawrence Frank",
             "preseason_odds": "+2200"
         },
         "players": [
-            "Norman Powell",
-            "Terance Mann",
+            "Nicolas Batum",
+            "Brandon Boston Jr.",
+            "Kobe Brown",
+            "Amir Coffey",
+            "Robert Covington",
+            "Moussa Diabaté",
             "Paul George",
             "James Harden",
-            "Amir Coffey",
-            "Kawhi Leonard",
-            "Ivica Zubac",
-            "Russell Westbrook",
-            "Daniel Theis",
-            "Mason Plumlee",
-            "Kobe Brown",
             "Bones Hyland",
-            "Brandon Boston Jr.",
-            "P.J. Tucker",
-            "Xavier Moon",
-            "Moussa Diabaté",
+            "Kawhi Leonard",
+            "Terance Mann",
+            "KJ Martin",
             "Jordan Miller",
-            "Kai Jones"
+            "Xavier Moon",
+            "Mason Plumlee",
+            "Norman Powell",
+            "Joshua Primo",
+            "Daniel Theis",
+            "P.J. Tucker",
+            "Russell Westbrook",
+            "Ivica Zubac"
         ],
         "injuries": [],
         "team_stats": {
@@ -269,10 +272,10 @@
                 "FT/FGA": "9",
                 "DRB%": "23",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "11"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/LAC-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/LAC-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

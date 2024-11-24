@@ -2,39 +2,36 @@
     "IND": {
         "info": {
             "record": "47-35",
-            "standing": "6th in East in 2024 in East in East",
+            "standing": "Finished in East in 2024 in East in East in East",
             "coach": "Rick Carlisle (47-35)",
             "gm": "Kevin Pritchard",
             "preseason_odds": "+25000"
         },
         "players": [
-            "Obi Toppin",
-            "Myles Turner",
-            "Aaron Nesmith",
-            "T.J. McConnell",
+            "Bruce Brown",
+            "Kendall Brown",
             "Tyrese Haliburton",
-            "Andrew Nembhard",
-            "Jalen Smith",
-            "Bennedict Mathurin",
+            "Buddy Hield",
             "Isaiah Jackson",
+            "Quenton Jackson",
+            "James Johnson",
+            "Bennedict Mathurin",
+            "T.J. McConnell",
+            "Doug McDermott",
+            "Andrew Nembhard",
+            "Aaron Nesmith",
+            "Jordan Nwora",
             "Ben Sheppard",
             "Pascal Siakam",
-            "Jarace Walker",
-            "Doug McDermott",
-            "Kendall Brown",
-            "James Johnson",
+            "Jalen Smith",
+            "Daniel Theis",
+            "Obi Toppin",
             "Oscar Tshiebwe",
-            "Quenton Jackson",
+            "Myles Turner",
+            "Jarace Walker",
             "Isaiah Wong"
         ],
-        "injuries": [
-            {
-                "Player": "Bennedict Mathurin",
-                "Team": "Indiana Pacers",
-                "Update": "Sat, Mar 9, 2024",
-                "Description": "Out For Season (Shoulder) - The Pacers announced that Mathurin will miss the rest of the season after undergoing shoulder surgery."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -279,7 +276,7 @@
                 "Attendance": "29"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/IND-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/IND-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }

@@ -1,6 +1,6 @@
 {
     "CIN": {
-        "Tm": "CIN",
+        "Team": "CIN",
         "RRK": "2",
         "Name": "Cincinnati Royals",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/CIN-1964.png",
@@ -15,7 +15,7 @@
         "rank": 1
     },
     "BOS": {
-        "Tm": "BOS",
+        "Team": "BOS",
         "RRK": "1",
         "Name": "Boston Celtics",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-1964.png",
@@ -30,7 +30,7 @@
         "rank": 2
     },
     "STL": {
-        "Tm": "STL",
+        "Team": "STL",
         "RRK": "4",
         "Name": "St. Louis Hawks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/STL-1964.png",
@@ -45,7 +45,7 @@
         "rank": 3
     },
     "PHI": {
-        "Tm": "PHI",
+        "Team": "PHI",
         "RRK": "6",
         "Name": "Philadelphia 76ers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-1964.png",
@@ -60,7 +60,7 @@
         "rank": 4
     },
     "SFW": {
-        "Tm": "SFW",
+        "Team": "SFW",
         "RRK": "3",
         "Name": "San Francisco Warriors",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/SFW-1964.png",
@@ -75,7 +75,7 @@
         "rank": 5
     },
     "LAL": {
-        "Tm": "LAL",
+        "Team": "LAL",
         "RRK": "5",
         "Name": "Los Angeles Lakers",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-1964.png",
@@ -90,7 +90,7 @@
         "rank": 6
     },
     "BAL": {
-        "Tm": "BAL",
+        "Team": "BAL",
         "RRK": "7",
         "Name": "Baltimore Bullets",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/BAL-1964.png",
@@ -105,7 +105,7 @@
         "rank": 7
     },
     "DET": {
-        "Tm": "DET",
+        "Team": "DET",
         "RRK": "8",
         "Name": "Detroit Pistons",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-1964.png",
@@ -120,7 +120,7 @@
         "rank": 8
     },
     "NYK": {
-        "Tm": "NYK",
+        "Team": "NYK",
         "RRK": "9",
         "Name": "New York Knicks",
         "img": "https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-1964.png",

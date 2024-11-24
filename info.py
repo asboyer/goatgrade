@@ -167,5 +167,42 @@ def in_season():
 
     return in_season and (in_early_season or in_late_season)
 
+# write a function that returns the percentage of the season that has passed
+def season_percentage():
+    today = datetime.today()
+    current_year = today.year
+    current_month = today.month
+    current_day = today.day
+
+    early_season_months, late_season_moths = get_season_months(current_season["start_day"], current_season["end_day"])
+    nba_season_months = early_season_months + late_season_moths
+    season_year = int(current_season["name"].split("-")[1])
+
+    in_season = current_month in nba_season_months
+    in_early_season = current_month in early_season_months and current_year + 1 == season_year
+    in_late_season = current_month in late_season_moths and current_year == season_year
+
+    start_day = int(current_season["start_day"].split("-")[1])
+    start_month = int(current_season["start_day"].split("-")[0])
+    start_year = int(current_season["start_day"].split("-")[2])
+    end_day = int(current_season["end_day"].split("-")[1])
+    end_month = int(current_season["end_day"].split("-")[0])
+    end_year = int(current_season["end_day"].split("-")[2])
+
+    if in_early_season and (current_month == start_month and current_day < start_day):
+        return 0
+    if in_late_season and (current_month == end_month and current_day > end_day):
+        return 100
+
+
+    start_date = datetime(start_year, start_month, start_day)
+
+    end_date = datetime(end_year, end_month, end_day)
+
+    total_days = (end_date - start_date).days
+    days_passed = (today - start_date).days
+    return round((days_passed / total_days), 2)
+
 if __name__ == "__main__":
     print(in_season())
+    print(season_percentage())

@@ -2,38 +2,34 @@
     "NOP": {
         "info": {
             "record": "49-33",
-            "standing": "7th in West in 2024 in West",
+            "standing": "Finished in West in 2024 in West",
             "coach": "Willie Green (49-33)",
             "gm": "David Griffin",
             "preseason_odds": "+4000"
         },
         "players": [
-            "Jonas Valančiūnas",
-            "Herbert Jones",
-            "Zion Williamson",
-            "Jordan Hawkins",
-            "CJ McCollum",
-            "Naji Marshall",
-            "Brandon Ingram",
-            "Dyson Daniels",
-            "Larry Nance Jr.",
-            "Trey Murphy III",
             "Jose Alvarado",
-            "Cody Zeller",
+            "Izaiah Brockington",
+            "Jalen Crutcher",
+            "Dyson Daniels",
+            "Kaiser Gates",
+            "Jordan Hawkins",
+            "Brandon Ingram",
+            "Herbert Jones",
+            "Kira Lewis Jr.",
+            "E.J. Liddell",
+            "Naji Marshall",
+            "CJ McCollum",
+            "Trey Murphy III",
+            "Larry Nance Jr.",
             "Jeremiah Robinson-Earl",
             "Matt Ryan",
-            "E.J. Liddell",
             "Dereon Seabron",
-            "Malcolm Hill"
+            "Jonas Valančiūnas",
+            "Zion Williamson",
+            "Cody Zeller"
         ],
-        "injuries": [
-            {
-                "Player": "Zion Williamson",
-                "Team": "New Orleans Pelicans",
-                "Update": "Wed, Apr 17, 2024",
-                "Description": "Out (Hamstring) - Williamson has been diagnosed with a left hamstring strain following an MRI and will be re-evaluated in approximately two weeks."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "82",
@@ -278,7 +274,7 @@
                 "Attendance": "27"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202404172/tlogo/bbr/NOP-2024.png",
-        "last_update": "May 18 2024 21:37:02"
+        "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/NOP-2024.png",
+        "last_update": "Nov 24 2024 16:35:47"
     }
 }
