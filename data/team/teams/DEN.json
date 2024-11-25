@@ -2,7 +2,7 @@
     "DEN": {
         "info": {
             "record": "9-6",
-            "standing": "5th in West",
+            "standing": "6th in West",
             "coach": "Michael Malone (9-6)",
             "gm": "Calvin Booth",
             "preseason_odds": "+750"
@@ -45,6 +45,12 @@
                 "Team": "Denver Nuggets",
                 "Update": "Sat, Jul 13, 2024",
                 "Description": "Out For Season (Achilles) - DaRon Holmes II has suffered a torn right Achilles tendon, sources tell @TheAthletic @Stadium. Heâs expected to miss the 2024-25 season."
+            },
+            {
+                "Player": "Peyton Watson",
+                "Team": "Denver Nuggets",
+                "Update": "Sun, Nov 24, 2024",
+                "Description": "Day To Day (Adductor) - Watson is probable for Monday's (Nov. 25) game against New York."
             }
         ],
         "team_stats": {
@@ -100,17 +106,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "28",
                 "FG": "6",
-                "FGA": "13",
+                "FGA": "14",
                 "FG%": "9",
                 "3P": "15",
                 "3PA": "29",
                 "3P%": "2",
                 "2P": "8",
                 "2PA": "3",
-                "2P%": "22",
-                "FT": "4",
+                "2P%": "23",
+                "FT": "3",
                 "FTA": "2",
                 "FT%": "27",
                 "ORB": "10",
@@ -200,25 +206,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "28",
                 "FG": "25",
                 "FGA": "29",
                 "FG%": "14",
-                "3P": "11",
+                "3P": "12",
                 "3PA": "18",
                 "3P%": "6",
-                "2P": "26",
+                "2P": "27",
                 "2PA": "28",
                 "2P%": "15",
                 "FT": "5",
-                "FTA": "7",
+                "FTA": "6",
                 "FT%": "12",
-                "ORB": "21",
-                "DRB": "14",
+                "ORB": "22",
+                "DRB": "13",
                 "TRB": "17",
                 "AST": "29",
                 "STL": "19",
-                "BLK": "27",
+                "BLK": "28",
                 "TOV": "13",
                 "PF": "4",
                 "PTS": "21"
@@ -254,8 +260,8 @@
                 "PW": "9",
                 "PL": "6",
                 "MOV": "2.73",
-                "SOS": "1.30",
-                "SRS": "4.03",
+                "SOS": "1.35",
+                "SRS": "4.08",
                 "ORtg": "115.6",
                 "DRtg": "112.9",
                 "Pace": "100.2",
@@ -272,11 +278,11 @@
             "Misc Lg Rank": {
                 "W": "10",
                 "L": "24",
-                "PW": "13",
-                "PL": "10",
-                "MOV": "10",
+                "PW": "14",
+                "PL": "9",
+                "MOV": "11",
                 "SOS": "8",
-                "SRS": "8",
+                "SRS": "9",
                 "ORtg": "7",
                 "DRtg": "16",
                 "Pace": "9",
@@ -284,14 +290,14 @@
                 "3PAr": "29",
                 "eFG%": "11",
                 "TOV%": "16",
-                "ORB%": "10",
+                "ORB%": "11",
                 "FT/FGA": "4",
                 "DRB%": "18",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/DEN-2025.png",
-        "last_update": "Nov 24 2024 22:32:15"
+        "last_update": "Nov 25 2024 22:32:17"
     }
 }

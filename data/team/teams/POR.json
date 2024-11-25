@@ -31,20 +31,38 @@
             {
                 "Player": "Deandre Ayton",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Finger) - Ayton is out for Saturday's (Nov. 23) game versus the Rockets."
+                "Update": "Sun, Nov 24, 2024",
+                "Description": "Day To Day (Finger) - Ayton is doubtful for Monday's (Nov. 25) game versus the Grizzlies.."
+            },
+            {
+                "Player": "Donovan Clingan",
+                "Team": "Portland Trail Blazers",
+                "Update": "Sun, Nov 24, 2024",
+                "Description": "Out (Knee) - Clingan is out for Monday's (Nov. 25) game versus the Grizzlies.."
+            },
+            {
+                "Player": "Jerami Grant",
+                "Team": "Portland Trail Blazers",
+                "Update": "Sun, Nov 24, 2024",
+                "Description": "Day To Day (Illness) - Henderson is questionable for Monday's (Nov. 25) game versus the Grizzlies.."
             },
             {
                 "Player": "Scoot Henderson",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Back) - Henderson was involved in a minor car accident and will be out for Saturday's (Nov. 23) game versus the Rockets due to a back strain and is considered day-to-day moving forward, Sean Highkin of Rip City Radio 620 Portland reports."
+                "Update": "Sun, Nov 24, 2024",
+                "Description": "Day To Day (Back) - Henderson is questionable for Monday's (Nov. 25) game versus the Grizzlies.."
+            },
+            {
+                "Player": "Kris Murray",
+                "Team": "Portland Trail Blazers",
+                "Update": "Sun, Nov 24, 2024",
+                "Description": "Day To Day (Sternum) - Murray is questionable for Monday's (Nov. 25) game versus the Grizzlies.."
             },
             {
                 "Player": "Matisse Thybulle",
                 "Team": "Portland Trail Blazers",
                 "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Knee) - Thybulle is OUT for Saturday's (Nov. 23) game versus the Rockets."
+                "Description": "Out (Knee) - Thybulle is out for Monday's (Nov. 25) game versus the Grizzlies.."
             }
         ],
         "team_stats": {
@@ -100,27 +118,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "14",
                 "FG": "28",
-                "FGA": "11",
+                "FGA": "13",
                 "FG%": "30",
-                "3P": "28",
-                "3PA": "24",
+                "3P": "27",
+                "3PA": "23",
                 "3P%": "25",
                 "2P": "19",
-                "2PA": "7",
+                "2PA": "8",
                 "2P%": "30",
                 "FT": "13",
                 "FTA": "12",
                 "FT%": "24",
-                "ORB": "2",
+                "ORB": "3",
                 "DRB": "26",
-                "TRB": "10",
+                "TRB": "11",
                 "AST": "30",
-                "STL": "7",
+                "STL": "8",
                 "BLK": "3",
                 "TOV": "29",
-                "PF": "16",
+                "PF": "15",
                 "PTS": "28"
             },
             "Year/Year": {
@@ -200,28 +218,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "10",
-                "FGA": "12",
-                "FG%": "12",
-                "3P": "17",
+                "MP": "14",
+                "FG": "12",
+                "FGA": "10",
+                "FG%": "13",
+                "3P": "18",
                 "3PA": "21",
-                "3P%": "12",
-                "2P": "14",
-                "2PA": "10",
+                "3P%": "11",
+                "2P": "12",
+                "2PA": "9",
                 "2P%": "14",
-                "FT": "22",
+                "FT": "23",
                 "FTA": "20",
                 "FT%": "23",
                 "ORB": "26",
                 "DRB": "20",
                 "TRB": "24",
-                "AST": "24",
+                "AST": "23",
                 "STL": "30",
                 "BLK": "26",
                 "TOV": "4",
                 "PF": "6",
-                "PTS": "16"
+                "PTS": "17"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -254,8 +272,8 @@
                 "PW": "5",
                 "PL": "12",
                 "MOV": "-7.53",
-                "SOS": "1.50",
-                "SRS": "-6.03",
+                "SOS": "1.58",
+                "SRS": "-5.95",
                 "ORtg": "105.2",
                 "DRtg": "112.7",
                 "Pace": "100.3",
@@ -273,25 +291,25 @@
                 "W": "18",
                 "L": "8",
                 "PW": "26",
-                "PL": "29",
-                "MOV": "27",
-                "SOS": "7",
+                "PL": "28",
+                "MOV": "26",
+                "SOS": "6",
                 "SRS": "25",
                 "ORtg": "30",
                 "DRtg": "15",
                 "Pace": "8",
-                "FTr": "14",
+                "FTr": "13",
                 "3PAr": "25",
-                "eFG%": "15",
+                "eFG%": "14",
                 "TOV%": "4",
                 "ORB%": "4",
-                "FT/FGA": "22",
+                "FT/FGA": "23",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/POR-2025.png",
-        "last_update": "Nov 24 2024 22:32:15"
+        "last_update": "Nov 25 2024 22:32:17"
     }
 }

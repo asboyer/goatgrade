@@ -2,7 +2,7 @@
     "CHO": {
         "info": {
             "record": "6-10",
-            "standing": "11th in East",
+            "standing": "12th in East",
             "coach": "Charles Lee (6-10)",
             "gm": "Jeff Peterson",
             "preseason_odds": "+100000"
@@ -31,8 +31,8 @@
             {
                 "Player": "Miles Bridges",
                 "Team": "Charlotte Hornets",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Knee) - Bridges did not play in Saturday's (Nov. 23) game against Milwaukee."
+                "Update": "Sun, Nov 24, 2024",
+                "Description": "Out (Knee) - Bridges is OUT for Monday's (Nov. 25) game against Orlando."
             },
             {
                 "Player": "DaQuan Jeffries",
@@ -43,8 +43,8 @@
             {
                 "Player": "Tre Mann",
                 "Team": "Charlotte Hornets",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Back) - Mann did not play in Saturday's (Nov. 23) game versus the Bucks due to lower back soreness, Roderick Boone of The Charlotte Observer reports."
+                "Update": "Sun, Nov 24, 2024",
+                "Description": "Out (Back) - Mann is OUT for Monday's (Nov. 25) game against Orlando."
             },
             {
                 "Player": "Nick Richards",
@@ -53,10 +53,16 @@
                 "Description": "Out (Ribs) - Richards has returned to team and group activities but doesn't have a specific timetable for return, Roderick Boone of The Charlotte Observer reports."
             },
             {
+                "Player": "Grant Williams",
+                "Team": "Charlotte Hornets",
+                "Update": "Sun, Nov 24, 2024",
+                "Description": "Out For Season (Knee) - Williams has suffered a season-ending torn ACL in his knee, sources told ESPN."
+            },
+            {
                 "Player": "Mark Williams",
                 "Team": "Charlotte Hornets",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Foot) - Williams did not play in Saturday's (Nov. 23) game against Milwaukee."
+                "Update": "Sun, Nov 24, 2024",
+                "Description": "Out (Foot) - Williams is OUT for Monday's (Nov. 25) game against Orlando."
             }
         ],
         "team_stats": {
@@ -112,8 +118,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
-                "FG": "20",
+                "MP": "19",
+                "FG": "22",
                 "FGA": "6",
                 "FG%": "28",
                 "3P": "2",
@@ -126,11 +132,11 @@
                 "FTA": "30",
                 "FT%": "8",
                 "ORB": "6",
-                "DRB": "13",
+                "DRB": "15",
                 "TRB": "6",
                 "AST": "27",
                 "STL": "20",
-                "BLK": "14",
+                "BLK": "16",
                 "TOV": "21",
                 "PF": "26",
                 "PTS": "21"
@@ -212,25 +218,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
-                "FG": "20",
-                "FGA": "11",
-                "FG%": "20",
-                "3P": "20",
+                "MP": "19",
+                "FG": "19",
+                "FGA": "9",
+                "FG%": "21",
+                "3P": "21",
                 "3PA": "17",
-                "3P%": "15",
+                "3P%": "16",
                 "2P": "19",
-                "2PA": "11",
-                "2P%": "22",
-                "FT": "23",
+                "2PA": "10",
+                "2P%": "23",
+                "FT": "24",
                 "FTA": "21",
                 "FT%": "15",
-                "ORB": "6",
+                "ORB": "7",
                 "DRB": "18",
                 "TRB": "12",
-                "AST": "21",
+                "AST": "22",
                 "STL": "13",
-                "BLK": "19",
+                "BLK": "18",
                 "TOV": "22",
                 "PF": "14",
                 "PTS": "23"
@@ -266,8 +272,8 @@
                 "PW": "6",
                 "PL": "10",
                 "MOV": "-4.56",
-                "SOS": "0.19",
-                "SRS": "-4.37",
+                "SOS": "0.23",
+                "SRS": "-4.34",
                 "ORtg": "111.4",
                 "DRtg": "116.0",
                 "Pace": "98.0",
@@ -282,28 +288,28 @@
                 "Attendance": "134,112"
             },
             "Misc Lg Rank": {
-                "W": "22",
+                "W": "25",
                 "L": "8",
                 "PW": "23",
-                "PL": "22",
-                "MOV": "21",
-                "SOS": "18",
+                "PL": "21",
+                "MOV": "22",
+                "SOS": "16",
                 "SRS": "22",
-                "ORtg": "21",
+                "ORtg": "22",
                 "DRtg": "19",
-                "Pace": "20",
+                "Pace": "19",
                 "FTr": "30",
                 "3PAr": "2",
                 "eFG%": "21",
                 "TOV%": "21",
                 "ORB%": "7",
-                "FT/FGA": "23",
-                "DRB%": "9",
+                "FT/FGA": "24",
+                "DRB%": "8",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/CHO-2025.png",
-        "last_update": "Nov 24 2024 22:32:15"
+        "last_update": "Nov 25 2024 22:32:17"
     }
 }

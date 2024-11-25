@@ -31,8 +31,8 @@
             {
                 "Player": "Zach Edey",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Ankle) - Edey did not play in Saturday's (Nov. 23) game against Chicago."
+                "Update": "Sun, Nov 24, 2024",
+                "Description": "Out (Ankle) - Edey is OUT for Monday's (Nov. 25) game against Portland."
             },
             {
                 "Player": "GG Jackson II",
@@ -43,20 +43,14 @@
             {
                 "Player": "Ja Morant",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Hip) - Morant did not play in Saturday's (Nov. 23) game against Chicago."
-            },
-            {
-                "Player": "Marcus Smart",
-                "Team": "Memphis Grizzlies",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Illness) - Smart did not play in Saturday's (Nov. 23) game against Chicago."
+                "Update": "Sun, Nov 24, 2024",
+                "Description": "Day To Day (Hip) - Morant is questionable for Monday's (Nov. 25) game against Portland."
             },
             {
                 "Player": "Vince Williams Jr.",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Ankle) - Williams Jr. did not play in Saturday's (Nov. 23) game against Chicago."
+                "Update": "Sun, Nov 24, 2024",
+                "Description": "Out (Ankle) - Williams Jr. is OUT for Monday's (Nov. 25) game against Portland."
             }
         ],
         "team_stats": {
@@ -112,28 +106,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "14",
                 "FG": "2",
                 "FGA": "4",
-                "FG%": "6",
+                "FG%": "5",
                 "3P": "16",
                 "3PA": "19",
                 "3P%": "17",
                 "2P": "2",
-                "2PA": "5",
+                "2PA": "6",
                 "2P%": "5",
-                "FT": "4",
-                "FTA": "4",
-                "FT%": "21",
+                "FT": "3",
+                "FTA": "5",
+                "FT%": "20",
                 "ORB": "8",
                 "DRB": "4",
                 "TRB": "3",
                 "AST": "3",
-                "STL": "18",
+                "STL": "15",
                 "BLK": "1",
                 "TOV": "27",
-                "PF": "24",
-                "PTS": "3"
+                "PF": "23",
+                "PTS": "2"
             },
             "Year/Year": {
                 "G": "",
@@ -212,26 +206,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "14",
                 "FG": "13",
                 "FGA": "27",
                 "FG%": "4",
-                "3P": "24",
+                "3P": "25",
                 "3PA": "29",
-                "3P%": "13",
+                "3P%": "14",
                 "2P": "9",
                 "2PA": "12",
-                "2P%": "7",
+                "2P%": "8",
                 "FT": "18",
                 "FTA": "23",
                 "FT%": "3",
-                "ORB": "20",
+                "ORB": "21",
                 "DRB": "6",
                 "TRB": "11",
-                "AST": "9",
+                "AST": "10",
                 "STL": "23",
                 "BLK": "15",
-                "TOV": "8",
+                "TOV": "7",
                 "PF": "2",
                 "PTS": "18"
             },
@@ -266,8 +260,8 @@
                 "PW": "12",
                 "PL": "5",
                 "MOV": "6.65",
-                "SOS": "-1.64",
-                "SRS": "5.01",
+                "SOS": "-1.70",
+                "SRS": "4.95",
                 "ORtg": "115.6",
                 "DRtg": "109.2",
                 "Pace": "104.0",
@@ -282,28 +276,28 @@
                 "Attendance": "145,108"
             },
             "Misc Lg Rank": {
-                "W": "7",
-                "L": "16",
+                "W": "8",
+                "L": "18",
                 "PW": "6",
-                "PL": "7",
+                "PL": "6",
                 "MOV": "6",
-                "SOS": "23",
+                "SOS": "24",
                 "SRS": "7",
                 "ORtg": "8",
                 "DRtg": "6",
                 "Pace": "2",
-                "FTr": "8",
+                "FTr": "9",
                 "3PAr": "20",
                 "eFG%": "6",
-                "TOV%": "11",
+                "TOV%": "10",
                 "ORB%": "6",
-                "FT/FGA": "16",
+                "FT/FGA": "14",
                 "DRB%": "13",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/MEM-2025.png",
-        "last_update": "Nov 24 2024 22:32:15"
+        "last_update": "Nov 25 2024 22:32:17"
     }
 }

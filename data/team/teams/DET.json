@@ -2,7 +2,7 @@
     "DET": {
         "info": {
             "record": "7-11",
-            "standing": "9th in East",
+            "standing": "11th in East",
             "coach": "J.B. Bickerstaff (7-11)",
             "gm": "",
             "preseason_odds": "+100000"
@@ -30,8 +30,8 @@
             {
                 "Player": "Cade Cunningham",
                 "Team": "Detroit Pistons",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Hip) - Cunningham did not play in Saturday's (Nov.23) game versus the Magic."
+                "Update": "Sun, Nov 24, 2024",
+                "Description": "Day To Day (Hip) - Cunningham is Doubtful against Monday's (Nov. 25) game against Toronto."
             },
             {
                 "Player": "Bobi Klintman",
@@ -95,7 +95,7 @@
                 "G": "",
                 "MP": "1",
                 "FG": "17",
-                "FGA": "14",
+                "FGA": "15",
                 "FG%": "20",
                 "3P": "14",
                 "3PA": "18",
@@ -112,7 +112,7 @@
                 "AST": "19",
                 "STL": "30",
                 "BLK": "8",
-                "TOV": "24",
+                "TOV": "25",
                 "PF": "19",
                 "PTS": "22"
             },
@@ -194,23 +194,23 @@
             "Opp Lg Rank": {
                 "G": "",
                 "MP": "1",
-                "FG": "8",
+                "FG": "10",
                 "FGA": "16",
                 "FG%": "10",
-                "3P": "19",
-                "3PA": "10",
-                "3P%": "24",
-                "2P": "12",
+                "3P": "20",
+                "3PA": "11",
+                "3P%": "23",
+                "2P": "11",
                 "2PA": "20",
                 "2P%": "5",
                 "FT": "14",
-                "FTA": "13",
+                "FTA": "14",
                 "FT%": "14",
-                "ORB": "10",
+                "ORB": "8",
                 "DRB": "11",
-                "TRB": "8",
-                "AST": "6",
-                "STL": "27",
+                "TRB": "7",
+                "AST": "7",
+                "STL": "28",
                 "BLK": "14",
                 "TOV": "26",
                 "PF": "28",
@@ -247,8 +247,8 @@
                 "PW": "8",
                 "PL": "10",
                 "MOV": "-1.78",
-                "SOS": "-1.35",
-                "SRS": "-3.13",
+                "SOS": "-1.29",
+                "SRS": "-3.07",
                 "ORtg": "110.8",
                 "DRtg": "112.6",
                 "Pace": "97.4",
@@ -266,25 +266,25 @@
                 "W": "18",
                 "L": "6",
                 "PW": "16",
-                "PL": "20",
+                "PL": "19",
                 "MOV": "18",
                 "SOS": "22",
                 "SRS": "20",
-                "ORtg": "23",
-                "DRtg": "14",
+                "ORtg": "24",
+                "DRtg": "12",
                 "Pace": "23",
                 "FTr": "25",
                 "3PAr": "17",
-                "eFG%": "9",
+                "eFG%": "10",
                 "TOV%": "25",
                 "ORB%": "8",
                 "FT/FGA": "12",
                 "DRB%": "5",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "15"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/DET-2025.png",
-        "last_update": "Nov 24 2024 22:32:15"
+        "last_update": "Nov 25 2024 22:32:17"
     }
 }
