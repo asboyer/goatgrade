@@ -31,26 +31,32 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Nov 20, 2024",
-                "Description": "Out (Wrist) - Ball will need all of next week to continue ramping up before potentially returning to game action, Will Gottlieb of AllCHGO.com reports."
+                "Update": "Mon, Nov 25, 2024",
+                "Description": "Day To Day (Wrist) - Phillips is doubtful for Tuesday's (Nov. 26) game against Washington."
+            },
+            {
+                "Player": "Talen Horton-Tucker",
+                "Team": "Chicago Bulls",
+                "Update": "Mon, Nov 25, 2024",
+                "Description": "Day To Day (Thumb) - Horton-Tucker is Questionable for Thursday's (Mar. 14) game against Los Angeles."
             },
             {
                 "Player": "Julian Phillips",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Illness) - Phillips did not play in Saturday's (Nov. 23) game versus Memphis."
+                "Update": "Mon, Nov 25, 2024",
+                "Description": "Day To Day (Illness) - Phillips is probable for Tuesday's (Nov. 26) game against Washington."
             },
             {
                 "Player": "Adama Sanogo",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Knee) - Sanogo did not play in Saturday's (Nov. 23) game versus Memphis."
+                "Update": "Mon, Nov 25, 2024",
+                "Description": "Out (Knee) - Sanogo is OUT for Tuesday's (Nov. 26) game against Washington."
             },
             {
                 "Player": "Patrick Williams",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Foot) - Williams did not play in Saturday's (Nov. 23) game versus Memphis."
+                "Update": "Mon, Nov 25, 2024",
+                "Description": "Out (Foot) - Williams is OUT for Tuesday's (Nov. 26) game against Washington."
             }
         ],
         "team_stats": {
@@ -106,26 +112,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "8",
+                "MP": "11",
+                "FG": "9",
                 "FGA": "8",
                 "FG%": "11",
-                "3P": "3",
+                "3P": "2",
                 "3PA": "3",
-                "3P%": "4",
+                "3P%": "5",
                 "2P": "21",
                 "2PA": "23",
                 "2P%": "14",
                 "FT": "24",
                 "FTA": "26",
-                "FT%": "12",
+                "FT%": "11",
                 "ORB": "24",
                 "DRB": "5",
-                "TRB": "13",
+                "TRB": "12",
                 "AST": "5",
                 "STL": "27",
-                "BLK": "22",
-                "TOV": "23",
+                "BLK": "20",
+                "TOV": "22",
                 "PF": "7",
                 "PTS": "7"
             },
@@ -206,24 +212,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "11",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "30",
                 "3P": "16",
                 "3PA": "22",
-                "3P%": "9",
+                "3P%": "10",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "30",
-                "FT": "11",
+                "FT": "12",
                 "FTA": "15",
                 "FT%": "6",
-                "ORB": "12",
-                "DRB": "29",
-                "TRB": "26",
+                "ORB": "11",
+                "DRB": "30",
+                "TRB": "27",
                 "AST": "30",
-                "STL": "20",
+                "STL": "19",
                 "BLK": "16",
                 "TOV": "30",
                 "PF": "30",
@@ -260,8 +266,8 @@
                 "PW": "6",
                 "PL": "12",
                 "MOV": "-6.50",
-                "SOS": "1.49",
-                "SRS": "-5.01",
+                "SOS": "1.83",
+                "SRS": "-4.67",
                 "ORtg": "112.5",
                 "DRtg": "118.7",
                 "Pace": "104.4",
@@ -276,13 +282,13 @@
                 "Attendance": "159,835"
             },
             "Misc Lg Rank": {
-                "W": "18",
+                "W": "21",
                 "L": "6",
-                "PW": "24",
+                "PW": "25",
                 "PL": "27",
                 "MOV": "25",
-                "SOS": "7",
-                "SRS": "24",
+                "SOS": "3",
+                "SRS": "23",
                 "ORtg": "18",
                 "DRtg": "27",
                 "Pace": "1",
@@ -292,12 +298,12 @@
                 "TOV%": "30",
                 "ORB%": "29",
                 "FT/FGA": "6",
-                "DRB%": "7",
+                "DRB%": "6",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/CHI-2025.png",
-        "last_update": "Nov 25 2024 22:32:17"
+        "last_update": "Nov 26 2024 22:32:12"
     }
 }

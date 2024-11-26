@@ -29,22 +29,16 @@
         ],
         "injuries": [
             {
-                "Player": "Jaxson Hayes",
+                "Player": "Anthony Davis",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Nov 13, 2024",
-                "Description": "Out (Ankle) - Hayes will be re-evaluated in 1-to-2 weeks after suffering a left ankle sprain in Tuesday's practice, Mike Trudell of Spectrum SportsNet reports."
+                "Update": "Mon, Nov 25, 2024",
+                "Description": "Day To Day (Plantar) - Davis is probable for Tuesday's (Nov. 26) game against Phoenix."
             },
             {
                 "Player": "Bronny James",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Heel) - James is out for Saturday's (Nov. 23) game against Denver."
-            },
-            {
-                "Player": "Quincy Olivari",
-                "Team": "Los Angeles Lakers",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Ankle) - Olivari is OUT for Saturday's (Nov. 23) game versus the Nuggets."
+                "Update": "Mon, Nov 25, 2024",
+                "Description": "Out (Heel) - James is out for Tuesday's (Nov. 26) game against Phoenix."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -112,28 +106,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "27",
                 "FG": "14",
                 "FGA": "22",
                 "FG%": "6",
-                "3P": "17",
+                "3P": "16",
                 "3PA": "25",
                 "3P%": "9",
                 "2P": "11",
-                "2PA": "11",
+                "2PA": "12",
                 "2P%": "12",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "14",
+                "FT%": "13",
                 "ORB": "25",
                 "DRB": "27",
                 "TRB": "28",
                 "AST": "11",
                 "STL": "21",
-                "BLK": "25",
+                "BLK": "24",
                 "TOV": "5",
                 "PF": "2",
-                "PTS": "8"
+                "PTS": "9"
             },
             "Year/Year": {
                 "G": "",
@@ -212,24 +206,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
-                "FG": "28",
-                "FGA": "20",
+                "MP": "27",
+                "FG": "27",
+                "FGA": "19",
                 "FG%": "28",
-                "3P": "15",
-                "3PA": "8",
-                "3P%": "18",
-                "2P": "29",
-                "2PA": "27",
+                "3P": "14",
+                "3PA": "9",
+                "3P%": "19",
+                "2P": "27",
+                "2PA": "26",
                 "2P%": "28",
-                "FT": "9",
+                "FT": "8",
                 "FTA": "8",
-                "FT%": "21",
+                "FT%": "23",
                 "ORB": "17",
                 "DRB": "12",
                 "TRB": "14",
                 "AST": "28",
-                "STL": "6",
+                "STL": "5",
                 "BLK": "5",
                 "TOV": "16",
                 "PF": "1",
@@ -266,8 +260,8 @@
                 "PW": "8",
                 "PL": "8",
                 "MOV": "-0.50",
-                "SOS": "-0.66",
-                "SRS": "-1.16",
+                "SOS": "-0.85",
+                "SRS": "-1.35",
                 "ORtg": "117.4",
                 "DRtg": "117.9",
                 "Pace": "99.2",
@@ -282,28 +276,28 @@
                 "Attendance": "170,461"
             },
             "Misc Lg Rank": {
-                "W": "8",
-                "L": "24",
+                "W": "9",
+                "L": "25",
                 "PW": "17",
-                "PL": "16",
+                "PL": "14",
                 "MOV": "17",
                 "SOS": "20",
                 "SRS": "17",
                 "ORtg": "4",
                 "DRtg": "26",
-                "Pace": "13",
+                "Pace": "14",
                 "FTr": "1",
-                "3PAr": "23",
+                "3PAr": "21",
                 "eFG%": "27",
                 "TOV%": "15",
                 "ORB%": "24",
                 "FT/FGA": "9",
-                "DRB%": "25",
+                "DRB%": "26",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/LAL-2025.png",
-        "last_update": "Nov 25 2024 22:32:17"
+        "last_update": "Nov 26 2024 22:32:12"
     }
 }

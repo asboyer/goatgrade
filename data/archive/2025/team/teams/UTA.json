@@ -24,14 +24,21 @@
             "Taylor Hendricks",
             "Svi Mykhailiuk",
             "Micah Potter",
-            "Oscar Tshiebwe"
+            "Oscar Tshiebwe",
+            "David Jones"
         ],
         "injuries": [
             {
+                "Player": "Jordan Clarkson",
+                "Team": "Utah Jazz",
+                "Update": "Mon, Nov 25, 2024",
+                "Description": "Out (Plantar) - Clarkson is OUT for Tueday's (Nov. 26) game against San Antonio. "
+            },
+            {
                 "Player": "Kyle Filipowski",
                 "Team": "Utah Jazz",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Day To Day (Ankle) - Filipowski did not play in Saturday's (Nov. 23) game versus the Knicks."
+                "Update": "Mon, Nov 25, 2024",
+                "Description": "Out (Ankle) - Filipowski is OUT for Tueday's (Nov. 26) game against San Antonio. "
             },
             {
                 "Player": "Taylor Hendricks",
@@ -93,28 +100,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
-                "FG": "26",
-                "FGA": "26",
+                "MP": "27",
+                "FG": "27",
+                "FGA": "28",
                 "FG%": "22",
-                "3P": "17",
+                "3P": "16",
                 "3PA": "14",
-                "3P%": "20",
+                "3P%": "21",
                 "2P": "22",
                 "2PA": "21",
                 "2P%": "20",
                 "FT": "2",
-                "FTA": "3",
+                "FTA": "4",
                 "FT%": "7",
-                "ORB": "13",
-                "DRB": "18",
+                "ORB": "11",
+                "DRB": "19",
                 "TRB": "14",
-                "AST": "23",
-                "STL": "25",
+                "AST": "24",
+                "STL": "26",
                 "BLK": "23",
                 "TOV": "30",
                 "PF": "13",
-                "PTS": "25"
+                "PTS": "22"
             },
             "Year/Year": {
                 "G": "",
@@ -193,20 +200,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
-                "FG": "27",
+                "MP": "27",
+                "FG": "26",
                 "FGA": "22",
                 "FG%": "25",
                 "3P": "26",
                 "3PA": "26",
-                "3P%": "17",
-                "2P": "21",
-                "2PA": "13",
+                "3P%": "18",
+                "2P": "22",
+                "2PA": "12",
                 "2P%": "27",
                 "FT": "17",
                 "FTA": "18",
-                "FT%": "7",
-                "ORB": "19",
+                "FT%": "8",
+                "ORB": "20",
                 "DRB": "3",
                 "TRB": "8",
                 "AST": "27",
@@ -214,7 +221,7 @@
                 "BLK": "30",
                 "TOV": "28",
                 "PF": "5",
-                "PTS": "26"
+                "PTS": "27"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +254,8 @@
                 "PW": "4",
                 "PL": "12",
                 "MOV": "-9.06",
-                "SOS": "2.35",
-                "SRS": "-6.71",
+                "SOS": "1.93",
+                "SRS": "-7.13",
                 "ORtg": "109.6",
                 "DRtg": "118.7",
                 "Pace": "99.8",
@@ -268,23 +275,23 @@
                 "PW": "28",
                 "PL": "26",
                 "MOV": "28",
-                "SOS": "1",
-                "SRS": "26",
+                "SOS": "2",
+                "SRS": "27",
                 "ORtg": "26",
                 "DRtg": "28",
                 "Pace": "11",
                 "FTr": "2",
-                "3PAr": "13",
-                "eFG%": "23",
+                "3PAr": "12",
+                "eFG%": "24",
                 "TOV%": "29",
-                "ORB%": "9",
+                "ORB%": "8",
                 "FT/FGA": "13",
-                "DRB%": "21",
+                "DRB%": "22",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/UTA-2025.png",
-        "last_update": "Nov 25 2024 22:32:17"
+        "last_update": "Nov 26 2024 22:32:12"
     }
 }
