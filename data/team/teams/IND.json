@@ -31,8 +31,8 @@
             {
                 "Player": "Johnny Furphy",
                 "Team": "Indiana Pacers",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Ankle) - Furphy is out for Monday's (Nov. 25) game against New Orleans."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Ankle) - Furphy is listed as questionable for Wednesday's (Nov. 27) game versus the Trail Blazers."
             },
             {
                 "Player": "Isaiah Jackson",
@@ -43,20 +43,20 @@
             {
                 "Player": "Andrew Nembhard",
                 "Team": "Indiana Pacers",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Knee) - Nembhard is OUT for Monday's (Nov. 25) game against New Orleans."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Knee) - Nembhard did not play in Monday's (Nov. 25) game against New Orleans."
             },
             {
                 "Player": "Aaron Nesmith",
                 "Team": "Indiana Pacers",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Ankle) - Nesmith is OUT for Monday's (Nov. 25) game against New Orleans."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Ankle) - Coach Rick Carlisle said Sunday that Nesmith will remain out until at least December, Tony East of SI.com reports."
             },
             {
                 "Player": "Ben Sheppard",
                 "Team": "Indiana Pacers",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Oblique) - Sheppard is OUT for Monday's (Nov. 25) game against New Orleans."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Oblique) - Coach Rick Carlisle said Sunday that Sheppard will miss multiple weeks, Dustin Dopirak of The Indianapolis Star reports."
             },
             {
                 "Player": "James Wiseman",
@@ -118,21 +118,21 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "8",
+                "MP": "9",
+                "FG": "9",
                 "FGA": "19",
                 "FG%": "3",
                 "3P": "19",
                 "3PA": "27",
-                "3P%": "12",
+                "3P%": "10",
                 "2P": "6",
                 "2PA": "9",
                 "2P%": "9",
                 "FT": "20",
                 "FTA": "19",
-                "FT%": "19",
+                "FT%": "18",
                 "ORB": "29",
-                "DRB": "23",
+                "DRB": "24",
                 "TRB": "27",
                 "AST": "9",
                 "STL": "12",
@@ -218,20 +218,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "9",
                 "FG": "23",
                 "FGA": "16",
-                "FG%": "24",
+                "FG%": "23",
                 "3P": "9",
-                "3PA": "10",
-                "3P%": "12",
+                "3PA": "9",
+                "3P%": "11",
                 "2P": "26",
                 "2PA": "19",
                 "2P%": "26",
                 "FT": "27",
                 "FTA": "26",
                 "FT%": "18",
-                "ORB": "18",
+                "ORB": "19",
                 "DRB": "17",
                 "TRB": "18",
                 "AST": "10",
@@ -272,8 +272,8 @@
                 "PW": "7",
                 "PL": "11",
                 "MOV": "-3.22",
-                "SOS": "-0.48",
-                "SRS": "-3.70",
+                "SOS": "-0.51",
+                "SRS": "-3.73",
                 "ORtg": "113.4",
                 "DRtg": "116.6",
                 "Pace": "99.8",
@@ -288,28 +288,28 @@
                 "Attendance": "134,831"
             },
             "Misc Lg Rank": {
-                "W": "15",
+                "W": "16",
                 "L": "11",
-                "PW": "20",
+                "PW": "21",
                 "PL": "21",
                 "MOV": "21",
                 "SOS": "19",
                 "SRS": "21",
                 "ORtg": "15",
-                "DRtg": "21",
+                "DRtg": "22",
                 "Pace": "12",
-                "FTr": "20",
+                "FTr": "18",
                 "3PAr": "26",
-                "eFG%": "20",
-                "TOV%": "16",
-                "ORB%": "28",
+                "eFG%": "21",
+                "TOV%": "15",
+                "ORB%": "27",
                 "FT/FGA": "25",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/IND-2025.png",
-        "last_update": "Nov 26 2024 22:32:12"
+        "last_update": "Nov 27 2024 22:32:13"
     }
 }

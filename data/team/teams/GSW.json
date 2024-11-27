@@ -27,10 +27,16 @@
         ],
         "injuries": [
             {
+                "Player": "Stephen Curry",
+                "Team": "Golden State Warriors",
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Knee) - Curry is listed as questionable for Wednesday's (Nov. 27) game against the Thunder."
+            },
+            {
                 "Player": "Jonathan Kuminga",
                 "Team": "Golden State Warriors",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Illness) - Kuminga is OUT for Monday's (Nov. 25) game against Brooklyn."
+                "Update": "Wed, Nov 27, 2024",
+                "Description": "Day To Day (Illness) - Kuminga is listed as questionable for Wednesday's (Nov. 27) game against the Thunder."
             },
             {
                 "Player": "De'Anthony Melton",
@@ -92,28 +98,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "22",
                 "FG": "5",
                 "FGA": "2",
                 "FG%": "12",
                 "3P": "4",
                 "3PA": "4",
                 "3P%": "6",
-                "2P": "18",
+                "2P": "17",
                 "2PA": "18",
                 "2P%": "17",
                 "FT": "28",
                 "FTA": "17",
                 "FT%": "30",
                 "ORB": "4",
-                "DRB": "4",
+                "DRB": "3",
                 "TRB": "2",
                 "AST": "1",
-                "STL": "4",
+                "STL": "5",
                 "BLK": "10",
                 "TOV": "15",
                 "PF": "27",
-                "PTS": "5"
+                "PTS": "6"
             },
             "Year/Year": {
                 "G": "",
@@ -192,27 +198,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "22",
                 "FG": "5",
-                "FGA": "23",
+                "FGA": "24",
                 "FG%": "3",
                 "3P": "5",
-                "3PA": "25",
+                "3PA": "26",
                 "3P%": "1",
-                "2P": "11",
-                "2PA": "14",
+                "2P": "12",
+                "2PA": "15",
                 "2P%": "8",
                 "FT": "24",
                 "FTA": "24",
                 "FT%": "13",
-                "ORB": "28",
+                "ORB": "29",
                 "DRB": "23",
-                "TRB": "26",
+                "TRB": "28",
                 "AST": "12",
-                "STL": "8",
-                "BLK": "21",
+                "STL": "7",
+                "BLK": "20",
                 "TOV": "10",
-                "PF": "22",
+                "PF": "23",
                 "PTS": "7"
             },
             "Opp Year/Year": {
@@ -262,10 +268,10 @@
                 "Attendance": "126,448"
             },
             "Misc Lg Rank": {
-                "W": "4",
+                "W": "5",
                 "L": "27",
                 "PW": "6",
-                "PL": "5",
+                "PL": "4",
                 "MOV": "5",
                 "SOS": "18",
                 "SRS": "5",
@@ -280,10 +286,10 @@
                 "FT/FGA": "22",
                 "DRB%": "21",
                 "Arena": "",
-                "Attendance": "27"
+                "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/GSW-2025.png",
-        "last_update": "Nov 26 2024 22:32:12"
+        "last_update": "Nov 27 2024 22:32:13"
     }
 }

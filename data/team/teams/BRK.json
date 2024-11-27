@@ -36,32 +36,44 @@
             {
                 "Player": "Nic Claxton",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Back) - Claxton is OUT for Monday's (Nov. 25) game against Golden State"
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Back) - Claxton is questionable for Wednesday's (Nov. 27) game against the Suns, Erik Slater of ClutchPoints.com reports."
             },
             {
                 "Player": "Noah Clowney",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Ankle) - Clowney is OUT for Monday's (Nov. 25) game against Golden State"
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Ankle) - Clowney has been ruled out for Wednesday's (Nov. 27) matchup against the Suns, Erik Slater of ClutchPoints.com reports."
             },
             {
                 "Player": "Dorian Finney-Smith",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Ankle) - Finney-Smith is OUT for Monday's (Nov. 25) game against Golden State"
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Ankle) - Finney-Smith is questionable for Wednesday's (Nov. 27) game against the Suns, Erik Slater of ClutchPoints.com reports."
+            },
+            {
+                "Player": "Cameron Johnson",
+                "Team": "Brooklyn Nets",
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Ankle) - Johnson is questionable for Wednesday's (Nov. 27) game against the Suns due to a right ankle sprain, Erik Slater of ClutchPoints.com reports."
             },
             {
                 "Player": "Day'Ron Sharpe",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Hamstring) - Sharpe is OUT for Monday's (Nov. 25) game against Golden State"
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Hamstring) - Sharpe has yet to play this season due to a left hamstring strain. However, Sharpe appears to be progressing well in his recovery and could return to action at the start of December if he doesn't suffer any setbacks."
             },
             {
                 "Player": "Ben Simmons",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Back) - Simmons is OUT for Monday's (Nov. 25) game against Golden State"
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Back) - Simmons did not play in Monday's (Nov. 25) game against Golden State."
+            },
+            {
+                "Player": "Cam Thomas",
+                "Team": "Brooklyn Nets",
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Hamstring) - Thomas is out for Wednesday's (Nov. 27) game versus the Suns due to left hamstring soreness, Erik Slater of ClutchPoints.com reports."
             }
         ],
         "team_stats": {
@@ -117,28 +129,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "9",
                 "FG": "24",
                 "FGA": "30",
                 "FG%": "13",
                 "3P": "5",
-                "3PA": "6",
+                "3PA": "5",
                 "3P%": "4",
                 "2P": "28",
                 "2PA": "29",
                 "2P%": "16",
-                "FT": "14",
-                "FTA": "20",
-                "FT%": "5",
+                "FT": "16",
+                "FTA": "21",
+                "FT%": "4",
                 "ORB": "28",
                 "DRB": "29",
                 "TRB": "30",
-                "AST": "12",
+                "AST": "13",
                 "STL": "29",
                 "BLK": "30",
                 "TOV": "14",
                 "PF": "29",
-                "PTS": "20"
+                "PTS": "19"
             },
             "Year/Year": {
                 "G": "",
@@ -217,14 +229,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "11",
+                "MP": "9",
+                "FG": "12",
                 "FGA": "3",
                 "FG%": "26",
                 "3P": "13",
                 "3PA": "6",
-                "3P%": "23",
-                "2P": "15",
+                "3P%": "24",
+                "2P": "16",
                 "2PA": "5",
                 "2P%": "25",
                 "FT": "28",
@@ -235,10 +247,10 @@
                 "TRB": "9",
                 "AST": "21",
                 "STL": "13",
-                "BLK": "22",
-                "TOV": "17",
-                "PF": "19",
-                "PTS": "20"
+                "BLK": "23",
+                "TOV": "16",
+                "PF": "18",
+                "PTS": "21"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -271,8 +283,8 @@
                 "PW": "8",
                 "PL": "10",
                 "MOV": "-2.61",
-                "SOS": "1.44",
-                "SRS": "-1.18",
+                "SOS": "1.46",
+                "SRS": "-1.15",
                 "ORtg": "114.8",
                 "DRtg": "117.5",
                 "Pace": "96.1",
@@ -287,28 +299,28 @@
                 "Attendance": "125,232"
             },
             "Misc Lg Rank": {
-                "W": "15",
+                "W": "16",
                 "L": "11",
-                "PW": "18",
+                "PW": "19",
                 "PL": "19",
                 "MOV": "20",
-                "SOS": "6",
-                "SRS": "16",
-                "ORtg": "9",
+                "SOS": "5",
+                "SRS": "17",
+                "ORtg": "10",
                 "DRtg": "25",
                 "Pace": "30",
-                "FTr": "12",
+                "FTr": "13",
                 "3PAr": "3",
-                "eFG%": "25",
+                "eFG%": "26",
                 "TOV%": "14",
-                "ORB%": "27",
+                "ORB%": "26",
                 "FT/FGA": "29",
                 "DRB%": "14",
                 "Arena": "",
-                "Attendance": "28"
+                "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/BRK-2025.png",
-        "last_update": "Nov 26 2024 22:32:12"
+        "last_update": "Nov 27 2024 22:32:13"
     }
 }

@@ -17,38 +17,40 @@
             "Gradey Dick",
             "Jamison Battle",
             "RJ Barrett",
+            "Bruno Fernando",
             "Scottie Barnes",
             "Garrett Temple",
             "Ja'Kobe Walter",
+            "D.J. Carton",
             "Immanuel Quickley",
             "Ulrich Chomche",
-            "Bruce Brown",
-            "Kelly Olynyk"
+            "Kelly Olynyk",
+            "Bruce Brown"
         ],
         "injuries": [
             {
                 "Player": "Bruce Brown",
                 "Team": "Toronto Raptors",
-                "Update": "Sun, Nov 3, 2024",
-                "Description": "Out (Knee) - Brown is considered multiple weeks away from making his season debut, Blake Murphy of Sportsnet.ca reports."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Knee) - Brown has been ruled out for Wednesday's (Nov. 27) game against the Pelicans."
             },
             {
                 "Player": "Gradey Dick",
                 "Team": "Toronto Raptors",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Calf) - Dick is OUT for Monday's (Nov. 25) game against Detroit.."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Calf) - Dick has been ruled out for Wednesday's (Nov. 27) game against the Pelicans."
             },
             {
                 "Player": "Kelly Olynyk",
                 "Team": "Toronto Raptors",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Back) - Olynyk is OUT for Monday's (Nov. 25) game against Detroit.."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Back) - Olynyk is out for Wednesday's (Nov. 27) game against New Orleans."
             },
             {
                 "Player": "Immanuel Quickley",
                 "Team": "Toronto Raptors",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Out (Elbow) - Quickley is OUT for Monday's (Nov. 25) game against Detroit.."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Elbow) - Quickley isn't expected to be ready to return to game action until mid-December at the earliest, Josh Lewenberg of TSN.ca reports."
             }
         ],
         "team_stats": {
@@ -104,8 +106,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "12",
+                "MP": "6",
+                "FG": "13",
                 "FGA": "5",
                 "FG%": "20",
                 "3P": "30",
@@ -114,18 +116,18 @@
                 "2P": "1",
                 "2PA": "1",
                 "2P%": "24",
-                "FT": "13",
+                "FT": "12",
                 "FTA": "6",
                 "FT%": "28",
-                "ORB": "2",
-                "DRB": "22",
+                "ORB": "1",
+                "DRB": "23",
                 "TRB": "6",
                 "AST": "10",
-                "STL": "18",
+                "STL": "17",
                 "BLK": "17",
                 "TOV": "25",
                 "PF": "30",
-                "PTS": "17"
+                "PTS": "18"
             },
             "Year/Year": {
                 "G": "",
@@ -204,16 +206,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "6",
                 "FG": "20",
-                "FGA": "14",
+                "FGA": "15",
                 "FG%": "16",
                 "3P": "8",
                 "3PA": "14",
-                "3P%": "5",
+                "3P%": "6",
                 "2P": "21",
                 "2PA": "16",
-                "2P%": "23",
+                "2P%": "22",
                 "FT": "30",
                 "FTA": "30",
                 "FT%": "20",
@@ -224,7 +226,7 @@
                 "STL": "24",
                 "BLK": "27",
                 "TOV": "22",
-                "PF": "11",
+                "PF": "10",
                 "PTS": "26"
             },
             "Opp Year/Year": {
@@ -258,8 +260,8 @@
                 "PW": "6",
                 "PL": "12",
                 "MOV": "-5.72",
-                "SOS": "0.65",
-                "SRS": "-5.07",
+                "SOS": "0.53",
+                "SRS": "-5.19",
                 "ORtg": "111.7",
                 "DRtg": "117.4",
                 "Pace": "98.7",
@@ -276,26 +278,26 @@
             "Misc Lg Rank": {
                 "W": "26",
                 "L": "1",
-                "PW": "23",
+                "PW": "24",
                 "PL": "25",
-                "MOV": "24",
+                "MOV": "25",
                 "SOS": "13",
                 "SRS": "24",
                 "ORtg": "20",
                 "DRtg": "24",
-                "Pace": "16",
+                "Pace": "15",
                 "FTr": "10",
                 "3PAr": "30",
                 "eFG%": "14",
                 "TOV%": "23",
                 "ORB%": "1",
                 "FT/FGA": "30",
-                "DRB%": "25",
+                "DRB%": "26",
                 "Arena": "",
                 "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/TOR-2025.png",
-        "last_update": "Nov 26 2024 22:32:12"
+        "last_update": "Nov 27 2024 22:32:13"
     }
 }

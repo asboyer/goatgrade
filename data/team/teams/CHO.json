@@ -31,20 +31,20 @@
             {
                 "Player": "Miles Bridges",
                 "Team": "Charlotte Hornets",
-                "Update": "Sun, Nov 24, 2024",
-                "Description": "Out (Knee) - Bridges is OUT for Monday's (Nov. 25) game against Orlando."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Knee) - Bridges is out for Wednesday's (Nov. 27) game against the Heat."
             },
             {
                 "Player": "DaQuan Jeffries",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Nov 15, 2024",
-                "Description": "Out (Hand) - Jeffries remains out recovering from a fractured hand and has no timetable for his return."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Hand) - Jeffrie shas been ruled out for Wednesday's (Nov. 27) game against Heat."
             },
             {
                 "Player": "Tre Mann",
                 "Team": "Charlotte Hornets",
-                "Update": "Sun, Nov 24, 2024",
-                "Description": "Out (Back) - Mann is OUT for Monday's (Nov. 25) game against Orlando."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Back) - Mann is out for Wednesday's (Nov. 27) game against Miami."
             },
             {
                 "Player": "Nick Richards",
@@ -61,8 +61,8 @@
             {
                 "Player": "Mark Williams",
                 "Team": "Charlotte Hornets",
-                "Update": "Sun, Nov 24, 2024",
-                "Description": "Out (Foot) - Williams is OUT for Monday's (Nov. 25) game against Orlando."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Foot) - Williams is out for Wednesday's (Nov. 27) game against the Heat."
             }
         ],
         "team_stats": {
@@ -118,23 +118,23 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "19",
                 "FG": "25",
                 "FGA": "9",
                 "FG%": "28",
                 "3P": "3",
                 "3PA": "2",
-                "3P%": "14",
+                "3P%": "15",
                 "2P": "29",
                 "2PA": "25",
-                "2P%": "28",
+                "2P%": "29",
                 "FT": "30",
                 "FTA": "29",
-                "FT%": "8",
+                "FT%": "9",
                 "ORB": "5",
-                "DRB": "12",
+                "DRB": "13",
                 "TRB": "5",
-                "AST": "27",
+                "AST": "28",
                 "STL": "20",
                 "BLK": "16",
                 "TOV": "26",
@@ -218,28 +218,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "19",
                 "FG": "19",
                 "FGA": "9",
                 "FG%": "17",
-                "3P": "21",
-                "3PA": "20",
-                "3P%": "16",
+                "3P": "19",
+                "3PA": "19",
+                "3P%": "15",
                 "2P": "17",
-                "2PA": "9",
-                "2P%": "22",
+                "2PA": "10",
+                "2P%": "21",
                 "FT": "18",
                 "FTA": "20",
                 "FT%": "10",
-                "ORB": "8",
+                "ORB": "11",
                 "DRB": "15",
                 "TRB": "11",
-                "AST": "17",
+                "AST": "18",
                 "STL": "15",
                 "BLK": "17",
-                "TOV": "24",
-                "PF": "13",
-                "PTS": "19"
+                "TOV": "23",
+                "PF": "12",
+                "PTS": "20"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -290,7 +290,7 @@
             "Misc Lg Rank": {
                 "W": "25",
                 "L": "6",
-                "PW": "24",
+                "PW": "25",
                 "PL": "22",
                 "MOV": "22",
                 "SOS": "11",
@@ -304,12 +304,12 @@
                 "TOV%": "22",
                 "ORB%": "6",
                 "FT/FGA": "20",
-                "DRB%": "8",
+                "DRB%": "9",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/CHO-2025.png",
-        "last_update": "Nov 26 2024 22:32:12"
+        "last_update": "Nov 27 2024 22:32:13"
     }
 }

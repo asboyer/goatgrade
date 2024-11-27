@@ -35,14 +35,26 @@
             {
                 "Player": "Isaiah Crawford",
                 "Team": "Sacramento Kings",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Ankle) - Crawford is out for Monday's (Nov. 25) game against Oklahoma City."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Ankle) - Crawford did not play in Monday's (Nov. 25) game against Oklahoma City."
+            },
+            {
+                "Player": "DeMar DeRozan",
+                "Team": "Sacramento Kings",
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Back) - DeRozan is out for Wednesday's (Nov. 27) game against the Timberwolves due to a lower back injury, Frankie Cartoscelli of KHTK Sactown Sports 1140 reports."
             },
             {
                 "Player": "Mason Jones",
                 "Team": "Sacramento Kings",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Hamstring) - Jones is out for Monday's (Nov. 25) game against Oklahoma City."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Hamstring) - Jones did not play in Monday's (Nov. 25) game against Oklahoma City."
+            },
+            {
+                "Player": "Trey Lyles",
+                "Team": "Sacramento Kings",
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Calf) - The Kings announced that Lyles has suffered a Grade 1 right calf strain and will re-evaluated in 3-4 weeks, Frankie Cartoscelli of KHTK Sactown Sports 1140 reports."
             }
         ],
         "team_stats": {
@@ -98,20 +110,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "11",
+                "MP": "6",
+                "FG": "12",
                 "FGA": "20",
                 "FG%": "4",
                 "3P": "28",
                 "3PA": "24",
                 "3P%": "26",
                 "2P": "4",
-                "2PA": "13",
+                "2PA": "12",
                 "2P%": "2",
                 "FT": "7",
-                "FTA": "12",
+                "FTA": "11",
                 "FT%": "6",
-                "ORB": "26",
+                "ORB": "25",
                 "DRB": "11",
                 "TRB": "20",
                 "AST": "25",
@@ -198,28 +210,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "11",
-                "FGA": "11",
+                "MP": "6",
+                "FG": "12",
+                "FGA": "12",
                 "FG%": "12",
                 "3P": "29",
                 "3PA": "27",
                 "3P%": "29",
-                "2P": "4",
+                "2P": "3",
                 "2PA": "5",
                 "2P%": "10",
                 "FT": "16",
                 "FTA": "14",
-                "FT%": "26",
+                "FT%": "25",
                 "ORB": "6",
-                "DRB": "7",
+                "DRB": "6",
                 "TRB": "3",
                 "AST": "14",
                 "STL": "17",
                 "BLK": "1",
                 "TOV": "11",
                 "PF": "15",
-                "PTS": "18"
+                "PTS": "19"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -252,8 +264,8 @@
                 "PW": "9",
                 "PL": "9",
                 "MOV": "0.28",
-                "SOS": "-1.82",
-                "SRS": "-1.54",
+                "SOS": "-1.68",
+                "SRS": "-1.40",
                 "ORtg": "114.0",
                 "DRtg": "113.7",
                 "Pace": "98.3",
@@ -268,28 +280,28 @@
                 "Attendance": "168,498"
             },
             "Misc Lg Rank": {
-                "W": "15",
+                "W": "16",
                 "L": "11",
-                "PW": "11",
-                "PL": "17",
-                "MOV": "15",
-                "SOS": "28",
+                "PW": "14",
+                "PL": "16",
+                "MOV": "16",
+                "SOS": "27",
                 "SRS": "18",
                 "ORtg": "13",
                 "DRtg": "16",
                 "Pace": "17",
-                "FTr": "8",
+                "FTr": "7",
                 "3PAr": "19",
                 "eFG%": "18",
                 "TOV%": "11",
                 "ORB%": "23",
-                "FT/FGA": "16",
-                "DRB%": "4",
+                "FT/FGA": "17",
+                "DRB%": "5",
                 "Arena": "",
                 "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/SAC-2025.png",
-        "last_update": "Nov 26 2024 22:32:12"
+        "last_update": "Nov 27 2024 22:32:13"
     }
 }

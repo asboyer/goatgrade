@@ -36,20 +36,20 @@
             {
                 "Player": "Caris LeVert",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Day To Day (Knee) - LeVert is OUT for Sunday's (Nov. 24) game against Toronto."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Knee) - LeVert is OUT for Wednesday's (Nov. 27) game against Atlanta."
             },
             {
                 "Player": "Max Strus",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Sat, Oct 19, 2024",
-                "Description": "Out (Ankle) - The Cleveland Cavaliers said F Max Strus will miss at least six weeks due to a right ankle sprain, per ESPN's Shams Charania."
+                "Update": "Sat, Nov 23, 2024",
+                "Description": "Out (Ankle) - Strus will be re-evaluated next week, Ethan Sands of Cleveland.com reported Wednesday."
             },
             {
                 "Player": "Dean Wade",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Day To Day (Ankle) - Wade is OUT for Sunday's (Nov. 24) game against Toronto."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Ankle) - Wade is OUT for Wednesday's (Nov. 27) game against Atlanta."
             }
         ],
         "team_stats": {
@@ -105,11 +105,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "13",
                 "FG": "1",
                 "FGA": "15",
                 "FG%": "1",
-                "3P": "7",
+                "3P": "6",
                 "3PA": "13",
                 "3P%": "1",
                 "2P": "5",
@@ -117,12 +117,12 @@
                 "2P%": "1",
                 "FT": "27",
                 "FTA": "27",
-                "FT%": "9",
-                "ORB": "27",
+                "FT%": "11",
+                "ORB": "26",
                 "DRB": "9",
                 "TRB": "19",
                 "AST": "7",
-                "STL": "7",
+                "STL": "8",
                 "BLK": "15",
                 "TOV": "7",
                 "PF": "8",
@@ -205,9 +205,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "13",
                 "FG": "9",
-                "FGA": "13",
+                "FGA": "14",
                 "FG%": "10",
                 "3P": "22",
                 "3PA": "13",
@@ -215,18 +215,18 @@
                 "2P": "10",
                 "2PA": "17",
                 "2P%": "6",
-                "FT": "6",
-                "FTA": "7",
+                "FT": "7",
+                "FTA": "8",
                 "FT%": "16",
-                "ORB": "13",
+                "ORB": "12",
                 "DRB": "5",
-                "TRB": "5",
+                "TRB": "4",
                 "AST": "11",
-                "STL": "10",
+                "STL": "9",
                 "BLK": "8",
-                "TOV": "8",
+                "TOV": "7",
                 "PF": "28",
-                "PTS": "11"
+                "PTS": "10"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -259,8 +259,8 @@
                 "PW": "15",
                 "PL": "3",
                 "MOV": "12.39",
-                "SOS": "-2.31",
-                "SRS": "10.08",
+                "SOS": "-2.36",
+                "SRS": "10.03",
                 "ORtg": "123.6",
                 "DRtg": "111.2",
                 "Pace": "99.9",
@@ -283,7 +283,7 @@
                 "SOS": "30",
                 "SRS": "2",
                 "ORtg": "1",
-                "DRtg": "9",
+                "DRtg": "8",
                 "Pace": "10",
                 "FTr": "26",
                 "3PAr": "15",
@@ -297,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/CLE-2025.png",
-        "last_update": "Nov 26 2024 22:32:12"
+        "last_update": "Nov 27 2024 22:32:13"
     }
 }

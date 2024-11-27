@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Achilles) - Young is listed as questionable for Wednesday's (Nov. 27) game versus the Cavaliers due to right Achilles tendinitis, Brad Rowland of the Locked On Podcast Network reports."
+            },
+            {
                 "Player": "Cody Zeller",
                 "Team": "Atlanta Hawks",
                 "Update": "Thu, Nov 14, 2024",
@@ -88,10 +94,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "13",
                 "FG": "10",
                 "FGA": "3",
-                "FG%": "17",
+                "FG%": "19",
                 "3P": "21",
                 "3PA": "21",
                 "3P%": "22",
@@ -100,16 +106,16 @@
                 "2P%": "18",
                 "FT": "6",
                 "FTA": "5",
-                "FT%": "17",
+                "FT%": "16",
                 "ORB": "8",
                 "DRB": "21",
-                "TRB": "12",
+                "TRB": "13",
                 "AST": "4",
                 "STL": "2",
                 "BLK": "9",
                 "TOV": "23",
                 "PF": "11",
-                "PTS": "10"
+                "PTS": "9"
             },
             "Year/Year": {
                 "G": "",
@@ -188,10 +194,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "13",
                 "FG": "24",
-                "FGA": "24",
-                "FG%": "21",
+                "FGA": "26",
+                "FG%": "22",
                 "3P": "30",
                 "3PA": "30",
                 "3P%": "30",
@@ -199,8 +205,8 @@
                 "2PA": "8",
                 "2P%": "12",
                 "FT": "21",
-                "FTA": "19",
-                "FT%": "24",
+                "FTA": "18",
+                "FT%": "23",
                 "ORB": "16",
                 "DRB": "24",
                 "TRB": "23",
@@ -208,7 +214,7 @@
                 "STL": "23",
                 "BLK": "25",
                 "TOV": "3",
-                "PF": "12",
+                "PF": "11",
                 "PTS": "28"
             },
             "Opp Year/Year": {
@@ -242,8 +248,8 @@
                 "PW": "6",
                 "PL": "12",
                 "MOV": "-5.44",
-                "SOS": "-1.49",
-                "SRS": "-6.93",
+                "SOS": "-1.50",
+                "SRS": "-6.95",
                 "ORtg": "111.2",
                 "DRtg": "116.5",
                 "Pace": "103.9",
@@ -258,15 +264,15 @@
                 "Attendance": "143,856"
             },
             "Misc Lg Rank": {
-                "W": "21",
+                "W": "22",
                 "L": "6",
-                "PW": "22",
+                "PW": "23",
                 "PL": "23",
-                "MOV": "23",
-                "SOS": "24",
-                "SRS": "25",
+                "MOV": "24",
+                "SOS": "26",
+                "SRS": "26",
                 "ORtg": "21",
-                "DRtg": "20",
+                "DRtg": "21",
                 "Pace": "3",
                 "FTr": "9",
                 "3PAr": "23",
@@ -276,10 +282,10 @@
                 "FT/FGA": "18",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/ATL-2025.png",
-        "last_update": "Nov 26 2024 22:32:12"
+        "last_update": "Nov 27 2024 22:32:13"
     }
 }

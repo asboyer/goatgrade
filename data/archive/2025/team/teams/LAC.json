@@ -2,7 +2,7 @@
     "LAC": {
         "info": {
             "record": "11-8",
-            "standing": "6th in West",
+            "standing": "7th in West",
             "coach": "Tyronn Lue (11-8)",
             "gm": "Lawrence Frank",
             "preseason_odds": "+3000"
@@ -30,8 +30,14 @@
             {
                 "Player": "Mo Bamba",
                 "Team": "Los Angeles Clippers",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Knee) - Powell is OUT for Monday's (Nov. 25) game against Boston."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Knee) - Bamba is listed as questionable for Wednesday's (Nov. 27) game versus the Wizards, Tomer Azarly of ClutchPoints.com reports."
+            },
+            {
+                "Player": "Kobe Brown",
+                "Team": "Los Angeles Clippers",
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Back) - Brown is questionable for Wednesday's (Nov. 27) game against the Wizards, Tomer Azarly of ClutchPoints.com reports."
             },
             {
                 "Player": "Kawhi Leonard",
@@ -42,8 +48,8 @@
             {
                 "Player": "Norman Powell",
                 "Team": "Los Angeles Clippers",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Day To Day (Hamstring) - Powell is OUT for Monday's (Nov. 25) game against Boston."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Hamstring) - Powell is questionable for Wednesday's (Nov. 27) game against the Wizards, Tomer Azarly of ClutchPoints.com reports."
             },
             {
                 "Player": "P.J. Tucker",
@@ -105,27 +111,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "21",
-                "FGA": "25",
+                "FGA": "27",
                 "FG%": "14",
                 "3P": "20",
                 "3PA": "26",
                 "3P%": "13",
-                "2P": "17",
+                "2P": "16",
                 "2PA": "14",
-                "2P%": "21",
-                "FT": "18",
+                "2P%": "22",
+                "FT": "19",
                 "FTA": "18",
-                "FT%": "18",
-                "ORB": "12",
+                "FT%": "17",
+                "ORB": "11",
                 "DRB": "8",
                 "TRB": "7",
                 "AST": "18",
                 "STL": "10",
                 "BLK": "26",
                 "TOV": "27",
-                "PF": "14",
+                "PF": "13",
                 "PTS": "25"
             },
             "Year/Year": {
@@ -205,23 +211,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "4",
                 "FGA": "4",
                 "FG%": "11",
                 "3P": "11",
                 "3PA": "21",
-                "3P%": "3",
-                "2P": "5",
+                "3P%": "4",
+                "2P": "4",
                 "2PA": "1",
                 "2P%": "18",
-                "FT": "10",
+                "FT": "9",
                 "FTA": "13",
                 "FT%": "9",
                 "ORB": "2",
-                "DRB": "10",
+                "DRB": "11",
                 "TRB": "2",
-                "AST": "5",
+                "AST": "4",
                 "STL": "28",
                 "BLK": "19",
                 "TOV": "14",
@@ -259,8 +265,8 @@
                 "PW": "10",
                 "PL": "9",
                 "MOV": "1.16",
-                "SOS": "1.63",
-                "SRS": "2.79",
+                "SOS": "1.82",
+                "SRS": "2.97",
                 "ORtg": "110.8",
                 "DRtg": "109.6",
                 "Pace": "97.6",
@@ -276,19 +282,19 @@
             },
             "Misc Lg Rank": {
                 "W": "7",
-                "L": "15",
+                "L": "16",
                 "PW": "10",
-                "PL": "16",
-                "MOV": "11",
-                "SOS": "5",
+                "PL": "15",
+                "MOV": "12",
+                "SOS": "2",
                 "SRS": "10",
                 "ORtg": "23",
                 "DRtg": "6",
-                "Pace": "21",
-                "FTr": "14",
+                "Pace": "20",
+                "FTr": "15",
                 "3PAr": "24",
                 "eFG%": "11",
-                "TOV%": "10",
+                "TOV%": "9",
                 "ORB%": "11",
                 "FT/FGA": "14",
                 "DRB%": "1",
@@ -297,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/LAC-2025.png",
-        "last_update": "Nov 26 2024 22:32:12"
+        "last_update": "Nov 27 2024 22:32:13"
     }
 }

@@ -2,9 +2,9 @@
     "DET": {
         "info": {
             "record": "8-11",
-            "standing": "9th in East",
+            "standing": "10th in East",
             "coach": "J.B. Bickerstaff (8-11)",
-            "gm": "",
+            "gm": "Trajan Langdon",
             "preseason_odds": "+100000"
         },
         "players": [
@@ -30,8 +30,14 @@
             {
                 "Player": "Cade Cunningham",
                 "Team": "Detroit Pistons",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Hip) - Cunningham is out against Monday's (Nov. 25) game against Toronto."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Hip) - Cunningham is doubtful for Wednesday's (Nov. 27) game against Memphis."
+            },
+            {
+                "Player": "Tobias Harris",
+                "Team": "Detroit Pistons",
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Hip) - Harris is questionable for Wednesday's (Nov. 27) game against the Grizzlies due to a left hip impingement."
             },
             {
                 "Player": "Bobi Klintman",
@@ -99,19 +105,19 @@
                 "FG%": "21",
                 "3P": "14",
                 "3PA": "18",
-                "3P%": "17",
-                "2P": "16",
+                "3P%": "18",
+                "2P": "15",
                 "2PA": "16",
                 "2P%": "19",
                 "FT": "25",
-                "FTA": "23",
-                "FT%": "26",
+                "FTA": "24",
+                "FT%": "27",
                 "ORB": "9",
-                "DRB": "7",
+                "DRB": "6",
                 "TRB": "4",
                 "AST": "19",
                 "STL": "30",
-                "BLK": "8",
+                "BLK": "7",
                 "TOV": "24",
                 "PF": "19",
                 "PTS": "23"
@@ -195,26 +201,26 @@
                 "G": "",
                 "MP": "1",
                 "FG": "10",
-                "FGA": "20",
-                "FG%": "8",
+                "FGA": "19",
+                "FG%": "7",
                 "3P": "18",
-                "3PA": "11",
-                "3P%": "20",
-                "2P": "12",
-                "2PA": "27",
-                "2P%": "4",
-                "FT": "9",
-                "FTA": "11",
+                "3PA": "10",
+                "3P%": "19",
+                "2P": "13",
+                "2PA": "24",
+                "2P%": "3",
+                "FT": "8",
+                "FTA": "12",
                 "FT%": "14",
                 "ORB": "15",
-                "DRB": "8",
+                "DRB": "7",
                 "TRB": "10",
                 "AST": "8",
                 "STL": "27",
-                "BLK": "14",
-                "TOV": "27",
+                "BLK": "13",
+                "TOV": "25",
                 "PF": "25",
-                "PTS": "10"
+                "PTS": "9"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +253,8 @@
                 "PW": "9",
                 "PL": "10",
                 "MOV": "-1.58",
-                "SOS": "-1.04",
-                "SRS": "-2.62",
+                "SOS": "-1.13",
+                "SRS": "-2.71",
                 "ORtg": "110.8",
                 "DRtg": "112.4",
                 "Pace": "97.2",
@@ -263,28 +269,28 @@
                 "Attendance": "167,363"
             },
             "Misc Lg Rank": {
-                "W": "15",
+                "W": "16",
                 "L": "6",
                 "PW": "15",
                 "PL": "20",
                 "MOV": "18",
-                "SOS": "21",
-                "SRS": "20",
+                "SOS": "22",
+                "SRS": "19",
                 "ORtg": "22",
                 "DRtg": "12",
-                "Pace": "24",
+                "Pace": "23",
                 "FTr": "22",
                 "3PAr": "16",
                 "eFG%": "8",
-                "TOV%": "27",
+                "TOV%": "26",
                 "ORB%": "9",
-                "FT/FGA": "10",
+                "FT/FGA": "9",
                 "DRB%": "11",
                 "Arena": "",
                 "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/DET-2025.png",
-        "last_update": "Nov 26 2024 22:32:12"
+        "last_update": "Nov 27 2024 22:32:13"
     }
 }

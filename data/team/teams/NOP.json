@@ -35,22 +35,34 @@
                 "Description": "Out (Hamstring) - Alvarado is expected to miss six weeks due to a hamstring injury, Shams Charania of ESPN reports."
             },
             {
+                "Player": "Jordan Hawkins",
+                "Team": "New Orleans Pelicans",
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Back) - Hawkins is questionable for Wednesday's (Nov. 27) game against the Raptors due to back spasms."
+            },
+            {
                 "Player": "Brandon Ingram",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Calf) - Ingram is out for Monday's (Nov. 25) game against Indiana."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Calf) - Ingram is questionable for Wednesday's (Nov. 27) game against the Raptors."
             },
             {
                 "Player": "Herbert Jones",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sun, Nov 24, 2024",
-                "Description": "Out (Shoulder ) - Jones is OUT for Monday's (Nov. 25) game against Indiana."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Shoulder ) - Jones has been ruled out for Wednesday's (Nov. 27) game against the Raptors."
+            },
+            {
+                "Player": "Trey Murphy III",
+                "Team": "New Orleans Pelicans",
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Knee) - Murphy is questionable for Wednesday's (Nov. 26) game against the Raptors due to a left knee contusion."
             },
             {
                 "Player": "Dejounte Murray",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Hand) - Murray is out for Monday's (Nov. 25) game against Indiana."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Hand) - Murray is expected to play in Wednesday's (Nov. 27) game against the Raptors."
             },
             {
                 "Player": "Zion Williamson",
@@ -112,14 +124,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
-                "FG": "26",
+                "MP": "13",
+                "FG": "27",
                 "FGA": "18",
-                "FG%": "26",
+                "FG%": "27",
                 "3P": "29",
                 "3PA": "28",
                 "3P%": "23",
-                "2P": "15",
+                "2P": "14",
                 "2PA": "7",
                 "2P%": "27",
                 "FT": "26",
@@ -130,8 +142,8 @@
                 "TRB": "18",
                 "AST": "21",
                 "STL": "13",
-                "BLK": "13",
-                "TOV": "18",
+                "BLK": "14",
+                "TOV": "19",
                 "PF": "5",
                 "PTS": "30"
             },
@@ -212,26 +224,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "13",
                 "FG": "25",
                 "FGA": "17",
                 "FG%": "27",
                 "3P": "24",
                 "3PA": "15",
-                "3P%": "26",
+                "3P%": "27",
                 "2P": "24",
                 "2PA": "18",
                 "2P%": "24",
                 "FT": "3",
                 "FTA": "2",
                 "FT%": "17",
-                "ORB": "22",
+                "ORB": "21",
                 "DRB": "9",
                 "TRB": "13",
                 "AST": "25",
-                "STL": "19",
-                "BLK": "23",
-                "TOV": "20",
+                "STL": "20",
+                "BLK": "24",
+                "TOV": "21",
                 "PF": "29",
                 "PTS": "22"
             },
@@ -266,8 +278,8 @@
                 "PW": "4",
                 "PL": "14",
                 "MOV": "-11.00",
-                "SOS": "1.22",
-                "SRS": "-9.78",
+                "SOS": "1.21",
+                "SRS": "-9.79",
                 "ORtg": "107.7",
                 "DRtg": "119.0",
                 "Pace": "96.7",
@@ -287,23 +299,23 @@
                 "PW": "29",
                 "PL": "30",
                 "MOV": "29",
-                "SOS": "9",
+                "SOS": "7",
                 "SRS": "29",
                 "ORtg": "27",
-                "DRtg": "29",
+                "DRtg": "28",
                 "Pace": "27",
-                "FTr": "24",
+                "FTr": "25",
                 "3PAr": "28",
                 "eFG%": "28",
-                "TOV%": "18",
+                "TOV%": "19",
                 "ORB%": "4",
                 "FT/FGA": "3",
-                "DRB%": "27",
+                "DRB%": "28",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/NOP-2025.png",
-        "last_update": "Nov 26 2024 22:32:12"
+        "last_update": "Nov 27 2024 22:32:13"
     }
 }

@@ -31,32 +31,44 @@
             {
                 "Player": "Deandre Ayton",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Finger) - Ayton is out for Monday's (Nov. 25) game versus the Grizzlies.."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Finger) - Ayton is questionable for Wednesday's (Nov. 27) game against the Pacers."
             },
             {
                 "Player": "Donovan Clingan",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sun, Nov 24, 2024",
-                "Description": "Out (Knee) - Clingan is out for Monday's (Nov. 25) game versus the Grizzlies.."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Knee) - Clingan did not play in Monday's (Nov. 25) game versus the Grizzlies."
+            },
+            {
+                "Player": "Jerami Grant",
+                "Team": "Portland Trail Blazers",
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Knee) - Grant is listed as doubtful for Wednesday's (Nov. 27) game versus the Pacers."
             },
             {
                 "Player": "Scoot Henderson",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Back) - Henderson is out for Monday's (Nov. 25) game versus the Grizzlies.."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Back) - Henderson is listed as questionable for Wednesday's (Nov. 27) game versus the Pacers."
             },
             {
                 "Player": "Kris Murray",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Sternum) - Murray is out for Monday's (Nov. 25) game versus the Grizzlies.."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Sternum) - Murray is listed as questionable for Wednesday's (Nov. 27) game versus the Pacers"
             },
             {
                 "Player": "Matisse Thybulle",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Out (Knee) - Thybulle is out for Monday's (Nov. 25) game versus the Grizzlies.."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Day To Day (Knee) - Thybulle did not play in Monday's (Nov. 25) game versus the Grizzlies."
+            },
+            {
+                "Player": "Robert Williams",
+                "Team": "Portland Trail Blazers",
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Concussion) - Portland placed Williams in concussion protocol Tuesday, and he's been ruled out for Wednesday's (Nov. 27) game against the Pacers."
             }
         ],
         "team_stats": {
@@ -112,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "13",
                 "FG": "29",
                 "FGA": "10",
                 "FG%": "30",
@@ -122,14 +134,14 @@
                 "2P": "19",
                 "2PA": "8",
                 "2P%": "30",
-                "FT": "12",
-                "FTA": "11",
-                "FT%": "21",
+                "FT": "10",
+                "FTA": "10",
+                "FT%": "20",
                 "ORB": "3",
-                "DRB": "26",
-                "TRB": "11",
+                "DRB": "27",
+                "TRB": "12",
                 "AST": "30",
-                "STL": "7",
+                "STL": "8",
                 "BLK": "2",
                 "TOV": "29",
                 "PF": "16",
@@ -212,22 +224,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
-                "FG": "11",
+                "MP": "13",
+                "FG": "12",
                 "FGA": "10",
                 "FG%": "13",
-                "3P": "16",
-                "3PA": "17",
-                "3P%": "13",
-                "2P": "13",
-                "2PA": "10",
-                "2P%": "15",
+                "3P": "17",
+                "3PA": "18",
+                "3P%": "12",
+                "2P": "14",
+                "2PA": "11",
+                "2P%": "16",
                 "FT": "26",
                 "FTA": "21",
                 "FT%": "21",
-                "ORB": "27",
+                "ORB": "28",
                 "DRB": "22",
-                "TRB": "25",
+                "TRB": "27",
                 "AST": "24",
                 "STL": "30",
                 "BLK": "28",
@@ -266,8 +278,8 @@
                 "PW": "5",
                 "PL": "13",
                 "MOV": "-8.50",
-                "SOS": "1.41",
-                "SRS": "-7.09",
+                "SOS": "1.56",
+                "SRS": "-6.94",
                 "ORtg": "104.7",
                 "DRtg": "113.2",
                 "Pace": "100.4",
@@ -282,17 +294,17 @@
                 "Attendance": "139,717"
             },
             "Misc Lg Rank": {
-                "W": "21",
+                "W": "22",
                 "L": "6",
                 "PW": "26",
-                "PL": "29",
+                "PL": "28",
                 "MOV": "27",
-                "SOS": "8",
-                "SRS": "26",
+                "SOS": "4",
+                "SRS": "25",
                 "ORtg": "30",
                 "DRtg": "14",
                 "Pace": "6",
-                "FTr": "13",
+                "FTr": "14",
                 "3PAr": "22",
                 "eFG%": "13",
                 "TOV%": "4",
@@ -300,10 +312,10 @@
                 "FT/FGA": "24",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411081/tlogo/bbr/POR-2025.png",
-        "last_update": "Nov 26 2024 22:32:12"
+        "last_update": "Nov 27 2024 22:32:13"
     }
 }
