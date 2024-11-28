@@ -7,12 +7,35 @@ from datetime import datetime, timedelta
 
 import heapq
 
+
+ignore_categories = {
+    "PG": ["BLK", "TRB", "2P%"],
+    "SG": ["BLK", "TRB", "2P%"],
+    "SF": [],
+    "PF": [],
+    "C": []
+}
+
 def get_top_three_categories(ranks, player):
     # Get the top three categories based on their scores
     top_three = heapq.nlargest(3, ranks[player].items(), key=lambda x: x[1])
     # Extract and return only the category names
     return [category for category, score in top_three]
         
+def should_ignore(player, ranks, category):
+    how_bad = ranks[player][category] / len(ranks.keys())
+    if how_bad >= .5 and how_bad <= .8:
+        return True
+    return False
+
+def get_ignore_categories(player, pos, ranks):
+    ignore = []
+    for category in ignore_categories[pos]:
+        if should_ignore(player, ranks, category):
+            ignore.append(category)
+    return ignore
+
+
 def get_all_min_categories(player, ranks):
     min_value = min(ranks[player].values())
     min_categories = [k for k, v in ranks[player].items() if v == min_value]
@@ -86,13 +109,16 @@ def grade_players(year, date_string,
 
         # get the three highest values in ranks[player][category]
 
-        top_three_outliers = get_top_three_categories(ranks, player)
+        ignored = get_ignore_categories(player, stats[player]["pos"], ranks)
+        count = 0
 
         for category in ranks[player]:
-            score += ranks[player][category]
+            if category not in ignored:
+                score += ranks[player][category]
+                count += 1
 
         # divide total score by all categories used    
-        player_grade = score / len(categories)
+        player_grade = score / count
 
         # divide by all players then multiply by 100
         player_grade = (player_grade / len(list(stats))) * 100
@@ -106,9 +132,6 @@ def grade_players(year, date_string,
         player_grade -= (2.5 - (league_grade/100))
 
         new_ranks[player] = {}
-
-        for category in ranks[player]:
-            new_ranks[player]["full_grade"][category] = ranks[player][category]
 
         new_ranks[player]["grade"] = round(player_grade, 2)
         new_ranks[player]["name"] = stats[player]["name"]
@@ -126,6 +149,12 @@ def grade_players(year, date_string,
         new_ranks[player]["top_category"] = [f"{category}: {min_value}" for category in min_categories]
         max_categories, max_value = get_all_max_categories(player, ranks)
         new_ranks[player]["worst_category"] = [f"{category}: {max_value}" for category in max_categories]
+        new_ranks[player]["ignored_categories"] = ignored
+        new_ranks[player]["full_grade"] = {}
+
+        for category in ranks[player]:
+            new_ranks[player]["full_grade"][category] = ranks[player][category]
+
 
     sorted_players = {k: v for k, v in sorted(new_ranks.items(), key=lambda item: item[1]['grade'], reverse=True)}
     
