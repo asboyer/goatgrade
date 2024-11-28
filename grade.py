@@ -107,6 +107,9 @@ def grade_players(year, date_string,
 
         new_ranks[player] = {}
 
+        for category in ranks[player]:
+            new_ranks[player]["full_grade"][category] = ranks[player][category]
+
         new_ranks[player]["grade"] = round(player_grade, 2)
         new_ranks[player]["name"] = stats[player]["name"]
         new_ranks[player]["league_grade"] = league_grade
