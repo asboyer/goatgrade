@@ -31,20 +31,26 @@
             {
                 "Player": "Jordan Clarkson",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Plantar) - Clarkson is OUT for Wednesday's (Nov. 27) game versus Denver."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Plantar) - Clarkson did not play in Wednesday's (Nov. 27) game versus Denver."
             },
             {
                 "Player": "John Collins",
                 "Team": "Utah Jazz",
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Knee) - Collins did not play in Wednesday's (Nov. 27) game versus Denver."
+            },
+            {
+                "Player": "Drew Eubanks",
+                "Team": "Utah Jazz",
                 "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Knee) - Collins is OUT for Wednesday's (Nov. 27) game versus Denver."
+                "Description": "Day To Day (Knee) - Eubanks did not return to Wednesdayâs (Nov. 27) game against the Nuggets."
             },
             {
                 "Player": "Kyle Filipowski",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Leg) - Filipowski is OUT for Wednesday's (Nov. 27) game versus Denver."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Leg) - Filipowski did not play in Wednesday's (Nov. 27) game versus Denver."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -55,8 +61,8 @@
             {
                 "Player": "Lauri Markkanen",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Personal) - Markkanen is OUT for Wednesday's (Nov. 27) game versus Denver."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Personal) - Markkanen did not play in Wednesday's (Nov. 27) game versus Denver."
             }
         ],
         "team_stats": {
@@ -304,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/UTA-2025.png",
-        "last_update": "Nov 28 2024 22:32:14"
+        "last_update": "Nov 29 2024 22:32:14"
     }
 }

@@ -28,10 +28,28 @@
         ],
         "injuries": [
             {
+                "Player": "Jimmy Butler",
+                "Team": "Miami Heat",
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Back) - Butler is Probable for Friday's (Nov. 29) game against the Raptors."
+            },
+            {
                 "Player": "Kevin Love",
                 "Team": "Miami Heat",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Back) - Love is OUT for Wednesday's (Nov. 27) game against the Hornets."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Back) - Love is questionable for Friday's (Nov. 29) game against the Raptors."
+            },
+            {
+                "Player": "Duncan Robinson",
+                "Team": "Miami Heat",
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Glute) - Robinson is Probable for Friday's (Nov. 29) game against the Raptors."
+            },
+            {
+                "Player": "Terry Rozier",
+                "Team": "Miami Heat",
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Foot) - Rozier is Probable for Friday's (Nov. 29) game against the Raptors."
             }
         ],
         "team_stats": {
@@ -279,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MIA-2025.png",
-        "last_update": "Nov 28 2024 22:32:14"
+        "last_update": "Nov 29 2024 22:32:14"
     }
 }

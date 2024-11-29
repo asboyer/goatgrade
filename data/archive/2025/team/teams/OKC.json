@@ -30,8 +30,8 @@
             {
                 "Player": "Alex Caruso",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Hip) - Caruso has been ruled out for Wednesday's (Nov. 27) game against the Warriors."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Out (Hip) - Caruso is out for Friday's (Nov. 29) game against the Lakers."
             },
             {
                 "Player": "Ousmane Dieng",
@@ -42,8 +42,8 @@
             {
                 "Player": "Adam Flagler",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Hand) - Flagler is OUT for Wednesday's (Nov. 27) game versus Golden State."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Hand) - Flagler is questionable for Friday's (Nov. 29) game against the Lakers."
             },
             {
                 "Player": "Chet Holmgren",
@@ -56,6 +56,12 @@
                 "Team": "Oklahoma City Thunder",
                 "Update": "Wed, Jul 24, 2024",
                 "Description": "Out For Season (ACL) - Topic underwent a successful left ACL procedure Wednesday and will miss the 2024-25 season, Clemente Almanza of USA Today reports."
+            },
+            {
+                "Player": "Jalen Williams",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Wed, Nov 27, 2024",
+                "Description": "Day To Day (Eye) - Williams did not return to Wednesdayâs (Nov. 27) game against the Warriors."
             },
             {
                 "Player": "Jaylin Williams",
@@ -309,6 +315,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/OKC-2025.png",
-        "last_update": "Nov 28 2024 22:32:14"
+        "last_update": "Nov 29 2024 22:32:14"
     }
 }

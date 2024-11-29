@@ -29,10 +29,16 @@
         ],
         "injuries": [
             {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Achilles) - Young is probable for Friday's (Nov. 29) game against the Cavaliers due to right Achilles tendinitis, Brad Rowland of the Locked On Podcast Network reports."
+            },
+            {
                 "Player": "Cody Zeller",
                 "Team": "Atlanta Hawks",
-                "Update": "Thu, Nov 14, 2024",
-                "Description": "Out (Personal) - Zeller has yet to play for Atlanta this season due to personal reasons. Until the team releases an update on the veteran big man, he can be considered week-to-week."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Personal) - Zeller has yet to play this season due to being away from the team. With there being no official timetable for the veteran big man's return, Zeller can be considered out indefinitely."
             }
         ],
         "team_stats": {
@@ -280,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/ATL-2025.png",
-        "last_update": "Nov 28 2024 22:32:14"
+        "last_update": "Nov 29 2024 22:32:14"
     }
 }

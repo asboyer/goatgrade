@@ -30,20 +30,38 @@
             {
                 "Player": "Bojan Bogdanović",
                 "Team": "Brooklyn Nets",
-                "Update": "Thu, Nov 14, 2024",
-                "Description": "Out (Foot) - Bogdanovic is considered week-to-week, per rotowire.com."
+                "Update": "Mon, Nov 25, 2024",
+                "Description": "Out (Foot) - Bogdanovic continues to be limited in his rehab and doesn't have a return timetable. He can be considered out indefinitely for future contests, barring a return to full-contact practices."
             },
             {
                 "Player": "Nic Claxton",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Back) - Claxton is Out for Wednesday's (Nov. 27) game against the Suns."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Back) - Claxton is Questionable for Friday's (Nov. 29) game agaist the Magic."
             },
             {
                 "Player": "Noah Clowney",
                 "Team": "Brooklyn Nets",
                 "Update": "Wed, Nov 27, 2024",
                 "Description": "Out (Ankle) - The Brooklyn Nets announced that F-C Noah Clowney will be reevaluated in two weeks."
+            },
+            {
+                "Player": "Dorian Finney-Smith",
+                "Team": "Brooklyn Nets",
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Ankle) - Finney-Smith is Questionalbe for Friday's (Nov. 29) game against the Magic."
+            },
+            {
+                "Player": "Cameron Johnson",
+                "Team": "Brooklyn Nets",
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Ankle) - Johnson is questionable for Friday's (Nov. 29) game against the Magic due to a right ankle sprain."
+            },
+            {
+                "Player": "Dennis Schröder",
+                "Team": "Brooklyn Nets",
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Out (Personal) - Schroder has been ruled out for Friday's (Nov. 29) game against the Magic due to personal reasons."
             },
             {
                 "Player": "Day'Ron Sharpe",
@@ -60,8 +78,8 @@
             {
                 "Player": "Jalen Wilson",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Calf) - Wilson is OUT for Wednesday's (Nov. 27) game against the Suns due to calf tightness, Brian Lewis of the New York Post reports."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Calf) - Wilson is questionable (Nov. 29) for Friday's game against the Magic."
             }
         ],
         "team_stats": {
@@ -309,6 +327,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/BRK-2025.png",
-        "last_update": "Nov 28 2024 22:32:14"
+        "last_update": "Nov 29 2024 22:32:14"
     }
 }

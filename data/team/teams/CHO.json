@@ -29,28 +29,34 @@
         ],
         "injuries": [
             {
+                "Player": "LaMelo Ball",
+                "Team": "Charlotte Hornets",
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Out (Calf) - Ball has been ruled out for Friday's (Nov. 29) game against the Knicks due to left calf soreness."
+            },
+            {
                 "Player": "Miles Bridges",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Knee) - Bridges is out for Wednesday's (Nov. 27) game against the Heat."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Out (Knee) - Bridges has been ruled out for Friday's (Nov. 29) game against the Knicks."
             },
             {
                 "Player": "DaQuan Jeffries",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Hand) - Jeffrie shas been ruled out for Wednesday's (Nov. 27) game against Heat."
+                "Update": "Tue, Nov 26, 2024",
+                "Description": "Out (Hand) - Jeffries is out for Wednesday's (Nov. 27) game versus the Heat and doesn't have an official return timetable."
             },
             {
                 "Player": "Tre Mann",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Back) - Mann is out for Wednesday's (Nov. 27) game against Miami."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Out (Back) - Mann has been ruled out for Friday's (Nov. 29) game against the Knicks."
             },
             {
                 "Player": "Nick Richards",
                 "Team": "Charlotte Hornets",
-                "Update": "Thu, Nov 21, 2024",
-                "Description": "Out (Ribs) - Richards has returned to team and group activities but doesn't have a specific timetable for return, Roderick Boone of The Charlotte Observer reports."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Out (Ribs) - Richards has been ruled out for Friday's (Nov. 29) game against the Knicks."
             },
             {
                 "Player": "Grant Williams",
@@ -61,8 +67,8 @@
             {
                 "Player": "Mark Williams",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Foot) - Williams is out for Wednesday's (Nov. 27) game against the Heat."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Out (Foot) - Williams has been ruled out for Friday's (Nov. 29) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -310,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CHO-2025.png",
-        "last_update": "Nov 28 2024 22:32:14"
+        "last_update": "Nov 29 2024 22:32:14"
     }
 }

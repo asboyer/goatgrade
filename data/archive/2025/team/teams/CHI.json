@@ -29,28 +29,34 @@
         ],
         "injuries": [
             {
-                "Player": "Adama Sanogo",
+                "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Knee) - Sanogo is OUT for Wednesday's (Nov. 27) game against the Magic."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Wrist) - Ball is probable for Friday's (Nov. 29) game against the Celtics."
             },
             {
                 "Player": "Jalen Smith",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Ankle) - Smith is OUT for Wednesday's (Nov. 27) game against the Magic."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Ankle) - Smith is questionable for Friday's (Nov. 29) game against the Celtics."
             },
             {
                 "Player": "Dalen Terry",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Out (Ankle) - Terry will not return to tonight's (Nov. 27) game against the Magic."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Ankle) - Terry is questionable for Friday's (Nov. 29) game against the Celtics."
+            },
+            {
+                "Player": "Coby White",
+                "Team": "Chicago Bulls",
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Wrist) - White is Questionable for Friday's (Nov. 29) game against the Celtics."
             },
             {
                 "Player": "Patrick Williams",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Foot) - Williams is OUT for Wednesday's (Nov. 27) game against the Magic."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Foot) - Williams is out for Friday's (Nov. 29) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -298,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CHI-2025.png",
-        "last_update": "Nov 28 2024 22:32:14"
+        "last_update": "Nov 29 2024 22:32:14"
     }
 }

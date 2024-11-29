@@ -28,16 +28,10 @@
         ],
         "injuries": [
             {
-                "Player": "Al Horford",
-                "Team": "Boston Celtics",
-                "Update": "Tue, Nov 26, 2024",
-                "Description": "Day To Day (Illness) - Horford did not play in Monday's (Nov. 25) game against the Clippers."
-            },
-            {
                 "Player": "Luke Kornet",
                 "Team": "Boston Celtics",
-                "Update": "Tue, Nov 26, 2024",
-                "Description": "Day To Day (Hamstring) - Kornet did not play in Monday's (Nov. 25) game against the Clippers."
+                "Update": "Thu, Nov 28, 2024",
+                "Description": "Day To Day (Hamstring) - Kornet is probable for Friday's (Nov. 29) game against the Bulls, Keith Smith of Spotrac.com reports."
             }
         ],
         "team_stats": {
@@ -285,6 +279,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/BOS-2025.png",
-        "last_update": "Nov 28 2024 22:32:14"
+        "last_update": "Nov 29 2024 22:32:14"
     }
 }
