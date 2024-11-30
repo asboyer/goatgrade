@@ -30,26 +30,26 @@
             {
                 "Player": "Joel Embiid",
                 "Team": "Philadelphia 76ers",
-                "Update": "Thu, Nov 28, 2024",
-                "Description": "Day To Day (Knee) - Embiid did not play in Wednesday's (Nov. 27) game against Houston."
+                "Update": "Fri, Nov 29, 2024",
+                "Description": "Out (Knee) - Embiid is out for Saturday's (Nov. 30) game versus the Pistons, Adam Aaronson of PhillyVoice.com reports."
             },
             {
                 "Player": "Paul George",
                 "Team": "Philadelphia 76ers",
-                "Update": "Thu, Nov 28, 2024",
-                "Description": "Day To Day (Knee) - George did not play in Wednesday's (Nov. 27) game against Houston."
+                "Update": "Fri, Nov 29, 2024",
+                "Description": "Day To Day (Knee) - George is listed as questionable for Saturday's (Nov. 30) game against the Pistons."
             },
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Thu, Nov 28, 2024",
-                "Description": "Day To Day (Hip) - Lowry did not play in Wednesday's (Nov. 27) game against Houston."
+                "Update": "Fri, Nov 29, 2024",
+                "Description": "Out (Hip) - Lowry has been ruled out for Saturday's (Nov. 30) game against the Pistons, Adam Aaronson of PhillyVoice.com reports."
             },
             {
                 "Player": "Caleb Martin",
                 "Team": "Philadelphia 76ers",
-                "Update": "Thu, Nov 28, 2024",
-                "Description": "Day To Day (Back) - Martin did not play in Wednesday's (Nov. 27) game against Houston."
+                "Update": "Fri, Nov 29, 2024",
+                "Description": "Day To Day (Back) - Martin is listed as questionable for Saturday's (Nov. 30) game versus the Pistons."
             }
         ],
         "team_stats": {
@@ -111,21 +111,21 @@
                 "FG%": "28",
                 "3P": "24",
                 "3PA": "13",
-                "3P%": "29",
+                "3P%": "30",
                 "2P": "24",
                 "2PA": "19",
                 "2P%": "25",
                 "FT": "7",
                 "FTA": "7",
-                "FT%": "15",
+                "FT%": "14",
                 "ORB": "14",
                 "DRB": "30",
                 "TRB": "29",
                 "AST": "30",
-                "STL": "3",
+                "STL": "5",
                 "BLK": "27",
-                "TOV": "15",
-                "PF": "24",
+                "TOV": "13",
+                "PF": "25",
                 "PTS": "29"
             },
             "Year/Year": {
@@ -169,8 +169,8 @@
                 "FTA": "398",
                 "FT%": ".829",
                 "ORB": "167",
-                "DRB": "597",
-                "TRB": "764",
+                "DRB": "598",
+                "TRB": "765",
                 "AST": "447",
                 "STL": "127",
                 "BLK": "103",
@@ -194,8 +194,8 @@
                 "FTA": "23.4",
                 "FT%": ".829",
                 "ORB": "9.8",
-                "DRB": "35.1",
-                "TRB": "44.9",
+                "DRB": "35.2",
+                "TRB": "45.0",
                 "AST": "26.3",
                 "STL": "7.5",
                 "BLK": "6.1",
@@ -206,27 +206,27 @@
             "Opp Lg Rank": {
                 "G": "",
                 "MP": "27",
-                "FG": "9",
+                "FG": "8",
                 "FGA": "2",
                 "FG%": "29",
-                "3P": "9",
-                "3PA": "5",
+                "3P": "8",
+                "3PA": "4",
                 "3P%": "19",
                 "2P": "17",
-                "2PA": "2",
+                "2PA": "4",
                 "2P%": "29",
                 "FT": "27",
                 "FTA": "20",
                 "FT%": "30",
                 "ORB": "6",
                 "DRB": "27",
-                "TRB": "22",
-                "AST": "19",
+                "TRB": "23",
+                "AST": "17",
                 "STL": "11",
-                "BLK": "24",
+                "BLK": "25",
                 "TOV": "2",
-                "PF": "10",
-                "PTS": "15"
+                "PF": "11",
+                "PTS": "17"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -244,8 +244,8 @@
                 "FTA": "-0.3%",
                 "FT%": "+.038",
                 "ORB": "-10.8%",
-                "DRB": "5.0%",
-                "TRB": "1.1%",
+                "DRB": "5.2%",
+                "TRB": "1.2%",
                 "AST": "0.6%",
                 "STL": "21.1%",
                 "BLK": "-1.2%",
@@ -259,8 +259,8 @@
                 "PW": "4",
                 "PL": "13",
                 "MOV": "-8.29",
-                "SOS": "1.60",
-                "SRS": "-6.70",
+                "SOS": "1.46",
+                "SRS": "-6.83",
                 "ORtg": "106.7",
                 "DRtg": "115.1",
                 "Pace": "96.4",
@@ -268,7 +268,7 @@
                 "3PAr": ".427",
                 "eFG%": ".564",
                 "TOV%": "15.8",
-                "ORB%": "23.6",
+                "ORB%": "23.5",
                 "FT/FGA": ".234",
                 "DRB%": "74.5",
                 "Arena": "Wells Fargo Center",
@@ -276,27 +276,27 @@
             },
             "Misc Lg Rank": {
                 "W": "29",
-                "L": "3",
+                "L": "4",
                 "PW": "27",
                 "PL": "25",
-                "MOV": "26",
-                "SOS": "3",
-                "SRS": "26",
+                "MOV": "27",
+                "SOS": "5",
+                "SRS": "27",
                 "ORtg": "27",
                 "DRtg": "19",
                 "Pace": "29",
                 "FTr": "5",
                 "3PAr": "13",
-                "eFG%": "29",
+                "eFG%": "28",
                 "TOV%": "2",
                 "ORB%": "17",
                 "FT/FGA": "28",
-                "DRB%": "18",
+                "DRB%": "19",
                 "Arena": "",
-                "Attendance": "6"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/PHI-2025.png",
-        "last_update": "Nov 29 2024 22:32:14"
+        "last_update": "Nov 30 2024 22:32:13"
     }
 }

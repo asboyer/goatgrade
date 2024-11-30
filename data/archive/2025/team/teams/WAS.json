@@ -36,14 +36,14 @@
             {
                 "Player": "Kyle Kuzma",
                 "Team": "Washington Wizards",
-                "Update": "Wed, Nov 27, 2024",
-                "Description": "Day To Day (Ribs) - Kuzma has been ruled out for the remainder of Wednesday's (Nov. 27) game against the Clippers due to a left rib strain."
+                "Update": "Fri, Nov 29, 2024",
+                "Description": "Out (Ribs) - Kuzma is out for Saturday's (Nov. 30) game against the Bucks."
             },
             {
                 "Player": "Tristan Vukcevic",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Nov 28, 2024",
-                "Description": "Day To Day (Knee) - Vukcevic did not play in Wednesday's (Nov. 27) game against the Clippers."
+                "Update": "Fri, Nov 29, 2024",
+                "Description": "Out (Knee) - Vukcevic has been ruled out for Saturday's (Nov. 30) game versus the Bucks."
             }
         ],
         "team_stats": {
@@ -99,9 +99,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "29",
-                "FG": "21",
-                "FGA": "11",
+                "MP": "30",
+                "FG": "20",
+                "FGA": "12",
                 "FG%": "25",
                 "3P": "26",
                 "3PA": "18",
@@ -110,15 +110,15 @@
                 "2PA": "10",
                 "2P%": "24",
                 "FT": "21",
-                "FTA": "22",
+                "FTA": "20",
                 "FT%": "22",
-                "ORB": "22",
-                "DRB": "18",
-                "TRB": "24",
+                "ORB": "23",
+                "DRB": "19",
+                "TRB": "23",
                 "AST": "21",
-                "STL": "17",
+                "STL": "15",
                 "BLK": "11",
-                "TOV": "23",
+                "TOV": "21",
                 "PF": "28",
                 "PTS": "26"
             },
@@ -199,27 +199,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "29",
+                "MP": "30",
                 "FG": "29",
                 "FGA": "28",
-                "FG%": "24",
+                "FG%": "23",
                 "3P": "23",
                 "3PA": "21",
                 "3P%": "22",
-                "2P": "26",
+                "2P": "27",
                 "2PA": "24",
                 "2P%": "23",
                 "FT": "29",
                 "FTA": "29",
                 "FT%": "23",
                 "ORB": "28",
-                "DRB": "30",
+                "DRB": "29",
                 "TRB": "29",
                 "AST": "23",
                 "STL": "22",
                 "BLK": "20",
                 "TOV": "24",
-                "PF": "19",
+                "PF": "17",
                 "PTS": "29"
             },
             "Opp Year/Year": {
@@ -253,8 +253,8 @@
                 "PW": "2",
                 "PL": "15",
                 "MOV": "-15.29",
-                "SOS": "1.87",
-                "SRS": "-13.42",
+                "SOS": "2.05",
+                "SRS": "-13.25",
                 "ORtg": "104.9",
                 "DRtg": "119.8",
                 "Pace": "102.7",
@@ -270,11 +270,11 @@
             },
             "Misc Lg Rank": {
                 "W": "30",
-                "L": "1",
+                "L": "2",
                 "PW": "30",
                 "PL": "29",
                 "MOV": "30",
-                "SOS": "2",
+                "SOS": "1",
                 "SRS": "30",
                 "ORtg": "30",
                 "DRtg": "29",
@@ -282,15 +282,15 @@
                 "FTr": "23",
                 "3PAr": "18",
                 "eFG%": "22",
-                "TOV%": "26",
-                "ORB%": "28",
+                "TOV%": "27",
+                "ORB%": "27",
                 "FT/FGA": "27",
-                "DRB%": "28",
+                "DRB%": "27",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/WAS-2025.png",
-        "last_update": "Nov 29 2024 22:32:14"
+        "last_update": "Nov 30 2024 22:32:13"
     }
 }
