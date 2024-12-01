@@ -2,7 +2,7 @@
     "DEN": {
         "info": {
             "record": "10-7",
-            "standing": "5th in West",
+            "standing": "6th in West",
             "coach": "Michael Malone (10-7)",
             "gm": "Calvin Booth",
             "preseason_odds": "+750"
@@ -37,14 +37,20 @@
             {
                 "Player": "Aaron Gordon",
                 "Team": "Denver Nuggets",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Calf) - Coach Michael Malone said that F Aaron Gordon doesn't have a set timetable for a return and that the Nuggets will remain cautious with him, Nuggets beat writer Matt Brooks reports."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Calf) - Gordon is doubtful for Sunday's (Dec. 1) game against the Clippers."
             },
             {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sat, Jul 13, 2024",
                 "Description": "Out For Season (Achilles) - DaRon Holmes II has suffered a torn right Achilles tendon, sources tell @TheAthletic @Stadium. Heâs expected to miss the 2024-25 season."
+            },
+            {
+                "Player": "Peyton Watson",
+                "Team": "Denver Nuggets",
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Groin) - Watson is probable for Sunday's (Dec. 1) game against the Clippers with a right adductor strain."
             }
         ],
         "team_stats": {
@@ -100,10 +106,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "6",
                 "FGA": "13",
-                "FG%": "8",
+                "FG%": "9",
                 "3P": "18",
                 "3PA": "29",
                 "3P%": "4",
@@ -112,13 +118,13 @@
                 "2P%": "19",
                 "FT": "2",
                 "FTA": "1",
-                "FT%": "21",
+                "FT%": "22",
                 "ORB": "10",
                 "DRB": "14",
                 "TRB": "10",
-                "AST": "4",
+                "AST": "3",
                 "STL": "11",
-                "BLK": "18",
+                "BLK": "19",
                 "TOV": "11",
                 "PF": "10",
                 "PTS": "6"
@@ -200,22 +206,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "28",
-                "FG": "26",
+                "MP": "29",
+                "FG": "27",
                 "FGA": "29",
-                "FG%": "18",
+                "FG%": "19",
                 "3P": "19",
                 "3PA": "18",
-                "3P%": "12",
+                "3P%": "13",
                 "2P": "28",
                 "2PA": "28",
                 "2P%": "19",
                 "FT": "5",
                 "FTA": "6",
-                "FT%": "11",
+                "FT%": "10",
                 "ORB": "26",
-                "DRB": "11",
-                "TRB": "19",
+                "DRB": "10",
+                "TRB": "18",
                 "AST": "29",
                 "STL": "17",
                 "BLK": "26",
@@ -254,8 +260,8 @@
                 "PW": "9",
                 "PL": "8",
                 "MOV": "1.94",
-                "SOS": "0.99",
-                "SRS": "2.93",
+                "SOS": "1.05",
+                "SRS": "2.99",
                 "ORtg": "116.6",
                 "DRtg": "114.7",
                 "Pace": "99.8",
@@ -270,28 +276,28 @@
                 "Attendance": "177,520"
             },
             "Misc Lg Rank": {
-                "W": "12",
+                "W": "13",
                 "L": "23",
-                "PW": "15",
+                "PW": "16",
                 "PL": "10",
                 "MOV": "11",
-                "SOS": "10",
+                "SOS": "9",
                 "SRS": "11",
                 "ORtg": "5",
-                "DRtg": "18",
+                "DRtg": "19",
                 "Pace": "10",
-                "FTr": "3",
+                "FTr": "2",
                 "3PAr": "29",
                 "eFG%": "17",
-                "TOV%": "16",
-                "ORB%": "9",
+                "TOV%": "17",
+                "ORB%": "10",
                 "FT/FGA": "5",
                 "DRB%": "26",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DEN-2025.png",
-        "last_update": "Nov 30 2024 22:32:13"
+        "last_update": "Dec 01 2024 22:32:11"
     }
 }

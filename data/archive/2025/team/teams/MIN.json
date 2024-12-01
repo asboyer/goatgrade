@@ -30,8 +30,8 @@
             {
                 "Player": "Joe Ingles",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Soleus) - Ingles did not play on Friday's (Nov. 29) game against the Clippers."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Soleus) - Ingles did not play in Friday's (Nov. 29) game against the Clippers."
             }
         ],
         "team_stats": {
@@ -87,27 +87,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "18",
                 "FG": "22",
                 "FGA": "29",
                 "FG%": "16",
                 "3P": "7",
                 "3PA": "5",
-                "3P%": "11",
+                "3P%": "12",
                 "2P": "27",
                 "2PA": "28",
-                "2P%": "14",
-                "FT": "15",
-                "FTA": "19",
+                "2P%": "13",
+                "FT": "14",
+                "FTA": "20",
                 "FT%": "6",
-                "ORB": "21",
+                "ORB": "20",
                 "DRB": "23",
                 "TRB": "26",
-                "AST": "24",
-                "STL": "16",
+                "AST": "23",
+                "STL": "15",
                 "BLK": "22",
                 "TOV": "22",
-                "PF": "13",
+                "PF": "14",
                 "PTS": "19"
             },
             "Year/Year": {
@@ -187,7 +187,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "18",
                 "FG": "18",
                 "FGA": "8",
                 "FG%": "20",
@@ -200,12 +200,12 @@
                 "FT": "9",
                 "FTA": "7",
                 "FT%": "24",
-                "ORB": "11",
+                "ORB": "10",
                 "DRB": "7",
                 "TRB": "6",
                 "AST": "4",
-                "STL": "27",
-                "BLK": "13",
+                "STL": "28",
+                "BLK": "12",
                 "TOV": "13",
                 "PF": "8",
                 "PTS": "8"
@@ -241,8 +241,8 @@
                 "PW": "10",
                 "PL": "9",
                 "MOV": "0.84",
-                "SOS": "-0.59",
-                "SRS": "0.25",
+                "SOS": "-0.49",
+                "SRS": "0.35",
                 "ORtg": "112.8",
                 "DRtg": "112.0",
                 "Pace": "97.5",
@@ -257,28 +257,28 @@
                 "Attendance": "189,780"
             },
             "Misc Lg Rank": {
-                "W": "15",
+                "W": "17",
                 "L": "14",
-                "PW": "12",
+                "PW": "13",
                 "PL": "13",
-                "MOV": "13",
+                "MOV": "14",
                 "SOS": "20",
                 "SRS": "14",
                 "ORtg": "17",
                 "DRtg": "10",
-                "Pace": "23",
+                "Pace": "22",
                 "FTr": "12",
                 "3PAr": "4",
                 "eFG%": "13",
                 "TOV%": "10",
                 "ORB%": "18",
                 "FT/FGA": "10",
-                "DRB%": "12",
+                "DRB%": "11",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MIN-2025.png",
-        "last_update": "Nov 30 2024 22:32:13"
+        "last_update": "Dec 01 2024 22:32:11"
     }
 }

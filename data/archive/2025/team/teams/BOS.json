@@ -28,10 +28,28 @@
         ],
         "injuries": [
             {
+                "Player": "Jrue Holiday",
+                "Team": "Boston Celtics",
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Groin) - Holiday is questionable for Sunday's (Dec. 1) game against the Cavaliers due to right adductor tightness, Jay King of The Athletic reports."
+            },
+            {
+                "Player": "Al Horford",
+                "Team": "Boston Celtics",
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Toe) - Horford is questionable for Sunday's (Dec. 1) game against the Cavaliers due to a left toe sprain, Jay King of The Athletic reports."
+            },
+            {
+                "Player": "Kristaps Porziņģis",
+                "Team": "Boston Celtics",
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Knee) - Porzingis is questionable for Sunday's (Dec. 1) game against the Cavaliers due to knee injury management."
+            },
+            {
                 "Player": "Derrick White",
                 "Team": "Boston Celtics",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Foot) - White is doubtful to return to Friday's (Nov. 29) game against the Bulls due to a sore right foot."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Foot) - White is questionable for Sunday's (Dec. 1) game against the Cavaliers, Jay King of The Athletic reports."
             }
         ],
         "team_stats": {
@@ -87,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "17",
                 "FG": "14",
                 "FGA": "11",
                 "FG%": "14",
@@ -187,12 +205,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "17",
                 "FG": "22",
                 "FGA": "24",
-                "FG%": "17",
-                "3P": "4",
-                "3PA": "6",
+                "FG%": "18",
+                "3P": "5",
+                "3PA": "5",
                 "3P%": "7",
                 "2P": "29",
                 "2PA": "29",
@@ -201,14 +219,14 @@
                 "FTA": "2",
                 "FT%": "8",
                 "ORB": "8",
-                "DRB": "20",
+                "DRB": "21",
                 "TRB": "16",
-                "AST": "8",
+                "AST": "9",
                 "STL": "2",
                 "BLK": "1",
                 "TOV": "22",
                 "PF": "13",
-                "PTS": "9"
+                "PTS": "10"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -241,8 +259,8 @@
                 "PW": "15",
                 "PL": "4",
                 "MOV": "10.58",
-                "SOS": "-1.95",
-                "SRS": "8.63",
+                "SOS": "-2.03",
+                "SRS": "8.55",
                 "ORtg": "122.2",
                 "DRtg": "111.5",
                 "Pace": "97.6",
@@ -265,7 +283,7 @@
                 "SOS": "28",
                 "SRS": "2",
                 "ORtg": "1",
-                "DRtg": "7",
+                "DRtg": "8",
                 "Pace": "20",
                 "FTr": "17",
                 "3PAr": "1",
@@ -275,10 +293,10 @@
                 "FT/FGA": "1",
                 "DRB%": "7",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/BOS-2025.png",
-        "last_update": "Nov 30 2024 22:32:13"
+        "last_update": "Dec 01 2024 22:32:11"
     }
 }

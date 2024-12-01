@@ -30,8 +30,8 @@
             {
                 "Player": "Alex Caruso",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Hip) - Caruso did not play on Friday's (Nov. 29) game against the Lakers."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Out (Hip) - Caruso is OUT for Sunday's (Dec. 1) game against the Rockets."
             },
             {
                 "Player": "Ousmane Dieng",
@@ -111,13 +111,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "11",
-                "FGA": "5",
-                "FG%": "20",
+                "FGA": "4",
+                "FG%": "19",
                 "3P": "13",
                 "3PA": "10",
-                "3P%": "22",
+                "3P%": "21",
                 "2P": "12",
                 "2PA": "12",
                 "2P%": "15",
@@ -211,13 +211,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
-                "3P": "7",
+                "3P": "6",
                 "3PA": "13",
-                "3P%": "2",
+                "3P%": "3",
                 "2P": "1",
                 "2PA": "3",
                 "2P%": "2",
@@ -225,11 +225,11 @@
                 "FTA": "27",
                 "FT%": "1",
                 "ORB": "30",
-                "DRB": "28",
+                "DRB": "29",
                 "TRB": "30",
                 "AST": "7",
                 "STL": "3",
-                "BLK": "14",
+                "BLK": "13",
                 "TOV": "1",
                 "PF": "28",
                 "PTS": "2"
@@ -265,8 +265,8 @@
                 "PW": "15",
                 "PL": "4",
                 "MOV": "10.68",
-                "SOS": "0.66",
-                "SRS": "11.35",
+                "SOS": "0.70",
+                "SRS": "11.38",
                 "ORtg": "113.9",
                 "DRtg": "103.3",
                 "Pace": "100.0",
@@ -286,23 +286,23 @@
                 "PW": "2",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "12",
+                "SOS": "13",
                 "SRS": "1",
-                "ORtg": "11",
+                "ORtg": "12",
                 "DRtg": "1",
                 "Pace": "8",
                 "FTr": "29",
-                "3PAr": "14",
+                "3PAr": "13",
                 "eFG%": "2",
                 "TOV%": "1",
                 "ORB%": "26",
                 "FT/FGA": "26",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/OKC-2025.png",
-        "last_update": "Nov 30 2024 22:32:13"
+        "last_update": "Dec 01 2024 22:32:11"
     }
 }

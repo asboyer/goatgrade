@@ -35,8 +35,14 @@
             {
                 "Player": "DeMar DeRozan",
                 "Team": "Sacramento Kings",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Back) - DeRozan did not play on Friday's (Nov. 29) game against the Trail Blazers."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Back) - DeRozan is listed as probable for Sunday's (Dec. 1) game against the Spurs."
+            },
+            {
+                "Player": "Kevin Huerter",
+                "Team": "Sacramento Kings",
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Ankle) - Huerter is listed as doubtful for Sunday's (Dec. 1) game against the Spurs."
             },
             {
                 "Player": "Trey Lyles",
@@ -98,12 +104,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "13",
                 "FGA": "20",
                 "FG%": "6",
-                "3P": "28",
-                "3PA": "23",
+                "3P": "27",
+                "3PA": "24",
                 "3P%": "25",
                 "2P": "6",
                 "2PA": "13",
@@ -112,12 +118,12 @@
                 "FTA": "10",
                 "FT%": "7",
                 "ORB": "24",
-                "DRB": "10",
+                "DRB": "11",
                 "TRB": "20",
                 "AST": "22",
-                "STL": "17",
+                "STL": "16",
                 "BLK": "21",
-                "TOV": "12",
+                "TOV": "13",
                 "PF": "19",
                 "PTS": "14"
             },
@@ -198,7 +204,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "10",
                 "FGA": "9",
                 "FG%": "14",
@@ -207,12 +213,12 @@
                 "3P%": "27",
                 "2P": "4",
                 "2PA": "5",
-                "2P%": "10",
-                "FT": "16",
+                "2P%": "11",
+                "FT": "17",
                 "FTA": "15",
                 "FT%": "27",
                 "ORB": "3",
-                "DRB": "6",
+                "DRB": "5",
                 "TRB": "2",
                 "AST": "13",
                 "STL": "18",
@@ -252,8 +258,8 @@
                 "PW": "10",
                 "PL": "10",
                 "MOV": "0.35",
-                "SOS": "-1.53",
-                "SRS": "-1.18",
+                "SOS": "-1.35",
+                "SRS": "-1.00",
                 "ORtg": "113.9",
                 "DRtg": "113.5",
                 "Pace": "98.3",
@@ -268,28 +274,28 @@
                 "Attendance": "168,498"
             },
             "Misc Lg Rank": {
-                "W": "15",
+                "W": "17",
                 "L": "10",
                 "PW": "11",
-                "PL": "17",
+                "PL": "16",
                 "MOV": "15",
                 "SOS": "25",
                 "SRS": "17",
-                "ORtg": "12",
-                "DRtg": "15",
+                "ORtg": "13",
+                "DRtg": "14",
                 "Pace": "17",
                 "FTr": "7",
                 "3PAr": "19",
-                "eFG%": "19",
+                "eFG%": "20",
                 "TOV%": "13",
                 "ORB%": "20",
-                "FT/FGA": "17",
+                "FT/FGA": "18",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/SAC-2025.png",
-        "last_update": "Nov 30 2024 22:32:13"
+        "last_update": "Dec 01 2024 22:32:11"
     }
 }

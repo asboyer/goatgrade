@@ -31,8 +31,8 @@
             {
                 "Player": "Patrick Williams",
                 "Team": "Chicago Bulls",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Foot) - Williams did not play on Friday's (Nov. 29) game against the Celtics."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Foot) - Williams did not play in Friday's (Nov. 29) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -94,21 +94,21 @@
                 "FG%": "10",
                 "3P": "2",
                 "3PA": "3",
-                "3P%": "5",
-                "2P": "20",
+                "3P%": "6",
+                "2P": "19",
                 "2PA": "23",
                 "2P%": "9",
                 "FT": "28",
                 "FTA": "27",
-                "FT%": "9",
+                "FT%": "10",
                 "ORB": "28",
-                "DRB": "5",
+                "DRB": "4",
                 "TRB": "13",
                 "AST": "5",
                 "STL": "27",
-                "BLK": "23",
+                "BLK": "24",
                 "TOV": "20",
-                "PF": "7",
+                "PF": "8",
                 "PTS": "4"
             },
             "Year/Year": {
@@ -198,10 +198,10 @@
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "30",
-                "FT": "15",
-                "FTA": "16",
-                "FT%": "6",
-                "ORB": "10",
+                "FT": "16",
+                "FTA": "18",
+                "FT%": "7",
+                "ORB": "9",
                 "DRB": "30",
                 "TRB": "27",
                 "AST": "30",
@@ -242,8 +242,8 @@
                 "PW": "7",
                 "PL": "14",
                 "MOV": "-5.76",
-                "SOS": "1.50",
-                "SRS": "-4.26",
+                "SOS": "1.48",
+                "SRS": "-4.28",
                 "ORtg": "113.4",
                 "DRtg": "118.9",
                 "Pace": "104.5",
@@ -259,27 +259,27 @@
             },
             "Misc Lg Rank": {
                 "W": "23",
-                "L": "6",
-                "PW": "24",
-                "PL": "27",
+                "L": "7",
+                "PW": "25",
+                "PL": "26",
                 "MOV": "25",
                 "SOS": "4",
-                "SRS": "22",
+                "SRS": "23",
                 "ORtg": "15",
                 "DRtg": "28",
                 "Pace": "1",
                 "FTr": "27",
                 "3PAr": "5",
-                "eFG%": "26",
+                "eFG%": "28",
                 "TOV%": "30",
                 "ORB%": "30",
                 "FT/FGA": "8",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CHI-2025.png",
-        "last_update": "Nov 30 2024 22:32:13"
+        "last_update": "Dec 01 2024 22:32:11"
     }
 }

@@ -42,8 +42,8 @@
             {
                 "Player": "Dorian Finney-Smith",
                 "Team": "Brooklyn Nets",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Ankle) - Finney-Smith did not play Friday's (Nov. 29) game against the Magic."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Out (Ankle) - Finney-Smith is OUT for Sunday's (Dec. 1) game against the Magic."
             },
             {
                 "Player": "Jaylen Martin",
@@ -54,8 +54,8 @@
             {
                 "Player": "Dennis Schröder",
                 "Team": "Brooklyn Nets",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Personal) - Schroder did not play on Friday's (Nov. 29) game against the Magic due to personal reasons."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Out (Personal) - Schroder is OUT for Sunday's (Dec. 1) game against the Magic due to personal reasons."
             },
             {
                 "Player": "Day'Ron Sharpe",
@@ -123,7 +123,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "23",
                 "FGA": "30",
                 "FG%": "11",
@@ -132,14 +132,14 @@
                 "3P%": "2",
                 "2P": "28",
                 "2PA": "29",
-                "2P%": "17",
-                "FT": "16",
+                "2P%": "16",
+                "FT": "15",
                 "FTA": "22",
                 "FT%": "2",
                 "ORB": "30",
                 "DRB": "29",
                 "TRB": "30",
-                "AST": "12",
+                "AST": "13",
                 "STL": "29",
                 "BLK": "29",
                 "TOV": "15",
@@ -223,12 +223,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "14",
                 "FGA": "3",
-                "FG%": "28",
+                "FG%": "29",
                 "3P": "13",
-                "3PA": "5",
+                "3PA": "4",
                 "3P%": "28",
                 "2P": "16",
                 "2PA": "6",
@@ -238,7 +238,7 @@
                 "FT%": "14",
                 "ORB": "3",
                 "DRB": "15",
-                "TRB": "8",
+                "TRB": "7",
                 "AST": "22",
                 "STL": "15",
                 "BLK": "27",
@@ -277,8 +277,8 @@
                 "PW": "8",
                 "PL": "12",
                 "MOV": "-3.00",
-                "SOS": "1.50",
-                "SRS": "-1.50",
+                "SOS": "1.53",
+                "SRS": "-1.47",
                 "ORtg": "114.8",
                 "DRtg": "117.9",
                 "Pace": "96.4",
@@ -293,10 +293,10 @@
                 "Attendance": "143,375"
             },
             "Misc Lg Rank": {
-                "W": "15",
+                "W": "17",
                 "L": "10",
-                "PW": "20",
-                "PL": "20",
+                "PW": "21",
+                "PL": "19",
                 "MOV": "20",
                 "SOS": "3",
                 "SRS": "19",
@@ -315,6 +315,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/BRK-2025.png",
-        "last_update": "Nov 30 2024 22:32:13"
+        "last_update": "Dec 01 2024 22:32:11"
     }
 }

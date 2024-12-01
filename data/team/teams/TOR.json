@@ -31,14 +31,14 @@
             {
                 "Player": "Bruce Brown",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Knee) - Brown did not play on Friday's (Nov. 29) game against Miami."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Out (Reconditioning) - Brown is OUT for Sunday's (Dec. 1) game against Miami."
             },
             {
                 "Player": "Gradey Dick",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Calf) - Dick did not play on Friday's (Nov. 29) game against Miami."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Out (Calf) - Dick is OUT for Sunday's (Dec. 1) game against Miami."
             },
             {
                 "Player": "Kelly Olynyk",
@@ -106,26 +106,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "10",
                 "FGA": "6",
                 "FG%": "17",
                 "3P": "29",
                 "3PA": "30",
-                "3P%": "23",
-                "2P": "3",
+                "3P%": "22",
+                "2P": "2",
                 "2PA": "2",
                 "2P%": "20",
-                "FT": "18",
+                "FT": "19",
                 "FTA": "10",
                 "FT%": "28",
                 "ORB": "2",
                 "DRB": "21",
-                "TRB": "5",
+                "TRB": "4",
                 "AST": "6",
-                "STL": "18",
-                "BLK": "19",
-                "TOV": "25",
+                "STL": "20",
+                "BLK": "20",
+                "TOV": "24",
                 "PF": "30",
                 "PTS": "17"
             },
@@ -206,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "19",
                 "FGA": "16",
                 "FG%": "12",
@@ -214,17 +214,17 @@
                 "3PA": "17",
                 "3P%": "8",
                 "2P": "19",
-                "2PA": "15",
+                "2PA": "14",
                 "2P%": "20",
                 "FT": "30",
                 "FTA": "30",
                 "FT%": "19",
-                "ORB": "19",
-                "DRB": "3",
+                "ORB": "18",
+                "DRB": "2",
                 "TRB": "5",
-                "AST": "16",
+                "AST": "17",
                 "STL": "25",
-                "BLK": "24",
+                "BLK": "23",
                 "TOV": "23",
                 "PF": "12",
                 "PTS": "25"
@@ -260,8 +260,8 @@
                 "PW": "7",
                 "PL": "13",
                 "MOV": "-4.35",
-                "SOS": "-0.06",
-                "SRS": "-4.41",
+                "SOS": "-0.05",
+                "SRS": "-4.40",
                 "ORtg": "112.0",
                 "DRtg": "116.3",
                 "Pace": "98.9",
@@ -277,11 +277,11 @@
             },
             "Misc Lg Rank": {
                 "W": "26",
-                "L": "2",
+                "L": "3",
                 "PW": "23",
-                "PL": "24",
+                "PL": "23",
                 "MOV": "23",
-                "SOS": "18",
+                "SOS": "16",
                 "SRS": "24",
                 "ORtg": "21",
                 "DRtg": "22",
@@ -292,12 +292,12 @@
                 "TOV%": "24",
                 "ORB%": "1",
                 "FT/FGA": "30",
-                "DRB%": "22",
+                "DRB%": "21",
                 "Arena": "",
                 "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/TOR-2025.png",
-        "last_update": "Nov 30 2024 22:32:13"
+        "last_update": "Dec 01 2024 22:32:11"
     }
 }

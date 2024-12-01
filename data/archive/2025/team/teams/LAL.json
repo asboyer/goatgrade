@@ -2,7 +2,7 @@
     "LAL": {
         "info": {
             "record": "11-8",
-            "standing": "6th in West",
+            "standing": "8th in West",
             "coach": "JJ Redick (11-8)",
             "gm": "Rob Pelinka",
             "preseason_odds": "+3000"
@@ -29,16 +29,34 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Plantar ) - Davis is probable for Sunday's (Dec. 1) game against the Jazz due to left plantar fasciitis, Dan Woike of the Los Angeles Times reports."
+            },
+            {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Ankle) - Hayes did not play on Friday's (Nov. 29) game against the Thunder, Jovan Buha of The Athletic reports."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Out (Ankle) - Hayes suffered a re-sprain of his right ankle and will miss two to three weeks, per ESPN's Shams Charania."
             },
             {
                 "Player": "Bronny James",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Heel) - James did not play on Friday's (Nov. 29) game against the Thunder."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Out (Heel) - James is out for Sunday's (Dec. 1) game against the Jazz, Dan Woike of the Los Angeles Times reports."
+            },
+            {
+                "Player": "Austin Reaves",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Pelvis) - Reaves is listed as questionable for Sunday's (Dec. 1) game against the Jazz, Dan Woike of the Los Angeles Times reports."
+            },
+            {
+                "Player": "D'Angelo Russell",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Illness) - Russell is listed as doubtful for Sunday's (Dec. 1) game against the Jazz."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -106,10 +124,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
-                "FG": "15",
-                "FGA": "25",
-                "FG%": "7",
+                "MP": "22",
+                "FG": "16",
+                "FGA": "26",
+                "FG%": "8",
                 "3P": "20",
                 "3PA": "25",
                 "3P%": "14",
@@ -118,13 +136,13 @@
                 "2P%": "8",
                 "FT": "1",
                 "FTA": "2",
-                "FT%": "12",
+                "FT%": "13",
                 "ORB": "27",
                 "DRB": "25",
                 "TRB": "27",
                 "AST": "11",
                 "STL": "23",
-                "BLK": "24",
+                "BLK": "25",
                 "TOV": "5",
                 "PF": "1",
                 "PTS": "10"
@@ -206,20 +224,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "25",
-                "FGA": "20",
-                "FG%": "24",
+                "FGA": "22",
+                "FG%": "23",
                 "3P": "18",
                 "3PA": "12",
-                "3P%": "18",
-                "2P": "26",
-                "2PA": "23",
+                "3P%": "19",
+                "2P": "27",
+                "2PA": "22",
                 "2P%": "24",
                 "FT": "6",
                 "FTA": "5",
                 "FT%": "25",
-                "ORB": "18",
+                "ORB": "17",
                 "DRB": "13",
                 "TRB": "13",
                 "AST": "27",
@@ -260,8 +278,8 @@
                 "PW": "9",
                 "PL": "10",
                 "MOV": "-1.32",
-                "SOS": "0.04",
-                "SRS": "-1.27",
+                "SOS": "0.25",
+                "SRS": "-1.07",
                 "ORtg": "116.1",
                 "DRtg": "117.4",
                 "Pace": "98.6",
@@ -276,28 +294,28 @@
                 "Attendance": "189,458"
             },
             "Misc Lg Rank": {
-                "W": "9",
+                "W": "10",
                 "L": "18",
-                "PW": "18",
+                "PW": "19",
                 "PL": "18",
-                "MOV": "19",
-                "SOS": "17",
+                "MOV": "18",
+                "SOS": "14",
                 "SRS": "18",
                 "ORtg": "7",
                 "DRtg": "24",
                 "Pace": "15",
                 "FTr": "1",
                 "3PAr": "21",
-                "eFG%": "21",
+                "eFG%": "22",
                 "TOV%": "20",
                 "ORB%": "24",
                 "FT/FGA": "6",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "6"
+                "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAL-2025.png",
-        "last_update": "Nov 30 2024 22:32:13"
+        "last_update": "Dec 01 2024 22:32:11"
     }
 }

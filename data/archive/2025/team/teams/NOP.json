@@ -37,26 +37,26 @@
             {
                 "Player": "Jamal Cain",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Ankle) - Cain did not play for Friday's (Nov. 29) game agaist the Grizzlies."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Ankle) - Cain did not play in Friday's (Nov. 29) game against the Grizzlies."
             },
             {
                 "Player": "Jordan Hawkins",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Back) - Hawkins did not play for Friday's (Nov. 29) game against the Grizzlies."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Out (Back) - Hawkins is out for Sunday's (Dec. 1) game against the Knicks."
             },
             {
                 "Player": "Brandon Ingram",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Calf) - Ingram did not play for Friday's (Nov. 29) game against the Grizzlies."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Out (Calf) - Ingram is out for Sunday's (Dec. 1) game against the Knicks."
             },
             {
                 "Player": "Herbert Jones",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Shoulder ) - Jones did not play for Friday's (Nov. 29) game against the Grizzlies."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Out (Shoulder ) - Jones is out for Sunday's (Dec. 1) game against the Knicks."
             },
             {
                 "Player": "Zion Williamson",
@@ -118,19 +118,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
-                "FG": "29",
+                "MP": "13",
+                "FG": "28",
                 "FGA": "16",
                 "FG%": "27",
                 "3P": "30",
                 "3PA": "28",
                 "3P%": "24",
                 "2P": "15",
-                "2PA": "5",
+                "2PA": "4",
                 "2P%": "28",
                 "FT": "24",
                 "FTA": "25",
-                "FT%": "25",
+                "FT%": "26",
                 "ORB": "6",
                 "DRB": "27",
                 "TRB": "16",
@@ -218,12 +218,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "13",
                 "FG": "28",
-                "FGA": "19",
-                "FG%": "27",
-                "3P": "25",
-                "3PA": "20",
+                "FGA": "20",
+                "FG%": "28",
+                "3P": "26",
+                "3PA": "21",
                 "3P%": "25",
                 "2P": "24",
                 "2PA": "16",
@@ -233,7 +233,7 @@
                 "FT%": "9",
                 "ORB": "23",
                 "DRB": "14",
-                "TRB": "20",
+                "TRB": "19",
                 "AST": "28",
                 "STL": "21",
                 "BLK": "21",
@@ -272,8 +272,8 @@
                 "PW": "4",
                 "PL": "16",
                 "MOV": "-11.75",
-                "SOS": "1.14",
-                "SRS": "-10.61",
+                "SOS": "1.06",
+                "SRS": "-10.70",
                 "ORtg": "106.6",
                 "DRtg": "118.7",
                 "Pace": "97.4",
@@ -293,7 +293,7 @@
                 "PW": "29",
                 "PL": "30",
                 "MOV": "29",
-                "SOS": "6",
+                "SOS": "8",
                 "SRS": "29",
                 "ORtg": "28",
                 "DRtg": "27",
@@ -302,14 +302,14 @@
                 "3PAr": "28",
                 "eFG%": "29",
                 "TOV%": "18",
-                "ORB%": "8",
+                "ORB%": "7",
                 "FT/FGA": "2",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NOP-2025.png",
-        "last_update": "Nov 30 2024 22:32:13"
+        "last_update": "Dec 01 2024 22:32:11"
     }
 }

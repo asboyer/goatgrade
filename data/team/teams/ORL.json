@@ -36,8 +36,8 @@
             {
                 "Player": "Gary Harris",
                 "Team": "Orlando Magic",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Hamstring) - Harris did not play Friday's (Nov. 29) game against the Nets."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Out (Hamstring) - Harris is OUT for Sunday's (Dec. 1) game against the Nets."
             }
         ],
         "team_stats": {
@@ -94,7 +94,7 @@
             "Lg Rank": {
                 "G": "",
                 "MP": "3",
-                "FG": "26",
+                "FG": "25",
                 "FGA": "27",
                 "FG%": "22",
                 "3P": "22",
@@ -108,7 +108,7 @@
                 "FT%": "8",
                 "ORB": "16",
                 "DRB": "24",
-                "TRB": "24",
+                "TRB": "23",
                 "AST": "20",
                 "STL": "4",
                 "BLK": "2",
@@ -196,7 +196,7 @@
                 "MP": "3",
                 "FG": "2",
                 "FGA": "1",
-                "FG%": "10",
+                "FG%": "9",
                 "3P": "3",
                 "3PA": "1",
                 "3P%": "20",
@@ -210,7 +210,7 @@
                 "DRB": "17",
                 "TRB": "4",
                 "AST": "2",
-                "STL": "7",
+                "STL": "8",
                 "BLK": "5",
                 "TOV": "3",
                 "PF": "1",
@@ -247,8 +247,8 @@
                 "PW": "14",
                 "PL": "7",
                 "MOV": "5.67",
-                "SOS": "-1.57",
-                "SRS": "4.10",
+                "SOS": "-1.50",
+                "SRS": "4.16",
                 "ORtg": "111.5",
                 "DRtg": "105.7",
                 "Pace": "97.2",
@@ -272,19 +272,19 @@
                 "SRS": "8",
                 "ORtg": "22",
                 "DRtg": "3",
-                "Pace": "26",
+                "Pace": "25",
                 "FTr": "4",
                 "3PAr": "9",
                 "eFG%": "9",
                 "TOV%": "3",
                 "ORB%": "15",
-                "FT/FGA": "16",
+                "FT/FGA": "17",
                 "DRB%": "2",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/ORL-2025.png",
-        "last_update": "Nov 30 2024 22:32:13"
+        "last_update": "Dec 01 2024 22:32:11"
     }
 }

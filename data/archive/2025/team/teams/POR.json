@@ -37,14 +37,20 @@
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Knee) - Grant did not play on Friday's (Nov. 29) game against the Kings."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Knee) - Grant is questionable for Sunday's (Dec. 1) game against the Mavericks."
             },
             {
                 "Player": "Scoot Henderson",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Quad) - Henderson did not play on Friday's (Nov. 29) game against the Kings."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Quad) - Henderson is listed as questionable for Sunday's (Dec. 1) game against the Mavericks."
+            },
+            {
+                "Player": "Kris Murray",
+                "Team": "Portland Trail Blazers",
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Day To Day (Chest) - Murray is probable for Sunday's (Dec. 1) game against the Mavericks due to a sternum bruise."
             },
             {
                 "Player": "Matisse Thybulle",
@@ -55,8 +61,8 @@
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Concussion) - Williams did not play on Friday's (Nov. 29) game against the Kings."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Out (Concussion) - Williams has been ruled out for Sunday's (Dec. 1) game against Dallas."
             }
         ],
         "team_stats": {
@@ -112,20 +118,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
-                "FG": "28",
+                "MP": "13",
+                "FG": "26",
                 "FGA": "10",
                 "FG%": "29",
-                "3P": "27",
+                "3P": "26",
                 "3PA": "22",
                 "3P%": "27",
                 "2P": "18",
                 "2PA": "8",
                 "2P%": "29",
-                "FT": "17",
+                "FT": "16",
                 "FTA": "14",
-                "FT%": "26",
-                "ORB": "4",
+                "FT%": "27",
+                "ORB": "3",
                 "DRB": "28",
                 "TRB": "14",
                 "AST": "29",
@@ -212,13 +218,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "13",
                 "FG": "13",
                 "FGA": "11",
                 "FG%": "15",
-                "3P": "14",
+                "3P": "16",
                 "3PA": "16",
-                "3P%": "13",
+                "3P%": "14",
                 "2P": "14",
                 "2PA": "11",
                 "2P%": "15",
@@ -226,10 +232,10 @@
                 "FTA": "21",
                 "FT%": "20",
                 "ORB": "29",
-                "DRB": "19",
+                "DRB": "20",
                 "TRB": "26",
-                "AST": "25",
-                "STL": "30",
+                "AST": "24",
+                "STL": "29",
                 "BLK": "28",
                 "TOV": "4",
                 "PF": "7",
@@ -266,8 +272,8 @@
                 "PW": "6",
                 "PL": "14",
                 "MOV": "-7.55",
-                "SOS": "1.01",
-                "SRS": "-6.54",
+                "SOS": "1.07",
+                "SRS": "-6.48",
                 "ORtg": "106.2",
                 "DRtg": "113.7",
                 "Pace": "99.9",
@@ -283,12 +289,12 @@
             },
             "Misc Lg Rank": {
                 "W": "23",
-                "L": "8",
+                "L": "9",
                 "PW": "26",
-                "PL": "28",
-                "MOV": "26",
-                "SOS": "9",
-                "SRS": "26",
+                "PL": "27",
+                "MOV": "27",
+                "SOS": "7",
+                "SRS": "27",
                 "ORtg": "29",
                 "DRtg": "16",
                 "Pace": "9",
@@ -304,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/POR-2025.png",
-        "last_update": "Nov 30 2024 22:32:13"
+        "last_update": "Dec 01 2024 22:32:11"
     }
 }

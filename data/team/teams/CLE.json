@@ -42,8 +42,8 @@
             {
                 "Player": "Dean Wade",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Fri, Nov 29, 2024",
-                "Description": "Day To Day (Ankle) - Wade is OUT for Friday's (Nov. 29) game against Atlanta."
+                "Update": "Sat, Nov 30, 2024",
+                "Description": "Out (Ankle) - Wade is OUT for Sunday's (Dec. 1) game against Boston."
             }
         ],
         "team_stats": {
@@ -99,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "13",
                 "FG": "1",
                 "FGA": "14",
                 "FG%": "1",
@@ -111,15 +111,15 @@
                 "2P%": "1",
                 "FT": "24",
                 "FTA": "26",
-                "FT%": "10",
+                "FT%": "11",
                 "ORB": "25",
                 "DRB": "12",
                 "TRB": "21",
                 "AST": "7",
                 "STL": "7",
-                "BLK": "17",
+                "BLK": "18",
                 "TOV": "6",
-                "PF": "8",
+                "PF": "9",
                 "PTS": "1"
             },
             "Year/Year": {
@@ -199,14 +199,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "13",
                 "FG": "16",
                 "FGA": "15",
                 "FG%": "11",
-                "3P": "24",
+                "3P": "25",
                 "3PA": "11",
                 "3P%": "29",
-                "2P": "11",
+                "2P": "12",
                 "2PA": "18",
                 "2P%": "4",
                 "FT": "11",
@@ -215,12 +215,12 @@
                 "ORB": "15",
                 "DRB": "8",
                 "TRB": "10",
-                "AST": "18",
-                "STL": "6",
-                "BLK": "11",
+                "AST": "19",
+                "STL": "7",
+                "BLK": "10",
                 "TOV": "7",
                 "PF": "27",
-                "PTS": "15"
+                "PTS": "16"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -253,8 +253,8 @@
                 "PW": "15",
                 "PL": "5",
                 "MOV": "9.80",
-                "SOS": "-2.51",
-                "SRS": "7.29",
+                "SOS": "-2.54",
+                "SRS": "7.26",
                 "ORtg": "122.1",
                 "DRtg": "112.3",
                 "Pace": "100.2",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CLE-2025.png",
-        "last_update": "Nov 30 2024 22:32:13"
+        "last_update": "Dec 01 2024 22:32:11"
     }
 }
