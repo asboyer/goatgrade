@@ -29,10 +29,16 @@
         ],
         "injuries": [
             {
+                "Player": "Coby White",
+                "Team": "Chicago Bulls",
+                "Update": "Sun, Dec 1, 2024",
+                "Description": "Day To Day (Ankle) - White is questionable for Monday's (Dec. 2) game against Brooklyn."
+            },
+            {
                 "Player": "Patrick Williams",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Nov 30, 2024",
-                "Description": "Day To Day (Foot) - Williams did not play in Friday's (Nov. 29) game against the Celtics."
+                "Update": "Sun, Dec 1, 2024",
+                "Description": "Out (Foot) - Williams is OUT for Monday's (Dec. 2) game against Brooklyn."
             }
         ],
         "team_stats": {
@@ -88,8 +94,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
-                "FG": "5",
+                "MP": "10",
+                "FG": "6",
                 "FGA": "8",
                 "FG%": "10",
                 "3P": "2",
@@ -97,16 +103,16 @@
                 "3P%": "6",
                 "2P": "19",
                 "2PA": "23",
-                "2P%": "9",
-                "FT": "28",
-                "FTA": "27",
-                "FT%": "10",
+                "2P%": "10",
+                "FT": "27",
+                "FTA": "28",
+                "FT%": "8",
                 "ORB": "28",
                 "DRB": "4",
                 "TRB": "13",
                 "AST": "5",
-                "STL": "27",
-                "BLK": "24",
+                "STL": "28",
+                "BLK": "23",
                 "TOV": "20",
                 "PF": "8",
                 "PTS": "4"
@@ -188,17 +194,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "10",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "30",
                 "3P": "21",
                 "3PA": "27",
-                "3P%": "10",
+                "3P%": "9",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "30",
-                "FT": "16",
+                "FT": "15",
                 "FTA": "18",
                 "FT%": "7",
                 "ORB": "9",
@@ -206,7 +212,7 @@
                 "TRB": "27",
                 "AST": "30",
                 "STL": "19",
-                "BLK": "15",
+                "BLK": "16",
                 "TOV": "30",
                 "PF": "30",
                 "PTS": "30"
@@ -242,8 +248,8 @@
                 "PW": "7",
                 "PL": "14",
                 "MOV": "-5.76",
-                "SOS": "1.48",
-                "SRS": "-4.28",
+                "SOS": "1.47",
+                "SRS": "-4.29",
                 "ORtg": "113.4",
                 "DRtg": "118.9",
                 "Pace": "104.5",
@@ -264,7 +270,7 @@
                 "PL": "26",
                 "MOV": "25",
                 "SOS": "4",
-                "SRS": "23",
+                "SRS": "24",
                 "ORtg": "15",
                 "DRtg": "28",
                 "Pace": "1",
@@ -276,10 +282,10 @@
                 "FT/FGA": "8",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "15"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CHI-2025.png",
-        "last_update": "Dec 01 2024 22:32:11"
+        "last_update": "Dec 02 2024 22:32:10"
     }
 }
