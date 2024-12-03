@@ -28,10 +28,28 @@
         ],
         "injuries": [
             {
+                "Player": "Giannis Antetokounmpo",
+                "Team": "Milwaukee Bucks",
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Day To Day (Patella) - Antetokounmpo is probable for Tuesday's (dec. 3) game against Detroit."
+            },
+            {
+                "Player": "MarJon Beauchamp",
+                "Team": "Milwaukee Bucks",
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Day To Day (Hamstring) - Beauchamp is probable for Tuesday's (dec. 3) game against Detroit."
+            },
+            {
                 "Player": "Khris Middleton",
                 "Team": "Milwaukee Bucks",
-                "Update": "Sat, Nov 30, 2024",
-                "Description": "Day To Day (Ankle) - Middleton did not play on Saturday's (Nov. 30) game against the Wizards, Eric Nehm of The Athletic reports."
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Out (Ankle) - Middleton is OUT for Tuesday's (dec. 3) game against Detroit."
+            },
+            {
+                "Player": "Taurean Prince",
+                "Team": "Milwaukee Bucks",
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Day To Day (Quad) - Prince is probable for Tuesday's (Dec. 3) game against Detroit."
             }
         ],
         "team_stats": {
@@ -87,28 +105,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "26",
                 "FG": "15",
                 "FGA": "22",
                 "FG%": "7",
                 "3P": "12",
                 "3PA": "15",
-                "3P%": "5",
+                "3P%": "4",
                 "2P": "18",
                 "2PA": "20",
                 "2P%": "11",
                 "FT": "22",
-                "FTA": "14",
+                "FTA": "13",
                 "FT%": "29",
                 "ORB": "29",
                 "DRB": "5",
-                "TRB": "15",
+                "TRB": "16",
                 "AST": "25",
                 "STL": "27",
                 "BLK": "7",
                 "TOV": "9",
-                "PF": "11",
-                "PTS": "15"
+                "PF": "12",
+                "PTS": "14"
             },
             "Year/Year": {
                 "G": "",
@@ -187,15 +205,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
-                "FG": "11",
-                "FGA": "23",
+                "MP": "26",
+                "FG": "10",
+                "FGA": "22",
                 "FG%": "5",
                 "3P": "25",
-                "3PA": "23",
+                "3PA": "22",
                 "3P%": "23",
                 "2P": "7",
-                "2PA": "17",
+                "2PA": "16",
                 "2P%": "4",
                 "FT": "14",
                 "FTA": "8",
@@ -205,7 +223,7 @@
                 "TRB": "24",
                 "AST": "10",
                 "STL": "5",
-                "BLK": "1",
+                "BLK": "2",
                 "TOV": "26",
                 "PF": "17",
                 "PTS": "15"
@@ -241,8 +259,8 @@
                 "PW": "10",
                 "PL": "9",
                 "MOV": "0.89",
-                "SOS": "-0.27",
-                "SRS": "0.62",
+                "SOS": "-0.15",
+                "SRS": "0.74",
                 "ORtg": "114.4",
                 "DRtg": "113.5",
                 "Pace": "98.5",
@@ -257,28 +275,28 @@
                 "Attendance": "191,200"
             },
             "Misc Lg Rank": {
-                "W": "14",
-                "L": "15",
-                "PW": "13",
+                "W": "15",
+                "L": "16",
+                "PW": "14",
                 "PL": "12",
                 "MOV": "13",
-                "SOS": "18",
-                "SRS": "13",
+                "SOS": "17",
+                "SRS": "14",
                 "ORtg": "11",
                 "DRtg": "14",
                 "Pace": "15",
-                "FTr": "10",
+                "FTr": "9",
                 "3PAr": "12",
                 "eFG%": "8",
                 "TOV%": "28",
-                "ORB%": "29",
+                "ORB%": "30",
                 "FT/FGA": "12",
                 "DRB%": "9",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MIL-2025.png",
-        "last_update": "Dec 02 2024 22:32:10"
+        "last_update": "Dec 03 2024 22:32:12"
     }
 }

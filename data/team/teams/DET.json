@@ -28,16 +28,10 @@
         ],
         "injuries": [
             {
-                "Player": "Cade Cunningham",
-                "Team": "Detroit Pistons",
-                "Update": "Sat, Nov 30, 2024",
-                "Description": "Day To Day (Sacroiliac Joint) - Cunningham did not play on Saturday's (Nov. 30) game against the 76ers."
-            },
-            {
                 "Player": "Bobi Klintman",
                 "Team": "Detroit Pistons",
-                "Update": "Sat, Nov 30, 2024",
-                "Description": "Day To Day (Calf) - Klintman did not play on Saturday's (Nov. 30) game against the 76ers."
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Out (Calf) - Klintman is OUT for Tuesday's (Dec. 3) game against Milwaukee."
             }
         ],
         "team_stats": {
@@ -96,13 +90,13 @@
                 "MP": "1",
                 "FG": "17",
                 "FGA": "18",
-                "FG%": "19",
+                "FG%": "18",
                 "3P": "15",
                 "3PA": "16",
-                "3P%": "18",
+                "3P%": "17",
                 "2P": "16",
                 "2PA": "16",
-                "2P%": "17",
+                "2P%": "18",
                 "FT": "25",
                 "FTA": "24",
                 "FT%": "25",
@@ -111,7 +105,7 @@
                 "TRB": "5",
                 "AST": "18",
                 "STL": "30",
-                "BLK": "9",
+                "BLK": "8",
                 "TOV": "25",
                 "PF": "17",
                 "PTS": "22"
@@ -194,23 +188,23 @@
             "Opp Lg Rank": {
                 "G": "",
                 "MP": "1",
-                "FG": "17",
+                "FG": "18",
                 "FGA": "19",
                 "FG%": "10",
                 "3P": "15",
                 "3PA": "9",
-                "3P%": "21",
-                "2P": "17",
+                "3P%": "20",
+                "2P": "16",
                 "2PA": "22",
                 "2P%": "8",
-                "FT": "8",
+                "FT": "9",
                 "FTA": "11",
-                "FT%": "15",
+                "FT%": "14",
                 "ORB": "13",
                 "DRB": "6",
                 "TRB": "8",
                 "AST": "6",
-                "STL": "27",
+                "STL": "28",
                 "BLK": "13",
                 "TOV": "24",
                 "PF": "25",
@@ -247,8 +241,8 @@
                 "PW": "10",
                 "PL": "12",
                 "MOV": "-1.86",
-                "SOS": "-1.01",
-                "SRS": "-2.88",
+                "SOS": "-1.07",
+                "SRS": "-2.93",
                 "ORtg": "110.7",
                 "DRtg": "112.6",
                 "Pace": "97.8",
@@ -263,28 +257,28 @@
                 "Attendance": "189,425"
             },
             "Misc Lg Rank": {
-                "W": "17",
+                "W": "18",
                 "L": "7",
-                "PW": "17",
+                "PW": "16",
                 "PL": "19",
-                "MOV": "19",
-                "SOS": "23",
+                "MOV": "18",
+                "SOS": "22",
                 "SRS": "20",
                 "ORtg": "24",
                 "DRtg": "12",
-                "Pace": "19",
+                "Pace": "20",
                 "FTr": "23",
                 "3PAr": "16",
-                "eFG%": "9",
+                "eFG%": "10",
                 "TOV%": "23",
                 "ORB%": "12",
                 "FT/FGA": "7",
                 "DRB%": "10",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DET-2025.png",
-        "last_update": "Dec 02 2024 22:32:10"
+        "last_update": "Dec 03 2024 22:32:12"
     }
 }

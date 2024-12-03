@@ -31,14 +31,14 @@
             {
                 "Player": "Jordan Clarkson",
                 "Team": "Utah Jazz",
-                "Update": "Sun, Dec 1, 2024",
-                "Description": "Out (Plantar) - Clarkson is OUT for Sunday's (Dec. 1) game against Los Angeles."
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Out (Plantar) - Clarkson is OUT for Tuesday's (Dec. 3) game against Oklahoma City."
             },
             {
                 "Player": "Kyle Filipowski",
                 "Team": "Utah Jazz",
-                "Update": "Sun, Dec 1, 2024",
-                "Description": "Out (Leg) - Filipowski is OUT for Sunday's (Dec. 1) game against Los Angeles."
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Out (Leg) - Filipowski is OUT for Tuesday's (Dec. 3) game against Oklahoma City."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -100,8 +100,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
-                "FG": "27",
+                "MP": "20",
+                "FG": "28",
                 "FGA": "24",
                 "FG%": "23",
                 "3P": "17",
@@ -112,13 +112,13 @@
                 "2P%": "21",
                 "FT": "7",
                 "FTA": "7",
-                "FT%": "12",
+                "FT%": "11",
                 "ORB": "9",
                 "DRB": "22",
                 "TRB": "10",
                 "AST": "24",
                 "STL": "25",
-                "BLK": "24",
+                "BLK": "23",
                 "TOV": "30",
                 "PF": "13",
                 "PTS": "24"
@@ -200,20 +200,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "20",
                 "FG": "25",
-                "FGA": "24",
+                "FGA": "23",
                 "FG%": "23",
                 "3P": "23",
                 "3PA": "26",
                 "3P%": "13",
                 "2P": "23",
                 "2PA": "13",
-                "2P%": "28",
+                "2P%": "27",
                 "FT": "16",
-                "FTA": "17",
-                "FT%": "8",
-                "ORB": "20",
+                "FTA": "18",
+                "FT%": "7",
+                "ORB": "19",
                 "DRB": "3",
                 "TRB": "7",
                 "AST": "26",
@@ -254,8 +254,8 @@
                 "PW": "5",
                 "PL": "15",
                 "MOV": "-9.50",
-                "SOS": "2.03",
-                "SRS": "-7.47",
+                "SOS": "1.98",
+                "SRS": "-7.52",
                 "ORtg": "109.6",
                 "DRtg": "119.2",
                 "Pace": "98.9",
@@ -275,7 +275,7 @@
                 "PW": "28",
                 "PL": "28",
                 "MOV": "28",
-                "SOS": "1",
+                "SOS": "2",
                 "SRS": "28",
                 "ORtg": "25",
                 "DRtg": "29",
@@ -286,12 +286,12 @@
                 "TOV%": "29",
                 "ORB%": "5",
                 "FT/FGA": "15",
-                "DRB%": "21",
+                "DRB%": "22",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/UTA-2025.png",
-        "last_update": "Dec 02 2024 22:32:10"
+        "last_update": "Dec 03 2024 22:32:12"
     }
 }

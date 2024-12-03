@@ -27,6 +27,18 @@
         ],
         "injuries": [
             {
+                "Player": "Stephen Curry",
+                "Team": "Golden State Warriors",
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Day To Day (Knee) - Curry is probable for Tuesday's (Dec. 3) game against Denver."
+            },
+            {
+                "Player": "Draymond Green",
+                "Team": "Golden State Warriors",
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Day To Day (Calf) - Green is questionable for Tuesday's (Dec. 3) game against Denver."
+            },
+            {
                 "Player": "De'Anthony Melton",
                 "Team": "Golden State Warriors",
                 "Update": "Wed, Nov 20, 2024",
@@ -86,13 +98,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
-                "FG": "9",
+                "MP": "26",
+                "FG": "10",
                 "FGA": "2",
                 "FG%": "21",
                 "3P": "4",
                 "3PA": "4",
-                "3P%": "10",
+                "3P%": "8",
                 "2P": "20",
                 "2PA": "18",
                 "2P%": "23",
@@ -100,14 +112,14 @@
                 "FTA": "18",
                 "FT%": "30",
                 "ORB": "4",
-                "DRB": "2",
+                "DRB": "3",
                 "TRB": "2",
                 "AST": "3",
                 "STL": "7",
-                "BLK": "10",
+                "BLK": "11",
                 "TOV": "13",
                 "PF": "26",
-                "PTS": "8"
+                "PTS": "9"
             },
             "Year/Year": {
                 "G": "",
@@ -186,9 +198,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "26",
                 "FG": "5",
-                "FGA": "20",
+                "FGA": "21",
                 "FG%": "3",
                 "3P": "8",
                 "3PA": "25",
@@ -198,16 +210,16 @@
                 "2P%": "7",
                 "FT": "23",
                 "FTA": "23",
-                "FT%": "10",
+                "FT%": "9",
                 "ORB": "24",
                 "DRB": "25",
-                "TRB": "28",
+                "TRB": "27",
                 "AST": "12",
                 "STL": "6",
                 "BLK": "25",
                 "TOV": "10",
                 "PF": "24",
-                "PTS": "5"
+                "PTS": "7"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -240,8 +252,8 @@
                 "PW": "13",
                 "PL": "6",
                 "MOV": "6.37",
-                "SOS": "-0.02",
-                "SRS": "6.35",
+                "SOS": "-0.03",
+                "SRS": "6.33",
                 "ORtg": "114.9",
                 "DRtg": "108.6",
                 "Pace": "100.6",
@@ -263,7 +275,7 @@
                 "MOV": "7",
                 "SOS": "15",
                 "SRS": "5",
-                "ORtg": "9",
+                "ORtg": "8",
                 "DRtg": "5",
                 "Pace": "5",
                 "FTr": "24",
@@ -278,6 +290,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/GSW-2025.png",
-        "last_update": "Dec 02 2024 22:32:10"
+        "last_update": "Dec 03 2024 22:32:12"
     }
 }

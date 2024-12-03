@@ -35,6 +35,12 @@
                 "Description": "Out For Season (Calf) - Indiana Pacers C Isaiah Jackson has sustained a torn right Achilles tendon, league sources tell ESPN."
             },
             {
+                "Player": "Andrew Nembhard",
+                "Team": "Indiana Pacers",
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Day To Day (Patellofemoral) - Nembhard is questionable for Tuesday's (Dec. 3) game against Toronto."
+            },
+            {
                 "Player": "Aaron Nesmith",
                 "Team": "Indiana Pacers",
                 "Update": "Sun, Nov 10, 2024",
@@ -106,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "12",
                 "FG": "7",
                 "FGA": "19",
                 "FG%": "5",
@@ -115,11 +121,11 @@
                 "3P%": "13",
                 "2P": "6",
                 "2PA": "9",
-                "2P%": "9",
+                "2P%": "10",
                 "FT": "20",
-                "FTA": "23",
+                "FTA": "21",
                 "FT%": "16",
-                "ORB": "27",
+                "ORB": "28",
                 "DRB": "26",
                 "TRB": "28",
                 "AST": "10",
@@ -206,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "12",
                 "FG": "26",
                 "FGA": "14",
                 "FG%": "29",
@@ -214,13 +220,13 @@
                 "3PA": "10",
                 "3P%": "18",
                 "2P": "29",
-                "2PA": "19",
+                "2PA": "20",
                 "2P%": "29",
                 "FT": "26",
                 "FTA": "24",
                 "FT%": "18",
-                "ORB": "16",
-                "DRB": "14",
+                "ORB": "17",
+                "DRB": "13",
                 "TRB": "14",
                 "AST": "19",
                 "STL": "15",
@@ -260,8 +266,8 @@
                 "PW": "8",
                 "PL": "13",
                 "MOV": "-4.29",
-                "SOS": "-0.54",
-                "SRS": "-4.82",
+                "SOS": "-0.58",
+                "SRS": "-4.86",
                 "ORtg": "113.8",
                 "DRtg": "118.1",
                 "Pace": "99.7",
@@ -276,28 +282,28 @@
                 "Attendance": "169,379"
             },
             "Misc Lg Rank": {
-                "W": "17",
-                "L": "10",
-                "PW": "23",
-                "PL": "25",
+                "W": "18",
+                "L": "11",
+                "PW": "24",
+                "PL": "24",
                 "MOV": "23",
                 "SOS": "21",
                 "SRS": "25",
                 "ORtg": "14",
-                "DRtg": "26",
+                "DRtg": "27",
                 "Pace": "11",
-                "FTr": "21",
+                "FTr": "20",
                 "3PAr": "26",
-                "eFG%": "27",
+                "eFG%": "28",
                 "TOV%": "18",
                 "ORB%": "26",
                 "FT/FGA": "24",
-                "DRB%": "22",
+                "DRB%": "23",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/IND-2025.png",
-        "last_update": "Dec 02 2024 22:32:10"
+        "last_update": "Dec 03 2024 22:32:12"
     }
 }

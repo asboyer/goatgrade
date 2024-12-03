@@ -28,28 +28,34 @@
         ],
         "injuries": [
             {
+                "Player": "Andre Drummond",
+                "Team": "Philadelphia 76ers",
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Out (Ankle) - Drummond will miss the next three games according to Ky Carlin of USA Today."
+            },
+            {
                 "Player": "Joel Embiid",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Nov 30, 2024",
-                "Description": "Day To Day (Knee) - Embiid did not play on Saturday's (Nov. 30) game versus the Pistons, Adam Aaronson of PhillyVoice.com reports."
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Out (Knee) - Embiid is OUT for Tuesday's (Dec. 3) game against Charlotte."
             },
             {
                 "Player": "Reggie Jackson",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Nov 30, 2024",
-                "Description": "Day To Day (Knee) - Jackson did not play on Saturday's (Nov. 30) game against the Pistons."
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Day To Day (Knee) - Jackson is probable for Tuesday's (Dec. 3) game against Charlotte."
             },
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Nov 30, 2024",
-                "Description": "Day To Day (Hip) - Lowry did not play on Saturday's (Nov. 30) game against the Pistons, Adam Aaronson of PhillyVoice.com reports."
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Day To Day (Hip) - Lowry is probable for Tuesday's (Dec. 3) game against Charlotte."
             },
             {
                 "Player": "Caleb Martin",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Nov 30, 2024",
-                "Description": "Day To Day (Back) - Martin did not play on Saturday's (Nov. 30) game versus the Pistons."
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Day To Day (Back) - Martin is probable for Tuesday's (Dec. 3) game against Charlotte."
             }
         ],
         "team_stats": {
@@ -105,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "30",
                 "FGA": "21",
                 "FG%": "29",
@@ -123,7 +129,7 @@
                 "TRB": "29",
                 "AST": "30",
                 "STL": "5",
-                "BLK": "26",
+                "BLK": "25",
                 "TOV": "14",
                 "PF": "23",
                 "PTS": "29"
@@ -169,8 +175,8 @@
                 "FTA": "416",
                 "FT%": ".829",
                 "ORB": "177",
-                "DRB": "630",
-                "TRB": "807",
+                "DRB": "629",
+                "TRB": "806",
                 "AST": "469",
                 "STL": "133",
                 "BLK": "108",
@@ -194,7 +200,7 @@
                 "FTA": "23.1",
                 "FT%": ".829",
                 "ORB": "9.8",
-                "DRB": "35.0",
+                "DRB": "34.9",
                 "TRB": "44.8",
                 "AST": "26.1",
                 "STL": "7.4",
@@ -205,27 +211,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "6",
                 "FGA": "2",
                 "FG%": "25",
                 "3P": "7",
                 "3PA": "5",
-                "3P%": "14",
+                "3P%": "15",
                 "2P": "15",
                 "2PA": "3",
-                "2P%": "27",
+                "2P%": "26",
                 "FT": "27",
                 "FTA": "19",
                 "FT%": "30",
                 "ORB": "4",
-                "DRB": "27",
-                "TRB": "21",
+                "DRB": "26",
+                "TRB": "22",
                 "AST": "15",
                 "STL": "8",
                 "BLK": "24",
                 "TOV": "2",
-                "PF": "11",
+                "PF": "10",
                 "PTS": "14"
             },
             "Opp Year/Year": {
@@ -244,8 +250,8 @@
                 "FTA": "-1.6%",
                 "FT%": "+.038",
                 "ORB": "-10.7%",
-                "DRB": "4.7%",
-                "TRB": "0.9%",
+                "DRB": "4.5%",
+                "TRB": "0.7%",
                 "AST": "-0.3%",
                 "STL": "19.7%",
                 "BLK": "-2.2%",
@@ -259,8 +265,8 @@
                 "PW": "5",
                 "PL": "13",
                 "MOV": "-7.00",
-                "SOS": "1.30",
-                "SRS": "-5.70",
+                "SOS": "1.13",
+                "SRS": "-5.87",
                 "ORtg": "106.9",
                 "DRtg": "114.0",
                 "Pace": "96.6",
@@ -268,7 +274,7 @@
                 "3PAr": ".424",
                 "eFG%": ".557",
                 "TOV%": "15.7",
-                "ORB%": "23.7",
+                "ORB%": "23.8",
                 "FT/FGA": ".230",
                 "DRB%": "74.8",
                 "Arena": "Wells Fargo Center",
@@ -278,13 +284,13 @@
                 "W": "27",
                 "L": "5",
                 "PW": "27",
-                "PL": "22",
+                "PL": "21",
                 "MOV": "26",
-                "SOS": "5",
+                "SOS": "7",
                 "SRS": "26",
                 "ORtg": "28",
                 "DRtg": "16",
-                "Pace": "29",
+                "Pace": "30",
                 "FTr": "5",
                 "3PAr": "15",
                 "eFG%": "25",
@@ -293,10 +299,10 @@
                 "FT/FGA": "28",
                 "DRB%": "17",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/PHI-2025.png",
-        "last_update": "Dec 02 2024 22:32:10"
+        "last_update": "Dec 03 2024 22:32:12"
     }
 }

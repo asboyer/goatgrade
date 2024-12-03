@@ -9,6 +9,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 99.84,
+                "rank": 1,
+                "games_played": 15,
+                "team": "DEN",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 100.1,
                 "rank": 1,
                 "games_played": 13,
@@ -72,6 +79,13 @@
                 "games_played": 18,
                 "team": "SAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 97.62,
+                "rank": 3,
+                "games_played": 19,
+                "team": "SAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 97.78,
@@ -139,6 +153,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 97.7,
+                "rank": 2,
+                "games_played": 20,
+                "team": "OKC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 98.31,
                 "rank": 2,
                 "games_played": 17,
@@ -202,6 +223,13 @@
                 "games_played": 18,
                 "team": "LAL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 96.76,
+                "rank": 6,
+                "games_played": 20,
+                "team": "LAL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 97.68,
@@ -269,6 +297,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 96.89,
+                "rank": 5,
+                "games_played": 19,
+                "team": "DAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 95.42,
                 "rank": 13,
                 "games_played": 17,
@@ -332,6 +367,13 @@
                 "games_played": 15,
                 "team": "GSW",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 97.07,
+                "rank": 4,
+                "games_played": 15,
+                "team": "GSW",
+                "date": "12_03_2024"
             },
             {
                 "grade": 97.36,
@@ -399,6 +441,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 96.48,
+                "rank": 7,
+                "games_played": 20,
+                "team": "OKC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 98.04,
                 "rank": 3,
                 "games_played": 17,
@@ -462,6 +511,13 @@
                 "games_played": 18,
                 "team": "NYK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 96.42,
+                "rank": 8,
+                "games_played": 19,
+                "team": "NYK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 97.3,
@@ -529,6 +585,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 95.7,
+                "rank": 11,
+                "games_played": 21,
+                "team": "BOS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 96.52,
                 "rank": 9,
                 "games_played": 18,
@@ -592,6 +655,13 @@
                 "games_played": 17,
                 "team": "MIL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 95.89,
+                "rank": 9,
+                "games_played": 17,
+                "team": "MIL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 96.85,
@@ -659,6 +729,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 94.39,
+                "rank": 18,
+                "games_played": 21,
+                "team": "CLE",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 95.0,
                 "rank": 18,
                 "games_played": 18,
@@ -722,6 +799,13 @@
                 "games_played": 21,
                 "team": "CHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 95.42,
+                "rank": 12,
+                "games_played": 22,
+                "team": "CHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 96.18,
@@ -789,6 +873,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 94.44,
+                "rank": 17,
+                "games_played": 22,
+                "team": "ORL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 95.22,
                 "rank": 15,
                 "games_played": 19,
@@ -852,6 +943,13 @@
                 "games_played": 19,
                 "team": "NYK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 95.34,
+                "rank": 13,
+                "games_played": 20,
+                "team": "NYK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 95.79,
@@ -919,6 +1017,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 94.95,
+                "rank": 15,
+                "games_played": 20,
+                "team": "BOS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 95.27,
                 "rank": 14,
                 "games_played": 18,
@@ -982,6 +1087,13 @@
                 "games_played": 19,
                 "team": "CLE",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 93.67,
+                "rank": 21,
+                "games_played": 20,
+                "team": "CLE",
+                "date": "12_03_2024"
             },
             {
                 "grade": 95.15,
@@ -1049,6 +1161,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 95.89,
+                "rank": 10,
+                "games_played": 17,
+                "team": "SAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 95.08,
                 "rank": 17,
                 "games_played": 14,
@@ -1112,6 +1231,13 @@
                 "games_played": 19,
                 "team": "CLE",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 95.29,
+                "rank": 14,
+                "games_played": 20,
+                "team": "CLE",
+                "date": "12_03_2024"
             },
             {
                 "grade": 92.95,
@@ -1179,6 +1305,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 93.58,
+                "rank": 22,
+                "games_played": 7,
+                "team": "POR",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 94.88,
                 "rank": 19,
                 "games_played": 7,
@@ -1242,6 +1375,13 @@
                 "games_played": 15,
                 "team": "LAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 94.48,
+                "rank": 16,
+                "games_played": 16,
+                "team": "LAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 91.99,
@@ -1309,6 +1449,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 94.14,
+                "rank": 19,
+                "games_played": 19,
+                "team": "MEM",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 95.63,
                 "rank": 12,
                 "games_played": 16,
@@ -1372,6 +1519,13 @@
                 "games_played": 16,
                 "team": "MIL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 93.3,
+                "rank": 25,
+                "games_played": 16,
+                "team": "MIL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 90.43,
@@ -1439,6 +1593,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 92.96,
+                "rank": 26,
+                "games_played": 21,
+                "team": "CLE",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 94.63,
                 "rank": 20,
                 "games_played": 18,
@@ -1502,6 +1663,13 @@
                 "games_played": 19,
                 "team": "MIN",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 92.55,
+                "rank": 31,
+                "games_played": 20,
+                "team": "MIN",
+                "date": "12_03_2024"
             },
             {
                 "grade": 93.4,
@@ -1569,6 +1737,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 91.71,
+                "rank": 39,
+                "games_played": 21,
+                "team": "HOU",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 92.45,
                 "rank": 40,
                 "games_played": 18,
@@ -1632,6 +1807,13 @@
                 "games_played": 18,
                 "team": "UTA",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 93.49,
+                "rank": 23,
+                "games_played": 19,
+                "team": "UTA",
+                "date": "12_03_2024"
             },
             {
                 "grade": 94.14,
@@ -1699,6 +1881,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 93.86,
+                "rank": 20,
+                "games_played": 21,
+                "team": "BOS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 92.43,
                 "rank": 41,
                 "games_played": 18,
@@ -1762,6 +1951,13 @@
                 "games_played": 20,
                 "team": "HOU",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 92.63,
+                "rank": 28,
+                "games_played": 21,
+                "team": "HOU",
+                "date": "12_03_2024"
             },
             {
                 "grade": 93.56,
@@ -1829,6 +2025,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 92.61,
+                "rank": 30,
+                "games_played": 10,
+                "team": "OKC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 93.74,
                 "rank": 24,
                 "games_played": 10,
@@ -1892,6 +2095,13 @@
                 "games_played": 20,
                 "team": "BRK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 92.36,
+                "rank": 33,
+                "games_played": 21,
+                "team": "BRK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 93.15,
@@ -1959,6 +2169,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 92.61,
+                "rank": 29,
+                "games_played": 14,
+                "team": "MIA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 92.95,
                 "rank": 33,
                 "games_played": 10,
@@ -2022,6 +2239,13 @@
                 "games_played": 14,
                 "team": "DAL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 93.45,
+                "rank": 24,
+                "games_played": 15,
+                "team": "DAL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 92.91,
@@ -2089,6 +2313,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 92.28,
+                "rank": 34,
+                "games_played": 12,
+                "team": "PHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 94.4,
                 "rank": 21,
                 "games_played": 9,
@@ -2152,6 +2383,13 @@
                 "games_played": 19,
                 "team": "SAS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 92.03,
+                "rank": 36,
+                "games_played": 20,
+                "team": "SAS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 92.76,
@@ -2219,6 +2457,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 91.99,
+                "rank": 37,
+                "games_played": 18,
+                "team": "CHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 92.19,
                 "rank": 43,
                 "games_played": 17,
@@ -2282,6 +2527,13 @@
                 "games_played": 19,
                 "team": "DAL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 91.88,
+                "rank": 38,
+                "games_played": 20,
+                "team": "DAL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 92.92,
@@ -2349,6 +2601,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 92.15,
+                "rank": 35,
+                "games_played": 21,
+                "team": "ATL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 90.52,
                 "rank": 60,
                 "games_played": 17,
@@ -2412,6 +2671,13 @@
                 "games_played": 21,
                 "team": "LAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 92.44,
+                "rank": 32,
+                "games_played": 22,
+                "team": "LAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 91.56,
@@ -2479,6 +2745,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 91.58,
+                "rank": 40,
+                "games_played": 15,
+                "team": "CLE",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 93.05,
                 "rank": 31,
                 "games_played": 13,
@@ -2542,6 +2815,13 @@
                 "games_played": 19,
                 "team": "CLE",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 92.66,
+                "rank": 27,
+                "games_played": 20,
+                "team": "CLE",
+                "date": "12_03_2024"
             },
             {
                 "grade": 92.59,
@@ -2609,6 +2889,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 91.08,
+                "rank": 43,
+                "games_played": 18,
+                "team": "DEN",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 92.4,
                 "rank": 42,
                 "games_played": 16,
@@ -2672,6 +2959,13 @@
                 "games_played": 20,
                 "team": "HOU",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 90.66,
+                "rank": 49,
+                "games_played": 21,
+                "team": "HOU",
+                "date": "12_03_2024"
             },
             {
                 "grade": 93.6,
@@ -2739,6 +3033,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 91.3,
+                "rank": 41,
+                "games_played": 5,
+                "team": "ORL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 92.81,
                 "rank": 36,
                 "games_played": 5,
@@ -2802,6 +3103,13 @@
                 "games_played": 20,
                 "team": "IND",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 90.72,
+                "rank": 48,
+                "games_played": 21,
+                "team": "IND",
+                "date": "12_03_2024"
             },
             {
                 "grade": 92.08,
@@ -2869,6 +3177,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 89.21,
+                "rank": 71,
+                "games_played": 21,
+                "team": "LAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 93.73,
                 "rank": 25,
                 "games_played": 16,
@@ -2932,6 +3247,13 @@
                 "games_played": 16,
                 "team": "DAL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 90.93,
+                "rank": 46,
+                "games_played": 16,
+                "team": "DAL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 91.42,
@@ -2999,6 +3321,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 90.83,
+                "rank": 47,
+                "games_played": 19,
+                "team": "GSW",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 89.87,
                 "rank": 72,
                 "games_played": 17,
@@ -3062,6 +3391,13 @@
                 "games_played": 21,
                 "team": "LAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 89.93,
+                "rank": 61,
+                "games_played": 22,
+                "team": "LAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 91.1,
@@ -3129,6 +3465,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 90.34,
+                "rank": 53,
+                "games_played": 21,
+                "team": "SAC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 92.53,
                 "rank": 39,
                 "games_played": 18,
@@ -3192,6 +3535,13 @@
                 "games_played": 19,
                 "team": "PHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 90.38,
+                "rank": 52,
+                "games_played": 19,
+                "team": "PHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 90.21,
@@ -3259,6 +3609,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 90.04,
+                "rank": 59,
+                "games_played": 16,
+                "team": "BOS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 93.54,
                 "rank": 28,
                 "games_played": 14,
@@ -3322,6 +3679,13 @@
                 "games_played": 17,
                 "team": "ORL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 91.09,
+                "rank": 42,
+                "games_played": 18,
+                "team": "ORL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 90.42,
@@ -3389,6 +3753,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 90.96,
+                "rank": 44,
+                "games_played": 16,
+                "team": "SAC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 91.6,
                 "rank": 48,
                 "games_played": 15,
@@ -3452,6 +3823,13 @@
                 "games_played": 17,
                 "team": "MIA",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 90.39,
+                "rank": 51,
+                "games_played": 19,
+                "team": "MIA",
+                "date": "12_03_2024"
             },
             {
                 "grade": 91.49,
@@ -3519,6 +3897,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 89.47,
+                "rank": 70,
+                "games_played": 21,
+                "team": "MEM",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 92.1,
                 "rank": 44,
                 "games_played": 18,
@@ -3582,6 +3967,13 @@
                 "games_played": 18,
                 "team": "BRK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 88.83,
+                "rank": 77,
+                "games_played": 20,
+                "team": "BRK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 89.31,
@@ -3649,6 +4041,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 89.84,
+                "rank": 63,
+                "games_played": 21,
+                "team": "TOR",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 91.08,
                 "rank": 55,
                 "games_played": 18,
@@ -3712,6 +4111,13 @@
                 "games_played": 18,
                 "team": "DET",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 89.66,
+                "rank": 65,
+                "games_played": 18,
+                "team": "DET",
+                "date": "12_03_2024"
             },
             {
                 "grade": 90.02,
@@ -3779,6 +4185,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 89.9,
+                "rank": 62,
+                "games_played": 19,
+                "team": "MIL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 89.91,
                 "rank": 71,
                 "games_played": 17,
@@ -3842,6 +4255,13 @@
                 "games_played": 19,
                 "team": "NYK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 90.95,
+                "rank": 45,
+                "games_played": 20,
+                "team": "NYK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 89.11,
@@ -3909,6 +4329,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 90.29,
+                "rank": 54,
+                "games_played": 21,
+                "team": "MEM",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 89.63,
                 "rank": 75,
                 "games_played": 18,
@@ -3972,6 +4399,13 @@
                 "games_played": 14,
                 "team": "MEM",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 89.55,
+                "rank": 67,
+                "games_played": 14,
+                "team": "MEM",
+                "date": "12_03_2024"
             },
             {
                 "grade": 91.1,
@@ -4039,6 +4473,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 89.99,
+                "rank": 60,
+                "games_played": 21,
+                "team": "MEM",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 89.77,
                 "rank": 73,
                 "games_played": 18,
@@ -4102,6 +4543,13 @@
                 "games_played": 21,
                 "team": "ORL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 90.26,
+                "rank": 55,
+                "games_played": 22,
+                "team": "ORL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 90.67,
@@ -4169,6 +4617,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 90.53,
+                "rank": 50,
+                "games_played": 20,
+                "team": "MIN",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 90.8,
                 "rank": 56,
                 "games_played": 16,
@@ -4232,6 +4687,13 @@
                 "games_played": 17,
                 "team": "GSW",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 89.52,
+                "rank": 69,
+                "games_played": 17,
+                "team": "GSW",
+                "date": "12_03_2024"
             },
             {
                 "grade": 91.9,
@@ -4299,6 +4761,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 89.54,
+                "rank": 68,
+                "games_played": 14,
+                "team": "UTA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 87.76,
                 "rank": 96,
                 "games_played": 10,
@@ -4362,6 +4831,13 @@
                 "games_played": 19,
                 "team": "NYK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 89.16,
+                "rank": 73,
+                "games_played": 20,
+                "team": "NYK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 93.99,
@@ -4429,6 +4905,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 89.21,
+                "rank": 72,
+                "games_played": 8,
+                "team": "DEN",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 90.66,
                 "rank": 58,
                 "games_played": 7,
@@ -4492,6 +4975,13 @@
                 "games_played": 11,
                 "team": "PHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 88.99,
+                "rank": 74,
+                "games_played": 11,
+                "team": "PHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 90.23,
@@ -4559,6 +5049,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 87.88,
+                "rank": 86,
+                "games_played": 21,
+                "team": "MEM",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 89.94,
                 "rank": 70,
                 "games_played": 18,
@@ -4622,6 +5119,13 @@
                 "games_played": 19,
                 "team": "MIN",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 89.67,
+                "rank": 64,
+                "games_played": 20,
+                "team": "MIN",
+                "date": "12_03_2024"
             },
             {
                 "grade": 90.36,
@@ -4689,6 +5193,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 88.85,
+                "rank": 76,
+                "games_played": 20,
+                "team": "DET",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 90.66,
                 "rank": 59,
                 "games_played": 17,
@@ -4752,6 +5263,13 @@
                 "games_played": 19,
                 "team": "MIN",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 89.56,
+                "rank": 66,
+                "games_played": 20,
+                "team": "MIN",
+                "date": "12_03_2024"
             },
             {
                 "grade": 85.81,
@@ -4819,6 +5337,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 88.24,
+                "rank": 81,
+                "games_played": 21,
+                "team": "TOR",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 87.6,
                 "rank": 99,
                 "games_played": 18,
@@ -4882,6 +5407,13 @@
                 "games_played": 19,
                 "team": "MIN",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 90.17,
+                "rank": 57,
+                "games_played": 20,
+                "team": "MIN",
+                "date": "12_03_2024"
             },
             {
                 "grade": 89.65,
@@ -4949,6 +5481,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 90.21,
+                "rank": 56,
+                "games_played": 20,
+                "team": "HOU",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 88.92,
                 "rank": 84,
                 "games_played": 17,
@@ -5012,6 +5551,13 @@
                 "games_played": 18,
                 "team": "WAS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 88.31,
+                "rank": 80,
+                "games_played": 18,
+                "team": "WAS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 90.26,
@@ -5079,6 +5625,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 88.58,
+                "rank": 78,
+                "games_played": 11,
+                "team": "MEM",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 87.81,
                 "rank": 95,
                 "games_played": 9,
@@ -5142,6 +5695,13 @@
                 "games_played": 12,
                 "team": "PHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 88.19,
+                "rank": 82,
+                "games_played": 12,
+                "team": "PHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 86.05,
@@ -5209,6 +5769,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 87.68,
+                "rank": 88,
+                "games_played": 18,
+                "team": "DEN",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 89.27,
                 "rank": 78,
                 "games_played": 16,
@@ -5272,6 +5839,13 @@
                 "games_played": 20,
                 "team": "IND",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 87.0,
+                "rank": 94,
+                "games_played": 21,
+                "team": "IND",
+                "date": "12_03_2024"
             },
             {
                 "grade": 87.64,
@@ -5339,6 +5913,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 87.2,
+                "rank": 91,
+                "games_played": 21,
+                "team": "ORL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 87.39,
                 "rank": 102,
                 "games_played": 18,
@@ -5402,6 +5983,13 @@
                 "games_played": 14,
                 "team": "BRK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 86.42,
+                "rank": 107,
+                "games_played": 16,
+                "team": "BRK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 89.03,
@@ -5469,6 +6057,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 87.95,
+                "rank": 85,
+                "games_played": 16,
+                "team": "BOS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 89.22,
                 "rank": 79,
                 "games_played": 14,
@@ -5532,6 +6127,13 @@
                 "games_played": 17,
                 "team": "MIA",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 86.58,
+                "rank": 99,
+                "games_played": 19,
+                "team": "MIA",
+                "date": "12_03_2024"
             },
             {
                 "grade": 88.12,
@@ -5599,6 +6201,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 87.3,
+                "rank": 90,
+                "games_played": 22,
+                "team": "DET",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 91.4,
                 "rank": 52,
                 "games_played": 19,
@@ -5662,6 +6271,13 @@
                 "games_played": 18,
                 "team": "CHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 88.33,
+                "rank": 79,
+                "games_played": 19,
+                "team": "CHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 89.95,
@@ -5729,6 +6345,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 87.15,
+                "rank": 92,
+                "games_played": 10,
+                "team": "TOR",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 89.14,
                 "rank": 80,
                 "games_played": 7,
@@ -5792,6 +6415,13 @@
                 "games_played": 20,
                 "team": "DAL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 87.06,
+                "rank": 93,
+                "games_played": 20,
+                "team": "DAL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 89.3,
@@ -5859,6 +6489,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 87.82,
+                "rank": 87,
+                "games_played": 16,
+                "team": "DAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 86.85,
                 "rank": 110,
                 "games_played": 13,
@@ -5922,6 +6559,13 @@
                 "games_played": 15,
                 "team": "UTA",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 87.34,
+                "rank": 89,
+                "games_played": 16,
+                "team": "UTA",
+                "date": "12_03_2024"
             },
             {
                 "grade": 90.06,
@@ -5989,6 +6633,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 86.54,
+                "rank": 102,
+                "games_played": 19,
+                "team": "GSW",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 87.44,
                 "rank": 101,
                 "games_played": 17,
@@ -6052,6 +6703,13 @@
                 "games_played": 13,
                 "team": "SAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 88.04,
+                "rank": 83,
+                "games_played": 14,
+                "team": "SAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 82.13,
@@ -6119,6 +6777,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 85.62,
+                "rank": 118,
+                "games_played": 19,
+                "team": "BOS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 88.45,
                 "rank": 88,
                 "games_played": 17,
@@ -6182,6 +6847,13 @@
                 "games_played": 19,
                 "team": "PHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 86.47,
+                "rank": 104,
+                "games_played": 19,
+                "team": "PHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 85.25,
@@ -6249,6 +6921,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 85.93,
+                "rank": 113,
+                "games_played": 20,
+                "team": "SAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 88.85,
                 "rank": 87,
                 "games_played": 17,
@@ -6312,6 +6991,13 @@
                 "games_played": 16,
                 "team": "WAS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 86.62,
+                "rank": 97,
+                "games_played": 16,
+                "team": "WAS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 88.23,
@@ -6379,6 +7065,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 86.09,
+                "rank": 110,
+                "games_played": 21,
+                "team": "IND",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 87.31,
                 "rank": 104,
                 "games_played": 18,
@@ -6442,6 +7135,13 @@
                 "games_played": 19,
                 "team": "GSW",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 86.57,
+                "rank": 101,
+                "games_played": 19,
+                "team": "GSW",
+                "date": "12_03_2024"
             },
             {
                 "grade": 88.92,
@@ -6509,6 +7209,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 86.84,
+                "rank": 95,
+                "games_played": 20,
+                "team": "OKC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 88.23,
                 "rank": 92,
                 "games_played": 17,
@@ -6572,6 +7279,13 @@
                 "games_played": 19,
                 "team": "SAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 86.0,
+                "rank": 112,
+                "games_played": 20,
+                "team": "SAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 87.13,
@@ -6639,6 +7353,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 88.96,
+                "rank": 75,
+                "games_played": 5,
+                "team": "OKC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 84.26,
                 "rank": 152,
                 "games_played": 2,
@@ -6688,6 +7409,13 @@
                 "games_played": 6,
                 "team": "CHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 86.33,
+                "rank": 108,
+                "games_played": 6,
+                "team": "CHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 86.92,
@@ -6755,6 +7483,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 85.7,
+                "rank": 116,
+                "games_played": 15,
+                "team": "SAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 87.07,
                 "rank": 107,
                 "games_played": 13,
@@ -6818,6 +7553,13 @@
                 "games_played": 9,
                 "team": "ATL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 86.07,
+                "rank": 111,
+                "games_played": 9,
+                "team": "ATL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 87.49,
@@ -6885,6 +7627,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 85.74,
+                "rank": 115,
+                "games_played": 16,
+                "team": "CHI",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 77.17,
                 "rank": 282,
                 "games_played": 12,
@@ -6948,6 +7697,13 @@
                 "games_played": 20,
                 "team": "ATL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 84.2,
+                "rank": 136,
+                "games_played": 21,
+                "team": "ATL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 85.72,
@@ -7015,6 +7771,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 85.82,
+                "rank": 114,
+                "games_played": 21,
+                "team": "HOU",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 85.04,
                 "rank": 138,
                 "games_played": 18,
@@ -7078,6 +7841,13 @@
                 "games_played": 21,
                 "team": "ATL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 86.73,
+                "rank": 96,
+                "games_played": 22,
+                "team": "ATL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 87.06,
@@ -7145,6 +7915,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 86.45,
+                "rank": 106,
+                "games_played": 20,
+                "team": "ATL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 84.5,
                 "rank": 149,
                 "games_played": 16,
@@ -7208,6 +7985,13 @@
                 "games_played": 7,
                 "team": "WAS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 85.55,
+                "rank": 120,
+                "games_played": 7,
+                "team": "WAS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 71.42,
@@ -7275,6 +8059,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 85.22,
+                "rank": 124,
+                "games_played": 20,
+                "team": "SAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 87.72,
                 "rank": 97,
                 "games_played": 17,
@@ -7338,6 +8129,13 @@
                 "games_played": 15,
                 "team": "BOS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 86.57,
+                "rank": 100,
+                "games_played": 16,
+                "team": "BOS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 88.87,
@@ -7405,6 +8203,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 85.4,
+                "rank": 121,
+                "games_played": 16,
+                "team": "CHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 88.32,
                 "rank": 90,
                 "games_played": 13,
@@ -7468,6 +8273,13 @@
                 "games_played": 21,
                 "team": "DET",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 85.24,
+                "rank": 122,
+                "games_played": 21,
+                "team": "DET",
+                "date": "12_03_2024"
             },
             {
                 "grade": 86.17,
@@ -7535,6 +8347,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 87.95,
+                "rank": 84,
+                "games_played": 9,
+                "team": "ORL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 85.61,
                 "rank": 133,
                 "games_played": 6,
@@ -7598,6 +8417,13 @@
                 "games_played": 21,
                 "team": "LAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 84.64,
+                "rank": 130,
+                "games_played": 22,
+                "team": "LAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 88.45,
@@ -7665,6 +8491,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 84.74,
+                "rank": 128,
+                "games_played": 17,
+                "team": "BRK",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 86.52,
                 "rank": 116,
                 "games_played": 17,
@@ -7728,6 +8561,13 @@
                 "games_played": 19,
                 "team": "PHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 85.05,
+                "rank": 125,
+                "games_played": 19,
+                "team": "PHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 84.96,
@@ -7795,6 +8635,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 85.02,
+                "rank": 126,
+                "games_played": 14,
+                "team": "DET",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 80.21,
                 "rank": 241,
                 "games_played": 11,
@@ -7858,6 +8705,13 @@
                 "games_played": 20,
                 "team": "CHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 84.97,
+                "rank": 127,
+                "games_played": 20,
+                "team": "CHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 86.28,
@@ -7925,6 +8779,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 86.62,
+                "rank": 98,
+                "games_played": 20,
+                "team": "SAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 85.04,
                 "rank": 139,
                 "games_played": 17,
@@ -7988,6 +8849,13 @@
                 "games_played": 19,
                 "team": "IND",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 86.5,
+                "rank": 103,
+                "games_played": 20,
+                "team": "IND",
+                "date": "12_03_2024"
             },
             {
                 "grade": 86.85,
@@ -8055,6 +8923,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 86.46,
+                "rank": 105,
+                "games_played": 15,
+                "team": "NYK",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 84.07,
                 "rank": 157,
                 "games_played": 12,
@@ -8118,6 +8993,13 @@
                 "games_played": 20,
                 "team": "TOR",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 84.62,
+                "rank": 131,
+                "games_played": 21,
+                "team": "TOR",
+                "date": "12_03_2024"
             },
             {
                 "grade": 88.18,
@@ -8185,6 +9067,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 83.67,
+                "rank": 147,
+                "games_played": 19,
+                "team": "POR",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 83.04,
                 "rank": 180,
                 "games_played": 16,
@@ -8248,6 +9137,13 @@
                 "games_played": 18,
                 "team": "PHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 84.32,
+                "rank": 133,
+                "games_played": 18,
+                "team": "PHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 85.02,
@@ -8315,6 +9211,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 82.21,
+                "rank": 174,
+                "games_played": 12,
+                "team": "MIA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 85.77,
                 "rank": 129,
                 "games_played": 7,
@@ -8378,6 +9281,13 @@
                 "games_played": 19,
                 "team": "OKC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 84.05,
+                "rank": 138,
+                "games_played": 20,
+                "team": "OKC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 85.39,
@@ -8445,6 +9355,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 83.91,
+                "rank": 139,
+                "games_played": 16,
+                "team": "CHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 85.68,
                 "rank": 131,
                 "games_played": 16,
@@ -8508,6 +9425,13 @@
                 "games_played": 10,
                 "team": "MEM",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 84.66,
+                "rank": 129,
+                "games_played": 11,
+                "team": "MEM",
+                "date": "12_03_2024"
             },
             {
                 "grade": 76.31,
@@ -8575,6 +9499,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 83.77,
+                "rank": 143,
+                "games_played": 22,
+                "team": "DET",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 81.57,
                 "rank": 212,
                 "games_played": 19,
@@ -8638,6 +9569,13 @@
                 "games_played": 18,
                 "team": "PHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 83.86,
+                "rank": 141,
+                "games_played": 18,
+                "team": "PHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 87.32,
@@ -8705,6 +9643,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 83.79,
+                "rank": 142,
+                "games_played": 11,
+                "team": "CHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 85.77,
                 "rank": 128,
                 "games_played": 11,
@@ -8768,6 +9713,13 @@
                 "games_played": 19,
                 "team": "LAL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 80.37,
+                "rank": 200,
+                "games_played": 21,
+                "team": "LAL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 84.73,
@@ -8835,6 +9787,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 83.89,
+                "rank": 140,
+                "games_played": 15,
+                "team": "DEN",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 83.35,
                 "rank": 175,
                 "games_played": 13,
@@ -8898,6 +9857,13 @@
                 "games_played": 15,
                 "team": "BRK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 83.6,
+                "rank": 149,
+                "games_played": 15,
+                "team": "BRK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 86.11,
@@ -8965,6 +9931,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 82.71,
+                "rank": 163,
+                "games_played": 21,
+                "team": "HOU",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 82.27,
                 "rank": 196,
                 "games_played": 18,
@@ -9028,6 +10001,13 @@
                 "games_played": 15,
                 "team": "PHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 83.73,
+                "rank": 146,
+                "games_played": 15,
+                "team": "PHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 81.22,
@@ -9095,6 +10075,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 84.31,
+                "rank": 135,
+                "games_played": 18,
+                "team": "BOS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 86.06,
                 "rank": 122,
                 "games_played": 16,
@@ -9158,6 +10145,13 @@
                 "games_played": 7,
                 "team": "SAS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 83.42,
+                "rank": 151,
+                "games_played": 7,
+                "team": "SAS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 85.95,
@@ -9225,6 +10219,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 85.62,
+                "rank": 119,
+                "games_played": 16,
+                "team": "NYK",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 84.78,
                 "rank": 144,
                 "games_played": 13,
@@ -9288,6 +10289,13 @@
                 "games_played": 17,
                 "team": "TOR",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 86.24,
+                "rank": 109,
+                "games_played": 18,
+                "team": "TOR",
+                "date": "12_03_2024"
             },
             {
                 "grade": 83.54,
@@ -9355,6 +10363,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 84.31,
+                "rank": 134,
+                "games_played": 21,
+                "team": "CHI",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 86.8,
                 "rank": 112,
                 "games_played": 18,
@@ -9418,6 +10433,13 @@
                 "games_played": 10,
                 "team": "PHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 83.29,
+                "rank": 153,
+                "games_played": 10,
+                "team": "PHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 86.6,
@@ -9485,6 +10507,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 84.38,
+                "rank": 132,
+                "games_played": 22,
+                "team": "CHI",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 83.25,
                 "rank": 176,
                 "games_played": 18,
@@ -9548,6 +10577,13 @@
                 "games_played": 12,
                 "team": "MEM",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 83.77,
+                "rank": 144,
+                "games_played": 13,
+                "team": "MEM",
+                "date": "12_03_2024"
             },
             {
                 "grade": 84.38,
@@ -9615,6 +10651,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 81.86,
+                "rank": 177,
+                "games_played": 10,
+                "team": "OKC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 86.68,
                 "rank": 113,
                 "games_played": 7,
@@ -9678,6 +10721,13 @@
                 "games_played": 5,
                 "team": "SAS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 85.22,
+                "rank": 123,
+                "games_played": 6,
+                "team": "SAS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 83.59,
@@ -9745,6 +10795,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 83.61,
+                "rank": 148,
+                "games_played": 20,
+                "team": "IND",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 86.33,
                 "rank": 118,
                 "games_played": 17,
@@ -9810,6 +10867,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 83.27,
+                "rank": 155,
+                "games_played": 19,
+                "team": "MIL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 83.95,
                 "rank": 161,
                 "games_played": 17,
@@ -9873,6 +10937,13 @@
                 "games_played": 15,
                 "team": "BRK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 82.65,
+                "rank": 165,
+                "games_played": 16,
+                "team": "BRK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 83.41,
@@ -9941,6 +11012,13 @@
             },
             {
                 "grade": 83.14,
+                "rank": 158,
+                "games_played": 14,
+                "team": "POR",
+                "date": "12_03_2024"
+            },
+            {
+                "grade": 83.14,
                 "rank": 177,
                 "games_played": 11,
                 "team": "POR",
@@ -10003,6 +11081,13 @@
                 "games_played": 21,
                 "team": "LAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 83.29,
+                "rank": 154,
+                "games_played": 22,
+                "team": "LAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 86.38,
@@ -10070,6 +11155,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 83.55,
+                "rank": 150,
+                "games_played": 11,
+                "team": "ATL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 80.37,
                 "rank": 238,
                 "games_played": 7,
@@ -10133,6 +11225,13 @@
                 "games_played": 18,
                 "team": "MIL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 83.16,
+                "rank": 156,
+                "games_played": 18,
+                "team": "MIL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 84.98,
@@ -10200,6 +11299,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 83.11,
+                "rank": 159,
+                "games_played": 10,
+                "team": "DET",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 87.16,
                 "rank": 105,
                 "games_played": 8,
@@ -10263,6 +11369,13 @@
                 "games_played": 16,
                 "team": "NOP",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 82.34,
+                "rank": 170,
+                "games_played": 16,
+                "team": "NOP",
+                "date": "12_03_2024"
             },
             {
                 "grade": 84.69,
@@ -10330,6 +11443,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 83.75,
+                "rank": 145,
+                "games_played": 19,
+                "team": "CLE",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 86.6,
                 "rank": 115,
                 "games_played": 16,
@@ -10393,6 +11513,13 @@
                 "games_played": 10,
                 "team": "DET",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 82.84,
+                "rank": 162,
+                "games_played": 10,
+                "team": "DET",
+                "date": "12_03_2024"
             },
             {
                 "grade": 83.12,
@@ -10460,6 +11587,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 82.46,
+                "rank": 169,
+                "games_played": 17,
+                "team": "POR",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 84.8,
                 "rank": 143,
                 "games_played": 17,
@@ -10523,6 +11657,13 @@
                 "games_played": 19,
                 "team": "LAL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 81.96,
+                "rank": 176,
+                "games_played": 19,
+                "team": "LAL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 85.77,
@@ -10590,6 +11731,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 82.58,
+                "rank": 167,
+                "games_played": 21,
+                "team": "DET",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 85.04,
                 "rank": 137,
                 "games_played": 19,
@@ -10653,6 +11801,13 @@
                 "games_played": 20,
                 "team": "POR",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 83.15,
+                "rank": 157,
+                "games_played": 21,
+                "team": "POR",
+                "date": "12_03_2024"
             },
             {
                 "grade": 81.71,
@@ -10720,6 +11875,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 82.64,
+                "rank": 166,
+                "games_played": 22,
+                "team": "LAC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 84.53,
                 "rank": 148,
                 "games_played": 19,
@@ -10783,6 +11945,13 @@
                 "games_played": 20,
                 "team": "ORL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 84.2,
+                "rank": 137,
+                "games_played": 21,
+                "team": "ORL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 77.97,
@@ -10850,6 +12019,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 83.3,
+                "rank": 152,
+                "games_played": 20,
+                "team": "UTA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 82.54,
                 "rank": 189,
                 "games_played": 16,
@@ -10913,6 +12089,13 @@
                 "games_played": 19,
                 "team": "MEM",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 83.1,
+                "rank": 160,
+                "games_played": 20,
+                "team": "MEM",
+                "date": "12_03_2024"
             },
             {
                 "grade": 82.67,
@@ -10980,6 +12163,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 82.67,
+                "rank": 164,
+                "games_played": 17,
+                "team": "MIA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 85.78,
                 "rank": 126,
                 "games_played": 12,
@@ -11043,6 +12233,13 @@
                 "games_played": 14,
                 "team": "PHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 82.07,
+                "rank": 175,
+                "games_played": 14,
+                "team": "PHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 82.22,
@@ -11110,6 +12307,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 82.22,
+                "rank": 173,
+                "games_played": 19,
+                "team": "GSW",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 85.2,
                 "rank": 136,
                 "games_played": 17,
@@ -11173,6 +12377,13 @@
                 "games_played": 7,
                 "team": "NOP",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 80.52,
+                "rank": 196,
+                "games_played": 9,
+                "team": "NOP",
+                "date": "12_03_2024"
             },
             {
                 "grade": 83.69,
@@ -11240,6 +12451,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 81.42,
+                "rank": 183,
+                "games_played": 19,
+                "team": "ORL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 84.56,
                 "rank": 147,
                 "games_played": 16,
@@ -11303,6 +12521,13 @@
                 "games_played": 18,
                 "team": "DAL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 85.64,
+                "rank": 117,
+                "games_played": 19,
+                "team": "DAL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 81.12,
@@ -11370,6 +12595,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 81.73,
+                "rank": 180,
+                "games_played": 11,
+                "team": "LAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 83.94,
                 "rank": 162,
                 "games_played": 10,
@@ -11433,6 +12665,13 @@
                 "games_played": 19,
                 "team": "OKC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 81.82,
+                "rank": 178,
+                "games_played": 20,
+                "team": "OKC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 81.51,
@@ -11500,6 +12739,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 81.64,
+                "rank": 181,
+                "games_played": 17,
+                "team": "GSW",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 84.12,
                 "rank": 156,
                 "games_played": 15,
@@ -11563,6 +12809,13 @@
                 "games_played": 17,
                 "team": "DEN",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 81.14,
+                "rank": 187,
+                "games_played": 18,
+                "team": "DEN",
+                "date": "12_03_2024"
             },
             {
                 "grade": 84.16,
@@ -11630,6 +12883,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 82.34,
+                "rank": 171,
+                "games_played": 16,
+                "team": "MIN",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 81.66,
                 "rank": 209,
                 "games_played": 13,
@@ -11693,6 +12953,13 @@
                 "games_played": 13,
                 "team": "ATL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 81.34,
+                "rank": 185,
+                "games_played": 13,
+                "team": "ATL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 83.47,
@@ -11760,6 +13027,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 80.4,
+                "rank": 199,
+                "games_played": 13,
+                "team": "IND",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 82.4,
                 "rank": 192,
                 "games_played": 10,
@@ -11823,6 +13097,13 @@
                 "games_played": 19,
                 "team": "ATL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 81.75,
+                "rank": 179,
+                "games_played": 20,
+                "team": "ATL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 83.42,
@@ -11890,6 +13171,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 79.65,
+                "rank": 215,
+                "games_played": 19,
+                "team": "IND",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 84.14,
                 "rank": 155,
                 "games_played": 16,
@@ -11953,6 +13241,13 @@
                 "games_played": 18,
                 "team": "ATL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 80.66,
+                "rank": 193,
+                "games_played": 18,
+                "team": "ATL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 84.06,
@@ -12020,6 +13315,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 80.58,
+                "rank": 194,
+                "games_played": 5,
+                "team": "IND",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 82.79,
                 "rank": 182,
                 "games_played": 5,
@@ -12083,6 +13385,13 @@
                 "games_played": 20,
                 "team": "TOR",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 81.46,
+                "rank": 182,
+                "games_played": 21,
+                "team": "TOR",
+                "date": "12_03_2024"
             },
             {
                 "grade": 82.14,
@@ -12150,6 +13459,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 80.1,
+                "rank": 208,
+                "games_played": 20,
+                "team": "TOR",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 76.92,
                 "rank": 287,
                 "games_played": 17,
@@ -12213,6 +13529,13 @@
                 "games_played": 3,
                 "team": "HOU",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 80.84,
+                "rank": 189,
+                "games_played": 3,
+                "team": "HOU",
+                "date": "12_03_2024"
             },
             {
                 "grade": 82.35,
@@ -12280,6 +13603,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 80.7,
+                "rank": 192,
+                "games_played": 19,
+                "team": "CHI",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 83.48,
                 "rank": 171,
                 "games_played": 16,
@@ -12343,6 +13673,13 @@
                 "games_played": 10,
                 "team": "CHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 80.23,
+                "rank": 203,
+                "games_played": 11,
+                "team": "CHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 82.76,
@@ -12410,6 +13747,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 80.78,
+                "rank": 190,
+                "games_played": 21,
+                "team": "MEM",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 81.06,
                 "rank": 227,
                 "games_played": 18,
@@ -12473,6 +13817,13 @@
                 "games_played": 15,
                 "team": "DAL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 80.72,
+                "rank": 191,
+                "games_played": 16,
+                "team": "DAL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 82.64,
@@ -12540,6 +13891,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 79.11,
+                "rank": 225,
+                "games_played": 18,
+                "team": "OKC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 83.54,
                 "rank": 168,
                 "games_played": 15,
@@ -12603,6 +13961,13 @@
                 "games_played": 13,
                 "team": "PHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 80.44,
+                "rank": 198,
+                "games_played": 13,
+                "team": "PHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 81.12,
@@ -12670,6 +14035,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 80.1,
+                "rank": 207,
+                "games_played": 14,
+                "team": "MIA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 82.68,
                 "rank": 184,
                 "games_played": 14,
@@ -12733,6 +14105,13 @@
                 "games_played": 16,
                 "team": "BOS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 82.57,
+                "rank": 168,
+                "games_played": 17,
+                "team": "BOS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 84.04,
@@ -12800,6 +14179,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 76.98,
+                "rank": 261,
+                "games_played": 12,
+                "team": "SAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 83.51,
                 "rank": 170,
                 "games_played": 9,
@@ -12863,6 +14249,13 @@
                 "games_played": 11,
                 "team": "NOP",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 80.25,
+                "rank": 202,
+                "games_played": 11,
+                "team": "NOP",
+                "date": "12_03_2024"
             },
             {
                 "grade": 82.03,
@@ -12930,6 +14323,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 80.3,
+                "rank": 201,
+                "games_played": 17,
+                "team": "TOR",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 81.02,
                 "rank": 229,
                 "games_played": 17,
@@ -12993,6 +14393,13 @@
                 "games_played": 7,
                 "team": "BRK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 82.99,
+                "rank": 161,
+                "games_played": 9,
+                "team": "BRK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 67.89,
@@ -13060,6 +14467,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 77.81,
+                "rank": 252,
+                "games_played": 8,
+                "team": "MIA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 82.33,
                 "rank": 195,
                 "games_played": 7,
@@ -13123,6 +14537,13 @@
                 "games_played": 9,
                 "team": "MIL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 80.09,
+                "rank": 209,
+                "games_played": 9,
+                "team": "MIL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 81.92,
@@ -13190,6 +14611,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 80.52,
+                "rank": 197,
+                "games_played": 19,
+                "team": "POR",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 82.36,
                 "rank": 193,
                 "games_played": 18,
@@ -13253,6 +14681,13 @@
                 "games_played": 19,
                 "team": "NOP",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 80.92,
+                "rank": 188,
+                "games_played": 21,
+                "team": "NOP",
+                "date": "12_03_2024"
             },
             {
                 "grade": 81.63,
@@ -13320,6 +14755,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 82.28,
+                "rank": 172,
+                "games_played": 16,
+                "team": "LAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 81.16,
                 "rank": 223,
                 "games_played": 11,
@@ -13383,6 +14825,13 @@
                 "games_played": 8,
                 "team": "MIA",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 78.9,
+                "rank": 230,
+                "games_played": 9,
+                "team": "MIA",
+                "date": "12_03_2024"
             },
             {
                 "grade": 83.53,
@@ -13450,6 +14899,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 79.65,
+                "rank": 216,
+                "games_played": 11,
+                "team": "HOU",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 81.24,
                 "rank": 219,
                 "games_played": 10,
@@ -13513,6 +14969,13 @@
                 "games_played": 13,
                 "team": "CLE",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 79.41,
+                "rank": 219,
+                "games_played": 13,
+                "team": "CLE",
+                "date": "12_03_2024"
             },
             {
                 "grade": 82.41,
@@ -13580,6 +15043,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 79.49,
+                "rank": 218,
+                "games_played": 6,
+                "team": "IND",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 81.82,
                 "rank": 205,
                 "games_played": 6,
@@ -13643,6 +15113,13 @@
                 "games_played": 17,
                 "team": "DEN",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 80.53,
+                "rank": 195,
+                "games_played": 18,
+                "team": "DEN",
+                "date": "12_03_2024"
             },
             {
                 "grade": 81.52,
@@ -13710,6 +15187,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 79.38,
+                "rank": 221,
+                "games_played": 9,
+                "team": "MIL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 81.69,
                 "rank": 208,
                 "games_played": 9,
@@ -13773,6 +15257,13 @@
                 "games_played": 19,
                 "team": "MIN",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 79.38,
+                "rank": 220,
+                "games_played": 20,
+                "team": "MIN",
+                "date": "12_03_2024"
             },
             {
                 "grade": 82.52,
@@ -13840,6 +15331,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 80.04,
+                "rank": 210,
+                "games_played": 14,
+                "team": "MEM",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 84.02,
                 "rank": 160,
                 "games_played": 11,
@@ -13903,6 +15401,13 @@
                 "games_played": 19,
                 "team": "OKC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 75.1,
+                "rank": 288,
+                "games_played": 20,
+                "team": "OKC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 84.35,
@@ -13970,6 +15475,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 79.32,
+                "rank": 222,
+                "games_played": 15,
+                "team": "CLE",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 83.82,
                 "rank": 163,
                 "games_played": 13,
@@ -14033,6 +15545,13 @@
                 "games_played": 4,
                 "team": "PHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 79.1,
+                "rank": 226,
+                "games_played": 4,
+                "team": "PHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 81.36,
@@ -14100,6 +15619,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 78.76,
+                "rank": 234,
+                "games_played": 17,
+                "team": "DAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 81.22,
                 "rank": 220,
                 "games_played": 17,
@@ -14163,6 +15689,13 @@
                 "games_played": 6,
                 "team": "NOP",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 78.96,
+                "rank": 228,
+                "games_played": 6,
+                "team": "NOP",
+                "date": "12_03_2024"
             },
             {
                 "grade": 81.38,
@@ -14230,6 +15763,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 78.95,
+                "rank": 229,
+                "games_played": 17,
+                "team": "WAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 85.66,
                 "rank": 132,
                 "games_played": 14,
@@ -14293,6 +15833,13 @@
                 "games_played": 6,
                 "team": "CHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 79.09,
+                "rank": 227,
+                "games_played": 6,
+                "team": "CHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 76.9,
@@ -14360,6 +15907,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 80.21,
+                "rank": 204,
+                "games_played": 6,
+                "team": "CHI",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 80.85,
                 "rank": 232,
                 "games_played": 3,
@@ -14423,6 +15977,13 @@
                 "games_played": 18,
                 "team": "GSW",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 78.77,
+                "rank": 233,
+                "games_played": 18,
+                "team": "GSW",
+                "date": "12_03_2024"
             },
             {
                 "grade": 80.68,
@@ -14490,6 +16051,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 78.69,
+                "rank": 235,
+                "games_played": 19,
+                "team": "SAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 83.71,
                 "rank": 164,
                 "games_played": 16,
@@ -14553,6 +16121,13 @@
                 "games_played": 20,
                 "team": "CHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 78.61,
+                "rank": 237,
+                "games_played": 20,
+                "team": "CHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 81.41,
@@ -14620,6 +16195,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 78.78,
+                "rank": 232,
+                "games_played": 6,
+                "team": "CHI",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 71.99,
                 "rank": 350,
                 "games_played": 3,
@@ -14683,6 +16265,13 @@
                 "games_played": 13,
                 "team": "CHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 77.88,
+                "rank": 250,
+                "games_played": 13,
+                "team": "CHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 79.67,
@@ -14750,6 +16339,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 78.56,
+                "rank": 238,
+                "games_played": 14,
+                "team": "UTA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 81.1,
                 "rank": 226,
                 "games_played": 14,
@@ -14813,6 +16409,13 @@
                 "games_played": 20,
                 "team": "HOU",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 80.1,
+                "rank": 206,
+                "games_played": 21,
+                "team": "HOU",
+                "date": "12_03_2024"
             },
             {
                 "grade": 82.89,
@@ -14880,6 +16483,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 78.5,
+                "rank": 239,
+                "games_played": 6,
+                "team": "GSW",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 80.32,
                 "rank": 239,
                 "games_played": 6,
@@ -14943,6 +16553,13 @@
                 "games_played": 17,
                 "team": "NOP",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 79.71,
+                "rank": 213,
+                "games_played": 19,
+                "team": "NOP",
+                "date": "12_03_2024"
             },
             {
                 "grade": 80.77,
@@ -15010,6 +16627,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 78.46,
+                "rank": 240,
+                "games_played": 9,
+                "team": "PHI",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 81.77,
                 "rank": 206,
                 "games_played": 8,
@@ -15073,6 +16697,13 @@
                 "games_played": 13,
                 "team": "LAL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 78.18,
+                "rank": 245,
+                "games_played": 14,
+                "team": "LAL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 84.25,
@@ -15140,6 +16771,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 76.44,
+                "rank": 266,
+                "games_played": 13,
+                "team": "NYK",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 79.77,
                 "rank": 247,
                 "games_played": 12,
@@ -15203,6 +16841,13 @@
                 "games_played": 14,
                 "team": "PHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 78.23,
+                "rank": 242,
+                "games_played": 14,
+                "team": "PHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 79.6,
@@ -15270,6 +16915,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 78.23,
+                "rank": 241,
+                "games_played": 17,
+                "team": "PHI",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 78.92,
                 "rank": 260,
                 "games_played": 15,
@@ -15333,6 +16985,13 @@
                 "games_played": 19,
                 "team": "BRK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 75.81,
+                "rank": 275,
+                "games_played": 21,
+                "team": "BRK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 80.16,
@@ -15400,6 +17059,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 79.2,
+                "rank": 223,
+                "games_played": 22,
+                "team": "CHI",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 78.83,
                 "rank": 261,
                 "games_played": 18,
@@ -15463,6 +17129,13 @@
                 "games_played": 13,
                 "team": "LAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 78.23,
+                "rank": 243,
+                "games_played": 13,
+                "team": "LAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 79.41,
@@ -15530,6 +17203,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 81.16,
+                "rank": 186,
+                "games_played": 19,
+                "team": "DAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 74.99,
                 "rank": 313,
                 "games_played": 16,
@@ -15593,6 +17273,13 @@
                 "games_played": 13,
                 "team": "WAS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 78.15,
+                "rank": 247,
+                "games_played": 13,
+                "team": "WAS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 80.89,
@@ -15660,6 +17347,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 80.14,
+                "rank": 205,
+                "games_played": 11,
+                "team": "MEM",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 81.03,
                 "rank": 228,
                 "games_played": 9,
@@ -15723,6 +17417,13 @@
                 "games_played": 19,
                 "team": "NYK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 81.36,
+                "rank": 184,
+                "games_played": 20,
+                "team": "NYK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 82.55,
@@ -15790,6 +17491,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 77.43,
+                "rank": 258,
+                "games_played": 21,
+                "team": "SAC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 82.02,
                 "rank": 203,
                 "games_played": 18,
@@ -15853,6 +17561,13 @@
                 "games_played": 17,
                 "team": "GSW",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 77.66,
+                "rank": 256,
+                "games_played": 17,
+                "team": "GSW",
+                "date": "12_03_2024"
             },
             {
                 "grade": 82.19,
@@ -15920,6 +17635,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 77.83,
+                "rank": 251,
+                "games_played": 5,
+                "team": "DAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 65.07,
                 "rank": 425,
                 "games_played": 3,
@@ -15983,6 +17705,13 @@
                 "games_played": 12,
                 "team": "POR",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 77.68,
+                "rank": 254,
+                "games_played": 13,
+                "team": "POR",
+                "date": "12_03_2024"
             },
             {
                 "grade": 83.06,
@@ -16050,6 +17779,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 79.88,
+                "rank": 211,
+                "games_played": 20,
+                "team": "LAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 75.96,
                 "rank": 302,
                 "games_played": 16,
@@ -16113,6 +17849,13 @@
                 "games_played": 21,
                 "team": "LAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 78.14,
+                "rank": 249,
+                "games_played": 22,
+                "team": "LAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 77.22,
@@ -16180,6 +17923,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 76.69,
+                "rank": 264,
+                "games_played": 9,
+                "team": "NOP",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 81.4,
                 "rank": 216,
                 "games_played": 6,
@@ -16243,6 +17993,13 @@
                 "games_played": 21,
                 "team": "ORL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 77.66,
+                "rank": 255,
+                "games_played": 22,
+                "team": "ORL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 79.34,
@@ -16310,6 +18067,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 79.56,
+                "rank": 217,
+                "games_played": 21,
+                "team": "POR",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 78.69,
                 "rank": 266,
                 "games_played": 18,
@@ -16373,6 +18137,13 @@
                 "games_played": 21,
                 "team": "LAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 79.13,
+                "rank": 224,
+                "games_played": 22,
+                "team": "LAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 79.1,
@@ -16440,6 +18211,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 75.49,
+                "rank": 285,
+                "games_played": 12,
+                "team": "LAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 79.81,
                 "rank": 246,
                 "games_played": 8,
@@ -16503,6 +18281,13 @@
                 "games_played": 20,
                 "team": "NOP",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 75.68,
+                "rank": 281,
+                "games_played": 22,
+                "team": "NOP",
+                "date": "12_03_2024"
             },
             {
                 "grade": 79.42,
@@ -16570,6 +18355,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 76.96,
+                "rank": 262,
+                "games_played": 18,
+                "team": "PHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 79.95,
                 "rank": 245,
                 "games_played": 15,
@@ -16633,6 +18425,13 @@
                 "games_played": 16,
                 "team": "CLE",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 76.35,
+                "rank": 268,
+                "games_played": 17,
+                "team": "CLE",
+                "date": "12_03_2024"
             },
             {
                 "grade": 80.17,
@@ -16700,6 +18499,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 77.17,
+                "rank": 259,
+                "games_played": 18,
+                "team": "MIL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 79.95,
                 "rank": 244,
                 "games_played": 16,
@@ -16763,6 +18569,13 @@
                 "games_played": 20,
                 "team": "NOP",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 75.98,
+                "rank": 271,
+                "games_played": 22,
+                "team": "NOP",
+                "date": "12_03_2024"
             },
             {
                 "grade": 79.42,
@@ -16830,6 +18643,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 77.0,
+                "rank": 260,
+                "games_played": 17,
+                "team": "GSW",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 80.85,
                 "rank": 231,
                 "games_played": 15,
@@ -16893,6 +18713,13 @@
                 "games_played": 16,
                 "team": "BRK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 74.46,
+                "rank": 297,
+                "games_played": 18,
+                "team": "BRK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 76.5,
@@ -16960,6 +18787,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 79.74,
+                "rank": 212,
+                "games_played": 6,
+                "team": "MIA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 78.74,
                 "rank": 264,
                 "games_played": 5,
@@ -17023,6 +18857,13 @@
                 "games_played": 19,
                 "team": "NYK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 78.15,
+                "rank": 248,
+                "games_played": 20,
+                "team": "NYK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 78.78,
@@ -17090,6 +18931,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 76.67,
+                "rank": 265,
+                "games_played": 5,
+                "team": "PHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 79.01,
                 "rank": 257,
                 "games_played": 4,
@@ -17153,6 +19001,13 @@
                 "games_played": 17,
                 "team": "DEN",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 78.2,
+                "rank": 244,
+                "games_played": 18,
+                "team": "DEN",
+                "date": "12_03_2024"
             },
             {
                 "grade": 78.15,
@@ -17220,6 +19075,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 74.04,
+                "rank": 305,
+                "games_played": 5,
+                "team": "MIN",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 78.73,
                 "rank": 265,
                 "games_played": 4,
@@ -17283,6 +19145,13 @@
                 "games_played": 16,
                 "team": "MIA",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 72.39,
+                "rank": 321,
+                "games_played": 18,
+                "team": "MIA",
+                "date": "12_03_2024"
             },
             {
                 "grade": 76.21,
@@ -17350,6 +19219,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 75.76,
+                "rank": 279,
+                "games_played": 17,
+                "team": "MIA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 76.98,
                 "rank": 286,
                 "games_played": 12,
@@ -17413,6 +19289,13 @@
                 "games_played": 13,
                 "team": "OKC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 76.38,
+                "rank": 267,
+                "games_played": 13,
+                "team": "OKC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 79.0,
@@ -17480,6 +19363,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 75.22,
+                "rank": 287,
+                "games_played": 18,
+                "team": "ORL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 77.1,
                 "rank": 285,
                 "games_played": 15,
@@ -17543,6 +19433,13 @@
                 "games_played": 15,
                 "team": "SAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 76.06,
+                "rank": 270,
+                "games_played": 15,
+                "team": "SAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 77.52,
@@ -17610,6 +19507,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 75.8,
+                "rank": 276,
+                "games_played": 16,
+                "team": "SAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 78.35,
                 "rank": 270,
                 "games_played": 15,
@@ -17673,6 +19577,13 @@
                 "games_played": 13,
                 "team": "WAS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 76.13,
+                "rank": 269,
+                "games_played": 13,
+                "team": "WAS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 82.04,
@@ -17740,6 +19651,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 75.78,
+                "rank": 277,
+                "games_played": 14,
+                "team": "UTA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 77.29,
                 "rank": 279,
                 "games_played": 10,
@@ -17803,6 +19721,13 @@
                 "games_played": 14,
                 "team": "HOU",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 75.91,
+                "rank": 272,
+                "games_played": 14,
+                "team": "HOU",
+                "date": "12_03_2024"
             },
             {
                 "grade": 80.32,
@@ -17870,6 +19795,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 78.16,
+                "rank": 246,
+                "games_played": 14,
+                "team": "MIA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 80.67,
                 "rank": 235,
                 "games_played": 9,
@@ -17933,6 +19865,13 @@
                 "games_played": 19,
                 "team": "GSW",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 75.82,
+                "rank": 274,
+                "games_played": 19,
+                "team": "GSW",
+                "date": "12_03_2024"
             },
             {
                 "grade": 81.64,
@@ -18000,6 +19939,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 74.3,
+                "rank": 300,
+                "games_played": 7,
+                "team": "NOP",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 81.19,
                 "rank": 222,
                 "games_played": 3,
@@ -18063,6 +20009,13 @@
                 "games_played": 18,
                 "team": "CHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 75.7,
+                "rank": 280,
+                "games_played": 18,
+                "team": "CHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 75.29,
@@ -18130,6 +20083,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 72.93,
+                "rank": 317,
+                "games_played": 20,
+                "team": "LAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 74.13,
                 "rank": 322,
                 "games_played": 15,
@@ -18193,6 +20153,13 @@
                 "games_played": 14,
                 "team": "TOR",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 75.55,
+                "rank": 284,
+                "games_played": 14,
+                "team": "TOR",
+                "date": "12_03_2024"
             },
             {
                 "grade": 78.49,
@@ -18260,6 +20227,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 75.57,
+                "rank": 283,
+                "games_played": 18,
+                "team": "PHI",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 77.13,
                 "rank": 283,
                 "games_played": 16,
@@ -18323,6 +20297,13 @@
                 "games_played": 4,
                 "team": "MIN",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 78.68,
+                "rank": 236,
+                "games_played": 5,
+                "team": "MIN",
+                "date": "12_03_2024"
             },
             {
                 "grade": 77.51,
@@ -18390,6 +20371,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 75.59,
+                "rank": 282,
+                "games_played": 3,
+                "team": "PHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 77.42,
                 "rank": 278,
                 "games_played": 3,
@@ -18453,6 +20441,13 @@
                 "games_played": 17,
                 "team": "POR",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 78.88,
+                "rank": 231,
+                "games_played": 18,
+                "team": "POR",
+                "date": "12_03_2024"
             },
             {
                 "grade": 73.81,
@@ -18520,6 +20515,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 75.28,
+                "rank": 286,
+                "games_played": 7,
+                "team": "HOU",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 77.54,
                 "rank": 275,
                 "games_played": 7,
@@ -18583,6 +20585,13 @@
                 "games_played": 16,
                 "team": "UTA",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 74.56,
+                "rank": 295,
+                "games_played": 17,
+                "team": "UTA",
+                "date": "12_03_2024"
             },
             {
                 "grade": 79.25,
@@ -18650,6 +20659,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 77.61,
+                "rank": 257,
+                "games_played": 8,
+                "team": "LAC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 82.58,
                 "rank": 187,
                 "games_played": 5,
@@ -18713,6 +20729,13 @@
                 "games_played": 16,
                 "team": "PHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 75.02,
+                "rank": 289,
+                "games_played": 16,
+                "team": "PHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 75.51,
@@ -18780,6 +20803,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 74.71,
+                "rank": 292,
+                "games_played": 18,
+                "team": "SAC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 79.13,
                 "rank": 255,
                 "games_played": 16,
@@ -18843,6 +20873,13 @@
                 "games_played": 20,
                 "team": "BRK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 73.1,
+                "rank": 313,
+                "games_played": 21,
+                "team": "BRK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 78.66,
@@ -18910,6 +20947,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 77.72,
+                "rank": 253,
+                "games_played": 20,
+                "team": "MIN",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 78.81,
                 "rank": 262,
                 "games_played": 16,
@@ -18973,6 +21017,13 @@
                 "games_played": 20,
                 "team": "IND",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 76.79,
+                "rank": 263,
+                "games_played": 21,
+                "team": "IND",
+                "date": "12_03_2024"
             },
             {
                 "grade": 75.27,
@@ -19040,6 +21091,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 75.77,
+                "rank": 278,
+                "games_played": 15,
+                "team": "MIA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 76.19,
                 "rank": 299,
                 "games_played": 10,
@@ -19103,6 +21161,13 @@
                 "games_played": 9,
                 "team": "PHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 74.53,
+                "rank": 296,
+                "games_played": 9,
+                "team": "PHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 75.68,
@@ -19170,6 +21235,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 74.77,
+                "rank": 291,
+                "games_played": 8,
+                "team": "HOU",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 77.19,
                 "rank": 281,
                 "games_played": 8,
@@ -19233,6 +21305,13 @@
                 "games_played": 3,
                 "team": "TOR",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 74.63,
+                "rank": 294,
+                "games_played": 3,
+                "team": "TOR",
+                "date": "12_03_2024"
             },
             {
                 "grade": 76.68,
@@ -19300,6 +21379,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 74.44,
+                "rank": 298,
+                "games_played": 18,
+                "team": "GSW",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 74.9,
                 "rank": 315,
                 "games_played": 16,
@@ -19363,6 +21449,13 @@
                 "games_played": 19,
                 "team": "DET",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 74.21,
+                "rank": 302,
+                "games_played": 19,
+                "team": "DET",
+                "date": "12_03_2024"
             },
             {
                 "grade": 78.96,
@@ -19430,6 +21523,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 74.44,
+                "rank": 299,
+                "games_played": 12,
+                "team": "PHI",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 77.6,
                 "rank": 274,
                 "games_played": 11,
@@ -19493,6 +21593,13 @@
                 "games_played": 20,
                 "team": "ORL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 73.66,
+                "rank": 309,
+                "games_played": 21,
+                "team": "ORL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 76.41,
@@ -19560,6 +21667,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 74.29,
+                "rank": 301,
+                "games_played": 15,
+                "team": "PHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 73.16,
                 "rank": 337,
                 "games_played": 12,
@@ -19623,6 +21737,13 @@
                 "games_played": 16,
                 "team": "PHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 74.16,
+                "rank": 303,
+                "games_played": 16,
+                "team": "PHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 76.42,
@@ -19690,6 +21811,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 72.34,
+                "rank": 324,
+                "games_played": 20,
+                "team": "SAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 75.48,
                 "rank": 308,
                 "games_played": 17,
@@ -19753,6 +21881,13 @@
                 "games_played": 13,
                 "team": "UTA",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 74.11,
+                "rank": 304,
+                "games_played": 13,
+                "team": "UTA",
+                "date": "12_03_2024"
             },
             {
                 "grade": 76.56,
@@ -19820,6 +21955,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 73.79,
+                "rank": 306,
+                "games_played": 13,
+                "team": "ORL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 74.33,
                 "rank": 318,
                 "games_played": 11,
@@ -19883,6 +22025,13 @@
                 "games_played": 7,
                 "team": "LAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 73.71,
+                "rank": 308,
+                "games_played": 7,
+                "team": "LAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 69.5,
@@ -19950,6 +22099,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 73.21,
+                "rank": 312,
+                "games_played": 19,
+                "team": "CHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 73.76,
                 "rank": 327,
                 "games_played": 16,
@@ -20013,6 +22169,13 @@
                 "games_played": 15,
                 "team": "CHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 73.42,
+                "rank": 311,
+                "games_played": 15,
+                "team": "CHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 75.62,
@@ -20080,6 +22243,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 73.03,
+                "rank": 316,
+                "games_played": 4,
+                "team": "CHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 64.93,
                 "rank": 426,
                 "games_played": 2,
@@ -20122,6 +22292,13 @@
                 "games_played": 21,
                 "team": "ATL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 73.5,
+                "rank": 310,
+                "games_played": 22,
+                "team": "ATL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 72.56,
@@ -20189,6 +22366,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 74.96,
+                "rank": 290,
+                "games_played": 21,
+                "team": "CLE",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 78.51,
                 "rank": 268,
                 "games_played": 18,
@@ -20252,6 +22436,13 @@
                 "games_played": 7,
                 "team": "BRK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 73.78,
+                "rank": 307,
+                "games_played": 9,
+                "team": "BRK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 74.81,
@@ -20319,6 +22510,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 72.07,
+                "rank": 327,
+                "games_played": 7,
+                "team": "IND",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 80.4,
                 "rank": 237,
                 "games_played": 4,
@@ -20382,6 +22580,13 @@
                 "games_played": 17,
                 "team": "ORL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 72.36,
+                "rank": 322,
+                "games_played": 17,
+                "team": "ORL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 75.49,
@@ -20449,6 +22654,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 72.68,
+                "rank": 318,
+                "games_played": 3,
+                "team": "SAC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 77.13,
                 "rank": 284,
                 "games_played": 2,
@@ -20505,6 +22717,13 @@
                 "games_played": 18,
                 "team": "SAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 72.46,
+                "rank": 320,
+                "games_played": 18,
+                "team": "SAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 74.99,
@@ -20572,6 +22791,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 72.51,
+                "rank": 319,
+                "games_played": 22,
+                "team": "CHI",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 76.66,
                 "rank": 292,
                 "games_played": 18,
@@ -20635,6 +22861,13 @@
                 "games_played": 7,
                 "team": "ATL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 71.24,
+                "rank": 337,
+                "games_played": 8,
+                "team": "ATL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 71.81,
@@ -20702,6 +22935,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 71.77,
+                "rank": 332,
+                "games_played": 15,
+                "team": "BRK",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 75.16,
                 "rank": 312,
                 "games_played": 15,
@@ -20765,6 +23005,13 @@
                 "games_played": 20,
                 "team": "DET",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 72.05,
+                "rank": 328,
+                "games_played": 20,
+                "team": "DET",
+                "date": "12_03_2024"
             },
             {
                 "grade": 73.04,
@@ -20832,6 +23079,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 72.05,
+                "rank": 329,
+                "games_played": 7,
+                "team": "TOR",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 74.23,
                 "rank": 320,
                 "games_played": 6,
@@ -20895,6 +23149,13 @@
                 "games_played": 10,
                 "team": "LAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 73.05,
+                "rank": 315,
+                "games_played": 11,
+                "team": "LAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 75.28,
@@ -20962,6 +23223,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 71.99,
+                "rank": 330,
+                "games_played": 5,
+                "team": "GSW",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 71.98,
                 "rank": 318,
                 "games_played": 4,
@@ -20997,6 +23265,13 @@
                 "games_played": 11,
                 "team": "WAS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 71.84,
+                "rank": 331,
+                "games_played": 11,
+                "team": "WAS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 68.7,
@@ -21064,6 +23339,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 71.64,
+                "rank": 334,
+                "games_played": 7,
+                "team": "LAC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 74.48,
                 "rank": 317,
                 "games_played": 7,
@@ -21127,6 +23409,13 @@
                 "games_played": 15,
                 "team": "PHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 71.23,
+                "rank": 338,
+                "games_played": 15,
+                "team": "PHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 64.33,
@@ -21194,6 +23483,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 71.65,
+                "rank": 333,
+                "games_played": 18,
+                "team": "WAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 76.74,
                 "rank": 289,
                 "games_played": 15,
@@ -21257,6 +23553,13 @@
                 "games_played": 18,
                 "team": "WAS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 71.25,
+                "rank": 336,
+                "games_played": 18,
+                "team": "WAS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 73.98,
@@ -21324,6 +23627,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 70.93,
+                "rank": 343,
+                "games_played": 16,
+                "team": "POR",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 73.42,
                 "rank": 332,
                 "games_played": 15,
@@ -21387,6 +23697,13 @@
                 "games_played": 17,
                 "team": "POR",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 70.7,
+                "rank": 344,
+                "games_played": 18,
+                "team": "POR",
+                "date": "12_03_2024"
             },
             {
                 "grade": 75.65,
@@ -21454,6 +23771,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 71.17,
+                "rank": 340,
+                "games_played": 16,
+                "team": "OKC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 73.97,
                 "rank": 324,
                 "games_played": 16,
@@ -21517,6 +23841,13 @@
                 "games_played": 12,
                 "team": "NOP",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 75.84,
+                "rank": 273,
+                "games_played": 13,
+                "team": "NOP",
+                "date": "12_03_2024"
             },
             {
                 "grade": 74.28,
@@ -21584,6 +23915,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 71.16,
+                "rank": 341,
+                "games_played": 21,
+                "team": "LAC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 73.52,
                 "rank": 329,
                 "games_played": 19,
@@ -21647,6 +23985,13 @@
                 "games_played": 17,
                 "team": "MIL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 71.19,
+                "rank": 339,
+                "games_played": 17,
+                "team": "MIL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 76.0,
@@ -21714,6 +24059,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 70.5,
+                "rank": 345,
+                "games_played": 20,
+                "team": "ORL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 71.72,
                 "rank": 359,
                 "games_played": 17,
@@ -21779,6 +24131,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 72.35,
+                "rank": 323,
+                "games_played": 5,
+                "team": "NOP",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 71.57,
                 "rank": 335,
                 "games_played": 4,
@@ -21807,6 +24166,13 @@
                 "games_played": 11,
                 "team": "NOP",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 66.56,
+                "rank": 394,
+                "games_played": 12,
+                "team": "NOP",
+                "date": "12_03_2024"
             },
             {
                 "grade": 71.9,
@@ -21874,6 +24240,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 71.37,
+                "rank": 335,
+                "games_played": 12,
+                "team": "ATL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 73.04,
                 "rank": 340,
                 "games_played": 12,
@@ -21937,6 +24310,13 @@
                 "games_played": 10,
                 "team": "CLE",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 70.26,
+                "rank": 347,
+                "games_played": 11,
+                "team": "CLE",
+                "date": "12_03_2024"
             },
             {
                 "grade": 72.93,
@@ -22004,6 +24384,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 70.44,
+                "rank": 346,
+                "games_played": 12,
+                "team": "WAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 68.9,
                 "rank": 392,
                 "games_played": 9,
@@ -22067,6 +24454,13 @@
                 "games_played": 20,
                 "team": "HOU",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 72.26,
+                "rank": 325,
+                "games_played": 21,
+                "team": "HOU",
+                "date": "12_03_2024"
             },
             {
                 "grade": 76.13,
@@ -22134,6 +24528,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 70.0,
+                "rank": 348,
+                "games_played": 13,
+                "team": "IND",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 73.71,
                 "rank": 328,
                 "games_played": 13,
@@ -22197,6 +24598,13 @@
                 "games_played": 11,
                 "team": "SAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 63.42,
+                "rank": 419,
+                "games_played": 12,
+                "team": "SAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 69.42,
@@ -22264,6 +24672,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 68.99,
+                "rank": 366,
+                "games_played": 17,
+                "team": "NOP",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 73.22,
                 "rank": 336,
                 "games_played": 13,
@@ -22327,6 +24742,13 @@
                 "games_played": 12,
                 "team": "NOP",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 66.93,
+                "rank": 388,
+                "games_played": 13,
+                "team": "NOP",
+                "date": "12_03_2024"
             },
             {
                 "grade": 71.97,
@@ -22394,6 +24816,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 69.97,
+                "rank": 349,
+                "games_played": 18,
+                "team": "WAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 72.89,
                 "rank": 342,
                 "games_played": 15,
@@ -22457,6 +24886,13 @@
                 "games_played": 18,
                 "team": "PHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 69.92,
+                "rank": 351,
+                "games_played": 18,
+                "team": "PHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 73.45,
@@ -22524,6 +24960,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 69.93,
+                "rank": 350,
+                "games_played": 11,
+                "team": "CHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 73.3,
                 "rank": 334,
                 "games_played": 9,
@@ -22587,6 +25030,13 @@
                 "games_played": 18,
                 "team": "UTA",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 69.77,
+                "rank": 355,
+                "games_played": 19,
+                "team": "UTA",
+                "date": "12_03_2024"
             },
             {
                 "grade": 71.93,
@@ -22654,6 +25104,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 69.64,
+                "rank": 358,
+                "games_played": 11,
+                "team": "NOP",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 73.14,
                 "rank": 338,
                 "games_played": 10,
@@ -22717,6 +25174,13 @@
                 "games_played": 4,
                 "team": "NOP",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 69.66,
+                "rank": 357,
+                "games_played": 4,
+                "team": "NOP",
+                "date": "12_03_2024"
             },
             {
                 "grade": 72.56,
@@ -22784,6 +25248,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 69.67,
+                "rank": 356,
+                "games_played": 3,
+                "team": "UTA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 72.39,
                 "rank": 347,
                 "games_played": 3,
@@ -22847,6 +25318,13 @@
                 "games_played": 4,
                 "team": "DEN",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 69.58,
+                "rank": 359,
+                "games_played": 4,
+                "team": "DEN",
+                "date": "12_03_2024"
             },
             {
                 "grade": 71.92,
@@ -22914,6 +25392,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 72.23,
+                "rank": 326,
+                "games_played": 11,
+                "team": "SAC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 74.22,
                 "rank": 321,
                 "games_played": 8,
@@ -22979,6 +25464,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 69.43,
+                "rank": 360,
+                "games_played": 7,
+                "team": "CLE",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 72.17,
                 "rank": 348,
                 "games_played": 7,
@@ -23042,6 +25534,13 @@
                 "games_played": 20,
                 "team": "CHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 69.28,
+                "rank": 363,
+                "games_played": 21,
+                "team": "CHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 71.49,
@@ -23167,6 +25666,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 69.03,
+                "rank": 365,
+                "games_played": 12,
+                "team": "DEN",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 71.67,
                 "rank": 360,
                 "games_played": 11,
@@ -23230,6 +25736,13 @@
                 "games_played": 3,
                 "team": "CHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 69.36,
+                "rank": 361,
+                "games_played": 3,
+                "team": "CHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 71.74,
@@ -23297,6 +25810,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 69.79,
+                "rank": 354,
+                "games_played": 11,
+                "team": "MIN",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 73.52,
                 "rank": 330,
                 "games_played": 9,
@@ -23360,6 +25880,13 @@
                 "games_played": 20,
                 "team": "TOR",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 68.66,
+                "rank": 369,
+                "games_played": 21,
+                "team": "TOR",
+                "date": "12_03_2024"
             },
             {
                 "grade": 72.0,
@@ -23427,6 +25954,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 62.18,
+                "rank": 428,
+                "games_played": 5,
+                "team": "NOP",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 71.33,
                 "rank": 364,
                 "games_played": 4,
@@ -23490,6 +26024,13 @@
                 "games_played": 14,
                 "team": "MIL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 68.12,
+                "rank": 375,
+                "games_played": 14,
+                "team": "MIL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 70.48,
@@ -23557,6 +26098,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 69.28,
+                "rank": 364,
+                "games_played": 13,
+                "team": "WAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 68.29,
                 "rank": 402,
                 "games_played": 11,
@@ -23620,6 +26168,13 @@
                 "games_played": 12,
                 "team": "WAS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 68.69,
+                "rank": 367,
+                "games_played": 12,
+                "team": "WAS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 71.45,
@@ -23687,6 +26242,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 68.38,
+                "rank": 371,
+                "games_played": 4,
+                "team": "DET",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 68.39,
                 "rank": 368,
                 "games_played": 4,
@@ -23715,6 +26277,13 @@
                 "games_played": 18,
                 "team": "WAS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 68.12,
+                "rank": 374,
+                "games_played": 18,
+                "team": "WAS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 73.26,
@@ -23782,6 +26351,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 68.28,
+                "rank": 372,
+                "games_played": 3,
+                "team": "SAC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 71.06,
                 "rank": 367,
                 "games_played": 3,
@@ -23845,6 +26421,13 @@
                 "games_played": 16,
                 "team": "SAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 68.07,
+                "rank": 376,
+                "games_played": 16,
+                "team": "SAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 73.97,
@@ -23912,6 +26495,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 68.21,
+                "rank": 373,
+                "games_played": 22,
+                "team": "DET",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 70.55,
                 "rank": 369,
                 "games_played": 19,
@@ -23975,6 +26565,13 @@
                 "games_played": 16,
                 "team": "MIL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 68.06,
+                "rank": 377,
+                "games_played": 16,
+                "team": "MIL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 71.78,
@@ -24042,6 +26639,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 67.86,
+                "rank": 381,
+                "games_played": 5,
+                "team": "CLE",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 71.21,
                 "rank": 365,
                 "games_played": 5,
@@ -24105,6 +26709,13 @@
                 "games_played": 8,
                 "team": "DEN",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 67.92,
+                "rank": 379,
+                "games_played": 8,
+                "team": "DEN",
+                "date": "12_03_2024"
             },
             {
                 "grade": 70.77,
@@ -24172,6 +26783,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 67.94,
+                "rank": 378,
+                "games_played": 10,
+                "team": "HOU",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 73.41,
                 "rank": 333,
                 "games_played": 8,
@@ -24235,6 +26853,13 @@
                 "games_played": 11,
                 "team": "DAL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 63.92,
+                "rank": 416,
+                "games_played": 12,
+                "team": "DAL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 72.72,
@@ -24302,6 +26927,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 67.71,
+                "rank": 382,
+                "games_played": 4,
+                "team": "PHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 70.42,
                 "rank": 371,
                 "games_played": 4,
@@ -24365,6 +26997,13 @@
                 "games_played": 15,
                 "team": "UTA",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 68.46,
+                "rank": 370,
+                "games_played": 16,
+                "team": "UTA",
+                "date": "12_03_2024"
             },
             {
                 "grade": 76.66,
@@ -24432,6 +27071,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 67.56,
+                "rank": 383,
+                "games_played": 9,
+                "team": "UTA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 70.38,
                 "rank": 372,
                 "games_played": 9,
@@ -24495,6 +27141,13 @@
                 "games_played": 17,
                 "team": "SAS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 66.8,
+                "rank": 392,
+                "games_played": 17,
+                "team": "SAS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 69.6,
@@ -24562,6 +27215,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 67.14,
+                "rank": 385,
+                "games_played": 10,
+                "team": "MIA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 68.49,
                 "rank": 400,
                 "games_played": 8,
@@ -24625,6 +27285,13 @@
                 "games_played": 4,
                 "team": "PHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 67.18,
+                "rank": 384,
+                "games_played": 4,
+                "team": "PHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 78.09,
@@ -24692,6 +27359,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 66.92,
+                "rank": 389,
+                "games_played": 18,
+                "team": "MIL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 71.08,
                 "rank": 366,
                 "games_played": 16,
@@ -24755,6 +27429,13 @@
                 "games_played": 3,
                 "team": "IND",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 67.06,
+                "rank": 386,
+                "games_played": 3,
+                "team": "IND",
+                "date": "12_03_2024"
             },
             {
                 "grade": 69.71,
@@ -24822,6 +27503,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 67.04,
+                "rank": 387,
+                "games_played": 9,
+                "team": "ATL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 70.07,
                 "rank": 375,
                 "games_played": 7,
@@ -24885,6 +27573,13 @@
                 "games_played": 3,
                 "team": "MEM",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 66.85,
+                "rank": 391,
+                "games_played": 3,
+                "team": "MEM",
+                "date": "12_03_2024"
             },
             {
                 "grade": 69.66,
@@ -24952,6 +27647,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 65.92,
+                "rank": 402,
+                "games_played": 7,
+                "team": "BOS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 69.7,
                 "rank": 379,
                 "games_played": 5,
@@ -25015,6 +27717,13 @@
                 "games_played": 5,
                 "team": "NYK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 60.93,
+                "rank": 434,
+                "games_played": 6,
+                "team": "NYK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 69.8,
@@ -25082,6 +27791,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 65.44,
+                "rank": 404,
+                "games_played": 15,
+                "team": "BOS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 69.58,
                 "rank": 383,
                 "games_played": 14,
@@ -25145,6 +27861,13 @@
                 "games_played": 7,
                 "team": "IND",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 69.81,
+                "rank": 353,
+                "games_played": 8,
+                "team": "IND",
+                "date": "12_03_2024"
             },
             {
                 "grade": 69.46,
@@ -25212,6 +27935,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 69.31,
+                "rank": 362,
+                "games_played": 8,
+                "team": "ATL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 66.14,
                 "rank": 418,
                 "games_played": 4,
@@ -25275,6 +28005,13 @@
                 "games_played": 17,
                 "team": "POR",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 67.88,
+                "rank": 380,
+                "games_played": 18,
+                "team": "POR",
+                "date": "12_03_2024"
             },
             {
                 "grade": 70.13,
@@ -25342,6 +28079,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 66.57,
+                "rank": 393,
+                "games_played": 20,
+                "team": "DAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 69.94,
                 "rank": 376,
                 "games_played": 17,
@@ -25405,6 +28149,13 @@
                 "games_played": 4,
                 "team": "MIL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 66.46,
+                "rank": 395,
+                "games_played": 4,
+                "team": "MIL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 69.11,
@@ -25472,6 +28223,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 66.24,
+                "rank": 398,
+                "games_played": 18,
+                "team": "CHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 67.07,
                 "rank": 411,
                 "games_played": 15,
@@ -25535,6 +28293,13 @@
                 "games_played": 15,
                 "team": "POR",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 66.04,
+                "rank": 400,
+                "games_played": 16,
+                "team": "POR",
+                "date": "12_03_2024"
             },
             {
                 "grade": 69.57,
@@ -25602,6 +28367,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 66.9,
+                "rank": 390,
+                "games_played": 10,
+                "team": "NYK",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 69.65,
                 "rank": 381,
                 "games_played": 10,
@@ -25665,6 +28437,13 @@
                 "games_played": 8,
                 "team": "SAS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 65.96,
+                "rank": 401,
+                "games_played": 8,
+                "team": "SAS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 72.79,
@@ -25732,6 +28511,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 65.85,
+                "rank": 403,
+                "games_played": 8,
+                "team": "MIA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 68.79,
                 "rank": 394,
                 "games_played": 8,
@@ -25795,6 +28581,13 @@
                 "games_played": 7,
                 "team": "NYK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 66.09,
+                "rank": 399,
+                "games_played": 8,
+                "team": "NYK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 68.72,
@@ -25862,6 +28655,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 70.99,
+                "rank": 342,
+                "games_played": 5,
+                "team": "BOS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 68.53,
                 "rank": 398,
                 "games_played": 3,
@@ -25925,6 +28725,13 @@
                 "games_played": 8,
                 "team": "NOP",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 65.2,
+                "rank": 406,
+                "games_played": 8,
+                "team": "NOP",
+                "date": "12_03_2024"
             },
             {
                 "grade": 68.54,
@@ -25992,6 +28799,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 69.92,
+                "rank": 352,
+                "games_played": 8,
+                "team": "SAS",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 68.33,
                 "rank": 401,
                 "games_played": 5,
@@ -26055,6 +28869,13 @@
                 "games_played": 16,
                 "team": "PHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 64.81,
+                "rank": 408,
+                "games_played": 16,
+                "team": "PHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 68.96,
@@ -26122,6 +28943,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 68.67,
+                "rank": 368,
+                "games_played": 21,
+                "team": "CHI",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 67.77,
                 "rank": 405,
                 "games_played": 17,
@@ -26185,6 +29013,13 @@
                 "games_played": 3,
                 "team": "LAL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 63.73,
+                "rank": 418,
+                "games_played": 5,
+                "team": "LAL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 61.4,
@@ -26252,6 +29087,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 64.55,
+                "rank": 410,
+                "games_played": 8,
+                "team": "HOU",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 68.0,
                 "rank": 403,
                 "games_played": 8,
@@ -26315,6 +29157,13 @@
                 "games_played": 7,
                 "team": "MIN",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 66.44,
+                "rank": 396,
+                "games_played": 8,
+                "team": "MIN",
+                "date": "12_03_2024"
             },
             {
                 "grade": 67.27,
@@ -26382,6 +29231,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 64.69,
+                "rank": 409,
+                "games_played": 7,
+                "team": "TOR",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 63.54,
                 "rank": 440,
                 "games_played": 4,
@@ -26445,6 +29301,13 @@
                 "games_played": 20,
                 "team": "TOR",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 64.24,
+                "rank": 411,
+                "games_played": 21,
+                "team": "TOR",
+                "date": "12_03_2024"
             },
             {
                 "grade": 66.24,
@@ -26512,6 +29375,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 65.16,
+                "rank": 407,
+                "games_played": 20,
+                "team": "BRK",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 68.51,
                 "rank": 399,
                 "games_played": 16,
@@ -26575,6 +29445,13 @@
                 "games_played": 11,
                 "team": "IND",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 65.25,
+                "rank": 405,
+                "games_played": 12,
+                "team": "IND",
+                "date": "12_03_2024"
             },
             {
                 "grade": 68.8,
@@ -26642,6 +29519,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 63.99,
+                "rank": 412,
+                "games_played": 10,
+                "team": "DEN",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 67.27,
                 "rank": 408,
                 "games_played": 10,
@@ -26705,6 +29589,13 @@
                 "games_played": 8,
                 "team": "PHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 63.92,
+                "rank": 415,
+                "games_played": 8,
+                "team": "PHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 66.58,
@@ -26772,6 +29663,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 63.96,
+                "rank": 414,
+                "games_played": 3,
+                "team": "UTA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 67.12,
                 "rank": 410,
                 "games_played": 2,
@@ -26835,6 +29733,13 @@
                 "games_played": 5,
                 "team": "MIL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 63.79,
+                "rank": 417,
+                "games_played": 5,
+                "team": "MIL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 67.35,
@@ -26902,6 +29807,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 63.4,
+                "rank": 420,
+                "games_played": 6,
+                "team": "GSW",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 66.76,
                 "rank": 412,
                 "games_played": 6,
@@ -26965,6 +29877,13 @@
                 "games_played": 18,
                 "team": "OKC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 63.97,
+                "rank": 413,
+                "games_played": 19,
+                "team": "OKC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 66.75,
@@ -27032,6 +29951,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 63.14,
+                "rank": 422,
+                "games_played": 9,
+                "team": "CHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 61.43,
                 "rank": 452,
                 "games_played": 6,
@@ -27095,6 +30021,13 @@
                 "games_played": 9,
                 "team": "CHO",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 63.04,
+                "rank": 423,
+                "games_played": 9,
+                "team": "CHO",
+                "date": "12_03_2024"
             },
             {
                 "grade": 63.24,
@@ -27162,6 +30095,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 62.79,
+                "rank": 425,
+                "games_played": 11,
+                "team": "MIL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 64.55,
                 "rank": 429,
                 "games_played": 10,
@@ -27225,6 +30165,13 @@
                 "games_played": 12,
                 "team": "UTA",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 62.96,
+                "rank": 424,
+                "games_played": 13,
+                "team": "UTA",
+                "date": "12_03_2024"
             },
             {
                 "grade": 69.34,
@@ -27292,6 +30239,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 61.23,
+                "rank": 432,
+                "games_played": 12,
+                "team": "IND",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 64.82,
                 "rank": 428,
                 "games_played": 10,
@@ -27355,6 +30309,13 @@
                 "games_played": 7,
                 "team": "MIN",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 62.77,
+                "rank": 426,
+                "games_played": 7,
+                "team": "MIN",
+                "date": "12_03_2024"
             },
             {
                 "grade": 65.65,
@@ -27422,6 +30383,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 62.22,
+                "rank": 427,
+                "games_played": 6,
+                "team": "LAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 65.98,
                 "rank": 419,
                 "games_played": 6,
@@ -27485,6 +30453,13 @@
                 "games_played": 9,
                 "team": "CHI",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 60.61,
+                "rank": 441,
+                "games_played": 10,
+                "team": "CHI",
+                "date": "12_03_2024"
             },
             {
                 "grade": 66.35,
@@ -27552,6 +30527,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 61.96,
+                "rank": 429,
+                "games_played": 9,
+                "team": "OKC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 65.18,
                 "rank": 422,
                 "games_played": 9,
@@ -27615,6 +30597,13 @@
                 "games_played": 13,
                 "team": "BOS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 61.28,
+                "rank": 431,
+                "games_played": 14,
+                "team": "BOS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 65.29,
@@ -27682,6 +30671,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 60.95,
+                "rank": 433,
+                "games_played": 4,
+                "team": "TOR",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 64.02,
                 "rank": 433,
                 "games_played": 4,
@@ -27745,6 +30741,13 @@
                 "games_played": 11,
                 "team": "DAL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 60.78,
+                "rank": 437,
+                "games_played": 12,
+                "team": "DAL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 64.53,
@@ -27812,6 +30815,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 60.9,
+                "rank": 435,
+                "games_played": 16,
+                "team": "UTA",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 64.49,
                 "rank": 431,
                 "games_played": 16,
@@ -27875,6 +30885,13 @@
                 "games_played": 16,
                 "team": "SAC",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 60.79,
+                "rank": 436,
+                "games_played": 16,
+                "team": "SAC",
+                "date": "12_03_2024"
             },
             {
                 "grade": 64.82,
@@ -27942,6 +30959,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 60.78,
+                "rank": 438,
+                "games_played": 4,
+                "team": "CHO",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 63.84,
                 "rank": 437,
                 "games_played": 4,
@@ -28005,6 +31029,13 @@
                 "games_played": 12,
                 "team": "DEN",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 60.63,
+                "rank": 440,
+                "games_played": 12,
+                "team": "DEN",
+                "date": "12_03_2024"
             },
             {
                 "grade": 63.91,
@@ -28072,6 +31103,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 60.55,
+                "rank": 442,
+                "games_played": 6,
+                "team": "HOU",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 63.87,
                 "rank": 436,
                 "games_played": 6,
@@ -28135,6 +31173,13 @@
                 "games_played": 4,
                 "team": "BOS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 60.75,
+                "rank": 439,
+                "games_played": 5,
+                "team": "BOS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 63.91,
@@ -28202,6 +31247,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 63.29,
+                "rank": 421,
+                "games_played": 5,
+                "team": "MIN",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 62.9,
                 "rank": 443,
                 "games_played": 4,
@@ -28265,6 +31317,13 @@
                 "games_played": 11,
                 "team": "POR",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 59.94,
+                "rank": 443,
+                "games_played": 11,
+                "team": "POR",
+                "date": "12_03_2024"
             },
             {
                 "grade": 63.75,
@@ -28332,6 +31391,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 59.51,
+                "rank": 445,
+                "games_played": 12,
+                "team": "MEM",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 62.56,
                 "rank": 447,
                 "games_played": 10,
@@ -28395,6 +31461,13 @@
                 "games_played": 13,
                 "team": "ORL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 59.55,
+                "rank": 444,
+                "games_played": 13,
+                "team": "ORL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 61.54,
@@ -28462,6 +31535,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 59.16,
+                "rank": 447,
+                "games_played": 8,
+                "team": "DEN",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 62.64,
                 "rank": 446,
                 "games_played": 7,
@@ -28525,6 +31605,13 @@
                 "games_played": 3,
                 "team": "BOS",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 59.19,
+                "rank": 446,
+                "games_played": 4,
+                "team": "BOS",
+                "date": "12_03_2024"
             },
             {
                 "grade": 62.8,
@@ -28592,6 +31679,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 59.01,
+                "rank": 448,
+                "games_played": 5,
+                "team": "DAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 62.08,
                 "rank": 448,
                 "games_played": 5,
@@ -28655,6 +31749,13 @@
                 "games_played": 19,
                 "team": "LAL",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 61.49,
+                "rank": 430,
+                "games_played": 21,
+                "team": "LAL",
+                "date": "12_03_2024"
             },
             {
                 "grade": 62.78,
@@ -28722,6 +31823,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 57.55,
+                "rank": 450,
+                "games_played": 6,
+                "team": "OKC",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 60.93,
                 "rank": 456,
                 "games_played": 6,
@@ -28787,6 +31895,13 @@
                 "date": "12_01_2024"
             },
             {
+                "grade": 66.35,
+                "rank": 397,
+                "games_played": 5,
+                "team": "LAL",
+                "date": "12_03_2024"
+            },
+            {
                 "grade": 61.14,
                 "rank": 454,
                 "games_played": 3,
@@ -28850,6 +31965,13 @@
                 "games_played": 5,
                 "team": "NYK",
                 "date": "12_01_2024"
+            },
+            {
+                "grade": 58.63,
+                "rank": 449,
+                "games_played": 6,
+                "team": "NYK",
+                "date": "12_03_2024"
             },
             {
                 "grade": 60.09,
@@ -28964,6 +32086,63 @@
                 "games_played": 3,
                 "team": "DAL",
                 "date": "11_24_2024"
+            }
+        ],
+        "porzikr01": [
+            {
+                "grade": 90.05,
+                "rank": 58,
+                "games_played": 3,
+                "team": "BOS",
+                "date": "12_03_2024"
+            },
+            {
+                "grade": 89.52,
+                "rank": 66,
+                "games_played": 3,
+                "team": "BOS",
+                "date": "12_02_2024"
+            }
+        ],
+        "whiteda01": [
+            {
+                "grade": 79.66,
+                "rank": 214,
+                "games_played": 3,
+                "team": "BRK",
+                "date": "12_03_2024"
+            }
+        ],
+        "crowdja01": [
+            {
+                "grade": 74.65,
+                "rank": 293,
+                "games_played": 3,
+                "team": "SAC",
+                "date": "12_03_2024"
+            },
+            {
+                "grade": 74.63,
+                "rank": 297,
+                "games_played": 3,
+                "team": "SAC",
+                "date": "12_02_2024"
+            }
+        ],
+        "pottemi01": [
+            {
+                "grade": 73.08,
+                "rank": 314,
+                "games_played": 3,
+                "team": "UTA",
+                "date": "12_03_2024"
+            },
+            {
+                "grade": 73.08,
+                "rank": 315,
+                "games_played": 3,
+                "team": "UTA",
+                "date": "12_02_2024"
             }
         ],
         "thorjt01": [
@@ -29507,33 +32686,6 @@
                 "date": "11_24_2024"
             }
         ],
-        "porzikr01": [
-            {
-                "grade": 89.52,
-                "rank": 66,
-                "games_played": 3,
-                "team": "BOS",
-                "date": "12_02_2024"
-            }
-        ],
-        "crowdja01": [
-            {
-                "grade": 74.63,
-                "rank": 297,
-                "games_played": 3,
-                "team": "SAC",
-                "date": "12_02_2024"
-            }
-        ],
-        "pottemi01": [
-            {
-                "grade": 73.08,
-                "rank": 315,
-                "games_played": 3,
-                "team": "UTA",
-                "date": "12_02_2024"
-            }
-        ],
         "jonessp01": [
             {
                 "grade": 68.9,
@@ -29570,6 +32722,13 @@
                 "avg_grade": 89.31,
                 "standing": "3rd in West",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 91.77,
+                "rank": 2,
+                "avg_grade": 89.32,
+                "standing": "3rd in West",
+                "date": "12_03_2024"
             },
             {
                 "score": 91.68,
@@ -29637,6 +32796,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 91.47,
+                "rank": 3,
+                "avg_grade": 90.46,
+                "standing": "1st in East",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 92.93,
                 "rank": 1,
                 "avg_grade": 92.38,
@@ -29700,6 +32866,13 @@
                 "avg_grade": 89.78,
                 "standing": "2nd in East",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 92.2,
+                "rank": 1,
+                "avg_grade": 90.59,
+                "standing": "2nd in East",
+                "date": "12_03_2024"
             },
             {
                 "score": 92.63,
@@ -29767,6 +32940,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 90.96,
+                "rank": 4,
+                "avg_grade": 88.48,
+                "standing": "3rd in East",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 90.32,
                 "rank": 7,
                 "avg_grade": 88.25,
@@ -29830,6 +33010,13 @@
                 "avg_grade": 88.7,
                 "standing": "1st in West",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 90.93,
+                "rank": 5,
+                "avg_grade": 88.79,
+                "standing": "2nd in West",
+                "date": "12_03_2024"
             },
             {
                 "score": 91.61,
@@ -29897,6 +33084,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 90.84,
+                "rank": 6,
+                "avg_grade": 89.35,
+                "standing": "4th in West",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 90.38,
                 "rank": 6,
                 "avg_grade": 89.09,
@@ -29960,6 +33154,13 @@
                 "avg_grade": 87.01,
                 "standing": "2nd in West",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 89.67,
+                "rank": 7,
+                "avg_grade": 86.84,
+                "standing": "1st in West",
+                "date": "12_03_2024"
             },
             {
                 "score": 89.35,
@@ -30027,6 +33228,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 88.75,
+                "rank": 10,
+                "avg_grade": 86.64,
+                "standing": "6th in West",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 90.6,
                 "rank": 5,
                 "avg_grade": 88.38,
@@ -30090,6 +33298,13 @@
                 "avg_grade": 85.49,
                 "standing": "6th in West",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 88.63,
+                "rank": 11,
+                "avg_grade": 85.6,
+                "standing": "5th in West",
+                "date": "12_03_2024"
             },
             {
                 "score": 89.18,
@@ -30157,6 +33372,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 88.81,
+                "rank": 9,
+                "avg_grade": 87.5,
+                "standing": "9th in West",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 89.33,
                 "rank": 10,
                 "avg_grade": 88.27,
@@ -30220,6 +33442,13 @@
                 "avg_grade": 86.92,
                 "standing": "4th in East",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 89.25,
+                "rank": 8,
+                "avg_grade": 87.93,
+                "standing": "4th in East",
+                "date": "12_03_2024"
             },
             {
                 "score": 89.34,
@@ -30287,6 +33516,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 87.33,
+                "rank": 14,
+                "avg_grade": 85.72,
+                "standing": "9th in East",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 87.92,
                 "rank": 12,
                 "avg_grade": 86.89,
@@ -30350,6 +33586,13 @@
                 "avg_grade": 85.33,
                 "standing": "6th in East",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 86.78,
+                "rank": 16,
+                "avg_grade": 85.27,
+                "standing": "6th in East",
+                "date": "12_03_2024"
             },
             {
                 "score": 87.24,
@@ -30417,6 +33660,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 86.85,
+                "rank": 15,
+                "avg_grade": 85.15,
+                "standing": "12th in West",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 87.88,
                 "rank": 13,
                 "avg_grade": 86.23,
@@ -30480,6 +33730,13 @@
                 "avg_grade": 85.13,
                 "standing": "5th in East",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 87.43,
+                "rank": 12,
+                "avg_grade": 85.28,
+                "standing": "5th in East",
+                "date": "12_03_2024"
             },
             {
                 "score": 85.82,
@@ -30547,6 +33804,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 86.29,
+                "rank": 19,
+                "avg_grade": 85.84,
+                "standing": "8th in West",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 85.85,
                 "rank": 21,
                 "avg_grade": 86.73,
@@ -30610,6 +33874,13 @@
                 "avg_grade": 86.37,
                 "standing": "9th in West",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 86.5,
+                "rank": 18,
+                "avg_grade": 86.45,
+                "standing": "10th in West",
+                "date": "12_03_2024"
             },
             {
                 "score": 87.06,
@@ -30677,6 +33948,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 85.79,
+                "rank": 21,
+                "avg_grade": 84.32,
+                "standing": "10th in East",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 87.43,
                 "rank": 14,
                 "avg_grade": 86.19,
@@ -30740,6 +34018,13 @@
                 "avg_grade": 85.9,
                 "standing": "11th in West",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 87.34,
+                "rank": 13,
+                "avg_grade": 86.61,
+                "standing": "11th in West",
+                "date": "12_03_2024"
             },
             {
                 "score": 86.7,
@@ -30807,6 +34092,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 86.63,
+                "rank": 17,
+                "avg_grade": 84.92,
+                "standing": "8th in East",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 85.87,
                 "rank": 20,
                 "avg_grade": 85.26,
@@ -30870,6 +34162,13 @@
                 "avg_grade": 84.15,
                 "standing": "7th in West",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 85.55,
+                "rank": 22,
+                "avg_grade": 83.8,
+                "standing": "7th in West",
+                "date": "12_03_2024"
             },
             {
                 "score": 86.27,
@@ -30937,6 +34236,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 85.87,
+                "rank": 20,
+                "avg_grade": 84.74,
+                "standing": "13th in East",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 85.49,
                 "rank": 24,
                 "avg_grade": 85.15,
@@ -31000,6 +34306,13 @@
                 "avg_grade": 85.2,
                 "standing": "7th in East",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 85.27,
+                "rank": 23,
+                "avg_grade": 85.16,
+                "standing": "7th in East",
+                "date": "12_03_2024"
             },
             {
                 "score": 86.18,
@@ -31067,6 +34380,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 84.98,
+                "rank": 24,
+                "avg_grade": 84.11,
+                "standing": "12th in East",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 85.49,
                 "rank": 23,
                 "avg_grade": 85.78,
@@ -31130,6 +34450,13 @@
                 "avg_grade": 84.72,
                 "standing": "10th in East",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 84.36,
+                "rank": 25,
+                "avg_grade": 84.15,
+                "standing": "11th in East",
+                "date": "12_03_2024"
             },
             {
                 "score": 85.13,
@@ -31197,6 +34524,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 82.97,
+                "rank": 26,
+                "avg_grade": 83.12,
+                "standing": "13th in West",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 83.82,
                 "rank": 26,
                 "avg_grade": 83.96,
@@ -31260,6 +34594,13 @@
                 "avg_grade": 81.98,
                 "standing": "15th in West",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 82.51,
+                "rank": 27,
+                "avg_grade": 82.08,
+                "standing": "15th in West",
+                "date": "12_03_2024"
             },
             {
                 "score": 82.58,
@@ -31327,6 +34668,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 81.59,
+                "rank": 28,
+                "avg_grade": 82.04,
+                "standing": "14th in East",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 81.8,
                 "rank": 29,
                 "avg_grade": 82.85,
@@ -31392,6 +34740,13 @@
                 "date": "12_01_2024"
             },
             {
+                "score": 81.37,
+                "rank": 29,
+                "avg_grade": 79.42,
+                "standing": "14th in West",
+                "date": "12_03_2024"
+            },
+            {
                 "score": 82.63,
                 "rank": 27,
                 "avg_grade": 82.1,
@@ -31455,6 +34810,13 @@
                 "avg_grade": 79.76,
                 "standing": "15th in East",
                 "date": "12_01_2024"
+            },
+            {
+                "score": 80.17,
+                "rank": 30,
+                "avg_grade": 79.65,
+                "standing": "15th in East",
+                "date": "12_03_2024"
             },
             {
                 "score": 81.29,
@@ -31550,6 +34912,10 @@
         {
             "grade": 99.62,
             "date": "12_02_2024"
+        },
+        {
+            "grade": 99.74,
+            "date": "12_03_2024"
         }
     ],
     "final_results": {}

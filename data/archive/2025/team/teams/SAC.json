@@ -21,9 +21,10 @@
             "Malik Monk",
             "Colby Jones",
             "Isaac Jones",
+            "Jae Crowder",
             "Orlando Robinson",
-            "Isaiah Crawford",
-            "Devin Carter"
+            "Devin Carter",
+            "Isaiah Crawford"
         ],
         "injuries": [
             {
@@ -35,8 +36,8 @@
             {
                 "Player": "Kevin Huerter",
                 "Team": "Sacramento Kings",
-                "Update": "Sun, Dec 1, 2024",
-                "Description": "Out (Ankle) - Huerter is listed as out for Sunday's (Dec. 1) game against the Spurs."
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Day To Day (Ankle) - Huerter is questionable for Tuesday's (Dec. 3) game against Sacramento."
             },
             {
                 "Player": "Trey Lyles",
@@ -98,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "8",
                 "FG": "12",
                 "FGA": "20",
                 "FG%": "8",
@@ -112,7 +113,7 @@
                 "FTA": "10",
                 "FT%": "7",
                 "ORB": "20",
-                "DRB": "11",
+                "DRB": "12",
                 "TRB": "17",
                 "AST": "20",
                 "STL": "18",
@@ -198,10 +199,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "12",
-                "FGA": "8",
-                "FG%": "13",
+                "MP": "8",
+                "FG": "11",
+                "FGA": "9",
+                "FG%": "15",
                 "3P": "29",
                 "3PA": "28",
                 "3P%": "28",
@@ -216,7 +217,7 @@
                 "TRB": "2",
                 "AST": "17",
                 "STL": "18",
-                "BLK": "3",
+                "BLK": "4",
                 "TOV": "15",
                 "PF": "15",
                 "PTS": "19"
@@ -252,8 +253,8 @@
                 "PW": "11",
                 "PL": "10",
                 "MOV": "0.24",
-                "SOS": "-1.24",
-                "SRS": "-1.00",
+                "SOS": "-1.14",
+                "SRS": "-0.90",
                 "ORtg": "114.5",
                 "DRtg": "114.3",
                 "Pace": "98.3",
@@ -268,13 +269,13 @@
                 "Attendance": "184,512"
             },
             "Misc Lg Rank": {
-                "W": "17",
-                "L": "10",
-                "PW": "11",
+                "W": "18",
+                "L": "11",
+                "PW": "12",
                 "PL": "17",
                 "MOV": "16",
-                "SOS": "24",
-                "SRS": "17",
+                "SOS": "23",
+                "SRS": "16",
                 "ORtg": "10",
                 "DRtg": "17",
                 "Pace": "16",
@@ -286,10 +287,10 @@
                 "FT/FGA": "17",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/SAC-2025.png",
-        "last_update": "Dec 02 2024 22:32:10"
+        "last_update": "Dec 03 2024 22:32:12"
     }
 }

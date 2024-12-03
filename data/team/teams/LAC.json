@@ -2,7 +2,7 @@
     "LAC": {
         "info": {
             "record": "13-9",
-            "standing": "7th in West",
+            "standing": "6th in West",
             "coach": "Tyronn Lue (13-9)",
             "gm": "Lawrence Frank",
             "preseason_odds": "+3000"
@@ -30,8 +30,8 @@
             {
                 "Player": "Kobe Brown",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sat, Nov 30, 2024",
-                "Description": "Out (Back) - Brown is listed as out for Sunday's (Dec. 1) game against Denver, Justin Russo of the 'Clip & Roll' podcast reports."
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Out (Back) - Porter Jr. is OUT for Tuesday's (Dec.3 ) game against Portland."
             },
             {
                 "Player": "Kawhi Leonard",
@@ -42,8 +42,8 @@
             {
                 "Player": "Kevin Porter Jr.",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sat, Nov 30, 2024",
-                "Description": "Out (Ankle) - Porter has been ruled out for Sunday's (Dec. 1) game against the Nuggets, Justin Russo of the 'Clip & Roll' podcast reports."
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Out (Ankle) - Porter Jr. is OUT for Tuesday's (Dec. 2) game against Portland."
             },
             {
                 "Player": "P.J. Tucker",
@@ -105,13 +105,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "19",
                 "FGA": "22",
-                "FG%": "13",
+                "FG%": "15",
                 "3P": "21",
                 "3PA": "27",
-                "3P%": "11",
+                "3P%": "12",
                 "2P": "15",
                 "2PA": "13",
                 "2P%": "24",
@@ -205,14 +205,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "4",
                 "FGA": "4",
                 "FG%": "11",
                 "3P": "9",
                 "3PA": "13",
                 "3P%": "5",
-                "2P": "5",
+                "2P": "4",
                 "2PA": "1",
                 "2P%": "21",
                 "FT": "10",
@@ -222,9 +222,9 @@
                 "DRB": "11",
                 "TRB": "4",
                 "AST": "7",
-                "STL": "26",
+                "STL": "25",
                 "BLK": "17",
-                "TOV": "11",
+                "TOV": "12",
                 "PF": "26",
                 "PTS": "4"
             },
@@ -259,8 +259,8 @@
                 "PW": "13",
                 "PL": "9",
                 "MOV": "2.27",
-                "SOS": "1.25",
-                "SRS": "3.52",
+                "SOS": "1.33",
+                "SRS": "3.60",
                 "ORtg": "111.3",
                 "DRtg": "109.0",
                 "Pace": "97.7",
@@ -276,7 +276,7 @@
             },
             "Misc Lg Rank": {
                 "W": "7",
-                "L": "15",
+                "L": "16",
                 "PW": "10",
                 "PL": "14",
                 "MOV": "10",
@@ -287,16 +287,16 @@
                 "Pace": "21",
                 "FTr": "14",
                 "3PAr": "25",
-                "eFG%": "10",
+                "eFG%": "12",
                 "TOV%": "7",
                 "ORB%": "10",
                 "FT/FGA": "13",
                 "DRB%": "2",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAC-2025.png",
-        "last_update": "Dec 02 2024 22:32:10"
+        "last_update": "Dec 03 2024 22:32:12"
     }
 }

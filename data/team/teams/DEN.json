@@ -35,10 +35,22 @@
                 "Description": "Out (Knee) - Cancar is out for the foreseeable future, Vinny Benedetto of The Denver Gazette reports."
             },
             {
+                "Player": "Aaron Gordon",
+                "Team": "Denver Nuggets",
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Day To Day (Calf) - Gordon is probable for Tuesday's (Dec. 3) game against Golden State."
+            },
+            {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sat, Jul 13, 2024",
                 "Description": "Out For Season (Achilles) - DaRon Holmes II has suffered a torn right Achilles tendon, sources tell @TheAthletic @Stadium. Heâs expected to miss the 2024-25 season."
+            },
+            {
+                "Player": "Peyton Watson",
+                "Team": "Denver Nuggets",
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Day To Day (Adductor) - Watson is probable for Tuesday's (Dec. 3) game against Golden State."
             }
         ],
         "team_stats": {
@@ -94,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "5",
                 "FGA": "13",
                 "FG%": "6",
@@ -103,13 +115,13 @@
                 "3P%": "3",
                 "2P": "4",
                 "2PA": "3",
-                "2P%": "16",
-                "FT": "6",
-                "FTA": "2",
+                "2P%": "17",
+                "FT": "5",
+                "FTA": "1",
                 "FT%": "26",
                 "ORB": "11",
-                "DRB": "16",
-                "TRB": "11",
+                "DRB": "17",
+                "TRB": "12",
                 "AST": "2",
                 "STL": "12",
                 "BLK": "21",
@@ -194,21 +206,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "27",
                 "FGA": "29",
-                "FG%": "20",
-                "3P": "22",
-                "3PA": "20",
+                "FG%": "21",
+                "3P": "21",
+                "3PA": "19",
                 "3P%": "17",
-                "2P": "26",
+                "2P": "27",
                 "2PA": "28",
-                "2P%": "14",
+                "2P%": "15",
                 "FT": "6",
-                "FTA": "6",
-                "FT%": "13",
+                "FTA": "7",
+                "FT%": "12",
                 "ORB": "27",
-                "DRB": "7",
+                "DRB": "8",
                 "TRB": "17",
                 "AST": "29",
                 "STL": "17",
@@ -248,8 +260,8 @@
                 "PW": "10",
                 "PL": "8",
                 "MOV": "1.61",
-                "SOS": "1.12",
-                "SRS": "2.74",
+                "SOS": "1.03",
+                "SRS": "2.64",
                 "ORtg": "116.9",
                 "DRtg": "115.3",
                 "Pace": "99.8",
@@ -264,15 +276,15 @@
                 "Attendance": "177,520"
             },
             "Misc Lg Rank": {
-                "W": "14",
-                "L": "19",
+                "W": "15",
+                "L": "20",
                 "PW": "15",
                 "PL": "10",
-                "MOV": "11",
+                "MOV": "12",
                 "SOS": "9",
                 "SRS": "11",
                 "ORtg": "6",
-                "DRtg": "19",
+                "DRtg": "20",
                 "Pace": "10",
                 "FTr": "3",
                 "3PAr": "29",
@@ -282,10 +294,10 @@
                 "FT/FGA": "5",
                 "DRB%": "26",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DEN-2025.png",
-        "last_update": "Dec 02 2024 22:32:10"
+        "last_update": "Dec 03 2024 22:32:12"
     }
 }

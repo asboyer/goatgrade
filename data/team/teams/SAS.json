@@ -29,10 +29,16 @@
         ],
         "injuries": [
             {
+                "Player": "Tre Jones",
+                "Team": "San Antonio Spurs",
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Out (Thumb) - Sochan is probable for Tuesday's (Dec. 3) game against Phoenix."
+            },
+            {
                 "Player": "Jeremy Sochan",
                 "Team": "San Antonio Spurs",
-                "Update": "Tue, Nov 5, 2024",
-                "Description": "Out (Thumb) - Sochan will undergo surgery on a fractured left thumb according to Shams Charania of ESPN."
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Day To Day (Thumb) - Sochan is probable for Tuesday's (Dec. 3) game against Phoenix."
             }
         ],
         "team_stats": {
@@ -88,28 +94,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "20",
                 "FG": "21",
-                "FGA": "27",
+                "FGA": "26",
                 "FG%": "17",
                 "3P": "10",
-                "3PA": "6",
+                "3PA": "5",
                 "3P%": "16",
                 "2P": "24",
                 "2PA": "27",
                 "2P%": "12",
-                "FT": "14",
-                "FTA": "21",
+                "FT": "13",
+                "FTA": "20",
                 "FT%": "3",
                 "ORB": "16",
                 "DRB": "10",
-                "TRB": "12",
+                "TRB": "13",
                 "AST": "7",
                 "STL": "21",
                 "BLK": "3",
                 "TOV": "18",
                 "PF": "2",
-                "PTS": "20"
+                "PTS": "18"
             },
             "Year/Year": {
                 "G": "",
@@ -188,18 +194,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
-                "FG": "20",
+                "MP": "20",
+                "FG": "21",
                 "FGA": "25",
                 "FG%": "8",
-                "3P": "11",
+                "3P": "10",
                 "3PA": "12",
-                "3P%": "8",
+                "3P%": "10",
                 "2P": "21",
                 "2PA": "26",
                 "2P%": "12",
                 "FT": "4",
-                "FTA": "4",
+                "FTA": "3",
                 "FT%": "17",
                 "ORB": "26",
                 "DRB": "9",
@@ -209,7 +215,7 @@
                 "BLK": "7",
                 "TOV": "21",
                 "PF": "22",
-                "PTS": "8"
+                "PTS": "9"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -259,27 +265,27 @@
             },
             "Misc Lg Rank": {
                 "W": "12",
-                "L": "15",
-                "PW": "12",
+                "L": "16",
+                "PW": "13",
                 "PL": "15",
-                "MOV": "15",
+                "MOV": "14",
                 "SOS": "12",
-                "SRS": "12",
-                "ORtg": "16",
+                "SRS": "13",
+                "ORtg": "15",
                 "DRtg": "13",
                 "Pace": "18",
-                "FTr": "16",
+                "FTr": "15",
                 "3PAr": "6",
                 "eFG%": "7",
-                "TOV%": "22",
+                "TOV%": "21",
                 "ORB%": "15",
-                "FT/FGA": "3",
+                "FT/FGA": "2",
                 "DRB%": "24",
                 "Arena": "",
                 "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/SAS-2025.png",
-        "last_update": "Dec 02 2024 22:32:10"
+        "last_update": "Dec 03 2024 22:32:12"
     }
 }

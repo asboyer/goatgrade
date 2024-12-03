@@ -36,14 +36,14 @@
             {
                 "Player": "Kyle Kuzma",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Nov 30, 2024",
-                "Description": "Day To Day (Ribs) - Kuzma did not play on (Nov. 30) game against the Bucks."
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Out (Ribs) - Kuzma is OUT for Tuesday's (Dec. 3) game against Cleveland."
             },
             {
                 "Player": "Tristan Vukcevic",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Nov 30, 2024",
-                "Description": "Day To Day (Knee) - Vukcevic did not play on Saturday's (Nov. 30) game versus the Bucks."
+                "Update": "Mon, Dec 2, 2024",
+                "Description": "Out (Knee) - Vukcevic is OUT for Tuesday's (Dec. 3) game against Cleveland."
             }
         ],
         "team_stats": {
@@ -102,7 +102,7 @@
                 "MP": "30",
                 "FG": "20",
                 "FGA": "12",
-                "FG%": "25",
+                "FG%": "24",
                 "3P": "28",
                 "3PA": "19",
                 "3P%": "29",
@@ -110,14 +110,14 @@
                 "2PA": "10",
                 "2P%": "22",
                 "FT": "19",
-                "FTA": "20",
+                "FTA": "19",
                 "FT%": "15",
                 "ORB": "24",
                 "DRB": "19",
                 "TRB": "25",
-                "AST": "22",
+                "AST": "23",
                 "STL": "19",
-                "BLK": "12",
+                "BLK": "13",
                 "TOV": "21",
                 "PF": "28",
                 "PTS": "25"
@@ -201,22 +201,22 @@
                 "G": "",
                 "MP": "30",
                 "FG": "29",
-                "FGA": "27",
+                "FGA": "26",
                 "FG%": "24",
                 "3P": "26",
-                "3PA": "21",
-                "3P%": "24",
-                "2P": "27",
+                "3PA": "20",
+                "3P%": "25",
+                "2P": "28",
                 "2PA": "23",
                 "2P%": "23",
                 "FT": "29",
                 "FTA": "29",
-                "FT%": "22",
+                "FT%": "23",
                 "ORB": "25",
                 "DRB": "28",
                 "TRB": "29",
                 "AST": "24",
-                "STL": "22",
+                "STL": "21",
                 "BLK": "20",
                 "TOV": "25",
                 "PF": "20",
@@ -253,8 +253,8 @@
                 "PW": "3",
                 "PL": "15",
                 "MOV": "-15.00",
-                "SOS": "1.92",
-                "SRS": "-13.08",
+                "SOS": "2.09",
+                "SRS": "-12.91",
                 "ORtg": "105.4",
                 "DRtg": "120.1",
                 "Pace": "102.5",
@@ -274,7 +274,7 @@
                 "PW": "30",
                 "PL": "29",
                 "MOV": "30",
-                "SOS": "2",
+                "SOS": "1",
                 "SRS": "30",
                 "ORtg": "30",
                 "DRtg": "30",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/WAS-2025.png",
-        "last_update": "Dec 02 2024 22:32:10"
+        "last_update": "Dec 03 2024 22:32:12"
     }
 }
