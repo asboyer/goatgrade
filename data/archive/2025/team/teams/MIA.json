@@ -30,32 +30,26 @@
             {
                 "Player": "Jimmy Butler",
                 "Team": "Miami Heat",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Day To Day (Knee) - Butler did not play in Monday's (Dec. 2) game against Boston."
+                "Update": "Tue, Dec 3, 2024",
+                "Description": "Day To Day (Knee) - Butler is questionable for Wednesday's (Dec. 4) game against Los Angeles."
             },
             {
                 "Player": "Nikola Jović",
                 "Team": "Miami Heat",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Day To Day (Ankle) - Jovic did not play in Monday's (Dec. 2) game against Boston."
+                "Update": "Tue, Dec 3, 2024",
+                "Description": "Out (Ankle) - Jovic is OUT for Wednesday's (Dec. 4) game against Los Angeles."
             },
             {
                 "Player": "Kevin Love",
                 "Team": "Miami Heat",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Day To Day (Back) - Love did not play in Monday's (Dec. 2) game against Boston."
+                "Update": "Tue, Dec 3, 2024",
+                "Description": "Day To Day (Back) - Love is questionable for Wednesday's (Dec. 4) game against Los Angeles."
             },
             {
                 "Player": "Josh Richardson",
                 "Team": "Miami Heat",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Day To Day (Head) - Richardson did not play in Monday's (Dec. 2) game against Boston."
-            },
-            {
-                "Player": "Kel'el Ware",
-                "Team": "Miami Heat",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Day To Day (Foot) - Ware did not play in Monday's (Dec. 2) game against Boston."
+                "Update": "Tue, Dec 3, 2024",
+                "Description": "Day To Day (Head) - Richardson is questionable for Wednesday's (Dec. 4) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -111,27 +105,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "28",
                 "FG": "25",
                 "FGA": "16",
                 "FG%": "26",
-                "3P": "9",
-                "3PA": "9",
-                "3P%": "11",
+                "3P": "10",
+                "3PA": "10",
+                "3P%": "13",
                 "2P": "27",
-                "2PA": "21",
+                "2PA": "20",
                 "2P%": "29",
-                "FT": "12",
-                "FTA": "12",
-                "FT%": "18",
-                "ORB": "18",
+                "FT": "13",
+                "FTA": "13",
+                "FT%": "19",
+                "ORB": "19",
                 "DRB": "18",
-                "TRB": "21",
-                "AST": "16",
-                "STL": "6",
+                "TRB": "19",
+                "AST": "17",
+                "STL": "7",
                 "BLK": "30",
                 "TOV": "3",
-                "PF": "3",
+                "PF": "2",
                 "PTS": "21"
             },
             "Year/Year": {
@@ -211,16 +205,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "28",
                 "FG": "15",
                 "FGA": "11",
-                "FG%": "16",
-                "3P": "22",
-                "3PA": "24",
+                "FG%": "17",
+                "3P": "24",
+                "3PA": "25",
                 "3P%": "14",
-                "2P": "12",
+                "2P": "13",
                 "2PA": "9",
-                "2P%": "20",
+                "2P%": "19",
                 "FT": "2",
                 "FTA": "1",
                 "FT%": "26",
@@ -231,8 +225,8 @@
                 "STL": "3",
                 "BLK": "19",
                 "TOV": "8",
-                "PF": "14",
-                "PTS": "8"
+                "PF": "17",
+                "PTS": "7"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -265,8 +259,8 @@
                 "PW": "10",
                 "PL": "9",
                 "MOV": "0.26",
-                "SOS": "-1.18",
-                "SRS": "-0.92",
+                "SOS": "-1.17",
+                "SRS": "-0.90",
                 "ORtg": "112.4",
                 "DRtg": "112.1",
                 "Pace": "96.9",
@@ -281,28 +275,28 @@
                 "Attendance": "157,031"
             },
             "Misc Lg Rank": {
-                "W": "18",
+                "W": "19",
                 "L": "14",
                 "PW": "17",
-                "PL": "13",
+                "PL": "14",
                 "MOV": "15",
                 "SOS": "24",
                 "SRS": "17",
-                "ORtg": "20",
-                "DRtg": "10",
-                "Pace": "27",
-                "FTr": "12",
+                "ORtg": "22",
+                "DRtg": "11",
+                "Pace": "28",
+                "FTr": "11",
                 "3PAr": "10",
-                "eFG%": "15",
+                "eFG%": "17",
                 "TOV%": "5",
-                "ORB%": "21",
+                "ORB%": "22",
                 "FT/FGA": "4",
-                "DRB%": "21",
+                "DRB%": "23",
                 "Arena": "",
                 "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MIA-2025.png",
-        "last_update": "Dec 03 2024 22:32:12"
+        "last_update": "Dec 04 2024 22:32:13"
     }
 }

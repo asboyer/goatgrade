@@ -2,7 +2,7 @@
     "BRK": {
         "info": {
             "record": "9-13",
-            "standing": "11th in East",
+            "standing": "9th in East",
             "coach": "Jordi Fernández Torres (9-13)",
             "gm": "Sean Marks",
             "preseason_odds": "+100000"
@@ -42,20 +42,20 @@
             {
                 "Player": "Dorian Finney-Smith",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Day To Day (Ankle) - Finney-Smith did not play in Monday's (Dec. 2) game against Chicago."
+                "Update": "Tue, Dec 3, 2024",
+                "Description": "Day To Day (Ankle) - Finney-Smith is questionable for Wednesday's (Dec. 3) game against Indiana."
             },
             {
                 "Player": "Cameron Johnson",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Day To Day (Ankle) - Johnson did not play in Monday's (Dec. 2) game against Chicago."
+                "Update": "Tue, Dec 3, 2024",
+                "Description": "Day To Day (Ankle) - Johnson is questionable for Wednesday's (Dec. 3) game against Indiana."
             },
             {
                 "Player": "Ben Simmons",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Day To Day (Back) - Simmons did not play in Monday's (Dec. 2) game against Chicago."
+                "Update": "Tue, Dec 3, 2024",
+                "Description": "Day To Day (Back) - Simmons is questionable for Wednesday's (Dec. 3) game against Indiana."
             },
             {
                 "Player": "Cam Thomas",
@@ -66,8 +66,8 @@
             {
                 "Player": "Ziaire Williams",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Day To Day (Knee) - Williams did not play in Monday's (Dec. 2) game against Chicago."
+                "Update": "Tue, Dec 3, 2024",
+                "Description": "Out (Knee) - Williams is OUT for Wednesday's (Dec. 3) game against Indiana."
             }
         ],
         "team_stats": {
@@ -123,20 +123,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "7",
                 "FG": "24",
                 "FGA": "30",
-                "FG%": "16",
+                "FG%": "17",
                 "3P": "5",
-                "3PA": "8",
+                "3PA": "7",
                 "3P%": "5",
                 "2P": "28",
                 "2PA": "29",
-                "2P%": "20",
-                "FT": "14",
+                "2P%": "21",
+                "FT": "15",
                 "FTA": "22",
                 "FT%": "4",
-                "ORB": "30",
+                "ORB": "29",
                 "DRB": "29",
                 "TRB": "30",
                 "AST": "13",
@@ -144,7 +144,7 @@
                 "BLK": "29",
                 "TOV": "15",
                 "PF": "29",
-                "PTS": "20"
+                "PTS": "19"
             },
             "Year/Year": {
                 "G": "",
@@ -223,28 +223,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "7",
                 "FG": "16",
                 "FGA": "3",
-                "FG%": "30",
+                "FG%": "29",
                 "3P": "12",
                 "3PA": "6",
-                "3P%": "24",
+                "3P%": "25",
                 "2P": "17",
                 "2PA": "5",
-                "2P%": "28",
+                "2P%": "27",
                 "FT": "28",
-                "FTA": "27",
+                "FTA": "26",
                 "FT%": "16",
-                "ORB": "6",
+                "ORB": "4",
                 "DRB": "19",
-                "TRB": "11",
+                "TRB": "10",
                 "AST": "23",
-                "STL": "16",
+                "STL": "15",
                 "BLK": "27",
                 "TOV": "13",
-                "PF": "12",
-                "PTS": "21"
+                "PF": "10",
+                "PTS": "20"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -277,8 +277,8 @@
                 "PW": "8",
                 "PL": "14",
                 "MOV": "-4.27",
-                "SOS": "1.53",
-                "SRS": "-2.74",
+                "SOS": "1.54",
+                "SRS": "-2.73",
                 "ORtg": "113.1",
                 "DRtg": "117.5",
                 "Pace": "96.7",
@@ -293,28 +293,28 @@
                 "Attendance": "159,880"
             },
             "Misc Lg Rank": {
-                "W": "18",
-                "L": "7",
-                "PW": "22",
-                "PL": "26",
+                "W": "19",
+                "L": "9",
+                "PW": "23",
+                "PL": "25",
                 "MOV": "22",
                 "SOS": "3",
                 "SRS": "19",
-                "ORtg": "16",
+                "ORtg": "15",
                 "DRtg": "25",
-                "Pace": "28",
-                "FTr": "13",
+                "Pace": "29",
+                "FTr": "15",
                 "3PAr": "4",
                 "eFG%": "30",
-                "TOV%": "10",
+                "TOV%": "9",
                 "ORB%": "28",
                 "FT/FGA": "29",
-                "DRB%": "16",
+                "DRB%": "15",
                 "Arena": "",
-                "Attendance": "26"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/BRK-2025.png",
-        "last_update": "Dec 03 2024 22:32:12"
+        "last_update": "Dec 04 2024 22:32:13"
     }
 }

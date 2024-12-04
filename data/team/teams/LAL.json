@@ -2,7 +2,7 @@
     "LAL": {
         "info": {
             "record": "12-9",
-            "standing": "8th in West",
+            "standing": "9th in West",
             "coach": "JJ Redick (12-9)",
             "gm": "Rob Pelinka",
             "preseason_odds": "+3000"
@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Tue, Dec 3, 2024",
+                "Description": "Day To Day (Plantar) - Davis is probable for Wednesday's (Dec. 4) game against Miami."
+            },
+            {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
                 "Update": "Sat, Nov 30, 2024",
@@ -37,26 +43,26 @@
             {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Day To Day (Groin) - Hood-Schifino did not play in Monday's (Dec. 2) game against Minnesota."
+                "Update": "Tue, Dec 3, 2024",
+                "Description": "Day To Day (Groin) - Hood-Schifino is Questionable for Wednesday's (Dec. 4) game against Miami."
             },
             {
                 "Player": "Bronny James",
                 "Team": "Los Angeles Lakers",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Day To Day (Heel) - James did not play in Monday's (Dec. 2) game against Minnesota."
+                "Update": "Tue, Dec 3, 2024",
+                "Description": "Out (Heel) - James is OUT for Wednesday's (Dec. 4) game against Miami."
             },
             {
                 "Player": "Austin Reaves",
                 "Team": "Los Angeles Lakers",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Day To Day (Pelvis) - Reaves did not play in Monday's (Dec. 2) game against Minnesota."
+                "Update": "Tue, Dec 3, 2024",
+                "Description": "Day To Day (Pelvis) - Reaves is Questionable for Wednesday's (Dec. 4) game against Miami."
             },
             {
                 "Player": "Jarred Vanderbilt",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Nov 20, 2024",
-                "Description": "Out (Foot) - Vanderbilt's ramp-up process has gone slower than anticipated, and he'll be re-evaluated in a couple weeks from Wednesday, Dave McMenamin of ESPN.com reports."
+                "Update": "Tue, Dec 3, 2024",
+                "Description": "Out (Knee) - Vanderbilt experienced fluid in his left knee recently during rehabilitation and is now targeting early January for a return."
             },
             {
                 "Player": "Christian Wood",
@@ -118,26 +124,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "16",
-                "FGA": "27",
+                "FGA": "25",
                 "FG%": "10",
-                "3P": "25",
+                "3P": "26",
                 "3PA": "25",
-                "3P%": "19",
-                "2P": "11",
+                "3P%": "18",
+                "2P": "12",
                 "2PA": "14",
                 "2P%": "9",
-                "FT": "1",
+                "FT": "2",
                 "FTA": "3",
-                "FT%": "14",
-                "ORB": "26",
+                "FT%": "15",
+                "ORB": "25",
                 "DRB": "25",
                 "TRB": "27",
                 "AST": "12",
                 "STL": "23",
                 "BLK": "26",
-                "TOV": "5",
+                "TOV": "4",
                 "PF": "1",
                 "PTS": "17"
             },
@@ -218,28 +224,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "24",
-                "FGA": "15",
+                "FGA": "16",
                 "FG%": "26",
-                "3P": "17",
-                "3PA": "11",
-                "3P%": "21",
-                "2P": "24",
-                "2PA": "19",
+                "3P": "16",
+                "3PA": "14",
+                "3P%": "22",
+                "2P": "23",
+                "2PA": "20",
                 "2P%": "24",
                 "FT": "5",
                 "FTA": "5",
-                "FT%": "22",
+                "FT%": "23",
                 "ORB": "16",
                 "DRB": "13",
-                "TRB": "13",
+                "TRB": "12",
                 "AST": "27",
-                "STL": "12",
+                "STL": "11",
                 "BLK": "3",
                 "TOV": "20",
                 "PF": "4",
-                "PTS": "22"
+                "PTS": "21"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -272,8 +278,8 @@
                 "PW": "9",
                 "PL": "12",
                 "MOV": "-2.52",
-                "SOS": "-0.08",
-                "SRS": "-2.61",
+                "SOS": "0.01",
+                "SRS": "-2.51",
                 "ORtg": "114.5",
                 "DRtg": "117.1",
                 "Pace": "98.1",
@@ -288,28 +294,28 @@
                 "Attendance": "189,458"
             },
             "Misc Lg Rank": {
-                "W": "9",
-                "L": "16",
+                "W": "10",
+                "L": "17",
                 "PW": "20",
                 "PL": "18",
-                "MOV": "19",
+                "MOV": "18",
                 "SOS": "16",
                 "SRS": "18",
-                "ORtg": "9",
+                "ORtg": "12",
                 "DRtg": "24",
-                "Pace": "17",
+                "Pace": "18",
                 "FTr": "1",
-                "3PAr": "21",
-                "eFG%": "27",
+                "3PAr": "20",
+                "eFG%": "26",
                 "TOV%": "19",
-                "ORB%": "25",
+                "ORB%": "23",
                 "FT/FGA": "6",
-                "DRB%": "18",
+                "DRB%": "19",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAL-2025.png",
-        "last_update": "Dec 03 2024 22:32:12"
+        "last_update": "Dec 04 2024 22:32:13"
     }
 }
