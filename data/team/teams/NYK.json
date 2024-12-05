@@ -30,8 +30,14 @@
             {
                 "Player": "Precious Achiuwa",
                 "Team": "New York Knicks",
-                "Update": "Wed, Nov 20, 2024",
-                "Description": "Out (Hamstring) - Achiuwa is expected to be cleared to practice at some point during the Knicks five-game road trip that begins Wednesday, Steve Popper of Newsday reports."
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Day To Day (Hamstring) - Achiuwa is questionable for Thursday's (Dec. 5) game against Charlotte."
+            },
+            {
+                "Player": "Cameron Payne",
+                "Team": "New York Knicks",
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Day To Day (Elbow) - Payne is questionable for Thursday's (Dec. 5) game against Charlotte due to a left elbow effusion."
             },
             {
                 "Player": "Mitchell Robinson",
@@ -93,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "3",
                 "FGA": "17",
                 "FG%": "2",
@@ -107,7 +113,7 @@
                 "FTA": "29",
                 "FT%": "1",
                 "ORB": "22",
-                "DRB": "15",
+                "DRB": "16",
                 "TRB": "23",
                 "AST": "9",
                 "STL": "26",
@@ -193,23 +199,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
-                "FG": "10",
-                "FGA": "7",
-                "FG%": "18",
+                "MP": "21",
+                "FG": "12",
+                "FGA": "8",
+                "FG%": "19",
                 "3P": "21",
-                "3PA": "22",
+                "3PA": "23",
                 "3P%": "18",
-                "2P": "9",
+                "2P": "8",
                 "2PA": "6",
                 "2P%": "20",
                 "FT": "10",
-                "FTA": "10",
-                "FT%": "18",
-                "ORB": "3",
+                "FTA": "9",
+                "FT%": "19",
+                "ORB": "4",
                 "DRB": "1",
                 "TRB": "1",
-                "AST": "11",
+                "AST": "10",
                 "STL": "4",
                 "BLK": "10",
                 "TOV": "27",
@@ -247,8 +253,8 @@
                 "PW": "15",
                 "PL": "6",
                 "MOV": "6.76",
-                "SOS": "-1.49",
-                "SRS": "5.28",
+                "SOS": "-1.36",
+                "SRS": "5.40",
                 "ORtg": "121.6",
                 "DRtg": "114.6",
                 "Pace": "97.0",
@@ -271,7 +277,7 @@
                 "SOS": "27",
                 "SRS": "8",
                 "ORtg": "1",
-                "DRtg": "18",
+                "DRtg": "19",
                 "Pace": "27",
                 "FTr": "28",
                 "3PAr": "17",
@@ -281,10 +287,10 @@
                 "FT/FGA": "11",
                 "DRB%": "5",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NYK-2025.png",
-        "last_update": "Dec 04 2024 22:32:13"
+        "last_update": "Dec 05 2024 22:32:14"
     }
 }

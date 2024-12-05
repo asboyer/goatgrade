@@ -2,7 +2,7 @@
     "PHO": {
         "info": {
             "record": "12-8",
-            "standing": "6th in West",
+            "standing": "5th in West",
             "coach": "Mike Budenholzer (12-8)",
             "gm": "James Jones",
             "preseason_odds": "+3500"
@@ -28,6 +28,18 @@
         ],
         "injuries": [
             {
+                "Player": "Ryan Dunn",
+                "Team": "Phoenix Suns",
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Day To Day (Ankle) - Dunn is probable for Thursday's (Dec. 5) game against New Orleans due to left ankle soreness."
+            },
+            {
+                "Player": "Kevin Durant",
+                "Team": "Phoenix Suns",
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Out (Ankle) - Durant will be re-evaluated in one week with a left ankle sprain, ESPN's Shams Charania reports."
+            },
+            {
                 "Player": "Collin Gillespie",
                 "Team": "Phoenix Suns",
                 "Update": "Tue, Nov 12, 2024",
@@ -36,8 +48,8 @@
             {
                 "Player": "Jusuf Nurkić",
                 "Team": "Phoenix Suns",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Out (Ankle) - Nurkic is OUT for Tuesday's (Dec. 3) game against San Antonio."
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Out (Ankle) - The Suns announced that Nurkic will be re-evaluated in one week due to a right thigh contusion, Duane Rankin of The Arizona Republic reports."
             }
         ],
         "team_stats": {
@@ -93,11 +105,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
-                "FG": "19",
-                "FGA": "26",
-                "FG%": "13",
-                "3P": "8",
+                "MP": "26",
+                "FG": "18",
+                "FGA": "25",
+                "FG%": "12",
+                "3P": "9",
                 "3PA": "8",
                 "3P%": "9",
                 "2P": "25",
@@ -105,13 +117,13 @@
                 "2P%": "15",
                 "FT": "11",
                 "FTA": "11",
-                "FT%": "18",
-                "ORB": "24",
-                "DRB": "7",
-                "TRB": "15",
+                "FT%": "17",
+                "ORB": "25",
+                "DRB": "6",
+                "TRB": "16",
                 "AST": "11",
                 "STL": "22",
-                "BLK": "16",
+                "BLK": "17",
                 "TOV": "8",
                 "PF": "7",
                 "PTS": "16"
@@ -193,28 +205,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
-                "FG": "20",
-                "FGA": "18",
-                "FG%": "14",
+                "MP": "26",
+                "FG": "19",
+                "FGA": "17",
+                "FG%": "17",
                 "3P": "13",
                 "3PA": "8",
-                "3P%": "16",
+                "3P%": "17",
                 "2P": "19",
                 "2PA": "23",
                 "2P%": "12",
                 "FT": "13",
-                "FTA": "11",
+                "FTA": "10",
                 "FT%": "28",
-                "ORB": "11",
-                "DRB": "22",
+                "ORB": "10",
+                "DRB": "23",
                 "TRB": "18",
-                "AST": "21",
+                "AST": "20",
                 "STL": "13",
                 "BLK": "7",
                 "TOV": "28",
-                "PF": "13",
-                "PTS": "17"
+                "PF": "12",
+                "PTS": "16"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +259,8 @@
                 "PW": "10",
                 "PL": "10",
                 "MOV": "-0.15",
-                "SOS": "0.88",
-                "SRS": "0.73",
+                "SOS": "0.67",
+                "SRS": "0.52",
                 "ORtg": "114.6",
                 "DRtg": "114.7",
                 "Pace": "97.4",
@@ -265,26 +277,26 @@
             "Misc Lg Rank": {
                 "W": "10",
                 "L": "20",
-                "PW": "16",
-                "PL": "15",
+                "PW": "18",
+                "PL": "14",
                 "MOV": "16",
-                "SOS": "8",
-                "SRS": "14",
-                "ORtg": "11",
-                "DRtg": "19",
+                "SOS": "11",
+                "SRS": "15",
+                "ORtg": "10",
+                "DRtg": "20",
                 "Pace": "24",
                 "FTr": "6",
                 "3PAr": "7",
-                "eFG%": "14",
+                "eFG%": "13",
                 "TOV%": "27",
-                "ORB%": "26",
+                "ORB%": "25",
                 "FT/FGA": "14",
                 "DRB%": "7",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/PHO-2025.png",
-        "last_update": "Dec 04 2024 22:32:13"
+        "last_update": "Dec 05 2024 22:32:14"
     }
 }

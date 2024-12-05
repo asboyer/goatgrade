@@ -37,8 +37,8 @@
             {
                 "Player": "Scoot Henderson",
                 "Team": "Portland Trail Blazers",
-                "Update": "Tue, Dec 3, 2024",
-                "Description": "Out (Quad) - Henderson is out for Tuesday's (Dec. 3) game against the Clippers."
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Day To Day (Quad) - Henderson did not play for Tuesday's (Dec. 3) game against the Clippers."
             },
             {
                 "Player": "Matisse Thybulle",
@@ -49,8 +49,8 @@
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Out (Concussion) - Williams III is OUT for Tuesday's (Dec. 3) game against the Clippers."
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Day To Day (Concussion) - Williams III did not play for Tuesday's (Dec. 3) game against the Clippers."
             }
         ],
         "team_stats": {
@@ -106,22 +106,22 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
-                "FG": "23",
+                "MP": "12",
+                "FG": "24",
                 "FGA": "11",
                 "FG%": "27",
-                "3P": "25",
+                "3P": "24",
                 "3PA": "23",
                 "3P%": "24",
-                "2P": "17",
+                "2P": "15",
                 "2PA": "8",
-                "2P%": "27",
-                "FT": "20",
+                "2P%": "28",
+                "FT": "19",
                 "FTA": "16",
                 "FT%": "24",
                 "ORB": "4",
-                "DRB": "28",
-                "TRB": "18",
+                "DRB": "29",
+                "TRB": "19",
                 "AST": "29",
                 "STL": "11",
                 "BLK": "5",
@@ -206,8 +206,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
-                "FG": "19",
+                "MP": "12",
+                "FG": "18",
                 "FGA": "9",
                 "FG%": "22",
                 "3P": "22",
@@ -215,19 +215,19 @@
                 "3P%": "23",
                 "2P": "15",
                 "2PA": "11",
-                "2P%": "18",
+                "2P%": "19",
                 "FT": "22",
                 "FTA": "22",
-                "FT%": "22",
+                "FT%": "23",
                 "ORB": "29",
-                "DRB": "16",
-                "TRB": "24",
+                "DRB": "15",
+                "TRB": "23",
                 "AST": "25",
                 "STL": "29",
-                "BLK": "28",
-                "TOV": "4",
-                "PF": "9",
-                "PTS": "22"
+                "BLK": "27",
+                "TOV": "5",
+                "PF": "8",
+                "PTS": "21"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -260,8 +260,8 @@
                 "PW": "6",
                 "PL": "16",
                 "MOV": "-8.14",
-                "SOS": "1.45",
-                "SRS": "-6.68",
+                "SOS": "1.50",
+                "SRS": "-6.64",
                 "ORtg": "107.6",
                 "DRtg": "115.8",
                 "Pace": "99.6",
@@ -277,27 +277,27 @@
             },
             "Misc Lg Rank": {
                 "W": "24",
-                "L": "6",
+                "L": "8",
                 "PW": "27",
                 "PL": "27",
                 "MOV": "27",
-                "SOS": "4",
+                "SOS": "3",
                 "SRS": "27",
                 "ORtg": "28",
                 "DRtg": "23",
                 "Pace": "11",
                 "FTr": "20",
-                "3PAr": "25",
+                "3PAr": "24",
                 "eFG%": "21",
                 "TOV%": "4",
                 "ORB%": "4",
                 "FT/FGA": "24",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/POR-2025.png",
-        "last_update": "Dec 04 2024 22:32:13"
+        "last_update": "Dec 05 2024 22:32:14"
     }
 }

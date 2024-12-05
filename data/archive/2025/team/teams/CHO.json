@@ -37,8 +37,8 @@
             {
                 "Player": "Miles Bridges",
                 "Team": "Charlotte Hornets",
-                "Update": "Tue, Dec 3, 2024",
-                "Description": "Day To Day (Knee) - Bridges did not play in Tuesday's (Dec. 3) game against Philadelphia."
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Out (Knee) - The Hornets announced Bridges is out for Thursday's (Dec. 5) game against the Knicks."
             },
             {
                 "Player": "Tre Mann",
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "18",
                 "FG": "29",
                 "FGA": "9",
                 "FG%": "30",
@@ -118,15 +118,15 @@
                 "2P%": "30",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "10",
+                "FT%": "11",
                 "ORB": "3",
-                "DRB": "21",
+                "DRB": "22",
                 "TRB": "6",
                 "AST": "27",
                 "STL": "18",
-                "BLK": "15",
+                "BLK": "16",
                 "TOV": "23",
-                "PF": "23",
+                "PF": "24",
                 "PTS": "26"
             },
             "Year/Year": {
@@ -206,27 +206,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
-                "FG": "7",
+                "MP": "18",
+                "FG": "8",
                 "FGA": "6",
                 "FG%": "20",
                 "3P": "15",
                 "3PA": "17",
-                "3P%": "12",
-                "2P": "12",
+                "3P%": "13",
+                "2P": "11",
                 "2PA": "6",
                 "2P%": "21",
-                "FT": "19",
+                "FT": "18",
                 "FTA": "19",
                 "FT%": "14",
-                "ORB": "10",
-                "DRB": "13",
+                "ORB": "9",
+                "DRB": "14",
                 "TRB": "9",
-                "AST": "14",
+                "AST": "15",
                 "STL": "12",
                 "BLK": "18",
                 "TOV": "17",
-                "PF": "20",
+                "PF": "19",
                 "PTS": "14"
             },
             "Opp Year/Year": {
@@ -260,8 +260,8 @@
                 "PW": "7",
                 "PL": "14",
                 "MOV": "-4.67",
-                "SOS": "0.50",
-                "SRS": "-4.16",
+                "SOS": "0.81",
+                "SRS": "-3.86",
                 "ORtg": "109.5",
                 "DRtg": "114.3",
                 "Pace": "97.1",
@@ -279,10 +279,10 @@
                 "W": "26",
                 "L": "4",
                 "PW": "25",
-                "PL": "23",
-                "MOV": "25",
-                "SOS": "13",
-                "SRS": "24",
+                "PL": "20",
+                "MOV": "24",
+                "SOS": "10",
+                "SRS": "23",
                 "ORtg": "26",
                 "DRtg": "16",
                 "Pace": "26",
@@ -292,12 +292,12 @@
                 "TOV%": "15",
                 "ORB%": "3",
                 "FT/FGA": "22",
-                "DRB%": "12",
+                "DRB%": "11",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CHO-2025.png",
-        "last_update": "Dec 04 2024 22:32:13"
+        "last_update": "Dec 05 2024 22:32:14"
     }
 }

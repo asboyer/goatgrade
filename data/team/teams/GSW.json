@@ -2,7 +2,7 @@
     "GSW": {
         "info": {
             "record": "12-8",
-            "standing": "7th in West",
+            "standing": "6th in West",
             "coach": "Steve Kerr (12-8)",
             "gm": "Mike Dunleavy",
             "preseason_odds": "+3000"
@@ -27,16 +27,28 @@
         ],
         "injuries": [
             {
+                "Player": "Stephen Curry",
+                "Team": "Golden State Warriors",
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Out (Rest) - The Warriors announced Curry is out for Thursday's (Dec. 5) game against the Rockets."
+            },
+            {
                 "Player": "Draymond Green",
                 "Team": "Golden State Warriors",
-                "Update": "Tue, Dec 3, 2024",
-                "Description": "Out (Calf) - Green is OUT for Tuesday's (Dec. 3) game against Denver."
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Out (Calf) - The Warriors announced Green is out for Thursday's (Dec. 5) game against the Rockets."
             },
             {
                 "Player": "De'Anthony Melton",
                 "Team": "Golden State Warriors",
                 "Update": "Wed, Nov 20, 2024",
                 "Description": "Out For Season (ACL) - Melton will undergo season-ending surgery on his left ACL, the team announced Wednesday (Nov. 20)."
+            },
+            {
+                "Player": "Andrew Wiggins",
+                "Team": "Golden State Warriors",
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Day To Day (Ankle) - Wiggins is questionable for Thursday's (Dec. 5) game against Houston."
             }
         ],
         "team_stats": {
@@ -92,15 +104,15 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "28",
                 "FG": "10",
                 "FGA": "2",
                 "FG%": "20",
                 "3P": "4",
                 "3PA": "4",
-                "3P%": "11",
-                "2P": "20",
-                "2PA": "17",
+                "3P%": "10",
+                "2P": "19",
+                "2PA": "16",
                 "2P%": "22",
                 "FT": "29",
                 "FTA": "19",
@@ -109,7 +121,7 @@
                 "DRB": "2",
                 "TRB": "2",
                 "AST": "3",
-                "STL": "6",
+                "STL": "7",
                 "BLK": "13",
                 "TOV": "13",
                 "PF": "26",
@@ -192,27 +204,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "28",
                 "FG": "5",
-                "FGA": "19",
+                "FGA": "18",
                 "FG%": "3",
-                "3P": "6",
-                "3PA": "20",
+                "3P": "7",
+                "3PA": "22",
                 "3P%": "1",
-                "2P": "8",
+                "2P": "7",
                 "2PA": "12",
                 "2P%": "7",
-                "FT": "25",
+                "FT": "26",
                 "FTA": "25",
-                "FT%": "11",
+                "FT%": "10",
                 "ORB": "19",
-                "DRB": "25",
+                "DRB": "27",
                 "TRB": "27",
                 "AST": "17",
-                "STL": "8",
+                "STL": "6",
                 "BLK": "26",
                 "TOV": "11",
-                "PF": "26",
+                "PF": "25",
                 "PTS": "8"
             },
             "Opp Year/Year": {
@@ -246,8 +258,8 @@
                 "PW": "13",
                 "PL": "7",
                 "MOV": "5.85",
-                "SOS": "0.09",
-                "SRS": "5.94",
+                "SOS": "-0.04",
+                "SRS": "5.81",
                 "ORtg": "114.6",
                 "DRtg": "108.8",
                 "Pace": "100.8",
@@ -264,12 +276,12 @@
             "Misc Lg Rank": {
                 "W": "10",
                 "L": "20",
-                "PW": "10",
+                "PW": "9",
                 "PL": "7",
                 "MOV": "8",
-                "SOS": "15",
+                "SOS": "16",
                 "SRS": "6",
-                "ORtg": "10",
+                "ORtg": "9",
                 "DRtg": "5",
                 "Pace": "5",
                 "FTr": "24",
@@ -284,6 +296,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/GSW-2025.png",
-        "last_update": "Dec 04 2024 22:32:13"
+        "last_update": "Dec 05 2024 22:32:14"
     }
 }

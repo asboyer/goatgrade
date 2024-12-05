@@ -36,20 +36,26 @@
             {
                 "Player": "Jordan Hawkins",
                 "Team": "New Orleans Pelicans",
-                "Update": "Tue, Dec 3, 2024",
-                "Description": "Day To Day (Back) - Hawkins did not play in Monday's (Dec. 2) game against Atlanta."
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Out (Back) - Hawkins has been diagnosed with a lumbar spine annular fissure and will be re-assessed in approximately one week."
             },
             {
                 "Player": "Brandon Ingram",
                 "Team": "New Orleans Pelicans",
-                "Update": "Tue, Dec 3, 2024",
-                "Description": "Day To Day (Calf) - Ingram did not play in Monday's (Dec. 2) game against Atlanta."
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Day To Day (Calf) - Ingram is Questionable in Thursday's (Dec. 5) game against Phoenix."
             },
             {
                 "Player": "Herbert Jones",
                 "Team": "New Orleans Pelicans",
-                "Update": "Tue, Dec 3, 2024",
-                "Description": "Day To Day (Shoulder ) - Jones did not play in Monday's (Dec. 2) game against Atlanta."
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Day To Day (Shoulder ) - Jones is Questionable in Thursday's (Dec. 5) game against Phoenix."
+            },
+            {
+                "Player": "Yves Missi",
+                "Team": "New Orleans Pelicans",
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Day To Day (Ankle) - Missi is questionable for Thursday's (Dec. 5) game against the Suns due to a right ankle sprain."
             },
             {
                 "Player": "Zion Williamson",
@@ -111,22 +117,22 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "26",
                 "FGA": "13",
                 "FG%": "29",
                 "3P": "30",
                 "3PA": "28",
-                "3P%": "27",
+                "3P%": "28",
                 "2P": "14",
                 "2PA": "4",
-                "2P%": "28",
+                "2P%": "29",
                 "FT": "28",
                 "FTA": "26",
                 "FT%": "27",
                 "ORB": "6",
                 "DRB": "27",
-                "TRB": "16",
+                "TRB": "17",
                 "AST": "26",
                 "STL": "9",
                 "BLK": "12",
@@ -211,25 +217,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "28",
-                "FGA": "23",
+                "FGA": "22",
                 "FG%": "28",
                 "3P": "28",
-                "3PA": "23",
-                "3P%": "26",
-                "2P": "24",
-                "2PA": "17",
+                "3PA": "24",
+                "3P%": "25",
+                "2P": "25",
+                "2PA": "18",
                 "2P%": "26",
                 "FT": "1",
                 "FTA": "2",
                 "FT%": "12",
                 "ORB": "24",
                 "DRB": "21",
-                "TRB": "25",
-                "AST": "28",
+                "TRB": "24",
+                "AST": "27",
                 "STL": "21",
-                "BLK": "23",
+                "BLK": "22",
                 "TOV": "19",
                 "PF": "29",
                 "PTS": "23"
@@ -265,8 +271,8 @@
                 "PW": "4",
                 "PL": "18",
                 "MOV": "-12.73",
-                "SOS": "0.83",
-                "SRS": "-11.90",
+                "SOS": "0.82",
+                "SRS": "-11.91",
                 "ORtg": "105.5",
                 "DRtg": "118.5",
                 "Pace": "97.9",
@@ -299,10 +305,10 @@
                 "FT/FGA": "1",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NOP-2025.png",
-        "last_update": "Dec 04 2024 22:32:13"
+        "last_update": "Dec 05 2024 22:32:14"
     }
 }

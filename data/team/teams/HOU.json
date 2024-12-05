@@ -26,7 +26,20 @@
             "Jeenathan Williams",
             "N'Faly Dante"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Tari Eason",
+                "Team": "Houston Rockets",
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Out (Concussion) - The Rockets announced Eason is out for Thursday's (Dec. 5) game against the Warriors."
+            },
+            {
+                "Player": "Fred VanVleet",
+                "Team": "Houston Rockets",
+                "Update": "Wed, Dec 4, 2024",
+                "Description": "Day To Day (Knee) - VanVleet is questionable for Thursday's (Dec. 5) game against the Warriors due to a right knee contusion."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "22",
@@ -80,14 +93,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "7",
                 "FG": "13",
                 "FGA": "1",
-                "FG%": "25",
-                "3P": "24",
-                "3PA": "20",
+                "FG%": "26",
+                "3P": "22",
+                "3PA": "19",
                 "3P%": "26",
-                "2P": "8",
+                "2P": "7",
                 "2PA": "1",
                 "2P%": "26",
                 "FT": "4",
@@ -101,7 +114,7 @@
                 "BLK": "7",
                 "TOV": "7",
                 "PF": "22",
-                "PTS": "13"
+                "PTS": "12"
             },
             "Year/Year": {
                 "G": "",
@@ -180,28 +193,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "7",
                 "FG": "3",
                 "FGA": "13",
                 "FG%": "2",
                 "3P": "2",
                 "3PA": "3",
-                "3P%": "4",
-                "2P": "10",
-                "2PA": "27",
+                "3P%": "5",
+                "2P": "9",
+                "2PA": "28",
                 "2P%": "1",
-                "FT": "20",
+                "FT": "19",
                 "FTA": "21",
-                "FT%": "3",
-                "ORB": "15",
+                "FT%": "4",
+                "ORB": "14",
                 "DRB": "20",
                 "TRB": "20",
                 "AST": "1",
-                "STL": "7",
+                "STL": "5",
                 "BLK": "30",
-                "TOV": "9",
-                "PF": "5",
-                "PTS": "4"
+                "TOV": "10",
+                "PF": "4",
+                "PTS": "3"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -234,8 +247,8 @@
                 "PW": "16",
                 "PL": "6",
                 "MOV": "7.45",
-                "SOS": "0.46",
-                "SRS": "7.92",
+                "SOS": "0.36",
+                "SRS": "7.82",
                 "ORtg": "113.0",
                 "DRtg": "105.6",
                 "Pace": "99.8",
@@ -250,28 +263,28 @@
                 "Attendance": "203,126"
             },
             "Misc Lg Rank": {
-                "W": "4",
+                "W": "5",
                 "L": "27",
                 "PW": "5",
                 "PL": "5",
                 "MOV": "5",
-                "SOS": "14",
+                "SOS": "13",
                 "SRS": "4",
-                "ORtg": "16",
+                "ORtg": "15",
                 "DRtg": "2",
                 "Pace": "9",
-                "FTr": "12",
+                "FTr": "10",
                 "3PAr": "27",
                 "eFG%": "1",
                 "TOV%": "12",
                 "ORB%": "2",
-                "FT/FGA": "18",
+                "FT/FGA": "19",
                 "DRB%": "8",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/HOU-2025.png",
-        "last_update": "Dec 04 2024 22:32:13"
+        "last_update": "Dec 05 2024 22:32:14"
     }
 }
