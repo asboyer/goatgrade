@@ -28,28 +28,22 @@
         ],
         "injuries": [
             {
+                "Player": "Adem Bona",
+                "Team": "Philadelphia 76ers",
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Out (Knee) - The 76ers have listed Bona as Out for Friday's (Dec. 6) game against Orlando. "
+            },
+            {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Out (Ankle) - Drummond will miss the next three games according to Ky Carlin of USA Today."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Day To Day (Ankle) - The 76ers listed Drummond as Questionable for Friday's (Dec. 6) game against Orlando."
             },
             {
                 "Player": "Joel Embiid",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Knee) - Embiid did not play on Wednesday's (Dec. 4) game against Orlando."
-            },
-            {
-                "Player": "Paul George",
-                "Team": "Philadelphia 76ers",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Undisclosed) - George did not play on Wednesday's (Dec. 4) game against the Magic."
-            },
-            {
-                "Player": "Kyle Lowry",
-                "Team": "Philadelphia 76ers",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Undisclosed) - Lowry did not play on Wednesday's (Dec. 4) game against the Magic."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Out (Knee) - The 76ers listed Embiid as Out for Friday's (Dec. 6) game against Orlando."
             }
         ],
         "team_stats": {
@@ -105,18 +99,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "30",
                 "FGA": "22",
                 "FG%": "28",
-                "3P": "23",
+                "3P": "22",
                 "3PA": "17",
-                "3P%": "27",
+                "3P%": "28",
                 "2P": "23",
                 "2PA": "19",
                 "2P%": "25",
                 "FT": "9",
-                "FTA": "8",
+                "FTA": "9",
                 "FT%": "20",
                 "ORB": "16",
                 "DRB": "30",
@@ -205,28 +199,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "6",
                 "FGA": "2",
                 "FG%": "23",
                 "3P": "5",
                 "3PA": "4",
-                "3P%": "14",
+                "3P%": "13",
                 "2P": "16",
                 "2PA": "5",
                 "2P%": "25",
                 "FT": "27",
-                "FTA": "20",
+                "FTA": "19",
                 "FT%": "29",
                 "ORB": "10",
                 "DRB": "24",
                 "TRB": "22",
-                "AST": "13",
-                "STL": "9",
-                "BLK": "25",
+                "AST": "12",
+                "STL": "8",
+                "BLK": "23",
                 "TOV": "2",
                 "PF": "12",
-                "PTS": "12"
+                "PTS": "11"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -259,8 +253,8 @@
                 "PW": "6",
                 "PL": "14",
                 "MOV": "-6.20",
-                "SOS": "0.82",
-                "SRS": "-5.38",
+                "SOS": "0.65",
+                "SRS": "-5.55",
                 "ORtg": "107.9",
                 "DRtg": "114.3",
                 "Pace": "96.0",
@@ -276,11 +270,11 @@
             },
             "Misc Lg Rank": {
                 "W": "27",
-                "L": "4",
+                "L": "6",
                 "PW": "26",
-                "PL": "22",
+                "PL": "20",
                 "MOV": "26",
-                "SOS": "8",
+                "SOS": "10",
                 "SRS": "25",
                 "ORtg": "27",
                 "DRtg": "17",
@@ -291,12 +285,12 @@
                 "TOV%": "2",
                 "ORB%": "18",
                 "FT/FGA": "28",
-                "DRB%": "26",
+                "DRB%": "27",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/PHI-2025.png",
-        "last_update": "Dec 05 2024 22:32:14"
+        "last_update": "Dec 06 2024 22:32:13"
     }
 }

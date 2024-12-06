@@ -2,7 +2,7 @@
     "MIN": {
         "info": {
             "record": "11-10",
-            "standing": "11th in West",
+            "standing": "10th in West",
             "coach": "Chris Finch (11-10)",
             "gm": "Tim Connelly",
             "preseason_odds": "+850"
@@ -30,14 +30,14 @@
             {
                 "Player": "Rob Dillingham",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Ankle) - Dillingham did not play on Wednesday's (Dec. 4) game against Los Angeles."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Day To Day (Ankle) - Dillingham did not play in Wednesday's (Dec. 4) game against the Clippers."
             },
             {
                 "Player": "Joe Ingles",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Soleus) - Ingles did not play on Wednesday's (Dec. 4) game against Los Angeles."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Day To Day (Soleus) - Ingles did not play in Wednesday's (Dec. 4) game against the Clippers."
             }
         ],
         "team_stats": {
@@ -93,26 +93,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
-                "FG": "20",
+                "MP": "22",
+                "FG": "21",
                 "FGA": "29",
-                "FG%": "13",
+                "FG%": "12",
                 "3P": "7",
-                "3PA": "6",
+                "3PA": "5",
                 "3P%": "11",
                 "2P": "27",
                 "2PA": "28",
-                "2P%": "12",
-                "FT": "20",
+                "2P%": "14",
+                "FT": "19",
                 "FTA": "23",
                 "FT%": "7",
-                "ORB": "23",
-                "DRB": "19",
+                "ORB": "22",
+                "DRB": "20",
                 "TRB": "26",
                 "AST": "20",
                 "STL": "14",
                 "BLK": "24",
-                "TOV": "21",
+                "TOV": "22",
                 "PF": "14",
                 "PTS": "19"
             },
@@ -193,27 +193,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "22",
                 "FG": "7",
                 "FGA": "7",
-                "FG%": "11",
+                "FG%": "10",
                 "3P": "1",
                 "3PA": "2",
-                "3P%": "3",
+                "3P%": "4",
                 "2P": "21",
-                "2PA": "24",
-                "2P%": "15",
+                "2PA": "23",
+                "2P%": "14",
                 "FT": "7",
                 "FTA": "6",
                 "FT%": "25",
-                "ORB": "7",
+                "ORB": "8",
                 "DRB": "9",
-                "TRB": "7",
+                "TRB": "6",
                 "AST": "3",
-                "STL": "26",
-                "BLK": "10",
+                "STL": "25",
+                "BLK": "11",
                 "TOV": "9",
-                "PF": "9",
+                "PF": "10",
                 "PTS": "5"
             },
             "Opp Year/Year": {
@@ -247,8 +247,8 @@
                 "PW": "13",
                 "PL": "8",
                 "MOV": "3.48",
-                "SOS": "-0.39",
-                "SRS": "3.09",
+                "SOS": "-0.60",
+                "SRS": "2.87",
                 "ORtg": "112.7",
                 "DRtg": "109.1",
                 "Pace": "97.5",
@@ -264,27 +264,27 @@
             },
             "Misc Lg Rank": {
                 "W": "14",
-                "L": "14",
+                "L": "15",
                 "PW": "11",
                 "PL": "9",
                 "MOV": "10",
-                "SOS": "19",
+                "SOS": "20",
                 "SRS": "10",
-                "ORtg": "17",
+                "ORtg": "16",
                 "DRtg": "6",
-                "Pace": "23",
+                "Pace": "24",
                 "FTr": "18",
                 "3PAr": "3",
                 "eFG%": "7",
                 "TOV%": "6",
                 "ORB%": "21",
-                "FT/FGA": "9",
+                "FT/FGA": "8",
                 "DRB%": "9",
                 "Arena": "",
                 "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MIN-2025.png",
-        "last_update": "Dec 05 2024 22:32:14"
+        "last_update": "Dec 06 2024 22:32:13"
     }
 }

@@ -30,14 +30,26 @@
             {
                 "Player": "Jrue Holiday",
                 "Team": "Boston Celtics",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Knee) - Holiday did not play on Wednesday's (Dec. 4) game against Detroit."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Day To Day (Knee) - Holiday did not play in Wednesday's (Dec. 4) game against Detroit."
+            },
+            {
+                "Player": "Al Horford",
+                "Team": "Boston Celtics",
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Day To Day (Toe) - The Celtics listed Horford as Questionable for Friday's (Dec. 6) against the Bucks."
+            },
+            {
+                "Player": "Kristaps Porziņģis",
+                "Team": "Boston Celtics",
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Day To Day (Leg) - The Celtics have listed Porzingis as Questionable for Friday's (Dec. 6) game against the Bucks."
             },
             {
                 "Player": "Jayson Tatum",
                 "Team": "Boston Celtics",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Knee) - Tatum did not play on Wednesday's (Dec. 4) game against Detroit."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Day To Day (Knee) - The Celtics have listed Tatum as Questionable for Friday's (Dec. 6) game against the Bucks."
             }
         ],
         "team_stats": {
@@ -93,8 +105,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "14",
+                "MP": "15",
+                "FG": "13",
                 "FGA": "8",
                 "FG%": "18",
                 "3P": "1",
@@ -102,16 +114,16 @@
                 "3P%": "8",
                 "2P": "29",
                 "2PA": "30",
-                "2P%": "5",
-                "FT": "10",
-                "FTA": "15",
+                "2P%": "4",
+                "FT": "11",
+                "FTA": "16",
                 "FT%": "2",
                 "ORB": "17",
                 "DRB": "13",
                 "TRB": "14",
                 "AST": "17",
                 "STL": "23",
-                "BLK": "8",
+                "BLK": "9",
                 "TOV": "2",
                 "PF": "4",
                 "PTS": "3"
@@ -193,28 +205,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "22",
+                "MP": "15",
+                "FG": "21",
                 "FGA": "20",
-                "FG%": "18",
-                "3P": "6",
+                "FG%": "19",
+                "3P": "7",
                 "3PA": "6",
-                "3P%": "11",
+                "3P%": "10",
                 "2P": "23",
                 "2PA": "27",
-                "2P%": "14",
+                "2P%": "13",
                 "FT": "3",
                 "FTA": "3",
                 "FT%": "11",
                 "ORB": "5",
-                "DRB": "21",
+                "DRB": "20",
                 "TRB": "11",
-                "AST": "5",
+                "AST": "6",
                 "STL": "2",
                 "BLK": "1",
                 "TOV": "22",
                 "PF": "18",
-                "PTS": "7"
+                "PTS": "8"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +259,8 @@
                 "PW": "17",
                 "PL": "5",
                 "MOV": "10.27",
-                "SOS": "-1.30",
-                "SRS": "8.97",
+                "SOS": "-1.40",
+                "SRS": "8.87",
                 "ORtg": "121.5",
                 "DRtg": "111.2",
                 "Pace": "97.8",
@@ -265,26 +277,26 @@
             "Misc Lg Rank": {
                 "W": "2",
                 "L": "29",
-                "PW": "2",
-                "PL": "3",
+                "PW": "3",
+                "PL": "2",
                 "MOV": "3",
-                "SOS": "26",
+                "SOS": "25",
                 "SRS": "2",
                 "ORtg": "2",
-                "DRtg": "9",
+                "DRtg": "10",
                 "Pace": "21",
                 "FTr": "21",
                 "3PAr": "1",
-                "eFG%": "12",
-                "TOV%": "21",
+                "eFG%": "11",
+                "TOV%": "22",
                 "ORB%": "19",
                 "FT/FGA": "2",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "6"
+                "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/BOS-2025.png",
-        "last_update": "Dec 05 2024 22:32:14"
+        "last_update": "Dec 06 2024 22:32:13"
     }
 }

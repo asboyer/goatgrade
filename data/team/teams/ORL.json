@@ -36,8 +36,8 @@
             {
                 "Player": "Gary Harris",
                 "Team": "Orlando Magic",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Hamstring) - Harris did not play on Wednesday's (Dec. 4) game against the 76ers."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Out (Hamstring) - The Magic listed Harris as Out Friday's (Dec. 6) game against Philadelphia."
             }
         ],
         "team_stats": {
@@ -102,17 +102,17 @@
                 "3P%": "30",
                 "2P": "20",
                 "2PA": "24",
-                "2P%": "6",
+                "2P%": "7",
                 "FT": "2",
-                "FTA": "4",
-                "FT%": "8",
-                "ORB": "14",
+                "FTA": "5",
+                "FT%": "9",
+                "ORB": "15",
                 "DRB": "24",
                 "TRB": "25",
                 "AST": "22",
                 "STL": "3",
-                "BLK": "2",
-                "TOV": "16",
+                "BLK": "1",
+                "TOV": "17",
                 "PF": "17",
                 "PTS": "25"
             },
@@ -199,18 +199,18 @@
                 "FG%": "8",
                 "3P": "3",
                 "3PA": "1",
-                "3P%": "21",
+                "3P%": "20",
                 "2P": "2",
                 "2PA": "9",
-                "2P%": "6",
+                "2P%": "7",
                 "FT": "11",
                 "FTA": "14",
                 "FT%": "6",
                 "ORB": "1",
-                "DRB": "11",
+                "DRB": "10",
                 "TRB": "2",
                 "AST": "2",
-                "STL": "8",
+                "STL": "7",
                 "BLK": "5",
                 "TOV": "3",
                 "PF": "1",
@@ -247,8 +247,8 @@
                 "PW": "16",
                 "PL": "8",
                 "MOV": "4.83",
-                "SOS": "-1.69",
-                "SRS": "3.14",
+                "SOS": "-1.64",
+                "SRS": "3.20",
                 "ORtg": "111.0",
                 "DRtg": "106.1",
                 "Pace": "97.2",
@@ -263,9 +263,9 @@
                 "Attendance": "164,724"
             },
             "Misc Lg Rank": {
-                "W": "3",
-                "L": "20",
-                "PW": "6",
+                "W": "4",
+                "L": "22",
+                "PW": "8",
                 "PL": "10",
                 "MOV": "9",
                 "SOS": "28",
@@ -275,16 +275,16 @@
                 "Pace": "25",
                 "FTr": "3",
                 "3PAr": "10",
-                "eFG%": "9",
+                "eFG%": "8",
                 "TOV%": "3",
-                "ORB%": "14",
+                "ORB%": "15",
                 "FT/FGA": "18",
                 "DRB%": "1",
                 "Arena": "",
-                "Attendance": "28"
+                "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/ORL-2025.png",
-        "last_update": "Dec 05 2024 22:32:14"
+        "last_update": "Dec 06 2024 22:32:13"
     }
 }

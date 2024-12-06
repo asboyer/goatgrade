@@ -2,7 +2,7 @@
     "LAC": {
         "info": {
             "record": "14-10",
-            "standing": "7th in West",
+            "standing": "6th in West",
             "coach": "Tyronn Lue (14-10)",
             "gm": "Lawrence Frank",
             "preseason_odds": "+3000"
@@ -30,32 +30,32 @@
             {
                 "Player": "Kobe Brown",
                 "Team": "Los Angeles Clippers",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Back) - Brown did not play on Wednesday's (Nov. 4) game against the Timberwolves."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Out (Back) - Brown has a herniated disc and will be re-evaluated in two weeks, according to an independent NBA writer Justin Russo."
             },
             {
                 "Player": "Kawhi Leonard",
                 "Team": "Los Angeles Clippers",
                 "Update": "Mon, Nov 18, 2024",
-                "Description": "Out (Knee) - Leonard has been cleared to resume shooting work, Tomer Azarly of ClutchPoints.com reports."
+                "Description": "Out (Knee) - Leonard has been cleared to resume shooting work said head coach Tyronn Lue on Monday (Nov. 18), according to Tomer Azarly of ClutchPoints.com."
             },
             {
                 "Player": "Terance Mann",
                 "Team": "Los Angeles Clippers",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Finger) - Mann did not play on Wednesday's (Nov. 4) game versus Minnesota, Ohm Youngmisuk of ESPN.com reports."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Out (Finger) - Mann will undergo surgery to repair his fractured left middle finger and will be re-evaluated in three weeks, according to Joey Linn of SI.com."
             },
             {
                 "Player": "Kevin Porter Jr.",
                 "Team": "Los Angeles Clippers",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Ankle) - Porter did not play on Wednesday (Nov. 4) versus Minnesota, Ohm Youngmisuk of ESPN.com reports."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Day To Day (Ankle) - Porter Jr. did not play in Wednesday's (Dec. 4) game versus Minnesota."
             },
             {
                 "Player": "P.J. Tucker",
                 "Team": "Los Angeles Clippers",
                 "Update": "Sun, Oct 6, 2024",
-                "Description": "Out (Personal) - The Clippers announced that F P.J. Tucker won't be with the team for the time being, Joey Linn of SI.com reports."
+                "Description": "Out (Personal) - The Clippers announced that F P.J. Tucker won't be with the team for the time being, according to Joey Linn of SI.com."
             }
         ],
         "team_stats": {
@@ -118,14 +118,14 @@
                 "3P": "18",
                 "3PA": "25",
                 "3P%": "12",
-                "2P": "17",
+                "2P": "18",
                 "2PA": "14",
-                "2P%": "24",
+                "2P%": "23",
                 "FT": "22",
                 "FTA": "22",
-                "FT%": "18",
-                "ORB": "10",
-                "DRB": "11",
+                "FT%": "16",
+                "ORB": "11",
+                "DRB": "10",
                 "TRB": "9",
                 "AST": "21",
                 "STL": "5",
@@ -212,23 +212,23 @@
             "Opp Lg Rank": {
                 "G": "",
                 "MP": "2",
-                "FG": "4",
+                "FG": "5",
                 "FGA": "4",
-                "FG%": "12",
+                "FG%": "11",
                 "3P": "9",
                 "3PA": "12",
-                "3P%": "4",
+                "3P%": "7",
                 "2P": "5",
                 "2PA": "1",
                 "2P%": "22",
-                "FT": "8",
+                "FT": "9",
                 "FTA": "13",
-                "FT%": "3",
+                "FT%": "4",
                 "ORB": "2",
-                "DRB": "8",
+                "DRB": "7",
                 "TRB": "3",
-                "AST": "9",
-                "STL": "27",
+                "AST": "8",
+                "STL": "26",
                 "BLK": "17",
                 "TOV": "11",
                 "PF": "27",
@@ -265,8 +265,8 @@
                 "PW": "13",
                 "PL": "11",
                 "MOV": "1.83",
-                "SOS": "1.10",
-                "SRS": "2.93",
+                "SOS": "0.97",
+                "SRS": "2.80",
                 "ORtg": "111.1",
                 "DRtg": "109.2",
                 "Pace": "97.5",
@@ -281,28 +281,28 @@
                 "Attendance": "231,256"
             },
             "Misc Lg Rank": {
-                "W": "6",
-                "L": "14",
+                "W": "8",
+                "L": "15",
                 "PW": "10",
-                "PL": "16",
+                "PL": "14",
                 "MOV": "12",
                 "SOS": "7",
                 "SRS": "12",
                 "ORtg": "22",
                 "DRtg": "7",
-                "Pace": "22",
+                "Pace": "23",
                 "FTr": "19",
-                "3PAr": "21",
-                "eFG%": "14",
+                "3PAr": "20",
+                "eFG%": "13",
                 "TOV%": "8",
                 "ORB%": "11",
                 "FT/FGA": "12",
                 "DRB%": "2",
                 "Arena": "",
-                "Attendance": "2"
+                "Attendance": "3"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAC-2025.png",
-        "last_update": "Dec 05 2024 22:32:14"
+        "last_update": "Dec 06 2024 22:32:13"
     }
 }

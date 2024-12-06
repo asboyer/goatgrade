@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Day To Day (Foot) - The Lakers have listed Davis as Probable for Friday's (Dec. 6) game against the Hawks."
+            },
+            {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
                 "Update": "Sat, Nov 30, 2024",
@@ -37,20 +43,26 @@
             {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Groin) - Hood-Schifino did not play on Wednesday's (Dec. 4) game against Miami."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Out (Hamstring) - The Lakers have listed Hood-Schifino as Out for Friday's (Dec. 6) game against the Hawks."
             },
             {
                 "Player": "Bronny James",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Heel) - James did not play on Wednesday's (Dec. 4) game against Miami."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Day To Day (Heel) - The Lakers have listed James as Questionable for Friday's (Dec. 6) game against the Hawks."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Day To Day (Foot) - The Lakers have listed James as Questionable for Friday's (Dec. 6) game against the Hawks."
             },
             {
                 "Player": "Austin Reaves",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Pelvis) - Reaves did not play on Wednesday's (Dec. 4) game against Miami."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Out (Pelvis) - The Lakers have listed Reaves as Out for Friday's (Dec. 6) game against the Hawks."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -118,19 +130,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "17",
                 "FG": "16",
                 "FGA": "24",
                 "FG%": "10",
                 "3P": "27",
                 "3PA": "27",
                 "3P%": "20",
-                "2P": "11",
+                "2P": "12",
                 "2PA": "13",
                 "2P%": "10",
-                "FT": "3",
-                "FTA": "3",
-                "FT%": "15",
+                "FT": "4",
+                "FTA": "4",
+                "FT%": "14",
                 "ORB": "24",
                 "DRB": "26",
                 "TRB": "27",
@@ -218,27 +230,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "17",
                 "FG": "25",
-                "FGA": "16",
+                "FGA": "14",
                 "FG%": "30",
-                "3P": "24",
+                "3P": "23",
                 "3PA": "15",
                 "3P%": "26",
-                "2P": "24",
+                "2P": "25",
                 "2PA": "16",
                 "2P%": "24",
                 "FT": "5",
-                "FTA": "5",
+                "FTA": "4",
                 "FT%": "21",
                 "ORB": "16",
-                "DRB": "16",
+                "DRB": "15",
                 "TRB": "16",
                 "AST": "28",
                 "STL": "11",
                 "BLK": "4",
                 "TOV": "20",
-                "PF": "5",
+                "PF": "4",
                 "PTS": "22"
             },
             "Opp Year/Year": {
@@ -272,8 +284,8 @@
                 "PW": "8",
                 "PL": "14",
                 "MOV": "-4.27",
-                "SOS": "0.09",
-                "SRS": "-4.18",
+                "SOS": "-0.13",
+                "SRS": "-4.40",
                 "ORtg": "113.8",
                 "DRtg": "118.2",
                 "Pace": "97.9",
@@ -288,28 +300,28 @@
                 "Attendance": "189,458"
             },
             "Misc Lg Rank": {
-                "W": "10",
-                "L": "14",
+                "W": "11",
+                "L": "15",
                 "PW": "24",
-                "PL": "23",
+                "PL": "21",
                 "MOV": "22",
-                "SOS": "15",
-                "SRS": "24",
+                "SOS": "17",
+                "SRS": "22",
                 "ORtg": "13",
                 "DRtg": "27",
-                "Pace": "19",
-                "FTr": "2",
+                "Pace": "20",
+                "FTr": "1",
                 "3PAr": "25",
-                "eFG%": "30",
+                "eFG%": "29",
                 "TOV%": "19",
                 "ORB%": "23",
-                "FT/FGA": "5",
+                "FT/FGA": "6",
                 "DRB%": "22",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAL-2025.png",
-        "last_update": "Dec 05 2024 22:32:14"
+        "last_update": "Dec 06 2024 22:32:13"
     }
 }

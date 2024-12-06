@@ -32,31 +32,31 @@
                 "Player": "Isaiah Jackson",
                 "Team": "Indiana Pacers",
                 "Update": "Sat, Nov 2, 2024",
-                "Description": "Out For Season (Calf) - Indiana Pacers C Isaiah Jackson has sustained a torn right Achilles tendon, league sources tell ESPN."
+                "Description": "Out For Season (Calf) - The Indiana Pacers announced C Isaiah Jackson has sustained a torn right Achilles tendon in Friday's (Nov. 1) game versus the Pelicans and will be out for the remainder of the season, per Shams Charania of ESPN."
             },
             {
                 "Player": "Andrew Nembhard",
                 "Team": "Indiana Pacers",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Knee) - Nembhard did not play on Wednesday's (Dec. 4) game against the Nets."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Day To Day (Knee) - The Pacers have listed Nembhard as Questionable for Friday's (Dec. 6) game against the Bulls."
             },
             {
                 "Player": "Aaron Nesmith",
                 "Team": "Indiana Pacers",
                 "Update": "Sun, Dec 1, 2024",
-                "Description": "Out (Ankle) - Coach Rick Carlisle said Sunday that Nesmith is still weeks away from returning to game action, Dustin Dopirak of The Indianapolis Star reports."
+                "Description": "Out (Ankle) - Pacers head coach Rick Carlisle said on Sunday (Dec. 1) that Nesmith is still weeks away from returning to game action, Dustin Dopirak of The Indianapolis Star reports."
             },
             {
                 "Player": "Ben Sheppard",
                 "Team": "Indiana Pacers",
                 "Update": "Sun, Nov 24, 2024",
-                "Description": "Out (Oblique) - Coach Rick Carlisle said that Sheppard will miss multiple weeks, Dustin Dopirak of The Indianapolis Star reports."
+                "Description": "Out (Oblique) - Pacers head coach Rick Carlisle said on Sunday (Nov. 24) that Sheppard will miss multiple weeks, Dustin Dopirak of The Indianapolis Star reports."
             },
             {
                 "Player": "James Wiseman",
                 "Team": "Indiana Pacers",
                 "Update": "Fri, Oct 25, 2024",
-                "Description": "Out For Season (Calf) - Wiseman underwent successful surgery to repair a torn left Achilles on Thursday, Shams Charania of ESPN reports."
+                "Description": "Out For Season (Calf) - Wiseman underwent successful surgery to repair a torn left Achilles on Thursday (Oct. 24), per Shams Charania of ESPN."
             }
         ],
         "team_stats": {
@@ -112,27 +112,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "7",
                 "FG": "12",
                 "FGA": "20",
-                "FG%": "8",
-                "3P": "21",
+                "FG%": "7",
+                "3P": "20",
                 "3PA": "26",
                 "3P%": "14",
-                "2P": "9",
-                "2PA": "9",
+                "2P": "7",
+                "2PA": "10",
                 "2P%": "11",
                 "FT": "16",
-                "FTA": "17",
-                "FT%": "12",
+                "FTA": "19",
+                "FT%": "11",
                 "ORB": "28",
                 "DRB": "25",
                 "TRB": "28",
                 "AST": "10",
                 "STL": "15",
                 "BLK": "15",
-                "TOV": "17",
-                "PF": "20",
+                "TOV": "18",
+                "PF": "21",
                 "PTS": "14"
             },
             "Year/Year": {
@@ -212,27 +212,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "7",
                 "FG": "24",
                 "FGA": "12",
-                "FG%": "29",
+                "FG%": "28",
                 "3P": "14",
-                "3PA": "9",
-                "3P%": "19",
-                "2P": "28",
+                "3PA": "10",
+                "3P%": "17",
+                "2P": "29",
                 "2PA": "17",
                 "2P%": "28",
                 "FT": "25",
-                "FTA": "24",
+                "FTA": "25",
                 "FT%": "15",
                 "ORB": "12",
-                "DRB": "17",
+                "DRB": "16",
                 "TRB": "13",
-                "AST": "18",
+                "AST": "19",
                 "STL": "16",
                 "BLK": "9",
                 "TOV": "16",
-                "PF": "17",
+                "PF": "16",
                 "PTS": "26"
             },
             "Opp Year/Year": {
@@ -266,8 +266,8 @@
                 "PW": "8",
                 "PL": "15",
                 "MOV": "-4.78",
-                "SOS": "-0.78",
-                "SRS": "-5.56",
+                "SOS": "-0.83",
+                "SRS": "-5.61",
                 "ORtg": "112.6",
                 "DRtg": "117.3",
                 "Pace": "99.9",
@@ -282,28 +282,28 @@
                 "Attendance": "169,379"
             },
             "Misc Lg Rank": {
-                "W": "21",
+                "W": "22",
                 "L": "8",
-                "PW": "23",
-                "PL": "26",
-                "MOV": "25",
+                "PW": "22",
+                "PL": "25",
+                "MOV": "23",
                 "SOS": "23",
                 "SRS": "26",
                 "ORtg": "18",
                 "DRtg": "25",
                 "Pace": "8",
-                "FTr": "16",
+                "FTr": "17",
                 "3PAr": "26",
-                "eFG%": "27",
-                "TOV%": "16",
+                "eFG%": "26",
+                "TOV%": "14",
                 "ORB%": "26",
                 "FT/FGA": "25",
-                "DRB%": "18",
+                "DRB%": "17",
                 "Arena": "",
-                "Attendance": "26"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/IND-2025.png",
-        "last_update": "Dec 05 2024 22:32:14"
+        "last_update": "Dec 06 2024 22:32:13"
     }
 }

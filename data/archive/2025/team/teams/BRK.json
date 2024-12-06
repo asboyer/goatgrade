@@ -2,7 +2,7 @@
     "BRK": {
         "info": {
             "record": "10-13",
-            "standing": "8th in East",
+            "standing": "9th in East",
             "coach": "Jordi Fernández Torres (10-13)",
             "gm": "Sean Marks",
             "preseason_odds": "+100000"
@@ -31,19 +31,19 @@
                 "Player": "Bojan Bogdanović",
                 "Team": "Brooklyn Nets",
                 "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Foot) - Bogdanovic continues to be limited in his rehab and doesn't have a return timetable. He can be considered out indefinitely for future contests, barring a return to full-contact practices."
+                "Description": "Out (Foot) - The Nets said on Monday (Nov. 25) that Bogdanovic continues to be limited in his rehab and doesn't have a return timetable. He can be considered out indefinitely for future contests, barring a return to full-contact practices."
             },
             {
                 "Player": "Noah Clowney",
                 "Team": "Brooklyn Nets",
                 "Update": "Wed, Nov 27, 2024",
-                "Description": "Out (Ankle) - The Brooklyn Nets announced that F-C Noah Clowney will be reevaluated in two weeks."
+                "Description": "Out (Ankle) - The Nets announced on Wednesday (Nov. 27) that F-C Noah Clowney will be reevaluated in two weeks."
             },
             {
                 "Player": "Dorian Finney-Smith",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Ankle) - Finney-Smith did not play on Wednesday's (Dec. 4) game against Indiana."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Day To Day (Ankle) - Finney-Smith did not play in Wednesday's (Dec. 4) game against Indiana."
             },
             {
                 "Player": "Cam Thomas",
@@ -54,8 +54,8 @@
             {
                 "Player": "Ziaire Williams",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Dec 4, 2024",
-                "Description": "Day To Day (Knee) - Williams did not play on Wednesday's (Dec. 4) game against Indiana."
+                "Update": "Thu, Dec 5, 2024",
+                "Description": "Day To Day (Knee) - Williams did not play in Wednesday's (Dec. 4) game against Indiana."
             }
         ],
         "team_stats": {
@@ -111,19 +111,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "25",
+                "MP": "7",
+                "FG": "26",
                 "FGA": "30",
                 "FG%": "19",
                 "3P": "6",
-                "3PA": "7",
-                "3P%": "5",
+                "3PA": "9",
+                "3P%": "6",
                 "2P": "28",
                 "2PA": "29",
                 "2P%": "21",
                 "FT": "14",
-                "FTA": "21",
-                "FT%": "5",
+                "FTA": "20",
+                "FT%": "4",
                 "ORB": "29",
                 "DRB": "28",
                 "TRB": "30",
@@ -211,11 +211,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "11",
+                "MP": "7",
+                "FG": "10",
                 "FGA": "3",
                 "FG%": "27",
-                "3P": "11",
+                "3P": "10",
                 "3PA": "5",
                 "3P%": "22",
                 "2P": "17",
@@ -223,15 +223,15 @@
                 "2P%": "27",
                 "FT": "28",
                 "FTA": "26",
-                "FT%": "16",
+                "FT%": "17",
                 "ORB": "3",
                 "DRB": "19",
                 "TRB": "10",
                 "AST": "22",
-                "STL": "15",
+                "STL": "13",
                 "BLK": "28",
                 "TOV": "13",
-                "PF": "10",
+                "PF": "11",
                 "PTS": "19"
             },
             "Opp Year/Year": {
@@ -265,8 +265,8 @@
                 "PW": "9",
                 "PL": "14",
                 "MOV": "-3.70",
-                "SOS": "1.24",
-                "SRS": "-2.46",
+                "SOS": "1.34",
+                "SRS": "-2.35",
                 "ORtg": "112.7",
                 "DRtg": "116.5",
                 "Pace": "96.7",
@@ -283,26 +283,26 @@
             "Misc Lg Rank": {
                 "W": "18",
                 "L": "10",
-                "PW": "20",
-                "PL": "24",
+                "PW": "21",
+                "PL": "22",
                 "MOV": "21",
                 "SOS": "6",
-                "SRS": "18",
-                "ORtg": "16",
+                "SRS": "19",
+                "ORtg": "15",
                 "DRtg": "24",
                 "Pace": "29",
                 "FTr": "13",
-                "3PAr": "5",
-                "eFG%": "28",
+                "3PAr": "4",
+                "eFG%": "27",
                 "TOV%": "10",
-                "ORB%": "28",
+                "ORB%": "29",
                 "FT/FGA": "29",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/BRK-2025.png",
-        "last_update": "Dec 05 2024 22:32:14"
+        "last_update": "Dec 06 2024 22:32:13"
     }
 }
