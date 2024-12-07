@@ -31,20 +31,26 @@
             {
                 "Player": "Bruce Brown",
                 "Team": "Toronto Raptors",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Day To Day (Reconditioning) - The Raptors announced Brown is out for Thursday's (Dec. 5) game against the Thunder."
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Day To Day (Reconditioning) - Brown did not play in Thursday's (Dec. 5) game against the Thunder."
+            },
+            {
+                "Player": "Davion Mitchell",
+                "Team": "Toronto Raptors",
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Day To Day (Hip) - The Raptors have listed Mitchell as Questionable for Saturday's (Dec. 7) game against the Mavericks."
             },
             {
                 "Player": "Kelly Olynyk",
                 "Team": "Toronto Raptors",
-                "Update": "Mon, Dec 2, 2024",
-                "Description": "Out (Back) - Olynyk is ramping up his conditioning, according to Blake Murphy of Sportsnet.ca. There is no clear timetable yet for his return."
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Day To Day (Back) - The Raptors have listed Olynyk as Questionable for Saturday's (Dec. 7) game against the Mavericks."
             },
             {
                 "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Day To Day (Illness) - The Raptors said Poeltl is Out for Thursday's (Dec. 5) game versus the Thunder."
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Day To Day (Illness) - The Raptors have listed Poeltl as Questionable for Saturday's (Dec. 7) game against the Mavericks."
             },
             {
                 "Player": "Immanuel Quickley",
@@ -106,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "8",
                 "FG": "11",
                 "FGA": "7",
                 "FG%": "14",
@@ -116,18 +122,18 @@
                 "2P": "3",
                 "2PA": "3",
                 "2P%": "20",
-                "FT": "17",
+                "FT": "16",
                 "FTA": "12",
                 "FT%": "28",
                 "ORB": "2",
-                "DRB": "18",
+                "DRB": "19",
                 "TRB": "4",
                 "AST": "6",
                 "STL": "22",
-                "BLK": "18",
+                "BLK": "19",
                 "TOV": "26",
                 "PF": "30",
-                "PTS": "16"
+                "PTS": "17"
             },
             "Year/Year": {
                 "G": "",
@@ -206,27 +212,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "18",
-                "FGA": "18",
-                "FG%": "9",
-                "3P": "12",
-                "3PA": "19",
-                "3P%": "9",
+                "MP": "8",
+                "FG": "17",
+                "FGA": "17",
+                "FG%": "10",
+                "3P": "11",
+                "3PA": "18",
+                "3P%": "8",
                 "2P": "18",
-                "2PA": "15",
+                "2PA": "16",
                 "2P%": "17",
                 "FT": "30",
                 "FTA": "30",
                 "FT%": "22",
-                "ORB": "18",
+                "ORB": "21",
                 "DRB": "3",
                 "TRB": "8",
-                "AST": "17",
+                "AST": "16",
                 "STL": "27",
                 "BLK": "25",
                 "TOV": "24",
-                "PF": "13",
+                "PF": "12",
                 "PTS": "25"
             },
             "Opp Year/Year": {
@@ -260,8 +266,8 @@
                 "PW": "8",
                 "PL": "15",
                 "MOV": "-4.78",
-                "SOS": "0.23",
-                "SRS": "-4.56",
+                "SOS": "0.51",
+                "SRS": "-4.27",
                 "ORtg": "111.4",
                 "DRtg": "116.1",
                 "Pace": "99.4",
@@ -278,26 +284,26 @@
             "Misc Lg Rank": {
                 "W": "25",
                 "L": "4",
-                "PW": "23",
-                "PL": "26",
-                "MOV": "23",
-                "SOS": "14",
+                "PW": "24",
+                "PL": "25",
+                "MOV": "24",
+                "SOS": "12",
                 "SRS": "23",
                 "ORtg": "21",
-                "DRtg": "23",
+                "DRtg": "22",
                 "Pace": "13",
                 "FTr": "15",
                 "3PAr": "29",
-                "eFG%": "10",
+                "eFG%": "11",
                 "TOV%": "24",
                 "ORB%": "1",
                 "FT/FGA": "30",
-                "DRB%": "19",
+                "DRB%": "20",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/TOR-2025.png",
-        "last_update": "Dec 06 2024 22:32:13"
+        "last_update": "Dec 07 2024 22:32:15"
     }
 }

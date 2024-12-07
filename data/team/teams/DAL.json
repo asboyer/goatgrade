@@ -35,10 +35,16 @@
                 "Description": "Out (Wrist) - Exum is expected to miss three months after undergoing right wrist surgery, Shams Charania of ESPN reports."
             },
             {
+                "Player": "Jaden Hardy",
+                "Team": "Dallas Mavericks",
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Day To Day (Ankle) - The Mavericks have listed Hardy as Doubtful for Saturday's (Dec. 7) game against the Raptors."
+            },
+            {
                 "Player": "Naji Marshall",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Day To Day (Illness) - The Mavericks announced Marshall is out for Thursday's (Dec. 5) game against the Wizards."
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Out (Illness) - The Mavericks have listed Marshall as Out for Saturday's (Dec. 7) game against the Raptors."
             }
         ],
         "team_stats": {
@@ -94,27 +100,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "12",
                 "FG": "3",
                 "FGA": "11",
                 "FG%": "3",
                 "3P": "14",
-                "3PA": "22",
+                "3PA": "23",
                 "3P%": "10",
-                "2P": "4",
+                "2P": "5",
                 "2PA": "6",
                 "2P%": "8",
-                "FT": "11",
-                "FTA": "8",
+                "FT": "12",
+                "FTA": "9",
                 "FT%": "22",
                 "ORB": "10",
                 "DRB": "8",
                 "TRB": "6",
                 "AST": "14",
                 "STL": "16",
-                "BLK": "8",
-                "TOV": "9",
-                "PF": "20",
+                "BLK": "7",
+                "TOV": "10",
+                "PF": "21",
                 "PTS": "5"
             },
             "Year/Year": {
@@ -194,8 +200,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
-                "FG": "10",
+                "MP": "12",
+                "FG": "11",
                 "FGA": "21",
                 "FG%": "5",
                 "3P": "4",
@@ -203,10 +209,10 @@
                 "3P%": "6",
                 "2P": "18",
                 "2PA": "26",
-                "2P%": "8",
+                "2P%": "7",
                 "FT": "17",
                 "FTA": "21",
-                "FT%": "5",
+                "FT%": "6",
                 "ORB": "28",
                 "DRB": "4",
                 "TRB": "14",
@@ -215,7 +221,7 @@
                 "BLK": "6",
                 "TOV": "18",
                 "PF": "16",
-                "PTS": "10"
+                "PTS": "11"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -248,8 +254,8 @@
                 "PW": "17",
                 "PL": "6",
                 "MOV": "7.70",
-                "SOS": "-0.78",
-                "SRS": "6.92",
+                "SOS": "-0.73",
+                "SRS": "6.97",
                 "ORtg": "118.8",
                 "DRtg": "111.2",
                 "Pace": "99.6",
@@ -265,7 +271,7 @@
             },
             "Misc Lg Rank": {
                 "W": "5",
-                "L": "22",
+                "L": "24",
                 "PW": "5",
                 "PL": "6",
                 "MOV": "5",
@@ -274,18 +280,18 @@
                 "ORtg": "4",
                 "DRtg": "9",
                 "Pace": "12",
-                "FTr": "10",
-                "3PAr": "22",
+                "FTr": "11",
+                "3PAr": "23",
                 "eFG%": "5",
-                "TOV%": "21",
+                "TOV%": "20",
                 "ORB%": "10",
                 "FT/FGA": "17",
-                "DRB%": "24",
+                "DRB%": "25",
                 "Arena": "",
                 "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DAL-2025.png",
-        "last_update": "Dec 06 2024 22:32:13"
+        "last_update": "Dec 07 2024 22:32:15"
     }
 }

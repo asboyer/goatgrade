@@ -2,7 +2,7 @@
     "NOP": {
         "info": {
             "record": "5-18",
-            "standing": "14th in West",
+            "standing": "15th in West",
             "coach": "Willie Green (5-18)",
             "gm": "David Griffin",
             "preseason_odds": "+5000"
@@ -40,10 +40,16 @@
                 "Description": "Out (Back) - The Pelicans said Hawkins has been diagnosed with a lumbar spine annular fissure and will be re-assessed in approximately one week."
             },
             {
+                "Player": "Karlo Matković",
+                "Team": "New Orleans Pelicans",
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Day To Day (Back) - The Pelicans have listed Matkovic as Questionable for Saturday's (Dec. 7) game against the Thunder."
+            },
+            {
                 "Player": "Daniel Theis",
                 "Team": "New Orleans Pelicans",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Day To Day (Neck) - The Pelicans have listed Theis as Out for Thrusday's (Dec. 5) game against the Suns."
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Day To Day (Neck) - The Pelicans have listed Theis as Questionable for Saturday's (Dec. 7) game against the Thunder."
             },
             {
                 "Player": "Zion Williamson",
@@ -105,10 +111,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
-                "FG": "25",
+                "MP": "14",
+                "FG": "26",
                 "FGA": "13",
-                "FG%": "29",
+                "FG%": "28",
                 "3P": "30",
                 "3PA": "28",
                 "3P%": "27",
@@ -120,8 +126,8 @@
                 "FT%": "27",
                 "ORB": "6",
                 "DRB": "27",
-                "TRB": "17",
-                "AST": "26",
+                "TRB": "18",
+                "AST": "25",
                 "STL": "7",
                 "BLK": "13",
                 "TOV": "19",
@@ -205,28 +211,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "14",
                 "FG": "28",
                 "FGA": "22",
-                "FG%": "29",
+                "FG%": "28",
                 "3P": "27",
-                "3PA": "25",
+                "3PA": "26",
                 "3P%": "25",
-                "2P": "24",
-                "2PA": "12",
-                "2P%": "26",
+                "2P": "25",
+                "2PA": "14",
+                "2P%": "28",
                 "FT": "2",
                 "FTA": "2",
-                "FT%": "13",
+                "FT%": "12",
                 "ORB": "24",
-                "DRB": "21",
-                "TRB": "24",
+                "DRB": "20",
+                "TRB": "23",
                 "AST": "27",
                 "STL": "21",
                 "BLK": "20",
                 "TOV": "17",
                 "PF": "29",
-                "PTS": "23"
+                "PTS": "21"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -259,8 +265,8 @@
                 "PW": "4",
                 "PL": "19",
                 "MOV": "-12.09",
-                "SOS": "0.96",
-                "SRS": "-11.13",
+                "SOS": "0.61",
+                "SRS": "-11.48",
                 "ORtg": "106.3",
                 "DRtg": "118.6",
                 "Pace": "98.1",
@@ -275,28 +281,28 @@
                 "Attendance": "182,130"
             },
             "Misc Lg Rank": {
-                "W": "27",
+                "W": "28",
                 "L": "1",
                 "PW": "29",
                 "PL": "30",
                 "MOV": "29",
-                "SOS": "8",
+                "SOS": "11",
                 "SRS": "29",
                 "ORtg": "29",
                 "DRtg": "28",
-                "Pace": "18",
+                "Pace": "19",
                 "FTr": "25",
                 "3PAr": "28",
-                "eFG%": "30",
+                "eFG%": "29",
                 "TOV%": "17",
                 "ORB%": "7",
                 "FT/FGA": "1",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NOP-2025.png",
-        "last_update": "Dec 06 2024 22:32:13"
+        "last_update": "Dec 07 2024 22:32:15"
     }
 }

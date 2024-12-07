@@ -35,10 +35,28 @@
                 "Description": "Out (Knee) - Cancar will be re-evaluated in eight weeks following a left knee surgery, per Ryan Blackburn of MileHighSports.com."
             },
             {
+                "Player": "Aaron Gordon",
+                "Team": "Denver Nuggets",
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Day To Day (Calf) - The Nuggets have listed Gordon as Probable for Saturday's (Dec. 7) game against the Wizards."
+            },
+            {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sat, Jul 13, 2024",
                 "Description": "Out For Season (Achilles) - DaRon Holmes II has suffered a torn right Achilles tendon, sources tell @TheAthletic @Stadium. Heâs expected to miss the 2024-25 season."
+            },
+            {
+                "Player": "Jamal Murray",
+                "Team": "Denver Nuggets",
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Day To Day (Hamstring) - The Nuggets have listed Murray as Questionable for Saturday's (Dec. 7) game against the Wizards."
+            },
+            {
+                "Player": "Dario Šarić",
+                "Team": "Denver Nuggets",
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Day To Day (Ankle) - The Nuggets have listed Saric as Questionable for Saturday's (Dec. 7) game against the Wizards."
             }
         ],
         "team_stats": {
@@ -103,17 +121,17 @@
                 "3P%": "4",
                 "2P": "2",
                 "2PA": "2",
-                "2P%": "17",
+                "2P%": "18",
                 "FT": "1",
                 "FTA": "1",
                 "FT%": "26",
                 "ORB": "13",
-                "DRB": "14",
+                "DRB": "13",
                 "TRB": "12",
-                "AST": "2",
-                "STL": "12",
-                "BLK": "20",
-                "TOV": "13",
+                "AST": "3",
+                "STL": "11",
+                "BLK": "22",
+                "TOV": "12",
                 "PF": "8",
                 "PTS": "7"
             },
@@ -197,12 +215,12 @@
                 "MP": "28",
                 "FG": "26",
                 "FGA": "29",
-                "FG%": "22",
-                "3P": "24",
+                "FG%": "21",
+                "3P": "23",
                 "3PA": "23",
-                "3P%": "21",
-                "2P": "28",
-                "2PA": "28",
+                "3P%": "20",
+                "2P": "29",
+                "2PA": "27",
                 "2P%": "18",
                 "FT": "6",
                 "FTA": "7",
@@ -212,8 +230,8 @@
                 "TRB": "19",
                 "AST": "30",
                 "STL": "18",
-                "BLK": "22",
-                "TOV": "14",
+                "BLK": "21",
+                "TOV": "15",
                 "PF": "3",
                 "PTS": "24"
             },
@@ -248,8 +266,8 @@
                 "PW": "11",
                 "PL": "9",
                 "MOV": "1.05",
-                "SOS": "1.80",
-                "SRS": "2.85",
+                "SOS": "1.98",
+                "SRS": "3.03",
                 "ORtg": "116.0",
                 "DRtg": "115.0",
                 "Pace": "100.5",
@@ -264,28 +282,28 @@
                 "Attendance": "197,432"
             },
             "Misc Lg Rank": {
-                "W": "14",
+                "W": "15",
                 "L": "20",
-                "PW": "15",
+                "PW": "16",
                 "PL": "12",
                 "MOV": "14",
-                "SOS": "3",
-                "SRS": "11",
+                "SOS": "2",
+                "SRS": "10",
                 "ORtg": "6",
                 "DRtg": "19",
                 "Pace": "6",
-                "FTr": "2",
+                "FTr": "1",
                 "3PAr": "30",
                 "eFG%": "18",
                 "TOV%": "18",
                 "ORB%": "13",
-                "FT/FGA": "5",
-                "DRB%": "23",
+                "FT/FGA": "4",
+                "DRB%": "24",
                 "Arena": "",
                 "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DEN-2025.png",
-        "last_update": "Dec 06 2024 22:32:13"
+        "last_update": "Dec 07 2024 22:32:15"
     }
 }

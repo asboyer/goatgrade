@@ -30,8 +30,8 @@
             {
                 "Player": "Patrick Baldwin Jr.",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Day To Day (Ankle) - The Wizards listed Baldwin as Out for Thursday's (Dec. 5) game against the Mavericks."
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Day To Day (Ankle) - Baldwin did not play in Thursday's (Dec. 5) game against the Mavericks."
             },
             {
                 "Player": "Saddiq Bey",
@@ -40,28 +40,34 @@
                 "Description": "Out (Knee) - Coach Brain Keefe said that Bey doesn't have a return timetable, Varun Shankar of The Washington Post reports."
             },
             {
+                "Player": "Malcolm Brogdon",
+                "Team": "Washington Wizards",
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Out (Hamstring) - The Wizards have listed Brogdon as Out for Saturday's (Dec. 7) game against the Nuggets."
+            },
+            {
                 "Player": "Kyshawn George",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Day To Day (Ankle) - The Wizards announced George is out for Thursday's (Dec. 5) game against the Mavericks."
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Out (Ankle) - The Wizards have listed George as Out for Saturday's (Dec. 7) game against the Nuggets."
             },
             {
                 "Player": "Corey Kispert",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Day To Day (Ankle) - The Wizard announced Kispert is OUT for Thursday's (Dec. 5) game against the Mavericks."
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Out (Ankle) - The Wizards have listed Kispert as Out for Saturday's (Dec. 7) game against the Nuggets."
             },
             {
                 "Player": "Kyle Kuzma",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Day To Day (Ribs) - The Wizards announced Kuzma is out for Thursday's (Dec. 5) game against the Mavericks."
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Out (Ribs) - The Wizards have listed Kuzma as Out for Saturday's (Dec. 7) game against the Nuggets."
             },
             {
                 "Player": "Tristan Vukcevic",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Day To Day (Knee) - The Wizards announced Vukcevic is out for Thursday's (Dec. 5) game against the Mavericks."
+                "Update": "Fri, Dec 6, 2024",
+                "Description": "Out (Knee) - The Wizards have listed Vukcevic as Out for Saturday's (Dec. 7) game against the Nuggets."
             }
         ],
         "team_stats": {
@@ -125,15 +131,15 @@
                 "3PA": "21",
                 "3P%": "29",
                 "2P": "14",
-                "2PA": "9",
-                "2P%": "24",
-                "FT": "20",
-                "FTA": "21",
-                "FT%": "21",
+                "2PA": "10",
+                "2P%": "25",
+                "FT": "18",
+                "FTA": "20",
+                "FT%": "20",
                 "ORB": "21",
-                "DRB": "21",
-                "TRB": "24",
-                "AST": "23",
+                "DRB": "22",
+                "TRB": "25",
+                "AST": "24",
                 "STL": "18",
                 "BLK": "12",
                 "TOV": "21",
@@ -220,16 +226,16 @@
                 "MP": "30",
                 "FG": "29",
                 "FGA": "26",
-                "FG%": "26",
+                "FG%": "25",
                 "3P": "28",
-                "3PA": "24",
+                "3PA": "25",
                 "3P%": "28",
-                "2P": "26",
-                "2PA": "20",
+                "2P": "28",
+                "2PA": "22",
                 "2P%": "23",
                 "FT": "29",
                 "FTA": "29",
-                "FT%": "20",
+                "FT%": "19",
                 "ORB": "25",
                 "DRB": "30",
                 "TRB": "29",
@@ -238,7 +244,7 @@
                 "BLK": "24",
                 "TOV": "25",
                 "PF": "21",
-                "PTS": "30"
+                "PTS": "29"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -271,8 +277,8 @@
                 "PW": "2",
                 "PL": "18",
                 "MOV": "-16.85",
-                "SOS": "2.68",
-                "SRS": "-14.17",
+                "SOS": "2.56",
+                "SRS": "-14.29",
                 "ORtg": "104.1",
                 "DRtg": "120.6",
                 "Pace": "102.5",
@@ -300,15 +306,15 @@
                 "FTr": "22",
                 "3PAr": "19",
                 "eFG%": "28",
-                "TOV%": "27",
-                "ORB%": "27",
+                "TOV%": "26",
+                "ORB%": "26",
                 "FT/FGA": "27",
-                "DRB%": "25",
+                "DRB%": "27",
                 "Arena": "",
-                "Attendance": "28"
+                "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/WAS-2025.png",
-        "last_update": "Dec 06 2024 22:32:13"
+        "last_update": "Dec 07 2024 22:32:15"
     }
 }
