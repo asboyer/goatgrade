@@ -29,28 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Plantar) - Davis is probable for Sunday's (Dec. 7) game against Portland."
+            },
+            {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
                 "Update": "Sat, Nov 30, 2024",
                 "Description": "Out (Ankle) - Hayes suffered a re-sprain of his right ankle and will miss two to three weeks, per ESPN's Shams Charania."
             },
             {
-                "Player": "Jalen Hood-Schifino",
+                "Player": "LeBron James",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Dec 6, 2024",
-                "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Friday's (Dec. 6) game against the Hawks."
-            },
-            {
-                "Player": "Bronny James",
-                "Team": "Los Angeles Lakers",
-                "Update": "Fri, Dec 6, 2024",
-                "Description": "Day To Day (Heel) - James did not play in Friday's (Dec. 6) game against the Hawks."
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Foot) - James is questionable for Sunday's (Dec. 7) game against Portland."
             },
             {
                 "Player": "Austin Reaves",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Dec 6, 2024",
-                "Description": "Day To Day (Pelvis) - Reaves did not play in Friday's (Dec. 6) game against the Hawks."
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Pelvis) - Reaves is doubtful for Sunday's (Dec. 7) game against Portland."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -118,28 +118,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "17",
                 "FG": "16",
                 "FGA": "22",
                 "FG%": "10",
                 "3P": "27",
                 "3PA": "26",
-                "3P%": "17",
+                "3P%": "18",
                 "2P": "10",
                 "2PA": "12",
-                "2P%": "10",
+                "2P%": "11",
                 "FT": "5",
-                "FTA": "4",
-                "FT%": "13",
-                "ORB": "25",
+                "FTA": "5",
+                "FT%": "15",
+                "ORB": "26",
                 "DRB": "26",
                 "TRB": "27",
                 "AST": "12",
-                "STL": "23",
+                "STL": "22",
                 "BLK": "25",
                 "TOV": "5",
                 "PF": "1",
-                "PTS": "16"
+                "PTS": "17"
             },
             "Year/Year": {
                 "G": "",
@@ -218,13 +218,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
-                "FG": "27",
+                "MP": "17",
+                "FG": "26",
                 "FGA": "19",
-                "FG%": "30",
-                "3P": "26",
+                "FG%": "29",
+                "3P": "27",
                 "3PA": "16",
-                "3P%": "27",
+                "3P%": "28",
                 "2P": "27",
                 "2PA": "20",
                 "2P%": "24",
@@ -233,11 +233,11 @@
                 "FT%": "20",
                 "ORB": "17",
                 "DRB": "16",
-                "TRB": "16",
+                "TRB": "17",
                 "AST": "28",
                 "STL": "12",
                 "BLK": "4",
-                "TOV": "19",
+                "TOV": "18",
                 "PF": "4",
                 "PTS": "23"
             },
@@ -272,8 +272,8 @@
                 "PW": "9",
                 "PL": "14",
                 "MOV": "-4.17",
-                "SOS": "0.00",
-                "SRS": "-4.18",
+                "SOS": "-0.08",
+                "SRS": "-4.25",
                 "ORtg": "113.9",
                 "DRtg": "118.2",
                 "Pace": "98.2",
@@ -291,25 +291,25 @@
                 "W": "12",
                 "L": "14",
                 "PW": "23",
-                "PL": "22",
+                "PL": "21",
                 "MOV": "22",
                 "SOS": "17",
-                "SRS": "22",
-                "ORtg": "12",
+                "SRS": "23",
+                "ORtg": "13",
                 "DRtg": "26",
-                "Pace": "18",
+                "Pace": "19",
                 "FTr": "3",
                 "3PAr": "25",
-                "eFG%": "30",
+                "eFG%": "29",
                 "TOV%": "19",
-                "ORB%": "24",
-                "FT/FGA": "5",
-                "DRB%": "23",
+                "ORB%": "26",
+                "FT/FGA": "4",
+                "DRB%": "24",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAL-2025.png",
-        "last_update": "Dec 07 2024 22:32:15"
+        "last_update": "Dec 08 2024 22:32:12"
     }
 }

@@ -31,6 +31,18 @@
                 "Team": "Golden State Warriors",
                 "Update": "Wed, Nov 20, 2024",
                 "Description": "Out For Season (ACL) - Melton will undergo season-ending surgery on his left ACL, the team announced Wednesday (Nov. 20)."
+            },
+            {
+                "Player": "Moses Moody",
+                "Team": "Golden State Warriors",
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Knee) - The Warriors have listed Moody as Questionable for Sunday's (Dec.8) game against the Timberwolves."
+            },
+            {
+                "Player": "Andrew Wiggins",
+                "Team": "Golden State Warriors",
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Ankle) - The Warriors have listed Wiggins as Questionable for Sunday's (Dec. 8) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -86,7 +98,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "24",
                 "FG": "12",
                 "FGA": "4",
                 "FG%": "22",
@@ -94,8 +106,8 @@
                 "3PA": "4",
                 "3P%": "14",
                 "2P": "19",
-                "2PA": "16",
-                "2P%": "24",
+                "2PA": "15",
+                "2P%": "25",
                 "FT": "29",
                 "FTA": "18",
                 "FT%": "30",
@@ -103,7 +115,7 @@
                 "DRB": "1",
                 "TRB": "2",
                 "AST": "5",
-                "STL": "9",
+                "STL": "8",
                 "BLK": "14",
                 "TOV": "13",
                 "PF": "22",
@@ -186,15 +198,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "24",
                 "FG": "4",
-                "FGA": "15",
+                "FGA": "18",
                 "FG%": "3",
-                "3P": "7",
-                "3PA": "20",
+                "3P": "8",
+                "3PA": "21",
                 "3P%": "1",
-                "2P": "6",
-                "2PA": "12",
+                "2P": "7",
+                "2PA": "13",
                 "2P%": "6",
                 "FT": "22",
                 "FTA": "24",
@@ -204,7 +216,7 @@
                 "TRB": "28",
                 "AST": "17",
                 "STL": "9",
-                "BLK": "26",
+                "BLK": "25",
                 "TOV": "12",
                 "PF": "25",
                 "PTS": "7"
@@ -240,8 +252,8 @@
                 "PW": "14",
                 "PL": "8",
                 "MOV": "4.82",
-                "SOS": "0.46",
-                "SRS": "5.28",
+                "SOS": "0.38",
+                "SRS": "5.20",
                 "ORtg": "113.0",
                 "DRtg": "108.2",
                 "Pace": "100.5",
@@ -257,7 +269,7 @@
             },
             "Misc Lg Rank": {
                 "W": "10",
-                "L": "20",
+                "L": "22",
                 "PW": "9",
                 "PL": "8",
                 "MOV": "8",
@@ -265,19 +277,19 @@
                 "SRS": "8",
                 "ORtg": "15",
                 "DRtg": "5",
-                "Pace": "7",
-                "FTr": "24",
-                "3PAr": "10",
+                "Pace": "6",
+                "FTr": "25",
+                "3PAr": "9",
                 "eFG%": "3",
                 "TOV%": "14",
                 "ORB%": "8",
                 "FT/FGA": "21",
-                "DRB%": "13",
+                "DRB%": "12",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/GSW-2025.png",
-        "last_update": "Dec 07 2024 22:32:15"
+        "last_update": "Dec 08 2024 22:32:12"
     }
 }

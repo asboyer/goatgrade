@@ -36,14 +36,20 @@
             {
                 "Player": "Gary Harris",
                 "Team": "Orlando Magic",
-                "Update": "Fri, Dec 6, 2024",
-                "Description": "Day To Day (Hamstring) - Harris did not play in Friday's (Dec. 6) game against the 76ers."
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Out (Hamstring) - The Magic have listed Harris as Out for Sunday's (Dec. 8) game against the Suns."
             },
             {
                 "Player": "Jonathan Isaac",
                 "Team": "Orlando Magic",
-                "Update": "Fri, Dec 6, 2024",
-                "Description": "Day To Day (Hamstring) - Isaac did not play in Friday's (Dec. 6) game against the 76ers."
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Hamstring) - The Magic have listed Isaac as Questionable for Sunday's (Dec. 8) game against the Suns."
+            },
+            {
+                "Player": "Franz Wagner",
+                "Team": "Orlando Magic",
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Out (Oblique) - Magic star forward Franz Wagner has suffered a torn right oblique and is out indefinitely, sources tell ESPN. Wagner sustained the injury Friday night and will be re-evaluated in four weeks."
             }
         ],
         "team_stats": {
@@ -99,28 +105,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "29",
                 "FGA": "28",
                 "FG%": "23",
-                "3P": "24",
+                "3P": "23",
                 "3PA": "12",
                 "3P%": "30",
                 "2P": "21",
                 "2PA": "25",
                 "2P%": "7",
                 "FT": "3",
-                "FTA": "6",
+                "FTA": "7",
                 "FT%": "8",
                 "ORB": "15",
                 "DRB": "25",
                 "TRB": "26",
-                "AST": "23",
+                "AST": "24",
                 "STL": "3",
                 "BLK": "2",
                 "TOV": "18",
                 "PF": "18",
-                "PTS": "25"
+                "PTS": "26"
             },
             "Year/Year": {
                 "G": "",
@@ -199,7 +205,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "8",
@@ -253,8 +259,8 @@
                 "PW": "16",
                 "PL": "9",
                 "MOV": "4.32",
-                "SOS": "-1.68",
-                "SRS": "2.64",
+                "SOS": "-1.61",
+                "SRS": "2.71",
                 "ORtg": "110.6",
                 "DRtg": "106.1",
                 "Pace": "97.1",
@@ -270,18 +276,18 @@
             },
             "Misc Lg Rank": {
                 "W": "4",
-                "L": "20",
-                "PW": "7",
+                "L": "22",
+                "PW": "8",
                 "PL": "11",
                 "MOV": "9",
                 "SOS": "28",
-                "SRS": "12",
+                "SRS": "10",
                 "ORtg": "25",
                 "DRtg": "3",
                 "Pace": "25",
                 "FTr": "2",
-                "3PAr": "9",
-                "eFG%": "8",
+                "3PAr": "8",
+                "eFG%": "9",
                 "TOV%": "3",
                 "ORB%": "15",
                 "FT/FGA": "19",
@@ -291,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/ORL-2025.png",
-        "last_update": "Dec 07 2024 22:32:15"
+        "last_update": "Dec 08 2024 22:32:12"
     }
 }

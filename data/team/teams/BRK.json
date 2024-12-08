@@ -37,13 +37,7 @@
                 "Player": "Noah Clowney",
                 "Team": "Brooklyn Nets",
                 "Update": "Wed, Nov 27, 2024",
-                "Description": "Out (Ankle) - The Nets announced on Wednesday (Nov. 27) that F-C Noah Clowney will be reevaluated in two weeks."
-            },
-            {
-                "Player": "Dorian Finney-Smith",
-                "Team": "Brooklyn Nets",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Day To Day (Ankle) - Finney-Smith did not play in Wednesday's (Dec. 4) game against Indiana."
+                "Description": "Day To Day (Ankle) - Clowney is questionable for Sunday's (Dec. 8) game against Milwaukee."
             },
             {
                 "Player": "Cam Thomas",
@@ -54,8 +48,8 @@
             {
                 "Player": "Ziaire Williams",
                 "Team": "Brooklyn Nets",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Day To Day (Knee) - Williams did not play in Wednesday's (Dec. 4) game against Indiana."
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Out (Knee) - Williams is OUT for Sunday's (Dec. 8) game against Milwaukee."
             }
         ],
         "team_stats": {
@@ -111,13 +105,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "15",
                 "FG": "27",
                 "FGA": "30",
-                "FG%": "19",
+                "FG%": "18",
                 "3P": "5",
-                "3PA": "9",
-                "3P%": "6",
+                "3PA": "8",
+                "3P%": "5",
                 "2P": "28",
                 "2PA": "29",
                 "2P%": "21",
@@ -211,28 +205,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
-                "FG": "11",
+                "MP": "15",
+                "FG": "12",
                 "FGA": "3",
                 "FG%": "26",
                 "3P": "10",
                 "3PA": "5",
-                "3P%": "21",
+                "3P%": "19",
                 "2P": "16",
                 "2PA": "5",
-                "2P%": "29",
+                "2P%": "28",
                 "FT": "28",
                 "FTA": "26",
                 "FT%": "17",
                 "ORB": "3",
                 "DRB": "18",
-                "TRB": "10",
-                "AST": "22",
+                "TRB": "9",
+                "AST": "20",
                 "STL": "13",
                 "BLK": "27",
                 "TOV": "14",
                 "PF": "10",
-                "PTS": "19"
+                "PTS": "18"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -265,8 +259,8 @@
                 "PW": "9",
                 "PL": "14",
                 "MOV": "-3.70",
-                "SOS": "1.30",
-                "SRS": "-2.40",
+                "SOS": "1.27",
+                "SRS": "-2.43",
                 "ORtg": "112.7",
                 "DRtg": "116.5",
                 "Pace": "96.7",
@@ -281,28 +275,28 @@
                 "Attendance": "176,628"
             },
             "Misc Lg Rank": {
-                "W": "19",
+                "W": "20",
                 "L": "11",
                 "PW": "22",
                 "PL": "20",
                 "MOV": "20",
-                "SOS": "5",
+                "SOS": "4",
                 "SRS": "18",
                 "ORtg": "17",
                 "DRtg": "23",
-                "Pace": "29",
+                "Pace": "27",
                 "FTr": "13",
                 "3PAr": "4",
-                "eFG%": "26",
+                "eFG%": "27",
                 "TOV%": "10",
                 "ORB%": "28",
                 "FT/FGA": "29",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "27"
+                "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/BRK-2025.png",
-        "last_update": "Dec 07 2024 22:32:15"
+        "last_update": "Dec 08 2024 22:32:12"
     }
 }

@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Toumani Camara",
+                "Team": "Portland Trail Blazers",
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Foot) - Camara is doubtful for Sunday's (Dec. 8) game against Los Angeles."
+            },
+            {
                 "Player": "Donovan Clingan",
                 "Team": "Portland Trail Blazers",
                 "Update": "Tue, Nov 26, 2024",
@@ -37,8 +43,14 @@
             {
                 "Player": "Scoot Henderson",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Dec 6, 2024",
-                "Description": "Day To Day (Quad) - Henderson did not play in Friday's (Dec. 6) game against the Jazz."
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Quad) - Henderson is questionable for Sunday's (Dec. 8) game against Los Angeles."
+            },
+            {
+                "Player": "Duop Reath",
+                "Team": "Portland Trail Blazers",
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Back) - Reath is doubtful for Sunday's (Dec. 8) game against Los Angeles."
             },
             {
                 "Player": "Matisse Thybulle",
@@ -49,8 +61,8 @@
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Dec 6, 2024",
-                "Description": "Day To Day (Concussion) - Williams did not play in Friday's (Dec. 6) game against the Jazz."
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Out (Concussion) - Williams III is OUT for Sunday's (Dec. 8) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -106,16 +118,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "25",
-                "FGA": "12",
+                "FGA": "11",
                 "FG%": "29",
-                "3P": "22",
-                "3PA": "22",
+                "3P": "21",
+                "3PA": "23",
                 "3P%": "25",
                 "2P": "16",
                 "2PA": "7",
-                "2P%": "28",
+                "2P%": "29",
                 "FT": "19",
                 "FTA": "17",
                 "FT%": "25",
@@ -127,7 +139,7 @@
                 "BLK": "5",
                 "TOV": "28",
                 "PF": "16",
-                "PTS": "27"
+                "PTS": "28"
             },
             "Year/Year": {
                 "G": "",
@@ -206,19 +218,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
-                "FG": "21",
+                "MP": "18",
+                "FG": "20",
                 "FGA": "11",
                 "FG%": "22",
-                "3P": "22",
-                "3PA": "13",
+                "3P": "21",
+                "3PA": "14",
                 "3P%": "24",
-                "2P": "17",
+                "2P": "18",
                 "2PA": "11",
                 "2P%": "20",
-                "FT": "25",
+                "FT": "24",
                 "FTA": "22",
-                "FT%": "24",
+                "FT%": "23",
                 "ORB": "29",
                 "DRB": "19",
                 "TRB": "25",
@@ -260,8 +272,8 @@
                 "PW": "5",
                 "PL": "18",
                 "MOV": "-9.61",
-                "SOS": "1.31",
-                "SRS": "-8.30",
+                "SOS": "1.24",
+                "SRS": "-8.37",
                 "ORtg": "106.9",
                 "DRtg": "116.5",
                 "Pace": "99.9",
@@ -281,23 +293,23 @@
                 "PW": "28",
                 "PL": "28",
                 "MOV": "28",
-                "SOS": "4",
+                "SOS": "5",
                 "SRS": "28",
                 "ORtg": "28",
                 "DRtg": "24",
-                "Pace": "9",
-                "FTr": "20",
-                "3PAr": "20",
+                "Pace": "10",
+                "FTr": "21",
+                "3PAr": "21",
                 "eFG%": "23",
                 "TOV%": "4",
                 "ORB%": "5",
                 "FT/FGA": "25",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/POR-2025.png",
-        "last_update": "Dec 07 2024 22:32:15"
+        "last_update": "Dec 08 2024 22:32:12"
     }
 }

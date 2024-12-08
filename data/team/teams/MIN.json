@@ -2,7 +2,7 @@
     "MIN": {
         "info": {
             "record": "12-10",
-            "standing": "9th in West",
+            "standing": "7th in West",
             "coach": "Chris Finch (12-10)",
             "gm": "Tim Connelly",
             "preseason_odds": "+850"
@@ -30,14 +30,14 @@
             {
                 "Player": "Rob Dillingham",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Fri, Dec 6, 2024",
-                "Description": "Day To Day (Ankle) - Dillingham did not play in Friday's (Dec. 6) game against the Warriors."
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Out (Ankle) - Dillingham is OUT for Sunday's (Dec. 8) game against Golden State."
             },
             {
                 "Player": "Joe Ingles",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Fri, Dec 6, 2024",
-                "Description": "Day To Day (Soleus) - Ingles did not play in Friday's (Dec. 6) game against the Warriors."
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Out (Soleus) - Ingles is OUT for Sunday's (Dec. 8) game against Golden State."
             }
         ],
         "team_stats": {
@@ -93,24 +93,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
-                "FG": "20",
+                "MP": "22",
+                "FG": "22",
                 "FGA": "28",
-                "FG%": "13",
-                "3P": "8",
+                "FG%": "14",
+                "3P": "7",
                 "3PA": "5",
-                "3P%": "13",
-                "2P": "26",
+                "3P%": "12",
+                "2P": "27",
                 "2PA": "28",
                 "2P%": "12",
                 "FT": "21",
-                "FTA": "24",
+                "FTA": "25",
                 "FT%": "6",
                 "ORB": "22",
-                "DRB": "18",
+                "DRB": "17",
                 "TRB": "24",
-                "AST": "19",
-                "STL": "12",
+                "AST": "20",
+                "STL": "13",
                 "BLK": "24",
                 "TOV": "23",
                 "PF": "11",
@@ -193,27 +193,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "7",
                 "FGA": "7",
                 "FG%": "9",
                 "3P": "1",
                 "3PA": "2",
-                "3P%": "3",
+                "3P%": "4",
                 "2P": "20",
                 "2PA": "21",
-                "2P%": "14",
+                "2P%": "13",
                 "FT": "7",
                 "FTA": "6",
-                "FT%": "27",
-                "ORB": "8",
+                "FT%": "26",
+                "ORB": "7",
                 "DRB": "9",
-                "TRB": "6",
+                "TRB": "7",
                 "AST": "3",
                 "STL": "24",
-                "BLK": "10",
-                "TOV": "8",
-                "PF": "15",
+                "BLK": "11",
+                "TOV": "7",
+                "PF": "17",
                 "PTS": "4"
             },
             "Opp Year/Year": {
@@ -247,8 +247,8 @@
                 "PW": "14",
                 "PL": "8",
                 "MOV": "4.09",
-                "SOS": "-0.41",
-                "SRS": "3.68",
+                "SOS": "-0.55",
+                "SRS": "3.55",
                 "ORtg": "112.3",
                 "DRtg": "108.2",
                 "Pace": "97.7",
@@ -272,19 +272,19 @@
                 "SRS": "9",
                 "ORtg": "20",
                 "DRtg": "4",
-                "Pace": "21",
+                "Pace": "22",
                 "FTr": "19",
                 "3PAr": "3",
                 "eFG%": "6",
                 "TOV%": "5",
-                "ORB%": "21",
-                "FT/FGA": "8",
+                "ORB%": "22",
+                "FT/FGA": "7",
                 "DRB%": "9",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MIN-2025.png",
-        "last_update": "Dec 07 2024 22:32:15"
+        "last_update": "Dec 08 2024 22:32:12"
     }
 }

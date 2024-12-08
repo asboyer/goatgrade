@@ -30,14 +30,14 @@
             {
                 "Player": "Adem Bona",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Dec 6, 2024",
-                "Description": "Day To Day (Knee) - Bona did not play in Friday's (Dec. 6) game against the Magic."
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Out (Knee) - Bona is OUT for Sunday's (Dec. 8) game against Chicago."
             },
             {
                 "Player": "Joel Embiid",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Dec 6, 2024",
-                "Description": "Day To Day (Knee) - Embiid did not play in Friday's (Dec. 6) game against the Magic."
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Knee) - Embiid is questionable for Sunday's (Dec. 8) game against Chicago."
             }
         ],
         "team_stats": {
@@ -93,24 +93,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "27",
                 "FG": "30",
                 "FGA": "25",
-                "FG%": "25",
-                "3P": "25",
-                "3PA": "19",
+                "FG%": "26",
+                "3P": "24",
+                "3PA": "20",
                 "3P%": "28",
                 "2P": "23",
                 "2PA": "19",
                 "2P%": "23",
-                "FT": "9",
-                "FTA": "8",
-                "FT%": "21",
+                "FT": "11",
+                "FTA": "9",
+                "FT%": "22",
                 "ORB": "16",
                 "DRB": "30",
                 "TRB": "29",
                 "AST": "30",
-                "STL": "4",
+                "STL": "5",
                 "BLK": "28",
                 "TOV": "14",
                 "PF": "24",
@@ -193,28 +193,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "27",
                 "FG": "6",
                 "FGA": "2",
                 "FG%": "24",
-                "3P": "6",
+                "3P": "4",
                 "3PA": "6",
                 "3P%": "9",
-                "2P": "12",
-                "2PA": "2",
+                "2P": "13",
+                "2PA": "3",
                 "2P%": "25",
                 "FT": "26",
                 "FTA": "19",
                 "FT%": "29",
                 "ORB": "10",
                 "DRB": "24",
-                "TRB": "21",
-                "AST": "9",
+                "TRB": "20",
+                "AST": "10",
                 "STL": "8",
-                "BLK": "22",
+                "BLK": "21",
                 "TOV": "2",
                 "PF": "9",
-                "PTS": "9"
+                "PTS": "8"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +247,8 @@
                 "PW": "7",
                 "PL": "14",
                 "MOV": "-5.52",
-                "SOS": "0.77",
-                "SRS": "-4.75",
+                "SOS": "0.86",
+                "SRS": "-4.66",
                 "ORtg": "107.9",
                 "DRtg": "113.5",
                 "Pace": "96.0",
@@ -279,12 +279,12 @@
                 "TOV%": "2",
                 "ORB%": "16",
                 "FT/FGA": "28",
-                "DRB%": "26",
+                "DRB%": "25",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/PHI-2025.png",
-        "last_update": "Dec 07 2024 22:32:15"
+        "last_update": "Dec 08 2024 22:32:12"
     }
 }

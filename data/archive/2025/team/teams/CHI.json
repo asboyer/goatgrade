@@ -29,10 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Lonzo Ball",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Knee) - Ball is probable for Sunday's (Dec. 8) game against Philadelphia."
+            },
+            {
+                "Player": "Nikola Vučević",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Back) - Vucevic is probable for Sunday's (Dec. 8) game against Philadelphia."
+            },
+            {
+                "Player": "Coby White",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Ankle) - White is probable for Sunday's (Dec. 8) game against Philadelphia."
+            },
+            {
                 "Player": "Patrick Williams",
                 "Team": "Chicago Bulls",
                 "Update": "Thu, Dec 5, 2024",
-                "Description": "Out (Foot) - The Bulls said that Williams is out for Thursday's (Dec. 5) game against the Spurs and Friday's game against the Pacers, per K.C. Johnson of NBC Sports Chicago."
+                "Description": "Out (Foot) - The Bulls said that Williams is out for Thursday's (Dec. 5) game against the Spurs and on Friday's game against the Pacers, per K.C. Johnson of NBC Sports Chicago."
             }
         ],
         "team_stats": {
@@ -88,22 +106,22 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "4",
+                "MP": "10",
+                "FG": "3",
                 "FGA": "6",
                 "FG%": "8",
                 "3P": "2",
                 "3PA": "3",
-                "3P%": "5",
+                "3P%": "4",
                 "2P": "18",
                 "2PA": "23",
                 "2P%": "6",
-                "FT": "27",
-                "FTA": "27",
+                "FT": "28",
+                "FTA": "28",
                 "FT%": "9",
-                "ORB": "26",
-                "DRB": "3",
-                "TRB": "11",
+                "ORB": "27",
+                "DRB": "4",
+                "TRB": "12",
                 "AST": "4",
                 "STL": "27",
                 "BLK": "23",
@@ -188,25 +206,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "10",
                 "FG": "30",
                 "FGA": "30",
-                "FG%": "29",
+                "FG%": "28",
                 "3P": "19",
-                "3PA": "22",
-                "3P%": "12",
+                "3PA": "23",
+                "3P%": "11",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "30",
                 "FT": "16",
                 "FTA": "17",
-                "FT%": "7",
+                "FT%": "8",
                 "ORB": "9",
-                "DRB": "28",
+                "DRB": "29",
                 "TRB": "26",
                 "AST": "29",
                 "STL": "20",
-                "BLK": "14",
+                "BLK": "13",
                 "TOV": "29",
                 "PF": "30",
                 "PTS": "30"
@@ -242,8 +260,8 @@
                 "PW": "9",
                 "PL": "15",
                 "MOV": "-3.71",
-                "SOS": "1.11",
-                "SRS": "-2.60",
+                "SOS": "1.18",
+                "SRS": "-2.53",
                 "ORtg": "114.8",
                 "DRtg": "118.3",
                 "Pace": "104.5",
@@ -258,7 +276,7 @@
                 "Attendance": "218,308"
             },
             "Misc Lg Rank": {
-                "W": "19",
+                "W": "20",
                 "L": "9",
                 "PW": "20",
                 "PL": "23",
@@ -276,10 +294,10 @@
                 "FT/FGA": "10",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CHI-2025.png",
-        "last_update": "Dec 07 2024 22:32:15"
+        "last_update": "Dec 08 2024 22:32:12"
     }
 }

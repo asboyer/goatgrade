@@ -31,20 +31,20 @@
             {
                 "Player": "Tre Jones",
                 "Team": "San Antonio Spurs",
-                "Update": "Fri, Dec 6, 2024",
-                "Description": "Out (Shoulder) - The Spurs said Jones is OUT for Friday's (Dec. 6) game against the Kings."
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Out (Shoulder) - Coach Mitch Johnson said that he expects Jones to miss at least a few weeks, Dusty Garza of News 4 San Antonio reports."
             },
             {
                 "Player": "Devin Vassell",
                 "Team": "San Antonio Spurs",
-                "Update": "Fri, Dec 6, 2024",
-                "Description": "Out (Rest) - The Spurs said Vassell is OUT for Friday's (Dec. 6) game versus the Kings."
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Rest) - Vassell did not play in Friday's (Dec. 6) game versus the Kings."
             },
             {
                 "Player": "Victor Wembanyama",
                 "Team": "San Antonio Spurs",
-                "Update": "Fri, Dec 6, 2024",
-                "Description": "Day To Day (Back) - Wembanyama did not play in Friday's (Dec. 6) game against the Kings."
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Back) - The Spurs have listed Wembanyama as Questionable for Sunday's (Dec. 8) game against the Pelicans."
             }
         ],
         "team_stats": {
@@ -100,24 +100,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
-                "FG": "21",
-                "FGA": "21",
+                "MP": "18",
+                "FG": "23",
+                "FGA": "20",
                 "FG%": "21",
                 "3P": "12",
                 "3PA": "6",
-                "3P%": "19",
+                "3P%": "20",
                 "2P": "24",
                 "2PA": "24",
                 "2P%": "15",
-                "FT": "11",
+                "FT": "12",
                 "FTA": "13",
                 "FT%": "7",
                 "ORB": "14",
-                "DRB": "14",
+                "DRB": "13",
                 "TRB": "13",
                 "AST": "8",
-                "STL": "19",
+                "STL": "20",
                 "BLK": "4",
                 "TOV": "16",
                 "PF": "3",
@@ -200,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "22",
                 "FGA": "24",
                 "FG%": "19",
@@ -216,9 +216,9 @@
                 "ORB": "21",
                 "DRB": "15",
                 "TRB": "18",
-                "AST": "13",
-                "STL": "19",
-                "BLK": "8",
+                "AST": "12",
+                "STL": "18",
+                "BLK": "9",
                 "TOV": "21",
                 "PF": "18",
                 "PTS": "15"
@@ -254,8 +254,8 @@
                 "PW": "10",
                 "PL": "13",
                 "MOV": "-2.00",
-                "SOS": "0.68",
-                "SRS": "-1.33",
+                "SOS": "0.52",
+                "SRS": "-1.48",
                 "ORtg": "112.4",
                 "DRtg": "114.5",
                 "Pace": "98.7",
@@ -272,26 +272,26 @@
             "Misc Lg Rank": {
                 "W": "15",
                 "L": "13",
-                "PW": "18",
+                "PW": "19",
                 "PL": "17",
                 "MOV": "18",
-                "SOS": "10",
+                "SOS": "12",
                 "SRS": "17",
                 "ORtg": "18",
-                "DRtg": "18",
+                "DRtg": "17",
                 "Pace": "16",
-                "FTr": "10",
+                "FTr": "11",
                 "3PAr": "7",
                 "eFG%": "15",
                 "TOV%": "21",
                 "ORB%": "14",
-                "FT/FGA": "6",
+                "FT/FGA": "5",
                 "DRB%": "19",
                 "Arena": "",
                 "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/SAS-2025.png",
-        "last_update": "Dec 07 2024 22:32:15"
+        "last_update": "Dec 08 2024 22:32:12"
     }
 }

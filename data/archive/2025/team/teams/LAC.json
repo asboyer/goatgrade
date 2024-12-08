@@ -28,10 +28,28 @@
         ],
         "injuries": [
             {
+                "Player": "Mo Bamba",
+                "Team": "Los Angeles Clippers",
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Knee) - Bamba is questionable for Sunday's (Dec. 8) game against Houston."
+            },
+            {
                 "Player": "Kobe Brown",
                 "Team": "Los Angeles Clippers",
                 "Update": "Thu, Dec 5, 2024",
                 "Description": "Out (Back) - Brown has a herniated disc and will be re-evaluated in two weeks, according to an independent NBA writer Justin Russo."
+            },
+            {
+                "Player": "Kris Dunn",
+                "Team": "Los Angeles Clippers",
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Illness) - Dunn is questionable for Sunday's (Dec. 8) game against Houston."
+            },
+            {
+                "Player": "James Harden",
+                "Team": "Los Angeles Clippers",
+                "Update": "Sat, Dec 7, 2024",
+                "Description": "Day To Day (Groin) - Harden is questionable for Sunday's (Dec. 8) game against Houston."
             },
             {
                 "Player": "Kawhi Leonard",
@@ -44,12 +62,6 @@
                 "Team": "Los Angeles Clippers",
                 "Update": "Thu, Dec 5, 2024",
                 "Description": "Out (Finger) - Mann will undergo surgery to repair his fractured left middle finger and will be re-evaluated in three weeks, according to Joey Linn of SI.com."
-            },
-            {
-                "Player": "Kevin Porter Jr.",
-                "Team": "Los Angeles Clippers",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Day To Day (Ankle) - Porter Jr. did not play in Wednesday's (Dec. 4) game versus Minnesota."
             },
             {
                 "Player": "P.J. Tucker",
@@ -111,13 +123,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "7",
                 "FG": "19",
                 "FGA": "23",
-                "FG%": "15",
+                "FG%": "17",
                 "3P": "18",
                 "3PA": "25",
-                "3P%": "12",
+                "3P%": "11",
                 "2P": "17",
                 "2PA": "14",
                 "2P%": "22",
@@ -128,7 +140,7 @@
                 "DRB": "11",
                 "TRB": "9",
                 "AST": "21",
-                "STL": "5",
+                "STL": "6",
                 "BLK": "26",
                 "TOV": "27",
                 "PF": "14",
@@ -211,27 +223,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "7",
                 "FG": "5",
                 "FGA": "4",
-                "FG%": "11",
+                "FG%": "12",
                 "3P": "9",
-                "3PA": "12",
-                "3P%": "7",
+                "3PA": "13",
+                "3P%": "6",
                 "2P": "4",
-                "2PA": "1",
+                "2PA": "2",
                 "2P%": "22",
                 "FT": "9",
-                "FTA": "13",
+                "FTA": "11",
                 "FT%": "5",
                 "ORB": "2",
                 "DRB": "8",
                 "TRB": "3",
-                "AST": "8",
+                "AST": "7",
                 "STL": "26",
                 "BLK": "17",
                 "TOV": "11",
-                "PF": "27",
+                "PF": "26",
                 "PTS": "5"
             },
             "Opp Year/Year": {
@@ -265,8 +277,8 @@
                 "PW": "13",
                 "PL": "11",
                 "MOV": "1.83",
-                "SOS": "0.97",
-                "SRS": "2.81",
+                "SOS": "0.77",
+                "SRS": "2.60",
                 "ORtg": "111.1",
                 "DRtg": "109.2",
                 "Pace": "97.5",
@@ -286,23 +298,23 @@
                 "PW": "11",
                 "PL": "14",
                 "MOV": "12",
-                "SOS": "8",
+                "SOS": "10",
                 "SRS": "11",
-                "ORtg": "22",
+                "ORtg": "23",
                 "DRtg": "7",
-                "Pace": "24",
+                "Pace": "23",
                 "FTr": "17",
-                "3PAr": "21",
+                "3PAr": "22",
                 "eFG%": "12",
                 "TOV%": "8",
                 "ORB%": "11",
                 "FT/FGA": "13",
                 "DRB%": "1",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAC-2025.png",
-        "last_update": "Dec 07 2024 22:32:15"
+        "last_update": "Dec 08 2024 22:32:12"
     }
 }
