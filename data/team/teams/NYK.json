@@ -30,8 +30,8 @@
             {
                 "Player": "Cameron Payne",
                 "Team": "New York Knicks",
-                "Update": "Sat, Dec 7, 2024",
-                "Description": "Day To Day (Elbow) - Payne did not play in Saturday's (Dec. 7) game against the Pistons."
+                "Update": "Sun, Dec 8, 2024",
+                "Description": "Day To Day (Elbow) - Payne is questionable for Monday's (Dec. 9) game against Toronto."
             },
             {
                 "Player": "Mitchell Robinson",
@@ -42,8 +42,8 @@
             {
                 "Player": "Karl-Anthony Towns",
                 "Team": "New York Knicks",
-                "Update": "Sat, Dec 7, 2024",
-                "Description": "Day To Day (Knee) - Towns did not play in Saturday's (Dec. 7) game against the Pistons."
+                "Update": "Sun, Dec 8, 2024",
+                "Description": "Day To Day (Knee) - Towns is questionable for Monday's (Dec. 9) game against Toronto."
             }
         ],
         "team_stats": {
@@ -99,28 +99,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "24",
                 "FG": "5",
-                "FGA": "20",
+                "FGA": "21",
                 "FG%": "2",
                 "3P": "11",
-                "3PA": "18",
+                "3PA": "19",
                 "3P%": "2",
-                "2P": "12",
-                "2PA": "16",
+                "2P": "11",
+                "2PA": "15",
                 "2P%": "4",
                 "FT": "23",
                 "FTA": "27",
                 "FT%": "1",
-                "ORB": "25",
+                "ORB": "24",
                 "DRB": "19",
-                "TRB": "25",
+                "TRB": "26",
                 "AST": "9",
                 "STL": "25",
                 "BLK": "27",
                 "TOV": "4",
                 "PF": "5",
-                "PTS": "6"
+                "PTS": "7"
             },
             "Year/Year": {
                 "G": "",
@@ -199,28 +199,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "24",
                 "FG": "15",
                 "FGA": "8",
                 "FG%": "17",
-                "3P": "23",
-                "3PA": "22",
-                "3P%": "22",
+                "3P": "25",
+                "3PA": "21",
+                "3P%": "20",
                 "2P": "6",
                 "2PA": "7",
-                "2P%": "17",
+                "2P%": "18",
                 "FT": "8",
-                "FTA": "8",
-                "FT%": "18",
+                "FTA": "7",
+                "FT%": "19",
                 "ORB": "4",
                 "DRB": "1",
                 "TRB": "1",
-                "AST": "13",
+                "AST": "14",
                 "STL": "1",
-                "BLK": "8",
+                "BLK": "7",
                 "TOV": "26",
                 "PF": "22",
-                "PTS": "11"
+                "PTS": "10"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -253,8 +253,8 @@
                 "PW": "16",
                 "PL": "7",
                 "MOV": "6.83",
-                "SOS": "-1.42",
-                "SRS": "5.41",
+                "SOS": "-1.45",
+                "SRS": "5.38",
                 "ORtg": "121.7",
                 "DRtg": "114.6",
                 "Pace": "96.9",
@@ -271,26 +271,26 @@
             "Misc Lg Rank": {
                 "W": "8",
                 "L": "22",
-                "PW": "7",
+                "PW": "8",
                 "PL": "7",
                 "MOV": "7",
                 "SOS": "27",
-                "SRS": "7",
+                "SRS": "8",
                 "ORtg": "1",
-                "DRtg": "18",
+                "DRtg": "17",
                 "Pace": "26",
                 "FTr": "27",
                 "3PAr": "17",
                 "eFG%": "19",
                 "TOV%": "25",
-                "ORB%": "19",
-                "FT/FGA": "9",
+                "ORB%": "20",
+                "FT/FGA": "11",
                 "DRB%": "4",
                 "Arena": "",
                 "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NYK-2025.png",
-        "last_update": "Dec 08 2024 22:32:12"
+        "last_update": "Dec 09 2024 22:32:16"
     }
 }
