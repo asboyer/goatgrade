@@ -30,8 +30,8 @@
             {
                 "Player": "Mo Bamba",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Knee) - Bamba is out for Sunday's (Dec. 8) game against Houston."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Knee) - Bamba did not play in Sunday's (Dec. 8) game against Houston."
             },
             {
                 "Player": "Kobe Brown",
@@ -42,8 +42,8 @@
             {
                 "Player": "James Harden",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Groin) - Harden is out for Sunday's (Dec. 8) game against Houston."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Groin) - Harden did not play in Sunday's (Dec. 8) game against Houston."
             },
             {
                 "Player": "Kawhi Leonard",
@@ -117,7 +117,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "19",
                 "FGA": "23",
                 "FG%": "17",
@@ -135,8 +135,8 @@
                 "TRB": "11",
                 "AST": "21",
                 "STL": "5",
-                "BLK": "26",
-                "TOV": "25",
+                "BLK": "27",
+                "TOV": "26",
                 "PF": "14",
                 "PTS": "24"
             },
@@ -217,10 +217,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "5",
                 "FGA": "4",
-                "FG%": "13",
+                "FG%": "12",
                 "3P": "9",
                 "3PA": "15",
                 "3P%": "6",
@@ -287,7 +287,7 @@
                 "Attendance": "246,038"
             },
             "Misc Lg Rank": {
-                "W": "8",
+                "W": "9",
                 "L": "15",
                 "PW": "12",
                 "PL": "15",
@@ -299,16 +299,16 @@
                 "Pace": "24",
                 "FTr": "17",
                 "3PAr": "23",
-                "eFG%": "12",
+                "eFG%": "11",
                 "TOV%": "7",
                 "ORB%": "12",
                 "FT/FGA": "14",
                 "DRB%": "2",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAC-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

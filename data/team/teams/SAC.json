@@ -36,8 +36,8 @@
             {
                 "Player": "Isaac Jones",
                 "Team": "Sacramento Kings",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Illness) - Jones is out for Sunday's (Dec. 8) game against Utah."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Illness) - Jones did not play in Sunday's (Dec. 8) game against Utah."
             },
             {
                 "Player": "Trey Lyles",
@@ -110,7 +110,7 @@
                 "2PA": "11",
                 "2P%": "3",
                 "FT": "11",
-                "FTA": "14",
+                "FTA": "13",
                 "FT%": "7",
                 "ORB": "21",
                 "DRB": "14",
@@ -201,7 +201,7 @@
                 "G": "",
                 "MP": "2",
                 "FG": "8",
-                "FGA": "9",
+                "FGA": "8",
                 "FG%": "10",
                 "3P": "29",
                 "3PA": "27",
@@ -212,14 +212,14 @@
                 "FT": "20",
                 "FTA": "18",
                 "FT%": "27",
-                "ORB": "7",
+                "ORB": "6",
                 "DRB": "6",
                 "TRB": "5",
                 "AST": "12",
                 "STL": "14",
                 "BLK": "5",
                 "TOV": "9",
-                "PF": "17",
+                "PF": "16",
                 "PTS": "17"
             },
             "Opp Year/Year": {
@@ -253,8 +253,8 @@
                 "PW": "15",
                 "PL": "10",
                 "MOV": "3.20",
-                "SOS": "-1.01",
-                "SRS": "2.20",
+                "SOS": "-0.99",
+                "SRS": "2.21",
                 "ORtg": "116.5",
                 "DRtg": "113.3",
                 "Pace": "98.7",
@@ -285,12 +285,12 @@
                 "TOV%": "11",
                 "ORB%": "17",
                 "FT/FGA": "21",
-                "DRB%": "6",
+                "DRB%": "5",
                 "Arena": "",
                 "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/SAC-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

@@ -30,14 +30,14 @@
             {
                 "Player": "Rob Dillingham",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Sat, Dec 7, 2024",
-                "Description": "Out (Ankle) - Dillingham is OUT for Sunday's (Dec. 8) game against Golden State."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Ankle) - Dillingham did not play in Sunday's (Dec. 8) game against Golden State."
             },
             {
                 "Player": "Joe Ingles",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Sat, Dec 7, 2024",
-                "Description": "Out (Soleus) - Ingles is OUT for Sunday's (Dec. 8) game against Golden State."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Soleus) - Ingles did not play in Sunday's (Dec. 8) game against Golden State."
             }
         ],
         "team_stats": {
@@ -93,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "21",
                 "FG": "23",
                 "FGA": "29",
                 "FG%": "13",
@@ -111,7 +111,7 @@
                 "TRB": "24",
                 "AST": "20",
                 "STL": "13",
-                "BLK": "22",
+                "BLK": "21",
                 "TOV": "23",
                 "PF": "12",
                 "PTS": "20"
@@ -193,7 +193,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "21",
                 "FG": "7",
                 "FGA": "7",
                 "FG%": "8",
@@ -203,7 +203,7 @@
                 "2P": "20",
                 "2PA": "21",
                 "2P%": "12",
-                "FT": "6",
+                "FT": "7",
                 "FTA": "6",
                 "FT%": "23",
                 "ORB": "10",
@@ -247,8 +247,8 @@
                 "PW": "14",
                 "PL": "9",
                 "MOV": "3.57",
-                "SOS": "-0.01",
-                "SRS": "3.55",
+                "SOS": "0.00",
+                "SRS": "3.57",
                 "ORtg": "112.3",
                 "DRtg": "108.7",
                 "Pace": "97.5",
@@ -268,7 +268,7 @@
                 "PW": "11",
                 "PL": "9",
                 "MOV": "10",
-                "SOS": "16",
+                "SOS": "15",
                 "SRS": "9",
                 "ORtg": "20",
                 "DRtg": "6",
@@ -278,13 +278,13 @@
                 "eFG%": "6",
                 "TOV%": "4",
                 "ORB%": "22",
-                "FT/FGA": "8",
+                "FT/FGA": "9",
                 "DRB%": "11",
                 "Arena": "",
                 "Attendance": "15"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MIN-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

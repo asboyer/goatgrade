@@ -36,14 +36,14 @@
             {
                 "Player": "Isaac Okoro",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Sat, Dec 7, 2024",
+                "Update": "Mon, Dec 9, 2024",
                 "Description": "Day To Day (Knee) - Okoro did not play in Saturday's (Dec. 7) game against the Hornets."
             },
             {
                 "Player": "Craig Porter Jr.",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Illness) - Porter Jr. is out for Sunday's (Dec. 8)game against Miami."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Illness) - Porter Jr. did not play in Sunday's (Dec. 8)game against Miami."
             },
             {
                 "Player": "Max Strus",
@@ -105,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "8",
                 "FG": "1",
                 "FGA": "16",
                 "FG%": "1",
@@ -118,10 +118,10 @@
                 "FT": "24",
                 "FTA": "26",
                 "FT%": "17",
-                "ORB": "25",
+                "ORB": "24",
                 "DRB": "8",
                 "TRB": "19",
-                "AST": "7",
+                "AST": "8",
                 "STL": "10",
                 "BLK": "23",
                 "TOV": "6",
@@ -205,9 +205,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "8",
                 "FG": "13",
-                "FGA": "14",
+                "FGA": "15",
                 "FG%": "7",
                 "3P": "16",
                 "3PA": "9",
@@ -297,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CLE-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

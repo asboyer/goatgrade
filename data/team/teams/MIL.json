@@ -26,7 +26,32 @@
             "Chris Livingston",
             "Khris Middleton"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Giannis Antetokounmpo",
+                "Team": "Milwaukee Bucks",
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Patella) - Antetokounmpo is probable for Tuesday's (Dec. 10) game against Orlando."
+            },
+            {
+                "Player": "MarJon Beauchamp",
+                "Team": "Milwaukee Bucks",
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Hamstring) - Beauchamp is probable for Tuesday's (Dec. 10) game against Orlando."
+            },
+            {
+                "Player": "Chris Livingston",
+                "Team": "Milwaukee Bucks",
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Out (Ankle) - Livingston is OUT for Tuesday's (Dec. 10) game against Orlando."
+            },
+            {
+                "Player": "Khris Middleton",
+                "Team": "Milwaukee Bucks",
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Ankle) - Middleton is probable for Tuesday's (Dec. 10) game against Orlando."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "23",
@@ -80,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "23",
                 "FG": "15",
                 "FGA": "28",
                 "FG%": "8",
@@ -90,7 +115,7 @@
                 "2P": "21",
                 "2PA": "22",
                 "2P%": "12",
-                "FT": "17",
+                "FT": "16",
                 "FTA": "11",
                 "FT%": "29",
                 "ORB": "30",
@@ -180,7 +205,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "23",
                 "FG": "16",
                 "FGA": "20",
                 "FG%": "6",
@@ -235,7 +260,7 @@
                 "PL": "11",
                 "MOV": "0.96",
                 "SOS": "-0.02",
-                "SRS": "0.94",
+                "SRS": "0.93",
                 "ORtg": "114.8",
                 "DRtg": "113.8",
                 "Pace": "98.3",
@@ -272,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MIL-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

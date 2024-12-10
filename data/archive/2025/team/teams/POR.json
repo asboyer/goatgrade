@@ -37,8 +37,8 @@
             {
                 "Player": "Duop Reath",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Back) - Reath is out for Sunday's (Dec. 8) game against Los Angeles."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Back) - Reath did not play in Sunday's (Dec. 8) game against Los Angeles."
             },
             {
                 "Player": "Matisse Thybulle",
@@ -49,8 +49,8 @@
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sat, Dec 7, 2024",
-                "Description": "Out (Concussion) - Williams III is OUT for Sunday's (Dec. 8) game against Los Angeles."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Concussion) - Williams III did not play in Sunday's (Dec. 8) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -116,7 +116,7 @@
                 "2P": "17",
                 "2PA": "8",
                 "2P%": "29",
-                "FT": "19",
+                "FT": "18",
                 "FTA": "17",
                 "FT%": "24",
                 "ORB": "5",
@@ -213,8 +213,8 @@
                 "3P": "20",
                 "3PA": "12",
                 "3P%": "25",
-                "2P": "17",
-                "2PA": "12",
+                "2P": "18",
+                "2PA": "13",
                 "2P%": "20",
                 "FT": "25",
                 "FTA": "23",
@@ -281,7 +281,7 @@
                 "PW": "27",
                 "PL": "28",
                 "MOV": "28",
-                "SOS": "6",
+                "SOS": "7",
                 "SRS": "28",
                 "ORtg": "28",
                 "DRtg": "22",
@@ -298,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/POR-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

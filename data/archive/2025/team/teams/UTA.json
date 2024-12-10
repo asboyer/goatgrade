@@ -31,8 +31,8 @@
             {
                 "Player": "Jordan Clarkson",
                 "Team": "Utah Jazz",
-                "Update": "Sat, Dec 7, 2024",
-                "Description": "Out (Plantar) - Clarkson is OUT for Sunday's (Dec. 8) game against Sacramento."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Plantar) - Clarkson did not play in Sunday's (Dec. 8) game against Sacramento."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -94,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "25",
                 "FG": "27",
                 "FGA": "25",
                 "FG%": "20",
@@ -194,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "25",
                 "FG": "28",
                 "FGA": "25",
                 "FG%": "24",
@@ -248,7 +248,7 @@
                 "PW": "5",
                 "PL": "18",
                 "MOV": "-9.52",
-                "SOS": "1.61",
+                "SOS": "1.60",
                 "SRS": "-7.92",
                 "ORtg": "110.2",
                 "DRtg": "119.8",
@@ -279,13 +279,13 @@
                 "eFG%": "25",
                 "TOV%": "29",
                 "ORB%": "4",
-                "FT/FGA": "7",
-                "DRB%": "21",
+                "FT/FGA": "8",
+                "DRB%": "22",
                 "Arena": "",
                 "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/UTA-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

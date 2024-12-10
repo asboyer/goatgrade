@@ -43,14 +43,14 @@
             {
                 "Player": "Jamal Murray",
                 "Team": "Denver Nuggets",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Hamstring) - Murray is OUT for Sunday's (Dec. 8) game against Atlanta."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Hamstring) - Murray did not play in Sunday's (Dec. 8) game against Atlanta."
             },
             {
                 "Player": "Dario Šarić",
                 "Team": "Denver Nuggets",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Ankle) - Saric is OUT for Sunday's (Dec. 8) game against Atlanta."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Ankle) - Saric did not play in Sunday's (Dec. 8) game against Atlanta."
             }
         ],
         "team_stats": {
@@ -58,11 +58,11 @@
                 "G": "22",
                 "MP": "5330",
                 "FG": "969",
-                "FGA": "1968",
+                "FGA": "1969",
                 "FG%": ".492",
                 "3P": "257",
-                "3PA": "671",
-                "3P%": ".383",
+                "3PA": "672",
+                "3P%": ".382",
                 "2P": "712",
                 "2PA": "1297",
                 "2P%": ".549",
@@ -87,7 +87,7 @@
                 "FG%": ".492",
                 "3P": "11.7",
                 "3PA": "30.5",
-                "3P%": ".383",
+                "3P%": ".382",
                 "2P": "32.4",
                 "2PA": "59.0",
                 "2P%": ".549",
@@ -112,7 +112,7 @@
                 "FG%": "3",
                 "3P": "26",
                 "3PA": "30",
-                "3P%": "6",
+                "3P%": "7",
                 "2P": "1",
                 "2PA": "1",
                 "2P%": "13",
@@ -136,8 +136,8 @@
                 "FGA": "0.8%",
                 "FG%": "-.004",
                 "3P": "-0.0%",
-                "3PA": "-2.3%",
-                "3P%": "+.009",
+                "3PA": "-2.2%",
+                "3P%": "+.008",
                 "2P": "0.1%",
                 "2PA": "2.4%",
                 "2P%": "-.013",
@@ -215,8 +215,8 @@
                 "3P%": "14",
                 "2P": "28",
                 "2PA": "27",
-                "2P%": "17",
-                "FT": "7",
+                "2P%": "18",
+                "FT": "8",
                 "FTA": "9",
                 "FT%": "6",
                 "ORB": "28",
@@ -260,10 +260,10 @@
                 "PW": "12",
                 "PL": "10",
                 "MOV": "1.91",
-                "SOS": "0.89",
-                "SRS": "2.80",
+                "SOS": "0.90",
+                "SRS": "2.81",
                 "ORtg": "116.5",
-                "DRtg": "114.7",
+                "DRtg": "114.6",
                 "Pace": "100.9",
                 "FTr": ".282",
                 "3PAr": ".341",
@@ -284,7 +284,7 @@
                 "SOS": "8",
                 "SRS": "11",
                 "ORtg": "6",
-                "DRtg": "18",
+                "DRtg": "17",
                 "Pace": "5",
                 "FTr": "1",
                 "3PAr": "30",
@@ -298,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DEN-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

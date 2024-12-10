@@ -37,14 +37,32 @@
             {
                 "Player": "Jaden Hardy",
                 "Team": "Dallas Mavericks",
-                "Update": "Sat, Dec 7, 2024",
-                "Description": "Day To Day (Ankle) - Hardy did not play in Saturday's (Dec. 7) game against the Raptors."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Out (Ankle) - Hardy is OUT for Tuesday's (Dec. 10) game against Oklahoma City."
+            },
+            {
+                "Player": "Maxi Kleber",
+                "Team": "Dallas Mavericks",
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Out (Illness) - Kleber is OUT for Tuesday's (Dec. 10) game against Oklahoma City."
             },
             {
                 "Player": "Naji Marshall",
                 "Team": "Dallas Mavericks",
-                "Update": "Sat, Dec 7, 2024",
-                "Description": "Day To Day (Illness) - Marshall did not play in Saturday (Dec. 7) game against the Raptors."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Illness) - Marshall is questionable for Tuesday's (Dec. 10) game against Oklahoma City."
+            },
+            {
+                "Player": "P.J. Washington",
+                "Team": "Dallas Mavericks",
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Illness) - Washington Jr. is questionable for Tuesday's (Dec. 10) game against Oklahoma City."
+            },
+            {
+                "Player": "Brandon Williams",
+                "Team": "Dallas Mavericks",
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Out (Thumb) - Williams is OUT for Tuesday's (Dec. 10) game against Oklahoma City."
             }
         ],
         "team_stats": {
@@ -254,7 +272,7 @@
                 "PW": "17",
                 "PL": "7",
                 "MOV": "7.67",
-                "SOS": "-1.10",
+                "SOS": "-1.11",
                 "SRS": "6.56",
                 "ORtg": "119.0",
                 "DRtg": "111.4",
@@ -292,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DAL-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

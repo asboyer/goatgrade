@@ -36,8 +36,8 @@
             {
                 "Player": "Javonte Green",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Ankle) - Green is OUT for Sunday's (Dec. 8) game against San Antonio."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Ankle) - Green did not play in Sunday's (Dec. 8) game against San Antonio."
             },
             {
                 "Player": "Jordan Hawkins",
@@ -54,14 +54,14 @@
             {
                 "Player": "Karlo Matković",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Back) - Matkovic is OUT for Sunday's (Dec. 8) game against San Antonio."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Back) - Matkovic did not play in Sunday's (Dec. 8) game against San Antonio."
             },
             {
                 "Player": "Daniel Theis",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Neck) - Theis is OUT for Sunday's (Dec. 8) game against San Antonio."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Neck) - Theis did not play in Sunday's (Dec. 8) game against San Antonio."
             },
             {
                 "Player": "Zion Williamson",
@@ -123,7 +123,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "8",
                 "FG": "24",
                 "FGA": "14",
                 "FG%": "28",
@@ -223,7 +223,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "8",
                 "FG": "27",
                 "FGA": "22",
                 "FG%": "29",
@@ -315,6 +315,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NOP-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

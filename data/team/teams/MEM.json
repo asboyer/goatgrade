@@ -31,8 +31,8 @@
             {
                 "Player": "Desmond Bane",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Toe) - Bane is out for Sunday's (Dec. 8) game against Washington."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Toe) - Bane did not play in Sunday's (Dec. 8) game against Washington."
             },
             {
                 "Player": "Zach Edey",
@@ -49,14 +49,14 @@
             {
                 "Player": "Luke Kennard",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Illness) - Kennard is OUT for Sunday's (Dec. 8) game against Washington."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Illness) - Kennard did not play in Sunday's (Dec. 8) game against Washington."
             },
             {
                 "Player": "Ja Morant",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Back) - Morant is out for Sunday's (Dec. 8) game against Washington."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Back) - Morant did not play in Sunday's (Dec. 8) game against Washington."
             },
             {
                 "Player": "Vince Williams Jr.",
@@ -118,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "8",
                 "FG": "2",
                 "FGA": "5",
                 "FG%": "4",
@@ -218,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "8",
                 "FG": "10",
                 "FGA": "28",
                 "FG%": "4",
@@ -304,12 +304,12 @@
                 "TOV%": "12",
                 "ORB%": "6",
                 "FT/FGA": "22",
-                "DRB%": "22",
+                "DRB%": "23",
                 "Arena": "",
                 "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MEM-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

@@ -35,8 +35,8 @@
             {
                 "Player": "Andrew Wiggins",
                 "Team": "Golden State Warriors",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Ankle) - The Warriors have listed Wiggins as out for Sunday's (Dec. 8) game against the Timberwolves."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Ankle) - Wiggins did not play in Sunday's (Dec. 8) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -92,7 +92,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "23",
                 "FG": "12",
                 "FGA": "4",
                 "FG%": "22",
@@ -100,7 +100,7 @@
                 "3PA": "4",
                 "3P%": "14",
                 "2P": "20",
-                "2PA": "16",
+                "2PA": "15",
                 "2P%": "24",
                 "FT": "29",
                 "FTA": "18",
@@ -192,9 +192,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "23",
                 "FG": "4",
-                "FGA": "14",
+                "FGA": "15",
                 "FG%": "3",
                 "3P": "8",
                 "3PA": "23",
@@ -208,7 +208,7 @@
                 "ORB": "19",
                 "DRB": "27",
                 "TRB": "27",
-                "AST": "17",
+                "AST": "16",
                 "STL": "7",
                 "BLK": "26",
                 "TOV": "12",
@@ -262,12 +262,12 @@
                 "Attendance": "198,704"
             },
             "Misc Lg Rank": {
-                "W": "8",
+                "W": "9",
                 "L": "22",
                 "PW": "9",
                 "PL": "8",
                 "MOV": "8",
-                "SOS": "14",
+                "SOS": "13",
                 "SRS": "7",
                 "ORtg": "14",
                 "DRtg": "4",
@@ -284,6 +284,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/GSW-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

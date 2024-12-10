@@ -36,14 +36,14 @@
             {
                 "Player": "Gary Harris",
                 "Team": "Orlando Magic",
-                "Update": "Sat, Dec 7, 2024",
-                "Description": "Out (Hamstring) - The Magic have listed Harris as Out for Sunday's (Dec. 8) game against the Suns."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Out (Hamstring) - Harris is OUT for Tuesday's (Dec. 10) game against Milwaukee."
             },
             {
                 "Player": "Jonathan Isaac",
                 "Team": "Orlando Magic",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Hamstring) - The Magic have listed Isaac as OUT for Sunday's (Dec. 8) game against the Suns."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Hamstring) - Isaac is questionable for Tuesday's (Dec. 10) game against Milwaukee."
             },
             {
                 "Player": "Franz Wagner",
@@ -259,8 +259,8 @@
                 "PW": "17",
                 "PL": "9",
                 "MOV": "4.35",
-                "SOS": "-1.51",
-                "SRS": "2.84",
+                "SOS": "-1.52",
+                "SRS": "2.83",
                 "ORtg": "110.8",
                 "DRtg": "106.3",
                 "Pace": "97.2",
@@ -277,10 +277,10 @@
             "Misc Lg Rank": {
                 "W": "4",
                 "L": "22",
-                "PW": "7",
+                "PW": "8",
                 "PL": "11",
                 "MOV": "9",
-                "SOS": "28",
+                "SOS": "27",
                 "SRS": "10",
                 "ORtg": "24",
                 "DRtg": "3",
@@ -297,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/ORL-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

@@ -34,6 +34,12 @@
                 "Description": "Out (Finger) - Dieng will miss 3-4 weeks due to a right ring-finger fracture, Andrew Schlecht of The Athletic reports."
             },
             {
+                "Player": "Adam Flagler",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Out (Metacarpal) - Flagler has been diagnosed with a right fourth metacarpal fracture and will be re-evaluated in 4-to-6 weeks, Clemente Almanza of USA Today reports."
+            },
+            {
                 "Player": "Chet Holmgren",
                 "Team": "Oklahoma City Thunder",
                 "Update": "Mon, Nov 11, 2024",
@@ -105,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "25",
                 "FG": "8",
                 "FGA": "3",
                 "FG%": "12",
@@ -205,7 +211,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "25",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
@@ -260,7 +266,7 @@
                 "PL": "4",
                 "MOV": "11.91",
                 "SOS": "-0.74",
-                "SRS": "11.17",
+                "SRS": "11.18",
                 "ORtg": "115.8",
                 "DRtg": "103.9",
                 "Pace": "99.9",
@@ -297,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/OKC-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

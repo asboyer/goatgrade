@@ -30,8 +30,8 @@
             {
                 "Player": "Ryan Dunn",
                 "Team": "Phoenix Suns",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Ankle) - Dunn is OUT for Sunday's (Dec. 8) game against Orlando."
+                "Update": "Mon, Dec 9, 2024",
+                "Description": "Day To Day (Ankle) - Dunn did not play in Sunday's (Dec. 8) game against Orlando."
             },
             {
                 "Player": "Kevin Durant",
@@ -105,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "21",
                 "FG": "18",
                 "FGA": "26",
                 "FG%": "11",
@@ -205,7 +205,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "21",
                 "FG": "20",
                 "FGA": "18",
                 "FG%": "18",
@@ -223,7 +223,7 @@
                 "TRB": "14",
                 "AST": "18",
                 "STL": "16",
-                "BLK": "7",
+                "BLK": "8",
                 "TOV": "28",
                 "PF": "8",
                 "PTS": "20"
@@ -259,8 +259,8 @@
                 "PW": "11",
                 "PL": "12",
                 "MOV": "-0.87",
-                "SOS": "0.48",
-                "SRS": "-0.39",
+                "SOS": "0.47",
+                "SRS": "-0.40",
                 "ORtg": "114.8",
                 "DRtg": "115.7",
                 "Pace": "97.5",
@@ -297,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/PHO-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }

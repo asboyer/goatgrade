@@ -32,7 +32,7 @@
                 "Player": "Jalen Johnson",
                 "Team": "Atlanta Hawks",
                 "Update": "Sun, Dec 8, 2024",
-                "Description": "Out (Shoulder) - The Hawks have listed Johnson as out for Sunday's (Dec. 8) game against the Nuggets."
+                "Description": "Day To Day (Shoulder) - Johnson did not play in Sunday's (Dec. 8) game against the Nuggets."
             },
             {
                 "Player": "Cody Zeller",
@@ -94,13 +94,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "9",
                 "FGA": "2",
                 "FG%": "16",
                 "3P": "20",
-                "3PA": "18",
-                "3P%": "23",
+                "3PA": "19",
+                "3P%": "24",
                 "2P": "5",
                 "2PA": "4",
                 "2P%": "17",
@@ -194,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "24",
                 "FGA": "26",
                 "FG%": "20",
@@ -248,8 +248,8 @@
                 "PW": "10",
                 "PL": "15",
                 "MOV": "-2.76",
-                "SOS": "-1.02",
-                "SRS": "-3.78",
+                "SOS": "-1.03",
+                "SRS": "-3.79",
                 "ORtg": "112.5",
                 "DRtg": "115.1",
                 "Pace": "103.7",
@@ -270,7 +270,7 @@
                 "PL": "20",
                 "MOV": "19",
                 "SOS": "25",
-                "SRS": "21",
+                "SRS": "22",
                 "ORtg": "19",
                 "DRtg": "19",
                 "Pace": "3",
@@ -286,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/ATL-2025.png",
-        "last_update": "Dec 09 2024 22:32:16"
+        "last_update": "Dec 10 2024 22:32:12"
     }
 }
