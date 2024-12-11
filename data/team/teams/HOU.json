@@ -28,16 +28,28 @@
         ],
         "injuries": [
             {
-                "Player": "Tari Eason",
+                "Player": "Steven Adams",
                 "Team": "Houston Rockets",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Concussion) - Eason did not play in Sunday's (Dec. 8) game against the Clippers."
+                "Update": "Tue, Dec 10, 2024",
+                "Description": "Day To Day (Knee) - The Rockets have listed Adams as Questionable for Wednesday's (Dec. 11) game against the Warriors."
             },
             {
-                "Player": "Fred VanVleet",
+                "Player": "Alperen Sengun",
                 "Team": "Houston Rockets",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Knee) - VanVleet did not play in Sunday's (Dec. 8) game against the Clippers."
+                "Update": "Tue, Dec 10, 2024",
+                "Description": "Day To Day (Knee) - The Rockets have listed Sengun as Questionable for Wednesday's (Dec. 11) game against the Warriors."
+            },
+            {
+                "Player": "Jae'Sean Tate",
+                "Team": "Houston Rockets",
+                "Update": "Tue, Dec 10, 2024",
+                "Description": "Day To Day (Back) - The Rockets have listed Tate as Questionable for Wednesday's (Dec. 11) game against ther Warriors."
+            },
+            {
+                "Player": "Cam Whitmore",
+                "Team": "Houston Rockets",
+                "Update": "Tue, Dec 10, 2024",
+                "Description": "Day To Day (Wrist) - The Rockets have listed Whitmore as Questionable for Wednesday's (Dec. 11) game against the Warriors."
             }
         ],
         "team_stats": {
@@ -93,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "13",
                 "FG": "14",
                 "FGA": "1",
                 "FG%": "27",
@@ -193,20 +205,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "13",
                 "FG": "3",
                 "FGA": "14",
                 "FG%": "2",
-                "3P": "2",
+                "3P": "3",
                 "3PA": "2",
                 "3P%": "5",
-                "2P": "10",
+                "2P": "9",
                 "2PA": "28",
                 "2P%": "1",
-                "FT": "17",
+                "FT": "18",
                 "FTA": "22",
                 "FT%": "3",
-                "ORB": "15",
+                "ORB": "14",
                 "DRB": "21",
                 "TRB": "18",
                 "AST": "1",
@@ -264,27 +276,27 @@
             },
             "Misc Lg Rank": {
                 "W": "6",
-                "L": "25",
+                "L": "26",
                 "PW": "6",
-                "PL": "6",
-                "MOV": "6",
-                "SOS": "14",
+                "PL": "5",
+                "MOV": "5",
+                "SOS": "12",
                 "SRS": "4",
                 "ORtg": "18",
                 "DRtg": "2",
                 "Pace": "12",
                 "FTr": "11",
                 "3PAr": "26",
-                "eFG%": "2",
+                "eFG%": "1",
                 "TOV%": "15",
                 "ORB%": "2",
                 "FT/FGA": "18",
                 "DRB%": "6",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/HOU-2025.png",
-        "last_update": "Dec 10 2024 22:32:12"
+        "last_update": "Dec 11 2024 22:32:13"
     }
 }

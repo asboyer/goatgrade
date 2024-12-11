@@ -28,10 +28,22 @@
         ],
         "injuries": [
             {
+                "Player": "Josh Hart",
+                "Team": "New York Knicks",
+                "Update": "Tue, Dec 10, 2024",
+                "Description": "Day To Day (Ankle) - The Knicks have listed Hart as Questionable for Wednesday's (Dec. 11) game against the Hawks."
+            },
+            {
                 "Player": "Mitchell Robinson",
                 "Team": "New York Knicks",
                 "Update": "Wed, Nov 20, 2024",
                 "Description": "Out (Ankle) - Robinson has not been cleared to begin basketball activities, with coach Tom Thibodeau noting that the big man is only shooting thus far, Steve Popper of Newsday reports."
+            },
+            {
+                "Player": "Karl-Anthony Towns",
+                "Team": "New York Knicks",
+                "Update": "Tue, Dec 10, 2024",
+                "Description": "Day To Day (Knee) - The Knicks have listed Towns as Probable for Wednesday's (Dec. 11) game against the Hawks."
             }
         ],
         "team_stats": {
@@ -87,11 +99,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
-                "FG": "5",
+                "MP": "19",
+                "FG": "4",
                 "FGA": "21",
                 "FG%": "2",
-                "3P": "11",
+                "3P": "10",
                 "3PA": "18",
                 "3P%": "2",
                 "2P": "12",
@@ -101,7 +113,7 @@
                 "FTA": "27",
                 "FT%": "1",
                 "ORB": "25",
-                "DRB": "17",
+                "DRB": "18",
                 "TRB": "26",
                 "AST": "7",
                 "STL": "25",
@@ -187,12 +199,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
-                "FG": "15",
+                "MP": "19",
+                "FG": "14",
                 "FGA": "9",
                 "FG%": "16",
                 "3P": "25",
-                "3PA": "19",
+                "3PA": "20",
                 "3P%": "20",
                 "2P": "7",
                 "2PA": "7",
@@ -241,8 +253,8 @@
                 "PW": "17",
                 "PL": "7",
                 "MOV": "6.75",
-                "SOS": "-1.55",
-                "SRS": "5.20",
+                "SOS": "-1.59",
+                "SRS": "5.16",
                 "ORtg": "121.6",
                 "DRtg": "114.7",
                 "Pace": "96.8",
@@ -258,9 +270,9 @@
             },
             "Misc Lg Rank": {
                 "W": "8",
-                "L": "22",
-                "PW": "7",
-                "PL": "7",
+                "L": "23",
+                "PW": "8",
+                "PL": "6",
                 "MOV": "7",
                 "SOS": "28",
                 "SRS": "8",
@@ -271,14 +283,14 @@
                 "3PAr": "17",
                 "eFG%": "19",
                 "TOV%": "24",
-                "ORB%": "20",
+                "ORB%": "21",
                 "FT/FGA": "7",
                 "DRB%": "7",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NYK-2025.png",
-        "last_update": "Dec 10 2024 22:32:12"
+        "last_update": "Dec 11 2024 22:32:13"
     }
 }

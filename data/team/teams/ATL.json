@@ -29,10 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Bogdan Bogdanović",
+                "Team": "Atlanta Hawks",
+                "Update": "Tue, Dec 10, 2024",
+                "Description": "Day To Day (Quadriceps) - The Hawks have listed Bogdanovic as Questionable for Wednesday's (Dec. 11) game against the Knicks."
+            },
+            {
+                "Player": "De'Andre Hunter",
+                "Team": "Atlanta Hawks",
+                "Update": "Tue, Dec 10, 2024",
+                "Description": "Day To Day (Knee) - The Hawks have listed Hunter as Probable for Wednesday's (Dec. 11) game against the Knicks."
+            },
+            {
                 "Player": "Jalen Johnson",
                 "Team": "Atlanta Hawks",
-                "Update": "Sun, Dec 8, 2024",
-                "Description": "Day To Day (Shoulder) - Johnson did not play in Sunday's (Dec. 8) game against the Nuggets."
+                "Update": "Tue, Dec 10, 2024",
+                "Description": "Day To Day (Shoulder) - The Hawks have listed Johnson as Questionable for Wednesday's (Dec. 11) game against the Knicks."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Tue, Dec 10, 2024",
+                "Description": "Day To Day (Achilles) - The Hawks have listed Young as Probable for Wednesday's (Dec. 11) game against the Knicks."
             },
             {
                 "Player": "Cody Zeller",
@@ -96,7 +114,7 @@
                 "G": "",
                 "MP": "6",
                 "FG": "9",
-                "FGA": "2",
+                "FGA": "3",
                 "FG%": "16",
                 "3P": "20",
                 "3PA": "19",
@@ -105,11 +123,11 @@
                 "2PA": "4",
                 "2P%": "17",
                 "FT": "4",
-                "FTA": "6",
+                "FTA": "5",
                 "FT%": "13",
                 "ORB": "7",
                 "DRB": "13",
-                "TRB": "6",
+                "TRB": "5",
                 "AST": "3",
                 "STL": "2",
                 "BLK": "13",
@@ -201,11 +219,11 @@
                 "3P": "30",
                 "3PA": "30",
                 "3P%": "30",
-                "2P": "13",
+                "2P": "12",
                 "2PA": "10",
                 "2P%": "14",
                 "FT": "19",
-                "FTA": "19",
+                "FTA": "20",
                 "FT%": "18",
                 "ORB": "17",
                 "DRB": "17",
@@ -248,8 +266,8 @@
                 "PW": "10",
                 "PL": "15",
                 "MOV": "-2.76",
-                "SOS": "-1.03",
-                "SRS": "-3.79",
+                "SOS": "-1.05",
+                "SRS": "-3.81",
                 "ORtg": "112.5",
                 "DRtg": "115.1",
                 "Pace": "103.7",
@@ -269,7 +287,7 @@
                 "PW": "19",
                 "PL": "20",
                 "MOV": "19",
-                "SOS": "25",
+                "SOS": "26",
                 "SRS": "22",
                 "ORtg": "19",
                 "DRtg": "19",
@@ -279,13 +297,13 @@
                 "eFG%": "24",
                 "TOV%": "6",
                 "ORB%": "7",
-                "FT/FGA": "16",
+                "FT/FGA": "17",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/ATL-2025.png",
-        "last_update": "Dec 10 2024 22:32:12"
+        "last_update": "Dec 11 2024 22:32:13"
     }
 }

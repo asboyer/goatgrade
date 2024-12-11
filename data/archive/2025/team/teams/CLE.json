@@ -48,8 +48,8 @@
             {
                 "Player": "Max Strus",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Sat, Nov 23, 2024",
-                "Description": "Out (Ankle) - Strus will be re-evaluated next week, Ethan Sands of Cleveland.com reported."
+                "Update": "Tue, Dec 10, 2024",
+                "Description": "Day To Day (Ankle) - Strus is expected to be cleared to make his season debut in Friday's (Dec. 13) game against the Wizards, per Grant Afseth of RG.org."
             }
         ],
         "team_stats": {
@@ -105,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "1",
                 "FGA": "16",
                 "FG%": "1",
@@ -125,7 +125,7 @@
                 "STL": "10",
                 "BLK": "23",
                 "TOV": "6",
-                "PF": "11",
+                "PF": "12",
                 "PTS": "2"
             },
             "Year/Year": {
@@ -205,28 +205,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "13",
                 "FGA": "15",
                 "FG%": "7",
                 "3P": "16",
-                "3PA": "9",
+                "3PA": "8",
                 "3P%": "24",
-                "2P": "12",
+                "2P": "11",
                 "2PA": "22",
                 "2P%": "3",
                 "FT": "13",
                 "FTA": "10",
                 "FT%": "26",
-                "ORB": "16",
+                "ORB": "15",
                 "DRB": "14",
-                "TRB": "13",
-                "AST": "9",
+                "TRB": "12",
+                "AST": "10",
                 "STL": "5",
                 "BLK": "12",
                 "TOV": "8",
                 "PF": "24",
-                "PTS": "12"
+                "PTS": "11"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -259,8 +259,8 @@
                 "PW": "19",
                 "PL": "6",
                 "MOV": "9.92",
-                "SOS": "-2.18",
-                "SRS": "7.74",
+                "SOS": "-2.19",
+                "SRS": "7.73",
                 "ORtg": "121.2",
                 "DRtg": "111.3",
                 "Pace": "100.2",
@@ -277,7 +277,7 @@
             "Misc Lg Rank": {
                 "W": "1",
                 "L": "30",
-                "PW": "1",
+                "PW": "2",
                 "PL": "3",
                 "MOV": "2",
                 "SOS": "29",
@@ -287,16 +287,16 @@
                 "Pace": "7",
                 "FTr": "26",
                 "3PAr": "13",
-                "eFG%": "9",
+                "eFG%": "8",
                 "TOV%": "10",
                 "ORB%": "25",
-                "FT/FGA": "13",
+                "FT/FGA": "12",
                 "DRB%": "15",
                 "Arena": "",
                 "Attendance": "1"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CLE-2025.png",
-        "last_update": "Dec 10 2024 22:32:12"
+        "last_update": "Dec 11 2024 22:32:13"
     }
 }

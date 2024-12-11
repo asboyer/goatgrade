@@ -20,7 +20,6 @@
             "Quenton Jackson",
             "Ben Sheppard",
             "Andrew Nembhard",
-            "Moses Brown",
             "Aaron Nesmith",
             "Isaiah Jackson",
             "Tristen Newton",
@@ -113,8 +112,8 @@
                 "3P": "19",
                 "3PA": "27",
                 "3P%": "11",
-                "2P": "7",
-                "2PA": "10",
+                "2P": "6",
+                "2PA": "9",
                 "2P%": "9",
                 "FT": "19",
                 "FTA": "21",
@@ -223,7 +222,7 @@
                 "DRB": "15",
                 "TRB": "11",
                 "AST": "19",
-                "STL": "17",
+                "STL": "16",
                 "BLK": "9",
                 "TOV": "14",
                 "PF": "20",
@@ -260,8 +259,8 @@
                 "PW": "9",
                 "PL": "16",
                 "MOV": "-4.20",
-                "SOS": "-0.85",
-                "SRS": "-5.05",
+                "SOS": "-0.92",
+                "SRS": "-5.12",
                 "ORtg": "113.0",
                 "DRtg": "117.1",
                 "Pace": "100.1",
@@ -281,7 +280,7 @@
                 "PW": "21",
                 "PL": "24",
                 "MOV": "23",
-                "SOS": "22",
+                "SOS": "24",
                 "SRS": "26",
                 "ORtg": "16",
                 "DRtg": "25",
@@ -298,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/IND-2025.png",
-        "last_update": "Dec 10 2024 22:32:12"
+        "last_update": "Dec 11 2024 22:32:13"
     }
 }

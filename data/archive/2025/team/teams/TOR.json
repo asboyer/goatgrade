@@ -21,7 +21,6 @@
             "Scottie Barnes",
             "Ja'Kobe Walter",
             "Garrett Temple",
-            "D.J. Carton",
             "Immanuel Quickley",
             "Kelly Olynyk",
             "Ulrich Chomche",
@@ -32,19 +31,19 @@
                 "Player": "Scottie Barnes",
                 "Team": "Toronto Raptors",
                 "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Ankle) - Barnes won't return for the remainder of Monday's game against the Knicks due to a sprained right ankle, Vivek Jacob of the Raptors' official site reports."
+                "Description": "Day To Day (Ankle) - Barnes sustained a sprained right ankle in the third quarter of Monday's (Dec. 9) loss to the Knicks, though X-rays came back negative and he'll be re-evaluated on Tuesday (Dec. 10), per Blake Murphy of Sportsnet.ca."
             },
             {
                 "Player": "Bruce Brown",
                 "Team": "Toronto Raptors",
-                "Update": "Mon, Dec 9, 2024",
+                "Update": "Tue, Dec 10, 2024",
                 "Description": "Day To Day (Reconditioning) - Brown did not play in Monday's (Dec. 9) game against New York."
             },
             {
                 "Player": "Immanuel Quickley",
                 "Team": "Toronto Raptors",
                 "Update": "Mon, Dec 9, 2024",
-                "Description": "Out (Elbow) - Head coach Darko Rajakovic said Monday that Quickley is scheduled to get follow-up imaging on his left elbow next week, Josh Lewenberg of TSN.ca reports."
+                "Description": "Out (Elbow) - Raptors' head coach Darko Rajakovic said on Monday (Dec. 9) that Quickley is scheduled to get follow-up imaging on his left elbow next week, per Josh Lewenberg of TSN.ca."
             }
         ],
         "team_stats": {
@@ -205,7 +204,7 @@
                 "FGA": "13",
                 "FG%": "13",
                 "3P": "14",
-                "3PA": "21",
+                "3PA": "22",
                 "3P%": "10",
                 "2P": "17",
                 "2PA": "12",
@@ -254,8 +253,8 @@
                 "PW": "9",
                 "PL": "16",
                 "MOV": "-4.88",
-                "SOS": "1.19",
-                "SRS": "-3.70",
+                "SOS": "1.17",
+                "SRS": "-3.71",
                 "ORtg": "111.7",
                 "DRtg": "116.6",
                 "Pace": "99.3",
@@ -292,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/TOR-2025.png",
-        "last_update": "Dec 10 2024 22:32:12"
+        "last_update": "Dec 11 2024 22:32:13"
     }
 }
