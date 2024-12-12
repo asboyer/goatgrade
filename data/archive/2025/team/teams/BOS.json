@@ -30,14 +30,32 @@
             {
                 "Player": "Sam Hauser",
                 "Team": "Boston Celtics",
-                "Update": "Sat, Dec 7, 2024",
-                "Description": "Day To Day (Adductor) - Hauser is did not return to Saturday's (Dec. 7) game against Memphis."
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Day To Day (Adductor) - The Celtics listed Hauser as Doubtful for Thursday's (Dec. 12) game against the Pistons."
             },
             {
                 "Player": "Al Horford",
                 "Team": "Boston Celtics",
                 "Update": "Sat, Dec 7, 2024",
                 "Description": "Day To Day (Toe) - Horford did not play in Saturday's (Dec. 7) game against the Grizzlies."
+            },
+            {
+                "Player": "Jaden Springer",
+                "Team": "Boston Celtics",
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Day To Day (Illness) - The Celtics listed Springer as Questionable for Thursday's (Dec. 12) game against the Pistons."
+            },
+            {
+                "Player": "Jayson Tatum",
+                "Team": "Boston Celtics",
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Day To Day (Patella) - The Celtics listed Tatum as Questionable for Thursday's (Dec. 12) game against the Pistons."
+            },
+            {
+                "Player": "Jordan Walsh",
+                "Team": "Boston Celtics",
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Day To Day (Rib) - The Celtics listed Walsh as Questionable for Thursday's (Dec. 12) game against the Pistons."
             }
         ],
         "team_stats": {
@@ -93,8 +111,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
-                "FG": "13",
+                "MP": "15",
+                "FG": "12",
                 "FGA": "6",
                 "FG%": "19",
                 "3P": "1",
@@ -193,10 +211,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "15",
                 "FG": "21",
                 "FGA": "20",
-                "FG%": "14",
+                "FG%": "15",
                 "3P": "4",
                 "3PA": "4",
                 "3P%": "12",
@@ -208,7 +226,7 @@
                 "FT%": "11",
                 "ORB": "7",
                 "DRB": "24",
-                "TRB": "14",
+                "TRB": "15",
                 "AST": "5",
                 "STL": "2",
                 "BLK": "1",
@@ -268,9 +286,9 @@
                 "PW": "4",
                 "PL": "2",
                 "MOV": "3",
-                "SOS": "23",
+                "SOS": "24",
                 "SRS": "2",
-                "ORtg": "3",
+                "ORtg": "2",
                 "DRtg": "9",
                 "Pace": "21",
                 "FTr": "19",
@@ -281,10 +299,10 @@
                 "FT/FGA": "1",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/BOS-2025.png",
-        "last_update": "Dec 11 2024 22:32:13"
+        "last_update": "Dec 12 2024 22:32:15"
     }
 }

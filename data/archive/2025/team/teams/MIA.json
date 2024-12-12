@@ -28,10 +28,22 @@
         ],
         "injuries": [
             {
+                "Player": "Jimmy Butler",
+                "Team": "Miami Heat",
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Day To Day (Knee) - The Heat have listed Butler as Probable for Thursday's (Dec. 12) game against the Raptors."
+            },
+            {
                 "Player": "Pelle Larsson",
                 "Team": "Miami Heat",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Ankle) - Larsson did not play in Subnday's (Dec. 8) game against Cleveland."
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Day To Day (Ankle) - The Heat listed Larsson as Doubtful for Thursday's (Dec. 12) game against the Raptors."
+            },
+            {
+                "Player": "Josh Richardson",
+                "Team": "Miami Heat",
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Out (Heel) - Richardson had an injection in his left heel Wednesday (Dec. 11) and is expected to be Out for one week, according to Winderman of the South Florida Sun Sentinel reports."
             }
         ],
         "team_stats": {
@@ -99,12 +111,12 @@
                 "2P%": "27",
                 "FT": "14",
                 "FTA": "14",
-                "FT%": "15",
+                "FT%": "14",
                 "ORB": "20",
                 "DRB": "16",
                 "TRB": "16",
                 "AST": "13",
-                "STL": "7",
+                "STL": "8",
                 "BLK": "30",
                 "TOV": "3",
                 "PF": "2",
@@ -189,14 +201,14 @@
                 "G": "",
                 "MP": "28",
                 "FG": "11",
-                "FGA": "10",
+                "FGA": "9",
                 "FG%": "10",
                 "3P": "19",
                 "3PA": "18",
                 "3P%": "14",
                 "2P": "8",
-                "2PA": "9",
-                "2P%": "13",
+                "2PA": "8",
+                "2P%": "14",
                 "FT": "2",
                 "FTA": "1",
                 "FT%": "28",
@@ -206,8 +218,8 @@
                 "AST": "21",
                 "STL": "3",
                 "BLK": "18",
-                "TOV": "11",
-                "PF": "23",
+                "TOV": "13",
+                "PF": "22",
                 "PTS": "7"
             },
             "Opp Year/Year": {
@@ -241,8 +253,8 @@
                 "PW": "13",
                 "PL": "9",
                 "MOV": "2.95",
-                "SOS": "-0.66",
-                "SRS": "2.30",
+                "SOS": "-0.72",
+                "SRS": "2.23",
                 "ORtg": "115.0",
                 "DRtg": "112.0",
                 "Pace": "96.7",
@@ -267,7 +279,7 @@
                 "ORtg": "9",
                 "DRtg": "11",
                 "Pace": "28",
-                "FTr": "14",
+                "FTr": "12",
                 "3PAr": "9",
                 "eFG%": "13",
                 "TOV%": "9",
@@ -275,10 +287,10 @@
                 "FT/FGA": "5",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MIA-2025.png",
-        "last_update": "Dec 11 2024 22:32:13"
+        "last_update": "Dec 12 2024 22:32:15"
     }
 }

@@ -30,14 +30,14 @@
             {
                 "Player": "Scottie Barnes",
                 "Team": "Toronto Raptors",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Ankle) - Barnes sustained a sprained right ankle in the third quarter of Monday's (Dec. 9) loss to the Knicks, though X-rays came back negative and he'll be re-evaluated on Tuesday (Dec. 10), per Blake Murphy of Sportsnet.ca."
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Out (Ankle) - Barnes is expected to miss several weeks with a right ankle injury which he suffered on Monday (Dec. 9) versus the Knicks, according to ESPN's Shams Charania."
             },
             {
                 "Player": "Bruce Brown",
                 "Team": "Toronto Raptors",
-                "Update": "Tue, Dec 10, 2024",
-                "Description": "Day To Day (Reconditioning) - Brown did not play in Monday's (Dec. 9) game against New York."
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Out (Reconditioning) - The Raptors have listed Brown as Out for Thursday's (Dec. 12) game against the Heat. "
             },
             {
                 "Player": "Immanuel Quickley",
@@ -99,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "11",
                 "FGA": "7",
                 "FG%": "15",
@@ -107,14 +107,14 @@
                 "3PA": "29",
                 "3P%": "23",
                 "2P": "4",
-                "2PA": "3",
+                "2PA": "2",
                 "2P%": "20",
                 "FT": "20",
                 "FTA": "15",
                 "FT%": "28",
                 "ORB": "2",
                 "DRB": "20",
-                "TRB": "4",
+                "TRB": "5",
                 "AST": "6",
                 "STL": "21",
                 "BLK": "22",
@@ -199,15 +199,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "17",
-                "FGA": "13",
+                "FGA": "15",
                 "FG%": "13",
                 "3P": "14",
-                "3PA": "22",
+                "3PA": "23",
                 "3P%": "10",
                 "2P": "17",
-                "2PA": "12",
+                "2PA": "11",
                 "2P%": "19",
                 "FT": "30",
                 "FTA": "30",
@@ -216,8 +216,8 @@
                 "DRB": "3",
                 "TRB": "10",
                 "AST": "17",
-                "STL": "26",
-                "BLK": "25",
+                "STL": "27",
+                "BLK": "26",
                 "TOV": "25",
                 "PF": "18",
                 "PTS": "25"
@@ -253,8 +253,8 @@
                 "PW": "9",
                 "PL": "16",
                 "MOV": "-4.88",
-                "SOS": "1.17",
-                "SRS": "-3.71",
+                "SOS": "1.12",
+                "SRS": "-3.76",
                 "ORtg": "111.7",
                 "DRtg": "116.6",
                 "Pace": "99.3",
@@ -275,14 +275,14 @@
                 "PL": "26",
                 "MOV": "24",
                 "SOS": "6",
-                "SRS": "21",
+                "SRS": "22",
                 "ORtg": "21",
                 "DRtg": "23",
-                "Pace": "13",
+                "Pace": "12",
                 "FTr": "16",
                 "3PAr": "29",
                 "eFG%": "12",
-                "TOV%": "25",
+                "TOV%": "24",
                 "ORB%": "1",
                 "FT/FGA": "29",
                 "DRB%": "21",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/TOR-2025.png",
-        "last_update": "Dec 11 2024 22:32:13"
+        "last_update": "Dec 12 2024 22:32:15"
     }
 }

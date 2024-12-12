@@ -37,25 +37,25 @@
             {
                 "Player": "Jaden Hardy",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Dec 10, 2024",
+                "Update": "Wed, Dec 11, 2024",
                 "Description": "Day To Day (Ankle) - Hardy did not play in Tuesday's (Dec. 10) game against the Thunder."
             },
             {
                 "Player": "Maxi Kleber",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Dec 10, 2024",
+                "Update": "Wed, Dec 11, 2024",
                 "Description": "Day To Day (Illness) - Kleber did not play in Tuesday's (Dec. 10) game against the Thunder."
             },
             {
                 "Player": "P.J. Washington",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Dec 10, 2024",
+                "Update": "Wed, Dec 11, 2024",
                 "Description": "Day To Day (Illness) - Washington Jr. did not play in Tuesday's (Dec. 10) game against the Thunder."
             },
             {
                 "Player": "Brandon Williams",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Dec 10, 2024",
+                "Update": "Wed, Dec 11, 2024",
                 "Description": "Day To Day (Thumb) - Williams did not play in Tuesday's (Dec. 10) game against the Thunder."
             }
         ],
@@ -112,8 +112,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
-                "FG": "6",
+                "MP": "8",
+                "FG": "5",
                 "FGA": "14",
                 "FG%": "5",
                 "3P": "14",
@@ -122,8 +122,8 @@
                 "2P": "6",
                 "2PA": "11",
                 "2P%": "8",
-                "FT": "8",
-                "FTA": "6",
+                "FT": "7",
+                "FTA": "4",
                 "FT%": "22",
                 "ORB": "10",
                 "DRB": "6",
@@ -212,18 +212,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
-                "FG": "16",
+                "MP": "8",
+                "FG": "15",
                 "FGA": "23",
                 "FG%": "5",
-                "3P": "7",
+                "3P": "8",
                 "3PA": "9",
                 "3P%": "7",
                 "2P": "19",
                 "2PA": "25",
                 "2P%": "7",
-                "FT": "17",
-                "FTA": "19",
+                "FT": "18",
+                "FTA": "20",
                 "FT%": "8",
                 "ORB": "27",
                 "DRB": "5",
@@ -266,8 +266,8 @@
                 "PW": "17",
                 "PL": "8",
                 "MOV": "6.80",
-                "SOS": "-0.63",
-                "SRS": "6.17",
+                "SOS": "-0.65",
+                "SRS": "6.15",
                 "ORtg": "118.5",
                 "DRtg": "111.7",
                 "Pace": "99.6",
@@ -282,11 +282,11 @@
                 "Attendance": "221,151"
             },
             "Misc Lg Rank": {
-                "W": "6",
-                "L": "23",
-                "PW": "5",
-                "PL": "7",
-                "MOV": "6",
+                "W": "7",
+                "L": "25",
+                "PW": "6",
+                "PL": "6",
+                "MOV": "5",
                 "SOS": "21",
                 "SRS": "6",
                 "ORtg": "4",
@@ -297,13 +297,13 @@
                 "eFG%": "5",
                 "TOV%": "20",
                 "ORB%": "10",
-                "FT/FGA": "15",
+                "FT/FGA": "16",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DAL-2025.png",
-        "last_update": "Dec 11 2024 22:32:13"
+        "last_update": "Dec 12 2024 22:32:15"
     }
 }

@@ -2,7 +2,7 @@
     "MEM": {
         "info": {
             "record": "17-8",
-            "standing": "2nd in West",
+            "standing": "3rd in West",
             "coach": "Taylor Jenkins (17-8)",
             "gm": "Zach Kleiman",
             "preseason_odds": "+4000"
@@ -118,9 +118,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "10",
                 "FG": "2",
-                "FGA": "5",
+                "FGA": "4",
                 "FG%": "4",
                 "3P": "16",
                 "3PA": "13",
@@ -132,10 +132,10 @@
                 "FTA": "2",
                 "FT%": "20",
                 "ORB": "8",
-                "DRB": "3",
+                "DRB": "1",
                 "TRB": "3",
                 "AST": "2",
-                "STL": "8",
+                "STL": "9",
                 "BLK": "1",
                 "TOV": "29",
                 "PF": "27",
@@ -218,22 +218,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "10",
                 "FG": "10",
                 "FGA": "28",
-                "FG%": "4",
+                "FG%": "3",
                 "3P": "13",
                 "3PA": "28",
-                "3P%": "1",
+                "3P%": "2",
                 "2P": "14",
                 "2PA": "20",
-                "2P%": "5",
+                "2P%": "4",
                 "FT": "27",
                 "FTA": "27",
-                "FT%": "2",
+                "FT%": "3",
                 "ORB": "29",
                 "DRB": "7",
-                "TRB": "17",
+                "TRB": "18",
                 "AST": "6",
                 "STL": "21",
                 "BLK": "14",
@@ -272,8 +272,8 @@
                 "PW": "18",
                 "PL": "7",
                 "MOV": "8.72",
-                "SOS": "-2.37",
-                "SRS": "6.35",
+                "SOS": "-2.39",
+                "SRS": "6.33",
                 "ORtg": "116.8",
                 "DRtg": "108.4",
                 "Pace": "104.6",
@@ -302,14 +302,14 @@
                 "3PAr": "18",
                 "eFG%": "4",
                 "TOV%": "12",
-                "ORB%": "6",
+                "ORB%": "7",
                 "FT/FGA": "22",
                 "DRB%": "23",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MEM-2025.png",
-        "last_update": "Dec 11 2024 22:32:13"
+        "last_update": "Dec 12 2024 22:32:15"
     }
 }

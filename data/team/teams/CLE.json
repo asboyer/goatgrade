@@ -48,8 +48,8 @@
             {
                 "Player": "Max Strus",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Tue, Dec 10, 2024",
-                "Description": "Day To Day (Ankle) - Strus is expected to be cleared to make his season debut in Friday's (Dec. 13) game against the Wizards, per Grant Afseth of RG.org."
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Day To Day (Ankle) - Strus is expected to make his season debut in Friday's (Dec. 13) game against the Wizards, per ESPN's Shams Charania."
             }
         ],
         "team_stats": {
@@ -105,23 +105,23 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "10",
                 "FG": "1",
                 "FGA": "16",
                 "FG%": "1",
                 "3P": "4",
                 "3PA": "11",
                 "3P%": "1",
-                "2P": "8",
+                "2P": "9",
                 "2PA": "18",
                 "2P%": "1",
-                "FT": "24",
+                "FT": "23",
                 "FTA": "26",
                 "FT%": "17",
-                "ORB": "24",
+                "ORB": "25",
                 "DRB": "8",
                 "TRB": "19",
-                "AST": "8",
+                "AST": "7",
                 "STL": "10",
                 "BLK": "23",
                 "TOV": "6",
@@ -205,14 +205,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "10",
                 "FG": "13",
-                "FGA": "15",
+                "FGA": "16",
                 "FG%": "7",
                 "3P": "16",
                 "3PA": "8",
                 "3P%": "24",
-                "2P": "11",
+                "2P": "10",
                 "2PA": "22",
                 "2P%": "3",
                 "FT": "13",
@@ -225,7 +225,7 @@
                 "STL": "5",
                 "BLK": "12",
                 "TOV": "8",
-                "PF": "24",
+                "PF": "23",
                 "PTS": "11"
             },
             "Opp Year/Year": {
@@ -259,8 +259,8 @@
                 "PW": "19",
                 "PL": "6",
                 "MOV": "9.92",
-                "SOS": "-2.19",
-                "SRS": "7.73",
+                "SOS": "-2.18",
+                "SRS": "7.74",
                 "ORtg": "121.2",
                 "DRtg": "111.3",
                 "Pace": "100.2",
@@ -282,21 +282,21 @@
                 "MOV": "2",
                 "SOS": "29",
                 "SRS": "3",
-                "ORtg": "2",
+                "ORtg": "1",
                 "DRtg": "8",
-                "Pace": "7",
-                "FTr": "26",
+                "Pace": "6",
+                "FTr": "25",
                 "3PAr": "13",
                 "eFG%": "8",
                 "TOV%": "10",
                 "ORB%": "25",
                 "FT/FGA": "12",
-                "DRB%": "15",
+                "DRB%": "14",
                 "Arena": "",
                 "Attendance": "1"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CLE-2025.png",
-        "last_update": "Dec 11 2024 22:32:13"
+        "last_update": "Dec 12 2024 22:32:15"
     }
 }

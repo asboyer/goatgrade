@@ -36,8 +36,8 @@
             {
                 "Player": "Javonte Green",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Ankle) - Green did not play in Sunday's (Dec. 8) game against San Antonio."
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Day To Day (Ankle) - The Pelicans have listed Green as Questionable for Thursday's (Dec. 12) game against the Kings."
             },
             {
                 "Player": "Jordan Hawkins",
@@ -54,8 +54,8 @@
             {
                 "Player": "Karlo Matković",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Back) - Matkovic did not play in Sunday's (Dec. 8) game against San Antonio."
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Out (Back) - The Pelicans have listed Matkovic as Out for Thurday's (Dec. 12) game against the Kings."
             },
             {
                 "Player": "Daniel Theis",
@@ -123,20 +123,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "10",
                 "FG": "24",
                 "FGA": "13",
                 "FG%": "28",
                 "3P": "30",
                 "3PA": "28",
-                "3P%": "27",
+                "3P%": "26",
                 "2P": "14",
                 "2PA": "5",
                 "2P%": "28",
                 "FT": "26",
                 "FTA": "23",
                 "FT%": "26",
-                "ORB": "6",
+                "ORB": "7",
                 "DRB": "27",
                 "TRB": "20",
                 "AST": "26",
@@ -223,7 +223,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "10",
                 "FG": "27",
                 "FGA": "21",
                 "FG%": "29",
@@ -235,10 +235,10 @@
                 "2P%": "27",
                 "FT": "3",
                 "FTA": "4",
-                "FT%": "16",
+                "FT%": "18",
                 "ORB": "24",
                 "DRB": "23",
-                "TRB": "26",
+                "TRB": "27",
                 "AST": "27",
                 "STL": "21",
                 "BLK": "21",
@@ -277,8 +277,8 @@
                 "PW": "5",
                 "PL": "20",
                 "MOV": "-11.72",
-                "SOS": "0.75",
-                "SRS": "-10.97",
+                "SOS": "0.77",
+                "SRS": "-10.95",
                 "ORtg": "106.8",
                 "DRtg": "118.7",
                 "Pace": "98.3",
@@ -298,12 +298,12 @@
                 "PW": "29",
                 "PL": "30",
                 "MOV": "29",
-                "SOS": "10",
+                "SOS": "9",
                 "SRS": "29",
                 "ORtg": "29",
                 "DRtg": "28",
                 "Pace": "18",
-                "FTr": "25",
+                "FTr": "24",
                 "3PAr": "28",
                 "eFG%": "29",
                 "TOV%": "17",
@@ -315,6 +315,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NOP-2025.png",
-        "last_update": "Dec 11 2024 22:32:13"
+        "last_update": "Dec 12 2024 22:32:15"
     }
 }

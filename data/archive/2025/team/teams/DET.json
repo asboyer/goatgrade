@@ -32,12 +32,6 @@
                 "Team": "Detroit Pistons",
                 "Update": "Tue, Nov 26, 2024",
                 "Description": "Out (Calf) - The Pistons said on Wednesday (Nov. 26) that Klintman will miss his 20th straight contest to begin the season due to a right calf injury. Until Detroit provides a timetable for his return, the rookie forward can be considered out indefinitely"
-            },
-            {
-                "Player": "Ausar Thompson",
-                "Team": "Detroit Pistons",
-                "Update": "Sat, Dec 7, 2024",
-                "Description": "Day To Day (Illness) - Thompson did not play in Saturday's (Dec. 7) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -93,7 +87,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "17",
                 "FGA": "18",
                 "FG%": "14",
@@ -101,9 +95,9 @@
                 "3PA": "15",
                 "3P%": "16",
                 "2P": "16",
-                "2PA": "16",
+                "2PA": "15",
                 "2P%": "19",
-                "FT": "25",
+                "FT": "24",
                 "FTA": "24",
                 "FT%": "25",
                 "ORB": "12",
@@ -111,7 +105,7 @@
                 "TRB": "7",
                 "AST": "19",
                 "STL": "30",
-                "BLK": "12",
+                "BLK": "13",
                 "TOV": "27",
                 "PF": "18",
                 "PTS": "21"
@@ -193,11 +187,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "18",
                 "FGA": "17",
-                "FG%": "15",
-                "3P": "23",
+                "FG%": "16",
+                "3P": "24",
                 "3PA": "13",
                 "3P%": "28",
                 "2P": "16",
@@ -206,7 +200,7 @@
                 "FT": "9",
                 "FTA": "11",
                 "FT%": "9",
-                "ORB": "11",
+                "ORB": "10",
                 "DRB": "3",
                 "TRB": "6",
                 "AST": "8",
@@ -247,8 +241,8 @@
                 "PW": "11",
                 "PL": "14",
                 "MOV": "-2.52",
-                "SOS": "-0.13",
-                "SRS": "-2.65",
+                "SOS": "-0.19",
+                "SRS": "-2.71",
                 "ORtg": "111.2",
                 "DRtg": "113.8",
                 "Pace": "98.1",
@@ -265,9 +259,9 @@
             "Misc Lg Rank": {
                 "W": "20",
                 "L": "7",
-                "PW": "18",
+                "PW": "19",
                 "PL": "19",
-                "MOV": "18",
+                "MOV": "19",
                 "SOS": "18",
                 "SRS": "19",
                 "ORtg": "22",
@@ -275,16 +269,16 @@
                 "Pace": "19",
                 "FTr": "22",
                 "3PAr": "15",
-                "eFG%": "17",
+                "eFG%": "18",
                 "TOV%": "21",
                 "ORB%": "11",
                 "FT/FGA": "11",
-                "DRB%": "8",
+                "DRB%": "7",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DET-2025.png",
-        "last_update": "Dec 11 2024 22:32:13"
+        "last_update": "Dec 12 2024 22:32:15"
     }
 }

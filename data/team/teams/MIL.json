@@ -30,7 +30,7 @@
             {
                 "Player": "Chris Livingston",
                 "Team": "Milwaukee Bucks",
-                "Update": "Tue, Dec 10, 2024",
+                "Update": "Wed, Dec 11, 2024",
                 "Description": "Day To Day (Ankle) - Livingston did not play in Tuesday's (Dec. 10) game against the Magic."
             }
         ],
@@ -87,11 +87,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "18",
                 "FG": "15",
                 "FGA": "29",
                 "FG%": "8",
-                "3P": "11",
+                "3P": "10",
                 "3PA": "16",
                 "3P%": "3",
                 "2P": "20",
@@ -108,7 +108,7 @@
                 "BLK": "8",
                 "TOV": "9",
                 "PF": "10",
-                "PTS": "14"
+                "PTS": "12"
             },
             "Year/Year": {
                 "G": "",
@@ -187,14 +187,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
-                "FG": "15",
+                "MP": "18",
+                "FG": "14",
                 "FGA": "22",
                 "FG%": "6",
                 "3P": "20",
-                "3PA": "19",
+                "3PA": "20",
                 "3P%": "13",
-                "2P": "13",
+                "2P": "12",
                 "2PA": "19",
                 "2P%": "6",
                 "FT": "14",
@@ -241,8 +241,8 @@
                 "PW": "13",
                 "PL": "11",
                 "MOV": "1.13",
-                "SOS": "0.06",
-                "SRS": "1.18",
+                "SOS": "0.03",
+                "SRS": "1.15",
                 "ORtg": "114.8",
                 "DRtg": "113.7",
                 "Pace": "98.4",
@@ -257,7 +257,7 @@
                 "Attendance": "225,882"
             },
             "Misc Lg Rank": {
-                "W": "11",
+                "W": "12",
                 "L": "15",
                 "PW": "14",
                 "PL": "14",
@@ -273,12 +273,12 @@
                 "TOV%": "27",
                 "ORB%": "30",
                 "FT/FGA": "13",
-                "DRB%": "13",
+                "DRB%": "12",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MIL-2025.png",
-        "last_update": "Dec 11 2024 22:32:13"
+        "last_update": "Dec 12 2024 22:32:15"
     }
 }
