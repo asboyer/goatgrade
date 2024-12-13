@@ -29,16 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Stephon Castle",
+                "Team": "San Antonio Spurs",
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Shoulder) - The Spurs have listed Castle as Out for Friday's (Dec. 12) game against the Trail Blazers."
+            },
+            {
+                "Player": "Zach Collins",
+                "Team": "San Antonio Spurs",
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Back) - The Spurs have listed Collins as Out for Friday's (Dec. 13) game against the Trail Blazers."
+            },
+            {
+                "Player": "Keldon Johnson",
+                "Team": "San Antonio Spurs",
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Calf) - The Spurs have listed Johnson as Out for Friday's (Dec. 13) game against the Trail Blaizers."
+            },
+            {
                 "Player": "Tre Jones",
                 "Team": "San Antonio Spurs",
                 "Update": "Sat, Dec 7, 2024",
                 "Description": "Out (Shoulder) - Coach Mitch Johnson said that he expects Jones to miss at least a few weeks, Dusty Garza of News 4 San Antonio reports."
-            },
-            {
-                "Player": "Devin Vassell",
-                "Team": "San Antonio Spurs",
-                "Update": "Sat, Dec 7, 2024",
-                "Description": "Day To Day (Rest) - Vassell did not play in Friday's (Dec. 6) game versus the Kings."
             }
         ],
         "team_stats": {
@@ -100,21 +112,21 @@
                 "FG%": "21",
                 "3P": "13",
                 "3PA": "7",
-                "3P%": "22",
+                "3P%": "21",
                 "2P": "24",
                 "2PA": "24",
                 "2P%": "15",
-                "FT": "10",
+                "FT": "11",
                 "FTA": "12",
                 "FT%": "8",
-                "ORB": "13",
-                "DRB": "10",
+                "ORB": "12",
+                "DRB": "11",
                 "TRB": "9",
                 "AST": "9",
                 "STL": "22",
                 "BLK": "3",
                 "TOV": "16",
-                "PF": "3",
+                "PF": "4",
                 "PTS": "19"
             },
             "Year/Year": {
@@ -197,15 +209,15 @@
                 "MP": "21",
                 "FG": "22",
                 "FGA": "24",
-                "FG%": "17",
+                "FG%": "16",
                 "3P": "12",
                 "3PA": "11",
-                "3P%": "11",
+                "3P%": "12",
                 "2P": "22",
                 "2PA": "26",
                 "2P%": "17",
-                "FT": "5",
-                "FTA": "5",
+                "FT": "4",
+                "FTA": "4",
                 "FT%": "21",
                 "ORB": "23",
                 "DRB": "13",
@@ -214,7 +226,7 @@
                 "STL": "18",
                 "BLK": "11",
                 "TOV": "22",
-                "PF": "17",
+                "PF": "16",
                 "PTS": "16"
             },
             "Opp Year/Year": {
@@ -248,8 +260,8 @@
                 "PW": "11",
                 "PL": "13",
                 "MOV": "-1.71",
-                "SOS": "-0.03",
-                "SRS": "-1.74",
+                "SOS": "-0.08",
+                "SRS": "-1.79",
                 "ORtg": "112.8",
                 "DRtg": "114.5",
                 "Pace": "98.7",
@@ -264,28 +276,28 @@
                 "Attendance": "265,723"
             },
             "Misc Lg Rank": {
-                "W": "14",
+                "W": "16",
                 "L": "13",
                 "PW": "18",
                 "PL": "17",
                 "MOV": "17",
-                "SOS": "16",
+                "SOS": "17",
                 "SRS": "17",
                 "ORtg": "16",
                 "DRtg": "17",
                 "Pace": "15",
                 "FTr": "10",
                 "3PAr": "7",
-                "eFG%": "14",
-                "TOV%": "23",
+                "eFG%": "13",
+                "TOV%": "22",
                 "ORB%": "15",
                 "FT/FGA": "3",
-                "DRB%": "19",
+                "DRB%": "20",
                 "Arena": "",
                 "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/SAS-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }

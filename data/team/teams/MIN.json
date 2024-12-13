@@ -30,14 +30,14 @@
             {
                 "Player": "Rob Dillingham",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Ankle) - Dillingham did not play in Sunday's (Dec. 8) game against Golden State."
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Day To Day (Ankle) - Dillingham could return to action on Friday (Dec. 13) against the Lakers, per Andrew Dukowitz of Zone Coverage."
             },
             {
                 "Player": "Joe Ingles",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Soleus) - Ingles did not play in Sunday's (Dec. 8) game against Golden State."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Soleus) - The Timberwolves have listed Ingles as Out for Friday's (Dec. 13) game against the Lakers."
             }
         ],
         "team_stats": {
@@ -103,16 +103,16 @@
                 "2P": "27",
                 "2PA": "29",
                 "2P%": "14",
-                "FT": "21",
-                "FTA": "25",
+                "FT": "20",
+                "FTA": "24",
                 "FT%": "9",
                 "ORB": "23",
                 "DRB": "19",
                 "TRB": "25",
                 "AST": "20",
                 "STL": "13",
-                "BLK": "21",
-                "TOV": "24",
+                "BLK": "20",
+                "TOV": "25",
                 "PF": "13",
                 "PTS": "20"
             },
@@ -202,18 +202,18 @@
                 "3P%": "4",
                 "2P": "20",
                 "2PA": "21",
-                "2P%": "12",
+                "2P%": "13",
                 "FT": "7",
                 "FTA": "6",
                 "FT%": "23",
                 "ORB": "9",
                 "DRB": "8",
-                "TRB": "7",
+                "TRB": "6",
                 "AST": "3",
-                "STL": "25",
+                "STL": "26",
                 "BLK": "10",
                 "TOV": "7",
-                "PF": "13",
+                "PF": "14",
                 "PTS": "4"
             },
             "Opp Year/Year": {
@@ -247,8 +247,8 @@
                 "PW": "14",
                 "PL": "9",
                 "MOV": "3.57",
-                "SOS": "-0.04",
-                "SRS": "3.53",
+                "SOS": "-0.08",
+                "SRS": "3.48",
                 "ORtg": "112.3",
                 "DRtg": "108.7",
                 "Pace": "97.5",
@@ -263,28 +263,28 @@
                 "Attendance": "208,758"
             },
             "Misc Lg Rank": {
-                "W": "14",
+                "W": "16",
                 "L": "15",
                 "PW": "11",
                 "PL": "9",
                 "MOV": "10",
-                "SOS": "17",
+                "SOS": "18",
                 "SRS": "9",
                 "ORtg": "19",
                 "DRtg": "6",
                 "Pace": "22",
-                "FTr": "18",
+                "FTr": "17",
                 "3PAr": "3",
                 "eFG%": "6",
                 "TOV%": "4",
                 "ORB%": "22",
-                "FT/FGA": "9",
+                "FT/FGA": "10",
                 "DRB%": "10",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MIN-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }

@@ -37,8 +37,8 @@
             {
                 "Player": "Zach Edey",
                 "Team": "Memphis Grizzlies",
-                "Update": "Tue, Nov 19, 2024",
-                "Description": "Out (Ankle) - Grizzlies head coach Taylor Jenkins said imaging on Edey's sprained left ankle was promising, but the rookie center is still being viewed as week-to-week, Damichael Cole of The Memphis Commercial Appeal reports."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Ankle) - The Grizzlies have listed Edey as Doubtful for Friday's (Dec. 13) game against the Nets."
             },
             {
                 "Player": "GG Jackson II",
@@ -62,7 +62,7 @@
                 "Player": "Vince Williams Jr.",
                 "Team": "Memphis Grizzlies",
                 "Update": "Thu, Nov 21, 2024",
-                "Description": "Out (Ankle) - The Grizzlies announced that Williams has been diagnosed with a Grade 3 right ankle sprain and will be re-evaluated in approximately four weeks."
+                "Description": "Out (Ankle) - The Grizzlies announced that Williams Jr. has been diagnosed with a Grade 3 right ankle sprain and will be re-evaluated in approximately four weeks."
             }
         ],
         "team_stats": {
@@ -118,11 +118,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "2",
                 "FGA": "4",
                 "FG%": "4",
-                "3P": "16",
+                "3P": "15",
                 "3PA": "13",
                 "3P%": "17",
                 "2P": "2",
@@ -130,12 +130,12 @@
                 "2P%": "2",
                 "FT": "1",
                 "FTA": "2",
-                "FT%": "20",
+                "FT%": "19",
                 "ORB": "8",
                 "DRB": "1",
                 "TRB": "3",
                 "AST": "2",
-                "STL": "9",
+                "STL": "8",
                 "BLK": "1",
                 "TOV": "29",
                 "PF": "27",
@@ -218,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "10",
                 "FGA": "28",
                 "FG%": "3",
@@ -232,14 +232,14 @@
                 "FTA": "27",
                 "FT%": "3",
                 "ORB": "29",
-                "DRB": "7",
+                "DRB": "4",
                 "TRB": "18",
-                "AST": "6",
+                "AST": "5",
                 "STL": "21",
-                "BLK": "14",
+                "BLK": "15",
                 "TOV": "6",
                 "PF": "2",
-                "PTS": "18"
+                "PTS": "17"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -272,8 +272,8 @@
                 "PW": "18",
                 "PL": "7",
                 "MOV": "8.72",
-                "SOS": "-2.39",
-                "SRS": "6.33",
+                "SOS": "-2.38",
+                "SRS": "6.34",
                 "ORtg": "116.8",
                 "DRtg": "108.4",
                 "Pace": "104.6",
@@ -290,7 +290,7 @@
             "Misc Lg Rank": {
                 "W": "4",
                 "L": "26",
-                "PW": "3",
+                "PW": "4",
                 "PL": "4",
                 "MOV": "4",
                 "SOS": "30",
@@ -306,10 +306,10 @@
                 "FT/FGA": "22",
                 "DRB%": "23",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MEM-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }

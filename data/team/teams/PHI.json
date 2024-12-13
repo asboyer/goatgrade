@@ -30,8 +30,14 @@
             {
                 "Player": "Adem Bona",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Knee) - Bona did not play in Sunday's (Dec. 8) game against Chicago."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Knee) - The 76ers have listed Bona as Out for Friday's (Dec. 13) game against the Pacers."
+            },
+            {
+                "Player": "Caleb Martin",
+                "Team": "Philadelphia 76ers",
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Shoulder) - The 76ers have listed Martin as Out for Friday's (Dec. 13) game against the Pacers."
             }
         ],
         "team_stats": {
@@ -87,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "30",
                 "FGA": "24",
                 "FG%": "25",
@@ -104,7 +110,7 @@
                 "DRB": "30",
                 "TRB": "28",
                 "AST": "30",
-                "STL": "6",
+                "STL": "5",
                 "BLK": "28",
                 "TOV": "12",
                 "PF": "24",
@@ -187,25 +193,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "6",
                 "FGA": "3",
                 "FG%": "22",
                 "3P": "7",
                 "3PA": "6",
-                "3P%": "9",
+                "3P%": "10",
                 "2P": "6",
                 "2PA": "1",
                 "2P%": "25",
                 "FT": "23",
-                "FTA": "17",
+                "FTA": "18",
                 "FT%": "29",
                 "ORB": "4",
-                "DRB": "25",
-                "TRB": "15",
-                "AST": "11",
+                "DRB": "26",
+                "TRB": "16",
+                "AST": "12",
                 "STL": "7",
-                "BLK": "20",
+                "BLK": "21",
                 "TOV": "2",
                 "PF": "11",
                 "PTS": "8"
@@ -241,8 +247,8 @@
                 "PW": "8",
                 "PL": "14",
                 "MOV": "-4.91",
-                "SOS": "0.68",
-                "SRS": "-4.23",
+                "SOS": "0.65",
+                "SRS": "-4.26",
                 "ORtg": "107.7",
                 "DRtg": "112.8",
                 "Pace": "96.3",
@@ -258,27 +264,27 @@
             },
             "Misc Lg Rank": {
                 "W": "25",
-                "L": "7",
+                "L": "8",
                 "PW": "26",
                 "PL": "18",
-                "MOV": "25",
+                "MOV": "24",
                 "SOS": "12",
                 "SRS": "24",
                 "ORtg": "27",
                 "DRtg": "12",
                 "Pace": "30",
                 "FTr": "7",
-                "3PAr": "16",
+                "3PAr": "15",
                 "eFG%": "20",
                 "TOV%": "2",
-                "ORB%": "16",
+                "ORB%": "17",
                 "FT/FGA": "27",
-                "DRB%": "18",
+                "DRB%": "19",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/PHI-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }

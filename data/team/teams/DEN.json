@@ -29,10 +29,22 @@
         ],
         "injuries": [
             {
+                "Player": "Christian Braun",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Quad) - The Nuggets have listed Braun as Probable for Friday's (Dec. 13) game against the Clippers."
+            },
+            {
                 "Player": "Vlatko Čančar",
                 "Team": "Denver Nuggets",
                 "Update": "Wed, Dec 4, 2024",
                 "Description": "Out (Knee) - Cancar will be re-evaluated in eight weeks following a left knee surgery, per Ryan Blackburn of MileHighSports.com."
+            },
+            {
+                "Player": "Aaron Gordon",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Calf) - The Nuggets have listed Gordon as Probable for Friday's (Dec. 13) game against the Clippers."
             },
             {
                 "Player": "DaRon Holmes",
@@ -43,14 +55,14 @@
             {
                 "Player": "Jamal Murray",
                 "Team": "Denver Nuggets",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Hamstring) - Murray did not play in Sunday's (Dec. 8) game against Atlanta."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Hamstring) - The Nuggets have listed Murray as Questionable for Friday's (Dec. 13) game against the Clippers."
             },
             {
                 "Player": "Dario Šarić",
                 "Team": "Denver Nuggets",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Ankle) - Saric did not play in Sunday's (Dec. 8) game against Atlanta."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Ankle) - The Nuggets have listed Saric as Out for Friday's (Dec. 13) game against the Clippers."
             }
         ],
         "team_stats": {
@@ -106,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "3",
                 "FGA": "12",
                 "FG%": "3",
@@ -120,11 +132,11 @@
                 "FTA": "1",
                 "FT%": "27",
                 "ORB": "14",
-                "DRB": "13",
+                "DRB": "14",
                 "TRB": "12",
                 "AST": "1",
-                "STL": "11",
-                "BLK": "20",
+                "STL": "10",
+                "BLK": "19",
                 "TOV": "12",
                 "PF": "9",
                 "PTS": "5"
@@ -206,8 +218,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "28",
-                "FG": "26",
+                "MP": "29",
+                "FG": "27",
                 "FGA": "29",
                 "FG%": "19",
                 "3P": "23",
@@ -260,8 +272,8 @@
                 "PW": "12",
                 "PL": "10",
                 "MOV": "1.91",
-                "SOS": "0.85",
-                "SRS": "2.76",
+                "SOS": "0.87",
+                "SRS": "2.78",
                 "ORtg": "116.5",
                 "DRtg": "114.6",
                 "Pace": "100.9",
@@ -276,7 +288,7 @@
                 "Attendance": "197,432"
             },
             "Misc Lg Rank": {
-                "W": "14",
+                "W": "16",
                 "L": "20",
                 "PW": "15",
                 "PL": "11",
@@ -298,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DEN-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }

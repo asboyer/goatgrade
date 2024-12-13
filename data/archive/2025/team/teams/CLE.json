@@ -34,22 +34,22 @@
                 "Description": "Out (Knee) - Bates underwent arthroscopic surgery to repair a torn meniscus in his right knee, Spencer Davies of SI.com reports."
             },
             {
-                "Player": "Isaac Okoro",
+                "Player": "Evan Mobley",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Knee) - Okoro did not play in Saturday's (Dec. 7) game against the Hornets."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Ankle) - Mobley is questionable for Friday's (Dec. 13) game against Washington."
             },
             {
-                "Player": "Craig Porter Jr.",
+                "Player": "Isaac Okoro",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Illness) - Porter Jr. did not play in Sunday's (Dec. 8)game against Miami."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Knee) - Okoro is probable for Friday's (Dec. 13) game against Washington."
             },
             {
                 "Player": "Max Strus",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Wed, Dec 11, 2024",
-                "Description": "Day To Day (Ankle) - Strus is expected to make his season debut in Friday's (Dec. 13) game against the Wizards, per ESPN's Shams Charania."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Ankle) - Strus is OUT for Friday's (Dec. 13) game against Washington."
             }
         ],
         "team_stats": {
@@ -105,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "1",
                 "FGA": "16",
                 "FG%": "1",
@@ -116,13 +116,13 @@
                 "2PA": "18",
                 "2P%": "1",
                 "FT": "23",
-                "FTA": "26",
-                "FT%": "17",
+                "FTA": "25",
+                "FT%": "16",
                 "ORB": "25",
                 "DRB": "8",
                 "TRB": "19",
                 "AST": "7",
-                "STL": "10",
+                "STL": "9",
                 "BLK": "23",
                 "TOV": "6",
                 "PF": "12",
@@ -205,18 +205,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "13",
                 "FGA": "16",
                 "FG%": "7",
-                "3P": "16",
+                "3P": "17",
                 "3PA": "8",
                 "3P%": "24",
                 "2P": "10",
                 "2PA": "22",
                 "2P%": "3",
                 "FT": "13",
-                "FTA": "10",
+                "FTA": "11",
                 "FT%": "26",
                 "ORB": "15",
                 "DRB": "14",
@@ -259,8 +259,8 @@
                 "PW": "19",
                 "PL": "6",
                 "MOV": "9.92",
-                "SOS": "-2.18",
-                "SRS": "7.74",
+                "SOS": "-2.12",
+                "SRS": "7.80",
                 "ORtg": "121.2",
                 "DRtg": "111.3",
                 "Pace": "100.2",
@@ -277,13 +277,13 @@
             "Misc Lg Rank": {
                 "W": "1",
                 "L": "30",
-                "PW": "2",
+                "PW": "3",
                 "PL": "3",
-                "MOV": "2",
+                "MOV": "3",
                 "SOS": "29",
                 "SRS": "3",
                 "ORtg": "1",
-                "DRtg": "8",
+                "DRtg": "9",
                 "Pace": "6",
                 "FTr": "25",
                 "3PAr": "13",
@@ -297,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CLE-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }

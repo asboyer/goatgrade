@@ -31,7 +31,7 @@
                 "Player": "Ousmane Dieng",
                 "Team": "Oklahoma City Thunder",
                 "Update": "Sun, Nov 24, 2024",
-                "Description": "Out (Finger) - Dieng will miss 3-4 weeks due to a right ring-finger fracture, Andrew Schlecht of The Athletic reports."
+                "Description": "Out (Finger) - Dieng will miss 3-4 weeks due to a right ring-finger fracture, per Andrew Schlecht of The Athletic."
             },
             {
                 "Player": "Adam Flagler",
@@ -123,11 +123,11 @@
                 "2P%": "11",
                 "FT": "28",
                 "FTA": "29",
-                "FT%": "3",
+                "FT%": "4",
                 "ORB": "16",
                 "DRB": "18",
-                "TRB": "15",
-                "AST": "14",
+                "TRB": "16",
+                "AST": "15",
                 "STL": "1",
                 "BLK": "4",
                 "TOV": "1",
@@ -216,7 +216,7 @@
                 "FGA": "5",
                 "FG%": "1",
                 "3P": "6",
-                "3PA": "16",
+                "3PA": "15",
                 "3P%": "3",
                 "2P": "1",
                 "2PA": "3",
@@ -229,9 +229,9 @@
                 "TRB": "29",
                 "AST": "4",
                 "STL": "4",
-                "BLK": "15",
+                "BLK": "16",
                 "TOV": "1",
-                "PF": "28",
+                "PF": "27",
                 "PTS": "2"
             },
             "Opp Year/Year": {
@@ -265,8 +265,8 @@
                 "PW": "20",
                 "PL": "4",
                 "MOV": "12.00",
-                "SOS": "-0.48",
-                "SRS": "11.52",
+                "SOS": "-0.47",
+                "SRS": "11.53",
                 "ORtg": "116.0",
                 "DRtg": "104.0",
                 "Pace": "99.8",
@@ -281,7 +281,7 @@
                 "Attendance": "212,992"
             },
             "Misc Lg Rank": {
-                "W": "2",
+                "W": "3",
                 "L": "28",
                 "PW": "1",
                 "PL": "1",
@@ -299,10 +299,10 @@
                 "FT/FGA": "26",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/OKC-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }

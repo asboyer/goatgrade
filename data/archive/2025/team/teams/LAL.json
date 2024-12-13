@@ -29,22 +29,34 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Foot) - The Lakers have listed Davis as Probable for Friday's (Dec. 13) game against the Timberwolves."
+            },
+            {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
                 "Update": "Sat, Nov 30, 2024",
                 "Description": "Out (Ankle) - Hayes suffered a re-sprain of his right ankle and will miss two to three weeks, per ESPN's Shams Charania."
             },
             {
+                "Player": "Jalen Hood-Schifino",
+                "Team": "Los Angeles Lakers",
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Hamstring) - The Lakers have listed Hood-Schifino as Out for Friday's (Dec. 13) game against the Timberwolves."
+            },
+            {
                 "Player": "LeBron James",
                 "Team": "Los Angeles Lakers",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Foot) - James did not play in Sunday's (Dec. 7) game against Portland."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Foot) - The Lakers have listed James as Out for Friday's (Dec. 13) game against the Timberwolves."
             },
             {
                 "Player": "Austin Reaves",
                 "Team": "Los Angeles Lakers",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Pelvis) - Reaves did not play in Sunday's (Dec. 7) game against Portland."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Pelvis) - The Lakers have listed Reaves as Questionable for Friday's (Dec. 13) game against the Timberwolves."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -132,8 +144,8 @@
                 "STL": "19",
                 "BLK": "24",
                 "TOV": "5",
-                "PF": "1",
-                "PTS": "18"
+                "PF": "2",
+                "PTS": "17"
             },
             "Year/Year": {
                 "G": "",
@@ -215,14 +227,14 @@
                 "MP": "18",
                 "FG": "25",
                 "FGA": "19",
-                "FG%": "25",
-                "3P": "25",
-                "3PA": "16",
+                "FG%": "26",
+                "3P": "24",
+                "3PA": "15",
                 "3P%": "26",
-                "2P": "25",
+                "2P": "24",
                 "2PA": "18",
                 "2P%": "24",
-                "FT": "4",
+                "FT": "3",
                 "FTA": "3",
                 "FT%": "22",
                 "ORB": "18",
@@ -266,8 +278,8 @@
                 "PW": "9",
                 "PL": "15",
                 "MOV": "-3.63",
-                "SOS": "-0.39",
-                "SRS": "-4.02",
+                "SOS": "-0.43",
+                "SRS": "-4.05",
                 "ORtg": "113.9",
                 "DRtg": "117.6",
                 "Pace": "98.0",
@@ -285,25 +297,25 @@
                 "W": "12",
                 "L": "15",
                 "PW": "22",
-                "PL": "20",
+                "PL": "19",
                 "MOV": "20",
                 "SOS": "19",
                 "SRS": "23",
                 "ORtg": "13",
                 "DRtg": "26",
-                "Pace": "20",
+                "Pace": "21",
                 "FTr": "4",
                 "3PAr": "24",
-                "eFG%": "26",
-                "TOV%": "18",
+                "eFG%": "27",
+                "TOV%": "17",
                 "ORB%": "26",
-                "FT/FGA": "6",
+                "FT/FGA": "5",
                 "DRB%": "25",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAL-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }

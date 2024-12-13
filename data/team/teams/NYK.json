@@ -30,14 +30,14 @@
             {
                 "Player": "Ariel Hukporti",
                 "Team": "New York Knicks",
-                "Update": "Wed, Dec 11, 2024",
+                "Update": "Thu, Dec 12, 2024",
                 "Description": "Day To Day (Ankle) - Hukporti did not play in Wednesday's (Dec. 11) game against the Hawks."
             },
             {
                 "Player": "Mitchell Robinson",
                 "Team": "New York Knicks",
-                "Update": "Wed, Nov 20, 2024",
-                "Description": "Out (Ankle) - Robinson has not been cleared to begin basketball activities, with coach Tom Thibodeau noting that the big man is only shooting thus far, Steve Popper of Newsday reports."
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Out (Ankle) - Robinson is unlikely to be cleared for game action until at least late January, per Shams Charania on ESPN's NBA Today program."
             }
         ],
         "team_stats": {
@@ -93,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "6",
                 "FGA": "21",
                 "FG%": "2",
@@ -112,7 +112,7 @@
                 "AST": "8",
                 "STL": "25",
                 "BLK": "26",
-                "TOV": "4",
+                "TOV": "3",
                 "PF": "5",
                 "PTS": "7"
             },
@@ -193,16 +193,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "15",
                 "FGA": "11",
                 "FG%": "14",
                 "3P": "21",
-                "3PA": "18",
+                "3PA": "19",
                 "3P%": "20",
                 "2P": "10",
-                "2PA": "9",
-                "2P%": "13",
+                "2PA": "8",
+                "2P%": "14",
                 "FT": "6",
                 "FTA": "7",
                 "FT%": "14",
@@ -247,8 +247,8 @@
                 "PW": "17",
                 "PL": "8",
                 "MOV": "6.16",
-                "SOS": "-1.67",
-                "SRS": "4.49",
+                "SOS": "-1.65",
+                "SRS": "4.51",
                 "ORtg": "120.8",
                 "DRtg": "114.4",
                 "Pace": "96.9",
@@ -274,17 +274,17 @@
                 "DRtg": "16",
                 "Pace": "26",
                 "FTr": "27",
-                "3PAr": "17",
+                "3PAr": "16",
                 "eFG%": "16",
                 "TOV%": "25",
                 "ORB%": "21",
                 "FT/FGA": "7",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "6"
+                "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NYK-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }

@@ -42,14 +42,14 @@
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Hamstring) - Brogdon did not play in Sunday's (Dec. 8) game against Memphis."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Hamstring) - The Wizards have listed Brogdon as Out for Friday's (Dec. 13) game against the Cavaliers."
             },
             {
                 "Player": "Kyshawn George",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Ankle) - George did not play in Sunday's (Dec. 8) game against Memphis."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Ankle) - The Wizards have listed George as Out for Friday's (Dec. 13) game against the Cavaliers."
             },
             {
                 "Player": "Richaun Holmes",
@@ -60,14 +60,14 @@
             {
                 "Player": "Corey Kispert",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Ankle) - Kispert did not play in Sunday's (Dec. 8) game against Memphis."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Ankle) - The Wizards have listed Kispert as Out for Friday's (Dec. 13) game against the Cavaliers."
             },
             {
                 "Player": "Kyle Kuzma",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Ribs) - Sarr did not play in Sunday's (Dec. 8) game against Memphis."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Ribs) - The Wizards have listed Kuzma as Out for Friday's (Dec. 13) game against the Cavaliers."
             },
             {
                 "Player": "Alex Sarr",
@@ -136,7 +136,7 @@
             "Lg Rank": {
                 "G": "",
                 "MP": "30",
-                "FG": "20",
+                "FG": "21",
                 "FGA": "9",
                 "FG%": "27",
                 "3P": "29",
@@ -147,8 +147,8 @@
                 "2P%": "23",
                 "FT": "17",
                 "FTA": "18",
-                "FT%": "18",
-                "ORB": "19",
+                "FT%": "17",
+                "ORB": "18",
                 "DRB": "22",
                 "TRB": "22",
                 "AST": "23",
@@ -238,9 +238,9 @@
                 "MP": "30",
                 "FG": "29",
                 "FGA": "27",
-                "FG%": "26",
-                "3P": "26",
-                "3PA": "22",
+                "FG%": "27",
+                "3P": "27",
+                "3PA": "23",
                 "3P%": "27",
                 "2P": "29",
                 "2PA": "24",
@@ -253,9 +253,9 @@
                 "TRB": "30",
                 "AST": "25",
                 "STL": "23",
-                "BLK": "24",
-                "TOV": "23",
-                "PF": "19",
+                "BLK": "25",
+                "TOV": "24",
+                "PF": "18",
                 "PTS": "30"
             },
             "Opp Year/Year": {
@@ -289,8 +289,8 @@
                 "PW": "3",
                 "PL": "19",
                 "MOV": "-16.18",
-                "SOS": "2.62",
-                "SRS": "-13.57",
+                "SOS": "2.66",
+                "SRS": "-13.52",
                 "ORtg": "104.7",
                 "DRtg": "120.5",
                 "Pace": "102.8",
@@ -315,9 +315,9 @@
                 "ORtg": "30",
                 "DRtg": "30",
                 "Pace": "4",
-                "FTr": "23",
+                "FTr": "22",
                 "3PAr": "20",
-                "eFG%": "28",
+                "eFG%": "29",
                 "TOV%": "26",
                 "ORB%": "23",
                 "FT/FGA": "28",
@@ -327,6 +327,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/WAS-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }

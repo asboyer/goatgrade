@@ -30,8 +30,8 @@
             {
                 "Player": "Bojan Bogdanović",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Nov 25, 2024",
-                "Description": "Out (Foot) - The Nets said on Monday (Nov. 25) that Bogdanovic continues to be limited in his rehab and doesn't have a return timetable. He can be considered out indefinitely for future contests, barring a return to full-contact practices."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Foot) - The Nets said on Thursday (Dec. 12) that Bogdanovic remains without a timetable for his return, per Erik Slater of ClutchPoints.com."
             },
             {
                 "Player": "Cam Thomas",
@@ -42,8 +42,8 @@
             {
                 "Player": "Ziaire Williams",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Knee) - Williams did not play in Sunday's (Dec. 8) game against Milwaukee."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Knee) - The Nets have listed Williams as Out for Friday's (Dec. 13) game against the Grizzlies."
             }
         ],
         "team_stats": {
@@ -120,7 +120,7 @@
                 "BLK": "29",
                 "TOV": "14",
                 "PF": "30",
-                "PTS": "22"
+                "PTS": "21"
             },
             "Year/Year": {
                 "G": "",
@@ -205,20 +205,20 @@
                 "FG%": "30",
                 "3P": "10",
                 "3PA": "5",
-                "3P%": "22",
-                "2P": "15",
+                "3P%": "23",
+                "2P": "16",
                 "2PA": "5",
                 "2P%": "29",
                 "FT": "28",
                 "FTA": "28",
-                "FT%": "19",
+                "FT%": "18",
                 "ORB": "3",
                 "DRB": "16",
                 "TRB": "9",
                 "AST": "20",
                 "STL": "13",
                 "BLK": "28",
-                "TOV": "14",
+                "TOV": "13",
                 "PF": "12",
                 "PTS": "19"
             },
@@ -253,8 +253,8 @@
                 "PW": "9",
                 "PL": "15",
                 "MOV": "-3.75",
-                "SOS": "1.22",
-                "SRS": "-2.53",
+                "SOS": "1.26",
+                "SRS": "-2.49",
                 "ORtg": "113.1",
                 "DRtg": "116.9",
                 "Pace": "96.5",
@@ -272,9 +272,9 @@
                 "W": "20",
                 "L": "11",
                 "PW": "23",
-                "PL": "21",
+                "PL": "20",
                 "MOV": "21",
-                "SOS": "4",
+                "SOS": "3",
                 "SRS": "18",
                 "ORtg": "14",
                 "DRtg": "24",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/BRK-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }

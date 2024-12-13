@@ -29,16 +29,40 @@
         ],
         "injuries": [
             {
+                "Player": "Lonzo Ball",
+                "Team": "Chicago Bulls",
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Knee) - The Bulls have listed Ball as Probable for Friday's (Dec. 13) game against the Hornets."
+            },
+            {
+                "Player": "Josh Giddey",
+                "Team": "Chicago Bulls",
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Back) - The Bulls have listed Giddey as Questionable for Friday's (Dec. 13) game against the Hornets."
+            },
+            {
+                "Player": "Zach LaVine",
+                "Team": "Chicago Bulls",
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Back) - The Bulls have listed LaVine as Probable for Friday's (Dec. 13) game against the Hornets."
+            },
+            {
                 "Player": "Dalen Terry",
                 "Team": "Chicago Bulls",
                 "Update": "Sun, Dec 8, 2024",
-                "Description": "Day To Day (Knee) - Dalen Terry (right knee) will not return to Sunday's (Dec. 8) game against Philadelphia."
+                "Description": "Day To Day (Knee) - The Bulls said that Terry did not return to Sunday's (Dec. 8) game against Philadelphia."
+            },
+            {
+                "Player": "Nikola Vučević",
+                "Team": "Chicago Bulls",
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Illness) - The Bulls have listed Vucevic as Questionable for Friday's (Dec. 13) game against the Hornets."
             },
             {
                 "Player": "Patrick Williams",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Out (Foot) - The Bulls said that Williams is out for Thursday's (Dec. 5) game against the Spurs and on Friday's game against the Pacers, per K.C. Johnson of NBC Sports Chicago."
+                "Update": "Fri, Dec 13, 2024",
+                "Description": "Day To Day (Foot) - The Bulls have listed Williams as Questionable for Friday's (Dec. 13) game against the Hornets."
             }
         ],
         "team_stats": {
@@ -94,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "4",
                 "FGA": "8",
                 "FG%": "9",
@@ -106,10 +130,10 @@
                 "2P%": "7",
                 "FT": "27",
                 "FTA": "28",
-                "FT%": "6",
+                "FT%": "7",
                 "ORB": "27",
                 "DRB": "3",
-                "TRB": "13",
+                "TRB": "14",
                 "AST": "4",
                 "STL": "26",
                 "BLK": "25",
@@ -194,13 +218,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "30",
                 "FGA": "30",
-                "FG%": "27",
-                "3P": "14",
-                "3PA": "24",
-                "3P%": "8",
+                "FG%": "28",
+                "3P": "15",
+                "3PA": "25",
+                "3P%": "9",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "30",
@@ -248,8 +272,8 @@
                 "PW": "10",
                 "PL": "15",
                 "MOV": "-3.88",
-                "SOS": "0.77",
-                "SRS": "-3.11",
+                "SOS": "0.80",
+                "SRS": "-3.08",
                 "ORtg": "114.1",
                 "DRtg": "117.8",
                 "Pace": "104.4",
@@ -265,12 +289,12 @@
             },
             "Misc Lg Rank": {
                 "W": "20",
-                "L": "7",
+                "L": "8",
                 "PW": "20",
-                "PL": "23",
+                "PL": "22",
                 "MOV": "22",
-                "SOS": "10",
-                "SRS": "20",
+                "SOS": "11",
+                "SRS": "19",
                 "ORtg": "12",
                 "DRtg": "27",
                 "Pace": "2",
@@ -279,13 +303,13 @@
                 "eFG%": "24",
                 "TOV%": "30",
                 "ORB%": "29",
-                "FT/FGA": "10",
+                "FT/FGA": "11",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CHI-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }

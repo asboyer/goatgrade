@@ -29,16 +29,22 @@
         ],
         "injuries": [
             {
+                "Player": "Deandre Ayton",
+                "Team": "Portland Trail Blazers",
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Illness) - The Trail Blazers listed Ayton as Questionable for Friday's (Dec. 13) game against the Spurs."
+            },
+            {
                 "Player": "Donovan Clingan",
                 "Team": "Portland Trail Blazers",
-                "Update": "Tue, Dec 10, 2024",
-                "Description": "Day To Day (Knee) - The Trail Blazers announced on Tuesday (Dec. 10) that Clingan has been cleared for on-court workouts and will ramp up towards a return to play. He will be considered day-to-day going forward."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Knee) - Clingan is listed as questionable for Friday's (Dec. 13) game versus the Spurs, per Sean Highkin of Rip City Radio 620 Portland."
             },
             {
                 "Player": "Duop Reath",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Back) - Reath did not play in Sunday's (Dec. 8) game against Los Angeles."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Back) - The Trail Blazers have listed Reath as Doubtful for Friday's (Dec. 13) game against the Spurs."
             },
             {
                 "Player": "Matisse Thybulle",
@@ -49,8 +55,8 @@
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Concussion) - Williams III did not play in Sunday's (Dec. 8) game against Los Angeles."
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Day To Day (Concussion) - The Trail Blazers listed Williams as Questionable for Friday's (Dec. 13) game against the Spurs."
             }
         ],
         "team_stats": {
@@ -260,8 +266,8 @@
                 "PW": "6",
                 "PL": "18",
                 "MOV": "-9.58",
-                "SOS": "1.12",
-                "SRS": "-8.47",
+                "SOS": "1.13",
+                "SRS": "-8.46",
                 "ORtg": "106.8",
                 "DRtg": "116.4",
                 "Pace": "99.7",
@@ -283,10 +289,10 @@
                 "MOV": "28",
                 "SOS": "7",
                 "SRS": "28",
-                "ORtg": "28",
+                "ORtg": "29",
                 "DRtg": "22",
                 "Pace": "10",
-                "FTr": "20",
+                "FTr": "18",
                 "3PAr": "21",
                 "eFG%": "22",
                 "TOV%": "5",
@@ -298,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/POR-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }

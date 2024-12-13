@@ -49,7 +49,7 @@
                 "Player": "Franz Wagner",
                 "Team": "Orlando Magic",
                 "Update": "Sat, Dec 7, 2024",
-                "Description": "Out (Oblique) - Magic star forward Franz Wagner has suffered a torn right oblique and is out indefinitely, sources tell ESPN. Wagner sustained the injury Friday night and will be re-evaluated in four weeks."
+                "Description": "Out (Oblique) - Magic star forward Franz Wagner has suffered a torn right oblique and is out indefinitely, sources tell ESPN. Wagner sustained the injury Friday night and will be re-evaluated in four weeks, per ESPN's Shams Charania."
             }
         ],
         "team_stats": {
@@ -108,7 +108,7 @@
                 "MP": "1",
                 "FG": "28",
                 "FGA": "26",
-                "FG%": "23",
+                "FG%": "24",
                 "3P": "26",
                 "3PA": "12",
                 "3P%": "30",
@@ -259,8 +259,8 @@
                 "PW": "17",
                 "PL": "10",
                 "MOV": "4.00",
-                "SOS": "-1.52",
-                "SRS": "2.48",
+                "SOS": "-1.50",
+                "SRS": "2.50",
                 "ORtg": "110.7",
                 "DRtg": "106.6",
                 "Pace": "97.2",
@@ -287,7 +287,7 @@
                 "Pace": "25",
                 "FTr": "1",
                 "3PAr": "10",
-                "eFG%": "9",
+                "eFG%": "10",
                 "TOV%": "3",
                 "ORB%": "14",
                 "FT/FGA": "20",
@@ -297,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/ORL-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }

@@ -30,26 +30,32 @@
             {
                 "Player": "Mo Bamba",
                 "Team": "Los Angeles Clippers",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Knee) - Bamba did not play in Sunday's (Dec. 8) game against Houston."
+                "Update": "Tue, Dec 10, 2024",
+                "Description": "Day To Day (Knee) - Bamba is probable to play in Friday's (Dec. 13) game against the Nuggets, per Tomer Azarly of ClutchPoints.com."
             },
             {
                 "Player": "Kobe Brown",
                 "Team": "Los Angeles Clippers",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Out (Back) - Brown has a herniated disc and will be re-evaluated in two weeks, according to an independent NBA writer Justin Russo."
+                "Update": "Wed, Dec 11, 2024",
+                "Description": "Out (Back) - Brown is recovering from a herniated disc and is expected to be evaluated in about a week, at which point he could be cleared to take light contact in practice, per independent NBA writer Justin Russo."
             },
             {
                 "Player": "James Harden",
                 "Team": "Los Angeles Clippers",
-                "Update": "Mon, Dec 9, 2024",
-                "Description": "Day To Day (Groin) - Harden did not play in Sunday's (Dec. 8) game against Houston."
+                "Update": "Tue, Dec 10, 2024",
+                "Description": "Day To Day (Groin) - The Clippers announced that Harden is probable to play for Friday's (Dec. 13) game against the Nuggets, per Tomer Azarly of ClutchPoints.com."
+            },
+            {
+                "Player": "Derrick Jones Jr.",
+                "Team": "Los Angeles Clippers",
+                "Update": "Thu, Dec 12, 2024",
+                "Description": "Out (Hamstring) - The Clippers announced Tuesday (Dec. 10) that Jones has a right hamstring strain and will be re-evaluated in two weeks, Joey Linn of SI.com reports."
             },
             {
                 "Player": "Kawhi Leonard",
                 "Team": "Los Angeles Clippers",
-                "Update": "Mon, Nov 18, 2024",
-                "Description": "Out (Knee) - Leonard has been cleared to resume shooting work said head coach Tyronn Lue on Monday (Nov. 18), according to Tomer Azarly of ClutchPoints.com."
+                "Update": "Tue, Dec 10, 2024",
+                "Description": "Out (Knee) - Clippers head coach Tyronn Lue said Leonard won't play in Friday's (Dec. 13) versus Denver, but it appears he is gearing up for his season debut soon."
             },
             {
                 "Player": "Terance Mann",
@@ -117,26 +123,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "10",
                 "FG": "19",
                 "FGA": "23",
-                "FG%": "16",
+                "FG%": "15",
                 "3P": "18",
                 "3PA": "25",
-                "3P%": "12",
-                "2P": "15",
+                "3P%": "13",
+                "2P": "16",
                 "2PA": "14",
                 "2P%": "25",
-                "FT": "22",
+                "FT": "21",
                 "FTA": "22",
-                "FT%": "19",
+                "FT%": "18",
                 "ORB": "11",
-                "DRB": "14",
+                "DRB": "15",
                 "TRB": "11",
                 "AST": "21",
-                "STL": "5",
+                "STL": "4",
                 "BLK": "27",
-                "TOV": "26",
+                "TOV": "27",
                 "PF": "14",
                 "PTS": "24"
             },
@@ -217,24 +223,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "10",
                 "FG": "5",
                 "FGA": "4",
                 "FG%": "12",
                 "3P": "9",
-                "3PA": "15",
+                "3PA": "14",
                 "3P%": "6",
                 "2P": "4",
                 "2PA": "2",
                 "2P%": "21",
-                "FT": "9",
+                "FT": "10",
                 "FTA": "12",
                 "FT%": "5",
                 "ORB": "2",
                 "DRB": "11",
                 "TRB": "3",
                 "AST": "7",
-                "STL": "24",
+                "STL": "25",
                 "BLK": "17",
                 "TOV": "12",
                 "PF": "25",
@@ -271,8 +277,8 @@
                 "PW": "14",
                 "PL": "11",
                 "MOV": "1.32",
-                "SOS": "1.23",
-                "SRS": "2.55",
+                "SOS": "1.21",
+                "SRS": "2.53",
                 "ORtg": "111.1",
                 "DRtg": "109.7",
                 "Pace": "97.5",
@@ -289,26 +295,26 @@
             "Misc Lg Rank": {
                 "W": "9",
                 "L": "15",
-                "PW": "12",
+                "PW": "13",
                 "PL": "15",
                 "MOV": "14",
-                "SOS": "3",
+                "SOS": "4",
                 "SRS": "11",
-                "ORtg": "23",
+                "ORtg": "22",
                 "DRtg": "7",
                 "Pace": "24",
-                "FTr": "17",
-                "3PAr": "23",
-                "eFG%": "11",
+                "FTr": "16",
+                "3PAr": "22",
+                "eFG%": "12",
                 "TOV%": "7",
-                "ORB%": "12",
+                "ORB%": "11",
                 "FT/FGA": "15",
                 "DRB%": "2",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAC-2025.png",
-        "last_update": "Dec 12 2024 22:32:15"
+        "last_update": "Dec 13 2024 22:32:13"
     }
 }
