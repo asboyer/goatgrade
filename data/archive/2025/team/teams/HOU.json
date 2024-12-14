@@ -2,7 +2,7 @@
     "HOU": {
         "info": {
             "record": "17-8",
-            "standing": "2nd in West",
+            "standing": "3rd in West",
             "coach": "Ime Udoka (17-8)",
             "gm": "Rafael Stone",
             "preseason_odds": "+10000"
@@ -26,7 +26,14 @@
             "Jeenathan Williams",
             "N'Faly Dante"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Dillon Brooks",
+                "Team": "Houston Rockets",
+                "Update": "Fri, Dec 13, 2024",
+                "Description": "Day To Day (Illness) - The Rockets have listed Brooks as Questionable for Saturday's (Dec. 14) NBA Cup Semifinal against the Thunder."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "25",
@@ -80,25 +87,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "12",
                 "FG": "14",
                 "FGA": "1",
-                "FG%": "26",
+                "FG%": "27",
                 "3P": "23",
                 "3PA": "20",
                 "3P%": "27",
                 "2P": "8",
                 "2PA": "3",
                 "2P%": "26",
-                "FT": "7",
+                "FT": "6",
                 "FTA": "4",
                 "FT%": "22",
                 "ORB": "1",
-                "DRB": "2",
+                "DRB": "3",
                 "TRB": "1",
                 "AST": "28",
                 "STL": "12",
-                "BLK": "6",
+                "BLK": "7",
                 "TOV": "7",
                 "PF": "22",
                 "PTS": "15"
@@ -180,7 +187,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "12",
                 "FG": "3",
                 "FGA": "15",
                 "FG%": "2",
@@ -188,18 +195,18 @@
                 "3PA": "2",
                 "3P%": "5",
                 "2P": "7",
-                "2PA": "27",
+                "2PA": "28",
                 "2P%": "1",
                 "FT": "17",
                 "FTA": "21",
                 "FT%": "2",
-                "ORB": "14",
-                "DRB": "17",
-                "TRB": "14",
+                "ORB": "15",
+                "DRB": "18",
+                "TRB": "18",
                 "AST": "1",
                 "STL": "6",
                 "BLK": "27",
-                "TOV": "11",
+                "TOV": "12",
                 "PF": "6",
                 "PTS": "3"
             },
@@ -234,8 +241,8 @@
                 "PW": "18",
                 "PL": "7",
                 "MOV": "6.80",
-                "SOS": "0.60",
-                "SRS": "7.40",
+                "SOS": "0.57",
+                "SRS": "7.37",
                 "ORtg": "112.2",
                 "DRtg": "105.4",
                 "Pace": "99.2",
@@ -250,28 +257,28 @@
                 "Attendance": "221,181"
             },
             "Misc Lg Rank": {
-                "W": "4",
+                "W": "5",
                 "L": "26",
                 "PW": "5",
                 "PL": "5",
                 "MOV": "5",
-                "SOS": "13",
+                "SOS": "12",
                 "SRS": "4",
-                "ORtg": "20",
+                "ORtg": "19",
                 "DRtg": "2",
                 "Pace": "13",
-                "FTr": "15",
-                "3PAr": "26",
+                "FTr": "14",
+                "3PAr": "27",
                 "eFG%": "1",
                 "TOV%": "13",
                 "ORB%": "1",
-                "FT/FGA": "18",
+                "FT/FGA": "17",
                 "DRB%": "6",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/HOU-2025.png",
-        "last_update": "Dec 13 2024 22:32:13"
+        "last_update": "Dec 14 2024 22:32:12"
     }
 }

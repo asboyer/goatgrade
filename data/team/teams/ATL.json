@@ -29,6 +29,30 @@
         ],
         "injuries": [
             {
+                "Player": "Bogdan Bogdanović",
+                "Team": "Atlanta Hawks",
+                "Update": "Fri, Dec 13, 2024",
+                "Description": "Day To Day (Quadriceps) - The Hawks have listed Bogdanovic as Probable for Saturday's (Dec. 14) NBA Cup Semifinals against the Bucks."
+            },
+            {
+                "Player": "De'Andre Hunter",
+                "Team": "Atlanta Hawks",
+                "Update": "Fri, Dec 13, 2024",
+                "Description": "Day To Day (Knee) - The Hawks have listed Hunter as probable for Saturday's (Dec. 14) NBA Cup Semifinals against the Bucks."
+            },
+            {
+                "Player": "Jalen Johnson",
+                "Team": "Atlanta Hawks",
+                "Update": "Fri, Dec 13, 2024",
+                "Description": "Day To Day (Ankle) - The Hawks have listed Johnson as Questionable for Saturday's (Dec. 14) NBA Cup Semifinals against the Bucks."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Fri, Dec 13, 2024",
+                "Description": "Day To Day (Achilles) - The Hawks have listed Young as Probable for Saturday's (Dec. 14) NBA Cup Semifinals against the Bucks."
+            },
+            {
                 "Player": "Cody Zeller",
                 "Team": "Atlanta Hawks",
                 "Update": "Tue, Dec 10, 2024",
@@ -88,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "8",
                 "FGA": "2",
                 "FG%": "18",
@@ -98,8 +122,8 @@
                 "2P": "5",
                 "2PA": "4",
                 "2P%": "17",
-                "FT": "6",
-                "FTA": "7",
+                "FT": "5",
+                "FTA": "6",
                 "FT%": "15",
                 "ORB": "5",
                 "DRB": "13",
@@ -108,7 +132,7 @@
                 "STL": "2",
                 "BLK": "13",
                 "TOV": "21",
-                "PF": "15",
+                "PF": "14",
                 "PTS": "8"
             },
             "Year/Year": {
@@ -188,28 +212,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "24",
                 "FGA": "26",
-                "FG%": "20",
+                "FG%": "19",
                 "3P": "30",
                 "3PA": "30",
                 "3P%": "30",
-                "2P": "13",
+                "2P": "14",
                 "2PA": "10",
                 "2P%": "16",
                 "FT": "19",
                 "FTA": "19",
-                "FT%": "12",
+                "FT%": "14",
                 "ORB": "19",
                 "DRB": "20",
                 "TRB": "22",
                 "AST": "23",
-                "STL": "27",
-                "BLK": "23",
+                "STL": "26",
+                "BLK": "24",
                 "TOV": "4",
                 "PF": "7",
-                "PTS": "28"
+                "PTS": "27"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -242,8 +266,8 @@
                 "PW": "11",
                 "PL": "15",
                 "MOV": "-2.35",
-                "SOS": "-0.81",
-                "SRS": "-3.16",
+                "SOS": "-0.72",
+                "SRS": "-3.06",
                 "ORtg": "112.3",
                 "DRtg": "114.6",
                 "Pace": "103.5",
@@ -260,26 +284,26 @@
             "Misc Lg Rank": {
                 "W": "9",
                 "L": "13",
-                "PW": "16",
-                "PL": "21",
+                "PW": "18",
+                "PL": "18",
                 "MOV": "18",
                 "SOS": "22",
-                "SRS": "21",
+                "SRS": "20",
                 "ORtg": "18",
                 "DRtg": "18",
                 "Pace": "3",
                 "FTr": "13",
                 "3PAr": "25",
-                "eFG%": "23",
-                "TOV%": "6",
-                "ORB%": "5",
+                "eFG%": "24",
+                "TOV%": "7",
+                "ORB%": "4",
                 "FT/FGA": "14",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/ATL-2025.png",
-        "last_update": "Dec 13 2024 22:32:13"
+        "last_update": "Dec 14 2024 22:32:12"
     }
 }
