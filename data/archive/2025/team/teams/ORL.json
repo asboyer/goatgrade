@@ -36,14 +36,14 @@
             {
                 "Player": "Gary Harris",
                 "Team": "Orlando Magic",
-                "Update": "Wed, Dec 11, 2024",
-                "Description": "Day To Day (Hamstring) - Harris did not play in Tuesday's (Dec. 10) game against the Bucks."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Day To Day (Hamstring) - The Magic have listed Harris as Questionable for Sunday's (Dec. 15) game against the Knicks."
             },
             {
                 "Player": "Jonathan Isaac",
                 "Team": "Orlando Magic",
-                "Update": "Wed, Dec 11, 2024",
-                "Description": "Day To Day (Hamstring) - Isaac did not play in Tuesday's (Dec. 10) game against the Bucks."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Day To Day (Hamstring) - The Magic have listed Isaac as Probable for Sunday's (Dec. 15) game against the Knicks."
             },
             {
                 "Player": "Franz Wagner",
@@ -105,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "28",
                 "FGA": "25",
                 "FG%": "24",
@@ -113,10 +113,10 @@
                 "3PA": "12",
                 "3P%": "30",
                 "2P": "18",
-                "2PA": "23",
+                "2PA": "22",
                 "2P%": "6",
                 "FT": "2",
-                "FTA": "3",
+                "FTA": "4",
                 "FT%": "12",
                 "ORB": "14",
                 "DRB": "26",
@@ -205,11 +205,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "11",
-                "3P": "2",
+                "3P": "3",
                 "3PA": "1",
                 "3P%": "17",
                 "2P": "3",
@@ -223,10 +223,10 @@
                 "TRB": "1",
                 "AST": "2",
                 "STL": "7",
-                "BLK": "5",
+                "BLK": "4",
                 "TOV": "3",
                 "PF": "1",
-                "PTS": "1"
+                "PTS": "2"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -259,8 +259,8 @@
                 "PW": "17",
                 "PL": "10",
                 "MOV": "4.00",
-                "SOS": "-1.52",
-                "SRS": "2.48",
+                "SOS": "-1.53",
+                "SRS": "2.47",
                 "ORtg": "110.7",
                 "DRtg": "106.6",
                 "Pace": "97.2",
@@ -297,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/ORL-2025.png",
-        "last_update": "Dec 14 2024 22:32:12"
+        "last_update": "Dec 15 2024 22:32:16"
     }
 }

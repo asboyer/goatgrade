@@ -30,8 +30,8 @@
             {
                 "Player": "Bradley Beal",
                 "Team": "Phoenix Suns",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Knee) - Beal did not play in Friday's (Dec. 13) game against the Jazz."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Day To Day (Knee) - The Suns have listed Beal as Questionable for Sunday's (Dec. 15) game against the Trail Blazers."
             },
             {
                 "Player": "Collin Gillespie",
@@ -93,17 +93,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "23",
                 "FG": "18",
                 "FGA": "26",
                 "FG%": "11",
                 "3P": "6",
-                "3PA": "8",
+                "3PA": "7",
                 "3P%": "6",
                 "2P": "25",
                 "2PA": "27",
                 "2P%": "14",
-                "FT": "10",
+                "FT": "9",
                 "FTA": "11",
                 "FT%": "8",
                 "ORB": "24",
@@ -112,7 +112,7 @@
                 "AST": "11",
                 "STL": "20",
                 "BLK": "17",
-                "TOV": "9",
+                "TOV": "10",
                 "PF": "7",
                 "PTS": "12"
             },
@@ -193,17 +193,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "23",
                 "FG": "20",
                 "FGA": "16",
                 "FG%": "21",
-                "3P": "17",
+                "3P": "18",
                 "3PA": "8",
                 "3P%": "25",
                 "2P": "21",
                 "2PA": "23",
                 "2P%": "15",
-                "FT": "16",
+                "FT": "15",
                 "FTA": "13",
                 "FT%": "25",
                 "ORB": "9",
@@ -263,14 +263,14 @@
                 "Attendance": "204,852"
             },
             "Misc Lg Rank": {
-                "W": "12",
+                "W": "13",
                 "L": "17",
                 "PW": "16",
                 "PL": "15",
                 "MOV": "16",
-                "SOS": "16",
+                "SOS": "15",
                 "SRS": "16",
-                "ORtg": "9",
+                "ORtg": "8",
                 "DRtg": "22",
                 "Pace": "24",
                 "FTr": "7",
@@ -279,12 +279,12 @@
                 "TOV%": "27",
                 "ORB%": "25",
                 "FT/FGA": "16",
-                "DRB%": "8",
+                "DRB%": "9",
                 "Arena": "",
                 "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/PHO-2025.png",
-        "last_update": "Dec 14 2024 22:32:12"
+        "last_update": "Dec 15 2024 22:32:16"
     }
 }

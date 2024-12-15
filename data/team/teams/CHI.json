@@ -31,13 +31,13 @@
             {
                 "Player": "Torrey Craig",
                 "Team": "Chicago Bulls",
-                "Update": "Fri, Dec 13, 2024",
+                "Update": "Sat, Dec 14, 2024",
                 "Description": "Day To Day (Illness) - Craig did not play in Friday's (Dec. 13) game against the Hornets."
             },
             {
                 "Player": "Nikola Vučević",
                 "Team": "Chicago Bulls",
-                "Update": "Fri, Dec 13, 2024",
+                "Update": "Sat, Dec 14, 2024",
                 "Description": "Day To Day (Illness) - Vucevic did not play in Friday's (Dec. 13) game against the Hornets."
             }
         ],
@@ -94,8 +94,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
-                "FG": "7",
+                "MP": "9",
+                "FG": "6",
                 "FGA": "8",
                 "FG%": "9",
                 "3P": "2",
@@ -104,7 +104,7 @@
                 "2P": "20",
                 "2PA": "25",
                 "2P%": "7",
-                "FT": "26",
+                "FT": "27",
                 "FTA": "28",
                 "FT%": "6",
                 "ORB": "27",
@@ -194,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "24",
@@ -204,15 +204,15 @@
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "30",
-                "FT": "15",
+                "FT": "14",
                 "FTA": "17",
                 "FT%": "10",
-                "ORB": "10",
+                "ORB": "11",
                 "DRB": "30",
                 "TRB": "28",
                 "AST": "29",
                 "STL": "18",
-                "BLK": "13",
+                "BLK": "14",
                 "TOV": "29",
                 "PF": "30",
                 "PTS": "29"
@@ -248,8 +248,8 @@
                 "PW": "11",
                 "PL": "15",
                 "MOV": "-3.19",
-                "SOS": "0.62",
-                "SRS": "-2.58",
+                "SOS": "0.59",
+                "SRS": "-2.60",
                 "ORtg": "113.8",
                 "DRtg": "116.9",
                 "Pace": "104.3",
@@ -267,9 +267,9 @@
                 "W": "20",
                 "L": "9",
                 "PW": "19",
-                "PL": "20",
+                "PL": "19",
                 "MOV": "19",
-                "SOS": "11",
+                "SOS": "12",
                 "SRS": "18",
                 "ORtg": "12",
                 "DRtg": "26",
@@ -286,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CHI-2025.png",
-        "last_update": "Dec 14 2024 22:32:12"
+        "last_update": "Dec 15 2024 22:32:16"
     }
 }

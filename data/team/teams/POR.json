@@ -31,8 +31,8 @@
             {
                 "Player": "Deandre Ayton",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Illness) - Ayton did not play in Friday's (Dec. 13) game against the Spurs."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Out (Illness) - The Trail Blazers listed Ayton as Out for Sunday's (Dec. 15) game against the Suns."
             },
             {
                 "Player": "Matisse Thybulle",
@@ -43,8 +43,8 @@
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Concussion) - Williams did not play in Friday's (Dec. 13) game against the Spurs."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Day To Day (Concussion) - The Trail Blazers have listed Williams as Questionable for Sunday's (Dec. 15) game against the Suns."
             }
         ],
         "team_stats": {
@@ -100,12 +100,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "19",
                 "FG": "24",
                 "FGA": "11",
-                "FG%": "29",
+                "FG%": "28",
                 "3P": "22",
-                "3PA": "21",
+                "3PA": "20",
                 "3P%": "25",
                 "2P": "16",
                 "2PA": "10",
@@ -113,7 +113,7 @@
                 "FT": "17",
                 "FTA": "17",
                 "FT%": "20",
-                "ORB": "6",
+                "ORB": "5",
                 "DRB": "28",
                 "TRB": "23",
                 "AST": "29",
@@ -200,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "19",
                 "FG": "19",
                 "FGA": "9",
                 "FG%": "22",
@@ -254,8 +254,8 @@
                 "PW": "6",
                 "PL": "19",
                 "MOV": "-9.28",
-                "SOS": "1.04",
-                "SRS": "-8.24",
+                "SOS": "1.01",
+                "SRS": "-8.27",
                 "ORtg": "107.4",
                 "DRtg": "116.7",
                 "Pace": "99.5",
@@ -284,7 +284,7 @@
                 "3PAr": "20",
                 "eFG%": "23",
                 "TOV%": "6",
-                "ORB%": "6",
+                "ORB%": "5",
                 "FT/FGA": "24",
                 "DRB%": "30",
                 "Arena": "",
@@ -292,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/POR-2025.png",
-        "last_update": "Dec 14 2024 22:32:12"
+        "last_update": "Dec 15 2024 22:32:16"
     }
 }

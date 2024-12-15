@@ -15,9 +15,9 @@
             "Alex Sarr",
             "Corey Kispert",
             "Kyshawn George",
+            "Anthony Gill",
             "Jared Butler",
             "Johnny Davis",
-            "Anthony Gill",
             "Marvin Bagley III",
             "Kyle Kuzma",
             "Patrick Baldwin Jr.",
@@ -36,26 +36,26 @@
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Hamstring) - Brogdon did not play in Friday's (Dec. 13) game against the Cavaliers."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Out (Hamstring) - The Wizards have listed Brogdon as Out for Sunday's (Dec. 15) game against the Celtics."
             },
             {
                 "Player": "Kyshawn George",
                 "Team": "Washington Wizards",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Ankle) - George did not play in Friday's (Dec. 13) game against the Cavaliers."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Out (Ankle) - The Wizards have listed George as Out for Sunday's (Dec. 15) game against the Celtics."
             },
             {
                 "Player": "Corey Kispert",
                 "Team": "Washington Wizards",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Ankle) - Kispert did not play in Friday's (Dec. 13) game against the Cavaliers."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Out (Ankle) - The Wizards have listed Kispert as Out for Sunday's (Dec. 15) game against the Celtics."
             },
             {
                 "Player": "Kyle Kuzma",
                 "Team": "Washington Wizards",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Ribs) - Kuzma did not play in Friday's (Dec. 13) game against the Cavaliers."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Out (Ribs) - The Wizards have listed Kuzma as Out for Sunday's (Dec. 15) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -116,20 +116,20 @@
                 "FGA": "9",
                 "FG%": "25",
                 "3P": "28",
-                "3PA": "18",
+                "3PA": "19",
                 "3P%": "29",
                 "2P": "13",
                 "2PA": "7",
                 "2P%": "22",
                 "FT": "21",
                 "FTA": "21",
-                "FT%": "16",
+                "FT%": "15",
                 "ORB": "20",
                 "DRB": "21",
                 "TRB": "21",
                 "AST": "23",
                 "STL": "18",
-                "BLK": "6",
+                "BLK": "7",
                 "TOV": "24",
                 "PF": "28",
                 "PTS": "26"
@@ -223,7 +223,7 @@
                 "2P%": "24",
                 "FT": "29",
                 "FTA": "29",
-                "FT%": "11",
+                "FT%": "12",
                 "ORB": "29",
                 "DRB": "29",
                 "TRB": "30",
@@ -265,8 +265,8 @@
                 "PW": "3",
                 "PL": "20",
                 "MOV": "-15.91",
-                "SOS": "2.95",
-                "SRS": "-12.96",
+                "SOS": "2.90",
+                "SRS": "-13.01",
                 "ORtg": "104.7",
                 "DRtg": "120.2",
                 "Pace": "102.7",
@@ -303,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/WAS-2025.png",
-        "last_update": "Dec 14 2024 22:32:12"
+        "last_update": "Dec 15 2024 22:32:16"
     }
 }

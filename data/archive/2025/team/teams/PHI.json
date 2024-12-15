@@ -30,26 +30,32 @@
             {
                 "Player": "Adem Bona",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Dec 13, 2024",
+                "Update": "Sat, Dec 14, 2024",
                 "Description": "Day To Day (Knee) - Bona did not play in Friday's (Dec. 13) game against the Pacers."
             },
             {
                 "Player": "Joel Embiid",
                 "Team": "Philadelphia 76ers",
                 "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Face) - Embiid suffered a sinus fracture in Friday's (Dec. 13) game against the Pacers, Shams Charania of ESPN reports. There is no clear timetable yet for his return."
+                "Description": "Day To Day (Face) - Embiid suffered a sinus fracture in Friday's (Dec. 13) game against the Pacers and did not return, per Shams Charania of ESPN."
             },
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Dec 13, 2024",
+                "Update": "Sat, Dec 14, 2024",
                 "Description": "Day To Day (Back) - Lowry did not play in Friday's (Dec. 13) game against the Pacers."
             },
             {
                 "Player": "Caleb Martin",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Dec 13, 2024",
+                "Update": "Sat, Dec 14, 2024",
                 "Description": "Day To Day (Shoulder) - Martin did not play in Friday's (Dec. 13) game against the Pacers."
+            },
+            {
+                "Player": "Jared McCain",
+                "Team": "Philadelphia 76ers",
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Out (Meniscus) - McCain has suffered a torn lateral meniscus in his left knee. He will undergo surgery and is out indefinitely."
             }
         ],
         "team_stats": {
@@ -110,14 +116,14 @@
                 "FGA": "24",
                 "FG%": "26",
                 "3P": "27",
-                "3PA": "22",
-                "3P%": "28",
+                "3PA": "21",
+                "3P%": "27",
                 "2P": "22",
                 "2PA": "18",
                 "2P%": "25",
                 "FT": "12",
                 "FTA": "7",
-                "FT%": "24",
+                "FT%": "23",
                 "ORB": "15",
                 "DRB": "30",
                 "TRB": "28",
@@ -217,7 +223,7 @@
                 "2P%": "27",
                 "FT": "23",
                 "FTA": "16",
-                "FT%": "29",
+                "FT%": "30",
                 "ORB": "4",
                 "DRB": "25",
                 "TRB": "15",
@@ -259,8 +265,8 @@
                 "PW": "8",
                 "PL": "15",
                 "MOV": "-5.30",
-                "SOS": "0.37",
-                "SRS": "-4.93",
+                "SOS": "0.34",
+                "SRS": "-4.97",
                 "ORtg": "107.8",
                 "DRtg": "113.3",
                 "Pace": "96.3",
@@ -278,25 +284,25 @@
                 "W": "25",
                 "L": "7",
                 "PW": "26",
-                "PL": "19",
+                "PL": "18",
                 "MOV": "25",
                 "SOS": "13",
                 "SRS": "26",
                 "ORtg": "27",
-                "DRtg": "12",
+                "DRtg": "13",
                 "Pace": "30",
                 "FTr": "5",
                 "3PAr": "17",
                 "eFG%": "22",
                 "TOV%": "3",
                 "ORB%": "17",
-                "FT/FGA": "26",
+                "FT/FGA": "27",
                 "DRB%": "17",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/PHI-2025.png",
-        "last_update": "Dec 14 2024 22:32:12"
+        "last_update": "Dec 15 2024 22:32:16"
     }
 }

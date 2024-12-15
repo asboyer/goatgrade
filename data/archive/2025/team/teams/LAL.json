@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Day To Day (Foot) - The Lakers have listed Davis as Probable for Sunday's (Dec. 15) game against the Grizzlies."
+            },
+            {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
                 "Update": "Sat, Nov 30, 2024",
@@ -37,14 +43,14 @@
             {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Friday's (Dec. 13) game against the Timberwolves."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Out (Hamstring) - The Lakers have listed Hood-Schifino as Out for Sunday's (Dec. 15) game against the Grizzlies."
             },
             {
                 "Player": "LeBron James",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Foot) - James did not play in Friday's (Dec. 13) game against the Timberwolves."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Day To Day (Foot) - The Lakers have listed James as Questionable for Sunday's (Dec. 15) game against the Grizzlies."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -120,7 +126,7 @@
                 "3PA": "27",
                 "3P%": "20",
                 "2P": "12",
-                "2PA": "13",
+                "2PA": "12",
                 "2P%": "13",
                 "FT": "6",
                 "FTA": "9",
@@ -225,14 +231,14 @@
                 "FT": "4",
                 "FTA": "4",
                 "FT%": "22",
-                "ORB": "18",
-                "DRB": "21",
+                "ORB": "19",
+                "DRB": "19",
                 "TRB": "21",
                 "AST": "27",
                 "STL": "11",
-                "BLK": "4",
+                "BLK": "3",
                 "TOV": "18",
-                "PF": "4",
+                "PF": "5",
                 "PTS": "21"
             },
             "Opp Year/Year": {
@@ -266,8 +272,8 @@
                 "PW": "10",
                 "PL": "15",
                 "MOV": "-3.88",
-                "SOS": "-0.21",
-                "SRS": "-4.09",
+                "SOS": "-0.22",
+                "SRS": "-4.10",
                 "ORtg": "112.9",
                 "DRtg": "116.8",
                 "Pace": "98.0",
@@ -282,12 +288,12 @@
                 "Attendance": "208,455"
             },
             "Misc Lg Rank": {
-                "W": "12",
-                "L": "13",
+                "W": "13",
+                "L": "14",
                 "PW": "22",
-                "PL": "21",
+                "PL": "20",
                 "MOV": "22",
-                "SOS": "17",
+                "SOS": "18",
                 "SRS": "23",
                 "ORtg": "16",
                 "DRtg": "24",
@@ -304,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAL-2025.png",
-        "last_update": "Dec 14 2024 22:32:12"
+        "last_update": "Dec 15 2024 22:32:16"
     }
 }

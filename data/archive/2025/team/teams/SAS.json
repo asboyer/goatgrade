@@ -31,26 +31,26 @@
             {
                 "Player": "Stephon Castle",
                 "Team": "San Antonio Spurs",
-                "Update": "Thu, Dec 12, 2024",
-                "Description": "Day To Day (Shoulder) - Castle did not play in Friday's (Dec. 13) game against the Trail Blazers."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Day To Day (Shoulder) - The Spurs have listed Castle as Questionable for Sunday's (Dec. 15) game against Timberwolves."
             },
             {
                 "Player": "Zach Collins",
                 "Team": "San Antonio Spurs",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Back) - Collins did not play in Friday's (Dec. 13) game against the Trail Blazers."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Day To Day (Back) - The Spurs have listed Collins as Doubtful for Sunday's (Dec. 15) game against the Timberwolves."
             },
             {
                 "Player": "Keldon Johnson",
                 "Team": "San Antonio Spurs",
-                "Update": "Fri, Dec 13, 2024",
+                "Update": "Sat, Dec 14, 2024",
                 "Description": "Day To Day (Calf) - Johnson did not play in Friday's (Dec. 13) game against the Trail Blazers."
             },
             {
                 "Player": "Tre Jones",
                 "Team": "San Antonio Spurs",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Out (Shoulder) - Spurs interim coach Mitch Johnson said on Thursday (Dec. 5) that he expects Jones to miss at least a few weeks, per Dusty Garza of News 4 San Antonio."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Day To Day (Shoulder) - The Spurs have listed Jones as Questionable for Sunday's (Dec. 15) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "19",
                 "FG": "21",
                 "FGA": "20",
                 "FG%": "21",
@@ -116,7 +116,7 @@
                 "2P": "23",
                 "2PA": "24",
                 "2P%": "15",
-                "FT": "11",
+                "FT": "10",
                 "FTA": "12",
                 "FT%": "9",
                 "ORB": "11",
@@ -206,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "19",
                 "FG": "22",
                 "FGA": "23",
                 "FG%": "18",
@@ -260,8 +260,8 @@
                 "PW": "11",
                 "PL": "14",
                 "MOV": "-1.56",
-                "SOS": "-0.35",
-                "SRS": "-1.91",
+                "SOS": "-0.38",
+                "SRS": "-1.94",
                 "ORtg": "113.3",
                 "DRtg": "114.8",
                 "Pace": "98.6",
@@ -276,12 +276,12 @@
                 "Attendance": "265,723"
             },
             "Misc Lg Rank": {
-                "W": "12",
-                "L": "13",
-                "PW": "17",
+                "W": "13",
+                "L": "14",
+                "PW": "18",
                 "PL": "17",
                 "MOV": "17",
-                "SOS": "19",
+                "SOS": "20",
                 "SRS": "17",
                 "ORtg": "14",
                 "DRtg": "19",
@@ -298,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/SAS-2025.png",
-        "last_update": "Dec 14 2024 22:32:12"
+        "last_update": "Dec 15 2024 22:32:16"
     }
 }

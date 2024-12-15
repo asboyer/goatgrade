@@ -36,14 +36,14 @@
             {
                 "Player": "Javonte Green",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Ankle) - Green did not play in Thursday's (Dec. 12) game against the Kings."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Day To Day (Ankle) - The Pelicans have listed Green as Questionable for Sunday's (Dec. 15) game against the Pacers."
             },
             {
                 "Player": "Jordan Hawkins",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Back) - Hawkins did not play in Thursday's (Dec. 12) game against the Kings."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Out (Back) - The Pelicans have listed Hawkins as Out for Sunday's (Dec. 15) game against the Pacers."
             },
             {
                 "Player": "Brandon Ingram",
@@ -54,14 +54,14 @@
             {
                 "Player": "Karlo Matković",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Back) - Matkovic did not play in Thursday's (Dec. 12) game against the Kings."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Out (Back) - The Pelicans have listed as Out for Sunday's (Dec. 15) game against the Pacers."
             },
             {
                 "Player": "Jeremiah Robinson-Earl",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Illness) - Robinson-Earl did not play in Thursday's (Dec. 12) game against the Kings."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Out (Illness) - The Pelicans have listed Robinson-Earl as Out for Sunday's (Dec. 15) game against the Pacers."
             },
             {
                 "Player": "Zion Williamson",
@@ -123,10 +123,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "25",
                 "FGA": "13",
-                "FG%": "28",
+                "FG%": "27",
                 "3P": "30",
                 "3PA": "28",
                 "3P%": "26",
@@ -223,7 +223,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "27",
                 "FGA": "21",
                 "FG%": "28",
@@ -237,7 +237,7 @@
                 "FTA": "5",
                 "FT%": "20",
                 "ORB": "24",
-                "DRB": "23",
+                "DRB": "22",
                 "TRB": "27",
                 "AST": "26",
                 "STL": "22",
@@ -278,7 +278,7 @@
                 "PL": "21",
                 "MOV": "-11.35",
                 "SOS": "0.95",
-                "SRS": "-10.39",
+                "SRS": "-10.40",
                 "ORtg": "107.0",
                 "DRtg": "118.6",
                 "Pace": "98.2",
@@ -311,10 +311,10 @@
                 "FT/FGA": "6",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NOP-2025.png",
-        "last_update": "Dec 14 2024 22:32:12"
+        "last_update": "Dec 15 2024 22:32:16"
     }
 }

@@ -31,14 +31,26 @@
             {
                 "Player": "Zach Edey",
                 "Team": "Memphis Grizzlies",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Ankle) - Edey did not play in Friday's (Dec. 13) game against the Nets."
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Day To Day (Ankle) - The Grizzlies have listed Edey as Questionable for Sunday's (Dec. 15) game against the Lakers."
+            },
+            {
+                "Player": "Jay Huff",
+                "Team": "Memphis Grizzlies",
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Day To Day (Knee) - The Grizzlies have listed Huff as Questionable for Sunday's (Dec. 15) game against the Lakers."
             },
             {
                 "Player": "GG Jackson II",
                 "Team": "Memphis Grizzlies",
                 "Update": "Thu, Dec 5, 2024",
                 "Description": "Out (Foot ) - The Grizzlies announced Jackson continues to progress well from offseason foot surgery and is expected to return to play in 6-8 weeks."
+            },
+            {
+                "Player": "Marcus Smart",
+                "Team": "Memphis Grizzlies",
+                "Update": "Sat, Dec 14, 2024",
+                "Description": "Day To Day (Knee) - The Grizzlies have listed Smart as Questionable for Sunday's (Dec. 15) game against the Lakers."
             },
             {
                 "Player": "Vince Williams Jr.",
@@ -100,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "1",
                 "FGA": "4",
                 "FG%": "4",
@@ -200,19 +212,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "11",
                 "FGA": "28",
                 "FG%": "4",
-                "3P": "16",
+                "3P": "17",
                 "3PA": "29",
-                "3P%": "2",
+                "3P%": "3",
                 "2P": "11",
                 "2PA": "18",
                 "2P%": "6",
                 "FT": "27",
                 "FTA": "27",
-                "FT%": "4",
+                "FT%": "3",
                 "ORB": "26",
                 "DRB": "7",
                 "TRB": "20",
@@ -254,8 +266,8 @@
                 "PW": "19",
                 "PL": "7",
                 "MOV": "9.00",
-                "SOS": "-2.25",
-                "SRS": "6.75",
+                "SOS": "-2.28",
+                "SRS": "6.72",
                 "ORtg": "117.1",
                 "DRtg": "108.5",
                 "Pace": "104.7",
@@ -271,7 +283,7 @@
             },
             "Misc Lg Rank": {
                 "W": "4",
-                "L": "26",
+                "L": "27",
                 "PW": "3",
                 "PL": "4",
                 "MOV": "4",
@@ -284,14 +296,14 @@
                 "3PAr": "18",
                 "eFG%": "4",
                 "TOV%": "12",
-                "ORB%": "7",
+                "ORB%": "6",
                 "FT/FGA": "21",
                 "DRB%": "22",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MEM-2025.png",
-        "last_update": "Dec 14 2024 22:32:12"
+        "last_update": "Dec 15 2024 22:32:16"
     }
 }

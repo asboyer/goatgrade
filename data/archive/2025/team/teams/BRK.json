@@ -40,6 +40,12 @@
                 "Description": "Out For Season (ACL) - The Nets listed Cui as Out for the Season due to a torn ACL on his left knee."
             },
             {
+                "Player": "De'Anthony Melton",
+                "Team": "Brooklyn Nets",
+                "Update": "Wed, Nov 20, 2024",
+                "Description": "Out For Season (ACL) - Melton will undergo season-ending surgery on his left ACL, the team announced Wednesday (Nov. 20)."
+            },
+            {
                 "Player": "Cam Thomas",
                 "Team": "Brooklyn Nets",
                 "Update": "Wed, Nov 27, 2024",
@@ -48,7 +54,7 @@
             {
                 "Player": "Ziaire Williams",
                 "Team": "Brooklyn Nets",
-                "Update": "Fri, Dec 13, 2024",
+                "Update": "Sat, Dec 14, 2024",
                 "Description": "Day To Day (Knee) - Williams did not play in Friday's (Dec. 13) game against the Grizzlies."
             }
         ],
@@ -117,11 +123,11 @@
                 "2P%": "21",
                 "FT": "15",
                 "FTA": "19",
-                "FT%": "2",
+                "FT%": "3",
                 "ORB": "29",
                 "DRB": "29",
                 "TRB": "30",
-                "AST": "16",
+                "AST": "15",
                 "STL": "28",
                 "BLK": "29",
                 "TOV": "14",
@@ -219,11 +225,11 @@
                 "FTA": "28",
                 "FT%": "16",
                 "ORB": "3",
-                "DRB": "19",
+                "DRB": "18",
                 "TRB": "8",
                 "AST": "22",
                 "STL": "12",
-                "BLK": "27",
+                "BLK": "28",
                 "TOV": "16",
                 "PF": "11",
                 "PTS": "20"
@@ -259,8 +265,8 @@
                 "PW": "9",
                 "PL": "16",
                 "MOV": "-4.24",
-                "SOS": "1.56",
-                "SRS": "-2.68",
+                "SOS": "1.54",
+                "SRS": "-2.70",
                 "ORtg": "113.0",
                 "DRtg": "117.3",
                 "Pace": "97.0",
@@ -297,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/BRK-2025.png",
-        "last_update": "Dec 14 2024 22:32:12"
+        "last_update": "Dec 15 2024 22:32:16"
     }
 }
