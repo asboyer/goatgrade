@@ -30,26 +30,20 @@
             {
                 "Player": "Adem Bona",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Day To Day (Knee) - Bona did not play in Friday's (Dec. 13) game against the Pacers."
+                "Update": "Sun, Dec 15, 2024",
+                "Description": "Out (Knee) - Bona is OUT for Monday's (Dec. 16) game against Charlotte."
             },
             {
                 "Player": "Joel Embiid",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Dec 13, 2024",
-                "Description": "Day To Day (Face) - Embiid suffered a sinus fracture in Friday's (Dec. 13) game against the Pacers and did not return, per Shams Charania of ESPN."
-            },
-            {
-                "Player": "Kyle Lowry",
-                "Team": "Philadelphia 76ers",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Day To Day (Back) - Lowry did not play in Friday's (Dec. 13) game against the Pacers."
+                "Update": "Sun, Dec 15, 2024",
+                "Description": "Out (Face) - Embiid is OUT for Monday's (Dec. 16) game against Charlotte."
             },
             {
                 "Player": "Caleb Martin",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Day To Day (Shoulder) - Martin did not play in Friday's (Dec. 13) game against the Pacers."
+                "Update": "Sun, Dec 15, 2024",
+                "Description": "Out (Shoulder) - Martin is OUT for Monday's (Dec. 16) game against Charlotte."
             },
             {
                 "Player": "Jared McCain",
@@ -111,26 +105,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "30",
                 "FGA": "24",
-                "FG%": "26",
+                "FG%": "25",
                 "3P": "27",
-                "3PA": "21",
+                "3PA": "22",
                 "3P%": "27",
                 "2P": "22",
                 "2PA": "18",
-                "2P%": "25",
-                "FT": "12",
-                "FTA": "7",
-                "FT%": "23",
+                "2P%": "24",
+                "FT": "11",
+                "FTA": "8",
+                "FT%": "22",
                 "ORB": "15",
                 "DRB": "30",
                 "TRB": "28",
                 "AST": "30",
                 "STL": "6",
                 "BLK": "28",
-                "TOV": "12",
+                "TOV": "13",
                 "PF": "24",
                 "PTS": "29"
             },
@@ -211,28 +205,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "7",
                 "FGA": "2",
                 "FG%": "23",
-                "3P": "9",
+                "3P": "7",
                 "3PA": "6",
-                "3P%": "10",
+                "3P%": "9",
                 "2P": "8",
                 "2PA": "1",
                 "2P%": "27",
                 "FT": "23",
-                "FTA": "16",
+                "FTA": "15",
                 "FT%": "30",
                 "ORB": "4",
                 "DRB": "25",
                 "TRB": "15",
                 "AST": "17",
                 "STL": "9",
-                "BLK": "21",
+                "BLK": "20",
                 "TOV": "2",
-                "PF": "8",
-                "PTS": "9"
+                "PF": "9",
+                "PTS": "10"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -265,7 +259,7 @@
                 "PW": "8",
                 "PL": "15",
                 "MOV": "-5.30",
-                "SOS": "0.34",
+                "SOS": "0.33",
                 "SRS": "-4.97",
                 "ORtg": "107.8",
                 "DRtg": "113.3",
@@ -291,7 +285,7 @@
                 "ORtg": "27",
                 "DRtg": "13",
                 "Pace": "30",
-                "FTr": "5",
+                "FTr": "6",
                 "3PAr": "17",
                 "eFG%": "22",
                 "TOV%": "3",
@@ -303,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/PHI-2025.png",
-        "last_update": "Dec 15 2024 22:32:16"
+        "last_update": "Dec 16 2024 22:32:18"
     }
 }

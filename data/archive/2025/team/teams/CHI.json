@@ -29,16 +29,34 @@
         ],
         "injuries": [
             {
-                "Player": "Torrey Craig",
+                "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Day To Day (Illness) - Craig did not play in Friday's (Dec. 13) game against the Hornets."
+                "Update": "Sun, Dec 15, 2024",
+                "Description": "Day To Day (Knee) - Ball is probable for Monday's (Dec. 16) game against Toronto."
+            },
+            {
+                "Player": "Zach LaVine",
+                "Team": "Chicago Bulls",
+                "Update": "Sun, Dec 15, 2024",
+                "Description": "Day To Day (Leg) - LaVine is questionable for Monday's (Dec. 16) game against Toronto."
+            },
+            {
+                "Player": "E.J. Liddell",
+                "Team": "Chicago Bulls",
+                "Update": "Sun, Dec 15, 2024",
+                "Description": "Out (Leg) - Liddell is OUT for Monday's (Dec. 16) game against Toronto."
+            },
+            {
+                "Player": "Dalen Terry",
+                "Team": "Chicago Bulls",
+                "Update": "Sun, Dec 15, 2024",
+                "Description": "Day To Day (Knee) - Terry is questionable for Monday's (Dec. 16) game against Toronto."
             },
             {
                 "Player": "Nikola Vučević",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Day To Day (Illness) - Vucevic did not play in Friday's (Dec. 13) game against the Hornets."
+                "Update": "Sun, Dec 15, 2024",
+                "Description": "Day To Day (Illness) - Vucevic is probable for Monday's (Dec. 16) game against Toronto."
             }
         ],
         "team_stats": {
@@ -94,28 +112,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
-                "FG": "6",
+                "MP": "14",
+                "FG": "5",
                 "FGA": "8",
                 "FG%": "9",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "8",
+                "3P%": "9",
                 "2P": "20",
                 "2PA": "25",
                 "2P%": "7",
                 "FT": "27",
                 "FTA": "28",
-                "FT%": "6",
+                "FT%": "5",
                 "ORB": "27",
-                "DRB": "2",
-                "TRB": "11",
-                "AST": "4",
-                "STL": "24",
-                "BLK": "19",
+                "DRB": "1",
+                "TRB": "12",
+                "AST": "5",
+                "STL": "25",
+                "BLK": "18",
                 "TOV": "20",
-                "PF": "8",
-                "PTS": "5"
+                "PF": "9",
+                "PTS": "6"
             },
             "Year/Year": {
                 "G": "",
@@ -194,21 +212,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "14",
                 "FG": "30",
                 "FGA": "30",
-                "FG%": "24",
+                "FG%": "27",
                 "3P": "11",
-                "3PA": "25",
+                "3PA": "24",
                 "3P%": "6",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "30",
-                "FT": "14",
+                "FT": "16",
                 "FTA": "17",
-                "FT%": "10",
-                "ORB": "11",
-                "DRB": "30",
+                "FT%": "11",
+                "ORB": "10",
+                "DRB": "29",
                 "TRB": "28",
                 "AST": "29",
                 "STL": "18",
@@ -248,8 +266,8 @@
                 "PW": "11",
                 "PL": "15",
                 "MOV": "-3.19",
-                "SOS": "0.59",
-                "SRS": "-2.60",
+                "SOS": "0.55",
+                "SRS": "-2.64",
                 "ORtg": "113.8",
                 "DRtg": "116.9",
                 "Pace": "104.3",
@@ -264,11 +282,11 @@
                 "Attendance": "256,688"
             },
             "Misc Lg Rank": {
-                "W": "20",
+                "W": "21",
                 "L": "9",
-                "PW": "19",
+                "PW": "20",
                 "PL": "19",
-                "MOV": "19",
+                "MOV": "20",
                 "SOS": "12",
                 "SRS": "18",
                 "ORtg": "12",
@@ -280,12 +298,12 @@
                 "TOV%": "29",
                 "ORB%": "29",
                 "FT/FGA": "11",
-                "DRB%": "4",
+                "DRB%": "3",
                 "Arena": "",
                 "Attendance": "3"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CHI-2025.png",
-        "last_update": "Dec 15 2024 22:32:16"
+        "last_update": "Dec 16 2024 22:32:18"
     }
 }
