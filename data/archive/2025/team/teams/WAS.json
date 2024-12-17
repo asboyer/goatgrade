@@ -36,26 +36,26 @@
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Out (Hamstring) - The Wizards have listed Brogdon as Out for Sunday's (Dec. 15) game against the Celtics."
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Day To Day (Hamstring) - Brogdon did not play in Sunday's (Dec. 15) game against the Celtics."
             },
             {
                 "Player": "Kyshawn George",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Out (Ankle) - The Wizards have listed George as Out for Sunday's (Dec. 15) game against the Celtics."
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Day To Day (Ankle) - George did not play in Sunday's (Dec. 15) game against the Celtics."
             },
             {
                 "Player": "Corey Kispert",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Out (Ankle) - The Wizards have listed Kispert as Out for Sunday's (Dec. 15) game against the Celtics."
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Day To Day (Ankle) - Kispert didi not play in Sunday's (Dec. 15) game against the Celtics."
             },
             {
                 "Player": "Kyle Kuzma",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Out (Ribs) - The Wizards have listed Kuzma as Out for Sunday's (Dec. 15) game against the Celtics."
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Day To Day (Ribs) - Kuzma did not play in Sunday's (Dec. 15) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -111,26 +111,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "26",
-                "FG": "19",
+                "MP": "30",
+                "FG": "21",
                 "FGA": "9",
                 "FG%": "26",
                 "3P": "28",
                 "3PA": "18",
                 "3P%": "29",
                 "2P": "13",
-                "2PA": "7",
-                "2P%": "23",
+                "2PA": "8",
+                "2P%": "24",
                 "FT": "25",
-                "FTA": "25",
-                "FT%": "15",
+                "FTA": "26",
+                "FT%": "16",
                 "ORB": "18",
                 "DRB": "21",
                 "TRB": "19",
                 "AST": "23",
                 "STL": "18",
                 "BLK": "6",
-                "TOV": "24",
+                "TOV": "23",
                 "PF": "28",
                 "PTS": "25"
             },
@@ -211,14 +211,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "30",
                 "FG": "28",
                 "FGA": "27",
                 "FG%": "25",
                 "3P": "27",
                 "3PA": "26",
-                "3P%": "25",
-                "2P": "29",
+                "3P%": "23",
+                "2P": "28",
                 "2PA": "23",
                 "2P%": "24",
                 "FT": "29",
@@ -230,7 +230,7 @@
                 "AST": "25",
                 "STL": "24",
                 "BLK": "23",
-                "TOV": "23",
+                "TOV": "22",
                 "PF": "24",
                 "PTS": "30"
             },
@@ -265,8 +265,8 @@
                 "PW": "3",
                 "PL": "21",
                 "MOV": "-15.83",
-                "SOS": "3.08",
-                "SRS": "-12.75",
+                "SOS": "3.21",
+                "SRS": "-12.62",
                 "ORtg": "104.4",
                 "DRtg": "119.8",
                 "Pace": "102.6",
@@ -299,10 +299,10 @@
                 "FT/FGA": "28",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/WAS-2025.png",
-        "last_update": "Dec 16 2024 22:32:18"
+        "last_update": "Dec 17 2024 22:32:12"
     }
 }

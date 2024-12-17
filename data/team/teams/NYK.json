@@ -30,8 +30,8 @@
             {
                 "Player": "Ariel Hukporti",
                 "Team": "New York Knicks",
-                "Update": "Sun, Dec 15, 2024",
-                "Description": "Out (Ankle) - The Knicks have listed Hukporti as out for Sunday's (Dec. 15) game against the Magic."
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Day To Day (Ankle) - Hukporti did n ot play in Sunday's (Dec. 15) game against the Magic."
             },
             {
                 "Player": "Mitchell Robinson",
@@ -93,8 +93,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
-                "FG": "6",
+                "MP": "18",
+                "FG": "7",
                 "FGA": "21",
                 "FG%": "2",
                 "3P": "11",
@@ -103,7 +103,7 @@
                 "2P": "12",
                 "2PA": "17",
                 "2P%": "4",
-                "FT": "22",
+                "FT": "23",
                 "FTA": "27",
                 "FT%": "2",
                 "ORB": "26",
@@ -114,7 +114,7 @@
                 "BLK": "26",
                 "TOV": "4",
                 "PF": "5",
-                "PTS": "7"
+                "PTS": "8"
             },
             "Year/Year": {
                 "G": "",
@@ -193,23 +193,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
-                "FG": "14",
+                "MP": "18",
+                "FG": "13",
                 "FGA": "11",
-                "FG%": "13",
-                "3P": "22",
+                "FG%": "12",
+                "3P": "20",
                 "3PA": "16",
-                "3P%": "17",
-                "2P": "10",
+                "3P%": "16",
+                "2P": "11",
                 "2PA": "10",
                 "2P%": "13",
                 "FT": "5",
                 "FTA": "5",
                 "FT%": "16",
                 "ORB": "12",
-                "DRB": "2",
+                "DRB": "1",
                 "TRB": "2",
-                "AST": "12",
+                "AST": "11",
                 "STL": "1",
                 "BLK": "10",
                 "TOV": "26",
@@ -247,8 +247,8 @@
                 "PW": "18",
                 "PL": "8",
                 "MOV": "6.27",
-                "SOS": "-1.47",
-                "SRS": "4.80",
+                "SOS": "-1.52",
+                "SRS": "4.75",
                 "ORtg": "120.2",
                 "DRtg": "113.7",
                 "Pace": "96.8",
@@ -264,18 +264,18 @@
             },
             "Misc Lg Rank": {
                 "W": "8",
-                "L": "22",
+                "L": "23",
                 "PW": "6",
                 "PL": "6",
                 "MOV": "6",
-                "SOS": "27",
+                "SOS": "28",
                 "SRS": "8",
                 "ORtg": "3",
-                "DRtg": "16",
+                "DRtg": "15",
                 "Pace": "29",
-                "FTr": "24",
+                "FTr": "25",
                 "3PAr": "16",
-                "eFG%": "13",
+                "eFG%": "12",
                 "TOV%": "25",
                 "ORB%": "21",
                 "FT/FGA": "5",
@@ -285,6 +285,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NYK-2025.png",
-        "last_update": "Dec 16 2024 22:32:18"
+        "last_update": "Dec 17 2024 22:32:12"
     }
 }

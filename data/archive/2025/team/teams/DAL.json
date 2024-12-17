@@ -37,20 +37,20 @@
             {
                 "Player": "Jaden Hardy",
                 "Team": "Dallas Mavericks",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Out (Ankle) - The Mavericks have listed Hardy as Out for Sunday's (Dec. 15) game against the Warriors."
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Day To Day (Ankle) - Hardy did not play in Sunday's (Dec. 15) game against the Warriors."
             },
             {
                 "Player": "Maxi Kleber",
                 "Team": "Dallas Mavericks",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Out (Illness) - The Mavericks have listed Kleber as Out for Sunday's (Dec. 15) game against the Warriors."
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Day To Day (Illness) - Kleber did not play in Sunday's (Dec. 15) game against the Warriors."
             },
             {
                 "Player": "Naji Marshall",
                 "Team": "Dallas Mavericks",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Out (Illness) - The Mavericks have listed Marshall as Out for Sunday's (Dec. 15) game against the Warriors."
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Day To Day (Illness) - Marshall did not play in Sunday's (Dec. 15) game against the Warriors."
             },
             {
                 "Player": "P.J. Washington",
@@ -61,8 +61,8 @@
             {
                 "Player": "Brandon Williams",
                 "Team": "Dallas Mavericks",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Out (Thumb) - The Mavericks have listed Williams as Out for Sunday's (Dec. 15) game against the Warriors."
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Day To Day (Thumb) - Williams did not play in Sunday's (Dec. 15) game against the Warriors."
             }
         ],
         "team_stats": {
@@ -118,24 +118,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "16",
                 "FG": "4",
-                "FGA": "13",
+                "FGA": "15",
                 "FG%": "4",
                 "3P": "14",
                 "3PA": "21",
-                "3P%": "7",
+                "3P%": "6",
                 "2P": "6",
                 "2PA": "10",
                 "2P%": "6",
-                "FT": "7",
+                "FT": "8",
                 "FTA": "5",
-                "FT%": "23",
+                "FT%": "22",
                 "ORB": "10",
                 "DRB": "6",
                 "TRB": "6",
                 "AST": "14",
-                "STL": "15",
+                "STL": "16",
                 "BLK": "10",
                 "TOV": "11",
                 "PF": "16",
@@ -218,11 +218,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "16",
                 "FG": "16",
-                "FGA": "24",
+                "FGA": "25",
                 "FG%": "5",
-                "3P": "12",
+                "3P": "11",
                 "3PA": "15",
                 "3P%": "11",
                 "2P": "18",
@@ -230,16 +230,16 @@
                 "2P%": "5",
                 "FT": "14",
                 "FTA": "16",
-                "FT%": "6",
+                "FT%": "7",
                 "ORB": "28",
                 "DRB": "3",
-                "TRB": "11",
+                "TRB": "12",
                 "AST": "22",
                 "STL": "17",
                 "BLK": "6",
                 "TOV": "20",
                 "PF": "15",
-                "PTS": "14"
+                "PTS": "13"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -272,8 +272,8 @@
                 "PW": "18",
                 "PL": "8",
                 "MOV": "6.92",
-                "SOS": "-0.26",
-                "SRS": "6.66",
+                "SOS": "-0.38",
+                "SRS": "6.55",
                 "ORtg": "119.4",
                 "DRtg": "112.4",
                 "Pace": "99.7",
@@ -293,7 +293,7 @@
                 "PW": "5",
                 "PL": "5",
                 "MOV": "5",
-                "SOS": "19",
+                "SOS": "21",
                 "SRS": "5",
                 "ORtg": "4",
                 "DRtg": "11",
@@ -301,15 +301,15 @@
                 "FTr": "8",
                 "3PAr": "19",
                 "eFG%": "6",
-                "TOV%": "21",
+                "TOV%": "20",
                 "ORB%": "10",
                 "FT/FGA": "12",
-                "DRB%": "24",
+                "DRB%": "25",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DAL-2025.png",
-        "last_update": "Dec 16 2024 22:32:18"
+        "last_update": "Dec 17 2024 22:32:12"
     }
 }

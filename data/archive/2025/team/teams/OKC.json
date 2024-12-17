@@ -40,6 +40,12 @@
                 "Description": "Out (Back) - The Thunder have listed Ducas as Out for Saturday's (Dec. 14) NBA Cup Semifinal against the Rockets and the Thunder does not have a clear timetable for his return."
             },
             {
+                "Player": "Alex Ducas",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Out (Back) - Ducas (back) has been ruled out for Tuesday's NBA Cup Championship game against the Bucks, Rylan Stiles of FanSided.com reports."
+            },
+            {
                 "Player": "Adam Flagler",
                 "Team": "Oklahoma City Thunder",
                 "Update": "Mon, Dec 9, 2024",
@@ -60,8 +66,8 @@
             {
                 "Player": "Jaylin Williams",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Day To Day (Hamstring) - Williams did not play in Saturday's (Dec. 14) NBA Cup Semifinals against the Rockets."
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Out (Hamstring) - Williams is OUT for Tuesday's (Dec. 17) game against Milwaukee."
             }
         ],
         "team_stats": {
@@ -120,14 +126,14 @@
                 "MP": "25",
                 "FG": "8",
                 "FGA": "3",
-                "FG%": "12",
+                "FG%": "13",
                 "3P": "12",
                 "3PA": "9",
                 "3P%": "19",
-                "2P": "10",
+                "2P": "9",
                 "2PA": "12",
                 "2P%": "12",
-                "FT": "26",
+                "FT": "27",
                 "FTA": "29",
                 "FT%": "1",
                 "ORB": "19",
@@ -222,7 +228,7 @@
                 "FGA": "5",
                 "FG%": "1",
                 "3P": "5",
-                "3PA": "19",
+                "3PA": "20",
                 "3P%": "1",
                 "2P": "1",
                 "2PA": "3",
@@ -235,7 +241,7 @@
                 "TRB": "29",
                 "AST": "4",
                 "STL": "4",
-                "BLK": "13",
+                "BLK": "14",
                 "TOV": "1",
                 "PF": "25",
                 "PTS": "1"
@@ -271,8 +277,8 @@
                 "PW": "21",
                 "PL": "4",
                 "MOV": "12.12",
-                "SOS": "-0.18",
-                "SRS": "11.94",
+                "SOS": "-0.13",
+                "SRS": "11.99",
                 "ORtg": "115.8",
                 "DRtg": "103.7",
                 "Pace": "99.8",
@@ -289,10 +295,10 @@
             "Misc Lg Rank": {
                 "W": "3",
                 "L": "28",
-                "PW": "1",
+                "PW": "2",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "18",
+                "SOS": "16",
                 "SRS": "1",
                 "ORtg": "9",
                 "DRtg": "1",
@@ -302,13 +308,13 @@
                 "eFG%": "1",
                 "TOV%": "1",
                 "ORB%": "20",
-                "FT/FGA": "26",
+                "FT/FGA": "27",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/OKC-2025.png",
-        "last_update": "Dec 16 2024 22:32:18"
+        "last_update": "Dec 17 2024 22:32:12"
     }
 }

@@ -36,8 +36,8 @@
             {
                 "Player": "Jordan Hawkins",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Out (Back) - The Pelicans have listed Hawkins as Out for Sunday's (Dec. 15) game against the Pacers."
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Day To Day (Back) - Hawkins did not play in Sunday's (Dec. 15) game against the Pacers."
             },
             {
                 "Player": "Brandon Ingram",
@@ -48,14 +48,14 @@
             {
                 "Player": "Karlo Matković",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Out (Back) - The Pelicans have listed as Out for Sunday's (Dec. 15) game against the Pacers."
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Day To Day (Back) - Matkovic did not play in Sunday's (Dec. 15) game against the Pacers."
             },
             {
                 "Player": "Jeremiah Robinson-Earl",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Out (Illness) - The Pelicans have listed Robinson-Earl as Out for Sunday's (Dec. 15) game against the Pacers."
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Day To Day (Illness) - Robinson-Earl did not play in Sunday's (Dec. 15) game against the Pacers."
             },
             {
                 "Player": "Zion Williamson",
@@ -117,9 +117,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "8",
                 "FG": "25",
-                "FGA": "12",
+                "FGA": "14",
                 "FG%": "29",
                 "3P": "30",
                 "3PA": "28",
@@ -128,7 +128,7 @@
                 "2PA": "5",
                 "2P%": "29",
                 "FT": "24",
-                "FTA": "21",
+                "FTA": "22",
                 "FT%": "26",
                 "ORB": "5",
                 "DRB": "27",
@@ -217,25 +217,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "27",
+                "MP": "8",
+                "FG": "26",
                 "FGA": "21",
-                "FG%": "29",
-                "3P": "25",
-                "3PA": "23",
-                "3P%": "24",
+                "FG%": "28",
+                "3P": "26",
+                "3PA": "24",
+                "3P%": "22",
                 "2P": "25",
-                "2PA": "16",
+                "2PA": "15",
                 "2P%": "26",
                 "FT": "7",
                 "FTA": "7",
                 "FT%": "21",
                 "ORB": "24",
-                "DRB": "22",
+                "DRB": "23",
                 "TRB": "27",
                 "AST": "27",
                 "STL": "22",
-                "BLK": "22",
+                "BLK": "21",
                 "TOV": "18",
                 "PF": "28",
                 "PTS": "24"
@@ -271,8 +271,8 @@
                 "PW": "5",
                 "PL": "22",
                 "MOV": "-11.48",
-                "SOS": "0.74",
-                "SRS": "-10.74",
+                "SOS": "0.77",
+                "SRS": "-10.71",
                 "ORtg": "106.9",
                 "DRtg": "118.5",
                 "Pace": "98.3",
@@ -296,19 +296,19 @@
                 "SRS": "29",
                 "ORtg": "29",
                 "DRtg": "28",
-                "Pace": "19",
+                "Pace": "20",
                 "FTr": "23",
                 "3PAr": "28",
                 "eFG%": "28",
-                "TOV%": "19",
+                "TOV%": "18",
                 "ORB%": "9",
                 "FT/FGA": "6",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NOP-2025.png",
-        "last_update": "Dec 16 2024 22:32:18"
+        "last_update": "Dec 17 2024 22:32:12"
     }
 }

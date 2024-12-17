@@ -37,8 +37,8 @@
             {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Out (Hamstring) - The Lakers have listed Hood-Schifino as Out for Sunday's (Dec. 15) game against the Grizzlies."
+                "Update": "Mon, Dec 16, 2024",
+                "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Sunday's (Dec. 15) game against the Grizzlies."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "16",
                 "FG": "17",
                 "FGA": "22",
                 "FG%": "11",
@@ -116,15 +116,15 @@
                 "2P": "11",
                 "2PA": "13",
                 "2P%": "13",
-                "FT": "3",
+                "FT": "4",
                 "FTA": "4",
-                "FT%": "14",
+                "FT%": "15",
                 "ORB": "25",
                 "DRB": "24",
                 "TRB": "27",
                 "AST": "13",
                 "STL": "19",
-                "BLK": "19",
+                "BLK": "20",
                 "TOV": "8",
                 "PF": "4",
                 "PTS": "18"
@@ -206,13 +206,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "16",
                 "FG": "25",
                 "FGA": "19",
                 "FG%": "24",
-                "3P": "21",
+                "3P": "19",
                 "3PA": "10",
-                "3P%": "21",
+                "3P%": "20",
                 "2P": "24",
                 "2PA": "24",
                 "2P%": "21",
@@ -223,11 +223,11 @@
                 "DRB": "19",
                 "TRB": "23",
                 "AST": "26",
-                "STL": "13",
+                "STL": "11",
                 "BLK": "1",
                 "TOV": "17",
                 "PF": "4",
-                "PTS": "21"
+                "PTS": "20"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -260,8 +260,8 @@
                 "PW": "10",
                 "PL": "16",
                 "MOV": "-3.50",
-                "SOS": "0.01",
-                "SRS": "-3.49",
+                "SOS": "-0.02",
+                "SRS": "-3.52",
                 "ORtg": "112.6",
                 "DRtg": "116.1",
                 "Pace": "98.5",
@@ -276,28 +276,28 @@
                 "Attendance": "223,561"
             },
             "Misc Lg Rank": {
-                "W": "9",
+                "W": "10",
                 "L": "15",
                 "PW": "22",
-                "PL": "23",
+                "PL": "20",
                 "MOV": "22",
                 "SOS": "15",
                 "SRS": "22",
-                "ORtg": "16",
+                "ORtg": "15",
                 "DRtg": "21",
                 "Pace": "18",
                 "FTr": "2",
                 "3PAr": "24",
-                "eFG%": "23",
-                "TOV%": "16",
+                "eFG%": "22",
+                "TOV%": "17",
                 "ORB%": "26",
                 "FT/FGA": "8",
                 "DRB%": "26",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAL-2025.png",
-        "last_update": "Dec 16 2024 22:32:18"
+        "last_update": "Dec 17 2024 22:32:12"
     }
 }
