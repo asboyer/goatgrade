@@ -28,28 +28,10 @@
         ],
         "injuries": [
             {
-                "Player": "Giannis Antetokounmpo",
-                "Team": "Milwaukee Bucks",
-                "Update": "Mon, Dec 16, 2024",
-                "Description": "Day To Day (Patella) - Antetokounmpo is probable for Tuesday's (Dec. 17) against Oklahoma City."
-            },
-            {
-                "Player": "Damian Lillard",
-                "Team": "Milwaukee Bucks",
-                "Update": "Mon, Dec 16, 2024",
-                "Description": "Unknown (Calf) - Lillard is probable for Tuesday's (Dec. 17) against Oklahoma City."
-            },
-            {
                 "Player": "Khris Middleton",
                 "Team": "Milwaukee Bucks",
-                "Update": "Mon, Dec 16, 2024",
-                "Description": "Day To Day (Illness) - Middleton is probable for Tuesday's (Dec. 17) against Oklahoma City."
-            },
-            {
-                "Player": "Liam Robbins",
-                "Team": "Milwaukee Bucks",
-                "Update": "Mon, Dec 16, 2024",
-                "Description": "Day To Day (Ankle) - Robbins is questionable for Tuesday's (Dec. 17) against Oklahoma City."
+                "Update": "Tue, Dec 17, 2024",
+                "Description": "Day To Day (Illness) - Middleton did not play in Tuesday's (Dec. 17) NBA cup finals game against the Thunder."
             }
         ],
         "team_stats": {
@@ -297,6 +279,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MIL-2025.png",
-        "last_update": "Dec 17 2024 22:32:12"
+        "last_update": "Dec 18 2024 22:32:12"
     }
 }

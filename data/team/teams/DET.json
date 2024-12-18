@@ -18,26 +18,26 @@
             "Jalen Duren",
             "Cade Cunningham",
             "Marcus Sasser",
+            "Paul Reed",
             "Wendell Moore Jr.",
             "Ausar Thompson",
             "Daniss Jenkins",
             "Cole Swider",
             "Alondes Williams",
-            "Bobi Klintman",
-            "Javante McCoy"
+            "Bobi Klintman"
         ],
         "injuries": [
             {
                 "Player": "Tobias Harris",
                 "Team": "Detroit Pistons",
-                "Update": "Sun, Dec 15, 2024",
-                "Description": "Out (Hand) - Harris is OUT for Monday's (Dec. 16) game against Miami."
+                "Update": "Tue, Dec 17, 2024",
+                "Description": "Day To Day (Hand) - Harris did not play in Monday's (Dec. 16) game against Miami."
             },
             {
                 "Player": "Jaden Ivey",
                 "Team": "Detroit Pistons",
-                "Update": "Mon, Dec 16, 2024",
-                "Description": "Out (Knee) - Ivey (knee) is a late scratch from Detroit's lineup against Miami on Monday."
+                "Update": "Tue, Dec 17, 2024",
+                "Description": "Day To Day (Knee) - Ivey did not play in Monday's (Dec. 16) game against Miami."
             },
             {
                 "Player": "Bobi Klintman",
@@ -49,7 +49,7 @@
                 "Player": "Isaiah Stewart",
                 "Team": "Detroit Pistons",
                 "Update": "Mon, Dec 16, 2024",
-                "Description": "Day To Day (Knee) - Isaiah Stewart (hyperextended left knee) will not return to Monday's (Dec. 16) game against Miami."
+                "Description": "Day To Day (Knee) - The Pistons said that Stewart will not return to Monday's (Dec. 16) game against Miami due to a hyperextended left knee."
             }
         ],
         "team_stats": {
@@ -297,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DET-2025.png",
-        "last_update": "Dec 17 2024 22:32:12"
+        "last_update": "Dec 18 2024 22:32:12"
     }
 }
