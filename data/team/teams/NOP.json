@@ -36,8 +36,8 @@
             {
                 "Player": "Jordan Hawkins",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Dec 16, 2024",
-                "Description": "Day To Day (Back) - Hawkins did not play in Sunday's (Dec. 15) game against the Pacers."
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Day To Day (Back) - The Pelicans have listed Hawkins as Questionable for Thusrday's (Dec. 19) game against the Rockets."
             },
             {
                 "Player": "Brandon Ingram",
@@ -48,14 +48,20 @@
             {
                 "Player": "Karlo Matković",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Dec 16, 2024",
-                "Description": "Day To Day (Back) - Matkovic did not play in Sunday's (Dec. 15) game against the Pacers."
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Out (Back) - The Pelicans have listed Matkovic as Out for Thursday's (Dec. 19) game against the Rockets."
             },
             {
                 "Player": "Jeremiah Robinson-Earl",
                 "Team": "New Orleans Pelicans",
                 "Update": "Mon, Dec 16, 2024",
                 "Description": "Day To Day (Illness) - Robinson-Earl did not play in Sunday's (Dec. 15) game against the Pacers."
+            },
+            {
+                "Player": "Daniel Theis",
+                "Team": "New Orleans Pelicans",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Out (Personal) - The Pelicans listed Theis as Out for Thursday's (Dec. 19) game against the Rockets."
             },
             {
                 "Player": "Zion Williamson",
@@ -309,6 +315,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NOP-2025.png",
-        "last_update": "Dec 18 2024 22:32:12"
+        "last_update": "Dec 19 2024 22:32:15"
     }
 }

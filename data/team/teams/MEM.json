@@ -29,10 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Jay Huff",
+                "Team": "Memphis Grizzlies",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Out (Ankle) - Huff is OUT for Thrursday's (Dec. 19) game against Golden State."
+            },
+            {
                 "Player": "GG Jackson II",
                 "Team": "Memphis Grizzlies",
                 "Update": "Thu, Dec 5, 2024",
                 "Description": "Out (Foot ) - The Grizzlies announced Jackson continues to progress well from offseason foot surgery and is expected to return to play in 6-8 weeks."
+            },
+            {
+                "Player": "Ja Morant",
+                "Team": "Memphis Grizzlies",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Day To Day (Back) - Morant is questionable for Thrursday's (Dec 19) game against Golden State."
+            },
+            {
+                "Player": "Marcus Smart",
+                "Team": "Memphis Grizzlies",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Day To Day (Shoulder) - Smart is doubtful for Thrursday's (Dec. 19) game against Golden State."
             },
             {
                 "Player": "Vince Williams Jr.",
@@ -286,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MEM-2025.png",
-        "last_update": "Dec 18 2024 22:32:12"
+        "last_update": "Dec 19 2024 22:32:15"
     }
 }

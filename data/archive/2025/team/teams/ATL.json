@@ -29,6 +29,24 @@
         ],
         "injuries": [
             {
+                "Player": "Kobe Bufkin",
+                "Team": "Atlanta Hawks",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Out For Season (Shoulder) - The Hawks said on Wednesday (Dec. 18) that Bufkin will undergo surgery to address a right shoulder instability and will miss the rest of the season."
+            },
+            {
+                "Player": "Onyeka Okongwu",
+                "Team": "Atlanta Hawks",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Out (Knee) - The Atlanta Hawks announced Center Onyeka Okongwu (left knee inflammation) will be out for the next four games and will be re-evaluated in approximately one week."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Day To Day (Achilles) - The Hawks have listed Young as Probable for Thursday's (Dec. 19) game against the Spurs."
+            },
+            {
                 "Player": "Cody Zeller",
                 "Team": "Atlanta Hawks",
                 "Update": "Tue, Dec 10, 2024",
@@ -280,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/ATL-2025.png",
-        "last_update": "Dec 18 2024 22:32:12"
+        "last_update": "Dec 19 2024 22:32:15"
     }
 }

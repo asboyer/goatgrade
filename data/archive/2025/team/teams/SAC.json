@@ -36,8 +36,8 @@
             {
                 "Player": "Kevin Huerter",
                 "Team": "Sacramento Kings",
-                "Update": "Tue, Dec 17, 2024",
-                "Description": "Day To Day (AC Joint) - Huerter did not play in Monday's (Dec. 16) game against Denver."
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Day To Day (AC Joint) - The Kings have listed Huerter as Questionable for Thursday's (Dec. 19) game against the Lakers."
             },
             {
                 "Player": "Trey Lyles",
@@ -48,8 +48,14 @@
             {
                 "Player": "Keegan Murray",
                 "Team": "Sacramento Kings",
-                "Update": "Tue, Dec 17, 2024",
-                "Description": "Day To Day (Ankle) - Murray did not play in Monday's (Dec. 16) game against Denver."
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Day To Day (Ankle) - The Kings have listed Murray as Questionable for Thursday's (Dec. 19) game against the Lakers."
+            },
+            {
+                "Player": "Domantas Sabonis",
+                "Team": "Sacramento Kings",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Day To Day (Back) - The Kings have listed Sabonis as Questionable for Thursday's (Dec. 19) game against the Lakers."
             }
         ],
         "team_stats": {
@@ -297,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/SAC-2025.png",
-        "last_update": "Dec 18 2024 22:32:12"
+        "last_update": "Dec 19 2024 22:32:15"
     }
 }

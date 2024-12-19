@@ -26,7 +26,26 @@
             "Jeenathan Williams",
             "N'Faly Dante"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Steven Adams",
+                "Team": "Houston Rockets",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Day To Day (Ankle) - The Rockets have listed Adams as Questionable for Thursday's (Dec. 19) game against the Pelicans."
+            },
+            {
+                "Player": "Tari Eason",
+                "Team": "Houston Rockets",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Day To Day (Rest) - The Rockets have listed Eason as Questionable for Thursday's (Dec. 19) game against the Pelicans."
+            },
+            {
+                "Player": "Alperen Sengun",
+                "Team": "Houston Rockets",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Day To Day (Knee) - The Rockets have listed Sengun as Questionable for Thursday's (Dec. 19) game against the Pelicans."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "26",
@@ -272,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/HOU-2025.png",
-        "last_update": "Dec 18 2024 22:32:12"
+        "last_update": "Dec 19 2024 22:32:15"
     }
 }

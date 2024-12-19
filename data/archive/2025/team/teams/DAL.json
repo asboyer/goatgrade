@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Luka Dončić",
+                "Team": "Dallas Mavericks",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Out (Heel) - The Mavericks listed Doncic as Out for Thursday's (Dec. 19) game against the Clippers."
+            },
+            {
                 "Player": "Dante Exum",
                 "Team": "Dallas Mavericks",
                 "Update": "Wed, Oct 9, 2024",
@@ -37,20 +43,26 @@
             {
                 "Player": "Jaden Hardy",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Dec 16, 2024",
-                "Description": "Day To Day (Ankle) - Hardy did not play in Sunday's (Dec. 15) game against the Warriors."
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Out (Ankle) - The Mavericks have listed Hardy as Out for Thursday's (Dec. 19) game against the Clippers."
+            },
+            {
+                "Player": "Kyrie Irving",
+                "Team": "Dallas Mavericks",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Day To Day (Shoulder) - The Mavericks have listed Irving as Questionable for Thursday's (Dec. 19) game against the Clippers."
             },
             {
                 "Player": "Maxi Kleber",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Dec 16, 2024",
-                "Description": "Day To Day (Illness) - Kleber did not play in Sunday's (Dec. 15) game against the Warriors."
+                "Update": "Tue, Dec 17, 2024",
+                "Description": "Day To Day (Ribs) - Mavericks head coach Jason Kidd said that Kleber practiced on Tuesday (Dec. 17) but is still doubtful for Thursday's (Dec. 19) game versus the Clippers, per Mike Curtis of The Dallas Morning News."
             },
             {
                 "Player": "Naji Marshall",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Dec 16, 2024",
-                "Description": "Day To Day (Illness) - Marshall did not play in Sunday's (Dec. 15) game against the Warriors."
+                "Update": "Tue, Dec 17, 2024",
+                "Description": "Day To Day (Illness) - Mavericks head coach Jason Kidd said that Marshall practiced on Tuesday (Dec. 17) and is Questionable for Thursday's (Dec. 19) game against the Clippers, per Mike Curtis of The Dallas Morning News."
             },
             {
                 "Player": "P.J. Washington",
@@ -61,8 +73,8 @@
             {
                 "Player": "Brandon Williams",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Dec 16, 2024",
-                "Description": "Day To Day (Thumb) - Williams did not play in Sunday's (Dec. 15) game against the Warriors."
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Out (Thumb) - The Mavericks have listed Williams as Out for Thursday's (Dec. 19) game against the Clippers."
             }
         ],
         "team_stats": {
@@ -310,6 +322,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DAL-2025.png",
-        "last_update": "Dec 18 2024 22:32:12"
+        "last_update": "Dec 19 2024 22:32:15"
     }
 }

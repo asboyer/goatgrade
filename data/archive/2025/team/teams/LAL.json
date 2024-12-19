@@ -29,16 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Day To Day (Foot) - The Lakers have listed Davis as Probable for Thursday's (Dec. 19) game against the Kings."
+            },
+            {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sat, Nov 30, 2024",
-                "Description": "Out (Ankle) - Hayes suffered a re-sprain of his right ankle and will miss two to three weeks, per ESPN's Shams Charania."
+                "Update": "Tue, Dec 17, 2024",
+                "Description": "Out (Ankle) - Lakers head coach JJ Redick said on Tuesday (Dec. 17) that Hayes is working on strengthening his right ankle, and the team plans to provide an update on his status next week, per Daniel Starkand of LakersNation.com."
             },
             {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Mon, Dec 16, 2024",
-                "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Sunday's (Dec. 15) game against the Grizzlies."
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Out (Hamstring) - The Lakers have listed Hood-Schifino as Out for Thursday's (Dec. 19) game against the Kings."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Wed, Dec 18, 2024",
+                "Description": "Day To Day (Foot) - The Lakers have listed James as Questionable for Thursday's (Dec. 19) game against the Kings."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -49,8 +61,8 @@
             {
                 "Player": "Christian Wood",
                 "Team": "Los Angeles Lakers",
-                "Update": "Tue, Nov 12, 2024",
-                "Description": "Out (Knee) - Wood has experienced soreness in his surgically repaired left knee and will be re-evaluated in four weeks, Dan Woike of the Los Angeles Times reports."
+                "Update": "Tue, Dec 17, 2024",
+                "Description": "Out (Knee) - Lakers head coach JJ Redick said on Tuesday (Dec. 17) that Wood (knee) has been cleared to resume on-court workouts but still has no clear timetable for his return, per Dave McMenamin of ESPN.com."
             }
         ],
         "team_stats": {
@@ -298,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAL-2025.png",
-        "last_update": "Dec 18 2024 22:32:12"
+        "last_update": "Dec 19 2024 22:32:15"
     }
 }
