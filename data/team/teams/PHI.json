@@ -28,28 +28,22 @@
         ],
         "injuries": [
             {
-                "Player": "Adem Bona",
-                "Team": "Philadelphia 76ers",
-                "Update": "Tue, Dec 17, 2024",
-                "Description": "Day To Day (Knee) - Bona did not play in Monday's (Dec. 16) game against Charlotte."
-            },
-            {
                 "Player": "Joel Embiid",
                 "Team": "Philadelphia 76ers",
-                "Update": "Tue, Dec 17, 2024",
-                "Description": "Day To Day (Face) - Embiid did not play in Monday's (Dec. 16) game against Charlotte."
+                "Update": "Thu, Dec 19, 2024",
+                "Description": "Day To Day (Face) - The 76ers listed Embiid as Questionable for Friday's (Dec. 20) game against Charlotte."
             },
             {
                 "Player": "Caleb Martin",
                 "Team": "Philadelphia 76ers",
-                "Update": "Tue, Dec 17, 2024",
-                "Description": "Day To Day (Shoulder) - Martin did not play in Monday's (Dec. 16) game against Charlotte."
+                "Update": "Thu, Dec 19, 2024",
+                "Description": "Out (Shoulder) - The 76ers listed Martin as OUT for Friday's (Dec. 20) game against Charlotte."
             },
             {
                 "Player": "Jared McCain",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Dec 14, 2024",
-                "Description": "Out (Meniscus) - McCain has suffered a torn lateral meniscus in his left knee. He will undergo surgery and is out indefinitely."
+                "Update": "Tue, Dec 17, 2024",
+                "Description": "Out (Meniscus) - The 76ers announced on Tuesday (Dec. 17) that McCain underwent successful surgery to repair a lateral meniscus tear and remains out indefinitely, per Tim Bontemps of ESPN.com."
             }
         ],
         "team_stats": {
@@ -105,27 +99,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "30",
                 "FGA": "24",
                 "FG%": "25",
-                "3P": "24",
-                "3PA": "22",
+                "3P": "25",
+                "3PA": "21",
                 "3P%": "27",
-                "2P": "22",
+                "2P": "21",
                 "2PA": "18",
                 "2P%": "23",
                 "FT": "9",
                 "FTA": "7",
-                "FT%": "23",
+                "FT%": "22",
                 "ORB": "16",
-                "DRB": "29",
+                "DRB": "30",
                 "TRB": "28",
                 "AST": "30",
                 "STL": "5",
                 "BLK": "28",
-                "TOV": "13",
-                "PF": "23",
+                "TOV": "15",
+                "PF": "24",
                 "PTS": "29"
             },
             "Year/Year": {
@@ -205,28 +199,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
-                "FG": "7",
+                "MP": "29",
+                "FG": "5",
                 "FGA": "2",
-                "FG%": "23",
+                "FG%": "24",
                 "3P": "7",
                 "3PA": "7",
-                "3P%": "9",
-                "2P": "10",
-                "2PA": "2",
-                "2P%": "27",
-                "FT": "22",
+                "3P%": "10",
+                "2P": "12",
+                "2PA": "1",
+                "2P%": "28",
+                "FT": "21",
                 "FTA": "15",
                 "FT%": "29",
                 "ORB": "4",
                 "DRB": "22",
-                "TRB": "13",
+                "TRB": "12",
                 "AST": "17",
-                "STL": "10",
+                "STL": "9",
                 "BLK": "20",
                 "TOV": "2",
                 "PF": "8",
-                "PTS": "10"
+                "PTS": "9"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -259,8 +253,8 @@
                 "PW": "9",
                 "PL": "15",
                 "MOV": "-4.54",
-                "SOS": "0.17",
-                "SRS": "-4.38",
+                "SOS": "0.46",
+                "SRS": "-4.08",
                 "ORtg": "108.3",
                 "DRtg": "112.9",
                 "Pace": "96.6",
@@ -275,28 +269,28 @@
                 "Attendance": "237,664"
             },
             "Misc Lg Rank": {
-                "W": "24",
-                "L": "7",
+                "W": "25",
+                "L": "8",
                 "PW": "25",
                 "PL": "18",
                 "MOV": "23",
-                "SOS": "14",
+                "SOS": "12",
                 "SRS": "25",
-                "ORtg": "27",
+                "ORtg": "28",
                 "DRtg": "12",
                 "Pace": "30",
-                "FTr": "4",
+                "FTr": "5",
                 "3PAr": "17",
-                "eFG%": "23",
+                "eFG%": "24",
                 "TOV%": "3",
                 "ORB%": "16",
                 "FT/FGA": "26",
                 "DRB%": "18",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/PHI-2025.png",
-        "last_update": "Dec 19 2024 22:32:15"
+        "last_update": "Dec 20 2024 22:32:14"
     }
 }
