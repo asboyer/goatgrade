@@ -30,19 +30,13 @@
             {
                 "Player": "Sam Hauser",
                 "Team": "Boston Celtics",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Back) - Hauser did not play in Thursday's (Dec. 19) game against the Bulls."
-            },
-            {
-                "Player": "Kristaps Porziņģis",
-                "Team": "Boston Celtics",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Heel) - The Boston Celtics listed Porzingis as Avaiable for Thursday's (Dec. 19) game against Chicago."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Back) - The Celtics have listed Hauser as Questionable for Saturday's (Dec. 21) game against the Bulls."
             },
             {
                 "Player": "Xavier Tillman Sr.",
                 "Team": "Boston Celtics",
-                "Update": "Thu, Dec 19, 2024",
+                "Update": "Fri, Dec 20, 2024",
                 "Description": "Day To Day (Illness) - Tillman Sr. did not play in Thursday's (Dec. 19) game against the Bulls."
             }
         ],
@@ -99,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "13",
                 "FG": "12",
                 "FGA": "6",
                 "FG%": "20",
@@ -116,7 +110,7 @@
                 "DRB": "7",
                 "TRB": "10",
                 "AST": "15",
-                "STL": "24",
+                "STL": "25",
                 "BLK": "8",
                 "TOV": "1",
                 "PF": "2",
@@ -199,7 +193,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "13",
                 "FG": "20",
                 "FGA": "22",
                 "FG%": "10",
@@ -208,19 +202,19 @@
                 "3P%": "9",
                 "2P": "24",
                 "2PA": "29",
-                "2P%": "10",
+                "2P%": "11",
                 "FT": "1",
                 "FTA": "1",
                 "FT%": "15",
-                "ORB": "7",
+                "ORB": "6",
                 "DRB": "25",
-                "TRB": "23",
+                "TRB": "22",
                 "AST": "4",
                 "STL": "1",
-                "BLK": "1",
+                "BLK": "2",
                 "TOV": "25",
                 "PF": "12",
-                "PTS": "8"
+                "PTS": "9"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -253,8 +247,8 @@
                 "PW": "21",
                 "PL": "6",
                 "MOV": "9.44",
-                "SOS": "-1.32",
-                "SRS": "8.12",
+                "SOS": "-1.38",
+                "SRS": "8.07",
                 "ORtg": "120.3",
                 "DRtg": "110.8",
                 "Pace": "98.2",
@@ -269,19 +263,19 @@
                 "Attendance": "268,184"
             },
             "Misc Lg Rank": {
-                "W": "2",
+                "W": "3",
                 "L": "28",
                 "PW": "4",
                 "PL": "3",
                 "MOV": "4",
                 "SOS": "26",
-                "SRS": "2",
+                "SRS": "3",
                 "ORtg": "3",
                 "DRtg": "9",
                 "Pace": "21",
                 "FTr": "20",
                 "3PAr": "1",
-                "eFG%": "8",
+                "eFG%": "7",
                 "TOV%": "24",
                 "ORB%": "17",
                 "FT/FGA": "1",
@@ -290,7 +284,7 @@
                 "Attendance": "4"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/BOS-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/BOS-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

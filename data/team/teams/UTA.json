@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Keyonte George",
+                "Team": "Utah Jazz",
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Ankle) - The Jazz have listed George as Questionable for Saturday's (Dec. 21) game against the Nets."
+            },
+            {
                 "Player": "Taylor Hendricks",
                 "Team": "Utah Jazz",
                 "Update": "Wed, Nov 6, 2024",
@@ -88,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "26",
                 "FG": "26",
                 "FGA": "28",
                 "FG%": "18",
@@ -188,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "26",
                 "FG": "29",
                 "FGA": "25",
                 "FG%": "28",
@@ -198,7 +204,7 @@
                 "2P": "27",
                 "2PA": "14",
                 "2P%": "30",
-                "FT": "10",
+                "FT": "11",
                 "FTA": "13",
                 "FT%": "9",
                 "ORB": "19",
@@ -242,8 +248,8 @@
                 "PW": "6",
                 "PL": "20",
                 "MOV": "-9.88",
-                "SOS": "1.30",
-                "SRS": "-8.58",
+                "SOS": "1.26",
+                "SRS": "-8.62",
                 "ORtg": "111.1",
                 "DRtg": "121.0",
                 "Pace": "99.4",
@@ -259,17 +265,17 @@
             },
             "Misc Lg Rank": {
                 "W": "28",
-                "L": "4",
+                "L": "5",
                 "PW": "28",
                 "PL": "27",
                 "MOV": "28",
-                "SOS": "3",
+                "SOS": "4",
                 "SRS": "28",
                 "ORtg": "23",
                 "DRtg": "30",
                 "Pace": "12",
                 "FTr": "1",
-                "3PAr": "10",
+                "3PAr": "11",
                 "eFG%": "29",
                 "TOV%": "30",
                 "ORB%": "5",
@@ -279,7 +285,7 @@
                 "Attendance": "24"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/UTA-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/UTA-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

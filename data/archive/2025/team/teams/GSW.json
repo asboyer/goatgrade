@@ -30,8 +30,8 @@
             {
                 "Player": "Moses Moody",
                 "Team": "Golden State Warriors",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Knee) - Moody did not play in Thursday's (Dec. 19) game against the Grizzlies."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Knee) - The Warriors have listed Moody as Probable for Saturday's (Dec. 21) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -87,7 +87,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "24",
                 "FG": "13",
                 "FGA": "4",
                 "FG%": "24",
@@ -108,7 +108,7 @@
                 "BLK": "15",
                 "TOV": "12",
                 "PF": "18",
-                "PTS": "14"
+                "PTS": "13"
             },
             "Year/Year": {
                 "G": "",
@@ -187,7 +187,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "24",
                 "FG": "7",
                 "FGA": "16",
                 "FG%": "4",
@@ -200,7 +200,7 @@
                 "FT": "20",
                 "FTA": "21",
                 "FT%": "13",
-                "ORB": "21",
+                "ORB": "20",
                 "DRB": "28",
                 "TRB": "27",
                 "AST": "18",
@@ -262,11 +262,11 @@
                 "PW": "12",
                 "PL": "11",
                 "MOV": "14",
-                "SOS": "4",
+                "SOS": "3",
                 "SRS": "9",
                 "ORtg": "18",
-                "DRtg": "7",
-                "Pace": "6",
+                "DRtg": "8",
+                "Pace": "7",
                 "FTr": "27",
                 "3PAr": "8",
                 "eFG%": "4",
@@ -278,7 +278,7 @@
                 "Attendance": "26"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/GSW-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/GSW-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

@@ -30,7 +30,7 @@
             {
                 "Player": "Josh Hart",
                 "Team": "New York Knicks",
-                "Update": "Thu, Dec 19, 2024",
+                "Update": "Fri, Dec 20, 2024",
                 "Description": "Day To Day (Personal) - Hart did not play in Thursday's (Dec. 19) game against the Timberwolves."
             },
             {
@@ -93,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "19",
                 "FG": "5",
                 "FGA": "21",
                 "FG%": "2",
@@ -107,12 +107,12 @@
                 "FTA": "27",
                 "FT%": "2",
                 "ORB": "26",
-                "DRB": "13",
-                "TRB": "23",
+                "DRB": "14",
+                "TRB": "24",
                 "AST": "9",
-                "STL": "24",
+                "STL": "25",
                 "BLK": "26",
-                "TOV": "4",
+                "TOV": "3",
                 "PF": "5",
                 "PTS": "7"
             },
@@ -193,15 +193,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
-                "FG": "14",
+                "MP": "19",
+                "FG": "13",
                 "FGA": "11",
-                "FG%": "11",
-                "3P": "20",
-                "3PA": "17",
+                "FG%": "12",
+                "3P": "21",
+                "3PA": "16",
                 "3P%": "17",
                 "2P": "11",
-                "2PA": "10",
+                "2PA": "9",
                 "2P%": "13",
                 "FT": "3",
                 "FTA": "5",
@@ -211,10 +211,10 @@
                 "TRB": "2",
                 "AST": "11",
                 "STL": "1",
-                "BLK": "9",
-                "TOV": "26",
+                "BLK": "10",
+                "TOV": "27",
                 "PF": "24",
-                "PTS": "7"
+                "PTS": "8"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +247,8 @@
                 "PW": "19",
                 "PL": "8",
                 "MOV": "7.00",
-                "SOS": "-1.36",
-                "SRS": "5.64",
+                "SOS": "-1.39",
+                "SRS": "5.61",
                 "ORtg": "120.7",
                 "DRtg": "113.5",
                 "Pace": "97.0",
@@ -281,10 +281,10 @@
                 "FT/FGA": "5",
                 "DRB%": "9",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "18"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NYK-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/NYK-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

@@ -47,14 +47,14 @@
             {
                 "Player": "Trendon Watford",
                 "Team": "Brooklyn Nets",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Hamstring) - Watford did not play in Thursday's (Dec. 19) game against the Raptors."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Out (Hamstring) - The Nets announced Thursday (Dec. 19) that Watford has been diagnosed with a left hamstring strain and his status will be updated in approximately one week, Meghan Triplett of YES Network reports."
             },
             {
                 "Player": "Ziaire Williams",
                 "Team": "Brooklyn Nets",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Knee) - Williams did not play in Thursday's (Dec. 19) game against the Raptors."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Out (Knee) - The Nets have listed Williams as Out for Saturday's (Dec. 21) game against the Jazz."
             }
         ],
         "team_stats": {
@@ -110,7 +110,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "15",
                 "FG": "28",
                 "FGA": "30",
                 "FG%": "19",
@@ -210,8 +210,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
-                "FG": "15",
+                "MP": "15",
+                "FG": "14",
                 "FGA": "3",
                 "FG%": "30",
                 "3P": "15",
@@ -221,10 +221,10 @@
                 "2PA": "5",
                 "2P%": "27",
                 "FT": "28",
-                "FTA": "26",
+                "FTA": "27",
                 "FT%": "18",
                 "ORB": "3",
-                "DRB": "13",
+                "DRB": "12",
                 "TRB": "5",
                 "AST": "21",
                 "STL": "12",
@@ -264,8 +264,8 @@
                 "PW": "10",
                 "PL": "17",
                 "MOV": "-4.74",
-                "SOS": "1.71",
-                "SRS": "-3.03",
+                "SOS": "1.69",
+                "SRS": "-3.05",
                 "ORtg": "112.4",
                 "DRtg": "117.3",
                 "Pace": "96.9",
@@ -301,7 +301,7 @@
                 "Attendance": "28"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/BRK-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/BRK-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

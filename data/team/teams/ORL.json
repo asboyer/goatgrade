@@ -36,8 +36,14 @@
             {
                 "Player": "Gary Harris",
                 "Team": "Orlando Magic",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Hamstring) - Harris did not play in Thursday's (Dec. 19) game against the Thunder."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Hamstring) - The Magic listed Harris as Questionable for Saturday's (Dec. 21) game against the Heat."
+            },
+            {
+                "Player": "Jalen Suggs",
+                "Team": "Orlando Magic",
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Ankle) - The Magic listed Suggs as Probable for Saturday's (Dec. 21) game against the Heat."
             },
             {
                 "Player": "Franz Wagner",
@@ -107,20 +113,20 @@
                 "3PA": "14",
                 "3P%": "30",
                 "2P": "18",
-                "2PA": "22",
+                "2PA": "23",
                 "2P%": "7",
                 "FT": "6",
-                "FTA": "8",
+                "FTA": "7",
                 "FT%": "12",
                 "ORB": "13",
                 "DRB": "26",
                 "TRB": "26",
                 "AST": "25",
-                "STL": "4",
+                "STL": "5",
                 "BLK": "1",
                 "TOV": "19",
                 "PF": "20",
-                "PTS": "28"
+                "PTS": "27"
             },
             "Year/Year": {
                 "G": "",
@@ -208,7 +214,7 @@
                 "3P%": "18",
                 "2P": "3",
                 "2PA": "7",
-                "2P%": "8",
+                "2P%": "9",
                 "FT": "14",
                 "FTA": "16",
                 "FT%": "5",
@@ -254,7 +260,7 @@
                 "PL": "11",
                 "MOV": "3.21",
                 "SOS": "-0.54",
-                "SRS": "2.67",
+                "SRS": "2.66",
                 "ORtg": "110.0",
                 "DRtg": "106.7",
                 "Pace": "97.1",
@@ -272,9 +278,9 @@
                 "W": "6",
                 "L": "15",
                 "PW": "8",
-                "PL": "13",
+                "PL": "12",
                 "MOV": "8",
-                "SOS": "22",
+                "SOS": "23",
                 "SRS": "12",
                 "ORtg": "25",
                 "DRtg": "3",
@@ -290,7 +296,7 @@
                 "Attendance": "23"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/ORL-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/ORL-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

@@ -29,6 +29,18 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Elbow) - The Lakers have listed Davis as Questionable for Saturday's (Dec. 21) game against the Kings."
+            },
+            {
+                "Player": "Rui Hachimura",
+                "Team": "Los Angeles Lakers",
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Leg) - The Lakers have listed Hachimura as Probable for Saturday's (Dec. 21) game against the Kings."
+            },
+            {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
                 "Update": "Tue, Dec 17, 2024",
@@ -37,8 +49,14 @@
             {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Thursday's (Dec. 19) game against the Kings."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Out (Hamstring) - The Lakers have listed Hood-Schifino as Out for Saturday's (Dec. 21) game against the Kings."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Hamstring) - The Lakers have listed James as Questionable for Saturday's (Dec. 21) game against the Kings."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -58,20 +76,20 @@
                 "G": "27",
                 "MP": "6505",
                 "FG": "1091",
-                "FGA": "2329",
+                "FGA": "2330",
                 "FG%": ".468",
                 "3P": "313",
                 "3PA": "901",
                 "3P%": ".347",
                 "2P": "778",
-                "2PA": "1428",
-                "2P%": ".545",
+                "2PA": "1429",
+                "2P%": ".544",
                 "FT": "512",
                 "FTA": "656",
                 "FT%": ".780",
-                "ORB": "254",
+                "ORB": "255",
                 "DRB": "861",
-                "TRB": "1115",
+                "TRB": "1116",
                 "AST": "703",
                 "STL": "214",
                 "BLK": "136",
@@ -90,7 +108,7 @@
                 "3P%": ".347",
                 "2P": "28.8",
                 "2PA": "52.9",
-                "2P%": ".545",
+                "2P%": ".544",
                 "FT": "19.0",
                 "FTA": "24.3",
                 "FT%": ".780",
@@ -106,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "16",
                 "FG": "17",
                 "FGA": "22",
                 "FG%": "12",
@@ -134,19 +152,19 @@
                 "MP": "-0.5%",
                 "FG": "-7.4%",
                 "FGA": "-1.4%",
-                "FG%": "-.030",
+                "FG%": "-.031",
                 "3P": "-1.9%",
                 "3PA": "6.4%",
                 "3P%": "-.029",
                 "2P": "-9.5%",
                 "2PA": "-5.8%",
-                "2P%": "-.022",
+                "2P%": "-.023",
                 "FT": "0.3%",
                 "FTA": "0.5%",
                 "FT%": "-.001",
-                "ORB": "14.1%",
+                "ORB": "14.6%",
                 "DRB": "-8.5%",
-                "TRB": "-4.2%",
+                "TRB": "-4.1%",
                 "AST": "-8.8%",
                 "STL": "7.4%",
                 "BLK": "-8.8%",
@@ -206,11 +224,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "16",
                 "FG": "24",
                 "FGA": "19",
-                "FG%": "23",
-                "3P": "16",
+                "FG%": "24",
+                "3P": "17",
                 "3PA": "9",
                 "3P%": "21",
                 "2P": "23",
@@ -224,7 +242,7 @@
                 "TRB": "21",
                 "AST": "26",
                 "STL": "10",
-                "BLK": "2",
+                "BLK": "3",
                 "TOV": "17",
                 "PF": "4",
                 "PTS": "19"
@@ -260,8 +278,8 @@
                 "PW": "11",
                 "PL": "16",
                 "MOV": "-2.89",
-                "SOS": "0.03",
-                "SRS": "-2.86",
+                "SOS": "0.04",
+                "SRS": "-2.85",
                 "ORtg": "112.5",
                 "DRtg": "115.4",
                 "Pace": "98.6",
@@ -281,11 +299,11 @@
                 "PW": "22",
                 "PL": "19",
                 "MOV": "21",
-                "SOS": "15",
+                "SOS": "16",
                 "SRS": "19",
                 "ORtg": "15",
-                "DRtg": "21",
-                "Pace": "18",
+                "DRtg": "20",
+                "Pace": "19",
                 "FTr": "3",
                 "3PAr": "26",
                 "eFG%": "21",
@@ -297,7 +315,7 @@
                 "Attendance": "22"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAL-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/LAL-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

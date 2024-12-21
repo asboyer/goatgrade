@@ -30,14 +30,14 @@
             {
                 "Player": "Jaden Ivey",
                 "Team": "Detroit Pistons",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Knee) - Ivey did not play in Thursday's (Dec. 19) game against the Jazz."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Knee) - The Pistons have listed Ivey as Probable for Saturday's (Dec. 21) game against the Suns."
             },
             {
                 "Player": "Isaiah Stewart",
                 "Team": "Detroit Pistons",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Knee) - Stewart did not play in Thursday's (Dec. 19) game against the Jazz."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Out (Knee) - The Pistons have listed Ivey as Stewart for Saturday's (Dec. 21) game against the Suns."
             }
         ],
         "team_stats": {
@@ -198,17 +198,17 @@
                 "FGA": "18",
                 "FG%": "17",
                 "3P": "27",
-                "3PA": "19",
+                "3PA": "20",
                 "3P%": "28",
                 "2P": "16",
                 "2PA": "15",
-                "2P%": "11",
-                "FT": "9",
+                "2P%": "12",
+                "FT": "10",
                 "FTA": "11",
                 "FT%": "17",
                 "ORB": "10",
                 "DRB": "10",
-                "TRB": "7",
+                "TRB": "8",
                 "AST": "10",
                 "STL": "29",
                 "BLK": "14",
@@ -247,8 +247,8 @@
                 "PW": "11",
                 "PL": "17",
                 "MOV": "-3.32",
-                "SOS": "0.13",
-                "SRS": "-3.19",
+                "SOS": "0.10",
+                "SRS": "-3.22",
                 "ORtg": "110.8",
                 "DRtg": "114.1",
                 "Pace": "98.7",
@@ -268,23 +268,23 @@
                 "PW": "21",
                 "PL": "23",
                 "MOV": "22",
-                "SOS": "14",
+                "SOS": "15",
                 "SRS": "21",
                 "ORtg": "24",
                 "DRtg": "16",
-                "Pace": "17",
+                "Pace": "18",
                 "FTr": "25",
                 "3PAr": "15",
                 "eFG%": "20",
                 "TOV%": "19",
                 "ORB%": "12",
-                "FT/FGA": "11",
-                "DRB%": "6",
+                "FT/FGA": "12",
+                "DRB%": "7",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "13"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DET-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/DET-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

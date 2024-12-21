@@ -31,8 +31,8 @@
             {
                 "Player": "Luka Dončić",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Heel) - Doncic did not play in Thursday's (Dec. 19) game against the Clippers."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Out (Heel) - The Mavericks have listed Doncic as Out for Saturday's (Dec. 21) game against the Clippers."
             },
             {
                 "Player": "Dante Exum",
@@ -43,20 +43,20 @@
             {
                 "Player": "Jaden Hardy",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Ankle) - Hardy did not play in Thursday's (Dec. 19) game against the Clippers."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Out (Ankle) - The Mavericks have listed Hardy as Out for Saturday's (Dec. 21) game against the Clippers."
             },
             {
                 "Player": "Kyrie Irving",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Dec 19, 2024",
+                "Update": "Fri, Dec 20, 2024",
                 "Description": "Day To Day (Shoulder) - Irving did not play in Thursday's (Dec. 19) game against the Clippers."
             },
             {
                 "Player": "Brandon Williams",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Thumb) - Williams did not play in Thursday's (Dec. 19) game against the Clippers."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Out (Thumb) - The Mavericks have listed Williams as Out for Saturday's (Dec. 21) game against the Clippers."
             }
         ],
         "team_stats": {
@@ -112,13 +112,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "16",
                 "FG": "4",
                 "FGA": "15",
                 "FG%": "5",
                 "3P": "16",
                 "3PA": "23",
-                "3P%": "10",
+                "3P%": "9",
                 "2P": "6",
                 "2PA": "9",
                 "2P%": "8",
@@ -212,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "16",
                 "FG": "17",
                 "FGA": "23",
                 "FG%": "6",
@@ -230,7 +230,7 @@
                 "TRB": "14",
                 "AST": "22",
                 "STL": "18",
-                "BLK": "2",
+                "BLK": "3",
                 "TOV": "21",
                 "PF": "14",
                 "PTS": "13"
@@ -266,8 +266,8 @@
                 "PW": "18",
                 "PL": "9",
                 "MOV": "5.81",
-                "SOS": "-0.28",
-                "SRS": "5.53",
+                "SOS": "-0.30",
+                "SRS": "5.52",
                 "ORtg": "118.5",
                 "DRtg": "112.7",
                 "Pace": "99.7",
@@ -291,19 +291,19 @@
                 "SRS": "7",
                 "ORtg": "4",
                 "DRtg": "11",
-                "Pace": "10",
+                "Pace": "9",
                 "FTr": "8",
                 "3PAr": "21",
-                "eFG%": "7",
+                "eFG%": "6",
                 "TOV%": "22",
                 "ORB%": "10",
-                "FT/FGA": "12",
+                "FT/FGA": "13",
                 "DRB%": "25",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "15"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/DAL-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/DAL-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

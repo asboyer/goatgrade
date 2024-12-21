@@ -28,10 +28,22 @@
         ],
         "injuries": [
             {
+                "Player": "Bol Bol",
+                "Team": "Phoenix Suns",
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Knee) - The Suns have listed Bol as Questionable for Saturday's (Dec. 21) game against the Pistons."
+            },
+            {
+                "Player": "Devin Booker",
+                "Team": "Phoenix Suns",
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Out (Groin) - The Suns have listed Booker as Out for Saturday's (Dec. 21) game against the Pistons."
+            },
+            {
                 "Player": "Collin Gillespie",
                 "Team": "Phoenix Suns",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Ankle) - Gillespie did not play in Thursday's (Dec. 19) game against the Pacers."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Out (Ankle) - The Suns have listed Gillespie as Out for Saturday's (Dec. 21) game against the Pistons."
             }
         ],
         "team_stats": {
@@ -87,16 +99,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "22",
                 "FG": "18",
                 "FGA": "26",
                 "FG%": "10",
-                "3P": "7",
+                "3P": "6",
                 "3PA": "8",
                 "3P%": "5",
                 "2P": "25",
                 "2PA": "27",
-                "2P%": "13",
+                "2P%": "12",
                 "FT": "8",
                 "FTA": "11",
                 "FT%": "8",
@@ -107,7 +119,7 @@
                 "STL": "22",
                 "BLK": "21",
                 "TOV": "9",
-                "PF": "8",
+                "PF": "9",
                 "PTS": "12"
             },
             "Year/Year": {
@@ -187,24 +199,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "22",
                 "FG": "19",
                 "FGA": "16",
                 "FG%": "19",
-                "3P": "19",
+                "3P": "18",
                 "3PA": "13",
                 "3P%": "22",
                 "2P": "21",
                 "2PA": "18",
                 "2P%": "16",
-                "FT": "15",
+                "FT": "16",
                 "FTA": "12",
-                "FT%": "24",
+                "FT%": "25",
                 "ORB": "9",
                 "DRB": "19",
                 "TRB": "18",
                 "AST": "18",
-                "STL": "14",
+                "STL": "13",
                 "BLK": "8",
                 "TOV": "28",
                 "PF": "10",
@@ -241,8 +253,8 @@
                 "PW": "13",
                 "PL": "13",
                 "MOV": "-0.54",
-                "SOS": "-0.47",
-                "SRS": "-1.01",
+                "SOS": "-0.46",
+                "SRS": "-1.00",
                 "ORtg": "115.8",
                 "DRtg": "116.4",
                 "Pace": "97.5",
@@ -275,10 +287,10 @@
                 "FT/FGA": "16",
                 "DRB%": "10",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "17"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/PHO-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/PHO-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

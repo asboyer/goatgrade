@@ -31,8 +31,8 @@
             {
                 "Player": "Dalano Banton",
                 "Team": "Portland Trail Blazers",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Hip) - Banton did not play in Thursday's (Dec. 19) game against the Nuggets."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Hip) - The Trail Blazers have listed Banton as Questionable for Saturday's (Dec. 21) game against the Spurs."
             },
             {
                 "Player": "Matisse Thybulle",
@@ -94,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "19",
                 "FG": "23",
                 "FGA": "11",
                 "FG%": "28",
@@ -105,7 +105,7 @@
                 "2PA": "11",
                 "2P%": "28",
                 "FT": "19",
-                "FTA": "20",
+                "FTA": "19",
                 "FT%": "20",
                 "ORB": "5",
                 "DRB": "28",
@@ -194,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "19",
                 "FG": "21",
                 "FGA": "8",
                 "FG%": "26",
@@ -204,7 +204,7 @@
                 "2P": "20",
                 "2PA": "13",
                 "2P%": "20",
-                "FT": "23",
+                "FT": "25",
                 "FTA": "22",
                 "FT%": "22",
                 "ORB": "25",
@@ -248,8 +248,8 @@
                 "PW": "7",
                 "PL": "20",
                 "MOV": "-8.78",
-                "SOS": "0.95",
-                "SRS": "-7.83",
+                "SOS": "0.93",
+                "SRS": "-7.85",
                 "ORtg": "108.3",
                 "DRtg": "117.2",
                 "Pace": "99.3",
@@ -269,9 +269,9 @@
                 "PW": "27",
                 "PL": "28",
                 "MOV": "27",
-                "SOS": "6",
+                "SOS": "7",
                 "SRS": "27",
-                "ORtg": "27",
+                "ORtg": "28",
                 "DRtg": "26",
                 "Pace": "13",
                 "FTr": "22",
@@ -285,7 +285,7 @@
                 "Attendance": "21"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/POR-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/POR-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

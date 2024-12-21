@@ -30,8 +30,8 @@
             {
                 "Player": "Kobe Brown",
                 "Team": "Los Angeles Clippers",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Back) - Brown did not play in Thursday's (Dec. 19) game against the Mavericks."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Out (Back) - The Clippers have listed Brown as Out for Saturday's (Dec. 21) game against the Mavericks."
             },
             {
                 "Player": "Kawhi Leonard",
@@ -105,13 +105,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "8",
                 "FG": "19",
                 "FGA": "23",
                 "FG%": "11",
                 "3P": "18",
                 "3PA": "25",
-                "3P%": "8",
+                "3P%": "7",
                 "2P": "16",
                 "2PA": "14",
                 "2P%": "21",
@@ -205,7 +205,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "8",
                 "FG": "4",
                 "FGA": "4",
                 "FG%": "14",
@@ -278,7 +278,7 @@
                 "W": "9",
                 "L": "15",
                 "PW": "9",
-                "PL": "14",
+                "PL": "13",
                 "MOV": "11",
                 "SOS": "8",
                 "SRS": "8",
@@ -296,7 +296,7 @@
                 "Attendance": "5"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/LAC-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/LAC-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

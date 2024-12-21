@@ -42,14 +42,14 @@
             {
                 "Player": "Karlo Matković",
                 "Team": "New Orleans Pelicans",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Back) - Matkovic did not play in Thursday's (Dec. 19) game against the Rockets."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Out (Back) - The Pelicans have listed Matkovic as Out for Saturday's (Dec. 21) game against the Knicks."
             },
             {
                 "Player": "Daniel Theis",
                 "Team": "New Orleans Pelicans",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Personal) - Theis did not play in Thursday's (Dec. 19) game against the Rockets."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Personal) - The Pelicans have listed Theis as Questionable for Saturday's (Dec. 21) game against the Knicks."
             },
             {
                 "Player": "Zion Williamson",
@@ -111,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "25",
                 "FGA": "12",
                 "FG%": "29",
@@ -131,7 +131,7 @@
                 "STL": "6",
                 "BLK": "14",
                 "TOV": "17",
-                "PF": "7",
+                "PF": "8",
                 "PTS": "30"
             },
             "Year/Year": {
@@ -211,7 +211,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "27",
                 "FGA": "20",
                 "FG%": "29",
@@ -225,7 +225,7 @@
                 "FTA": "6",
                 "FT%": "23",
                 "ORB": "24",
-                "DRB": "24",
+                "DRB": "23",
                 "TRB": "25",
                 "AST": "28",
                 "STL": "21",
@@ -265,8 +265,8 @@
                 "PW": "5",
                 "PL": "23",
                 "MOV": "-11.79",
-                "SOS": "0.93",
-                "SRS": "-10.85",
+                "SOS": "0.95",
+                "SRS": "-10.84",
                 "ORtg": "107.1",
                 "DRtg": "119.1",
                 "Pace": "98.4",
@@ -286,7 +286,7 @@
                 "PW": "29",
                 "PL": "30",
                 "MOV": "29",
-                "SOS": "7",
+                "SOS": "6",
                 "SRS": "29",
                 "ORtg": "29",
                 "DRtg": "28",
@@ -297,12 +297,12 @@
                 "TOV%": "18",
                 "ORB%": "8",
                 "FT/FGA": "7",
-                "DRB%": "27",
+                "DRB%": "28",
                 "Arena": "",
                 "Attendance": "27"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/NOP-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/NOP-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

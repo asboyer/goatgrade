@@ -31,13 +31,13 @@
             {
                 "Player": "Bruce Brown",
                 "Team": "Toronto Raptors",
-                "Update": "Thu, Dec 19, 2024",
+                "Update": "Fri, Dec 20, 2024",
                 "Description": "Day To Day (Reconditioning) - Brown did not play in Thursday's (Dec. 19) game against the Nets."
             },
             {
                 "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Thu, Dec 19, 2024",
+                "Update": "Fri, Dec 20, 2024",
                 "Description": "Day To Day (Groin) - Poeltl did not play in Thursday's (Dec. 19) game against the Nets."
             },
             {
@@ -119,7 +119,7 @@
                 "AST": "6",
                 "STL": "23",
                 "BLK": "22",
-                "TOV": "23",
+                "TOV": "22",
                 "PF": "30",
                 "PTS": "18"
             },
@@ -203,7 +203,7 @@
                 "MP": "3",
                 "FG": "16",
                 "FGA": "15",
-                "FG%": "12",
+                "FG%": "13",
                 "3P": "10",
                 "3PA": "21",
                 "3P%": "8",
@@ -254,8 +254,8 @@
                 "PW": "10",
                 "PL": "18",
                 "MOV": "-5.00",
-                "SOS": "0.99",
-                "SRS": "-4.01",
+                "SOS": "1.00",
+                "SRS": "-4.00",
                 "ORtg": "111.1",
                 "DRtg": "116.1",
                 "Pace": "99.4",
@@ -276,22 +276,22 @@
                 "PL": "25",
                 "MOV": "25",
                 "SOS": "5",
-                "SRS": "24",
+                "SRS": "25",
                 "ORtg": "22",
                 "DRtg": "22",
                 "Pace": "11",
-                "FTr": "19",
+                "FTr": "18",
                 "3PAr": "29",
                 "eFG%": "12",
                 "TOV%": "23",
-                "ORB%": "2",
+                "ORB%": "3",
                 "FT/FGA": "30",
                 "DRB%": "23",
                 "Arena": "",
                 "Attendance": "3"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/TOR-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/TOR-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

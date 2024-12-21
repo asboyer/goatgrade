@@ -31,8 +31,8 @@
             {
                 "Player": "Jay Huff",
                 "Team": "Memphis Grizzlies",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Ankle) - Huff did not play in Thursday's (Dec. 19) game against the Warriors."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Out (Ankle) - The Grizzlies listed Huff as Out for Saturday's (Dec. 21) game against the Hawks."
             },
             {
                 "Player": "GG Jackson II",
@@ -41,16 +41,22 @@
                 "Description": "Out (Foot ) - The Grizzlies announced Jackson continues to progress well from offseason foot surgery and is expected to return to play in 6-8 weeks."
             },
             {
+                "Player": "Ja Morant",
+                "Team": "Memphis Grizzlies",
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Back) - The Grizzlies have listed Morant as Doubtful for Saturday's (Dec. 21) game against the Hawks."
+            },
+            {
                 "Player": "Marcus Smart",
                 "Team": "Memphis Grizzlies",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Shoulder) - Smart did not play in Thursday's (Dec. 19) game against the Warriors."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Shoulder) - The Grizzlies have listed Smart as Questionable for Saturday's (Dec. 21) game against the Hawks."
             },
             {
                 "Player": "Vince Williams Jr.",
                 "Team": "Memphis Grizzlies",
-                "Update": "Thu, Nov 21, 2024",
-                "Description": "Out (Ankle) - The Grizzlies announced that Williams Jr. has been diagnosed with a Grade 3 right ankle sprain and will be re-evaluated in approximately four weeks."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Out (Ankle) - The Grizzlies announced that Williams Jr. is progressing well in his recovery from a Grade 3 right ankle sprain and the team expects him to return to game action in 3-to-6 weeks."
             }
         ],
         "team_stats": {
@@ -106,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "1",
                 "FGA": "3",
                 "FG%": "4",
@@ -206,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "8",
                 "FGA": "27",
                 "FG%": "3",
@@ -215,7 +221,7 @@
                 "3P%": "2",
                 "2P": "9",
                 "2PA": "17",
-                "2P%": "5",
+                "2P%": "4",
                 "FT": "27",
                 "FTA": "28",
                 "FT%": "2",
@@ -260,8 +266,8 @@
                 "PW": "21",
                 "PL": "7",
                 "MOV": "9.96",
-                "SOS": "-2.02",
-                "SRS": "7.95",
+                "SOS": "-2.03",
+                "SRS": "7.93",
                 "ORtg": "117.2",
                 "DRtg": "107.7",
                 "Pace": "104.9",
@@ -278,7 +284,7 @@
             "Misc Lg Rank": {
                 "W": "4",
                 "L": "26",
-                "PW": "1",
+                "PW": "3",
                 "PL": "4",
                 "MOV": "3",
                 "SOS": "29",
@@ -289,15 +295,15 @@
                 "FTr": "9",
                 "3PAr": "19",
                 "eFG%": "3",
-                "TOV%": "10",
+                "TOV%": "9",
                 "ORB%": "4",
                 "FT/FGA": "22",
-                "DRB%": "19",
+                "DRB%": "18",
                 "Arena": "",
                 "Attendance": "6"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MEM-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/MEM-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

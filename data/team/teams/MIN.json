@@ -30,8 +30,8 @@
             {
                 "Player": "Joe Ingles",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Soleus) - Ingles did not play in Thursday's (Dec. 19) game against the Knicks."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Out (Soleus) - The Timberwolves have listed Ingles as Out for Saturday's (Dec. 21) game against the Warriors."
             }
         ],
         "team_stats": {
@@ -87,11 +87,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "22",
                 "FG": "24",
                 "FGA": "25",
                 "FG%": "17",
-                "3P": "8",
+                "3P": "7",
                 "3PA": "5",
                 "3P%": "13",
                 "2P": "27",
@@ -105,7 +105,7 @@
                 "TRB": "25",
                 "AST": "20",
                 "STL": "12",
-                "BLK": "24",
+                "BLK": "23",
                 "TOV": "21",
                 "PF": "6",
                 "PTS": "24"
@@ -187,7 +187,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "22",
                 "FG": "6",
                 "FGA": "7",
                 "FG%": "8",
@@ -207,7 +207,7 @@
                 "STL": "24",
                 "BLK": "12",
                 "TOV": "6",
-                "PF": "19",
+                "PF": "17",
                 "PTS": "4"
             },
             "Opp Year/Year": {
@@ -241,8 +241,8 @@
                 "PW": "16",
                 "PL": "10",
                 "MOV": "3.08",
-                "SOS": "-0.18",
-                "SRS": "2.90",
+                "SOS": "-0.20",
+                "SRS": "2.88",
                 "ORtg": "111.3",
                 "DRtg": "108.2",
                 "Pace": "97.8",
@@ -261,8 +261,8 @@
                 "L": "15",
                 "PW": "11",
                 "PL": "9",
-                "MOV": "10",
-                "SOS": "17",
+                "MOV": "9",
+                "SOS": "18",
                 "SRS": "11",
                 "ORtg": "21",
                 "DRtg": "5",
@@ -271,14 +271,14 @@
                 "3PAr": "5",
                 "eFG%": "5",
                 "TOV%": "4",
-                "ORB%": "24",
+                "ORB%": "23",
                 "FT/FGA": "6",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "12"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/MIN-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/MIN-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }

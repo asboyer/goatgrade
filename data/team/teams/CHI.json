@@ -31,14 +31,14 @@
             {
                 "Player": "Josh Giddey",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Ankle) - Giddey did not play in Thursday's (Dec. 19) game against the Celtics."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Ankle) - The Bulls have listed Giddey as Questionable for Saturday's (Dec. 21) game against the Celtics."
             },
             {
                 "Player": "Dalen Terry",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Day To Day (Knee) - Terry did not play in Thursday's (Dec. 19) game against the Celtics."
+                "Update": "Fri, Dec 20, 2024",
+                "Description": "Day To Day (Knee) - The Bulls have listed Terry as Questionable for Saturday's (Dec. 21) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -94,13 +94,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "6",
                 "FGA": "7",
                 "FG%": "9",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "9",
+                "3P%": "8",
                 "2P": "20",
                 "2PA": "26",
                 "2P%": "6",
@@ -111,8 +111,8 @@
                 "DRB": "2",
                 "TRB": "11",
                 "AST": "4",
-                "STL": "26",
-                "BLK": "20",
+                "STL": "27",
+                "BLK": "19",
                 "TOV": "20",
                 "PF": "11",
                 "PTS": "5"
@@ -194,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "9",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "25",
@@ -248,8 +248,8 @@
                 "PW": "12",
                 "PL": "16",
                 "MOV": "-2.61",
-                "SOS": "0.79",
-                "SRS": "-1.82",
+                "SOS": "0.76",
+                "SRS": "-1.85",
                 "ORtg": "114.0",
                 "DRtg": "116.5",
                 "Pace": "104.2",
@@ -271,7 +271,7 @@
                 "MOV": "19",
                 "SOS": "9",
                 "SRS": "17",
-                "ORtg": "12",
+                "ORtg": "11",
                 "DRtg": "25",
                 "Pace": "2",
                 "FTr": "28",
@@ -282,10 +282,10 @@
                 "FT/FGA": "10",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "8"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202411271/tlogo/bbr/CHI-2025.png",
-        "last_update": "Dec 20 2024 22:32:14"
+        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/CHI-2025.png",
+        "last_update": "Dec 21 2024 22:32:14"
     }
 }
