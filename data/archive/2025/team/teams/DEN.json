@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Christian Braun",
+                "Team": "Denver Nuggets",
+                "Update": "Sat, Dec 21, 2024",
+                "Description": "Day To Day (Back) - The Nuggets have listed Braun as Probable for Sunday's (Dec. 22) game against the Pelicans."
+            },
+            {
                 "Player": "Vlatko Čančar",
                 "Team": "Denver Nuggets",
                 "Update": "Wed, Dec 4, 2024",
@@ -43,8 +49,8 @@
             {
                 "Player": "Dario Šarić",
                 "Team": "Denver Nuggets",
-                "Update": "Fri, Dec 20, 2024",
-                "Description": "Day To Day (Ankle) - Saric did not play in Thursday's (Dec. 19) game against the Trailblazers."
+                "Update": "Sat, Dec 21, 2024",
+                "Description": "Day To Day (Ankle) - The Nuggets have listed Saric as Doubtful for Sunday's (Dec. 22) game against the Pelicans."
             }
         ],
         "team_stats": {
@@ -100,27 +106,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "29",
+                "MP": "30",
                 "FG": "3",
-                "FGA": "13",
-                "FG%": "3",
-                "3P": "24",
+                "FGA": "12",
+                "FG%": "2",
+                "3P": "25",
                 "3PA": "30",
-                "3P%": "4",
+                "3P%": "5",
                 "2P": "1",
                 "2PA": "1",
                 "2P%": "10",
-                "FT": "2",
+                "FT": "1",
                 "FTA": "1",
                 "FT%": "27",
-                "ORB": "14",
-                "DRB": "10",
-                "TRB": "9",
+                "ORB": "13",
+                "DRB": "9",
+                "TRB": "11",
                 "AST": "1",
-                "STL": "11",
-                "BLK": "25",
+                "STL": "10",
+                "BLK": "24",
                 "TOV": "13",
-                "PF": "10",
+                "PF": "11",
                 "PTS": "4"
             },
             "Year/Year": {
@@ -200,28 +206,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "29",
-                "FG": "26",
+                "MP": "30",
+                "FG": "27",
                 "FGA": "29",
-                "FG%": "18",
-                "3P": "23",
-                "3PA": "26",
-                "3P%": "12",
-                "2P": "28",
+                "FG%": "17",
+                "3P": "24",
+                "3PA": "25",
+                "3P%": "13",
+                "2P": "29",
                 "2PA": "27",
                 "2P%": "18",
                 "FT": "8",
                 "FTA": "8",
-                "FT%": "6",
-                "ORB": "27",
-                "DRB": "5",
+                "FT%": "5",
+                "ORB": "28",
+                "DRB": "4",
                 "TRB": "17",
                 "AST": "30",
                 "STL": "20",
                 "BLK": "23",
                 "TOV": "16",
                 "PF": "3",
-                "PTS": "24"
+                "PTS": "25"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -254,8 +260,8 @@
                 "PW": "14",
                 "PL": "11",
                 "MOV": "2.52",
-                "SOS": "0.75",
-                "SRS": "3.27",
+                "SOS": "0.78",
+                "SRS": "3.30",
                 "ORtg": "116.9",
                 "DRtg": "114.5",
                 "Pace": "101.3",
@@ -270,28 +276,28 @@
                 "Attendance": "217,211"
             },
             "Misc Lg Rank": {
-                "W": "11",
+                "W": "14",
                 "L": "23",
                 "PW": "14",
-                "PL": "10",
-                "MOV": "12",
+                "PL": "8",
+                "MOV": "10",
                 "SOS": "10",
-                "SRS": "10",
+                "SRS": "9",
                 "ORtg": "6",
-                "DRtg": "19",
+                "DRtg": "18",
                 "Pace": "5",
-                "FTr": "2",
+                "FTr": "1",
                 "3PAr": "30",
                 "eFG%": "16",
                 "TOV%": "20",
                 "ORB%": "11",
-                "FT/FGA": "4",
+                "FT/FGA": "3",
                 "DRB%": "26",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/DEN-2025.png",
-        "last_update": "Dec 21 2024 22:32:14"
+        "last_update": "Dec 22 2024 22:32:13"
     }
 }

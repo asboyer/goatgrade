@@ -31,14 +31,20 @@
             {
                 "Player": "Bruce Brown",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Dec 20, 2024",
-                "Description": "Day To Day (Reconditioning) - Brown did not play in Thursday's (Dec. 19) game against the Nets."
+                "Update": "Sat, Dec 21, 2024",
+                "Description": "Out (Reconditioning) - The Raptors have listed Brown as Out for Sunday's (Dec. 22) game against the Rockets."
+            },
+            {
+                "Player": "Davion Mitchell",
+                "Team": "Toronto Raptors",
+                "Update": "Sat, Dec 21, 2024",
+                "Description": "Day To Day (Shoulder) - The Raptors have listed Mitchell as Questionale for Sunday's (Dec. 22) game against the Rockets."
             },
             {
                 "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Dec 20, 2024",
-                "Description": "Day To Day (Groin) - Poeltl did not play in Thursday's (Dec. 19) game against the Nets."
+                "Update": "Sat, Dec 21, 2024",
+                "Description": "Out (Groin) - The Raptors have listed Poeltl as Out for Sunday's (Dec. 22) game against the Rockets."
             },
             {
                 "Player": "Immanuel Quickley",
@@ -100,28 +106,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "10",
                 "FG": "11",
                 "FGA": "8",
                 "FG%": "15",
                 "3P": "29",
-                "3PA": "28",
+                "3PA": "29",
                 "3P%": "24",
                 "2P": "4",
                 "2PA": "2",
-                "2P%": "20",
-                "FT": "21",
+                "2P%": "21",
+                "FT": "18",
                 "FTA": "15",
                 "FT%": "28",
                 "ORB": "3",
                 "DRB": "22",
-                "TRB": "6",
-                "AST": "6",
+                "TRB": "5",
+                "AST": "7",
                 "STL": "23",
-                "BLK": "22",
+                "BLK": "21",
                 "TOV": "22",
                 "PF": "30",
-                "PTS": "18"
+                "PTS": "19"
             },
             "Year/Year": {
                 "G": "",
@@ -200,11 +206,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "10",
                 "FG": "16",
                 "FGA": "15",
-                "FG%": "13",
-                "3P": "10",
+                "FG%": "12",
+                "3P": "12",
                 "3PA": "21",
                 "3P%": "8",
                 "2P": "17",
@@ -214,13 +220,13 @@
                 "FTA": "30",
                 "FT%": "19",
                 "ORB": "22",
-                "DRB": "6",
-                "TRB": "9",
-                "AST": "13",
+                "DRB": "7",
+                "TRB": "10",
+                "AST": "14",
                 "STL": "23",
-                "BLK": "24",
+                "BLK": "26",
                 "TOV": "23",
-                "PF": "20",
+                "PF": "16",
                 "PTS": "23"
             },
             "Opp Year/Year": {
@@ -254,8 +260,8 @@
                 "PW": "10",
                 "PL": "18",
                 "MOV": "-5.00",
-                "SOS": "1.00",
-                "SRS": "-4.00",
+                "SOS": "0.97",
+                "SRS": "-4.03",
                 "ORtg": "111.1",
                 "DRtg": "116.1",
                 "Pace": "99.4",
@@ -271,27 +277,27 @@
             },
             "Misc Lg Rank": {
                 "W": "26",
-                "L": "2",
+                "L": "3",
                 "PW": "23",
-                "PL": "25",
+                "PL": "24",
                 "MOV": "25",
-                "SOS": "5",
-                "SRS": "25",
-                "ORtg": "22",
+                "SOS": "8",
+                "SRS": "24",
+                "ORtg": "23",
                 "DRtg": "22",
                 "Pace": "11",
                 "FTr": "18",
                 "3PAr": "29",
-                "eFG%": "12",
-                "TOV%": "23",
+                "eFG%": "13",
+                "TOV%": "24",
                 "ORB%": "3",
                 "FT/FGA": "30",
-                "DRB%": "23",
+                "DRB%": "24",
                 "Arena": "",
                 "Attendance": "3"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/TOR-2025.png",
-        "last_update": "Dec 21 2024 22:32:14"
+        "last_update": "Dec 22 2024 22:32:13"
     }
 }
