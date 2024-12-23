@@ -34,16 +34,16 @@
                 "Description": "Out (Knee) - Bates underwent arthroscopic surgery to repair a torn meniscus in his right knee, Spencer Davies of SI.com reports."
             },
             {
+                "Player": "Sam Merrill",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Illness) - Merrill is listed as questionable for Monday's (Dec. 23) game against Utah."
+            },
+            {
                 "Player": "Isaac Okoro",
                 "Team": "Cleveland Cavaliers",
                 "Update": "Thu, Dec 19, 2024",
                 "Description": "Out (Shoulder) - The Cavaliers announced on Thursday (Dec. 19) that Okoro sustained a shoulder injury and will be re-evaluated in two weeks."
-            },
-            {
-                "Player": "Max Strus",
-                "Team": "Cleveland Cavaliers",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Ankle) - Strus did not play in Saturday's (Dec. 21) game against the 76ers."
             }
         ],
         "team_stats": {
@@ -99,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "9",
                 "FG": "2",
                 "FGA": "17",
                 "FG%": "1",
@@ -109,11 +109,11 @@
                 "2P": "11",
                 "2PA": "19",
                 "2P%": "1",
-                "FT": "19",
-                "FTA": "21",
+                "FT": "18",
+                "FTA": "20",
                 "FT%": "18",
                 "ORB": "22",
-                "DRB": "8",
+                "DRB": "9",
                 "TRB": "16",
                 "AST": "8",
                 "STL": "9",
@@ -199,27 +199,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "9",
                 "FG": "8",
-                "FGA": "13",
+                "FGA": "12",
                 "FG%": "7",
                 "3P": "13",
                 "3PA": "7",
                 "3P%": "23",
-                "2P": "9",
+                "2P": "10",
                 "2PA": "21",
                 "2P%": "3",
                 "FT": "10",
                 "FTA": "10",
-                "FT%": "22",
+                "FT%": "23",
                 "ORB": "13",
-                "DRB": "11",
+                "DRB": "10",
                 "TRB": "9",
                 "AST": "8",
                 "STL": "6",
                 "BLK": "9",
                 "TOV": "6",
-                "PF": "19",
+                "PF": "17",
                 "PTS": "9"
             },
             "Opp Year/Year": {
@@ -253,8 +253,8 @@
                 "PW": "23",
                 "PL": "6",
                 "MOV": "11.62",
-                "SOS": "-2.53",
-                "SRS": "9.10",
+                "SOS": "-2.42",
+                "SRS": "9.20",
                 "ORtg": "121.6",
                 "DRtg": "110.0",
                 "Pace": "100.1",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/CLE-2025.png",
-        "last_update": "Dec 22 2024 22:32:13"
+        "last_update": "Dec 23 2024 22:32:15"
     }
 }

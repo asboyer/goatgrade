@@ -29,12 +29,6 @@
         ],
         "injuries": [
             {
-                "Player": "LaMelo Ball",
-                "Team": "Charlotte Hornets",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Calf) - Ball did not play in Friday's (Dec. 20) game against the 76ers."
-            },
-            {
                 "Player": "Tre Mann",
                 "Team": "Charlotte Hornets",
                 "Update": "Mon, Dec 16, 2024",
@@ -43,20 +37,14 @@
             {
                 "Player": "Brandon Miller",
                 "Team": "Charlotte Hornets",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Ankle) - Miller did not play in Friday's (Dec. 20) game against the 76ers."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Out (Ankle) - Miller is listed as OUT for Monday's (Dec. 23) game against Houston."
             },
             {
                 "Player": "Grant Williams",
                 "Team": "Charlotte Hornets",
                 "Update": "Wed, Dec 11, 2024",
                 "Description": "Out For Season (ACL) - The Hornets announced on Wednesday (Dec. 11) that Williams underwent successful surgery to repair multiple tears in his knee, including the ACL, per ESPN's Shams Charania. He is expected to return in 9 to 12 months."
-            },
-            {
-                "Player": "Mark Williams",
-                "Team": "Charlotte Hornets",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Foot) - Williams did not play in Friday's (Dec. 20) game against the 76ers."
             }
         ],
         "team_stats": {
@@ -112,9 +100,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "14",
                 "FG": "27",
-                "FGA": "11",
+                "FGA": "12",
                 "FG%": "30",
                 "3P": "8",
                 "3PA": "3",
@@ -126,7 +114,7 @@
                 "FTA": "30",
                 "FT%": "21",
                 "ORB": "2",
-                "DRB": "24",
+                "DRB": "25",
                 "TRB": "7",
                 "AST": "27",
                 "STL": "18",
@@ -212,12 +200,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
-                "FG": "11",
+                "MP": "14",
+                "FG": "10",
                 "FGA": "6",
                 "FG%": "21",
                 "3P": "20",
-                "3PA": "18",
+                "3PA": "19",
                 "3P%": "15",
                 "2P": "7",
                 "2PA": "5",
@@ -225,14 +213,14 @@
                 "FT": "25",
                 "FTA": "24",
                 "FT%": "17",
-                "ORB": "5",
-                "DRB": "13",
-                "TRB": "8",
+                "ORB": "6",
+                "DRB": "12",
+                "TRB": "7",
                 "AST": "16",
                 "STL": "15",
                 "BLK": "20",
-                "TOV": "17",
-                "PF": "20",
+                "TOV": "18",
+                "PF": "18",
                 "PTS": "16"
             },
             "Opp Year/Year": {
@@ -266,8 +254,8 @@
                 "PW": "9",
                 "PL": "19",
                 "MOV": "-6.36",
-                "SOS": "0.25",
-                "SRS": "-6.11",
+                "SOS": "0.43",
+                "SRS": "-5.93",
                 "ORtg": "108.9",
                 "DRtg": "115.4",
                 "Pace": "97.2",
@@ -283,18 +271,18 @@
             },
             "Misc Lg Rank": {
                 "W": "26",
-                "L": "3",
+                "L": "4",
                 "PW": "26",
                 "PL": "26",
                 "MOV": "26",
-                "SOS": "13",
+                "SOS": "11",
                 "SRS": "26",
                 "ORtg": "26",
                 "DRtg": "21",
                 "Pace": "27",
                 "FTr": "29",
                 "3PAr": "3",
-                "eFG%": "23",
+                "eFG%": "24",
                 "TOV%": "15",
                 "ORB%": "2",
                 "FT/FGA": "25",
@@ -304,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/CHO-2025.png",
-        "last_update": "Dec 22 2024 22:32:13"
+        "last_update": "Dec 23 2024 22:32:15"
     }
 }

@@ -30,14 +30,26 @@
             {
                 "Player": "Giannis Antetokounmpo",
                 "Team": "Milwaukee Bucks",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Back) - Antetokounmpo did not play in Saturday's (Dec. 21) game against the Wizards."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Back) - Antetokounmpo is listed as questionable for Monday's (Dec. 23) game against Chicago."
             },
             {
                 "Player": "Damian Lillard",
                 "Team": "Milwaukee Bucks",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Calf) - Lillard did not play in Saturday's (Dec. 21) game against the Wizards."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Calf) - Lillard is listed as doubtful for Monday's (Dec. 23) game against Chicago."
+            },
+            {
+                "Player": "Chris Livingston",
+                "Team": "Milwaukee Bucks",
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Illness) - Livingston is listed as questionable for Monday's (Dec. 23) game against Chicago."
+            },
+            {
+                "Player": "Khris Middleton",
+                "Team": "Milwaukee Bucks",
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Ankle) - Middleton is listed as probable for Monday's (Dec. 23) game against Chicago."
             }
         ],
         "team_stats": {
@@ -103,7 +115,7 @@
                 "2P": "19",
                 "2PA": "22",
                 "2P%": "11",
-                "FT": "20",
+                "FT": "19",
                 "FTA": "12",
                 "FT%": "29",
                 "ORB": "30",
@@ -194,14 +206,14 @@
             "Opp Lg Rank": {
                 "G": "",
                 "MP": "23",
-                "FG": "13",
+                "FG": "12",
                 "FGA": "20",
                 "FG%": "6",
-                "3P": "23",
-                "3PA": "20",
+                "3P": "24",
+                "3PA": "21",
                 "3P%": "22",
                 "2P": "6",
-                "2PA": "18",
+                "2PA": "17",
                 "2P%": "4",
                 "FT": "12",
                 "FTA": "9",
@@ -213,7 +225,7 @@
                 "STL": "5",
                 "BLK": "1",
                 "TOV": "26",
-                "PF": "17",
+                "PF": "15",
                 "PTS": "12"
             },
             "Opp Year/Year": {
@@ -247,8 +259,8 @@
                 "PW": "14",
                 "PL": "13",
                 "MOV": "0.85",
-                "SOS": "-0.08",
-                "SRS": "0.77",
+                "SOS": "0.04",
+                "SRS": "0.89",
                 "ORtg": "113.8",
                 "DRtg": "112.9",
                 "Pace": "98.7",
@@ -266,11 +278,11 @@
                 "W": "11",
                 "L": "19",
                 "PW": "15",
-                "PL": "15",
+                "PL": "14",
                 "MOV": "15",
-                "SOS": "18",
-                "SRS": "15",
-                "ORtg": "11",
+                "SOS": "15",
+                "SRS": "14",
+                "ORtg": "12",
                 "DRtg": "12",
                 "Pace": "17",
                 "FTr": "9",
@@ -279,12 +291,12 @@
                 "TOV%": "26",
                 "ORB%": "30",
                 "FT/FGA": "15",
-                "DRB%": "6",
+                "DRB%": "7",
                 "Arena": "",
                 "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/MIL-2025.png",
-        "last_update": "Dec 22 2024 22:32:13"
+        "last_update": "Dec 23 2024 22:32:15"
     }
 }

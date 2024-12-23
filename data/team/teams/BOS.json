@@ -30,8 +30,8 @@
             {
                 "Player": "Sam Hauser",
                 "Team": "Boston Celtics",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Back) - Hauser did not play in Saturday's (Dec. 21) game against the Bulls."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Back) - Hauser is listed as questionable for Monday's (Dec. 23) game against Orlando. "
             }
         ],
         "team_stats": {
@@ -87,7 +87,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "12",
                 "FGA": "6",
                 "FG%": "19",
@@ -108,7 +108,7 @@
                 "BLK": "7",
                 "TOV": "1",
                 "PF": "1",
-                "PTS": "3"
+                "PTS": "4"
             },
             "Year/Year": {
                 "G": "",
@@ -187,7 +187,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "18",
                 "FGA": "23",
                 "FG%": "9",
@@ -241,8 +241,8 @@
                 "PW": "22",
                 "PL": "6",
                 "MOV": "10.00",
-                "SOS": "-1.43",
-                "SRS": "8.57",
+                "SOS": "-1.31",
+                "SRS": "8.69",
                 "ORtg": "120.4",
                 "DRtg": "110.3",
                 "Pace": "98.3",
@@ -266,19 +266,19 @@
                 "SRS": "3",
                 "ORtg": "3",
                 "DRtg": "9",
-                "Pace": "20",
+                "Pace": "21",
                 "FTr": "22",
                 "3PAr": "1",
                 "eFG%": "7",
                 "TOV%": "25",
                 "ORB%": "17",
                 "FT/FGA": "1",
-                "DRB%": "4",
+                "DRB%": "3",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "6"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/BOS-2025.png",
-        "last_update": "Dec 22 2024 22:32:13"
+        "last_update": "Dec 23 2024 22:32:15"
     }
 }

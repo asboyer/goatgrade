@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Bogdan Bogdanović",
+                "Team": "Atlanta Hawks",
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Leg) - Bogdanovic is listed as questionable for Monday's (Dec. 23) game against Minnesota. "
+            },
+            {
                 "Player": "Kobe Bufkin",
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Dec 18, 2024",
@@ -42,8 +48,8 @@
             {
                 "Player": "Trae Young",
                 "Team": "Atlanta Hawks",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Heel) - Young did not play in Saturday's (Dec. 21) game against the Grizzlies."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Heel) - Young is listed as questionable for Monday's (Dec. 23) game against Minnesota. "
             },
             {
                 "Player": "Cody Zeller",
@@ -105,10 +111,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "8",
+                "MP": "6",
+                "FG": "7",
                 "FGA": "3",
-                "FG%": "16",
+                "FG%": "15",
                 "3P": "20",
                 "3PA": "21",
                 "3P%": "21",
@@ -205,7 +211,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "6",
                 "FG": "25",
                 "FGA": "27",
                 "FG%": "19",
@@ -216,7 +222,7 @@
                 "2PA": "10",
                 "2P%": "17",
                 "FT": "15",
-                "FTA": "18",
+                "FTA": "19",
                 "FT%": "8",
                 "ORB": "14",
                 "DRB": "20",
@@ -259,8 +265,8 @@
                 "PW": "12",
                 "PL": "17",
                 "MOV": "-3.17",
-                "SOS": "-0.35",
-                "SRS": "-3.53",
+                "SOS": "-0.37",
+                "SRS": "-3.55",
                 "ORtg": "111.4",
                 "DRtg": "114.4",
                 "Pace": "103.7",
@@ -275,18 +281,18 @@
                 "Attendance": "227,857"
             },
             "Misc Lg Rank": {
-                "W": "14",
+                "W": "15",
                 "L": "12",
                 "PW": "20",
                 "PL": "22",
                 "MOV": "21",
                 "SOS": "21",
-                "SRS": "21",
+                "SRS": "23",
                 "ORtg": "20",
-                "DRtg": "17",
+                "DRtg": "18",
                 "Pace": "3",
                 "FTr": "10",
-                "3PAr": "27",
+                "3PAr": "26",
                 "eFG%": "27",
                 "TOV%": "8",
                 "ORB%": "8",
@@ -297,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/ATL-2025.png",
-        "last_update": "Dec 22 2024 22:32:13"
+        "last_update": "Dec 23 2024 22:32:15"
     }
 }

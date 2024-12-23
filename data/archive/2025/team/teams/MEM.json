@@ -31,8 +31,8 @@
             {
                 "Player": "Jay Huff",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Ankle) - Huff did not play in Saturday's (Dec. 21) game against the Hawks."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Ankle) - Huff is listed as OUT for Monday's (Dec. 23) game against the Clippers."
             },
             {
                 "Player": "GG Jackson II",
@@ -41,16 +41,10 @@
                 "Description": "Out (Foot ) - The Grizzlies announced Jackson continues to progress well from offseason foot surgery and is expected to return to play in 6-8 weeks."
             },
             {
-                "Player": "Ja Morant",
-                "Team": "Memphis Grizzlies",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Back) - Morant did not play in Saturday's (Dec. 21) game against the Hawks."
-            },
-            {
                 "Player": "Marcus Smart",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Finger) - The Grizzlies announced Smart is Doubtful to return to Saturday's (Dec. 21) game against Atlanta."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Out (Finger) - Smart is listed as OUT for Monday's (Dec. 23) game against the Clippers."
             },
             {
                 "Player": "Vince Williams Jr.",
@@ -112,10 +106,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "9",
                 "FG": "1",
                 "FGA": "2",
-                "FG%": "4",
+                "FG%": "5",
                 "3P": "12",
                 "3PA": "13",
                 "3P%": "14",
@@ -123,13 +117,13 @@
                 "2PA": "6",
                 "2P%": "2",
                 "FT": "6",
-                "FTA": "6",
+                "FTA": "7",
                 "FT%": "17",
                 "ORB": "8",
                 "DRB": "1",
                 "TRB": "2",
                 "AST": "2",
-                "STL": "6",
+                "STL": "7",
                 "BLK": "3",
                 "TOV": "29",
                 "PF": "28",
@@ -212,15 +206,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "9",
                 "FG": "9",
                 "FGA": "25",
                 "FG%": "3",
                 "3P": "13",
                 "3PA": "28",
                 "3P%": "2",
-                "2P": "10",
-                "2PA": "17",
+                "2P": "11",
+                "2PA": "16",
                 "2P%": "5",
                 "FT": "28",
                 "FTA": "28",
@@ -229,7 +223,7 @@
                 "DRB": "5",
                 "TRB": "14",
                 "AST": "5",
-                "STL": "22",
+                "STL": "21",
                 "BLK": "17",
                 "TOV": "4",
                 "PF": "2",
@@ -266,8 +260,8 @@
                 "PW": "22",
                 "PL": "7",
                 "MOV": "10.17",
-                "SOS": "-2.10",
-                "SRS": "8.07",
+                "SOS": "-2.11",
+                "SRS": "8.06",
                 "ORtg": "117.2",
                 "DRtg": "107.5",
                 "Pace": "105.0",
@@ -304,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/MEM-2025.png",
-        "last_update": "Dec 22 2024 22:32:13"
+        "last_update": "Dec 23 2024 22:32:15"
     }
 }

@@ -30,14 +30,20 @@
             {
                 "Player": "Luka Garza",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Ankle) - Garza did not play in Saturday's (Dec. 21) game against the Warriors."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Ankle) - Garza is listed as OUT for Monday's (Dec. 23) game against Atlanta."
             },
             {
                 "Player": "Joe Ingles",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Soleus) - Ingles did not play in Saturday's (Dec. 21) game against the Warriors."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Out (Soleus) - Ingles is listed as OUT for Monday's (Dec. 23) game against Atlanta."
+            },
+            {
+                "Player": "Daishen Nix",
+                "Team": "Minnesota Timberwolves",
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Ankle) - Nix is listed as questionable for Monday's (Dec. 23) game against Atlanta."
             }
         ],
         "team_stats": {
@@ -94,7 +100,7 @@
             "Lg Rank": {
                 "G": "",
                 "MP": "21",
-                "FG": "24",
+                "FG": "25",
                 "FGA": "24",
                 "FG%": "18",
                 "3P": "6",
@@ -110,8 +116,8 @@
                 "DRB": "18",
                 "TRB": "25",
                 "AST": "20",
-                "STL": "12",
-                "BLK": "22",
+                "STL": "13",
+                "BLK": "23",
                 "TOV": "21",
                 "PF": "6",
                 "PTS": "23"
@@ -207,10 +213,10 @@
                 "FTA": "4",
                 "FT%": "20",
                 "ORB": "16",
-                "DRB": "12",
-                "TRB": "13",
+                "DRB": "11",
+                "TRB": "12",
                 "AST": "7",
-                "STL": "24",
+                "STL": "23",
                 "BLK": "12",
                 "TOV": "7",
                 "PF": "11",
@@ -247,8 +253,8 @@
                 "PW": "16",
                 "PL": "11",
                 "MOV": "2.59",
-                "SOS": "-0.08",
-                "SRS": "2.51",
+                "SOS": "-0.25",
+                "SRS": "2.34",
                 "ORtg": "111.1",
                 "DRtg": "108.5",
                 "Pace": "97.7",
@@ -263,17 +269,17 @@
                 "Attendance": "265,692"
             },
             "Misc Lg Rank": {
-                "W": "14",
+                "W": "15",
                 "L": "14",
                 "PW": "11",
                 "PL": "10",
                 "MOV": "9",
-                "SOS": "17",
+                "SOS": "20",
                 "SRS": "12",
                 "ORtg": "22",
                 "DRtg": "5",
                 "Pace": "23",
-                "FTr": "19",
+                "FTr": "18",
                 "3PAr": "5",
                 "eFG%": "5",
                 "TOV%": "4",
@@ -285,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/MIN-2025.png",
-        "last_update": "Dec 22 2024 22:32:13"
+        "last_update": "Dec 23 2024 22:32:15"
     }
 }

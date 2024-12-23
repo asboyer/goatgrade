@@ -36,14 +36,14 @@
             {
                 "Player": "Gary Harris",
                 "Team": "Orlando Magic",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Hamstring) - Harris did not play in Saturday's (Dec. 21) game against the Heat."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Hamstring) - Harris is listed as questionable for Monday's (Dec. 23) game against Boston."
             },
             {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Ankle) - Suggs did not play in Saturday's (Dec. 21) game against the Heat."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Ankle) - Suggs is listed as questionable for Monday's (Dec. 23) game against Boston."
             },
             {
                 "Player": "Franz Wagner",
@@ -54,8 +54,8 @@
             {
                 "Player": "Moritz Wagner",
                 "Team": "Orlando Magic",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Knee) - The Orlando Magic announced Wagner will not return to Saturday's (Dec. 21) game against Miami."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Out For Season (Knee) - Orlando Magic forward Moe Wagner has suffered a season-ending torn ACL in his left knee, sources told ESPN"
             }
         ],
         "team_stats": {
@@ -111,27 +111,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "3",
                 "FG": "28",
                 "FGA": "26",
                 "FG%": "23",
-                "3P": "28",
+                "3P": "29",
                 "3PA": "15",
                 "3P%": "30",
                 "2P": "18",
                 "2PA": "23",
-                "2P%": "6",
+                "2P%": "5",
                 "FT": "4",
-                "FTA": "5",
+                "FTA": "6",
                 "FT%": "11",
                 "ORB": "14",
                 "DRB": "26",
                 "TRB": "26",
-                "AST": "25",
-                "STL": "5",
+                "AST": "26",
+                "STL": "6",
                 "BLK": "1",
                 "TOV": "17",
-                "PF": "21",
+                "PF": "23",
                 "PTS": "26"
             },
             "Year/Year": {
@@ -211,17 +211,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "3",
                 "FG": "2",
                 "FGA": "1",
-                "FG%": "15",
+                "FG%": "14",
                 "3P": "1",
                 "3PA": "1",
                 "3P%": "14",
-                "2P": "3",
+                "2P": "2",
                 "2PA": "7",
                 "2P%": "9",
-                "FT": "18",
+                "FT": "19",
                 "FTA": "20",
                 "FT%": "7",
                 "ORB": "1",
@@ -265,8 +265,8 @@
                 "PW": "18",
                 "PL": "12",
                 "MOV": "3.33",
-                "SOS": "-0.59",
-                "SRS": "2.74",
+                "SOS": "-0.41",
+                "SRS": "2.92",
                 "ORtg": "110.4",
                 "DRtg": "106.9",
                 "Pace": "97.2",
@@ -281,13 +281,13 @@
                 "Attendance": "237,040"
             },
             "Misc Lg Rank": {
-                "W": "5",
+                "W": "6",
                 "L": "19",
                 "PW": "8",
                 "PL": "12",
                 "MOV": "8",
-                "SOS": "23",
-                "SRS": "11",
+                "SOS": "22",
+                "SRS": "9",
                 "ORtg": "25",
                 "DRtg": "3",
                 "Pace": "25",
@@ -299,10 +299,10 @@
                 "FT/FGA": "26",
                 "DRB%": "1",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/ORL-2025.png",
-        "last_update": "Dec 22 2024 22:32:13"
+        "last_update": "Dec 23 2024 22:32:15"
     }
 }

@@ -31,14 +31,14 @@
             {
                 "Player": "Torrey Craig",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Out (Achilles) - Craig did not play in Saturday's (Dec. 21) game against the Celtics."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Achilles) - Craig is listed as questionable for Monday's (Dec.23) game against Milwaukee."
             },
             {
                 "Player": "Josh Giddey",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Ankle) - Giddey did not play in Saturday's (Dec. 21) game against the Celtics."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Ankle) - Giddey is listed as questionable for Monday's (Dec.23) game against Milwaukee."
             }
         ],
         "team_stats": {
@@ -94,19 +94,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "9",
                 "FG": "6",
                 "FGA": "7",
                 "FG%": "10",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "7",
+                "3P%": "8",
                 "2P": "21",
                 "2PA": "24",
-                "2P%": "9",
+                "2P%": "10",
                 "FT": "27",
                 "FTA": "28",
-                "FT%": "5",
+                "FT%": "4",
                 "ORB": "27",
                 "DRB": "2",
                 "TRB": "12",
@@ -194,18 +194,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "9",
                 "FG": "30",
                 "FGA": "30",
-                "FG%": "25",
-                "3P": "9",
+                "FG%": "26",
+                "3P": "10",
                 "3PA": "26",
                 "3P%": "3",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "29",
                 "FT": "15",
-                "FTA": "17",
+                "FTA": "18",
                 "FT%": "13",
                 "ORB": "14",
                 "DRB": "30",
@@ -248,8 +248,8 @@
                 "PW": "12",
                 "PL": "17",
                 "MOV": "-3.38",
-                "SOS": "1.11",
-                "SRS": "-2.27",
+                "SOS": "1.21",
+                "SRS": "-2.17",
                 "ORtg": "113.4",
                 "DRtg": "116.7",
                 "Pace": "104.1",
@@ -264,12 +264,12 @@
                 "Attendance": "276,491"
             },
             "Misc Lg Rank": {
-                "W": "18",
-                "L": "10",
+                "W": "19",
+                "L": "11",
                 "PW": "22",
                 "PL": "23",
                 "MOV": "22",
-                "SOS": "6",
+                "SOS": "5",
                 "SRS": "18",
                 "ORtg": "13",
                 "DRtg": "24",
@@ -282,10 +282,10 @@
                 "FT/FGA": "10",
                 "DRB%": "5",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/CHI-2025.png",
-        "last_update": "Dec 22 2024 22:32:13"
+        "last_update": "Dec 23 2024 22:32:15"
     }
 }

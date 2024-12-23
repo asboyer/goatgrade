@@ -35,8 +35,8 @@
             {
                 "Player": "Dorian Finney-Smith",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Calf) - Finney-Smith did not play in Saturday's (Dec. 21) game against the Jazz."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Calf) - Finney-Smith is listed as questionable for Monday's (Dec. 23) game against Miami."
             },
             {
                 "Player": "De'Anthony Melton",
@@ -59,8 +59,8 @@
             {
                 "Player": "Ziaire Williams",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Knee) - Williams did not play in Saturday's (Dec. 21) game against the Jazz."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Out (Knee) - Williams is listed as questionable for Monday's (Dec. 23) game against Miami."
             }
         ],
         "team_stats": {
@@ -116,7 +116,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "14",
                 "FG": "29",
                 "FGA": "30",
                 "FG%": "21",
@@ -127,7 +127,7 @@
                 "2PA": "29",
                 "2P%": "20",
                 "FT": "14",
-                "FTA": "18",
+                "FTA": "17",
                 "FT%": "2",
                 "ORB": "28",
                 "DRB": "29",
@@ -216,7 +216,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "14",
                 "FG": "15",
                 "FGA": "3",
                 "FG%": "30",
@@ -233,7 +233,7 @@
                 "DRB": "14",
                 "TRB": "5",
                 "AST": "21",
-                "STL": "12",
+                "STL": "14",
                 "BLK": "28",
                 "TOV": "14",
                 "PF": "9",
@@ -270,8 +270,8 @@
                 "PW": "10",
                 "PL": "18",
                 "MOV": "-4.96",
-                "SOS": "1.38",
-                "SRS": "-3.58",
+                "SOS": "1.46",
+                "SRS": "-3.51",
                 "ORtg": "111.8",
                 "DRtg": "116.9",
                 "Pace": "96.9",
@@ -289,14 +289,14 @@
                 "W": "23",
                 "L": "7",
                 "PW": "24",
-                "PL": "25",
+                "PL": "24",
                 "MOV": "24",
                 "SOS": "2",
                 "SRS": "22",
                 "ORtg": "18",
                 "DRtg": "25",
                 "Pace": "28",
-                "FTr": "13",
+                "FTr": "14",
                 "3PAr": "4",
                 "eFG%": "30",
                 "TOV%": "9",
@@ -308,6 +308,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/BRK-2025.png",
-        "last_update": "Dec 22 2024 22:32:13"
+        "last_update": "Dec 23 2024 22:32:15"
     }
 }

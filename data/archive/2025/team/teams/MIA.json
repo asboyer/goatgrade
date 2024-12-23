@@ -29,20 +29,20 @@
             {
                 "Player": "Jimmy Butler",
                 "Team": "Miami Heat",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Illness) - Butler did not play in Saturday's (Dec. 21) game against the Magic."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Illness) - Butler is listed as questionable for Monday's (Dec. 23) game against Brooklyn."
             },
             {
                 "Player": "Kevin Love",
                 "Team": "Miami Heat",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Personal) - Love did not play in Saturday's (Dec. 21) game against the Magic."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Day To Day (Personal) - Love is listed as probable for Monday's (Dec. 23) game against Brooklyn."
             },
             {
                 "Player": "Josh Richardson",
                 "Team": "Miami Heat",
-                "Update": "Sat, Dec 21, 2024",
-                "Description": "Day To Day (Heel) - Richardson did not play in Saturday's (Dec. 21) game against the Magic."
+                "Update": "Sun, Dec 22, 2024",
+                "Description": "Out (Heel) - Richardson is listed as OUT for Monday's (Dec. 23) game against Brooklyn."
             }
         ],
         "team_stats": {
@@ -108,14 +108,14 @@
                 "2P": "26",
                 "2PA": "20",
                 "2P%": "25",
-                "FT": "9",
+                "FT": "10",
                 "FTA": "10",
                 "FT%": "15",
-                "ORB": "20",
+                "ORB": "21",
                 "DRB": "14",
                 "TRB": "17",
-                "AST": "17",
-                "STL": "10",
+                "AST": "16",
+                "STL": "11",
                 "BLK": "30",
                 "TOV": "3",
                 "PF": "3",
@@ -199,12 +199,12 @@
             "Opp Lg Rank": {
                 "G": "",
                 "MP": "27",
-                "FG": "14",
+                "FG": "13",
                 "FGA": "10",
-                "FG%": "14",
+                "FG%": "13",
                 "3P": "18",
                 "3PA": "15",
-                "3P%": "18",
+                "3P%": "19",
                 "2P": "13",
                 "2PA": "9",
                 "2P%": "15",
@@ -213,11 +213,11 @@
                 "FT%": "28",
                 "ORB": "19",
                 "DRB": "26",
-                "TRB": "26",
+                "TRB": "25",
                 "AST": "19",
                 "STL": "3",
                 "BLK": "18",
-                "TOV": "13",
+                "TOV": "12",
                 "PF": "12",
                 "PTS": "8"
             },
@@ -252,8 +252,8 @@
                 "PW": "15",
                 "PL": "11",
                 "MOV": "2.31",
-                "SOS": "-0.32",
-                "SRS": "1.98",
+                "SOS": "-0.21",
+                "SRS": "2.09",
                 "ORtg": "114.1",
                 "DRtg": "111.8",
                 "Pace": "97.2",
@@ -268,14 +268,14 @@
                 "Attendance": "255,289"
             },
             "Misc Lg Rank": {
-                "W": "18",
+                "W": "19",
                 "L": "14",
-                "PW": "13",
+                "PW": "14",
                 "PL": "9",
                 "MOV": "11",
-                "SOS": "20",
+                "SOS": "19",
                 "SRS": "13",
-                "ORtg": "10",
+                "ORtg": "11",
                 "DRtg": "10",
                 "Pace": "26",
                 "FTr": "8",
@@ -290,6 +290,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/MIA-2025.png",
-        "last_update": "Dec 22 2024 22:32:13"
+        "last_update": "Dec 23 2024 22:32:15"
     }
 }
