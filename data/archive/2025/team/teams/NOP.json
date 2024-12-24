@@ -30,8 +30,8 @@
             {
                 "Player": "Jose Alvarado",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sun, Dec 22, 2024",
-                "Description": "Out (Hamstring) - Alvarado is listed as OUT for Sunday's (Dec. 22) game against Denver."
+                "Update": "Mon, Dec 23, 2024",
+                "Description": "Day To Day (Hamstring) - Alvarado did not play in Sunday's (Dec. 22) game against Denver."
             },
             {
                 "Player": "Brandon Ingram",
@@ -42,8 +42,8 @@
             {
                 "Player": "Karlo Matković",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sun, Dec 22, 2024",
-                "Description": "Out (Back) - Matkovic is listed as OUT for Sunday's (Dec. 22) game against Denver."
+                "Update": "Mon, Dec 23, 2024",
+                "Description": "Day To Day (Back) - Matkovic did not play in Sunday's (Dec. 22) game against Denver."
             },
             {
                 "Player": "Zion Williamson",
@@ -105,28 +105,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "7",
                 "FG": "24",
                 "FGA": "11",
                 "FG%": "29",
                 "3P": "30",
-                "3PA": "29",
-                "3P%": "26",
+                "3PA": "27",
+                "3P%": "25",
                 "2P": "13",
-                "2PA": "5",
+                "2PA": "4",
                 "2P%": "30",
-                "FT": "25",
+                "FT": "24",
                 "FTA": "19",
                 "FT%": "26",
-                "ORB": "6",
+                "ORB": "5",
                 "DRB": "27",
-                "TRB": "20",
+                "TRB": "22",
                 "AST": "25",
                 "STL": "5",
                 "BLK": "12",
-                "TOV": "19",
-                "PF": "9",
-                "PTS": "29"
+                "TOV": "18",
+                "PF": "11",
+                "PTS": "30"
             },
             "Year/Year": {
                 "G": "",
@@ -205,27 +205,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
-                "FG": "26",
+                "MP": "7",
+                "FG": "27",
                 "FGA": "21",
                 "FG%": "29",
                 "3P": "25",
-                "3PA": "22",
-                "3P%": "24",
-                "2P": "28",
+                "3PA": "21",
+                "3P%": "23",
+                "2P": "27",
                 "2PA": "18",
                 "2P%": "26",
                 "FT": "8",
-                "FTA": "7",
-                "FT%": "22",
+                "FTA": "6",
+                "FT%": "23",
                 "ORB": "24",
-                "DRB": "23",
+                "DRB": "22",
                 "TRB": "26",
-                "AST": "28",
-                "STL": "20",
-                "BLK": "22",
+                "AST": "29",
+                "STL": "21",
+                "BLK": "21",
                 "TOV": "16",
-                "PF": "29",
+                "PF": "27",
                 "PTS": "25"
             },
             "Opp Year/Year": {
@@ -259,8 +259,8 @@
                 "PW": "6",
                 "PL": "24",
                 "MOV": "-11.47",
-                "SOS": "1.22",
-                "SRS": "-10.24",
+                "SOS": "1.18",
+                "SRS": "-10.29",
                 "ORtg": "107.0",
                 "DRtg": "118.6",
                 "Pace": "98.5",
@@ -280,23 +280,23 @@
                 "PW": "29",
                 "PL": "30",
                 "MOV": "29",
-                "SOS": "4",
+                "SOS": "5",
                 "SRS": "29",
                 "ORtg": "29",
                 "DRtg": "28",
                 "Pace": "20",
-                "FTr": "21",
+                "FTr": "22",
                 "3PAr": "28",
                 "eFG%": "29",
                 "TOV%": "17",
                 "ORB%": "7",
-                "FT/FGA": "8",
+                "FT/FGA": "6",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "19"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202412201/tlogo/bbr/NOP-2025.png",
-        "last_update": "Dec 23 2024 22:32:15"
+        "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/NOP-2025.png",
+        "last_update": "Dec 24 2024 22:32:12"
     }
 }
