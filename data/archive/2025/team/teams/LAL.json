@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Tue, Dec 24, 2024",
+                "Description": "Day To Day (Shoulder) - The Lakers have listed Davis as Questionable for Wednesday's (Dec. 25) game against the Warriors."
+            },
+            {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
                 "Update": "Tue, Dec 17, 2024",
@@ -37,8 +43,20 @@
             {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Mon, Dec 23, 2024",
-                "Description": "Out (Hamstring) - Hood-Schifino is listed as OUT for Monday's (Dec. 23) game against Detroit. "
+                "Update": "Tue, Dec 24, 2024",
+                "Description": "Out (Hamstring) - The Lakers have listed Hood-Schifino as Out for Wednesday's (Dec. 25) game against the Warriors."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Tue, Dec 24, 2024",
+                "Description": "Day To Day (Foot) - The Lakers have listed James as Questionable for Wednesday's (Dec. 25) game against the Warriors."
+            },
+            {
+                "Player": "D'Angelo Russell",
+                "Team": "Los Angeles Lakers",
+                "Update": "Tue, Dec 24, 2024",
+                "Description": "Day To Day (Hand) - The Lakers have listed Russell as Questionable for Wednesday's (Dec. 25) game against the Warriors."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -298,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/LAL-2025.png",
-        "last_update": "Dec 24 2024 22:32:12"
+        "last_update": "Dec 25 2024 22:32:13"
     }
 }

@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Luka Dončić",
+                "Team": "Dallas Mavericks",
+                "Update": "Tue, Dec 24, 2024",
+                "Description": "Day To Day (Foot) - The Mavericks listed Doncic as Probable on Wednesday's (Dec. 25) game against the Timberwolves. "
+            },
+            {
                 "Player": "Dante Exum",
                 "Team": "Dallas Mavericks",
                 "Update": "Wed, Oct 9, 2024",
@@ -37,14 +43,14 @@
             {
                 "Player": "Jaden Hardy",
                 "Team": "Dallas Mavericks",
-                "Update": "Sun, Dec 22, 2024",
-                "Description": "Out (Ankle) - Hardy is listed as OUT for Monday's (Dec. 23) game against Portland. "
+                "Update": "Tue, Dec 24, 2024",
+                "Description": "Day To Day (Ankle) - The Mavericks listed Hardy as Questionable on Wednesday's (Dec. 25) game against the Timberwolves. "
             },
             {
                 "Player": "Brandon Williams",
                 "Team": "Dallas Mavericks",
-                "Update": "Sun, Dec 22, 2024",
-                "Description": "Day To Day (Thumb) - Williams is listed as OUT for Monday's (Dec. 23) game against Portland. "
+                "Update": "Tue, Dec 24, 2024",
+                "Description": "Out (Thumb) - The Mavericks listed Williams as Out on Wednesday's (Dec. 25) game against the Timberwolves. "
             }
         ],
         "team_stats": {
@@ -292,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/DAL-2025.png",
-        "last_update": "Dec 24 2024 22:32:12"
+        "last_update": "Dec 25 2024 22:32:13"
     }
 }
