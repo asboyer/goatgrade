@@ -30,20 +30,32 @@
             {
                 "Player": "Giannis Antetokounmpo",
                 "Team": "Milwaukee Bucks",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Back) - Antetokounmpo did not play on Monday's (Dec. 23) game against Chicago."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Back) - The Bucks have listed Antetokounmpo as Questionable for Thursday's (Dec. 26) game against the Nets."
+            },
+            {
+                "Player": "AJ Johnson",
+                "Team": "Milwaukee Bucks",
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Out (Illness) - The Bucks have listed Johnson as Out for Thursday's (Dec. 26) game against the Nets."
             },
             {
                 "Player": "Damian Lillard",
                 "Team": "Milwaukee Bucks",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Calf) - Lillard did not play on Monday's (Dec. 23) game against Chicago."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Calf) - The Bucks have listed Lillard as Questionable for Thursday's (Dec. 26) game against the Nets."
             },
             {
                 "Player": "Chris Livingston",
                 "Team": "Milwaukee Bucks",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Illness) - Livingston did not play on Monday's (Dec. 23) game against Chicago."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Out (Illness) - The Bucks have listed Livingston as Out for Thursday's (Dec. 26) game against the Nets."
+            },
+            {
+                "Player": "Khris Middleton",
+                "Team": "Milwaukee Bucks",
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Ankle) - The Bucks have listed Middleton as Probable for Thursday's (Dec. 26) game against the Nets."
             }
         ],
         "team_stats": {
@@ -99,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "26",
                 "FG": "16",
                 "FGA": "26",
                 "FG%": "7",
@@ -116,9 +128,9 @@
                 "DRB": "4",
                 "TRB": "20",
                 "AST": "24",
-                "STL": "26",
-                "BLK": "11",
-                "TOV": "9",
+                "STL": "23",
+                "BLK": "12",
+                "TOV": "11",
                 "PF": "12",
                 "PTS": "15"
             },
@@ -199,27 +211,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "26",
                 "FG": "11",
                 "FGA": "20",
                 "FG%": "5",
-                "3P": "22",
+                "3P": "24",
                 "3PA": "22",
                 "3P%": "15",
-                "2P": "6",
-                "2PA": "16",
+                "2P": "7",
+                "2PA": "17",
                 "2P%": "5",
                 "FT": "10",
                 "FTA": "8",
                 "FT%": "30",
-                "ORB": "10",
+                "ORB": "9",
                 "DRB": "26",
                 "TRB": "23",
                 "AST": "9",
                 "STL": "8",
                 "BLK": "1",
                 "TOV": "26",
-                "PF": "22",
+                "PF": "21",
                 "PTS": "12"
             },
             "Opp Year/Year": {
@@ -253,8 +265,8 @@
                 "PW": "15",
                 "PL": "13",
                 "MOV": "1.57",
-                "SOS": "-0.01",
-                "SRS": "1.56",
+                "SOS": "-0.10",
+                "SRS": "1.47",
                 "ORtg": "113.8",
                 "DRtg": "112.2",
                 "Pace": "98.7",
@@ -269,13 +281,13 @@
                 "Attendance": "260,336"
             },
             "Misc Lg Rank": {
-                "W": "10",
+                "W": "11",
                 "L": "21",
                 "PW": "15",
-                "PL": "13",
+                "PL": "12",
                 "MOV": "14",
-                "SOS": "15",
-                "SRS": "13",
+                "SOS": "16",
+                "SRS": "14",
                 "ORtg": "12",
                 "DRtg": "12",
                 "Pace": "17",
@@ -284,13 +296,13 @@
                 "eFG%": "7",
                 "TOV%": "26",
                 "ORB%": "30",
-                "FT/FGA": "12",
+                "FT/FGA": "13",
                 "DRB%": "6",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/MIL-2025.png",
-        "last_update": "Dec 25 2024 22:32:13"
+        "last_update": "Dec 26 2024 22:32:12"
     }
 }

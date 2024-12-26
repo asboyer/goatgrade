@@ -28,28 +28,40 @@
         ],
         "injuries": [
             {
+                "Player": "Marvin Bagley III",
+                "Team": "Washington Wizards",
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Out (Knee) - The Wizards have listed Bagley as Out for Thursday's (Dec. 26) game against the Hornets."
+            },
+            {
                 "Player": "Saddiq Bey",
                 "Team": "Washington Wizards",
                 "Update": "Tue, Oct 15, 2024",
                 "Description": "Out (Knee) - Coach Brain Keefe said that Bey doesn't have a return timetable, Varun Shankar of The Washington Post reports."
             },
             {
+                "Player": "Carlton Carrington",
+                "Team": "Washington Wizards",
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Side) - The Wizards have listed as Questionable for Thursday's (Dec 26.) game against the Hornets."
+            },
+            {
                 "Player": "Bilal Coulibaly",
                 "Team": "Washington Wizards",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Groin) - Coulibaly did not play on Monday's (Dec. 23) game against Oklahoma City."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Groin) - The Wizards have listed Coulibaly as Questionable for Thursday's (Dec. 26) game against the Hornets."
             },
             {
                 "Player": "Kyle Kuzma",
                 "Team": "Washington Wizards",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Ribs) - Kuzma did not play on Monday's (Dec. 23) game against Oklahoma City."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Out (Ribs) - The Wizards have listed Kuzma as Out for Thursday's (Dec. 26) game against the Hornets."
             },
             {
                 "Player": "Alex Sarr",
                 "Team": "Washington Wizards",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Back) - Sarr is did not play on Monday's (Dec. 23) game against Oklahoma City."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Back) - The Wizards have listed Sarr as Questionable for Thursday's (Dec. 26) game against the Hornets."
             }
         ],
         "team_stats": {
@@ -113,13 +125,13 @@
                 "3PA": "17",
                 "3P%": "28",
                 "2P": "15",
-                "2PA": "12",
+                "2PA": "11",
                 "2P%": "24",
-                "FT": "22",
+                "FT": "21",
                 "FTA": "23",
                 "FT%": "17",
-                "ORB": "19",
-                "DRB": "15",
+                "ORB": "18",
+                "DRB": "14",
                 "TRB": "15",
                 "AST": "23",
                 "STL": "20",
@@ -224,7 +236,7 @@
                 "AST": "26",
                 "STL": "27",
                 "BLK": "22",
-                "TOV": "25",
+                "TOV": "24",
                 "PF": "23",
                 "PTS": "30"
             },
@@ -259,8 +271,8 @@
                 "PW": "4",
                 "PL": "23",
                 "MOV": "-14.81",
-                "SOS": "3.42",
-                "SRS": "-11.39",
+                "SOS": "3.28",
+                "SRS": "-11.53",
                 "ORtg": "104.8",
                 "DRtg": "119.3",
                 "Pace": "102.5",
@@ -285,7 +297,7 @@
                 "ORtg": "30",
                 "DRtg": "29",
                 "Pace": "4",
-                "FTr": "25",
+                "FTr": "24",
                 "3PAr": "18",
                 "eFG%": "20",
                 "TOV%": "28",
@@ -297,6 +309,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/WAS-2025.png",
-        "last_update": "Dec 25 2024 22:32:13"
+        "last_update": "Dec 26 2024 22:32:12"
     }
 }

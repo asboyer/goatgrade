@@ -31,14 +31,20 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Illness) - Ball did not play on Monday's (Dec.23) game against Milwaukee."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Illness) - The Bulls have listed Ball as Doubtful for Thursday's (Dec. 26) game against the Hawks."
+            },
+            {
+                "Player": "Ayo Dosunmu",
+                "Team": "Chicago Bulls",
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Achilles) - The Bulls have listed Dosunmu as Questionable for Thursday's (Dec. 26) game against the Hawks."
             },
             {
                 "Player": "Josh Giddey",
                 "Team": "Chicago Bulls",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Ankle) - Giddey did not play on Monday's (Dec.23) game against Milwaukee."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Ankle) - The Bulls have listed Giddey as Questionable for Thursday's (Dec. 26) game against the Hawks."
             }
         ],
         "team_stats": {
@@ -94,19 +100,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "13",
                 "FG": "8",
                 "FGA": "7",
                 "FG%": "11",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "12",
+                "3P%": "13",
                 "2P": "20",
                 "2PA": "26",
                 "2P%": "10",
                 "FT": "28",
                 "FTA": "29",
-                "FT%": "6",
+                "FT%": "5",
                 "ORB": "27",
                 "DRB": "2",
                 "TRB": "12",
@@ -114,7 +120,7 @@
                 "STL": "27",
                 "BLK": "20",
                 "TOV": "17",
-                "PF": "8",
+                "PF": "9",
                 "PTS": "7"
             },
             "Year/Year": {
@@ -194,19 +200,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "13",
                 "FG": "30",
                 "FGA": "30",
-                "FG%": "25",
-                "3P": "14",
+                "FG%": "26",
+                "3P": "12",
                 "3PA": "26",
                 "3P%": "3",
                 "2P": "30",
                 "2PA": "30",
-                "2P%": "27",
+                "2P%": "28",
                 "FT": "17",
                 "FTA": "17",
-                "FT%": "14",
+                "FT%": "13",
                 "ORB": "13",
                 "DRB": "30",
                 "TRB": "28",
@@ -248,8 +254,8 @@
                 "PW": "12",
                 "PL": "18",
                 "MOV": "-3.97",
-                "SOS": "1.27",
-                "SRS": "-2.70",
+                "SOS": "1.20",
+                "SRS": "-2.77",
                 "ORtg": "112.7",
                 "DRtg": "116.5",
                 "Pace": "103.9",
@@ -270,8 +276,8 @@
                 "PL": "23",
                 "MOV": "22",
                 "SOS": "4",
-                "SRS": "20",
-                "ORtg": "13",
+                "SRS": "21",
+                "ORtg": "14",
                 "DRtg": "24",
                 "Pace": "2",
                 "FTr": "29",
@@ -282,10 +288,10 @@
                 "FT/FGA": "9",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/CHI-2025.png",
-        "last_update": "Dec 25 2024 22:32:13"
+        "last_update": "Dec 26 2024 22:32:12"
     }
 }

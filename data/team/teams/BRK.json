@@ -2,7 +2,7 @@
     "BRK": {
         "info": {
             "record": "11-18",
-            "standing": "11th in East",
+            "standing": "12th in East",
             "coach": "Jordi Fernández Torres (11-18)",
             "gm": "Sean Marks",
             "preseason_odds": "+100000"
@@ -35,8 +35,8 @@
             {
                 "Player": "Dorian Finney-Smith",
                 "Team": "Brooklyn Nets",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Calf) - Finney-Smith did not play on Monday's (Dec. 23) game against Miami."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Calf) - The Nets have listed Finney-Smith as Questionable for Thursday's (Dec. 26) game against the Bucks."
             },
             {
                 "Player": "De'Anthony Melton",
@@ -45,10 +45,16 @@
                 "Description": "Out For Season (ACL) - Melton will undergo season-ending surgery on his left ACL, the team announced Wednesday (Nov. 20)."
             },
             {
+                "Player": "Ben Simmons",
+                "Team": "Brooklyn Nets",
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Back) - The Nets have listed Simmons as Questionable for Thursday's (Dec. 26) game against the Bucks."
+            },
+            {
                 "Player": "Cam Thomas",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Dec 18, 2024",
-                "Description": "Out (Hamstring) - Nets head coach Jordi Fernandez said on Wednesday (Dec. 18) that Thomas is progressing well, but he hasn't been cleared for contact yet, per Sharif Phillips-Keaton of USA Today."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Out (Hamstring) - The Nets have listed Thomas as Out for Thursday's (Dec. 26) game against the Bucks."
             },
             {
                 "Player": "Trendon Watford",
@@ -116,21 +122,21 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "29",
                 "FGA": "30",
                 "FG%": "22",
-                "3P": "7",
+                "3P": "6",
                 "3PA": "7",
                 "3P%": "10",
                 "2P": "29",
                 "2PA": "29",
                 "2P%": "22",
-                "FT": "15",
+                "FT": "14",
                 "FTA": "18",
                 "FT%": "2",
                 "ORB": "28",
-                "DRB": "29",
+                "DRB": "30",
                 "TRB": "30",
                 "AST": "18",
                 "STL": "28",
@@ -216,7 +222,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "14",
                 "FGA": "2",
                 "FG%": "30",
@@ -228,14 +234,14 @@
                 "2P%": "30",
                 "FT": "27",
                 "FTA": "27",
-                "FT%": "15",
+                "FT%": "14",
                 "ORB": "2",
                 "DRB": "15",
                 "TRB": "5",
-                "AST": "21",
-                "STL": "12",
+                "AST": "22",
+                "STL": "14",
                 "BLK": "28",
-                "TOV": "12",
+                "TOV": "11",
                 "PF": "9",
                 "PTS": "19"
             },
@@ -270,8 +276,8 @@
                 "PW": "10",
                 "PL": "19",
                 "MOV": "-5.31",
-                "SOS": "1.54",
-                "SRS": "-3.78",
+                "SOS": "1.47",
+                "SRS": "-3.84",
                 "ORtg": "111.4",
                 "DRtg": "116.9",
                 "Pace": "96.9",
@@ -288,11 +294,11 @@
             "Misc Lg Rank": {
                 "W": "23",
                 "L": "7",
-                "PW": "24",
+                "PW": "25",
                 "PL": "24",
                 "MOV": "25",
                 "SOS": "2",
-                "SRS": "23",
+                "SRS": "24",
                 "ORtg": "20",
                 "DRtg": "25",
                 "Pace": "29",
@@ -302,12 +308,12 @@
                 "TOV%": "9",
                 "ORB%": "27",
                 "FT/FGA": "29",
-                "DRB%": "11",
+                "DRB%": "10",
                 "Arena": "",
                 "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/BRK-2025.png",
-        "last_update": "Dec 25 2024 22:32:13"
+        "last_update": "Dec 26 2024 22:32:12"
     }
 }

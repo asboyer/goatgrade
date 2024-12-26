@@ -31,14 +31,14 @@
             {
                 "Player": "John Collins",
                 "Team": "Utah Jazz",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Hip) - Collins did not play on Monday's (Dec. 23) game against Cleveland."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Hip) - The Jazz have listed Collins as Questionable for Thursday's (Dec. 26) game against the Trail Blazers."
             },
             {
                 "Player": "Keyonte George",
                 "Team": "Utah Jazz",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Ankle) - George did not play on Monday's (Dec. 23) game against Cleveland."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Ankle) - The Jazz have listed George as Questionable for Thursday's (Dec. 26) game against the Trail Blazers."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -100,18 +100,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "26",
-                "FGA": "28",
-                "FG%": "17",
+                "FGA": "29",
+                "FG%": "19",
                 "3P": "14",
                 "3PA": "12",
-                "3P%": "15",
+                "3P%": "16",
                 "2P": "25",
                 "2PA": "25",
-                "2P%": "20",
+                "2P%": "19",
                 "FT": "4",
-                "FTA": "6",
+                "FTA": "5",
                 "FT%": "12",
                 "ORB": "9",
                 "DRB": "21",
@@ -200,21 +200,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "29",
                 "FGA": "25",
                 "FG%": "28",
                 "3P": "29",
                 "3PA": "29",
-                "3P%": "22",
-                "2P": "25",
+                "3P%": "20",
+                "2P": "26",
                 "2PA": "14",
                 "2P%": "29",
                 "FT": "9",
-                "FTA": "12",
-                "FT%": "11",
+                "FTA": "11",
+                "FT%": "10",
                 "ORB": "21",
-                "DRB": "2",
+                "DRB": "1",
                 "TRB": "3",
                 "AST": "27",
                 "STL": "30",
@@ -254,8 +254,8 @@
                 "PW": "7",
                 "PL": "21",
                 "MOV": "-9.18",
-                "SOS": "1.14",
-                "SRS": "-8.04",
+                "SOS": "1.13",
+                "SRS": "-8.05",
                 "ORtg": "111.1",
                 "DRtg": "120.3",
                 "Pace": "99.3",
@@ -275,7 +275,7 @@
                 "PW": "27",
                 "PL": "27",
                 "MOV": "27",
-                "SOS": "6",
+                "SOS": "5",
                 "SRS": "27",
                 "ORtg": "23",
                 "DRtg": "30",
@@ -292,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/UTA-2025.png",
-        "last_update": "Dec 25 2024 22:32:13"
+        "last_update": "Dec 26 2024 22:32:12"
     }
 }

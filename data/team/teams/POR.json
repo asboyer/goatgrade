@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Dalano Banton",
+                "Team": "Portland Trail Blazers",
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Hip) - The Trail Blazers have listed Banton as Questionable for Thursday's (Dec. 26) game against the Jazz."
+            },
+            {
                 "Player": "Matisse Thybulle",
                 "Team": "Portland Trail Blazers",
                 "Update": "Tue, Dec 17, 2024",
@@ -37,8 +43,8 @@
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Ankle) - Williams III didn't return to Monday's (Dec. 23) game against Dallas."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Ankle) - The Trail Blazers have listed Williams as Questionable for Thursday's (Dec. 26) game against the Jazz."
             }
         ],
         "team_stats": {
@@ -94,19 +100,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "23",
                 "FG": "23",
                 "FGA": "10",
                 "FG%": "28",
                 "3P": "21",
-                "3PA": "18",
-                "3P%": "26",
+                "3PA": "19",
+                "3P%": "27",
                 "2P": "16",
                 "2PA": "8",
                 "2P%": "28",
-                "FT": "23",
-                "FTA": "22",
-                "FT%": "20",
+                "FT": "22",
+                "FTA": "21",
+                "FT%": "21",
                 "ORB": "3",
                 "DRB": "28",
                 "TRB": "21",
@@ -114,7 +120,7 @@
                 "STL": "16",
                 "BLK": "6",
                 "TOV": "25",
-                "PF": "17",
+                "PF": "18",
                 "PTS": "27"
             },
             "Year/Year": {
@@ -194,27 +200,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "23",
                 "FG": "23",
                 "FGA": "11",
                 "FG%": "27",
-                "3P": "21",
-                "3PA": "10",
-                "3P%": "25",
+                "3P": "22",
+                "3PA": "9",
+                "3P%": "26",
                 "2P": "21",
-                "2PA": "15",
+                "2PA": "16",
                 "2P%": "24",
                 "FT": "25",
                 "FTA": "23",
-                "FT%": "22",
-                "ORB": "27",
+                "FT%": "20",
+                "ORB": "28",
                 "DRB": "17",
                 "TRB": "24",
                 "AST": "25",
                 "STL": "26",
                 "BLK": "30",
                 "TOV": "9",
-                "PF": "16",
+                "PF": "15",
                 "PTS": "24"
             },
             "Opp Year/Year": {
@@ -248,8 +254,8 @@
                 "PW": "7",
                 "PL": "22",
                 "MOV": "-9.69",
-                "SOS": "0.76",
-                "SRS": "-8.93",
+                "SOS": "0.80",
+                "SRS": "-8.90",
                 "ORtg": "107.8",
                 "DRtg": "117.6",
                 "Pace": "99.3",
@@ -269,23 +275,23 @@
                 "PW": "28",
                 "PL": "28",
                 "MOV": "28",
-                "SOS": "10",
+                "SOS": "11",
                 "SRS": "28",
                 "ORtg": "28",
                 "DRtg": "27",
                 "Pace": "13",
-                "FTr": "24",
+                "FTr": "23",
                 "3PAr": "20",
                 "eFG%": "27",
                 "TOV%": "11",
                 "ORB%": "6",
-                "FT/FGA": "22",
+                "FT/FGA": "23",
                 "DRB%": "30",
                 "Arena": "",
                 "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/POR-2025.png",
-        "last_update": "Dec 25 2024 22:32:13"
+        "last_update": "Dec 26 2024 22:32:12"
     }
 }

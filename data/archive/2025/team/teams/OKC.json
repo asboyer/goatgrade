@@ -30,14 +30,14 @@
             {
                 "Player": "Branden Carlson",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Concussion Protocol) - Carlson did not play on Monday's (Dec. 23) game against Washington."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Out (Concussion Protocol) - The Thunder have listed Carlson as Out for Thursday's (Dec. 26) game against the Pacers."
             },
             {
                 "Player": "Alex Caruso",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Undisclosed) - Caruso did not return Monday's (Dec. 23) game against Washington."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Out (Undisclosed) - The Thunder have listed Caruso as Out for Thursday's (Dec. 26) game against the Pacers."
             },
             {
                 "Player": "Chet Holmgren",
@@ -105,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "6",
                 "FGA": "3",
                 "FG%": "14",
@@ -113,15 +113,15 @@
                 "3PA": "9",
                 "3P%": "19",
                 "2P": "9",
-                "2PA": "10",
-                "2P%": "13",
+                "2PA": "9",
+                "2P%": "14",
                 "FT": "26",
                 "FTA": "28",
                 "FT%": "1",
-                "ORB": "18",
-                "DRB": "16",
+                "ORB": "17",
+                "DRB": "15",
                 "TRB": "16",
-                "AST": "17",
+                "AST": "16",
                 "STL": "1",
                 "BLK": "4",
                 "TOV": "1",
@@ -205,7 +205,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
@@ -222,7 +222,7 @@
                 "DRB": "28",
                 "TRB": "29",
                 "AST": "3",
-                "STL": "4",
+                "STL": "3",
                 "BLK": "15",
                 "TOV": "1",
                 "PF": "25",
@@ -259,8 +259,8 @@
                 "PW": "23",
                 "PL": "5",
                 "MOV": "11.93",
-                "SOS": "-0.60",
-                "SRS": "11.33",
+                "SOS": "-0.65",
+                "SRS": "11.28",
                 "ORtg": "115.3",
                 "DRtg": "103.4",
                 "Pace": "99.8",
@@ -293,10 +293,10 @@
                 "FT/FGA": "27",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/OKC-2025.png",
-        "last_update": "Dec 25 2024 22:32:13"
+        "last_update": "Dec 26 2024 22:32:12"
     }
 }

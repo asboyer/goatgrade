@@ -31,8 +31,8 @@
             {
                 "Player": "Jay Huff",
                 "Team": "Memphis Grizzlies",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Ankle) - Huff did not play on Monday's (Dec. 23) game against the Clippers."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Out (Ankle) - The Grizzlies have listed Huff as Out for Thursday's (Dec. 26) game against the Raptors."
             },
             {
                 "Player": "GG Jackson II",
@@ -43,8 +43,8 @@
             {
                 "Player": "Marcus Smart",
                 "Team": "Memphis Grizzlies",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Finger) - Smart did not play on for Monday's (Dec. 23) game against the Clippers."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Out (Finger) - The Grizzliies have listed Smart as Out for Thursday's (Dec. 26) game against the Raptors."
             },
             {
                 "Player": "Vince Williams Jr.",
@@ -106,19 +106,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "13",
                 "FG": "1",
                 "FGA": "2",
-                "FG%": "6",
+                "FG%": "5",
                 "3P": "12",
                 "3PA": "13",
-                "3P%": "13",
+                "3P%": "14",
                 "2P": "2",
                 "2PA": "6",
                 "2P%": "4",
-                "FT": "7",
-                "FTA": "5",
-                "FT%": "19",
+                "FT": "6",
+                "FTA": "4",
+                "FT%": "20",
                 "ORB": "7",
                 "DRB": "1",
                 "TRB": "2",
@@ -206,11 +206,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "13",
                 "FG": "9",
                 "FGA": "26",
                 "FG%": "3",
-                "3P": "10",
+                "3P": "9",
                 "3PA": "28",
                 "3P%": "2",
                 "2P": "13",
@@ -221,9 +221,9 @@
                 "FT%": "3",
                 "ORB": "26",
                 "DRB": "6",
-                "TRB": "18",
-                "AST": "4",
-                "STL": "23",
+                "TRB": "17",
+                "AST": "5",
+                "STL": "24",
                 "BLK": "18",
                 "TOV": "4",
                 "PF": "2",
@@ -260,8 +260,8 @@
                 "PW": "23",
                 "PL": "7",
                 "MOV": "9.70",
-                "SOS": "-1.94",
-                "SRS": "7.76",
+                "SOS": "-1.98",
+                "SRS": "7.72",
                 "ORtg": "116.7",
                 "DRtg": "107.5",
                 "Pace": "105.1",
@@ -277,9 +277,9 @@
             },
             "Misc Lg Rank": {
                 "W": "4",
-                "L": "24",
+                "L": "25",
                 "PW": "3",
-                "PL": "4",
+                "PL": "3",
                 "MOV": "3",
                 "SOS": "29",
                 "SRS": "4",
@@ -291,13 +291,13 @@
                 "eFG%": "3",
                 "TOV%": "8",
                 "ORB%": "5",
-                "FT/FGA": "23",
+                "FT/FGA": "24",
                 "DRB%": "19",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/MEM-2025.png",
-        "last_update": "Dec 25 2024 22:32:13"
+        "last_update": "Dec 26 2024 22:32:12"
     }
 }

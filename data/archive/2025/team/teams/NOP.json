@@ -34,6 +34,12 @@
                 "Description": "Day To Day (Hamstring) - Alvarado has begun the return to play conditioning phase of his rehabilitation program and is expected to return to full practice next week. He will be week-to-week going forward, according to the New Orleans Pelicans medical upda"
             },
             {
+                "Player": "Javonte Green",
+                "Team": "New Orleans Pelicans",
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Knee) - The Pelicans have listed Green as Questionable for Thursday's (Dec. 26) game against the Rockets."
+            },
+            {
                 "Player": "Brandon Ingram",
                 "Team": "New Orleans Pelicans",
                 "Update": "Tue, Dec 24, 2024",
@@ -48,8 +54,8 @@
             {
                 "Player": "Trey Murphy III",
                 "Team": "New Orleans Pelicans",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Ankle) - Murphy sustained an ankle injury during Sundayâs (Dec. 22) game against the Nuggets and will be day-to-day going forward, the Pelicans announced Tuesday (Dec. 24)."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Ankle) - The Pelicans have listed Murphy as Questionable for Thursday's (Dec. 26) game against the Rockets."
             },
             {
                 "Player": "Zion Williamson",
@@ -111,13 +117,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "8",
                 "FG": "24",
                 "FGA": "11",
                 "FG%": "29",
                 "3P": "30",
-                "3PA": "27",
-                "3P%": "25",
+                "3PA": "28",
+                "3P%": "26",
                 "2P": "13",
                 "2PA": "4",
                 "2P%": "30",
@@ -129,7 +135,7 @@
                 "TRB": "22",
                 "AST": "25",
                 "STL": "5",
-                "BLK": "12",
+                "BLK": "13",
                 "TOV": "18",
                 "PF": "11",
                 "PTS": "30"
@@ -211,15 +217,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "8",
                 "FG": "27",
                 "FGA": "21",
                 "FG%": "29",
                 "3P": "25",
                 "3PA": "21",
-                "3P%": "23",
+                "3P%": "24",
                 "2P": "27",
-                "2PA": "18",
+                "2PA": "19",
                 "2P%": "26",
                 "FT": "8",
                 "FTA": "6",
@@ -228,7 +234,7 @@
                 "DRB": "22",
                 "TRB": "26",
                 "AST": "29",
-                "STL": "21",
+                "STL": "20",
                 "BLK": "21",
                 "TOV": "16",
                 "PF": "27",
@@ -265,8 +271,8 @@
                 "PW": "6",
                 "PL": "24",
                 "MOV": "-11.47",
-                "SOS": "1.18",
-                "SRS": "-10.29",
+                "SOS": "1.11",
+                "SRS": "-10.36",
                 "ORtg": "107.0",
                 "DRtg": "118.6",
                 "Pace": "98.5",
@@ -286,23 +292,23 @@
                 "PW": "29",
                 "PL": "30",
                 "MOV": "29",
-                "SOS": "5",
+                "SOS": "6",
                 "SRS": "29",
                 "ORtg": "29",
                 "DRtg": "28",
-                "Pace": "20",
-                "FTr": "22",
+                "Pace": "19",
+                "FTr": "20",
                 "3PAr": "28",
                 "eFG%": "29",
                 "TOV%": "17",
                 "ORB%": "7",
-                "FT/FGA": "6",
+                "FT/FGA": "7",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/NOP-2025.png",
-        "last_update": "Dec 25 2024 22:32:13"
+        "last_update": "Dec 26 2024 22:32:12"
     }
 }

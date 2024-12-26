@@ -29,26 +29,26 @@
             {
                 "Player": "Jimmy Butler",
                 "Team": "Miami Heat",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Illness) - Butler did not play on Monday's (Dec. 23) game against Brooklyn."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Illness) - The Heat have listed BUtler as doubtful for Thursday's (Dec. 26) game against Orlando."
             },
             {
                 "Player": "Josh Richardson",
                 "Team": "Miami Heat",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Heel) - Richardson did not play on Monday's (Dec. 23) game against Brooklyn."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Out (Heel) - The Heat listed Richardson as OUT for Thursday's (Dec. 26) game against Orlando."
             },
             {
                 "Player": "Terry Rozier",
                 "Team": "Miami Heat",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Knee) - Rozier did not play on Monday's (Dec. 23) game against Brooklyn."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Knee) - The Heat listed Rozier as questionable for Thursday's (Dec. 26) game against Orlando."
             },
             {
                 "Player": "Dru Smith",
                 "Team": "Miami Heat",
-                "Update": "Mon, Dec 23, 2024",
-                "Description": "Day To Day (Leg) - Smith did not return to Monday's (Dec. 23) game against Brooklyn."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Out (Leg) - The Heat listed Smith as OUT for Thursday's (Dec. 26) game against Orlando."
             }
         ],
         "team_stats": {
@@ -104,9 +104,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "22",
-                "FGA": "20",
+                "FGA": "21",
                 "FG%": "21",
                 "3P": "9",
                 "3PA": "10",
@@ -114,16 +114,16 @@
                 "2P": "26",
                 "2PA": "20",
                 "2P%": "25",
-                "FT": "8",
-                "FTA": "10",
-                "FT%": "13",
+                "FT": "7",
+                "FTA": "9",
+                "FT%": "14",
                 "ORB": "21",
                 "DRB": "12",
                 "TRB": "17",
-                "AST": "14",
-                "STL": "11",
+                "AST": "13",
+                "STL": "9",
                 "BLK": "30",
-                "TOV": "4",
+                "TOV": "5",
                 "PF": "4",
                 "PTS": "16"
             },
@@ -204,27 +204,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "10",
                 "FGA": "9",
                 "FG%": "11",
-                "3P": "19",
+                "3P": "18",
                 "3PA": "15",
-                "3P%": "20",
-                "2P": "9",
+                "3P%": "19",
+                "2P": "10",
                 "2PA": "9",
                 "2P%": "10",
-                "FT": "2",
+                "FT": "3",
                 "FTA": "2",
                 "FT%": "28",
                 "ORB": "20",
                 "DRB": "24",
                 "TRB": "25",
                 "AST": "18",
-                "STL": "3",
+                "STL": "2",
                 "BLK": "17",
-                "TOV": "11",
-                "PF": "13",
+                "TOV": "10",
+                "PF": "12",
                 "PTS": "6"
             },
             "Opp Year/Year": {
@@ -258,8 +258,8 @@
                 "PW": "16",
                 "PL": "11",
                 "MOV": "2.78",
-                "SOS": "-0.29",
-                "SRS": "2.48",
+                "SOS": "-0.28",
+                "SRS": "2.49",
                 "ORtg": "114.2",
                 "DRtg": "111.4",
                 "Pace": "97.1",
@@ -274,28 +274,28 @@
                 "Attendance": "275,121"
             },
             "Misc Lg Rank": {
-                "W": "17",
-                "L": "17",
-                "PW": "12",
-                "PL": "9",
+                "W": "19",
+                "L": "18",
+                "PW": "14",
+                "PL": "8",
                 "MOV": "10",
-                "SOS": "17",
+                "SOS": "18",
                 "SRS": "12",
                 "ORtg": "10",
                 "DRtg": "10",
                 "Pace": "27",
-                "FTr": "7",
+                "FTr": "6",
                 "3PAr": "10",
                 "eFG%": "13",
                 "TOV%": "10",
                 "ORB%": "24",
-                "FT/FGA": "4",
-                "DRB%": "17",
+                "FT/FGA": "5",
+                "DRB%": "16",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/MIA-2025.png",
-        "last_update": "Dec 25 2024 22:32:13"
+        "last_update": "Dec 26 2024 22:32:12"
     }
 }

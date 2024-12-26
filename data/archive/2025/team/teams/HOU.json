@@ -30,14 +30,14 @@
             {
                 "Player": "Dillon Brooks",
                 "Team": "Houston Rockets",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Ankle) - Brooks did not play on Monday's (Dec. 23) game against Charlotte."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Out (Ankle) - The Rockets have listed Brooks as Out for Thursday's (Dec. 26) game against the Pelicans."
             },
             {
                 "Player": "Tari Eason",
                 "Team": "Houston Rockets",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Rest) - Eason did not play on Monday's (Dec. 23) game against Charlotte."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Rest) - The Rockets have listed Eason as Questionable for Thursday's (Dec. 26) game against the Pelicans."
             }
         ],
         "team_stats": {
@@ -93,11 +93,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "17",
                 "FG": "14",
                 "FGA": "1",
                 "FG%": "26",
-                "3P": "26",
+                "3P": "25",
                 "3PA": "20",
                 "3P%": "29",
                 "2P": "8",
@@ -105,7 +105,7 @@
                 "2P%": "26",
                 "FT": "9",
                 "FTA": "7",
-                "FT%": "22",
+                "FT%": "24",
                 "ORB": "1",
                 "DRB": "3",
                 "TRB": "1",
@@ -193,26 +193,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "17",
                 "FG": "3",
                 "FGA": "16",
                 "FG%": "2",
                 "3P": "2",
                 "3PA": "2",
                 "3P%": "5",
-                "2P": "8",
+                "2P": "9",
                 "2PA": "27",
                 "2P%": "1",
-                "FT": "18",
+                "FT": "19",
                 "FTA": "22",
                 "FT%": "2",
-                "ORB": "11",
+                "ORB": "10",
                 "DRB": "15",
-                "TRB": "12",
+                "TRB": "13",
                 "AST": "1",
                 "STL": "9",
                 "BLK": "27",
-                "TOV": "14",
+                "TOV": "13",
                 "PF": "6",
                 "PTS": "3"
             },
@@ -247,8 +247,8 @@
                 "PW": "20",
                 "PL": "9",
                 "MOV": "6.62",
-                "SOS": "0.05",
-                "SRS": "6.67",
+                "SOS": "0.04",
+                "SRS": "6.66",
                 "ORtg": "112.4",
                 "DRtg": "105.9",
                 "Pace": "99.4",
@@ -265,26 +265,26 @@
             "Misc Lg Rank": {
                 "W": "4",
                 "L": "27",
-                "PW": "6",
-                "PL": "6",
-                "MOV": "7",
+                "PW": "7",
+                "PL": "5",
+                "MOV": "6",
                 "SOS": "14",
                 "SRS": "5",
-                "ORtg": "14",
+                "ORtg": "17",
                 "DRtg": "2",
-                "Pace": "12",
+                "Pace": "11",
                 "FTr": "12",
                 "3PAr": "27",
                 "eFG%": "2",
-                "TOV%": "14",
+                "TOV%": "13",
                 "ORB%": "1",
                 "FT/FGA": "17",
                 "DRB%": "5",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/HOU-2025.png",
-        "last_update": "Dec 25 2024 22:32:13"
+        "last_update": "Dec 26 2024 22:32:12"
     }
 }

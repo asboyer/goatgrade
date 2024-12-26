@@ -36,8 +36,8 @@
             {
                 "Player": "Bogdan Bogdanović",
                 "Team": "Atlanta Hawks",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Leg) - Bogdanovic did not play on Monday's (Dec. 23) game against Minnesota. "
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Leg) - The Hawks have listed Bogdanovic as Questionable for Thursday's (Dec. 26) game against the Bulls."
             },
             {
                 "Player": "Kobe Bufkin",
@@ -50,6 +50,12 @@
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Dec 18, 2024",
                 "Description": "Out (Knee) - The Atlanta Hawks announced that Okongwu will be out for the next four games and will be re-evaluated in approximately one week."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Heel) - Th Hawks have listed Young as Questionable for Thursday's (Dec. 26) game against the Bulls."
             },
             {
                 "Player": "Cody Zeller",
@@ -111,19 +117,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "9",
-                "FGA": "5",
+                "FGA": "4",
                 "FG%": "16",
                 "3P": "20",
-                "3PA": "22",
+                "3PA": "23",
                 "3P%": "18",
                 "2P": "5",
                 "2PA": "5",
                 "2P%": "17",
                 "FT": "5",
-                "FTA": "4",
-                "FT%": "15",
+                "FTA": "2",
+                "FT%": "16",
                 "ORB": "8",
                 "DRB": "11",
                 "TRB": "4",
@@ -211,7 +217,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "25",
                 "FGA": "27",
                 "FG%": "18",
@@ -220,16 +226,16 @@
                 "3P%": "29",
                 "2P": "15",
                 "2PA": "10",
-                "2P%": "17",
+                "2P%": "16",
                 "FT": "16",
                 "FTA": "16",
                 "FT%": "9",
                 "ORB": "16",
-                "DRB": "20",
+                "DRB": "21",
                 "TRB": "19",
                 "AST": "24",
                 "STL": "29",
-                "BLK": "23",
+                "BLK": "25",
                 "TOV": "5",
                 "PF": "7",
                 "PTS": "27"
@@ -265,8 +271,8 @@
                 "PW": "13",
                 "PL": "17",
                 "MOV": "-2.63",
-                "SOS": "-0.32",
-                "SRS": "-2.95",
+                "SOS": "-0.42",
+                "SRS": "-3.05",
                 "ORtg": "111.6",
                 "DRtg": "114.1",
                 "Pace": "103.6",
@@ -283,26 +289,26 @@
             "Misc Lg Rank": {
                 "W": "13",
                 "L": "12",
-                "PW": "18",
-                "PL": "21",
-                "MOV": "19",
-                "SOS": "18",
-                "SRS": "21",
+                "PW": "20",
+                "PL": "20",
+                "MOV": "20",
+                "SOS": "21",
+                "SRS": "22",
                 "ORtg": "19",
                 "DRtg": "18",
                 "Pace": "3",
                 "FTr": "9",
-                "3PAr": "25",
+                "3PAr": "26",
                 "eFG%": "25",
                 "TOV%": "6",
-                "ORB%": "8",
-                "FT/FGA": "11",
+                "ORB%": "9",
+                "FT/FGA": "12",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/ATL-2025.png",
-        "last_update": "Dec 25 2024 22:32:13"
+        "last_update": "Dec 26 2024 22:32:12"
     }
 }

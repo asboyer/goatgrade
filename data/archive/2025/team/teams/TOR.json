@@ -31,14 +31,14 @@
             {
                 "Player": "Bruce Brown",
                 "Team": "Toronto Raptors",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Reconditioning) - Brown did not play on for Monday;s (Dec. 23) game against New York."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Out (Reconditioning) - The Raptors have listed Brown as Out for Thursday's (Dec. 26) game against the Grizzlies."
             },
             {
                 "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Groin) - Poeltl did not play on Monday;s (Dec. 23) game against New York."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Out (Groin) - The Raptors have listed Poeltl as Out for Thursday's (Dec. 26) game against the Grizzlies."
             },
             {
                 "Player": "Immanuel Quickley",
@@ -49,8 +49,8 @@
             {
                 "Player": "Jamal Shead",
                 "Team": "Toronto Raptors",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Knee) - Shead did not play on for Monday's (Dec. 23) game against New York."
+                "Update": "Wed, Dec 25, 2024",
+                "Description": "Day To Day (Knee) - The Raptors have listed Shead as Questionable for Thursday's (Dec. 26) game against the Grizzlies."
             }
         ],
         "team_stats": {
@@ -115,7 +115,7 @@
                 "3P%": "23",
                 "2P": "4",
                 "2PA": "3",
-                "2P%": "19",
+                "2P%": "18",
                 "FT": "17",
                 "FTA": "12",
                 "FT%": "28",
@@ -123,8 +123,8 @@
                 "DRB": "22",
                 "TRB": "9",
                 "AST": "6",
-                "STL": "21",
-                "BLK": "23",
+                "STL": "22",
+                "BLK": "21",
                 "TOV": "24",
                 "PF": "30",
                 "PTS": "17"
@@ -210,7 +210,7 @@
                 "FG": "17",
                 "FGA": "14",
                 "FG%": "17",
-                "3P": "11",
+                "3P": "10",
                 "3PA": "18",
                 "3P%": "8",
                 "2P": "19",
@@ -219,14 +219,14 @@
                 "FT": "30",
                 "FTA": "30",
                 "FT%": "17",
-                "ORB": "23",
+                "ORB": "22",
                 "DRB": "5",
                 "TRB": "9",
-                "AST": "13",
+                "AST": "12",
                 "STL": "22",
                 "BLK": "26",
                 "TOV": "22",
-                "PF": "14",
+                "PF": "13",
                 "PTS": "26"
             },
             "Opp Year/Year": {
@@ -260,8 +260,8 @@
                 "PW": "10",
                 "PL": "20",
                 "MOV": "-5.27",
-                "SOS": "1.40",
-                "SRS": "-3.87",
+                "SOS": "1.37",
+                "SRS": "-3.89",
                 "ORtg": "111.2",
                 "DRtg": "116.4",
                 "Pace": "99.7",
@@ -282,22 +282,22 @@
                 "PL": "25",
                 "MOV": "24",
                 "SOS": "3",
-                "SRS": "24",
+                "SRS": "25",
                 "ORtg": "21",
                 "DRtg": "23",
                 "Pace": "10",
                 "FTr": "17",
                 "3PAr": "29",
-                "eFG%": "16",
-                "TOV%": "23",
+                "eFG%": "15",
+                "TOV%": "22",
                 "ORB%": "3",
                 "FT/FGA": "30",
                 "DRB%": "25",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/TOR-2025.png",
-        "last_update": "Dec 25 2024 22:32:13"
+        "last_update": "Dec 26 2024 22:32:12"
     }
 }
