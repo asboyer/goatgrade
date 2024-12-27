@@ -30,14 +30,14 @@
             {
                 "Player": "Jrue Holiday",
                 "Team": "Boston Celtics",
-                "Update": "Wed, Dec 25, 2024",
-                "Description": "Day To Day (Shoulder) - The Celtics listed Holiday as OUT on Wednesday's (Dec. 25) game against the 76ers."
+                "Update": "Thu, Dec 26, 2024",
+                "Description": "Day To Day (Shoulder) - The Celtics have listed Holiday as Questionable for Friday's (Dec. 27) against the Pacers."
             },
             {
                 "Player": "Kristaps Porziņģis",
                 "Team": "Boston Celtics",
-                "Update": "Wed, Dec 25, 2024",
-                "Description": "Day To Day (Ankle) - Porzingis is Doubtful to return for Wednesday's (Dec. 25) game against the 76ers."
+                "Update": "Thu, Dec 26, 2024",
+                "Description": "Day To Day (Ankle) - The Celtics have listed Porzingis as Questionable for Friday's (Dec. 27) game against the Pacers."
             }
         ],
         "team_stats": {
@@ -93,13 +93,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "10",
                 "FG": "12",
-                "FGA": "6",
+                "FGA": "7",
                 "FG%": "20",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "15",
+                "3P%": "16",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "3",
@@ -109,7 +109,7 @@
                 "ORB": "15",
                 "DRB": "5",
                 "TRB": "7",
-                "AST": "19",
+                "AST": "18",
                 "STL": "26",
                 "BLK": "8",
                 "TOV": "2",
@@ -193,26 +193,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
-                "FG": "18",
+                "MP": "10",
+                "FG": "17",
                 "FGA": "23",
                 "FG%": "9",
                 "3P": "6",
                 "3PA": "4",
                 "3P%": "9",
                 "2P": "22",
-                "2PA": "28",
-                "2P%": "7",
+                "2PA": "27",
+                "2P%": "8",
                 "FT": "1",
                 "FTA": "1",
                 "FT%": "25",
                 "ORB": "5",
-                "DRB": "25",
+                "DRB": "26",
                 "TRB": "20",
-                "AST": "6",
-                "STL": "4",
+                "AST": "5",
+                "STL": "3",
                 "BLK": "4",
-                "TOV": "25",
+                "TOV": "26",
                 "PF": "11",
                 "PTS": "7"
             },
@@ -247,8 +247,8 @@
                 "PW": "23",
                 "PL": "7",
                 "MOV": "9.07",
-                "SOS": "-1.20",
-                "SRS": "7.86",
+                "SOS": "-1.16",
+                "SRS": "7.91",
                 "ORtg": "119.6",
                 "DRtg": "110.5",
                 "Pace": "98.4",
@@ -269,22 +269,22 @@
                 "PL": "4",
                 "MOV": "4",
                 "SOS": "26",
-                "SRS": "3",
+                "SRS": "4",
                 "ORtg": "3",
                 "DRtg": "8",
                 "Pace": "20",
-                "FTr": "21",
+                "FTr": "20",
                 "3PAr": "1",
                 "eFG%": "6",
-                "TOV%": "25",
+                "TOV%": "26",
                 "ORB%": "17",
                 "FT/FGA": "1",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "6"
+                "Attendance": "8"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/BOS-2025.png",
-        "last_update": "Dec 26 2024 22:32:12"
+        "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BOS-2025.png",
+        "last_update": "Dec 27 2024 22:32:14"
     }
 }

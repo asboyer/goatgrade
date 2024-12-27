@@ -20,11 +20,12 @@
             "Ariel Hukporti",
             "Pacome Dadiet",
             "Precious Achiuwa",
+            "Matt Ryan",
             "Jacob Toppin",
             "Landry Shamet",
+            "Mitchell Robinson",
             "Kevin McCullar Jr.",
-            "Boo Buie",
-            "Mitchell Robinson"
+            "Boo Buie"
         ],
         "injuries": [
             {
@@ -87,17 +88,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "4",
-                "FGA": "19",
+                "FGA": "20",
                 "FG%": "2",
                 "3P": "11",
-                "3PA": "18",
+                "3PA": "20",
                 "3P%": "2",
                 "2P": "10",
                 "2PA": "16",
                 "2P%": "2",
-                "FT": "23",
+                "FT": "22",
                 "FTA": "27",
                 "FT%": "3",
                 "ORB": "22",
@@ -108,7 +109,7 @@
                 "BLK": "27",
                 "TOV": "3",
                 "PF": "5",
-                "PTS": "6"
+                "PTS": "7"
             },
             "Year/Year": {
                 "G": "",
@@ -187,27 +188,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "13",
                 "FGA": "8",
                 "FG%": "15",
                 "3P": "19",
-                "3PA": "14",
+                "3PA": "15",
                 "3P%": "22",
-                "2P": "12",
+                "2P": "11",
                 "2PA": "8",
                 "2P%": "14",
                 "FT": "6",
                 "FTA": "6",
                 "FT%": "12",
                 "ORB": "8",
-                "DRB": "2",
+                "DRB": "1",
                 "TRB": "2",
-                "AST": "14",
+                "AST": "13",
                 "STL": "1",
                 "BLK": "11",
                 "TOV": "27",
-                "PF": "22",
+                "PF": "21",
                 "PTS": "8"
             },
             "Opp Year/Year": {
@@ -241,8 +242,8 @@
                 "PW": "21",
                 "PL": "9",
                 "MOV": "7.23",
-                "SOS": "-1.60",
-                "SRS": "5.64",
+                "SOS": "-1.57",
+                "SRS": "5.66",
                 "ORtg": "121.1",
                 "DRtg": "113.6",
                 "Pace": "96.9",
@@ -257,28 +258,28 @@
                 "Attendance": "277,368"
             },
             "Misc Lg Rank": {
-                "W": "4",
+                "W": "6",
                 "L": "25",
                 "PW": "5",
-                "PL": "6",
+                "PL": "5",
                 "MOV": "5",
                 "SOS": "28",
                 "SRS": "7",
                 "ORtg": "2",
                 "DRtg": "14",
-                "Pace": "28",
-                "FTr": "25",
-                "3PAr": "16",
-                "eFG%": "16",
-                "TOV%": "23",
+                "Pace": "29",
+                "FTr": "26",
+                "3PAr": "17",
+                "eFG%": "15",
+                "TOV%": "24",
                 "ORB%": "16",
                 "FT/FGA": "8",
                 "DRB%": "9",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "11"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/NYK-2025.png",
-        "last_update": "Dec 26 2024 22:32:12"
+        "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NYK-2025.png",
+        "last_update": "Dec 27 2024 22:32:14"
     }
 }

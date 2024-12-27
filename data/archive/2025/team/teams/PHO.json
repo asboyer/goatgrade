@@ -30,20 +30,20 @@
             {
                 "Player": "Grayson Allen",
                 "Team": "Phoenix Suns",
-                "Update": "Wed, Dec 25, 2024",
-                "Description": "Day To Day (Concussion Protocol) - The Suns have listed Allen as Out for Wednesday's (Dec. 25) game against the Nuggets."
+                "Update": "Thu, Dec 26, 2024",
+                "Description": "Out (Concussion Protocol) - The Suns have listed Allen as Out for Friday's (Dec. 27) game against the Mavericks."
             },
             {
                 "Player": "Bol Bol",
                 "Team": "Phoenix Suns",
-                "Update": "Wed, Dec 25, 2024",
-                "Description": "Day To Day (Knee) - The Nuggets have listed Bol as Out for Wednesday's (Dec. 25) game against the Nuggets."
+                "Update": "Thu, Dec 26, 2024",
+                "Description": "Out (Knee) - The Suns have listed Bol as Out for Friday's (Dec. 26) game against the Mavericks."
             },
             {
                 "Player": "Devin Booker",
                 "Team": "Phoenix Suns",
-                "Update": "Wed, Dec 25, 2024",
-                "Description": "Day To Day (Groin) - The Suns have listed Booker as Out for Wednesday's (Dec. 25) game against the Nuggets."
+                "Update": "Thu, Dec 26, 2024",
+                "Description": "Out (Groin) - The Suns have listed Booker as Out for Friday's (Dec. 27) game against the Mavericks."
             }
         ],
         "team_stats": {
@@ -99,12 +99,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "18",
-                "FGA": "28",
+                "FGA": "27",
                 "FG%": "9",
-                "3P": "7",
-                "3PA": "11",
+                "3P": "8",
+                "3PA": "10",
                 "3P%": "4",
                 "2P": "24",
                 "2PA": "27",
@@ -113,14 +113,14 @@
                 "FTA": "11",
                 "FT%": "6",
                 "ORB": "26",
-                "DRB": "16",
+                "DRB": "17",
                 "TRB": "25",
                 "AST": "11",
                 "STL": "21",
-                "BLK": "22",
+                "BLK": "20",
                 "TOV": "9",
                 "PF": "7",
-                "PTS": "12"
+                "PTS": "13"
             },
             "Year/Year": {
                 "G": "",
@@ -199,22 +199,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "20",
-                "FGA": "16",
-                "FG%": "21",
+                "FGA": "14",
+                "FG%": "22",
                 "3P": "22",
                 "3PA": "11",
                 "3P%": "23",
-                "2P": "20",
-                "2PA": "18",
+                "2P": "19",
+                "2PA": "19",
                 "2P%": "18",
                 "FT": "15",
                 "FTA": "13",
                 "FT%": "21",
-                "ORB": "12",
+                "ORB": "11",
                 "DRB": "17",
-                "TRB": "14",
+                "TRB": "13",
                 "AST": "21",
                 "STL": "12",
                 "BLK": "7",
@@ -253,8 +253,8 @@
                 "PW": "13",
                 "PL": "16",
                 "MOV": "-1.34",
-                "SOS": "-0.34",
-                "SRS": "-1.69",
+                "SOS": "-0.30",
+                "SRS": "-1.65",
                 "ORtg": "115.7",
                 "DRtg": "117.1",
                 "Pace": "97.2",
@@ -269,28 +269,28 @@
                 "Attendance": "273,136"
             },
             "Misc Lg Rank": {
-                "W": "13",
+                "W": "14",
                 "L": "15",
-                "PW": "18",
+                "PW": "19",
                 "PL": "16",
                 "MOV": "18",
-                "SOS": "20",
+                "SOS": "18",
                 "SRS": "16",
                 "ORtg": "7",
-                "DRtg": "26",
-                "Pace": "25",
+                "DRtg": "24",
+                "Pace": "26",
                 "FTr": "8",
                 "3PAr": "7",
-                "eFG%": "21",
-                "TOV%": "27",
+                "eFG%": "22",
+                "TOV%": "28",
                 "ORB%": "26",
-                "FT/FGA": "16",
+                "FT/FGA": "15",
                 "DRB%": "11",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "14"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/PHO-2025.png",
-        "last_update": "Dec 26 2024 22:32:12"
+        "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHO-2025.png",
+        "last_update": "Dec 27 2024 22:32:14"
     }
 }

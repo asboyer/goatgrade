@@ -37,14 +37,20 @@
             {
                 "Player": "Aaron Gordon",
                 "Team": "Denver Nuggets",
-                "Update": "Wed, Dec 25, 2024",
-                "Description": "Day To Day (Calf) - Gordon is questionable to return Wednesday's (Dec. 25) game against the Suns with right calf tightness."
+                "Update": "Thu, Dec 26, 2024",
+                "Description": "Out (Calf) - The Nuggets have listed Gordon as Out for Friday's (Dec. 27) game against the Cavaliers."
             },
             {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sat, Jul 13, 2024",
                 "Description": "Out For Season (Achilles) - DaRon Holmes II has suffered a torn right Achilles tendon, sources tell @TheAthletic @Stadium. Heâs expected to miss the 2024-25 season."
+            },
+            {
+                "Player": "Jamal Murray",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Dec 26, 2024",
+                "Description": "Day To Day (Ankle) - The Nuggets have listed Murray as Probable for Friday's (Dec. 27) game against the Cavaliers."
             }
         ],
         "team_stats": {
@@ -100,17 +106,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "27",
                 "FG": "3",
-                "FGA": "14",
+                "FGA": "13",
                 "FG%": "3",
                 "3P": "27",
                 "3PA": "30",
-                "3P%": "6",
+                "3P%": "7",
                 "2P": "1",
                 "2PA": "1",
                 "2P%": "8",
-                "FT": "1",
+                "FT": "2",
                 "FTA": "1",
                 "FT%": "27",
                 "ORB": "11",
@@ -200,26 +206,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
-                "FG": "26",
+                "MP": "27",
+                "FG": "25",
                 "FGA": "29",
                 "FG%": "16",
                 "3P": "21",
                 "3PA": "24",
                 "3P%": "11",
-                "2P": "28",
+                "2P": "29",
                 "2PA": "29",
                 "2P%": "17",
                 "FT": "7",
                 "FTA": "9",
                 "FT%": "5",
-                "ORB": "25",
+                "ORB": "24",
                 "DRB": "3",
                 "TRB": "10",
                 "AST": "30",
                 "STL": "21",
                 "BLK": "23",
-                "TOV": "19",
+                "TOV": "18",
                 "PF": "3",
                 "PTS": "23"
             },
@@ -254,8 +260,8 @@
                 "PW": "16",
                 "PL": "12",
                 "MOV": "2.96",
-                "SOS": "0.08",
-                "SRS": "3.04",
+                "SOS": "0.13",
+                "SRS": "3.09",
                 "ORtg": "116.7",
                 "DRtg": "113.8",
                 "Pace": "100.9",
@@ -271,13 +277,13 @@
             },
             "Misc Lg Rank": {
                 "W": "11",
-                "L": "21",
-                "PW": "11",
-                "PL": "9",
+                "L": "23",
+                "PW": "12",
+                "PL": "8",
                 "MOV": "9",
                 "SOS": "13",
                 "SRS": "9",
-                "ORtg": "5",
+                "ORtg": "6",
                 "DRtg": "17",
                 "Pace": "5",
                 "FTr": "1",
@@ -288,10 +294,10 @@
                 "FT/FGA": "3",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "27"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/DEN-2025.png",
-        "last_update": "Dec 26 2024 22:32:12"
+        "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DEN-2025.png",
+        "last_update": "Dec 27 2024 22:32:14"
     }
 }

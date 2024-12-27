@@ -42,8 +42,8 @@
             {
                 "Player": "Dean Wade",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Knee) - Wade did not play on Monday's (Dec. 23) game against Utah."
+                "Update": "Thu, Dec 26, 2024",
+                "Description": "Day To Day (Knee) - The Cavaliers have listed Wade as Questionable for Friday's (Dec. 27) game against the Nuggets."
             }
         ],
         "team_stats": {
@@ -99,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "2",
                 "FGA": "17",
                 "FG%": "1",
@@ -110,13 +110,13 @@
                 "2PA": "19",
                 "2P%": "1",
                 "FT": "19",
-                "FTA": "20",
+                "FTA": "19",
                 "FT%": "18",
                 "ORB": "24",
                 "DRB": "9",
-                "TRB": "19",
+                "TRB": "18",
                 "AST": "8",
-                "STL": "8",
+                "STL": "7",
                 "BLK": "25",
                 "TOV": "4",
                 "PF": "9",
@@ -199,27 +199,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "7",
                 "FGA": "13",
                 "FG%": "6",
-                "3P": "16",
+                "3P": "17",
                 "3PA": "7",
                 "3P%": "25",
                 "2P": "5",
                 "2PA": "20",
                 "2P%": "3",
-                "FT": "11",
+                "FT": "12",
                 "FTA": "10",
-                "FT%": "19",
+                "FT%": "20",
                 "ORB": "15",
                 "DRB": "11",
-                "TRB": "12",
+                "TRB": "11",
                 "AST": "8",
                 "STL": "7",
                 "BLK": "10",
                 "TOV": "7",
-                "PF": "16",
+                "PF": "15",
                 "PTS": "9"
             },
             "Opp Year/Year": {
@@ -254,7 +254,7 @@
                 "PL": "6",
                 "MOV": "11.60",
                 "SOS": "-2.55",
-                "SRS": "9.05",
+                "SRS": "9.06",
                 "ORtg": "121.7",
                 "DRtg": "110.2",
                 "Pace": "100.0",
@@ -278,19 +278,19 @@
                 "SRS": "2",
                 "ORtg": "1",
                 "DRtg": "7",
-                "Pace": "6",
+                "Pace": "7",
                 "FTr": "18",
                 "3PAr": "9",
-                "eFG%": "9",
-                "TOV%": "7",
-                "ORB%": "23",
+                "eFG%": "8",
+                "TOV%": "8",
+                "ORB%": "22",
                 "FT/FGA": "14",
                 "DRB%": "12",
                 "Arena": "",
                 "Attendance": "1"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/CLE-2025.png",
-        "last_update": "Dec 26 2024 22:32:12"
+        "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CLE-2025.png",
+        "last_update": "Dec 27 2024 22:32:14"
     }
 }

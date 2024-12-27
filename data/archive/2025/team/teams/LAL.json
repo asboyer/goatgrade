@@ -29,28 +29,22 @@
         ],
         "injuries": [
             {
-                "Player": "Anthony Davis",
-                "Team": "Los Angeles Lakers",
-                "Update": "Wed, Dec 25, 2024",
-                "Description": "Day To Day (Ankle) - Davis is able to walk without any support and is day-to-day going into Saturday's (Dec. 28) game against the Kings, Dave McMenamin of ESPN.com reports."
-            },
-            {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
-                "Update": "Tue, Dec 17, 2024",
-                "Description": "Out (Ankle) - Lakers head coach JJ Redick said on Tuesday (Dec. 17) that Hayes is working on strengthening his right ankle, and the team plans to provide an update on his status next week, per Daniel Starkand of LakersNation.com."
+                "Update": "Tue, Dec 24, 2024",
+                "Description": "Day To Day (Ankle) - The Lakers are expected to provide an update on Hayes' status this week, but it's unclear how close he is to returning. His next chance to play is on Saturday (Dec. 28) versus the Kings."
             },
             {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Dec 25, 2024",
-                "Description": "Day To Day (Hamstring) - The Lakers have listed Hood-Schifino as Out for Wednesday's (Dec. 25) game against the Warriors."
+                "Update": "Thu, Dec 26, 2024",
+                "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Wednesday's (Dec. 25) game against the Warriors."
             },
             {
                 "Player": "D'Angelo Russell",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Dec 25, 2024",
-                "Description": "Day To Day (Hand) - The Lakers have listed Russell as Out for Wednesday's (Dec. 25) game against the Warriors."
+                "Update": "Thu, Dec 26, 2024",
+                "Description": "Day To Day (Hand) - Russell did not play in Wednesday's (Dec. 25) game against the Warriors."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -118,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "14",
                 "FG": "17",
                 "FGA": "23",
                 "FG%": "10",
@@ -129,13 +123,13 @@
                 "2PA": "13",
                 "2P%": "13",
                 "FT": "3",
-                "FTA": "3",
-                "FT%": "13",
+                "FTA": "4",
+                "FT%": "14",
                 "ORB": "25",
                 "DRB": "25",
                 "TRB": "27",
                 "AST": "12",
-                "STL": "19",
+                "STL": "18",
                 "BLK": "17",
                 "TOV": "8",
                 "PF": "3",
@@ -218,28 +212,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "14",
                 "FG": "24",
-                "FGA": "19",
+                "FGA": "20",
                 "FG%": "24",
                 "3P": "15",
                 "3PA": "8",
-                "3P%": "21",
+                "3P%": "20",
                 "2P": "25",
                 "2PA": "23",
                 "2P%": "21",
                 "FT": "5",
                 "FTA": "5",
                 "FT%": "22",
-                "ORB": "19",
-                "DRB": "20",
+                "ORB": "20",
+                "DRB": "21",
                 "TRB": "21",
                 "AST": "23",
                 "STL": "10",
                 "BLK": "4",
-                "TOV": "20",
+                "TOV": "19",
                 "PF": "4",
-                "PTS": "18"
+                "PTS": "19"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -272,8 +266,8 @@
                 "PW": "13",
                 "PL": "17",
                 "MOV": "-2.50",
-                "SOS": "-0.14",
-                "SRS": "-2.64",
+                "SOS": "-0.10",
+                "SRS": "-2.60",
                 "ORtg": "112.7",
                 "DRtg": "115.3",
                 "Pace": "98.4",
@@ -290,26 +284,26 @@
             "Misc Lg Rank": {
                 "W": "9",
                 "L": "18",
-                "PW": "19",
+                "PW": "21",
                 "PL": "19",
-                "MOV": "19",
-                "SOS": "17",
+                "MOV": "20",
+                "SOS": "15",
                 "SRS": "20",
-                "ORtg": "13",
-                "DRtg": "20",
+                "ORtg": "15",
+                "DRtg": "21",
                 "Pace": "21",
                 "FTr": "3",
-                "3PAr": "23",
+                "3PAr": "25",
                 "eFG%": "23",
-                "TOV%": "19",
+                "TOV%": "18",
                 "ORB%": "25",
                 "FT/FGA": "4",
                 "DRB%": "23",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "24"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202412231/tlogo/bbr/LAL-2025.png",
-        "last_update": "Dec 26 2024 22:32:12"
+        "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAL-2025.png",
+        "last_update": "Dec 27 2024 22:32:14"
     }
 }
