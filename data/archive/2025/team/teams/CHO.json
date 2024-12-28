@@ -29,10 +29,22 @@
         ],
         "injuries": [
             {
+                "Player": "LaMelo Ball",
+                "Team": "Charlotte Hornets",
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Wrist) - The Hornets have listed Ball as Questionable for Saturday's (Dec. 28) game against the Thunder."
+            },
+            {
                 "Player": "Tre Mann",
                 "Team": "Charlotte Hornets",
                 "Update": "Mon, Dec 16, 2024",
                 "Description": "Out (Back) - The Hornets announced Monday (Dec. 16) that Mann will be re-evaluated in two weeks."
+            },
+            {
+                "Player": "Brandon Miller",
+                "Team": "Charlotte Hornets",
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Ankle) - The Hornets have listed Miller as Questionable for Saturday's (Dec. 28) game against the Thunder."
             },
             {
                 "Player": "Grant Williams",
@@ -94,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "18",
                 "FG": "27",
                 "FGA": "12",
                 "FG%": "30",
@@ -103,19 +115,19 @@
                 "3P%": "22",
                 "2P": "28",
                 "2PA": "25",
-                "2P%": "29",
+                "2P%": "30",
                 "FT": "30",
                 "FTA": "29",
                 "FT%": "24",
                 "ORB": "2",
-                "DRB": "23",
-                "TRB": "5",
+                "DRB": "22",
+                "TRB": "6",
                 "AST": "26",
                 "STL": "18",
                 "BLK": "18",
                 "TOV": "23",
                 "PF": "26",
-                "PTS": "28"
+                "PTS": "27"
             },
             "Year/Year": {
                 "G": "",
@@ -194,27 +206,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
-                "FG": "11",
+                "MP": "18",
+                "FG": "13",
                 "FGA": "6",
                 "FG%": "18",
-                "3P": "20",
+                "3P": "21",
                 "3PA": "20",
-                "3P%": "13",
+                "3P%": "12",
                 "2P": "9",
-                "2PA": "5",
+                "2PA": "4",
                 "2P%": "25",
                 "FT": "24",
                 "FTA": "24",
                 "FT%": "14",
                 "ORB": "9",
                 "DRB": "16",
-                "TRB": "9",
+                "TRB": "12",
                 "AST": "14",
                 "STL": "14",
                 "BLK": "22",
-                "TOV": "20",
-                "PF": "19",
+                "TOV": "18",
+                "PF": "20",
                 "PTS": "15"
             },
             "Opp Year/Year": {
@@ -248,8 +260,8 @@
                 "PW": "9",
                 "PL": "21",
                 "MOV": "-6.47",
-                "SOS": "0.45",
-                "SRS": "-6.01",
+                "SOS": "0.43",
+                "SRS": "-6.04",
                 "ORtg": "108.7",
                 "DRtg": "115.3",
                 "Pace": "97.4",
@@ -269,7 +281,7 @@
                 "PW": "26",
                 "PL": "25",
                 "MOV": "26",
-                "SOS": "11",
+                "SOS": "12",
                 "SRS": "26",
                 "ORtg": "27",
                 "DRtg": "20",
@@ -280,12 +292,12 @@
                 "TOV%": "16",
                 "ORB%": "3",
                 "FT/FGA": "26",
-                "DRB%": "16",
+                "DRB%": "15",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHO-2025.png",
-        "last_update": "Dec 27 2024 22:32:14"
+        "last_update": "Dec 28 2024 22:32:12"
     }
 }

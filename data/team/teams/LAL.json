@@ -29,10 +29,22 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Ankle) - The Lakers have listed Davis as Questionable for Saturday's (Dec. 28) game against the Kings."
+            },
+            {
+                "Player": "Rui Hachimura",
+                "Team": "Los Angeles Lakers",
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Illness) - The Lakers have listed Hachimura as Questionable for Saturday's (Dec. 28) game against the Kings."
+            },
+            {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Day To Day (Ankle) - The Lakers are expected to provide an update on Hayes' status this week, but it's unclear how close he is to returning. His next chance to play is on Saturday (Dec. 28) versus the Kings."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Ankle) - The Lakers have listed Hayes as Questionable for Saturday's (Dec. 28) game against the Kings."
             },
             {
                 "Player": "Jalen Hood-Schifino",
@@ -41,10 +53,16 @@
                 "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Wednesday's (Dec. 25) game against the Warriors."
             },
             {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Illness) - The Lakers have listed James as Questionable for Saturday's (Dec. 28) game against the Kings."
+            },
+            {
                 "Player": "D'Angelo Russell",
                 "Team": "Los Angeles Lakers",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Hand) - Russell did not play in Wednesday's (Dec. 25) game against the Warriors."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Hand) - The Lakers have listed Russell as Probable for Saturday's (Dec. 28) game against the Kings."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -112,28 +130,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "21",
                 "FG": "17",
-                "FGA": "23",
-                "FG%": "10",
-                "3P": "26",
+                "FGA": "22",
+                "FG%": "9",
+                "3P": "27",
                 "3PA": "27",
-                "3P%": "20",
+                "3P%": "21",
                 "2P": "11",
                 "2PA": "13",
-                "2P%": "13",
+                "2P%": "12",
                 "FT": "3",
                 "FTA": "4",
-                "FT%": "14",
+                "FT%": "13",
                 "ORB": "25",
                 "DRB": "25",
                 "TRB": "27",
                 "AST": "12",
                 "STL": "18",
                 "BLK": "17",
-                "TOV": "8",
+                "TOV": "7",
                 "PF": "3",
-                "PTS": "20"
+                "PTS": "19"
             },
             "Year/Year": {
                 "G": "",
@@ -212,27 +230,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "21",
                 "FG": "24",
                 "FGA": "20",
                 "FG%": "24",
                 "3P": "15",
-                "3PA": "8",
-                "3P%": "20",
+                "3PA": "7",
+                "3P%": "21",
                 "2P": "25",
                 "2PA": "23",
-                "2P%": "21",
+                "2P%": "20",
                 "FT": "5",
                 "FTA": "5",
-                "FT%": "22",
-                "ORB": "20",
+                "FT%": "23",
+                "ORB": "19",
                 "DRB": "21",
                 "TRB": "21",
                 "AST": "23",
                 "STL": "10",
                 "BLK": "4",
-                "TOV": "19",
-                "PF": "4",
+                "TOV": "17",
+                "PF": "3",
                 "PTS": "19"
             },
             "Opp Year/Year": {
@@ -266,8 +284,8 @@
                 "PW": "13",
                 "PL": "17",
                 "MOV": "-2.50",
-                "SOS": "-0.10",
-                "SRS": "-2.60",
+                "SOS": "-0.16",
+                "SRS": "-2.66",
                 "ORtg": "112.7",
                 "DRtg": "115.3",
                 "Pace": "98.4",
@@ -282,28 +300,28 @@
                 "Attendance": "242,558"
             },
             "Misc Lg Rank": {
-                "W": "9",
-                "L": "18",
+                "W": "10",
+                "L": "19",
                 "PW": "21",
-                "PL": "19",
+                "PL": "18",
                 "MOV": "20",
-                "SOS": "15",
-                "SRS": "20",
+                "SOS": "17",
+                "SRS": "19",
                 "ORtg": "15",
                 "DRtg": "21",
-                "Pace": "21",
-                "FTr": "3",
-                "3PAr": "25",
-                "eFG%": "23",
+                "Pace": "20",
+                "FTr": "2",
+                "3PAr": "26",
+                "eFG%": "22",
                 "TOV%": "18",
-                "ORB%": "25",
+                "ORB%": "26",
                 "FT/FGA": "4",
-                "DRB%": "23",
+                "DRB%": "22",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAL-2025.png",
-        "last_update": "Dec 27 2024 22:32:14"
+        "last_update": "Dec 28 2024 22:32:12"
     }
 }

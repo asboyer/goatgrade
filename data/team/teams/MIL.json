@@ -30,26 +30,32 @@
             {
                 "Player": "Giannis Antetokounmpo",
                 "Team": "Milwaukee Bucks",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Illness) - Antetokounmpo did not play in Thursday's (Dec. 26) game against the Nets."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Illness) - The Bucks listed Antetokounmpo as Questionable for Saturday's (Dec. 28) game against the Bulls."
+            },
+            {
+                "Player": "Andre Jackson Jr.",
+                "Team": "Milwaukee Bucks",
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Ankle) - The Bucks listed Jackson Jr. as Probable for Saturday's (Dec. 28) game versus the Bulls."
             },
             {
                 "Player": "AJ Johnson",
                 "Team": "Milwaukee Bucks",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Illness) - Johnson did not play in Thursday's (Dec. 26) game against the Nets."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Out (Illness) - The Bucks listed Johnson as OUT for Saturday's (Dec. 28) game against the Bulls."
             },
             {
                 "Player": "Damian Lillard",
                 "Team": "Milwaukee Bucks",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Calf) - Lillard did not play in Thursday's (Dec. 26) game against the Nets."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Illness) - The Bucks listed Lillard as Questionable for Saturday's (Dec. 28) game against the Bulls."
             },
             {
-                "Player": "Chris Livingston",
+                "Player": "Khris Middleton",
                 "Team": "Milwaukee Bucks",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Illness) - Livingston did not play in Thursday's (Dec. 26) game against the Nets."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Ankle) - The Bucks listed Middleton as Probable for Saturday's (Dec. 28) game versus the Bulls."
             }
         ],
         "team_stats": {
@@ -105,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "16",
                 "FGA": "26",
                 "FG%": "7",
@@ -125,8 +131,8 @@
                 "STL": "22",
                 "BLK": "13",
                 "TOV": "14",
-                "PF": "12",
-                "PTS": "16"
+                "PF": "11",
+                "PTS": "14"
             },
             "Year/Year": {
                 "G": "",
@@ -205,28 +211,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
-                "FG": "10",
+                "MP": "25",
+                "FG": "11",
                 "FGA": "19",
-                "FG%": "5",
-                "3P": "23",
-                "3PA": "21",
+                "FG%": "6",
+                "3P": "22",
+                "3PA": "22",
                 "3P%": "17",
-                "2P": "6",
+                "2P": "5",
                 "2PA": "13",
                 "2P%": "5",
-                "FT": "11",
-                "FTA": "8",
+                "FT": "13",
+                "FTA": "7",
                 "FT%": "30",
                 "ORB": "10",
-                "DRB": "24",
+                "DRB": "25",
                 "TRB": "22",
-                "AST": "9",
+                "AST": "8",
                 "STL": "8",
                 "BLK": "1",
                 "TOV": "25",
                 "PF": "23",
-                "PTS": "12"
+                "PTS": "13"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -259,8 +265,8 @@
                 "PW": "16",
                 "PL": "13",
                 "MOV": "1.31",
-                "SOS": "-0.15",
-                "SRS": "1.16",
+                "SOS": "-0.13",
+                "SRS": "1.18",
                 "ORtg": "113.4",
                 "DRtg": "112.1",
                 "Pace": "98.8",
@@ -276,27 +282,27 @@
             },
             "Misc Lg Rank": {
                 "W": "11",
-                "L": "18",
+                "L": "19",
                 "PW": "15",
-                "PL": "14",
+                "PL": "12",
                 "MOV": "14",
                 "SOS": "16",
                 "SRS": "14",
                 "ORtg": "12",
-                "DRtg": "11",
+                "DRtg": "12",
                 "Pace": "17",
                 "FTr": "11",
                 "3PAr": "12",
                 "eFG%": "9",
-                "TOV%": "23",
+                "TOV%": "24",
                 "ORB%": "30",
                 "FT/FGA": "13",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIL-2025.png",
-        "last_update": "Dec 27 2024 22:32:14"
+        "last_update": "Dec 28 2024 22:32:12"
     }
 }

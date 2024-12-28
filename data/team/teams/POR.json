@@ -31,8 +31,14 @@
             {
                 "Player": "Dalano Banton",
                 "Team": "Portland Trail Blazers",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Hip) - Banton did not play in Thursday's (Dec. 26) game against the Jazz."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Hip) - The Trail Blazers have listed Banton as Questionable for Saturday's (Dec. 28) game against the Mavericks."
+            },
+            {
+                "Player": "Toumani Camara",
+                "Team": "Portland Trail Blazers",
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Foot) - The Trail Blazers have listed Camara as Questionable for Saturday's (Dec. 28) game against the Mavericks."
             },
             {
                 "Player": "Matisse Thybulle",
@@ -43,8 +49,8 @@
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Ankle) - Williams III did not play in Thursday's (Dec. 26) game against the Jazz."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Ankle) - The Trail Blazers have listed Williams III as Questionable for Saturday's (Dec. 28) game against the Mavericks."
             }
         ],
         "team_stats": {
@@ -100,27 +106,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "23",
                 "FG": "21",
                 "FGA": "11",
                 "FG%": "27",
                 "3P": "21",
-                "3PA": "19",
+                "3PA": "18",
                 "3P%": "26",
                 "2P": "16",
                 "2PA": "8",
-                "2P%": "27",
-                "FT": "21",
+                "2P%": "26",
+                "FT": "23",
                 "FTA": "22",
-                "FT%": "20",
-                "ORB": "6",
+                "FT%": "22",
+                "ORB": "5",
                 "DRB": "27",
-                "TRB": "20",
+                "TRB": "21",
                 "AST": "28",
                 "STL": "15",
-                "BLK": "7",
+                "BLK": "6",
                 "TOV": "25",
-                "PF": "18",
+                "PF": "19",
                 "PTS": "25"
             },
             "Year/Year": {
@@ -200,16 +206,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "23",
                 "FG": "22",
                 "FGA": "11",
                 "FG%": "27",
-                "3P": "24",
-                "3PA": "10",
+                "3P": "23",
+                "3PA": "11",
                 "3P%": "28",
                 "2P": "20",
                 "2PA": "15",
-                "2P%": "23",
+                "2P%": "22",
                 "FT": "25",
                 "FTA": "23",
                 "FT%": "19",
@@ -220,8 +226,8 @@
                 "STL": "27",
                 "BLK": "29",
                 "TOV": "11",
-                "PF": "17",
-                "PTS": "24"
+                "PF": "18",
+                "PTS": "23"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -254,8 +260,8 @@
                 "PW": "7",
                 "PL": "23",
                 "MOV": "-9.30",
-                "SOS": "0.56",
-                "SRS": "-8.74",
+                "SOS": "0.52",
+                "SRS": "-8.78",
                 "ORtg": "108.4",
                 "DRtg": "117.7",
                 "Pace": "99.3",
@@ -279,19 +285,19 @@
                 "SRS": "28",
                 "ORtg": "28",
                 "DRtg": "27",
-                "Pace": "13",
-                "FTr": "24",
+                "Pace": "12",
+                "FTr": "25",
                 "3PAr": "20",
                 "eFG%": "27",
                 "TOV%": "11",
                 "ORB%": "6",
-                "FT/FGA": "24",
-                "DRB%": "29",
+                "FT/FGA": "22",
+                "DRB%": "30",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/POR-2025.png",
-        "last_update": "Dec 27 2024 22:32:14"
+        "last_update": "Dec 28 2024 22:32:12"
     }
 }

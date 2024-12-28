@@ -31,26 +31,32 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Illness) - Ball did not play in Thursday's (Dec. 26) game against the Hawks."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Illness) - The Bulls have listed Ball as Questionable for Saturday's (Dec. 28) game against the Bucks."
             },
             {
                 "Player": "Matas Buzelis",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Illness) - Buzelis did not play in Thursday's (Dec. 26) game against the Hawks."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Illness) - The Bulls have listed Buzelis as Questionable for Saturday's (Dec. 28) game against the Bucks."
             },
             {
                 "Player": "Ayo Dosunmu",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Achilles) - Dosunmu did not play in Thursday's (Dec. 26) game against the Hawks."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Achilles) - The Bulls have listed Dosunmu as Doubtful for Saturday's (Dec. 28) game against the Bucks."
             },
             {
                 "Player": "Josh Giddey",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Ankle) - Giddey did not play in Thursday's (Dec. 26) game against the Hawks."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Ankle) - The Bulls have listed Giddey as Questionable for Saturday's (Dec. 28) game against the Bucks."
+            },
+            {
+                "Player": "Jalen Smith",
+                "Team": "Chicago Bulls",
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Ankle) - The Bulls have listed Smith as Probable for Saturday's (Dec. 28) game against the Bucks."
             }
         ],
         "team_stats": {
@@ -106,28 +112,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
-                "FG": "6",
+                "MP": "15",
+                "FG": "5",
                 "FGA": "6",
-                "FG%": "11",
+                "FG%": "10",
                 "3P": "2",
                 "3PA": "2",
                 "3P%": "9",
                 "2P": "19",
                 "2PA": "24",
-                "2P%": "10",
+                "2P%": "8",
                 "FT": "28",
                 "FTA": "30",
-                "FT%": "5",
-                "ORB": "27",
-                "DRB": "3",
+                "FT%": "4",
+                "ORB": "28",
+                "DRB": "2",
                 "TRB": "13",
                 "AST": "4",
                 "STL": "27",
                 "BLK": "22",
                 "TOV": "17",
                 "PF": "13",
-                "PTS": "6"
+                "PTS": "5"
             },
             "Year/Year": {
                 "G": "",
@@ -206,24 +212,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "15",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "26",
                 "3P": "16",
                 "3PA": "26",
-                "3P%": "3",
+                "3P%": "4",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "30",
-                "FT": "21",
+                "FT": "20",
                 "FTA": "20",
                 "FT%": "16",
-                "ORB": "13",
+                "ORB": "12",
                 "DRB": "30",
                 "TRB": "28",
                 "AST": "29",
-                "STL": "18",
+                "STL": "17",
                 "BLK": "14",
                 "TOV": "29",
                 "PF": "30",
@@ -260,8 +266,8 @@
                 "PW": "12",
                 "PL": "19",
                 "MOV": "-4.10",
-                "SOS": "1.12",
-                "SRS": "-2.98",
+                "SOS": "1.13",
+                "SRS": "-2.97",
                 "ORtg": "113.2",
                 "DRtg": "117.1",
                 "Pace": "104.0",
@@ -277,7 +283,7 @@
             },
             "Misc Lg Rank": {
                 "W": "21",
-                "L": "7",
+                "L": "8",
                 "PW": "22",
                 "PL": "23",
                 "MOV": "22",
@@ -294,10 +300,10 @@
                 "FT/FGA": "12",
                 "DRB%": "6",
                 "Arena": "",
-                "Attendance": "6"
+                "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHI-2025.png",
-        "last_update": "Dec 27 2024 22:32:14"
+        "last_update": "Dec 28 2024 22:32:12"
     }
 }

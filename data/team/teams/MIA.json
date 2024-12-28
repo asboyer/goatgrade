@@ -23,26 +23,39 @@
             "Kel'el Ware",
             "Josh Richardson",
             "Keshad Johnson",
-            "Josh Christopher"
+            "Josh Christopher",
+            "Isaiah Stevens"
         ],
         "injuries": [
             {
                 "Player": "Jimmy Butler",
                 "Team": "Miami Heat",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Illness) - Butler did not play in Thursday's (Dec. 26) game against the Magic."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Out (Illness) - The Heat have listed Butler as Out for Saturday's (Dec. 28) game against the Hawks."
+            },
+            {
+                "Player": "Nikola Jović",
+                "Team": "Miami Heat",
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Ankle) - The Heat have listed Jovic as Questionable for Saturday's (Dec. 28) game against the Hawks."
             },
             {
                 "Player": "Josh Richardson",
                 "Team": "Miami Heat",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Heel) - Richardson did not play in Thursday's (Dec. 26) game against the Magic."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Out (Heel) - The Heat have listed Richardson as Out for Saturday's (Dec. 28) game against the Hawks."
+            },
+            {
+                "Player": "Terry Rozier",
+                "Team": "Miami Heat",
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Knee) - The Heat have listed Rozier as Probable for Saturday's (Dec. 28) game against the Hawks."
             },
             {
                 "Player": "Dru Smith",
                 "Team": "Miami Heat",
-                "Update": "Wed, Dec 25, 2024",
-                "Description": "Out For Season (Achilles) - The Heat said on Wednesday (Dec. 25) that Smith sustained a season-ending torn left Achilles tendon in Monday's (Dec. 23) 110-95 win over Brooklyn."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Out For Season (Achilles) - The Heat announced on Friday (Dec. 27) that Smith underwent successful surgery to repair a ruptured left achilles tendon. He will miss the remainder of the season."
             }
         ],
         "team_stats": {
@@ -98,20 +111,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
-                "FG": "24",
+                "MP": "28",
+                "FG": "25",
                 "FGA": "21",
-                "FG%": "22",
+                "FG%": "21",
                 "3P": "9",
-                "3PA": "11",
-                "3P%": "5",
+                "3PA": "10",
+                "3P%": "6",
                 "2P": "26",
-                "2PA": "20",
+                "2PA": "21",
                 "2P%": "28",
-                "FT": "10",
-                "FTA": "10",
-                "FT%": "15",
-                "ORB": "21",
+                "FT": "9",
+                "FTA": "9",
+                "FT%": "14",
+                "ORB": "22",
                 "DRB": "15",
                 "TRB": "19",
                 "AST": "14",
@@ -119,7 +132,7 @@
                 "BLK": "30",
                 "TOV": "6",
                 "PF": "4",
-                "PTS": "19"
+                "PTS": "18"
             },
             "Year/Year": {
                 "G": "",
@@ -198,25 +211,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
-                "FG": "9",
+                "MP": "28",
+                "FG": "8",
                 "FGA": "9",
-                "FG%": "11",
-                "3P": "10",
+                "FG%": "12",
+                "3P": "11",
                 "3PA": "13",
-                "3P%": "15",
-                "2P": "10",
+                "3P%": "14",
+                "2P": "12",
                 "2PA": "9",
-                "2P%": "12",
+                "2P%": "13",
                 "FT": "3",
-                "FTA": "2",
+                "FTA": "3",
                 "FT%": "28",
                 "ORB": "18",
-                "DRB": "25",
+                "DRB": "26",
                 "TRB": "25",
                 "AST": "18",
                 "STL": "4",
-                "BLK": "18",
+                "BLK": "17",
                 "TOV": "9",
                 "PF": "16",
                 "PTS": "6"
@@ -252,8 +265,8 @@
                 "PW": "16",
                 "PL": "12",
                 "MOV": "2.71",
-                "SOS": "-0.19",
-                "SRS": "2.53",
+                "SOS": "-0.30",
+                "SRS": "2.41",
                 "ORtg": "113.5",
                 "DRtg": "110.7",
                 "Pace": "97.0",
@@ -268,28 +281,28 @@
                 "Attendance": "275,121"
             },
             "Misc Lg Rank": {
-                "W": "14",
-                "L": "18",
+                "W": "16",
+                "L": "19",
                 "PW": "13",
-                "PL": "9",
-                "MOV": "10",
-                "SOS": "17",
+                "PL": "8",
+                "MOV": "8",
+                "SOS": "20",
                 "SRS": "12",
                 "ORtg": "11",
                 "DRtg": "9",
                 "Pace": "27",
-                "FTr": "7",
+                "FTr": "6",
                 "3PAr": "11",
                 "eFG%": "13",
-                "TOV%": "9",
+                "TOV%": "8",
                 "ORB%": "24",
                 "FT/FGA": "5",
                 "DRB%": "17",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIA-2025.png",
-        "last_update": "Dec 27 2024 22:32:14"
+        "last_update": "Dec 28 2024 22:32:12"
     }
 }

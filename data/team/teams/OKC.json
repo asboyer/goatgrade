@@ -30,14 +30,20 @@
             {
                 "Player": "Branden Carlson",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Concussion Protocol) - Carlson did not play in Thursday's (Dec. 26) game against the Pacers."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Out (Concussion Protocol) - The Thunder have listed Carlson as Out for Saturday's (Dec. 28) game against the Hornets."
             },
             {
                 "Player": "Alex Caruso",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Undisclosed) - Caruso did not play in Thursday's (Dec. 26) game against the Pacers."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Out (Hip) - The Thunder have listed Caruso as Out for Saturday's (Dec. 28) game against the Hornets."
+            },
+            {
+                "Player": "Luguentz Dort",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Out (Ankle) - The Thunder have listed Dort as Out for Saturday's (Dec. 28) game against the Hornets."
             },
             {
                 "Player": "Chet Holmgren",
@@ -50,6 +56,12 @@
                 "Team": "Oklahoma City Thunder",
                 "Update": "Wed, Jul 24, 2024",
                 "Description": "Out For Season (ACL) - Topic underwent a successful left ACL procedure Wednesday and will miss the 2024-25 season, Clemente Almanza of USA Today reports."
+            },
+            {
+                "Player": "Cason Wallace",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Out (Quadriceps) - The Thunder have listed Wallace as Out for Saturday's (Dec. 28) game against the Hornets."
             }
         ],
         "team_stats": {
@@ -105,16 +117,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "26",
                 "FG": "7",
                 "FGA": "3",
                 "FG%": "15",
                 "3P": "15",
                 "3PA": "9",
-                "3P%": "19",
+                "3P%": "20",
                 "2P": "9",
                 "2PA": "9",
-                "2P%": "14",
+                "2P%": "13",
                 "FT": "25",
                 "FTA": "28",
                 "FT%": "1",
@@ -205,13 +217,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "26",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
-                "3P": "4",
+                "3P": "5",
                 "3PA": "18",
-                "3P%": "1",
+                "3P%": "2",
                 "2P": "1",
                 "2PA": "3",
                 "2P%": "2",
@@ -226,7 +238,7 @@
                 "BLK": "16",
                 "TOV": "1",
                 "PF": "25",
-                "PTS": "2"
+                "PTS": "1"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -259,8 +271,8 @@
                 "PW": "24",
                 "PL": "5",
                 "MOV": "11.72",
-                "SOS": "-0.67",
-                "SRS": "11.05",
+                "SOS": "-0.78",
+                "SRS": "10.94",
                 "ORtg": "115.6",
                 "DRtg": "103.8",
                 "Pace": "99.7",
@@ -277,14 +289,14 @@
             "Misc Lg Rank": {
                 "W": "2",
                 "L": "29",
-                "PW": "3",
+                "PW": "4",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "23",
+                "SOS": "24",
                 "SRS": "1",
-                "ORtg": "8",
+                "ORtg": "7",
                 "DRtg": "1",
-                "Pace": "10",
+                "Pace": "8",
                 "FTr": "28",
                 "3PAr": "14",
                 "eFG%": "1",
@@ -293,10 +305,10 @@
                 "FT/FGA": "27",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/OKC-2025.png",
-        "last_update": "Dec 27 2024 22:32:14"
+        "last_update": "Dec 28 2024 22:32:12"
     }
 }

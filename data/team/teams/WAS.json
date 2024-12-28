@@ -30,8 +30,8 @@
             {
                 "Player": "Marvin Bagley III",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Knee) - Bagley III did not play in Thursday's (Dec. 26) game against the Hornets."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Out (Knee) - The Wizards have listed Bagley III as Out for Saturday's (Dec. 28) game against the Knicks."
             },
             {
                 "Player": "Saddiq Bey",
@@ -42,8 +42,14 @@
             {
                 "Player": "Kyle Kuzma",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Day To Day (Ribs) - Kuzma III did not play in Thursday's (Dec. 26) game against the Hornets."
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Out (Ribs) - The Wizards have listed Kuzma as Out for Saturday's (Dec. 28) game against the Knicks."
+            },
+            {
+                "Player": "Jordan Poole",
+                "Team": "Washington Wizards",
+                "Update": "Fri, Dec 27, 2024",
+                "Description": "Day To Day (Hip) - The Wizards have listed Poole as Questionable for Saturday's (Dec. 28) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -101,21 +107,21 @@
                 "G": "",
                 "MP": "30",
                 "FG": "22",
-                "FGA": "9",
+                "FGA": "10",
                 "FG%": "28",
                 "3P": "22",
                 "3PA": "15",
                 "3P%": "29",
                 "2P": "15",
-                "2PA": "12",
+                "2PA": "11",
                 "2P%": "24",
-                "FT": "20",
-                "FTA": "21",
-                "FT%": "17",
+                "FT": "21",
+                "FTA": "20",
+                "FT%": "19",
                 "ORB": "19",
                 "DRB": "13",
                 "TRB": "16",
-                "AST": "23",
+                "AST": "22",
                 "STL": "20",
                 "BLK": "5",
                 "TOV": "26",
@@ -202,16 +208,16 @@
                 "MP": "30",
                 "FG": "28",
                 "FGA": "28",
-                "FG%": "20",
-                "3P": "27",
+                "FG%": "21",
+                "3P": "26",
                 "3PA": "27",
-                "3P%": "19",
+                "3P%": "18",
                 "2P": "28",
                 "2PA": "24",
-                "2P%": "22",
+                "2P%": "21",
                 "FT": "29",
-                "FTA": "29",
-                "FT%": "6",
+                "FTA": "28",
+                "FT%": "8",
                 "ORB": "30",
                 "DRB": "29",
                 "TRB": "30",
@@ -253,8 +259,8 @@
                 "PW": "4",
                 "PL": "24",
                 "MOV": "-14.18",
-                "SOS": "3.01",
-                "SRS": "-11.17",
+                "SOS": "3.04",
+                "SRS": "-11.14",
                 "ORtg": "104.9",
                 "DRtg": "118.8",
                 "Pace": "102.5",
@@ -280,17 +286,17 @@
                 "DRtg": "28",
                 "Pace": "4",
                 "FTr": "23",
-                "3PAr": "18",
+                "3PAr": "17",
                 "eFG%": "20",
-                "TOV%": "27",
+                "TOV%": "28",
                 "ORB%": "23",
-                "FT/FGA": "25",
+                "FT/FGA": "24",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/WAS-2025.png",
-        "last_update": "Dec 27 2024 22:32:14"
+        "last_update": "Dec 28 2024 22:32:12"
     }
 }
