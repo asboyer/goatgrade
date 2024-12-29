@@ -35,8 +35,8 @@
             {
                 "Player": "Cameron Johnson",
                 "Team": "Brooklyn Nets",
-                "Update": "Fri, Dec 27, 2024",
-                "Description": "Day To Day (Hip) - Johnson did not play in Friday's (Dec. 27) game against the Spurs."
+                "Update": "Sat, Dec 28, 2024",
+                "Description": "Day To Day (Hip) - The Nets listed Johnson as probable for Sunday's (Dec. 29) game against Orlando. "
             },
             {
                 "Player": "De'Anthony Melton",
@@ -45,16 +45,10 @@
                 "Description": "Out For Season (ACL) - Melton will undergo season-ending surgery on his left ACL, the team announced Wednesday (Nov. 20)."
             },
             {
-                "Player": "Ben Simmons",
-                "Team": "Brooklyn Nets",
-                "Update": "Fri, Dec 27, 2024",
-                "Description": "Day To Day (Back) - Simmons did not play in Friday's (Dec. 27) game against the Spurs."
-            },
-            {
                 "Player": "Cam Thomas",
                 "Team": "Brooklyn Nets",
-                "Update": "Fri, Dec 27, 2024",
-                "Description": "Day To Day (Hamstring) - Thomas did not play in Friday's (Dec. 27) game against the Spurs."
+                "Update": "Sat, Dec 28, 2024",
+                "Description": "Day To Day (Hamstring) - The Nets listed Thomas as probable for Sunday's (Dec. 29) game against Orlando. "
             },
             {
                 "Player": "Trendon Watford",
@@ -65,8 +59,8 @@
             {
                 "Player": "Ziaire Williams",
                 "Team": "Brooklyn Nets",
-                "Update": "Fri, Dec 27, 2024",
-                "Description": "Day To Day (Knee) - Williams did not play in Friday's (Dec. 27) game against the Spurs."
+                "Update": "Sat, Dec 28, 2024",
+                "Description": "Out (Knee) - The Nets listed Williams as OUT for Sunday's (Dec. 29) game against Orlando. "
             }
         ],
         "team_stats": {
@@ -122,7 +116,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "14",
                 "FG": "28",
                 "FGA": "30",
                 "FG%": "22",
@@ -143,7 +137,7 @@
                 "BLK": "29",
                 "TOV": "19",
                 "PF": "29",
-                "PTS": "24"
+                "PTS": "26"
             },
             "Year/Year": {
                 "G": "",
@@ -222,26 +216,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
-                "FG": "10",
+                "MP": "14",
+                "FG": "9",
                 "FGA": "2",
                 "FG%": "29",
                 "3P": "17",
                 "3PA": "4",
-                "3P%": "27",
-                "2P": "10",
+                "3P%": "26",
+                "2P": "7",
                 "2PA": "2",
                 "2P%": "27",
                 "FT": "27",
                 "FTA": "26",
-                "FT%": "11",
+                "FT%": "10",
                 "ORB": "2",
-                "DRB": "13",
+                "DRB": "14",
                 "TRB": "5",
                 "AST": "22",
                 "STL": "15",
-                "BLK": "28",
-                "TOV": "10",
+                "BLK": "27",
+                "TOV": "9",
                 "PF": "9",
                 "PTS": "16"
             },
@@ -276,8 +270,8 @@
                 "PW": "11",
                 "PL": "20",
                 "MOV": "-5.06",
-                "SOS": "1.33",
-                "SRS": "-3.73",
+                "SOS": "1.31",
+                "SRS": "-3.76",
                 "ORtg": "110.8",
                 "DRtg": "116.0",
                 "Pace": "96.9",
@@ -294,26 +288,26 @@
             "Misc Lg Rank": {
                 "W": "23",
                 "L": "7",
-                "PW": "23",
+                "PW": "24",
                 "PL": "24",
                 "MOV": "24",
                 "SOS": "4",
                 "SRS": "24",
                 "ORtg": "24",
                 "DRtg": "22",
-                "Pace": "28",
+                "Pace": "29",
                 "FTr": "16",
                 "3PAr": "4",
                 "eFG%": "30",
                 "TOV%": "6",
                 "ORB%": "27",
                 "FT/FGA": "29",
-                "DRB%": "11",
+                "DRB%": "10",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BRK-2025.png",
-        "last_update": "Dec 28 2024 22:32:12"
+        "last_update": "Dec 29 2024 22:32:13"
     }
 }

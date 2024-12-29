@@ -30,14 +30,14 @@
             {
                 "Player": "Luka Garza",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Fri, Dec 27, 2024",
-                "Description": "Day To Day (Ankle) - Garza did not play in Friday's (Dec. 27) game against the Rockets."
+                "Update": "Sat, Dec 28, 2024",
+                "Description": "Out (Ankle) - The Timberwolves have listed Garza as Out for Sunday's (Dec. 29) game against the Spurs."
             },
             {
                 "Player": "Daishen Nix",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Fri, Dec 27, 2024",
-                "Description": "Day To Day (Ankle) - Nix did not play in Friday's (Dec. 27) game against the Rockets."
+                "Update": "Sat, Dec 28, 2024",
+                "Description": "Out (Ankle) - The Timberwolves have listed Nix as Out for Sunday's (Dec. 29) game against the Spurs."
             }
         ],
         "team_stats": {
@@ -93,27 +93,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
-                "FG": "24",
+                "MP": "24",
+                "FG": "25",
                 "FGA": "24",
                 "FG%": "17",
-                "3P": "5",
+                "3P": "4",
                 "3PA": "5",
                 "3P%": "7",
                 "2P": "27",
                 "2PA": "28",
-                "2P%": "20",
+                "2P%": "21",
                 "FT": "27",
                 "FTA": "27",
                 "FT%": "16",
                 "ORB": "23",
                 "DRB": "19",
-                "TRB": "24",
+                "TRB": "25",
                 "AST": "20",
                 "STL": "11",
                 "BLK": "21",
-                "TOV": "21",
-                "PF": "6",
+                "TOV": "22",
+                "PF": "7",
                 "PTS": "23"
             },
             "Year/Year": {
@@ -193,20 +193,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "24",
                 "FG": "5",
                 "FGA": "7",
                 "FG%": "10",
                 "3P": "3",
                 "3PA": "3",
-                "3P%": "5",
+                "3P%": "6",
                 "2P": "17",
                 "2PA": "17",
-                "2P%": "14",
-                "FT": "4",
-                "FTA": "4",
-                "FT%": "20",
-                "ORB": "15",
+                "2P%": "13",
+                "FT": "3",
+                "FTA": "5",
+                "FT%": "19",
+                "ORB": "16",
                 "DRB": "11",
                 "TRB": "11",
                 "AST": "4",
@@ -247,8 +247,8 @@
                 "PW": "17",
                 "PL": "13",
                 "MOV": "2.13",
-                "SOS": "-0.09",
-                "SRS": "2.04",
+                "SOS": "-0.04",
+                "SRS": "2.10",
                 "ORtg": "111.2",
                 "DRtg": "109.0",
                 "Pace": "97.5",
@@ -263,13 +263,13 @@
                 "Attendance": "265,692"
             },
             "Misc Lg Rank": {
-                "W": "11",
+                "W": "13",
                 "L": "17",
-                "PW": "10",
+                "PW": "11",
                 "PL": "10",
                 "MOV": "12",
                 "SOS": "15",
-                "SRS": "13",
+                "SRS": "12",
                 "ORtg": "22",
                 "DRtg": "6",
                 "Pace": "23",
@@ -279,12 +279,12 @@
                 "TOV%": "4",
                 "ORB%": "21",
                 "FT/FGA": "6",
-                "DRB%": "16",
+                "DRB%": "17",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIN-2025.png",
-        "last_update": "Dec 28 2024 22:32:12"
+        "last_update": "Dec 29 2024 22:32:13"
     }
 }

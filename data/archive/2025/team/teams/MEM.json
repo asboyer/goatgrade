@@ -31,8 +31,14 @@
             {
                 "Player": "Santi Aldama",
                 "Team": "Memphis Grizzlies",
-                "Update": "Fri, Dec 27, 2024",
-                "Description": "Day To Day (Ankle) - Aldama did not play in Friday's (Dec. 27) game against the Pelicans."
+                "Update": "Sat, Dec 28, 2024",
+                "Description": "Out (Ankle) - The Grizzlies announced Aldama is considered week to week with an ankle sprain."
+            },
+            {
+                "Player": "Brandon Clarke",
+                "Team": "Memphis Grizzlies",
+                "Update": "Sat, Dec 28, 2024",
+                "Description": "Day To Day (Knee) - The Grizzlies listed Clarke as questionable for Sunday's (Dec. 29) game against Oklahoma City."
             },
             {
                 "Player": "GG Jackson II",
@@ -41,10 +47,16 @@
                 "Description": "Out (Foot ) - The Grizzlies announced Jackson continues to progress well from offseason foot surgery and is expected to return to play in 6-8 weeks."
             },
             {
+                "Player": "Ja Morant",
+                "Team": "Memphis Grizzlies",
+                "Update": "Sat, Dec 28, 2024",
+                "Description": "Out (AC Joint) - The Grizzlies listed Morant as OUT for Sunday's (Dec. 29) game against Oklahoma City."
+            },
+            {
                 "Player": "Marcus Smart",
                 "Team": "Memphis Grizzlies",
-                "Update": "Fri, Dec 27, 2024",
-                "Description": "Day To Day (Finger) - Smart did not play in Friday's (Dec. 27) game against the Pelicans."
+                "Update": "Sat, Dec 28, 2024",
+                "Description": "Out (Finger) - The Grizzlies announced Smart will be re-evaluated in two weeks with a finger injury."
             },
             {
                 "Player": "Vince Williams Jr.",
@@ -106,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "9",
                 "FG": "1",
                 "FGA": "2",
                 "FG%": "5",
@@ -115,10 +127,10 @@
                 "3P%": "10",
                 "2P": "2",
                 "2PA": "6",
-                "2P%": "4",
-                "FT": "2",
+                "2P%": "5",
+                "FT": "4",
                 "FTA": "2",
-                "FT%": "18",
+                "FT%": "20",
                 "ORB": "6",
                 "DRB": "1",
                 "TRB": "2",
@@ -206,28 +218,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "14",
+                "MP": "9",
+                "FG": "13",
                 "FGA": "27",
                 "FG%": "3",
-                "3P": "8",
+                "3P": "9",
                 "3PA": "28",
                 "3P%": "1",
-                "2P": "15",
+                "2P": "14",
                 "2PA": "22",
                 "2P%": "6",
                 "FT": "28",
                 "FTA": "29",
                 "FT%": "4",
-                "ORB": "26",
+                "ORB": "27",
                 "DRB": "5",
-                "TRB": "15",
+                "TRB": "14",
                 "AST": "7",
                 "STL": "24",
                 "BLK": "18",
                 "TOV": "4",
                 "PF": "1",
-                "PTS": "18"
+                "PTS": "17"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -260,8 +272,8 @@
                 "PW": "25",
                 "PL": "7",
                 "MOV": "10.25",
-                "SOS": "-2.32",
-                "SRS": "7.93",
+                "SOS": "-2.21",
+                "SRS": "8.04",
                 "ORtg": "117.5",
                 "DRtg": "107.8",
                 "Pace": "105.5",
@@ -283,21 +295,21 @@
                 "MOV": "3",
                 "SOS": "29",
                 "SRS": "4",
-                "ORtg": "5",
+                "ORtg": "6",
                 "DRtg": "4",
                 "Pace": "1",
                 "FTr": "10",
                 "3PAr": "19",
                 "eFG%": "3",
-                "TOV%": "10",
+                "TOV%": "9",
                 "ORB%": "2",
-                "FT/FGA": "23",
-                "DRB%": "19",
+                "FT/FGA": "22",
+                "DRB%": "18",
                 "Arena": "",
                 "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MEM-2025.png",
-        "last_update": "Dec 28 2024 22:32:12"
+        "last_update": "Dec 29 2024 22:32:13"
     }
 }

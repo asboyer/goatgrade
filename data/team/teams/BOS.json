@@ -30,14 +30,14 @@
             {
                 "Player": "Jrue Holiday",
                 "Team": "Boston Celtics",
-                "Update": "Fri, Dec 27, 2024",
-                "Description": "Day To Day (Shoulder) - Holiday did not play in Friday's (Dec. 27) game against the Pacers."
+                "Update": "Sat, Dec 28, 2024",
+                "Description": "Day To Day (Shoulder) - The Celtics have listed Holiday as Questionable for Sunday's (Dec. 29) game against the Pacers."
             },
             {
                 "Player": "Kristaps Porziņģis",
                 "Team": "Boston Celtics",
-                "Update": "Fri, Dec 27, 2024",
-                "Description": "Day To Day (Ankle) - Porzingis did not play in Friday's (Dec. 27) game against the Pacers."
+                "Update": "Sat, Dec 28, 2024",
+                "Description": "Day To Day (Ankle) - The Celtics have listed Porzingis as Questionable for Sunday's (Dec. 29) game against the Pacers."
             }
         ],
         "team_stats": {
@@ -93,28 +93,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "11",
                 "FG": "12",
                 "FGA": "7",
-                "FG%": "18",
+                "FG%": "19",
                 "3P": "1",
                 "3PA": "1",
                 "3P%": "15",
                 "2P": "30",
                 "2PA": "30",
-                "2P%": "2",
+                "2P%": "3",
                 "FT": "14",
-                "FTA": "16",
-                "FT%": "6",
-                "ORB": "11",
+                "FTA": "15",
+                "FT%": "5",
+                "ORB": "12",
                 "DRB": "5",
                 "TRB": "5",
                 "AST": "15",
                 "STL": "26",
-                "BLK": "8",
+                "BLK": "9",
                 "TOV": "2",
                 "PF": "2",
-                "PTS": "3"
+                "PTS": "4"
             },
             "Year/Year": {
                 "G": "",
@@ -193,7 +193,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "11",
                 "FG": "17",
                 "FGA": "23",
                 "FG%": "7",
@@ -205,16 +205,16 @@
                 "2P%": "7",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "22",
-                "ORB": "5",
+                "FT%": "23",
+                "ORB": "7",
                 "DRB": "23",
-                "TRB": "20",
+                "TRB": "19",
                 "AST": "6",
                 "STL": "3",
-                "BLK": "3",
+                "BLK": "4",
                 "TOV": "27",
                 "PF": "11",
-                "PTS": "8"
+                "PTS": "7"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +247,8 @@
                 "PW": "24",
                 "PL": "7",
                 "MOV": "9.97",
-                "SOS": "-1.26",
-                "SRS": "8.71",
+                "SOS": "-1.23",
+                "SRS": "8.74",
                 "ORtg": "120.5",
                 "DRtg": "110.5",
                 "Pace": "98.3",
@@ -265,7 +265,7 @@
             "Misc Lg Rank": {
                 "W": "3",
                 "L": "28",
-                "PW": "3",
+                "PW": "4",
                 "PL": "3",
                 "MOV": "4",
                 "SOS": "26",
@@ -275,16 +275,16 @@
                 "Pace": "21",
                 "FTr": "20",
                 "3PAr": "1",
-                "eFG%": "5",
+                "eFG%": "6",
                 "TOV%": "26",
                 "ORB%": "16",
                 "FT/FGA": "1",
                 "DRB%": "2",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BOS-2025.png",
-        "last_update": "Dec 28 2024 22:32:12"
+        "last_update": "Dec 29 2024 22:32:13"
     }
 }
