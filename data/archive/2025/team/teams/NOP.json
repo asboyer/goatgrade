@@ -46,6 +46,12 @@
                 "Description": "Out (Back) - The Pelicans announced on Tuesday (Dec. 24) Matkovic has progressed in the conditioning phase of his rehabilitation program. He will be week-to-week going forward."
             },
             {
+                "Player": "Yves Missi",
+                "Team": "New Orleans Pelicans",
+                "Update": "Sun, Dec 29, 2024",
+                "Description": "Day To Day (Back) - The Pelicans listed Missi as questionable for Monday's (Dec. 30) game against Los Angeles."
+            },
+            {
                 "Player": "Zion Williamson",
                 "Team": "New Orleans Pelicans",
                 "Update": "Tue, Dec 24, 2024",
@@ -105,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "11",
                 "FG": "23",
                 "FGA": "10",
                 "FG%": "29",
@@ -118,7 +124,7 @@
                 "FT": "22",
                 "FTA": "17",
                 "FT%": "26",
-                "ORB": "4",
+                "ORB": "5",
                 "DRB": "28",
                 "TRB": "21",
                 "AST": "25",
@@ -205,7 +211,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "11",
                 "FG": "26",
                 "FGA": "21",
                 "FG%": "30",
@@ -214,15 +220,15 @@
                 "3P%": "24",
                 "2P": "26",
                 "2PA": "19",
-                "2P%": "26",
+                "2P%": "27",
                 "FT": "8",
                 "FTA": "8",
                 "FT%": "26",
-                "ORB": "25",
+                "ORB": "26",
                 "DRB": "22",
                 "TRB": "27",
                 "AST": "28",
-                "STL": "20",
+                "STL": "21",
                 "BLK": "25",
                 "TOV": "14",
                 "PF": "27",
@@ -259,8 +265,8 @@
                 "PW": "6",
                 "PL": "26",
                 "MOV": "-11.53",
-                "SOS": "1.50",
-                "SRS": "-10.04",
+                "SOS": "1.54",
+                "SRS": "-9.99",
                 "ORtg": "107.3",
                 "DRtg": "118.9",
                 "Pace": "98.9",
@@ -280,23 +286,23 @@
                 "PW": "29",
                 "PL": "30",
                 "MOV": "29",
-                "SOS": "3",
+                "SOS": "2",
                 "SRS": "29",
                 "ORtg": "29",
                 "DRtg": "28",
                 "Pace": "16",
-                "FTr": "22",
+                "FTr": "21",
                 "3PAr": "28",
                 "eFG%": "29",
                 "TOV%": "16",
                 "ORB%": "8",
-                "FT/FGA": "9",
+                "FT/FGA": "8",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NOP-2025.png",
-        "last_update": "Dec 29 2024 22:32:13"
+        "last_update": "Dec 30 2024 22:32:11"
     }
 }

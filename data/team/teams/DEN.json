@@ -37,8 +37,8 @@
             {
                 "Player": "Aaron Gordon",
                 "Team": "Denver Nuggets",
-                "Update": "Sat, Dec 28, 2024",
-                "Description": "Day To Day (Calf) - Gordon did not play in Saturday's (Dec. 28) game against the Pistons."
+                "Update": "Sun, Dec 29, 2024",
+                "Description": "Out (Calf) - The Nuggets listed Gordon as OUT for Monday's (Dec. 30) game against Utah."
             },
             {
                 "Player": "DaRon Holmes",
@@ -100,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "3",
                 "FGA": "14",
                 "FG%": "2",
@@ -114,11 +114,11 @@
                 "FTA": "1",
                 "FT%": "27",
                 "ORB": "13",
-                "DRB": "9",
+                "DRB": "8",
                 "TRB": "10",
                 "AST": "1",
-                "STL": "12",
-                "BLK": "24",
+                "STL": "11",
+                "BLK": "23",
                 "TOV": "15",
                 "PF": "9",
                 "PTS": "3"
@@ -200,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "27",
                 "FGA": "29",
                 "FG%": "17",
@@ -212,14 +212,14 @@
                 "2P%": "19",
                 "FT": "7",
                 "FTA": "9",
-                "FT%": "6",
-                "ORB": "24",
+                "FT%": "5",
+                "ORB": "25",
                 "DRB": "3",
                 "TRB": "8",
                 "AST": "30",
-                "STL": "21",
+                "STL": "22",
                 "BLK": "23",
-                "TOV": "20",
+                "TOV": "19",
                 "PF": "4",
                 "PTS": "24"
             },
@@ -254,8 +254,8 @@
                 "PW": "17",
                 "PL": "13",
                 "MOV": "2.73",
-                "SOS": "0.34",
-                "SRS": "3.07",
+                "SOS": "0.30",
+                "SRS": "3.03",
                 "ORtg": "117.7",
                 "DRtg": "115.0",
                 "Pace": "101.0",
@@ -270,10 +270,10 @@
                 "Attendance": "276,949"
             },
             "Misc Lg Rank": {
-                "W": "11",
+                "W": "12",
                 "L": "21",
-                "PW": "10",
-                "PL": "9",
+                "PW": "11",
+                "PL": "8",
                 "MOV": "8",
                 "SOS": "12",
                 "SRS": "9",
@@ -282,16 +282,16 @@
                 "Pace": "5",
                 "FTr": "2",
                 "3PAr": "30",
-                "eFG%": "16",
+                "eFG%": "15",
                 "TOV%": "23",
                 "ORB%": "11",
                 "FT/FGA": "4",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DEN-2025.png",
-        "last_update": "Dec 29 2024 22:32:13"
+        "last_update": "Dec 30 2024 22:32:11"
     }
 }

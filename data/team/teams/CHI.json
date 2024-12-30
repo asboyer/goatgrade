@@ -31,14 +31,26 @@
             {
                 "Player": "Ayo Dosunmu",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Dec 28, 2024",
-                "Description": "Day To Day (Achilles) - Dosunmu did not play in Saturday's (Dec. 28) game against the Bucks."
+                "Update": "Sun, Dec 29, 2024",
+                "Description": "Day To Day (Achilles) - The Bulls listed Dosunmu as doubtful for Monday's (Dec. 30) game against Charlotte."
+            },
+            {
+                "Player": "Josh Giddey",
+                "Team": "Chicago Bulls",
+                "Update": "Sun, Dec 29, 2024",
+                "Description": "Day To Day (Ankle) - The Bulls listed Giddey as probable for Monday's (Dec. 30) game against Charlotte."
+            },
+            {
+                "Player": "Zach LaVine",
+                "Team": "Chicago Bulls",
+                "Update": "Sun, Dec 29, 2024",
+                "Description": "Day To Day (Toe) - The Bulls listed LaVine as probable for Monday's (Dec. 30) game against Charlotte."
             },
             {
                 "Player": "Jalen Smith",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Dec 28, 2024",
-                "Description": "Day To Day (Ankle) - Smith did not play in Saturday's (Dec. 28) game against the Bucks."
+                "Update": "Sun, Dec 29, 2024",
+                "Description": "Day To Day (Ankle) - The Bulls listed Smith as questionable for Monday's (Dec. 30) game against Charlotte."
             }
         ],
         "team_stats": {
@@ -94,28 +106,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
-                "FG": "5",
-                "FGA": "5",
+                "MP": "15",
+                "FG": "6",
+                "FGA": "6",
                 "FG%": "10",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "9",
+                "3P%": "7",
                 "2P": "19",
                 "2PA": "23",
-                "2P%": "10",
+                "2P%": "9",
                 "FT": "28",
                 "FTA": "30",
-                "FT%": "6",
-                "ORB": "28",
+                "FT%": "5",
+                "ORB": "27",
                 "DRB": "2",
-                "TRB": "12",
+                "TRB": "11",
                 "AST": "4",
                 "STL": "27",
                 "BLK": "22",
-                "TOV": "16",
+                "TOV": "17",
                 "PF": "11",
-                "PTS": "6"
+                "PTS": "7"
             },
             "Year/Year": {
                 "G": "",
@@ -194,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "15",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "24",
@@ -211,7 +223,7 @@
                 "DRB": "30",
                 "TRB": "28",
                 "AST": "29",
-                "STL": "16",
+                "STL": "17",
                 "BLK": "15",
                 "TOV": "29",
                 "PF": "30",
@@ -248,8 +260,8 @@
                 "PW": "12",
                 "PL": "20",
                 "MOV": "-3.81",
-                "SOS": "1.14",
-                "SRS": "-2.67",
+                "SOS": "1.09",
+                "SRS": "-2.72",
                 "ORtg": "113.2",
                 "DRtg": "116.8",
                 "Pace": "103.9",
@@ -270,7 +282,7 @@
                 "PL": "23",
                 "MOV": "22",
                 "SOS": "5",
-                "SRS": "20",
+                "SRS": "21",
                 "ORtg": "14",
                 "DRtg": "25",
                 "Pace": "2",
@@ -279,13 +291,13 @@
                 "eFG%": "18",
                 "TOV%": "29",
                 "ORB%": "29",
-                "FT/FGA": "10",
+                "FT/FGA": "9",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "2"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHI-2025.png",
-        "last_update": "Dec 29 2024 22:32:13"
+        "last_update": "Dec 30 2024 22:32:11"
     }
 }

@@ -28,28 +28,22 @@
         ],
         "injuries": [
             {
-                "Player": "Marvin Bagley III",
-                "Team": "Washington Wizards",
-                "Update": "Sat, Dec 28, 2024",
-                "Description": "Day To Day (Knee) - Bagley III did not play in Saturday's (Dec. 28) game against the Knicks."
-            },
-            {
                 "Player": "Saddiq Bey",
                 "Team": "Washington Wizards",
                 "Update": "Tue, Oct 15, 2024",
                 "Description": "Out (Knee) - Coach Brain Keefe said that Bey doesn't have a return timetable, Varun Shankar of The Washington Post reports."
             },
             {
-                "Player": "Kyle Kuzma",
+                "Player": "Anthony Gill",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Dec 28, 2024",
-                "Description": "Day To Day (Ribs) - Kuzma did not play in Saturday's (Dec. 28) game against the Knicks."
+                "Update": "Sun, Dec 29, 2024",
+                "Description": "Day To Day (Nasal) - The Wizards listed Gill as questionable for Monday's (Dec. 30) game against New York."
             },
             {
                 "Player": "Jordan Poole",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Dec 28, 2024",
-                "Description": "Day To Day (Hip) - Poole did not play in Saturday's (Dec. 28) game against the Knicks."
+                "Update": "Sun, Dec 29, 2024",
+                "Description": "Day To Day (Hip) - The Wizards listed Poole as questionable for Monday's (Dec. 30) game against New York."
             }
         ],
         "team_stats": {
@@ -113,19 +107,19 @@
                 "3PA": "16",
                 "3P%": "28",
                 "2P": "16",
-                "2PA": "10",
-                "2P%": "23",
+                "2PA": "11",
+                "2P%": "22",
                 "FT": "23",
                 "FTA": "23",
                 "FT%": "17",
                 "ORB": "18",
-                "DRB": "13",
+                "DRB": "14",
                 "TRB": "16",
                 "AST": "21",
                 "STL": "19",
                 "BLK": "5",
-                "TOV": "26",
-                "PF": "27",
+                "TOV": "25",
+                "PF": "28",
                 "PTS": "24"
             },
             "Year/Year": {
@@ -216,16 +210,16 @@
                 "2PA": "24",
                 "2P%": "24",
                 "FT": "29",
-                "FTA": "28",
-                "FT%": "9",
+                "FTA": "29",
+                "FT%": "11",
                 "ORB": "30",
                 "DRB": "29",
                 "TRB": "30",
                 "AST": "26",
-                "STL": "26",
+                "STL": "25",
                 "BLK": "21",
-                "TOV": "24",
-                "PF": "22",
+                "TOV": "23",
+                "PF": "23",
                 "PTS": "30"
             },
             "Opp Year/Year": {
@@ -259,8 +253,8 @@
                 "PW": "5",
                 "PL": "24",
                 "MOV": "-13.83",
-                "SOS": "3.16",
-                "SRS": "-10.67",
+                "SOS": "3.14",
+                "SRS": "-10.68",
                 "ORtg": "105.5",
                 "DRtg": "118.9",
                 "Pace": "102.4",
@@ -276,7 +270,7 @@
             },
             "Misc Lg Rank": {
                 "W": "29",
-                "L": "2",
+                "L": "3",
                 "PW": "30",
                 "PL": "29",
                 "MOV": "30",
@@ -293,10 +287,10 @@
                 "FT/FGA": "26",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/WAS-2025.png",
-        "last_update": "Dec 29 2024 22:32:13"
+        "last_update": "Dec 30 2024 22:32:11"
     }
 }

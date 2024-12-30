@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Jalen Brunson",
+                "Team": "New York Knicks",
+                "Update": "Sun, Dec 29, 2024",
+                "Description": "Day To Day (Calf) - The Knicks listed Brunson as questionable for Monday's (Dec. 30) game against Washington."
+            },
+            {
                 "Player": "Mitchell Robinson",
                 "Team": "New York Knicks",
                 "Update": "Wed, Dec 11, 2024",
@@ -87,28 +93,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "11",
                 "FG": "4",
                 "FGA": "20",
                 "FG%": "3",
                 "3P": "12",
                 "3PA": "22",
                 "3P%": "2",
-                "2P": "8",
+                "2P": "9",
                 "2PA": "16",
                 "2P%": "2",
-                "FT": "16",
+                "FT": "18",
                 "FTA": "25",
                 "FT%": "3",
-                "ORB": "21",
+                "ORB": "23",
                 "DRB": "20",
-                "TRB": "23",
+                "TRB": "24",
                 "AST": "10",
                 "STL": "24",
                 "BLK": "28",
                 "TOV": "5",
                 "PF": "5",
-                "PTS": "7"
+                "PTS": "8"
             },
             "Year/Year": {
                 "G": "",
@@ -187,19 +193,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
-                "FG": "14",
+                "MP": "11",
+                "FG": "13",
                 "FGA": "10",
                 "FG%": "14",
                 "3P": "21",
-                "3PA": "15",
+                "3PA": "13",
                 "3P%": "23",
                 "2P": "13",
                 "2PA": "9",
                 "2P%": "11",
-                "FT": "6",
+                "FT": "5",
                 "FTA": "6",
-                "FT%": "13",
+                "FT%": "12",
                 "ORB": "8",
                 "DRB": "2",
                 "TRB": "2",
@@ -208,7 +214,7 @@
                 "BLK": "11",
                 "TOV": "26",
                 "PF": "17",
-                "PTS": "8"
+                "PTS": "7"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -241,8 +247,8 @@
                 "PW": "23",
                 "PL": "9",
                 "MOV": "7.63",
-                "SOS": "-1.80",
-                "SRS": "5.83",
+                "SOS": "-1.81",
+                "SRS": "5.81",
                 "ORtg": "121.0",
                 "DRtg": "113.1",
                 "Pace": "96.9",
@@ -258,27 +264,27 @@
             },
             "Misc Lg Rank": {
                 "W": "4",
-                "L": "25",
+                "L": "27",
                 "PW": "5",
                 "PL": "5",
                 "MOV": "5",
                 "SOS": "28",
                 "SRS": "6",
                 "ORtg": "2",
-                "DRtg": "14",
+                "DRtg": "13",
                 "Pace": "28",
-                "FTr": "21",
+                "FTr": "20",
                 "3PAr": "17",
                 "eFG%": "14",
                 "TOV%": "21",
-                "ORB%": "17",
-                "FT/FGA": "7",
+                "ORB%": "16",
+                "FT/FGA": "6",
                 "DRB%": "9",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NYK-2025.png",
-        "last_update": "Dec 29 2024 22:32:13"
+        "last_update": "Dec 30 2024 22:32:11"
     }
 }

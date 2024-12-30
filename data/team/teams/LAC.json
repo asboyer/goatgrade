@@ -28,12 +28,6 @@
         ],
         "injuries": [
             {
-                "Player": "Kobe Brown",
-                "Team": "Los Angeles Clippers",
-                "Update": "Fri, Dec 27, 2024",
-                "Description": "Day To Day (Back) - Brown did not play in Friday's (Dec. 27) game against the Warriors."
-            },
-            {
                 "Player": "Kawhi Leonard",
                 "Team": "Los Angeles Clippers",
                 "Update": "Wed, Dec 18, 2024",
@@ -44,12 +38,6 @@
                 "Team": "Los Angeles Clippers",
                 "Update": "Thu, Dec 5, 2024",
                 "Description": "Out (Finger) - Mann will undergo surgery to repair his fractured left middle finger and will be re-evaluated in three weeks, according to Joey Linn of SI.com."
-            },
-            {
-                "Player": "Kevin Porter Jr.",
-                "Team": "Los Angeles Clippers",
-                "Update": "Fri, Dec 27, 2024",
-                "Description": "Day To Day (Illness) - Porter Jr. did not play in Friday's (Dec. 27) game against the Warriors."
             },
             {
                 "Player": "P.J. Tucker",
@@ -111,20 +99,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "19",
                 "FG": "18",
                 "FGA": "26",
                 "FG%": "11",
                 "3P": "20",
-                "3PA": "26",
-                "3P%": "13",
+                "3PA": "25",
+                "3P%": "12",
                 "2P": "17",
                 "2PA": "15",
-                "2P%": "19",
-                "FT": "17",
+                "2P%": "20",
+                "FT": "19",
                 "FTA": "18",
-                "FT%": "15",
-                "ORB": "15",
+                "FT%": "16",
+                "ORB": "16",
                 "DRB": "16",
                 "TRB": "15",
                 "AST": "24",
@@ -211,12 +199,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "19",
                 "FG": "4",
-                "FGA": "5",
-                "FG%": "8",
+                "FGA": "4",
+                "FG%": "7",
                 "3P": "4",
-                "3PA": "11",
+                "3PA": "10",
                 "3P%": "3",
                 "2P": "4",
                 "2PA": "5",
@@ -225,14 +213,14 @@
                 "FTA": "19",
                 "FT%": "3",
                 "ORB": "3",
-                "DRB": "7",
+                "DRB": "8",
                 "TRB": "4",
                 "AST": "5",
                 "STL": "28",
                 "BLK": "14",
                 "TOV": "8",
                 "PF": "26",
-                "PTS": "5"
+                "PTS": "4"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -265,8 +253,8 @@
                 "PW": "18",
                 "PL": "13",
                 "MOV": "2.23",
-                "SOS": "1.00",
-                "SRS": "3.23",
+                "SOS": "0.94",
+                "SRS": "3.16",
                 "ORtg": "111.0",
                 "DRtg": "108.7",
                 "Pace": "98.2",
@@ -284,25 +272,25 @@
                 "W": "9",
                 "L": "21",
                 "PW": "9",
-                "PL": "11",
+                "PL": "10",
                 "MOV": "11",
                 "SOS": "7",
                 "SRS": "8",
-                "ORtg": "23",
+                "ORtg": "22",
                 "DRtg": "5",
                 "Pace": "22",
                 "FTr": "14",
                 "3PAr": "22",
                 "eFG%": "8",
-                "TOV%": "5",
+                "TOV%": "6",
                 "ORB%": "14",
                 "FT/FGA": "19",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "15"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAC-2025.png",
-        "last_update": "Dec 29 2024 22:32:13"
+        "last_update": "Dec 30 2024 22:32:11"
     }
 }
