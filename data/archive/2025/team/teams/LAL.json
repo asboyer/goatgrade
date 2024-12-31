@@ -2,7 +2,7 @@
     "LAL": {
         "info": {
             "record": "18-13",
-            "standing": "5th in West",
+            "standing": "7th in West",
             "coach": "JJ Redick (18-13)",
             "gm": "Rob Pelinka",
             "preseason_odds": "+3000"
@@ -29,28 +29,22 @@
         ],
         "injuries": [
             {
-                "Player": "Jaxson Hayes",
+                "Player": "Anthony Davis",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sat, Dec 28, 2024",
-                "Description": "Day To Day (Ankle) - Hayes did not play in Saturday's (Dec. 28) game against the Kings."
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Day To Day (Ankle) - The Lakers listed Davis as questionable for Tuesday's (Dec. 31) game against Cleveland."
             },
             {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sat, Dec 28, 2024",
-                "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Saturday's (Dec. 28) game against the Kings."
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Out (Hamstring) - The Lakers listed Hood-Schifino as OUT for Tuesday's (Dec. 31) game against Cleveland."
             },
             {
                 "Player": "LeBron James",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sat, Dec 28, 2024",
-                "Description": "Day To Day (Illness) - James did not play in Saturday's (Dec. 28) game against the Kings."
-            },
-            {
-                "Player": "Cam Reddish",
-                "Team": "Los Angeles Lakers",
-                "Update": "Sun, Dec 29, 2024",
-                "Description": "Day To Day (Back) - The Lakers announced Reddish did not return to Saturday's (Dec. 28) game against Sacramento. "
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Day To Day (Illness) - The Lakers listed James as questionable for Tuesday's (Dec. 31) game against Cleveland."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -61,8 +55,8 @@
             {
                 "Player": "Gabe Vincent",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sun, Dec 29, 2024",
-                "Description": "Day To Day (Oblique) - The Lakers announced Vincent did not return to Saturday's (Dec. 28) game against Sacramento. "
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Day To Day (Oblique) - The Lakers listed Vincent as questionable for Tuesday's (Dec. 31) game against Cleveland."
             },
             {
                 "Player": "Christian Wood",
@@ -124,28 +118,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "24",
                 "FG": "17",
-                "FGA": "25",
+                "FGA": "24",
                 "FG%": "9",
-                "3P": "27",
+                "3P": "26",
                 "3PA": "28",
                 "3P%": "19",
                 "2P": "11",
                 "2PA": "13",
                 "2P%": "12",
-                "FT": "3",
+                "FT": "2",
                 "FTA": "4",
                 "FT%": "14",
-                "ORB": "26",
+                "ORB": "27",
                 "DRB": "25",
                 "TRB": "27",
                 "AST": "12",
                 "STL": "21",
-                "BLK": "18",
+                "BLK": "19",
                 "TOV": "7",
                 "PF": "2",
-                "PTS": "18"
+                "PTS": "17"
             },
             "Year/Year": {
                 "G": "",
@@ -224,28 +218,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "24",
                 "FG": "24",
                 "FGA": "20",
-                "FG%": "26",
+                "FG%": "25",
                 "3P": "12",
-                "3PA": "8",
+                "3PA": "9",
                 "3P%": "19",
-                "2P": "27",
+                "2P": "26",
                 "2PA": "23",
                 "2P%": "22",
                 "FT": "4",
                 "FTA": "4",
-                "FT%": "22",
-                "ORB": "20",
+                "FT%": "21",
+                "ORB": "19",
                 "DRB": "18",
-                "TRB": "20",
-                "AST": "27",
+                "TRB": "18",
+                "AST": "25",
                 "STL": "10",
                 "BLK": "4",
                 "TOV": "18",
                 "PF": "3",
-                "PTS": "18"
+                "PTS": "19"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -278,8 +272,8 @@
                 "PW": "13",
                 "PL": "18",
                 "MOV": "-2.10",
-                "SOS": "-0.26",
-                "SRS": "-2.36",
+                "SOS": "-0.20",
+                "SRS": "-2.30",
                 "ORtg": "113.5",
                 "DRtg": "115.6",
                 "Pace": "98.4",
@@ -294,12 +288,12 @@
                 "Attendance": "261,555"
             },
             "Misc Lg Rank": {
-                "W": "9",
+                "W": "10",
                 "L": "21",
                 "PW": "20",
                 "PL": "19",
                 "MOV": "20",
-                "SOS": "20",
+                "SOS": "18",
                 "SRS": "19",
                 "ORtg": "11",
                 "DRtg": "21",
@@ -310,12 +304,12 @@
                 "TOV%": "18",
                 "ORB%": "26",
                 "FT/FGA": "3",
-                "DRB%": "23",
+                "DRB%": "24",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAL-2025.png",
-        "last_update": "Dec 30 2024 22:32:11"
+        "last_update": "Dec 31 2024 22:32:13"
     }
 }

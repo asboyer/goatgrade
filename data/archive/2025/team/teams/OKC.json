@@ -30,8 +30,8 @@
             {
                 "Player": "Alex Caruso",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Sun, Dec 29, 2024",
-                "Description": "Out (Hip) - The Thunder listed Caruso as OUT for Sunday's (Dec. 29) game against Memphis."
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Out (Hip) - The Thunder listed Caruso as OUT for Tuesday's (Dec. 31) game against Minnesota."
             },
             {
                 "Player": "Chet Holmgren",
@@ -99,21 +99,21 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "25",
                 "FG": "5",
                 "FGA": "3",
                 "FG%": "15",
                 "3P": "16",
                 "3PA": "9",
-                "3P%": "22",
+                "3P%": "21",
                 "2P": "7",
                 "2PA": "9",
                 "2P%": "11",
                 "FT": "26",
                 "FTA": "29",
                 "FT%": "1",
-                "ORB": "19",
-                "DRB": "10",
+                "ORB": "20",
+                "DRB": "11",
                 "TRB": "14",
                 "AST": "15",
                 "STL": "1",
@@ -199,12 +199,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "25",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
-                "3P": "6",
-                "3PA": "22",
+                "3P": "5",
+                "3PA": "20",
                 "3P%": "1",
                 "2P": "1",
                 "2PA": "3",
@@ -219,7 +219,7 @@
                 "STL": "2",
                 "BLK": "16",
                 "TOV": "1",
-                "PF": "25",
+                "PF": "26",
                 "PTS": "1"
             },
             "Opp Year/Year": {
@@ -253,8 +253,8 @@
                 "PW": "26",
                 "PL": "5",
                 "MOV": "12.13",
-                "SOS": "-0.63",
-                "SRS": "11.50",
+                "SOS": "-0.72",
+                "SRS": "11.41",
                 "ORtg": "115.5",
                 "DRtg": "103.3",
                 "Pace": "100.0",
@@ -271,7 +271,7 @@
             "Misc Lg Rank": {
                 "W": "2",
                 "L": "29",
-                "PW": "1",
+                "PW": "2",
                 "PL": "1",
                 "MOV": "1",
                 "SOS": "23",
@@ -279,7 +279,7 @@
                 "ORtg": "7",
                 "DRtg": "1",
                 "Pace": "8",
-                "FTr": "29",
+                "FTr": "30",
                 "3PAr": "14",
                 "eFG%": "1",
                 "TOV%": "1",
@@ -287,10 +287,10 @@
                 "FT/FGA": "27",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/OKC-2025.png",
-        "last_update": "Dec 30 2024 22:32:11"
+        "last_update": "Dec 31 2024 22:32:13"
     }
 }

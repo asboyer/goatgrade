@@ -30,8 +30,8 @@
             {
                 "Player": "Bogdan Bogdanović",
                 "Team": "Atlanta Hawks",
-                "Update": "Sun, Dec 29, 2024",
-                "Description": "Out (Leg) - The Hawks listed Bogdanovic as OUT for Sunday's (Dec. 29) game against Toronto."
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Day To Day (Leg) - Bogdanovic did not play in Sunday's (Dec. 29) game against Toronto."
             },
             {
                 "Player": "Kobe Bufkin",
@@ -42,8 +42,8 @@
             {
                 "Player": "Dyson Daniels",
                 "Team": "Atlanta Hawks",
-                "Update": "Sun, Dec 29, 2024",
-                "Description": "Out (Illness) - The Hawks listed Daniels as OUT for Sunday's (Dec. 29) game against Toronto."
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Day To Day (Illness) - Daniels did not play in Sunday's (Dec. 29) game against Toronto."
             },
             {
                 "Player": "Larry Nance Jr.",
@@ -111,10 +111,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
-                "FG": "8",
-                "FGA": "5",
-                "FG%": "13",
+                "MP": "3",
+                "FG": "7",
+                "FGA": "6",
+                "FG%": "12",
                 "3P": "18",
                 "3PA": "19",
                 "3P%": "18",
@@ -130,7 +130,7 @@
                 "AST": "3",
                 "STL": "2",
                 "BLK": "11",
-                "TOV": "26",
+                "TOV": "25",
                 "PF": "12",
                 "PTS": "5"
             },
@@ -211,7 +211,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "25",
                 "FGA": "25",
                 "FG%": "20",
@@ -221,17 +221,17 @@
                 "2P": "15",
                 "2PA": "11",
                 "2P%": "16",
-                "FT": "12",
+                "FT": "13",
                 "FTA": "13",
                 "FT%": "16",
                 "ORB": "16",
                 "DRB": "20",
-                "TRB": "19",
+                "TRB": "17",
                 "AST": "24",
-                "STL": "29",
-                "BLK": "22",
+                "STL": "28",
+                "BLK": "23",
                 "TOV": "4",
-                "PF": "6",
+                "PF": "5",
                 "PTS": "26"
             },
             "Opp Year/Year": {
@@ -265,8 +265,8 @@
                 "PW": "16",
                 "PL": "17",
                 "MOV": "-0.97",
-                "SOS": "-0.46",
-                "SRS": "-1.43",
+                "SOS": "-0.40",
+                "SRS": "-1.37",
                 "ORtg": "113.1",
                 "DRtg": "114.0",
                 "Pace": "103.6",
@@ -281,28 +281,28 @@
                 "Attendance": "280,524"
             },
             "Misc Lg Rank": {
-                "W": "9",
-                "L": "15",
+                "W": "10",
+                "L": "16",
                 "PW": "16",
                 "PL": "18",
                 "MOV": "17",
                 "SOS": "22",
                 "SRS": "16",
-                "ORtg": "15",
-                "DRtg": "16",
+                "ORtg": "14",
+                "DRtg": "17",
                 "Pace": "3",
-                "FTr": "6",
+                "FTr": "7",
                 "3PAr": "23",
-                "eFG%": "24",
+                "eFG%": "25",
                 "TOV%": "4",
                 "ORB%": "9",
                 "FT/FGA": "10",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ATL-2025.png",
-        "last_update": "Dec 30 2024 22:32:11"
+        "last_update": "Dec 31 2024 22:32:13"
     }
 }

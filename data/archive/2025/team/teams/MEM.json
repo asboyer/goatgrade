@@ -37,14 +37,14 @@
             {
                 "Player": "Brandon Clarke",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sun, Dec 29, 2024",
-                "Description": "Out (Knee) - The Grizzlies listed Clarke as OUT for Sunday's (Dec. 29) game against Oklahoma City."
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Out (Knee) - The Grizzlies listed Clarke as OUT for Tuesday's (Dec. 31) game against Phoenix."
             },
             {
                 "Player": "Zach Edey",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sun, Dec 29, 2024",
-                "Description": "Out (Concussion) - The Grizzlies listed Edey as OUT for Sunday's (Dec. 29) game against Oklahoma City."
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Out (Concussion) - The Grizzlies listed Edey as OUT for Tuesday's (Dec. 31) game against Phoenix."
             },
             {
                 "Player": "GG Jackson II",
@@ -53,10 +53,22 @@
                 "Description": "Out (Foot ) - The Grizzlies announced Jackson continues to progress well from offseason foot surgery and is expected to return to play in 6-8 weeks."
             },
             {
+                "Player": "Yuki Kawamura",
+                "Team": "Memphis Grizzlies",
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Day To Day (Shoulder) - The Grizzlies listed Kawamura as questionable for Tuesday's (Dec. 31) game against Phoenix."
+            },
+            {
+                "Player": "Jake LaRavia",
+                "Team": "Memphis Grizzlies",
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Out (Ankle) - The Grizzlies listed LaRavia as OUT for Tuesday's (Dec. 31) game against Phoenix."
+            },
+            {
                 "Player": "Ja Morant",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Dec 28, 2024",
-                "Description": "Out (AC Joint) - The Grizzlies listed Morant as OUT for Sunday's (Dec. 29) game against Oklahoma City."
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Out (AC Joint) - The Grizzlies announced Morant is listed as week to week with a AC Joint sprain. "
             },
             {
                 "Player": "Marcus Smart",
@@ -124,21 +136,21 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "9",
                 "FG": "1",
                 "FGA": "2",
-                "FG%": "6",
+                "FG%": "5",
                 "3P": "11",
                 "3PA": "11",
                 "3P%": "13",
                 "2P": "2",
                 "2PA": "6",
-                "2P%": "5",
+                "2P%": "4",
                 "FT": "4",
                 "FTA": "3",
                 "FT%": "18",
                 "ORB": "4",
-                "DRB": "1",
+                "DRB": "2",
                 "TRB": "2",
                 "AST": "2",
                 "STL": "8",
@@ -224,8 +236,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "16",
+                "MP": "9",
+                "FG": "15",
                 "FGA": "27",
                 "FG%": "3",
                 "3P": "9",
@@ -237,11 +249,11 @@
                 "FT": "28",
                 "FTA": "28",
                 "FT%": "4",
-                "ORB": "24",
-                "DRB": "6",
+                "ORB": "26",
+                "DRB": "5",
                 "TRB": "15",
-                "AST": "7",
-                "STL": "23",
+                "AST": "8",
+                "STL": "24",
                 "BLK": "18",
                 "TOV": "5",
                 "PF": "1",
@@ -278,8 +290,8 @@
                 "PW": "25",
                 "PL": "8",
                 "MOV": "9.21",
-                "SOS": "-1.83",
-                "SRS": "7.39",
+                "SOS": "-1.81",
+                "SRS": "7.40",
                 "ORtg": "117.0",
                 "DRtg": "108.2",
                 "Pace": "105.5",
@@ -294,12 +306,12 @@
                 "Attendance": "294,029"
             },
             "Misc Lg Rank": {
-                "W": "4",
+                "W": "5",
                 "L": "25",
                 "PW": "3",
                 "PL": "4",
                 "MOV": "4",
-                "SOS": "29",
+                "SOS": "28",
                 "SRS": "4",
                 "ORtg": "6",
                 "DRtg": "4",
@@ -309,13 +321,13 @@
                 "eFG%": "3",
                 "TOV%": "10",
                 "ORB%": "2",
-                "FT/FGA": "22",
+                "FT/FGA": "21",
                 "DRB%": "17",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MEM-2025.png",
-        "last_update": "Dec 30 2024 22:32:11"
+        "last_update": "Dec 31 2024 22:32:13"
     }
 }

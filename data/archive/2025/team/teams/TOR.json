@@ -29,16 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "RJ Barrett",
+                "Team": "Toronto Raptors",
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Out (Illness) - The Raptors listed Barrett as OUT for Tuesday's (Dec. 31) game against Boston."
+            },
+            {
+                "Player": "Gradey Dick",
+                "Team": "Toronto Raptors",
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Day To Day (Hamstring) - The Raptors listed Dick as questionable for Tuesday's (Dec. 31) game against Boston."
+            },
+            {
                 "Player": "Bruno Fernando",
                 "Team": "Toronto Raptors",
-                "Update": "Sun, Dec 29, 2024",
-                "Description": "Out (Foot) - The Raptors listed Fernando as OUT for Sunday's (Dec. 29) game against Atlanta."
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Day To Day (Foot) - The Raptors listed Fernando as questionable for Tuesday's (Dec. 31) game against Boston."
             },
             {
                 "Player": "Davion Mitchell",
                 "Team": "Toronto Raptors",
-                "Update": "Sun, Dec 29, 2024",
-                "Description": "Out (Illness) - The Raptors listed Mitchell as OUT for Sunday's (Dec. 29) game against Atlanta."
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Day To Day (Illness) - The Raptors listed Mitchell as questionable for Tuesday's (Dec. 31) game against Boston."
             },
             {
                 "Player": "Immanuel Quickley",
@@ -100,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "11",
                 "FG": "11",
                 "FGA": "8",
                 "FG%": "16",
@@ -109,16 +121,16 @@
                 "3P%": "23",
                 "2P": "4",
                 "2PA": "2",
-                "2P%": "19",
+                "2P%": "21",
                 "FT": "16",
                 "FTA": "13",
                 "FT%": "28",
-                "ORB": "7",
+                "ORB": "6",
                 "DRB": "24",
                 "TRB": "8",
-                "AST": "6",
+                "AST": "5",
                 "STL": "22",
-                "BLK": "24",
+                "BLK": "23",
                 "TOV": "27",
                 "PF": "30",
                 "PTS": "14"
@@ -200,27 +212,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "11",
                 "FG": "20",
                 "FGA": "18",
-                "FG%": "16",
-                "3P": "16",
-                "3PA": "21",
-                "3P%": "10",
+                "FG%": "17",
+                "3P": "18",
+                "3PA": "19",
+                "3P%": "12",
                 "2P": "21",
-                "2PA": "15",
-                "2P%": "21",
+                "2PA": "14",
+                "2P%": "20",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "14",
-                "ORB": "23",
-                "DRB": "7",
+                "FT%": "15",
+                "ORB": "25",
+                "DRB": "6",
                 "TRB": "14",
                 "AST": "17",
                 "STL": "27",
                 "BLK": "26",
                 "TOV": "21",
-                "PF": "13",
+                "PF": "16",
                 "PTS": "27"
             },
             "Opp Year/Year": {
@@ -254,8 +266,8 @@
                 "PW": "10",
                 "PL": "22",
                 "MOV": "-6.75",
-                "SOS": "1.42",
-                "SRS": "-5.33",
+                "SOS": "1.51",
+                "SRS": "-5.24",
                 "ORtg": "110.8",
                 "DRtg": "117.4",
                 "Pace": "100.4",
@@ -273,7 +285,7 @@
                 "W": "26",
                 "L": "2",
                 "PW": "25",
-                "PL": "26",
+                "PL": "25",
                 "MOV": "26",
                 "SOS": "3",
                 "SRS": "25",
@@ -283,7 +295,7 @@
                 "FTr": "17",
                 "3PAr": "29",
                 "eFG%": "16",
-                "TOV%": "22",
+                "TOV%": "23",
                 "ORB%": "3",
                 "FT/FGA": "30",
                 "DRB%": "26",
@@ -292,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/TOR-2025.png",
-        "last_update": "Dec 30 2024 22:32:11"
+        "last_update": "Dec 31 2024 22:32:13"
     }
 }
