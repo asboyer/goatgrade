@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Marvin Bagley III",
+                "Team": "Washington Wizards",
+                "Update": "Thu, Dec 26, 2024",
+                "Description": "Out (Knee) - Wizards head coach Brian Keefe said on Thursday (Dec. 26) that Bagley III's sprained right knee isn't expected to be a season-ending injury, though the big man is without a clear timeline to return to the court, per Varun Shankar of The Washi"
+            },
+            {
                 "Player": "Saddiq Bey",
                 "Team": "Washington Wizards",
                 "Update": "Tue, Oct 15, 2024",
@@ -36,14 +42,14 @@
             {
                 "Player": "Carlton Carrington",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Day To Day (Head) - The Wizards announced Carrington will not return to Monday's (Dec. 31) game against New York."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Head) - The Wizards have listed Carrington as Questionable for Wednesday's (Jan. 1) game against the Bulls."
             },
             {
                 "Player": "Jordan Poole",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Day To Day (Hip) - Poole did not play in Monday's (Dec. 30) game against New York."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Hip) - The Wizards have listed Poole as Questionable for Wednesday's (Jan. 1) game against the Bulls."
             }
         ],
         "team_stats": {
@@ -99,27 +105,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "29",
-                "FG": "19",
+                "MP": "30",
+                "FG": "20",
                 "FGA": "9",
                 "FG%": "28",
                 "3P": "21",
-                "3PA": "15",
+                "3PA": "14",
                 "3P%": "28",
                 "2P": "16",
                 "2PA": "11",
                 "2P%": "23",
                 "FT": "21",
                 "FTA": "23",
-                "FT%": "20",
+                "FT%": "19",
                 "ORB": "17",
                 "DRB": "14",
-                "TRB": "15",
+                "TRB": "14",
                 "AST": "22",
                 "STL": "20",
                 "BLK": "5",
                 "TOV": "24",
-                "PF": "28",
+                "PF": "27",
                 "PTS": "24"
             },
             "Year/Year": {
@@ -199,13 +205,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "29",
+                "MP": "30",
                 "FG": "29",
                 "FGA": "29",
                 "FG%": "21",
                 "3P": "25",
-                "3PA": "27",
-                "3P%": "15",
+                "3PA": "28",
+                "3P%": "14",
                 "2P": "29",
                 "2PA": "24",
                 "2P%": "25",
@@ -217,9 +223,9 @@
                 "TRB": "30",
                 "AST": "27",
                 "STL": "23",
-                "BLK": "19",
+                "BLK": "18",
                 "TOV": "26",
-                "PF": "23",
+                "PF": "22",
                 "PTS": "30"
             },
             "Opp Year/Year": {
@@ -253,8 +259,8 @@
                 "PW": "5",
                 "PL": "25",
                 "MOV": "-14.03",
-                "SOS": "3.29",
-                "SRS": "-10.75",
+                "SOS": "3.39",
+                "SRS": "-10.65",
                 "ORtg": "105.5",
                 "DRtg": "119.2",
                 "Pace": "102.3",
@@ -270,7 +276,7 @@
             },
             "Misc Lg Rank": {
                 "W": "29",
-                "L": "2",
+                "L": "3",
                 "PW": "30",
                 "PL": "29",
                 "MOV": "30",
@@ -279,7 +285,7 @@
                 "ORtg": "30",
                 "DRtg": "29",
                 "Pace": "4",
-                "FTr": "25",
+                "FTr": "24",
                 "3PAr": "17",
                 "eFG%": "21",
                 "TOV%": "28",
@@ -291,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/WAS-2025.png",
-        "last_update": "Dec 31 2024 22:32:13"
+        "last_update": "Jan 01 2025 22:32:12"
     }
 }

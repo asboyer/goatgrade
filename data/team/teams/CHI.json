@@ -29,16 +29,34 @@
         ],
         "injuries": [
             {
+                "Player": "Torrey Craig",
+                "Team": "Chicago Bulls",
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Leg) - The Bulls have listed Craig as Doubtful for Wednesday's (Jan. 1) game against the Wizards."
+            },
+            {
                 "Player": "Ayo Dosunmu",
                 "Team": "Chicago Bulls",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Day To Day (Achilles) - Dosunmu did not play in Monday's (Dec. 30) game against Charlotte."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Out (Achilles) - The Bulls have listed Dosunmu as Out for Wednesday's (Jan. 1) game against the Wizards."
             },
             {
                 "Player": "Zach LaVine",
                 "Team": "Chicago Bulls",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Day To Day (Toe) - LaVine did not play in Monday's (Dec. 30) game against Charlotte."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Toe) - The Bulls have listed LaVine as Questionable for Wednesday's (Jan. 1) game against the Wizards."
+            },
+            {
+                "Player": "Jalen Smith",
+                "Team": "Chicago Bulls",
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Ankle) - The Bulls have listed Smith as Probable for Wednesday's (Jan. 1) game against the Wizards."
+            },
+            {
+                "Player": "Dalen Terry",
+                "Team": "Chicago Bulls",
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Ankle) - The Bulls have listed Terry as Probable for Wednesday's (Jan. 1) game against the Wizards."
             }
         ],
         "team_stats": {
@@ -94,27 +112,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "6",
                 "FGA": "5",
-                "FG%": "13",
+                "FG%": "12",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "10",
-                "2P": "19",
+                "3P%": "11",
+                "2P": "20",
                 "2PA": "25",
                 "2P%": "9",
                 "FT": "28",
                 "FTA": "30",
-                "FT%": "8",
+                "FT%": "7",
                 "ORB": "26",
                 "DRB": "1",
                 "TRB": "7",
                 "AST": "4",
                 "STL": "27",
-                "BLK": "21",
+                "BLK": "22",
                 "TOV": "17",
-                "PF": "9",
+                "PF": "10",
                 "PTS": "7"
             },
             "Year/Year": {
@@ -194,12 +212,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "22",
                 "3P": "14",
-                "3PA": "26",
+                "3PA": "27",
                 "3P%": "3",
                 "2P": "30",
                 "2PA": "30",
@@ -207,7 +225,7 @@
                 "FT": "19",
                 "FTA": "19",
                 "FT%": "17",
-                "ORB": "9",
+                "ORB": "10",
                 "DRB": "30",
                 "TRB": "28",
                 "AST": "28",
@@ -248,8 +266,8 @@
                 "PW": "13",
                 "PL": "20",
                 "MOV": "-3.48",
-                "SOS": "0.97",
-                "SRS": "-2.52",
+                "SOS": "1.08",
+                "SRS": "-2.41",
                 "ORtg": "112.8",
                 "DRtg": "116.1",
                 "Pace": "103.9",
@@ -270,11 +288,11 @@
                 "PL": "23",
                 "MOV": "23",
                 "SOS": "6",
-                "SRS": "21",
+                "SRS": "20",
                 "ORtg": "16",
                 "DRtg": "23",
                 "Pace": "2",
-                "FTr": "29",
+                "FTr": "30",
                 "3PAr": "2",
                 "eFG%": "15",
                 "TOV%": "29",
@@ -282,10 +300,10 @@
                 "FT/FGA": "8",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHI-2025.png",
-        "last_update": "Dec 31 2024 22:32:13"
+        "last_update": "Jan 01 2025 22:32:12"
     }
 }

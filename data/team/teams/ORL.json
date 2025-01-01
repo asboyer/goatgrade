@@ -36,14 +36,14 @@
             {
                 "Player": "Anthony Black",
                 "Team": "Orlando Magic",
-                "Update": "Sun, Dec 29, 2024",
-                "Description": "Day To Day (Back) - Black did not play in Sunday's (Dec. 29) game against Brooklyn."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Back) - The Magic have listed Black as Questionable for Wednesday's (Jan. 1) game against the Pistons."
             },
             {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
-                "Update": "Sun, Dec 29, 2024",
-                "Description": "Day To Day (Wrist) - Suggs did not return to Sunday's (Dec. 29) game against Brooklyn."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Wrist) - The Magic have listed Suggs as Probable for Wednesday's (Jan. 1) game against the Pistons."
             },
             {
                 "Player": "Franz Wagner",
@@ -111,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "29",
                 "FGA": "29",
                 "FG%": "23",
@@ -124,7 +124,7 @@
                 "FT": "8",
                 "FTA": "9",
                 "FT%": "9",
-                "ORB": "14",
+                "ORB": "15",
                 "DRB": "26",
                 "TRB": "26",
                 "AST": "26",
@@ -211,16 +211,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "14",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "20",
+                "3P%": "19",
                 "2P": "2",
                 "2PA": "7",
-                "2P%": "7",
+                "2P%": "8",
                 "FT": "21",
                 "FTA": "22",
                 "FT%": "5",
@@ -265,8 +265,8 @@
                 "PW": "20",
                 "PL": "14",
                 "MOV": "2.38",
-                "SOS": "0.15",
-                "SRS": "2.54",
+                "SOS": "0.13",
+                "SRS": "2.52",
                 "ORtg": "109.2",
                 "DRtg": "106.8",
                 "Pace": "97.0",
@@ -282,12 +282,12 @@
             },
             "Misc Lg Rank": {
                 "W": "7",
-                "L": "17",
+                "L": "18",
                 "PW": "8",
-                "PL": "13",
+                "PL": "12",
                 "MOV": "9",
                 "SOS": "12",
-                "SRS": "10",
+                "SRS": "9",
                 "ORtg": "26",
                 "DRtg": "3",
                 "Pace": "27",
@@ -303,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ORL-2025.png",
-        "last_update": "Dec 31 2024 22:32:13"
+        "last_update": "Jan 01 2025 22:32:12"
     }
 }

@@ -30,14 +30,14 @@
             {
                 "Player": "Gary Payton II",
                 "Team": "Golden State Warriors",
-                "Update": "Sat, Dec 28, 2024",
-                "Description": "Out (Calf) - The Warriors listed Payton II as OUT for Monday's (Dec. 30) game against Cleveland."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Calf) - Payton II did not play on Monday's (Dec. 30) game against Cleveland."
             },
             {
                 "Player": "Brandin Podziemski",
                 "Team": "Golden State Warriors",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Out (Abdominal) - The Warriors listed Podziemski as OUT for Monday's (Dec. 30) game against Cleveland."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Abdominal) - Podziemski did not play on Monday's (Dec. 30) game against Cleveland."
             }
         ],
         "team_stats": {
@@ -93,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "21",
                 "FG": "16",
                 "FGA": "4",
                 "FG%": "26",
@@ -107,14 +107,14 @@
                 "FTA": "22",
                 "FT%": "30",
                 "ORB": "2",
-                "DRB": "6",
+                "DRB": "7",
                 "TRB": "3",
                 "AST": "8",
                 "STL": "10",
                 "BLK": "10",
-                "TOV": "14",
+                "TOV": "13",
                 "PF": "17",
-                "PTS": "18"
+                "PTS": "17"
             },
             "Year/Year": {
                 "G": "",
@@ -193,19 +193,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "21",
                 "FG": "7",
                 "FGA": "15",
                 "FG%": "4",
                 "3P": "11",
                 "3PA": "22",
                 "3P%": "6",
-                "2P": "12",
+                "2P": "11",
                 "2PA": "10",
-                "2P%": "9",
-                "FT": "16",
+                "2P%": "10",
+                "FT": "15",
                 "FTA": "16",
-                "FT%": "14",
+                "FT%": "15",
                 "ORB": "17",
                 "DRB": "27",
                 "TRB": "27",
@@ -247,8 +247,8 @@
                 "PW": "17",
                 "PL": "15",
                 "MOV": "0.94",
-                "SOS": "1.21",
-                "SRS": "2.15",
+                "SOS": "1.12",
+                "SRS": "2.06",
                 "ORtg": "111.4",
                 "DRtg": "110.4",
                 "Pace": "99.8",
@@ -263,28 +263,28 @@
                 "Attendance": "289,024"
             },
             "Misc Lg Rank": {
-                "W": "14",
-                "L": "13",
+                "W": "16",
+                "L": "14",
                 "PW": "14",
-                "PL": "14",
+                "PL": "13",
                 "MOV": "15",
                 "SOS": "5",
-                "SRS": "12",
+                "SRS": "11",
                 "ORtg": "20",
-                "DRtg": "8",
-                "Pace": "9",
+                "DRtg": "9",
+                "Pace": "10",
                 "FTr": "27",
-                "3PAr": "9",
-                "eFG%": "5",
+                "3PAr": "8",
+                "eFG%": "6",
                 "TOV%": "12",
                 "ORB%": "7",
-                "FT/FGA": "16",
+                "FT/FGA": "15",
                 "DRB%": "12",
                 "Arena": "",
                 "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/GSW-2025.png",
-        "last_update": "Dec 31 2024 22:32:13"
+        "last_update": "Jan 01 2025 22:32:12"
     }
 }

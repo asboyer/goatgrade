@@ -43,20 +43,20 @@
             {
                 "Player": "Kyrie Irving",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Out (Shoulder) - The Mavericks listed Irving as questionable for Monday's (Dec. 30) game against Sacramento."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Shoulder) - Irving did not play in Monday's (Dec. 30) game against Sacramento."
             },
             {
                 "Player": "Dereck Lively II",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Out (Hip) - The Mavericks listed Lively II as OUT for Monday's (Dec. 30) game against Sacramento."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Hip) - The Mavericks have listed Lively II as Questionable for Wednesday's (Jan. 1) game against the Rockets."
             },
             {
                 "Player": "Klay Thompson",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Out (Illness) - The Mavericks listed Thompson as OUT for Monday's (Dec. 30) game against Sacramento."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Illness) - Thompson did not play in Monday's (Dec. 30) game against Sacramento."
             }
         ],
         "team_stats": {
@@ -112,26 +112,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "10",
                 "FGA": "17",
-                "FG%": "6",
+                "FG%": "5",
                 "3P": "17",
                 "3PA": "22",
-                "3P%": "6",
+                "3P%": "5",
                 "2P": "10",
                 "2PA": "12",
-                "2P%": "10",
+                "2P%": "11",
                 "FT": "7",
                 "FTA": "6",
-                "FT%": "19",
+                "FT%": "18",
                 "ORB": "13",
-                "DRB": "8",
-                "TRB": "10",
-                "AST": "20",
+                "DRB": "9",
+                "TRB": "11",
+                "AST": "19",
                 "STL": "14",
                 "BLK": "6",
-                "TOV": "13",
+                "TOV": "12",
                 "PF": "16",
                 "PTS": "8"
             },
@@ -212,28 +212,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
-                "FG": "16",
+                "MP": "8",
+                "FG": "15",
                 "FGA": "23",
-                "FG%": "5",
+                "FG%": "6",
                 "3P": "7",
-                "3PA": "6",
-                "3P%": "13",
-                "2P": "18",
+                "3PA": "7",
+                "3P%": "12",
+                "2P": "19",
                 "2PA": "28",
                 "2P%": "4",
-                "FT": "12",
+                "FT": "11",
                 "FTA": "14",
                 "FT%": "7",
                 "ORB": "28",
-                "DRB": "7",
+                "DRB": "6",
                 "TRB": "21",
                 "AST": "20",
                 "STL": "18",
-                "BLK": "5",
-                "TOV": "20",
-                "PF": "13",
-                "PTS": "13"
+                "BLK": "4",
+                "TOV": "19",
+                "PF": "12",
+                "PTS": "14"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -266,8 +266,8 @@
                 "PW": "22",
                 "PL": "11",
                 "MOV": "5.64",
-                "SOS": "-0.76",
-                "SRS": "4.87",
+                "SOS": "-0.85",
+                "SRS": "4.79",
                 "ORtg": "117.6",
                 "DRtg": "111.9",
                 "Pace": "99.3",
@@ -283,27 +283,27 @@
             },
             "Misc Lg Rank": {
                 "W": "7",
-                "L": "21",
+                "L": "23",
                 "PW": "7",
                 "PL": "7",
                 "MOV": "7",
                 "SOS": "24",
                 "SRS": "7",
                 "ORtg": "5",
-                "DRtg": "11",
+                "DRtg": "12",
                 "Pace": "12",
                 "FTr": "6",
                 "3PAr": "20",
                 "eFG%": "4",
                 "TOV%": "19",
                 "ORB%": "13",
-                "FT/FGA": "13",
+                "FT/FGA": "12",
                 "DRB%": "25",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DAL-2025.png",
-        "last_update": "Dec 31 2024 22:32:13"
+        "last_update": "Jan 01 2025 22:32:12"
     }
 }

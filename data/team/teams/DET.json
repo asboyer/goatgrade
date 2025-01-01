@@ -26,7 +26,20 @@
             "Alondes Williams",
             "Bobi Klintman"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Cade Cunningham",
+                "Team": "Detroit Pistons",
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Knee) - The Pistons have listed Cunningham as Probable for Wednesday's (Jan. 1) game against the Magic."
+            },
+            {
+                "Player": "Simone Fontecchio",
+                "Team": "Detroit Pistons",
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Out (Personal) - The Pistons have listed Fontecchio as Out for Wednesday's (Jan. 1) game against the Magic."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "32",
@@ -80,12 +93,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "15",
                 "FG": "14",
                 "FGA": "16",
                 "FG%": "14",
                 "3P": "15",
-                "3PA": "16",
+                "3PA": "15",
                 "3P%": "16",
                 "2P": "14",
                 "2PA": "14",
@@ -98,10 +111,10 @@
                 "TRB": "13",
                 "AST": "14",
                 "STL": "29",
-                "BLK": "15",
-                "TOV": "22",
+                "BLK": "16",
+                "TOV": "21",
                 "PF": "22",
-                "PTS": "16"
+                "PTS": "14"
             },
             "Year/Year": {
                 "G": "",
@@ -180,12 +193,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
-                "FG": "19",
+                "MP": "15",
+                "FG": "20",
                 "FGA": "12",
                 "FG%": "23",
                 "3P": "26",
-                "3PA": "12",
+                "3PA": "10",
                 "3P%": "30",
                 "2P": "14",
                 "2PA": "12",
@@ -234,8 +247,8 @@
                 "PW": "13",
                 "PL": "19",
                 "MOV": "-2.94",
-                "SOS": "0.26",
-                "SRS": "-2.68",
+                "SOS": "0.27",
+                "SRS": "-2.67",
                 "ORtg": "112.3",
                 "DRtg": "115.2",
                 "Pace": "98.7",
@@ -253,25 +266,25 @@
                 "W": "21",
                 "L": "9",
                 "PW": "22",
-                "PL": "22",
+                "PL": "21",
                 "MOV": "21",
                 "SOS": "11",
                 "SRS": "22",
                 "ORtg": "18",
                 "DRtg": "20",
                 "Pace": "18",
-                "FTr": "26",
+                "FTr": "25",
                 "3PAr": "15",
                 "eFG%": "26",
                 "TOV%": "17",
                 "ORB%": "11",
                 "FT/FGA": "19",
-                "DRB%": "7",
+                "DRB%": "6",
                 "Arena": "",
                 "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DET-2025.png",
-        "last_update": "Dec 31 2024 22:32:13"
+        "last_update": "Jan 01 2025 22:32:12"
     }
 }

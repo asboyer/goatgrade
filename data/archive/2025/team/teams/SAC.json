@@ -30,14 +30,20 @@
             {
                 "Player": "Devin Carter",
                 "Team": "Sacramento Kings",
-                "Update": "Mon, Nov 11, 2024",
-                "Description": "Out (Shoulder) - Carter was cleared to participate in unrestricted shooting drills on Monday (Nov. 11) and he will be re-evaluated in January, per Matt George of ABC 10 Sacramento."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Out (Shoulder) - The Kings have listed Carter as Out for Wednesday's (Jan. 1) game against the 76ers."
             },
             {
                 "Player": "Jae Crowder",
                 "Team": "Sacramento Kings",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Out (Back) - The Kings listed Crowder as OUT for Monday's (Dec. 30) game against Dallas."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Back) - The Kings have listed Crowder as Questionable for Wednesday's (Jan. 1) game against the 76ers."
+            },
+            {
+                "Player": "Keegan Murray",
+                "Team": "Sacramento Kings",
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Ankle) - The Kings have listed Murray as Doubtful for Wednesday's (Jan. 1) game against the 76ers."
             }
         ],
         "team_stats": {
@@ -93,8 +99,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
-                "FG": "9",
+                "MP": "4",
+                "FG": "8",
                 "FGA": "12",
                 "FG%": "8",
                 "3P": "25",
@@ -102,16 +108,16 @@
                 "3P%": "24",
                 "2P": "3",
                 "2PA": "7",
-                "2P%": "6",
+                "2P%": "5",
                 "FT": "13",
-                "FTA": "14",
+                "FTA": "13",
                 "FT%": "4",
                 "ORB": "18",
                 "DRB": "15",
-                "TRB": "17",
+                "TRB": "16",
                 "AST": "13",
                 "STL": "16",
-                "BLK": "22",
+                "BLK": "23",
                 "TOV": "5",
                 "PF": "21",
                 "PTS": "10"
@@ -193,27 +199,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
-                "FG": "12",
+                "MP": "4",
+                "FG": "13",
                 "FGA": "8",
                 "FG%": "15",
                 "3P": "28",
-                "3PA": "21",
+                "3PA": "20",
                 "3P%": "27",
                 "2P": "3",
                 "2PA": "6",
-                "2P%": "11",
+                "2P%": "12",
                 "FT": "23",
                 "FTA": "20",
                 "FT%": "27",
                 "ORB": "2",
-                "DRB": "15",
+                "DRB": "14",
                 "TRB": "7",
                 "AST": "14",
-                "STL": "13",
-                "BLK": "8",
+                "STL": "12",
+                "BLK": "9",
                 "TOV": "15",
-                "PF": "18",
+                "PF": "17",
                 "PTS": "17"
             },
             "Opp Year/Year": {
@@ -247,8 +253,8 @@
                 "PW": "18",
                 "PL": "15",
                 "MOV": "1.09",
-                "SOS": "-1.37",
-                "SRS": "-0.28",
+                "SOS": "-1.45",
+                "SRS": "-0.36",
                 "ORtg": "114.9",
                 "DRtg": "113.8",
                 "Pace": "99.0",
@@ -267,24 +273,24 @@
                 "L": "8",
                 "PW": "12",
                 "PL": "15",
-                "MOV": "14",
+                "MOV": "13",
                 "SOS": "27",
                 "SRS": "15",
                 "ORtg": "8",
                 "DRtg": "16",
-                "Pace": "15",
+                "Pace": "16",
                 "FTr": "16",
                 "3PAr": "24",
-                "eFG%": "20",
+                "eFG%": "19",
                 "TOV%": "13",
                 "ORB%": "18",
                 "FT/FGA": "23",
                 "DRB%": "2",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/SAC-2025.png",
-        "last_update": "Dec 31 2024 22:32:13"
+        "last_update": "Jan 01 2025 22:32:12"
     }
 }

@@ -31,14 +31,14 @@
             {
                 "Player": "Dalano Banton",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Out (Hip) - The Trail Blazers listed Banton as OUT for Monday's (Dec. 30) game against Philadelphia."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Hip) - Banton did not play in Monday's (Dec. 30) game against Philadelphia."
             },
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Out (Face) - The Trail Blazers listed Grant as OUT for Monday's (Dec. 30) game against Philadelphia."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Face) - Grant did not play in Monday's (Dec. 30) game against Philadelphia."
             },
             {
                 "Player": "Matisse Thybulle",
@@ -100,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "23",
                 "FG": "22",
                 "FGA": "14",
                 "FG%": "25",
@@ -110,8 +110,8 @@
                 "2P": "15",
                 "2PA": "8",
                 "2P%": "25",
-                "FT": "20",
-                "FTA": "17",
+                "FT": "19",
+                "FTA": "16",
                 "FT%": "23",
                 "ORB": "5",
                 "DRB": "28",
@@ -200,20 +200,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "23",
                 "FG": "22",
                 "FGA": "10",
                 "FG%": "28",
                 "3P": "23",
                 "3PA": "8",
                 "3P%": "28",
-                "2P": "20",
-                "2PA": "13",
+                "2P": "21",
+                "2PA": "14",
                 "2P%": "21",
                 "FT": "27",
                 "FTA": "24",
-                "FT%": "22",
-                "ORB": "24",
+                "FT%": "24",
+                "ORB": "25",
                 "DRB": "12",
                 "TRB": "22",
                 "AST": "23",
@@ -254,8 +254,8 @@
                 "PW": "8",
                 "PL": "24",
                 "MOV": "-9.28",
-                "SOS": "0.53",
-                "SRS": "-8.75",
+                "SOS": "0.50",
+                "SRS": "-8.78",
                 "ORtg": "108.7",
                 "DRtg": "118.1",
                 "Pace": "99.4",
@@ -275,7 +275,7 @@
                 "PW": "28",
                 "PL": "28",
                 "MOV": "28",
-                "SOS": "10",
+                "SOS": "9",
                 "SRS": "28",
                 "ORtg": "27",
                 "DRtg": "27",
@@ -285,13 +285,13 @@
                 "eFG%": "28",
                 "TOV%": "11",
                 "ORB%": "5",
-                "FT/FGA": "26",
+                "FT/FGA": "27",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/POR-2025.png",
-        "last_update": "Dec 31 2024 22:32:13"
+        "last_update": "Jan 01 2025 22:32:12"
     }
 }

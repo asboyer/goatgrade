@@ -2,7 +2,7 @@
     "ATL": {
         "info": {
             "record": "18-15",
-            "standing": "5th in East",
+            "standing": "6th in East",
             "coach": "Quin Snyder (18-15)",
             "gm": "Landry Fields",
             "preseason_odds": "+15000"
@@ -30,8 +30,8 @@
             {
                 "Player": "Bogdan Bogdanović",
                 "Team": "Atlanta Hawks",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Day To Day (Leg) - Bogdanovic did not play in Sunday's (Dec. 29) game against Toronto."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Leg) - The Hawks have listed Bogdanovic as Doubtful for Wednesday's (Jan. 1) game against the Nuggets."
             },
             {
                 "Player": "Kobe Bufkin",
@@ -42,14 +42,20 @@
             {
                 "Player": "Dyson Daniels",
                 "Team": "Atlanta Hawks",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Day To Day (Illness) - Daniels did not play in Sunday's (Dec. 29) game against Toronto."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Illness) - The Hawks have listed Daniels as Probable for Wednesday's (Jan. 1) game against the Nuggets."
             },
             {
                 "Player": "Larry Nance Jr.",
                 "Team": "Atlanta Hawks",
                 "Update": "Sat, Dec 28, 2024",
                 "Description": "Out (Hand) - The Hawks announced Nance Jr. injured his hand in (Dec. 28) game against Miami, there is not timeline for return, but updates will be shared when available."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Achilles) - The Hawks have listed Young as Probable for Wednesday's (Jan. 1) game against the Nuggets."
             },
             {
                 "Player": "Cody Zeller",
@@ -111,10 +117,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "7",
                 "FG": "7",
                 "FGA": "6",
-                "FG%": "12",
+                "FG%": "11",
                 "3P": "18",
                 "3PA": "19",
                 "3P%": "18",
@@ -123,7 +129,7 @@
                 "2P%": "16",
                 "FT": "1",
                 "FTA": "2",
-                "FT%": "12",
+                "FT%": "13",
                 "ORB": "8",
                 "DRB": "13",
                 "TRB": "4",
@@ -131,7 +137,7 @@
                 "STL": "2",
                 "BLK": "11",
                 "TOV": "25",
-                "PF": "12",
+                "PF": "11",
                 "PTS": "5"
             },
             "Year/Year": {
@@ -211,10 +217,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "7",
                 "FG": "25",
-                "FGA": "25",
-                "FG%": "20",
+                "FGA": "26",
+                "FG%": "19",
                 "3P": "30",
                 "3PA": "30",
                 "3P%": "29",
@@ -222,13 +228,13 @@
                 "2PA": "11",
                 "2P%": "16",
                 "FT": "13",
-                "FTA": "13",
+                "FTA": "12",
                 "FT%": "16",
                 "ORB": "16",
                 "DRB": "20",
-                "TRB": "17",
+                "TRB": "16",
                 "AST": "24",
-                "STL": "28",
+                "STL": "27",
                 "BLK": "23",
                 "TOV": "4",
                 "PF": "5",
@@ -265,8 +271,8 @@
                 "PW": "16",
                 "PL": "17",
                 "MOV": "-0.97",
-                "SOS": "-0.40",
-                "SRS": "-1.37",
+                "SOS": "-0.33",
+                "SRS": "-1.30",
                 "ORtg": "113.1",
                 "DRtg": "114.0",
                 "Pace": "103.6",
@@ -283,11 +289,11 @@
             "Misc Lg Rank": {
                 "W": "10",
                 "L": "16",
-                "PW": "16",
-                "PL": "18",
+                "PW": "17",
+                "PL": "17",
                 "MOV": "17",
                 "SOS": "22",
-                "SRS": "16",
+                "SRS": "17",
                 "ORtg": "14",
                 "DRtg": "17",
                 "Pace": "3",
@@ -297,12 +303,12 @@
                 "TOV%": "4",
                 "ORB%": "9",
                 "FT/FGA": "10",
-                "DRB%": "16",
+                "DRB%": "15",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ATL-2025.png",
-        "last_update": "Dec 31 2024 22:32:13"
+        "last_update": "Jan 01 2025 22:32:12"
     }
 }

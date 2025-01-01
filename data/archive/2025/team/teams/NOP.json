@@ -30,8 +30,8 @@
             {
                 "Player": "Jose Alvarado",
                 "Team": "New Orleans Pelicans",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Out (Hamstring) - The Pelicans announced on Tuesday (Dec. 24) that Alvarado has begun the return to play conditioning phase of his rehabilitation program and is expected to return to full practice next week. He will be week-to-week going forward."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Hamstring) - The Pelicans have listed Alvarado as Doubtful for Wednesday's (Jan. 1) game against the Heat."
             },
             {
                 "Player": "Brandon Ingram",
@@ -48,14 +48,14 @@
             {
                 "Player": "Jeremiah Robinson-Earl",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Day To Day (Ankle) - Robinson-Earl did not play in Monday's (Dec. 30) game against Los Angeles."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Ankle) - The Pelicans have listed Robinson-Earl as Questionable for Wednesday's (Jan. 1) game against the Heat."
             },
             {
                 "Player": "Zion Williamson",
                 "Team": "New Orleans Pelicans",
-                "Update": "Tue, Dec 24, 2024",
-                "Description": "Out (Hamstring) - Williamson will return to full practice next week and is going to be listed as week-to-week going forward, per Vincent Goodwill of Yahoo Sports."
+                "Update": "Sun, Dec 29, 2024",
+                "Description": "Out (Hamstring) - Williamson was a limited participant during Sunday's (Dec. 29) practice, Will Guillory of The Athletic reports. There is no clear timetable yet for his return."
             }
         ],
         "team_stats": {
@@ -111,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "23",
                 "FGA": "10",
                 "FG%": "29",
@@ -121,13 +121,13 @@
                 "2P": "13",
                 "2PA": "4",
                 "2P%": "29",
-                "FT": "23",
-                "FTA": "20",
+                "FT": "22",
+                "FTA": "21",
                 "FT%": "26",
                 "ORB": "7",
                 "DRB": "27",
                 "TRB": "24",
-                "AST": "23",
+                "AST": "24",
                 "STL": "5",
                 "BLK": "11",
                 "TOV": "18",
@@ -211,7 +211,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "26",
                 "FGA": "21",
                 "FG%": "30",
@@ -227,8 +227,8 @@
                 "ORB": "27",
                 "DRB": "22",
                 "TRB": "26",
-                "AST": "26",
-                "STL": "22",
+                "AST": "25",
+                "STL": "21",
                 "BLK": "24",
                 "TOV": "14",
                 "PF": "29",
@@ -265,8 +265,8 @@
                 "PW": "6",
                 "PL": "27",
                 "MOV": "-11.27",
-                "SOS": "1.53",
-                "SRS": "-9.74",
+                "SOS": "1.44",
+                "SRS": "-9.84",
                 "ORtg": "107.6",
                 "DRtg": "118.9",
                 "Pace": "98.9",
@@ -286,12 +286,12 @@
                 "PW": "29",
                 "PL": "30",
                 "MOV": "29",
-                "SOS": "2",
+                "SOS": "3",
                 "SRS": "29",
                 "ORtg": "29",
                 "DRtg": "28",
                 "Pace": "17",
-                "FTr": "22",
+                "FTr": "21",
                 "3PAr": "28",
                 "eFG%": "29",
                 "TOV%": "15",
@@ -299,10 +299,10 @@
                 "FT/FGA": "9",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NOP-2025.png",
-        "last_update": "Dec 31 2024 22:32:13"
+        "last_update": "Jan 01 2025 22:32:12"
     }
 }

@@ -31,8 +31,8 @@
             {
                 "Player": "John Collins",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Out (Hip) - The Jazz listed Collins as OUT for Monday's (Dec. 30) game against Denver."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Hip) - The Jazz have listed Collins as Doubtful for Wednesday's (Jan. 1) game against the Knicks."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -94,13 +94,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "25",
-                "FGA": "27",
-                "FG%": "17",
+                "FGA": "28",
+                "FG%": "16",
                 "3P": "13",
                 "3PA": "13",
-                "3P%": "14",
+                "3P%": "15",
                 "2P": "25",
                 "2PA": "26",
                 "2P%": "18",
@@ -109,10 +109,10 @@
                 "FT%": "10",
                 "ORB": "9",
                 "DRB": "22",
-                "TRB": "11",
+                "TRB": "12",
                 "AST": "21",
                 "STL": "30",
-                "BLK": "16",
+                "BLK": "17",
                 "TOV": "30",
                 "PF": "13",
                 "PTS": "21"
@@ -194,9 +194,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "28",
-                "FGA": "24",
+                "FGA": "25",
                 "FG%": "27",
                 "3P": "29",
                 "3PA": "29",
@@ -248,8 +248,8 @@
                 "PW": "8",
                 "PL": "23",
                 "MOV": "-8.81",
-                "SOS": "0.69",
-                "SRS": "-8.11",
+                "SOS": "0.72",
+                "SRS": "-8.09",
                 "ORtg": "111.8",
                 "DRtg": "120.7",
                 "Pace": "99.3",
@@ -267,7 +267,7 @@
                 "W": "26",
                 "L": "5",
                 "PW": "27",
-                "PL": "27",
+                "PL": "26",
                 "MOV": "27",
                 "SOS": "8",
                 "SRS": "27",
@@ -279,13 +279,13 @@
                 "eFG%": "27",
                 "TOV%": "30",
                 "ORB%": "4",
-                "FT/FGA": "12",
-                "DRB%": "21",
+                "FT/FGA": "11",
+                "DRB%": "22",
                 "Arena": "",
                 "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/UTA-2025.png",
-        "last_update": "Dec 31 2024 22:32:13"
+        "last_update": "Jan 01 2025 22:32:12"
     }
 }

@@ -29,14 +29,8 @@
             {
                 "Player": "Bojan Bogdanović",
                 "Team": "Brooklyn Nets",
-                "Update": "Thu, Dec 12, 2024",
-                "Description": "Out (Foot) - The Nets said on Thursday (Dec. 12) that Bogdanovic remains without a timetable for his return, per Erik Slater of ClutchPoints.com."
-            },
-            {
-                "Player": "Cameron Johnson",
-                "Team": "Brooklyn Nets",
-                "Update": "Sun, Dec 29, 2024",
-                "Description": "Day To Day (Hip) - Johnson did not return to Sunday's )Dec. 29)ngame against Orlando."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Out (Foot) - The Nets have listed Bogdanovic as Out for Wednesday's (Jan. 1) game against the Raptors."
             },
             {
                 "Player": "De'Anthony Melton",
@@ -45,16 +39,22 @@
                 "Description": "Out For Season (ACL) - Melton will undergo season-ending surgery on his left ACL, the team announced Wednesday (Nov. 20)."
             },
             {
+                "Player": "Cam Thomas",
+                "Team": "Brooklyn Nets",
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Out (Hamstring) - The Nets have listed Thomas as Out for Wednesday's (Jan. 1) game against the Raptors."
+            },
+            {
                 "Player": "Trendon Watford",
                 "Team": "Brooklyn Nets",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Out (Hamstring) - The Nets announced on Thursday (Dec. 19) that Watford has been diagnosed with a left hamstring strain and his status will be updated in approximately one week, per Meghan Triplett of YES Network."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Out (Hamstring) - The Nets have listed Watford as Out for Wednesday's (Jan. 1) game against the Raptors."
             },
             {
                 "Player": "Ziaire Williams",
                 "Team": "Brooklyn Nets",
-                "Update": "Sun, Dec 29, 2024",
-                "Description": "Day To Day (Knee) - Williams did not play in Sunday's (Dec. 29) game against Orlando. "
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Day To Day (Knee) - The Nets have listed Williams as Questionable for Wednesday's (Jan. 1) game against the Raptors."
             }
         ],
         "team_stats": {
@@ -110,18 +110,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "18",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "22",
                 "3P": "6",
                 "3PA": "8",
-                "3P%": "9",
+                "3P%": "8",
                 "2P": "30",
                 "2PA": "29",
                 "2P%": "24",
-                "FT": "15",
-                "FTA": "19",
+                "FT": "14",
+                "FTA": "20",
                 "FT%": "2",
                 "ORB": "28",
                 "DRB": "29",
@@ -210,18 +210,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "18",
                 "FG": "8",
                 "FGA": "2",
                 "FG%": "29",
-                "3P": "17",
+                "3P": "16",
                 "3PA": "5",
                 "3P%": "26",
                 "2P": "6",
-                "2PA": "2",
+                "2PA": "3",
                 "2P%": "26",
                 "FT": "26",
-                "FTA": "26",
+                "FTA": "27",
                 "FT%": "6",
                 "ORB": "3",
                 "DRB": "11",
@@ -230,7 +230,7 @@
                 "STL": "14",
                 "BLK": "27",
                 "TOV": "10",
-                "PF": "9",
+                "PF": "10",
                 "PTS": "15"
             },
             "Opp Year/Year": {
@@ -264,8 +264,8 @@
                 "PW": "11",
                 "PL": "21",
                 "MOV": "-4.94",
-                "SOS": "1.36",
-                "SRS": "-3.58",
+                "SOS": "1.42",
+                "SRS": "-3.52",
                 "ORtg": "110.9",
                 "DRtg": "115.9",
                 "Pace": "96.6",
@@ -287,21 +287,21 @@
                 "MOV": "24",
                 "SOS": "4",
                 "SRS": "24",
-                "ORtg": "23",
+                "ORtg": "22",
                 "DRtg": "22",
                 "Pace": "29",
                 "FTr": "13",
                 "3PAr": "4",
                 "eFG%": "30",
-                "TOV%": "7",
-                "ORB%": "27",
+                "TOV%": "6",
+                "ORB%": "26",
                 "FT/FGA": "29",
-                "DRB%": "13",
+                "DRB%": "14",
                 "Arena": "",
                 "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BRK-2025.png",
-        "last_update": "Dec 31 2024 22:32:13"
+        "last_update": "Jan 01 2025 22:32:12"
     }
 }
