@@ -29,28 +29,34 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Wed, Jan 1, 2025",
+                "Description": "Day To Day (Ankle) - The Lakers listed Davis as Questionable for Thursday's (Jan. 2) game against the Trail Blazers."
+            },
+            {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
                 "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Tuesday's (Dec. 31) game against Cavaliers."
+                "Description": "Out (Hamstring) - The Lakers listed Hood-Schifino as Out for Thursday's (Jan. 2) game against the Trail Blazers."
             },
             {
                 "Player": "Jarred Vanderbilt",
                 "Team": "Los Angeles Lakers",
-                "Update": "Tue, Dec 3, 2024",
-                "Description": "Out (Knee) - Vanderbilt experienced fluid in his left knee recently during rehabilitation and is now targeting early January for a return."
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Out (Knee) - Vanderbilt participated in non-contact work during Monday's (Dec. 30) practice, Dave McMenamin of ESPN.com reports. He remains a few hurdles away from game action."
             },
             {
                 "Player": "Gabe Vincent",
                 "Team": "Los Angeles Lakers",
                 "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Oblique) - Vincent did not play in Tuesday's (Dec. 31) game against Cavaliers."
+                "Description": "Day To Day (Oblique) - The Lakers listed Vincent as Questionable for Thursday's (Jan. 2) game against the Trail Blazers."
             },
             {
                 "Player": "Christian Wood",
                 "Team": "Los Angeles Lakers",
-                "Update": "Tue, Dec 17, 2024",
-                "Description": "Out (Knee) - Lakers head coach JJ Redick said on Tuesday (Dec. 17) that Wood (knee) has been cleared to resume on-court workouts but still has no clear timetable for his return, per Dave McMenamin of ESPN.com."
+                "Update": "Wed, Jan 1, 2025",
+                "Description": "Out (Knee) - The Lakers listed Wood as out for Thursday's (Jan. 2) game against the Trail Blazers, Jovan Buha of The Athletic reports. He is without a clear timetable to return."
             }
         ],
         "team_stats": {
@@ -106,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "22",
                 "FG": "17",
                 "FGA": "23",
                 "FG%": "9",
@@ -114,10 +120,10 @@
                 "3PA": "29",
                 "3P%": "19",
                 "2P": "11",
-                "2PA": "13",
+                "2PA": "12",
                 "2P%": "12",
-                "FT": "3",
-                "FTA": "5",
+                "FT": "4",
+                "FTA": "4",
                 "FT%": "11",
                 "ORB": "27",
                 "DRB": "25",
@@ -206,23 +212,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "22",
                 "FG": "24",
-                "FGA": "20",
-                "FG%": "26",
-                "3P": "16",
-                "3PA": "10",
+                "FGA": "21",
+                "FG%": "25",
+                "3P": "15",
+                "3PA": "12",
                 "3P%": "20",
                 "2P": "26",
                 "2PA": "21",
                 "2P%": "23",
-                "FT": "4",
+                "FT": "3",
                 "FTA": "4",
                 "FT%": "23",
-                "ORB": "18",
+                "ORB": "19",
                 "DRB": "19",
-                "TRB": "19",
-                "AST": "26",
+                "TRB": "20",
+                "AST": "24",
                 "STL": "9",
                 "BLK": "5",
                 "TOV": "20",
@@ -260,8 +266,8 @@
                 "PW": "14",
                 "PL": "18",
                 "MOV": "-2.41",
-                "SOS": "0.06",
-                "SRS": "-2.35",
+                "SOS": "0.15",
+                "SRS": "-2.26",
                 "ORtg": "113.3",
                 "DRtg": "115.8",
                 "Pace": "98.4",
@@ -276,28 +282,28 @@
                 "Attendance": "280,552"
             },
             "Misc Lg Rank": {
-                "W": "10",
-                "L": "18",
-                "PW": "20",
-                "PL": "20",
+                "W": "11",
+                "L": "19",
+                "PW": "21",
+                "PL": "18",
                 "MOV": "20",
-                "SOS": "13",
-                "SRS": "19",
+                "SOS": "12",
+                "SRS": "20",
                 "ORtg": "12",
                 "DRtg": "21",
                 "Pace": "20",
-                "FTr": "2",
-                "3PAr": "27",
+                "FTr": "1",
+                "3PAr": "26",
                 "eFG%": "23",
                 "TOV%": "18",
-                "ORB%": "27",
+                "ORB%": "26",
                 "FT/FGA": "3",
                 "DRB%": "23",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAL-2025.png",
-        "last_update": "Jan 01 2025 22:32:12"
+        "last_update": "Jan 02 2025 22:32:12"
     }
 }

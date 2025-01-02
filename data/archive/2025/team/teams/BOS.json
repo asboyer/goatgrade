@@ -28,10 +28,16 @@
         ],
         "injuries": [
             {
+                "Player": "Jaylen Brown",
+                "Team": "Boston Celtics",
+                "Update": "Wed, Jan 1, 2025",
+                "Description": "Day To Day (Shoulder) - The Celtics listed Brown as Questionable for Thursday's (Jan. 2) game against the Timberwolves."
+            },
+            {
                 "Player": "Kristaps Porziņģis",
                 "Team": "Boston Celtics",
                 "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Ankle) - Porzingis did not play in Tuesday's (Dec. 31) game against the Raptors."
+                "Description": "Day To Day (Ankle) - The Celtics listed Porzingis as Questionable for Thursday's (Jan. 2) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -87,25 +93,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "12",
                 "FG": "11",
                 "FGA": "7",
                 "FG%": "17",
                 "3P": "1",
                 "3PA": "1",
                 "3P%": "13",
-                "2P": "29",
+                "2P": "30",
                 "2PA": "30",
                 "2P%": "3",
                 "FT": "15",
                 "FTA": "17",
                 "FT%": "8",
-                "ORB": "12",
+                "ORB": "11",
                 "DRB": "5",
                 "TRB": "6",
                 "AST": "16",
-                "STL": "24",
-                "BLK": "9",
+                "STL": "25",
+                "BLK": "8",
                 "TOV": "2",
                 "PF": "3",
                 "PTS": "4"
@@ -187,25 +193,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "12",
                 "FG": "17",
                 "FGA": "22",
                 "FG%": "8",
                 "3P": "4",
                 "3PA": "4",
-                "3P%": "9",
+                "3P%": "8",
                 "2P": "23",
-                "2PA": "29",
+                "2PA": "28",
                 "2P%": "6",
                 "FT": "1",
                 "FTA": "1",
                 "FT%": "21",
-                "ORB": "7",
-                "DRB": "24",
-                "TRB": "18",
+                "ORB": "6",
+                "DRB": "25",
+                "TRB": "19",
                 "AST": "5",
-                "STL": "3",
-                "BLK": "2",
+                "STL": "4",
+                "BLK": "3",
                 "TOV": "27",
                 "PF": "14",
                 "PTS": "7"
@@ -271,7 +277,7 @@
                 "3PAr": "1",
                 "eFG%": "5",
                 "TOV%": "26",
-                "ORB%": "17",
+                "ORB%": "18",
                 "FT/FGA": "1",
                 "DRB%": "4",
                 "Arena": "",
@@ -279,6 +285,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BOS-2025.png",
-        "last_update": "Jan 01 2025 22:32:12"
+        "last_update": "Jan 02 2025 22:32:12"
     }
 }

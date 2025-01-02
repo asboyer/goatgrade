@@ -30,14 +30,14 @@
             {
                 "Player": "Kawhi Leonard",
                 "Team": "Los Angeles Clippers",
-                "Update": "Wed, Dec 18, 2024",
-                "Description": "Out (Knee) - Leonard will not play during the Clippers' upcoming three-game road trip, per Joey Linn of SI.com."
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Out (Knee) - The Clippers reported that Leonard is tagerting Saturday's (Jan. 4) game against the Hawks for his season debut, provided he doesn't have any setbacks in his recovery during the upcoming week."
             },
             {
                 "Player": "Terance Mann",
                 "Team": "Los Angeles Clippers",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Out (Finger) - Mann will undergo surgery to repair his fractured left middle finger and will be re-evaluated in three weeks, according to Joey Linn of SI.com."
+                "Update": "Wed, Jan 1, 2025",
+                "Description": "Out (Finger) - The Clippers listed Mann as Out for Thursday's (Jan. 2) game against the Thunder."
             },
             {
                 "Player": "P.J. Tucker",
@@ -99,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "15",
                 "FG": "21",
                 "FGA": "25",
                 "FG%": "15",
@@ -108,19 +108,19 @@
                 "3P%": "14",
                 "2P": "17",
                 "2PA": "16",
-                "2P%": "20",
+                "2P%": "21",
                 "FT": "18",
                 "FTA": "19",
-                "FT%": "15",
-                "ORB": "16",
+                "FT%": "14",
+                "ORB": "14",
                 "DRB": "20",
-                "TRB": "16",
+                "TRB": "17",
                 "AST": "25",
                 "STL": "4",
                 "BLK": "26",
                 "TOV": "27",
                 "PF": "15",
-                "PTS": "23"
+                "PTS": "24"
             },
             "Year/Year": {
                 "G": "",
@@ -199,25 +199,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "15",
                 "FG": "4",
                 "FGA": "5",
                 "FG%": "11",
                 "3P": "5",
-                "3PA": "12",
-                "3P%": "4",
+                "3PA": "13",
+                "3P%": "3",
                 "2P": "4",
                 "2PA": "5",
                 "2P%": "19",
                 "FT": "11",
-                "FTA": "17",
+                "FTA": "18",
                 "FT%": "3",
                 "ORB": "4",
-                "DRB": "8",
-                "TRB": "4",
+                "DRB": "9",
+                "TRB": "7",
                 "AST": "6",
                 "STL": "29",
-                "BLK": "14",
+                "BLK": "15",
                 "TOV": "8",
                 "PF": "25",
                 "PTS": "5"
@@ -253,8 +253,8 @@
                 "PW": "18",
                 "PL": "15",
                 "MOV": "1.09",
-                "SOS": "0.47",
-                "SRS": "1.56",
+                "SOS": "0.58",
+                "SRS": "1.67",
                 "ORtg": "110.6",
                 "DRtg": "109.5",
                 "Pace": "98.1",
@@ -270,11 +270,11 @@
             },
             "Misc Lg Rank": {
                 "W": "9",
-                "L": "18",
-                "PW": "11",
+                "L": "19",
+                "PW": "13",
                 "PL": "14",
-                "MOV": "13",
-                "SOS": "10",
+                "MOV": "14",
+                "SOS": "9",
                 "SRS": "13",
                 "ORtg": "23",
                 "DRtg": "6",
@@ -282,15 +282,15 @@
                 "FTr": "14",
                 "3PAr": "22",
                 "eFG%": "11",
-                "TOV%": "7",
+                "TOV%": "6",
                 "ORB%": "14",
                 "FT/FGA": "18",
                 "DRB%": "7",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAC-2025.png",
-        "last_update": "Jan 01 2025 22:32:12"
+        "last_update": "Jan 02 2025 22:32:12"
     }
 }

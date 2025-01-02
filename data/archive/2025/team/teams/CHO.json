@@ -2,7 +2,7 @@
     "CHO": {
         "info": {
             "record": "7-25",
-            "standing": "13th in East",
+            "standing": "14th in East",
             "coach": "Charles Lee (7-25)",
             "gm": "Jeff Peterson",
             "preseason_odds": "+100000"
@@ -37,8 +37,8 @@
             {
                 "Player": "Tre Mann",
                 "Team": "Charlotte Hornets",
-                "Update": "Mon, Dec 16, 2024",
-                "Description": "Out (Back) - The Hornets announced Monday (Dec. 16) that Mann will be re-evaluated in two weeks."
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Out (Back) - The Hornets announced Monday (Dec. 30) that Mann will be re-evaluated in two weeks."
             },
             {
                 "Player": "Cody Martin",
@@ -112,22 +112,22 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "18",
                 "FG": "27",
-                "FGA": "11",
+                "FGA": "10",
                 "FG%": "30",
                 "3P": "7",
                 "3PA": "3",
-                "3P%": "22",
+                "3P%": "23",
                 "2P": "28",
                 "2PA": "24",
                 "2P%": "30",
                 "FT": "29",
                 "FTA": "28",
-                "FT%": "21",
+                "FT%": "20",
                 "ORB": "4",
                 "DRB": "21",
-                "TRB": "5",
+                "TRB": "4",
                 "AST": "27",
                 "STL": "18",
                 "BLK": "18",
@@ -212,28 +212,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
-                "FG": "11",
+                "MP": "18",
+                "FG": "10",
                 "FGA": "6",
                 "FG%": "16",
-                "3P": "20",
+                "3P": "21",
                 "3PA": "24",
-                "3P%": "10",
-                "2P": "8",
+                "3P%": "11",
+                "2P": "6",
                 "2PA": "4",
                 "2P%": "24",
-                "FT": "22",
+                "FT": "23",
                 "FTA": "23",
-                "FT%": "14",
+                "FT%": "13",
                 "ORB": "11",
                 "DRB": "23",
-                "TRB": "19",
+                "TRB": "20",
                 "AST": "16",
-                "STL": "15",
+                "STL": "16",
                 "BLK": "21",
                 "TOV": "16",
-                "PF": "19",
-                "PTS": "16"
+                "PF": "18",
+                "PTS": "15"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -266,8 +266,8 @@
                 "PW": "10",
                 "PL": "22",
                 "MOV": "-6.66",
-                "SOS": "0.82",
-                "SRS": "-5.84",
+                "SOS": "0.81",
+                "SRS": "-5.85",
                 "ORtg": "107.7",
                 "DRtg": "114.4",
                 "Pace": "97.7",
@@ -282,28 +282,28 @@
                 "Attendance": "310,123"
             },
             "Misc Lg Rank": {
-                "W": "26",
+                "W": "27",
                 "L": "3",
-                "PW": "25",
+                "PW": "26",
                 "PL": "25",
                 "MOV": "25",
                 "SOS": "7",
                 "SRS": "25",
-                "ORtg": "28",
+                "ORtg": "29",
                 "DRtg": "18",
                 "Pace": "23",
                 "FTr": "28",
                 "3PAr": "3",
-                "eFG%": "18",
+                "eFG%": "17",
                 "TOV%": "16",
                 "ORB%": "6",
-                "FT/FGA": "24",
-                "DRB%": "11",
+                "FT/FGA": "25",
+                "DRB%": "12",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHO-2025.png",
-        "last_update": "Jan 01 2025 22:32:12"
+        "last_update": "Jan 02 2025 22:32:12"
     }
 }
