@@ -30,8 +30,8 @@
             {
                 "Player": "Jose Alvarado",
                 "Team": "New Orleans Pelicans",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Hamstring) - Alvarado did not play in Wednesday's (Jan. 1) game against the Heat."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Hamstring) - The Pelicans listed Alvarado as Probable for Friday's (Jan. 3) game against the Wizards."
             },
             {
                 "Player": "Brandon Ingram",
@@ -48,8 +48,8 @@
             {
                 "Player": "Jeremiah Robinson-Earl",
                 "Team": "New Orleans Pelicans",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Ankle) - Robinson-Earl did not play in Wednesday's (Jan. 1) game against the Heat."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Ankle) - The Pelicans listed Robinson-Earl as Questionable for Friday's (Jan. 3) game against the Wizards."
             },
             {
                 "Player": "Zion Williamson",
@@ -111,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "23",
                 "FGA": "12",
                 "FG%": "29",
@@ -125,11 +125,11 @@
                 "FTA": "20",
                 "FT%": "26",
                 "ORB": "7",
-                "DRB": "28",
+                "DRB": "29",
                 "TRB": "25",
                 "AST": "23",
                 "STL": "6",
-                "BLK": "10",
+                "BLK": "11",
                 "TOV": "17",
                 "PF": "12",
                 "PTS": "28"
@@ -211,26 +211,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "26",
-                "FGA": "20",
-                "FG%": "29",
+                "FGA": "21",
+                "FG%": "30",
                 "3P": "27",
-                "3PA": "20",
+                "3PA": "21",
                 "3P%": "25",
                 "2P": "25",
                 "2PA": "17",
-                "2P%": "27",
+                "2P%": "28",
                 "FT": "8",
-                "FTA": "9",
+                "FTA": "8",
                 "FT%": "26",
                 "ORB": "25",
-                "DRB": "22",
-                "TRB": "26",
+                "DRB": "21",
+                "TRB": "27",
                 "AST": "26",
                 "STL": "21",
                 "BLK": "24",
-                "TOV": "15",
+                "TOV": "14",
                 "PF": "29",
                 "PTS": "25"
             },
@@ -265,8 +265,8 @@
                 "PW": "7",
                 "PL": "27",
                 "MOV": "-11.26",
-                "SOS": "1.47",
-                "SRS": "-9.79",
+                "SOS": "1.59",
+                "SRS": "-9.68",
                 "ORtg": "107.7",
                 "DRtg": "119.1",
                 "Pace": "98.8",
@@ -286,7 +286,7 @@
                 "PW": "29",
                 "PL": "30",
                 "MOV": "29",
-                "SOS": "3",
+                "SOS": "2",
                 "SRS": "29",
                 "ORtg": "28",
                 "DRtg": "29",
@@ -299,10 +299,10 @@
                 "FT/FGA": "9",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NOP-2025.png",
-        "last_update": "Jan 02 2025 22:32:12"
+        "last_update": "Jan 03 2025 22:32:12"
     }
 }

@@ -30,8 +30,8 @@
             {
                 "Player": "Bogdan Bogdanović",
                 "Team": "Atlanta Hawks",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Leg) - Bogdanovic did not play in Wednesday's (Jan. 1) game against the Nuggets."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Leg) - The Hawks listed Bogdanovic as Questionable for Friday's (Jan. 3) game against the Lakers."
             },
             {
                 "Player": "Kobe Bufkin",
@@ -42,20 +42,26 @@
             {
                 "Player": "Jalen Johnson",
                 "Team": "Atlanta Hawks",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Shoulder) - Johnson did not play in Wednesday's (Jan. 1) game against the Nuggets."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Shoulder) - The Hawks listed Johnson as Questionable for Friday's (Jan. 3) game against the Lakers."
             },
             {
                 "Player": "Larry Nance Jr.",
                 "Team": "Atlanta Hawks",
-                "Update": "Sat, Dec 28, 2024",
-                "Description": "Out (Hand) - The Hawks announced Nance Jr. injured his hand in (Dec. 28) game against Miami, there is not timeline for return, but updates will be shared when available."
+                "Update": "Mon, Dec 30, 2024",
+                "Description": "Out (Hand) - The Hawks announced on Monday (Dec. 30) that Nance will undergo surgery on Thursday (Jan. 2) after imaging confirmed a fractured fourth metacarpal bone in his right hand. A timeline for his return is yet to be provided."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Hand) - The Hawks listed Young as Questionable for Friday's (Jan. 3) game against the Lakers."
             },
             {
                 "Player": "Cody Zeller",
                 "Team": "Atlanta Hawks",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Personal) - Zeller did not play in Wednesday's (Jan 1.) game against the Nuggets."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Out (Personal) - The Hawks listed Zeller as OUT for Friday's (Jan. 3) game against the Lakers."
             }
         ],
         "team_stats": {
@@ -111,10 +117,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "6",
                 "FG": "7",
                 "FGA": "6",
-                "FG%": "12",
+                "FG%": "13",
                 "3P": "18",
                 "3PA": "18",
                 "3P%": "18",
@@ -123,9 +129,9 @@
                 "2P%": "17",
                 "FT": "1",
                 "FTA": "3",
-                "FT%": "16",
+                "FT%": "15",
                 "ORB": "8",
-                "DRB": "14",
+                "DRB": "13",
                 "TRB": "5",
                 "AST": "3",
                 "STL": "2",
@@ -211,7 +217,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "6",
                 "FG": "25",
                 "FGA": "26",
                 "FG%": "22",
@@ -219,14 +225,14 @@
                 "3PA": "30",
                 "3P%": "30",
                 "2P": "17",
-                "2PA": "14",
+                "2PA": "15",
                 "2P%": "17",
                 "FT": "15",
                 "FTA": "12",
-                "FT%": "18",
+                "FT%": "19",
                 "ORB": "13",
                 "DRB": "20",
-                "TRB": "17",
+                "TRB": "18",
                 "AST": "27",
                 "STL": "26",
                 "BLK": "23",
@@ -265,8 +271,8 @@
                 "PW": "15",
                 "PL": "19",
                 "MOV": "-1.50",
-                "SOS": "-0.18",
-                "SRS": "-1.68",
+                "SOS": "-0.19",
+                "SRS": "-1.69",
                 "ORtg": "112.9",
                 "DRtg": "114.4",
                 "Pace": "103.8",
@@ -281,10 +287,10 @@
                 "Attendance": "280,524"
             },
             "Misc Lg Rank": {
-                "W": "11",
+                "W": "12",
                 "L": "14",
-                "PW": "17",
-                "PL": "19",
+                "PW": "18",
+                "PL": "18",
                 "MOV": "17",
                 "SOS": "19",
                 "SRS": "17",
@@ -293,16 +299,16 @@
                 "Pace": "3",
                 "FTr": "8",
                 "3PAr": "23",
-                "eFG%": "26",
+                "eFG%": "25",
                 "TOV%": "4",
                 "ORB%": "9",
                 "FT/FGA": "11",
-                "DRB%": "11",
+                "DRB%": "12",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ATL-2025.png",
-        "last_update": "Jan 02 2025 22:32:12"
+        "last_update": "Jan 03 2025 22:32:12"
     }
 }

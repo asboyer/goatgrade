@@ -31,14 +31,8 @@
             {
                 "Player": "RJ Barrett",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Illness) - Barrett did not play in Wednesday's (Jan. 1) game against the Nets."
-            },
-            {
-                "Player": "Bruce Brown",
-                "Team": "Toronto Raptors",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Knee) - Brown did not play in Wednesday's (Jan. 1) game against the Nets."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Illness) - The Raptors have listed Barrett as Questionable for Friday's (Jan. 3rd) game against the Magic."
             }
         ],
         "team_stats": {
@@ -94,12 +88,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "12",
                 "FGA": "9",
                 "FG%": "16",
                 "3P": "28",
-                "3PA": "28",
+                "3PA": "29",
                 "3P%": "21",
                 "2P": "4",
                 "2PA": "3",
@@ -110,12 +104,12 @@
                 "ORB": "6",
                 "DRB": "24",
                 "TRB": "10",
-                "AST": "6",
+                "AST": "7",
                 "STL": "22",
                 "BLK": "23",
-                "TOV": "28",
+                "TOV": "27",
                 "PF": "30",
-                "PTS": "17"
+                "PTS": "18"
             },
             "Year/Year": {
                 "G": "",
@@ -194,27 +188,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "21",
-                "FGA": "17",
+                "FGA": "18",
                 "FG%": "19",
                 "3P": "20",
-                "3PA": "21",
-                "3P%": "16",
-                "2P": "21",
-                "2PA": "11",
-                "2P%": "22",
+                "3PA": "22",
+                "3P%": "14",
+                "2P": "22",
+                "2PA": "12",
+                "2P%": "21",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "15",
+                "FT%": "14",
                 "ORB": "22",
                 "DRB": "5",
                 "TRB": "11",
-                "AST": "20",
+                "AST": "19",
                 "STL": "28",
                 "BLK": "25",
-                "TOV": "21",
-                "PF": "19",
+                "TOV": "22",
+                "PF": "18",
                 "PTS": "26"
             },
             "Opp Year/Year": {
@@ -248,8 +242,8 @@
                 "PW": "10",
                 "PL": "24",
                 "MOV": "-7.44",
-                "SOS": "1.57",
-                "SRS": "-5.87",
+                "SOS": "1.52",
+                "SRS": "-5.93",
                 "ORtg": "110.4",
                 "DRtg": "117.8",
                 "Pace": "100.2",
@@ -269,9 +263,9 @@
                 "PW": "25",
                 "PL": "27",
                 "MOV": "26",
-                "SOS": "2",
-                "SRS": "26",
-                "ORtg": "24",
+                "SOS": "3",
+                "SRS": "25",
+                "ORtg": "23",
                 "DRtg": "26",
                 "Pace": "7",
                 "FTr": "19",
@@ -286,6 +280,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/TOR-2025.png",
-        "last_update": "Jan 02 2025 22:32:12"
+        "last_update": "Jan 03 2025 22:32:12"
     }
 }

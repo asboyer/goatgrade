@@ -37,14 +37,14 @@
             {
                 "Player": "Brandon Clarke",
                 "Team": "Memphis Grizzlies",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Knee) - Clarke did not play in Tuesday's (Dec. 31) game against the Suns."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Knee) - The Grizzlies listed Clarke as Questionable for Friday's (Jan. 3) game against the Kings."
             },
             {
                 "Player": "Zach Edey",
                 "Team": "Memphis Grizzlies",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Concussion) - Edey did not play in Tuesday's (Dec. 31) game against the Suns."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Concussion) - The Grizzlies listed Edey as Questionable for Friday's (Jan. 3) game against the Kings."
             },
             {
                 "Player": "GG Jackson II",
@@ -55,14 +55,14 @@
             {
                 "Player": "Yuki Kawamura",
                 "Team": "Memphis Grizzlies",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Shoulder) - Kawamura did not play in Tuesday's (Dec. 31) game against the Suns."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Shoulder) - The Grizzlies listed Kawamura as Questionable for Friday's (Jan. 3) game against the Kings."
             },
             {
                 "Player": "Jake LaRavia",
                 "Team": "Memphis Grizzlies",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Ankle) - LaRavia did not play in Tuesday's (Dec. 31) game against the Suns."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Ankle) - The Grizzlies listed LaRavia as Questionable for Friday's (Jan. 3) game against the Kings."
             },
             {
                 "Player": "Ja Morant",
@@ -136,13 +136,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "13",
                 "FG": "2",
                 "FGA": "2",
                 "FG%": "6",
                 "3P": "11",
                 "3PA": "10",
-                "3P%": "12",
+                "3P%": "13",
                 "2P": "2",
                 "2PA": "6",
                 "2P%": "6",
@@ -236,11 +236,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "13",
                 "FG": "15",
                 "FGA": "27",
                 "FG%": "3",
-                "3P": "9",
+                "3P": "8",
                 "3PA": "26",
                 "3P%": "1",
                 "2P": "16",
@@ -248,16 +248,16 @@
                 "2P%": "7",
                 "FT": "28",
                 "FTA": "28",
-                "FT%": "4",
+                "FT%": "3",
                 "ORB": "26",
                 "DRB": "4",
                 "TRB": "14",
                 "AST": "10",
                 "STL": "23",
-                "BLK": "20",
+                "BLK": "19",
                 "TOV": "5",
                 "PF": "1",
-                "PTS": "19"
+                "PTS": "20"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -290,8 +290,8 @@
                 "PW": "25",
                 "PL": "9",
                 "MOV": "9.09",
-                "SOS": "-1.87",
-                "SRS": "7.22",
+                "SOS": "-1.85",
+                "SRS": "7.24",
                 "ORtg": "116.8",
                 "DRtg": "108.2",
                 "Pace": "105.5",
@@ -321,13 +321,13 @@
                 "eFG%": "3",
                 "TOV%": "8",
                 "ORB%": "2",
-                "FT/FGA": "21",
+                "FT/FGA": "22",
                 "DRB%": "18",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MEM-2025.png",
-        "last_update": "Jan 02 2025 22:32:12"
+        "last_update": "Jan 03 2025 22:32:12"
     }
 }

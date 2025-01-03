@@ -30,14 +30,14 @@
             {
                 "Player": "Jalen Brunson",
                 "Team": "New York Knicks",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Calf) - Brunson did not play in Wednesday's (Jan. 1) game against the Jazz."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Calf) - The Knicks listed Brunson as Questionable for Friday's (Jan. 3rd) game against the Thunder."
             },
             {
                 "Player": "Miles McBride",
                 "Team": "New York Knicks",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Hamstring) - McBride has been ruled out for the rest of Wednesday's (Jan.1) game against the Jazz."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Hamstring) - The Knicks listed Brunson as Questionable for Friday's (Jan. 3rd) game against the Thunder."
             },
             {
                 "Player": "Mitchell Robinson",
@@ -99,24 +99,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "4",
                 "FGA": "20",
                 "FG%": "3",
                 "3P": "12",
                 "3PA": "21",
-                "3P%": "3",
+                "3P%": "2",
                 "2P": "7",
                 "2PA": "14",
-                "2P%": "2",
-                "FT": "16",
-                "FTA": "23",
+                "2P%": "3",
+                "FT": "15",
+                "FTA": "22",
                 "FT%": "4",
                 "ORB": "22",
                 "DRB": "16",
-                "TRB": "21",
+                "TRB": "20",
                 "AST": "9",
-                "STL": "24",
+                "STL": "23",
                 "BLK": "28",
                 "TOV": "3",
                 "PF": "5",
@@ -199,10 +199,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "11",
                 "FGA": "11",
-                "FG%": "12",
+                "FG%": "11",
                 "3P": "18",
                 "3PA": "16",
                 "3P%": "19",
@@ -210,9 +210,9 @@
                 "2PA": "9",
                 "2P%": "11",
                 "FT": "5",
-                "FTA": "5",
+                "FTA": "6",
                 "FT%": "12",
-                "ORB": "10",
+                "ORB": "9",
                 "DRB": "1",
                 "TRB": "2",
                 "AST": "12",
@@ -253,8 +253,8 @@
                 "PW": "25",
                 "PL": "9",
                 "MOV": "8.24",
-                "SOS": "-2.17",
-                "SRS": "6.07",
+                "SOS": "-2.21",
+                "SRS": "6.03",
                 "ORtg": "121.0",
                 "DRtg": "112.5",
                 "Pace": "97.1",
@@ -269,28 +269,28 @@
                 "Attendance": "297,180"
             },
             "Misc Lg Rank": {
-                "W": "3",
+                "W": "4",
                 "L": "27",
                 "PW": "5",
                 "PL": "5",
                 "MOV": "5",
                 "SOS": "30",
                 "SRS": "6",
-                "ORtg": "2",
+                "ORtg": "3",
                 "DRtg": "14",
                 "Pace": "26",
                 "FTr": "20",
                 "3PAr": "19",
-                "eFG%": "14",
+                "eFG%": "13",
                 "TOV%": "21",
                 "ORB%": "16",
-                "FT/FGA": "5",
+                "FT/FGA": "6",
                 "DRB%": "9",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NYK-2025.png",
-        "last_update": "Jan 02 2025 22:32:12"
+        "last_update": "Jan 03 2025 22:32:12"
     }
 }

@@ -36,8 +36,8 @@
             {
                 "Player": "Keegan Murray",
                 "Team": "Sacramento Kings",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Ankle) - Murray did not play in Wednesday's (Jan. 1) game against the 76ers."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Ankle) - The Kings listed Murray as Doubtful for Friday's (Jan. 3) game against the Grizzlies."
             }
         ],
         "team_stats": {
@@ -93,13 +93,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "9",
-                "FGA": "14",
+                "FGA": "13",
                 "FG%": "8",
                 "3P": "25",
                 "3PA": "24",
-                "3P%": "25",
+                "3P%": "24",
                 "2P": "3",
                 "2PA": "7",
                 "2P%": "5",
@@ -108,13 +108,13 @@
                 "FT%": "3",
                 "ORB": "17",
                 "DRB": "17",
-                "TRB": "16",
-                "AST": "13",
+                "TRB": "15",
+                "AST": "15",
                 "STL": "16",
                 "BLK": "24",
                 "TOV": "6",
                 "PF": "21",
-                "PTS": "10"
+                "PTS": "11"
             },
             "Year/Year": {
                 "G": "",
@@ -193,27 +193,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "11",
                 "FGA": "7",
                 "FG%": "15",
                 "3P": "29",
-                "3PA": "21",
+                "3PA": "22",
                 "3P%": "27",
                 "2P": "2",
                 "2PA": "6",
                 "2P%": "12",
-                "FT": "22",
+                "FT": "23",
                 "FTA": "20",
                 "FT%": "27",
                 "ORB": "2",
                 "DRB": "12",
-                "TRB": "5",
-                "AST": "14",
+                "TRB": "6",
+                "AST": "13",
                 "STL": "12",
                 "BLK": "9",
-                "TOV": "14",
-                "PF": "16",
+                "TOV": "13",
+                "PF": "15",
                 "PTS": "17"
             },
             "Opp Year/Year": {
@@ -248,7 +248,7 @@
                 "PL": "16",
                 "MOV": "1.24",
                 "SOS": "-1.44",
-                "SRS": "-0.21",
+                "SRS": "-0.20",
                 "ORtg": "115.0",
                 "DRtg": "113.7",
                 "Pace": "98.9",
@@ -265,26 +265,26 @@
             "Misc Lg Rank": {
                 "W": "19",
                 "L": "8",
-                "PW": "10",
-                "PL": "15",
+                "PW": "11",
+                "PL": "14",
                 "MOV": "13",
                 "SOS": "27",
                 "SRS": "15",
                 "ORtg": "8",
-                "DRtg": "16",
+                "DRtg": "15",
                 "Pace": "16",
                 "FTr": "16",
-                "3PAr": "24",
+                "3PAr": "25",
                 "eFG%": "20",
                 "TOV%": "13",
                 "ORB%": "17",
-                "FT/FGA": "20",
+                "FT/FGA": "21",
                 "DRB%": "2",
                 "Arena": "",
                 "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/SAC-2025.png",
-        "last_update": "Jan 02 2025 22:32:12"
+        "last_update": "Jan 03 2025 22:32:12"
     }
 }

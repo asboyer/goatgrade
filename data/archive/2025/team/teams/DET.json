@@ -30,14 +30,14 @@
             {
                 "Player": "Simone Fontecchio",
                 "Team": "Detroit Pistons",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Personal) - Fontecchio did not play in Wednesday's (Jan. 1) game against the Magic."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Out (Personal) - The Pistons have listed Fontecchio as Out for Friday's (Jan. 3rd) game against the Hornets."
             },
             {
                 "Player": "Jaden Ivey",
                 "Team": "Detroit Pistons",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Leg) - Ivey suffered what seemed to be a severe left leg injury during the fourth quarter of Wednesday's (Jan. 1) game against Orlando and did not return, per Philip Rossman-Reich of OrlandoMagicDaily.com."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Out (Leg) - The Pistons announced Thursday (Jan. 2) that Ivey underwent successful surgery to repair a broken fibula in his left leg, and he will be re-evaluated in four weeks, per Keith Langlois of the Pistons' official site."
             }
         ],
         "team_stats": {
@@ -93,13 +93,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "14",
                 "FG": "14",
                 "FGA": "16",
                 "FG%": "11",
                 "3P": "15",
                 "3PA": "16",
-                "3P%": "16",
+                "3P%": "17",
                 "2P": "14",
                 "2PA": "15",
                 "2P%": "15",
@@ -107,14 +107,14 @@
                 "FTA": "26",
                 "FT%": "25",
                 "ORB": "10",
-                "DRB": "13",
+                "DRB": "12",
                 "TRB": "12",
-                "AST": "14",
+                "AST": "17",
                 "STL": "29",
                 "BLK": "17",
                 "TOV": "22",
                 "PF": "22",
-                "PTS": "15"
+                "PTS": "16"
             },
             "Year/Year": {
                 "G": "",
@@ -193,22 +193,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "14",
                 "FG": "18",
                 "FGA": "12",
                 "FG%": "20",
                 "3P": "25",
-                "3PA": "10",
-                "3P%": "28",
-                "2P": "14",
-                "2PA": "12",
-                "2P%": "15",
+                "3PA": "12",
+                "3P%": "29",
+                "2P": "15",
+                "2PA": "13",
+                "2P%": "14",
                 "FT": "19",
-                "FTA": "19",
+                "FTA": "18",
                 "FT%": "17",
                 "ORB": "5",
-                "DRB": "8",
-                "TRB": "4",
+                "DRB": "9",
+                "TRB": "5",
                 "AST": "9",
                 "STL": "27",
                 "BLK": "13",
@@ -247,8 +247,8 @@
                 "PW": "14",
                 "PL": "19",
                 "MOV": "-2.58",
-                "SOS": "0.35",
-                "SRS": "-2.23",
+                "SOS": "0.22",
+                "SRS": "-2.36",
                 "ORtg": "112.0",
                 "DRtg": "114.6",
                 "Pace": "98.7",
@@ -264,27 +264,27 @@
             },
             "Misc Lg Rank": {
                 "W": "19",
-                "L": "10",
-                "PW": "20",
-                "PL": "21",
+                "L": "11",
+                "PW": "21",
+                "PL": "20",
                 "MOV": "21",
-                "SOS": "11",
-                "SRS": "19",
-                "ORtg": "18",
+                "SOS": "12",
+                "SRS": "21",
+                "ORtg": "19",
                 "DRtg": "19",
                 "Pace": "18",
                 "FTr": "24",
-                "3PAr": "16",
+                "3PAr": "15",
                 "eFG%": "24",
                 "TOV%": "17",
                 "ORB%": "11",
                 "FT/FGA": "19",
-                "DRB%": "6",
+                "DRB%": "5",
                 "Arena": "",
                 "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DET-2025.png",
-        "last_update": "Jan 02 2025 22:32:12"
+        "last_update": "Jan 03 2025 22:32:12"
     }
 }

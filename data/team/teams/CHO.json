@@ -31,8 +31,14 @@
             {
                 "Player": "LaMelo Ball",
                 "Team": "Charlotte Hornets",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Day To Day (Wrist) - Ball did not play innMonday's (Dec. 30) game against Chicago."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Wrist) - The Hornets listed Ball as Questionable for Friday's (Jan. 3rd) game against the Pistons."
+            },
+            {
+                "Player": "DaQuan Jeffries",
+                "Team": "Charlotte Hornets",
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Groin) - The Hornets listed Jeffries as Questionable for Friday's (Jan. 3) game against the Pistons."
             },
             {
                 "Player": "Tre Mann",
@@ -43,14 +49,14 @@
             {
                 "Player": "Cody Martin",
                 "Team": "Charlotte Hornets",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Day To Day (Knee) - Martin did not play in Monday's (Dec. 30) game against Chicago."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Knee) - The Hornets listed Martin as Questionable for Friday's (Jan. 3rd) game against the Pistons."
             },
             {
                 "Player": "Brandon Miller",
                 "Team": "Charlotte Hornets",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Day To Day (Ankle) - Miller did not play in Monday's (Dec. 30) game against Chicago."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Ankle) - The Hornets listed Miller as Questionable for Friday's (Jan. 3rd) game against the Pistons."
             },
             {
                 "Player": "Grant Williams",
@@ -112,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "23",
                 "FG": "27",
                 "FGA": "10",
                 "FG%": "30",
@@ -212,27 +218,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "23",
                 "FG": "10",
                 "FGA": "6",
                 "FG%": "16",
                 "3P": "21",
                 "3PA": "24",
-                "3P%": "11",
+                "3P%": "9",
                 "2P": "6",
                 "2PA": "4",
-                "2P%": "24",
-                "FT": "23",
+                "2P%": "23",
+                "FT": "24",
                 "FTA": "23",
                 "FT%": "13",
-                "ORB": "11",
-                "DRB": "23",
-                "TRB": "20",
+                "ORB": "10",
+                "DRB": "24",
+                "TRB": "21",
                 "AST": "16",
                 "STL": "16",
-                "BLK": "21",
+                "BLK": "20",
                 "TOV": "16",
-                "PF": "18",
+                "PF": "17",
                 "PTS": "15"
             },
             "Opp Year/Year": {
@@ -266,8 +272,8 @@
                 "PW": "10",
                 "PL": "22",
                 "MOV": "-6.66",
-                "SOS": "0.81",
-                "SRS": "-5.85",
+                "SOS": "0.65",
+                "SRS": "-6.01",
                 "ORtg": "107.7",
                 "DRtg": "114.4",
                 "Pace": "97.7",
@@ -287,8 +293,8 @@
                 "PW": "26",
                 "PL": "25",
                 "MOV": "25",
-                "SOS": "7",
-                "SRS": "25",
+                "SOS": "9",
+                "SRS": "26",
                 "ORtg": "29",
                 "DRtg": "18",
                 "Pace": "23",
@@ -298,12 +304,12 @@
                 "TOV%": "16",
                 "ORB%": "6",
                 "FT/FGA": "25",
-                "DRB%": "12",
+                "DRB%": "13",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHO-2025.png",
-        "last_update": "Jan 02 2025 22:32:12"
+        "last_update": "Jan 03 2025 22:32:12"
     }
 }

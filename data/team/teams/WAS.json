@@ -42,8 +42,8 @@
             {
                 "Player": "Bilal Coulibaly",
                 "Team": "Washington Wizards",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Illness) - The Wizards listed Coulibaly as Out for the rest of Wednesday's (Jan. 1) game against the Bulls due to a non-COVID illness, Josh Robbins of The Athletic reports."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Out (Illness) - The Wizards listed Coulibaly as Out for Friday's (Jan. 3) game against the Pelicans."
             }
         ],
         "team_stats": {
@@ -99,21 +99,21 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "29",
+                "MP": "30",
                 "FG": "18",
                 "FGA": "8",
-                "FG%": "26",
+                "FG%": "27",
                 "3P": "21",
                 "3PA": "14",
                 "3P%": "27",
-                "2P": "15",
-                "2PA": "11",
-                "2P%": "24",
-                "FT": "23",
+                "2P": "16",
+                "2PA": "10",
+                "2P%": "25",
+                "FT": "24",
                 "FTA": "25",
                 "FT%": "18",
                 "ORB": "18",
-                "DRB": "15",
+                "DRB": "14",
                 "TRB": "14",
                 "AST": "19",
                 "STL": "19",
@@ -199,13 +199,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "29",
+                "MP": "30",
                 "FG": "28",
                 "FGA": "28",
                 "FG%": "21",
                 "3P": "26",
                 "3PA": "29",
-                "3P%": "13",
+                "3P%": "12",
                 "2P": "29",
                 "2PA": "24",
                 "2P%": "25",
@@ -216,8 +216,8 @@
                 "DRB": "29",
                 "TRB": "30",
                 "AST": "25",
-                "STL": "24",
-                "BLK": "19",
+                "STL": "25",
+                "BLK": "18",
                 "TOV": "23",
                 "PF": "24",
                 "PTS": "30"
@@ -253,8 +253,8 @@
                 "PW": "5",
                 "PL": "26",
                 "MOV": "-13.00",
-                "SOS": "3.15",
-                "SRS": "-9.85",
+                "SOS": "3.12",
+                "SRS": "-9.88",
                 "ORtg": "105.8",
                 "DRtg": "118.5",
                 "Pace": "102.6",
@@ -279,7 +279,7 @@
                 "ORtg": "30",
                 "DRtg": "28",
                 "Pace": "4",
-                "FTr": "27",
+                "FTr": "26",
                 "3PAr": "18",
                 "eFG%": "21",
                 "TOV%": "28",
@@ -287,10 +287,10 @@
                 "FT/FGA": "24",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/WAS-2025.png",
-        "last_update": "Jan 02 2025 22:32:12"
+        "last_update": "Jan 03 2025 22:32:12"
     }
 }

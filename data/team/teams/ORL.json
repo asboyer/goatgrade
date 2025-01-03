@@ -36,14 +36,20 @@
             {
                 "Player": "Anthony Black",
                 "Team": "Orlando Magic",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Back) - Black did not play in Wednesday's (Jan. 1) game against the Pistons."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Back) - The Magic have listed Black as Questionable for Friday's (Jan. 3rd) game against the Raptors."
+            },
+            {
+                "Player": "Gary Harris",
+                "Team": "Orlando Magic",
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Out (Hamstring) - The Magic listed Harris as Out for Friday's (Jan. 3) game against the Raptors."
             },
             {
                 "Player": "Trevelin Queen",
                 "Team": "Orlando Magic",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Illness) - Queen did not play in Wednesday's (Jan. 1) game against the Pistons."
+                "Update": "Thu, Jan 2, 2025",
+                "Description": "Day To Day (Illness) - The Magic have listed Queen as Probable for Friday's (Jan. 3rd) game against the Raptors."
             },
             {
                 "Player": "Franz Wagner",
@@ -111,7 +117,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "30",
                 "FGA": "29",
                 "FG%": "23",
@@ -120,18 +126,18 @@
                 "3P%": "30",
                 "2P": "18",
                 "2PA": "21",
-                "2P%": "10",
+                "2P%": "11",
                 "FT": "7",
                 "FTA": "9",
-                "FT%": "10",
-                "ORB": "15",
+                "FT%": "12",
+                "ORB": "14",
                 "DRB": "26",
                 "TRB": "26",
                 "AST": "26",
                 "STL": "5",
                 "BLK": "2",
                 "TOV": "19",
-                "PF": "23",
+                "PF": "25",
                 "PTS": "30"
             },
             "Year/Year": {
@@ -211,7 +217,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "14",
@@ -229,8 +235,8 @@
                 "TRB": "1",
                 "AST": "1",
                 "STL": "15",
-                "BLK": "2",
-                "TOV": "3",
+                "BLK": "3",
+                "TOV": "2",
                 "PF": "2",
                 "PTS": "2"
             },
@@ -265,8 +271,8 @@
                 "PW": "20",
                 "PL": "15",
                 "MOV": "2.06",
-                "SOS": "-0.01",
-                "SRS": "2.04",
+                "SOS": "-0.11",
+                "SRS": "1.95",
                 "ORtg": "108.8",
                 "DRtg": "106.7",
                 "Pace": "97.0",
@@ -282,11 +288,11 @@
             },
             "Misc Lg Rank": {
                 "W": "7",
-                "L": "17",
+                "L": "18",
                 "PW": "8",
                 "PL": "13",
                 "MOV": "10",
-                "SOS": "15",
+                "SOS": "16",
                 "SRS": "11",
                 "ORtg": "26",
                 "DRtg": "3",
@@ -299,10 +305,10 @@
                 "FT/FGA": "28",
                 "DRB%": "1",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ORL-2025.png",
-        "last_update": "Jan 02 2025 22:32:12"
+        "last_update": "Jan 03 2025 22:32:12"
     }
 }
