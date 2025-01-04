@@ -28,10 +28,10 @@
         ],
         "injuries": [
             {
-                "Player": "Andre Drummond",
+                "Player": "Joel Embiid",
                 "Team": "Philadelphia 76ers",
-                "Update": "Thu, Jan 2, 2025",
-                "Description": "Day To Day (Toe Sprain) - Drummond did not play in Thursday's (Jan. 2) game against the Warriors."
+                "Update": "Fri, Jan 3, 2025",
+                "Description": "Day To Day (Foot) - The 76ers listed Embiid as Questionable for Saturday's (Jan. 4th) game agianst the Nets."
             },
             {
                 "Player": "KJ Martin",
@@ -48,8 +48,8 @@
             {
                 "Player": "Kelly Oubre Jr.",
                 "Team": "Philadelphia 76ers",
-                "Update": "Thu, Jan 2, 2025",
-                "Description": "Day To Day (Hand) - Oubre Jr. did not play in Thursday's (Jan. 2) game against the Warriors."
+                "Update": "Fri, Jan 3, 2025",
+                "Description": "Day To Day (Hand) - The 76ers listed Oubre Jr. as Doubtful for Saturday's (Jan. 4th) game agianst the Nets."
             }
         ],
         "team_stats": {
@@ -105,17 +105,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "29",
                 "FGA": "28",
                 "FG%": "25",
-                "3P": "22",
-                "3PA": "22",
+                "3P": "23",
+                "3PA": "23",
                 "3P%": "25",
                 "2P": "23",
                 "2PA": "18",
-                "2P%": "22",
-                "FT": "4",
+                "2P%": "23",
+                "FT": "3",
                 "FTA": "4",
                 "FT%": "14",
                 "ORB": "19",
@@ -125,8 +125,8 @@
                 "STL": "3",
                 "BLK": "27",
                 "TOV": "13",
-                "PF": "23",
-                "PTS": "27"
+                "PF": "24",
+                "PTS": "28"
             },
             "Year/Year": {
                 "G": "",
@@ -205,12 +205,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "8",
                 "FGA": "3",
                 "FG%": "27",
                 "3P": "11",
-                "3PA": "11",
+                "3PA": "12",
                 "3P%": "15",
                 "2P": "12",
                 "2PA": "1",
@@ -219,12 +219,12 @@
                 "FTA": "11",
                 "FT%": "30",
                 "ORB": "6",
-                "DRB": "22",
+                "DRB": "23",
                 "TRB": "13",
-                "AST": "18",
-                "STL": "5",
-                "BLK": "20",
-                "TOV": "3",
+                "AST": "17",
+                "STL": "6",
+                "BLK": "21",
+                "TOV": "2",
                 "PF": "7",
                 "PTS": "12"
             },
@@ -259,7 +259,7 @@
                 "PW": "12",
                 "PL": "20",
                 "MOV": "-4.13",
-                "SOS": "0.07",
+                "SOS": "0.08",
                 "SRS": "-4.05",
                 "ORtg": "109.7",
                 "DRtg": "114.0",
@@ -293,10 +293,10 @@
                 "FT/FGA": "20",
                 "DRB%": "22",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHI-2025.png",
-        "last_update": "Jan 03 2025 22:32:12"
+        "last_update": "Jan 04 2025 22:32:13"
     }
 }

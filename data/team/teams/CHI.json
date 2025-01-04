@@ -31,14 +31,14 @@
             {
                 "Player": "Torrey Craig",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Leg) - Craig did not play in Wednesday's (Jan. 1) game against the Wizards."
+                "Update": "Fri, Jan 3, 2025",
+                "Description": "Day To Day (Leg) - The Bulls listed Craig as Doubtful for Saturday's (Jan. 4th) game agianst the Knicks."
             },
             {
                 "Player": "Ayo Dosunmu",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Achilles) - Dosunmu did not play in Wednesday's (Jan. 1) game against the Wizards."
+                "Update": "Fri, Jan 3, 2025",
+                "Description": "Out (Achilles) - The Bulls listed Dosunmu as Out for Saturday's (Jan. 4th) game agianst the Knicks."
             }
         ],
         "team_stats": {
@@ -94,26 +94,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "14",
                 "FG": "6",
-                "FGA": "5",
-                "FG%": "14",
-                "3P": "3",
+                "FGA": "6",
+                "FG%": "12",
+                "3P": "2",
                 "3PA": "2",
-                "3P%": "10",
-                "2P": "20",
+                "3P%": "12",
+                "2P": "21",
                 "2PA": "25",
-                "2P%": "9",
-                "FT": "28",
+                "2P%": "8",
+                "FT": "29",
                 "FTA": "30",
                 "FT%": "7",
                 "ORB": "27",
                 "DRB": "1",
-                "TRB": "6",
+                "TRB": "7",
                 "AST": "4",
-                "STL": "27",
-                "BLK": "20",
-                "TOV": "17",
+                "STL": "26",
+                "BLK": "22",
+                "TOV": "18",
                 "PF": "9",
                 "PTS": "7"
             },
@@ -194,25 +194,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "14",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "23",
                 "3P": "17",
-                "3PA": "28",
+                "3PA": "27",
                 "3P%": "4",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "26",
                 "FT": "17",
                 "FTA": "16",
-                "FT%": "16",
-                "ORB": "8",
+                "FT%": "17",
+                "ORB": "9",
                 "DRB": "30",
                 "TRB": "28",
                 "AST": "29",
-                "STL": "17",
-                "BLK": "15",
+                "STL": "16",
+                "BLK": "16",
                 "TOV": "29",
                 "PF": "30",
                 "PTS": "29"
@@ -248,8 +248,8 @@
                 "PW": "13",
                 "PL": "21",
                 "MOV": "-3.91",
-                "SOS": "0.65",
-                "SRS": "-3.26",
+                "SOS": "0.60",
+                "SRS": "-3.32",
                 "ORtg": "112.3",
                 "DRtg": "116.1",
                 "Pace": "104.1",
@@ -264,7 +264,7 @@
                 "Attendance": "319,236"
             },
             "Misc Lg Rank": {
-                "W": "19",
+                "W": "21",
                 "L": "8",
                 "PW": "22",
                 "PL": "23",
@@ -280,12 +280,12 @@
                 "TOV%": "29",
                 "ORB%": "29",
                 "FT/FGA": "8",
-                "DRB%": "3",
+                "DRB%": "2",
                 "Arena": "",
-                "Attendance": "6"
+                "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHI-2025.png",
-        "last_update": "Jan 03 2025 22:32:12"
+        "last_update": "Jan 04 2025 22:32:13"
     }
 }

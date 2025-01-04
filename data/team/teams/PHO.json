@@ -34,10 +34,16 @@
                 "Description": "Day To Day (Concussion Protocol) - Allen did not play in Tuesday's (Dec. 31) game against the Grizzlies."
             },
             {
+                "Player": "Bradley Beal",
+                "Team": "Phoenix Suns",
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Day To Day (Hip) - The Suns listed Beal as Questionable for Saturday's (Jan. 4) game against the Pacers."
+            },
+            {
                 "Player": "Royce O'Neale",
                 "Team": "Phoenix Suns",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Day To Day (Ankle) - O'Neale did not play in Tuesday's (Dec. 31) game against the Grizzlies."
+                "Update": "Tue, Dec 31, 2024",
+                "Description": "Out (Ankle) - The Suns announced Tuesday (Dec. 31) that O'Neale will be re-evaluated in 10 days after being diagnosed with a left ankle sprain, per Shane Young of Forbes.com."
             }
         ],
         "team_stats": {
@@ -96,25 +102,25 @@
                 "MP": "27",
                 "FG": "20",
                 "FGA": "27",
-                "FG%": "10",
-                "3P": "9",
+                "FG%": "11",
+                "3P": "8",
                 "3PA": "11",
-                "3P%": "7",
+                "3P%": "6",
                 "2P": "24",
                 "2PA": "27",
-                "2P%": "16",
+                "2P%": "15",
                 "FT": "10",
                 "FTA": "11",
                 "FT%": "6",
-                "ORB": "25",
-                "DRB": "18",
+                "ORB": "26",
+                "DRB": "17",
                 "TRB": "24",
                 "AST": "11",
-                "STL": "20",
+                "STL": "19",
                 "BLK": "15",
                 "TOV": "10",
-                "PF": "7",
-                "PTS": "15"
+                "PF": "8",
+                "PTS": "14"
             },
             "Year/Year": {
                 "G": "",
@@ -198,23 +204,23 @@
                 "FGA": "16",
                 "FG%": "17",
                 "3P": "19",
-                "3PA": "15",
+                "3PA": "16",
                 "3P%": "23",
-                "2P": "18",
-                "2PA": "18",
+                "2P": "17",
+                "2PA": "17",
                 "2P%": "16",
                 "FT": "16",
-                "FTA": "13",
+                "FTA": "12",
                 "FT%": "20",
-                "ORB": "17",
-                "DRB": "16",
-                "TRB": "15",
+                "ORB": "16",
+                "DRB": "17",
+                "TRB": "16",
                 "AST": "21",
-                "STL": "12",
+                "STL": "13",
                 "BLK": "8",
                 "TOV": "28",
                 "PF": "9",
-                "PTS": "18"
+                "PTS": "19"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +253,8 @@
                 "PW": "14",
                 "PL": "18",
                 "MOV": "-1.78",
-                "SOS": "0.01",
-                "SRS": "-1.77",
+                "SOS": "0.04",
+                "SRS": "-1.74",
                 "ORtg": "114.6",
                 "DRtg": "116.4",
                 "Pace": "97.3",
@@ -263,28 +269,28 @@
                 "Attendance": "307,278"
             },
             "Misc Lg Rank": {
-                "W": "19",
+                "W": "21",
                 "L": "13",
-                "PW": "20",
+                "PW": "21",
                 "PL": "17",
                 "MOV": "18",
-                "SOS": "14",
+                "SOS": "15",
                 "SRS": "18",
                 "ORtg": "10",
                 "DRtg": "24",
                 "Pace": "24",
                 "FTr": "9",
                 "3PAr": "9",
-                "eFG%": "16",
+                "eFG%": "17",
                 "TOV%": "27",
-                "ORB%": "24",
+                "ORB%": "25",
                 "FT/FGA": "16",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "15"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHO-2025.png",
-        "last_update": "Jan 03 2025 22:32:12"
+        "last_update": "Jan 04 2025 22:32:13"
     }
 }
