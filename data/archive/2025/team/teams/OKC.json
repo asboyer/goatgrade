@@ -30,8 +30,8 @@
             {
                 "Player": "Alex Caruso",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Jan 3, 2025",
-                "Description": "Day To Day (Hip) - Caruso did not play in Friday's (Jan. 3) game against the Knicks."
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Out (Hip) - The Thunder listed Caruso as OUT for Sunday's (Jan. 5) game against Boston."
             },
             {
                 "Player": "Chet Holmgren",
@@ -99,27 +99,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
-                "FG": "5",
-                "FGA": "5",
-                "FG%": "10",
+                "MP": "21",
+                "FG": "6",
+                "FGA": "4",
+                "FG%": "11",
                 "3P": "15",
                 "3PA": "9",
                 "3P%": "20",
                 "2P": "8",
-                "2PA": "11",
+                "2PA": "10",
                 "2P%": "10",
                 "FT": "25",
                 "FTA": "29",
-                "FT%": "2",
-                "ORB": "20",
-                "DRB": "14",
+                "FT%": "1",
+                "ORB": "21",
+                "DRB": "13",
                 "TRB": "18",
-                "AST": "15",
+                "AST": "14",
                 "STL": "1",
                 "BLK": "5",
                 "TOV": "1",
-                "PF": "22",
+                "PF": "23",
                 "PTS": "10"
             },
             "Year/Year": {
@@ -199,25 +199,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "1",
                 "FGA": "4",
                 "FG%": "1",
                 "3P": "3",
-                "3PA": "17",
+                "3PA": "19",
                 "3P%": "1",
                 "2P": "1",
-                "2PA": "2",
+                "2PA": "3",
                 "2P%": "2",
                 "FT": "22",
                 "FTA": "25",
                 "FT%": "2",
                 "ORB": "29",
-                "DRB": "28",
+                "DRB": "27",
                 "TRB": "29",
                 "AST": "3",
                 "STL": "1",
-                "BLK": "13",
+                "BLK": "14",
                 "TOV": "1",
                 "PF": "25",
                 "PTS": "1"
@@ -253,8 +253,8 @@
                 "PW": "28",
                 "PL": "6",
                 "MOV": "12.12",
-                "SOS": "-0.44",
-                "SRS": "11.68",
+                "SOS": "-0.34",
+                "SRS": "11.78",
                 "ORtg": "115.7",
                 "DRtg": "103.6",
                 "Pace": "99.7",
@@ -274,7 +274,7 @@
                 "PW": "1",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "23",
+                "SOS": "20",
                 "SRS": "1",
                 "ORtg": "7",
                 "DRtg": "1",
@@ -287,10 +287,10 @@
                 "FT/FGA": "25",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/OKC-2025.png",
-        "last_update": "Jan 04 2025 22:32:13"
+        "last_update": "Jan 05 2025 22:32:17"
     }
 }

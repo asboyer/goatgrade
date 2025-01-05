@@ -29,10 +29,22 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Day To Day (Ankle) - The Lakers listed Davis as Probable for Sunday's (Jan. 5) game against the Rockets."
+            },
+            {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Jan 3, 2025",
-                "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Friday's (Jan. 3) game against the Hawks."
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Out (Hamstring) - The Lakers listed Hood-Schifino as Out for Sunday's (Jan. 5) game against the Rockets."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Day To Day (Foot) - The Lakers listed James as Probable for Sunday's (Jan. 5) game against the Rockets."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -43,14 +55,14 @@
             {
                 "Player": "Gabe Vincent",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Jan 3, 2025",
-                "Description": "Day To Day (Oblique) - Vincent did not play in Friday's (Jan. 3) game against the Hawks."
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Day To Day (Oblique) - The Lakers listed Vincent as Doubtful for Sunday's (Jan. 5) game against the Rockets."
             },
             {
                 "Player": "Christian Wood",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Out (Knee) - The Lakers listed Wood as out for Thursday's (Jan. 2) game against the Trail Blazers, Jovan Buha of The Athletic reports. He is without a clear timetable to return."
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Out (Knee) - The Lakers listed Wood as Out for Sunday's (Jan. 5) game against the Rockets."
             }
         ],
         "team_stats": {
@@ -106,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "19",
                 "FG": "17",
                 "FGA": "22",
                 "FG%": "9",
@@ -119,7 +131,7 @@
                 "FT": "4",
                 "FTA": "5",
                 "FT%": "10",
-                "ORB": "25",
+                "ORB": "24",
                 "DRB": "25",
                 "TRB": "26",
                 "AST": "12",
@@ -127,7 +139,7 @@
                 "BLK": "19",
                 "TOV": "7",
                 "PF": "3",
-                "PTS": "15"
+                "PTS": "14"
             },
             "Year/Year": {
                 "G": "",
@@ -206,24 +218,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "19",
                 "FG": "24",
                 "FGA": "21",
-                "FG%": "24",
-                "3P": "8",
+                "FG%": "23",
+                "3P": "10",
                 "3PA": "8",
-                "3P%": "13",
+                "3P%": "14",
                 "2P": "26",
                 "2PA": "23",
                 "2P%": "23",
                 "FT": "5",
                 "FTA": "4",
-                "FT%": "22",
-                "ORB": "18",
+                "FT%": "21",
+                "ORB": "19",
                 "DRB": "16",
-                "TRB": "18",
+                "TRB": "17",
                 "AST": "24",
-                "STL": "9",
+                "STL": "10",
                 "BLK": "4",
                 "TOV": "19",
                 "PF": "3",
@@ -260,8 +272,8 @@
                 "PW": "15",
                 "PL": "19",
                 "MOV": "-1.53",
-                "SOS": "-0.15",
-                "SRS": "-1.68",
+                "SOS": "-0.14",
+                "SRS": "-1.67",
                 "ORtg": "113.7",
                 "DRtg": "115.2",
                 "Pace": "98.4",
@@ -279,13 +291,13 @@
                 "W": "8",
                 "L": "23",
                 "PW": "19",
-                "PL": "18",
-                "MOV": "17",
-                "SOS": "16",
-                "SRS": "17",
-                "ORtg": "12",
+                "PL": "17",
+                "MOV": "18",
+                "SOS": "17",
+                "SRS": "18",
+                "ORtg": "11",
                 "DRtg": "21",
-                "Pace": "20",
+                "Pace": "21",
                 "FTr": "2",
                 "3PAr": "26",
                 "eFG%": "19",
@@ -294,10 +306,10 @@
                 "FT/FGA": "4",
                 "DRB%": "23",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAL-2025.png",
-        "last_update": "Jan 04 2025 22:32:13"
+        "last_update": "Jan 05 2025 22:32:17"
     }
 }

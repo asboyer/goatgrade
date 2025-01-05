@@ -31,14 +31,20 @@
             {
                 "Player": "LaMelo Ball",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Jan 3, 2025",
-                "Description": "Day To Day (Wrist) - Ball did not play in Friday's (Jan. 3) game against the Pistons."
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Day To Day (Wrist) - The Hornets listed Ball as questionable for Sunday's (Jan. 5) game against Cleveland."
+            },
+            {
+                "Player": "Josh Green",
+                "Team": "Charlotte Hornets",
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Day To Day (Shoulder) - The Hornets listed Green as probable for Sunday's (Jan. 5) game against Cleveland."
             },
             {
                 "Player": "DaQuan Jeffries",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Jan 3, 2025",
-                "Description": "Day To Day (Groin) - Jeffries did not play in Friday's (Jan. 3) game against the Pistons."
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Day To Day (Groin) - The Hornets listed Jeffries as questionable for Sunday's (Jan. 5) game against Cleveland."
             },
             {
                 "Player": "Tre Mann",
@@ -49,8 +55,8 @@
             {
                 "Player": "Brandon Miller",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Jan 3, 2025",
-                "Description": "Day To Day (Ankle) - Miller did not play in Friday's (Jan. 3) game against the Pistons."
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Day To Day (Ankle) - The Hornets listed Miller as questionable for Sunday's (Jan. 5) game against Cleveland."
             },
             {
                 "Player": "Grant Williams",
@@ -112,21 +118,21 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "27",
                 "FGA": "13",
                 "FG%": "30",
-                "3P": "9",
+                "3P": "7",
                 "3PA": "3",
-                "3P%": "23",
+                "3P%": "22",
                 "2P": "28",
-                "2PA": "24",
+                "2PA": "25",
                 "2P%": "30",
                 "FT": "28",
                 "FTA": "28",
                 "FT%": "25",
                 "ORB": "4",
-                "DRB": "21",
+                "DRB": "20",
                 "TRB": "4",
                 "AST": "27",
                 "STL": "18",
@@ -212,25 +218,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "9",
                 "FGA": "6",
                 "FG%": "15",
-                "3P": "20",
+                "3P": "18",
                 "3PA": "24",
                 "3P%": "8",
                 "2P": "7",
                 "2PA": "4",
                 "2P%": "21",
                 "FT": "23",
-                "FTA": "23",
-                "FT%": "11",
+                "FTA": "24",
+                "FT%": "10",
                 "ORB": "11",
-                "DRB": "25",
+                "DRB": "24",
                 "TRB": "21",
-                "AST": "15",
+                "AST": "14",
                 "STL": "17",
-                "BLK": "23",
+                "BLK": "24",
                 "TOV": "17",
                 "PF": "13",
                 "PTS": "15"
@@ -266,8 +272,8 @@
                 "PW": "10",
                 "PL": "23",
                 "MOV": "-6.58",
-                "SOS": "0.50",
-                "SRS": "-6.08",
+                "SOS": "0.45",
+                "SRS": "-6.13",
                 "ORtg": "107.3",
                 "DRtg": "114.0",
                 "Pace": "97.7",
@@ -282,28 +288,28 @@
                 "Attendance": "310,123"
             },
             "Misc Lg Rank": {
-                "W": "27",
+                "W": "28",
                 "L": "3",
                 "PW": "26",
-                "PL": "25",
+                "PL": "24",
                 "MOV": "25",
                 "SOS": "11",
                 "SRS": "26",
                 "ORtg": "29",
-                "DRtg": "15",
+                "DRtg": "17",
                 "Pace": "22",
                 "FTr": "28",
-                "3PAr": "4",
-                "eFG%": "15",
-                "TOV%": "16",
+                "3PAr": "5",
+                "eFG%": "16",
+                "TOV%": "17",
                 "ORB%": "6",
-                "FT/FGA": "21",
+                "FT/FGA": "22",
                 "DRB%": "12",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHO-2025.png",
-        "last_update": "Jan 04 2025 22:32:13"
+        "last_update": "Jan 05 2025 22:32:17"
     }
 }

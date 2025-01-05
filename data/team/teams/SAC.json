@@ -2,7 +2,7 @@
     "SAC": {
         "info": {
             "record": "16-19",
-            "standing": "12th in West",
+            "standing": "11th in West",
             "coach": "Mike Brown (16-19)",
             "gm": "Monte McNair",
             "preseason_odds": "+6600"
@@ -28,10 +28,16 @@
         ],
         "injuries": [
             {
+                "Player": "De'Aaron Fox",
+                "Team": "Sacramento Kings",
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Day To Day (Hip) - The Kings have listed Fox as Doubtful for Sunday's (Jan. 5) game against the Warriors."
+            },
+            {
                 "Player": "Keegan Murray",
                 "Team": "Sacramento Kings",
-                "Update": "Fri, Jan 3, 2025",
-                "Description": "Day To Day (Ankle) - Murray did not play in Friday's (Jan. 3) game against the Grizzlies."
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Day To Day (Ankle) - The Kings have listed Murray as Questionable for Sunday's (Jan. 5) game against the Warriors."
             }
         ],
         "team_stats": {
@@ -87,16 +93,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
-                "FG": "9",
+                "MP": "7",
+                "FG": "8",
                 "FGA": "12",
-                "FG%": "8",
-                "3P": "22",
+                "FG%": "7",
+                "3P": "23",
                 "3PA": "24",
                 "3P%": "24",
-                "2P": "2",
+                "2P": "3",
                 "2PA": "7",
-                "2P%": "5",
+                "2P%": "4",
                 "FT": "11",
                 "FTA": "12",
                 "FT%": "3",
@@ -105,7 +111,7 @@
                 "TRB": "17",
                 "AST": "13",
                 "STL": "16",
-                "BLK": "21",
+                "BLK": "22",
                 "TOV": "5",
                 "PF": "21",
                 "PTS": "9"
@@ -187,8 +193,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
-                "FG": "13",
+                "MP": "7",
+                "FG": "11",
                 "FGA": "7",
                 "FG%": "16",
                 "3P": "29",
@@ -197,18 +203,18 @@
                 "2P": "2",
                 "2PA": "6",
                 "2P%": "12",
-                "FT": "24",
+                "FT": "25",
                 "FTA": "22",
-                "FT%": "28",
-                "ORB": "3",
-                "DRB": "14",
-                "TRB": "7",
-                "AST": "14",
+                "FT%": "27",
+                "ORB": "4",
+                "DRB": "13",
+                "TRB": "6",
+                "AST": "12",
                 "STL": "12",
-                "BLK": "9",
+                "BLK": "8",
                 "TOV": "13",
-                "PF": "15",
-                "PTS": "20"
+                "PF": "14",
+                "PTS": "19"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -241,8 +247,8 @@
                 "PW": "19",
                 "PL": "16",
                 "MOV": "1.34",
-                "SOS": "-1.18",
-                "SRS": "0.16",
+                "SOS": "-1.10",
+                "SRS": "0.24",
                 "ORtg": "115.4",
                 "DRtg": "114.1",
                 "Pace": "99.1",
@@ -257,28 +263,28 @@
                 "Attendance": "336,126"
             },
             "Misc Lg Rank": {
-                "W": "19",
+                "W": "20",
                 "L": "8",
-                "PW": "10",
+                "PW": "11",
                 "PL": "14",
-                "MOV": "13",
-                "SOS": "27",
-                "SRS": "15",
+                "MOV": "11",
+                "SOS": "26",
+                "SRS": "14",
                 "ORtg": "8",
                 "DRtg": "18",
                 "Pace": "15",
-                "FTr": "15",
+                "FTr": "14",
                 "3PAr": "24",
                 "eFG%": "21",
-                "TOV%": "13",
+                "TOV%": "12",
                 "ORB%": "18",
-                "FT/FGA": "26",
-                "DRB%": "3",
+                "FT/FGA": "27",
+                "DRB%": "4",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "6"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/SAC-2025.png",
-        "last_update": "Jan 04 2025 22:32:13"
+        "last_update": "Jan 05 2025 22:32:17"
     }
 }

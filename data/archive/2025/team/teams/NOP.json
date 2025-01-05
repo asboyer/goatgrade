@@ -40,6 +40,12 @@
                 "Description": "Out (Back) - The Pelicans announced on Tuesday (Dec. 24) Matkovic has progressed in the conditioning phase of his rehabilitation program. He will be week-to-week going forward."
             },
             {
+                "Player": "Dejounte Murray",
+                "Team": "New Orleans Pelicans",
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Day To Day (Elbow) - The Pelicans have listed Murray as Questionable on Sunday's (Jan. 5) Game against the Wizards."
+            },
+            {
                 "Player": "Zion Williamson",
                 "Team": "New Orleans Pelicans",
                 "Update": "Sun, Dec 29, 2024",
@@ -99,8 +105,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "21",
+                "MP": "12",
+                "FG": "22",
                 "FGA": "11",
                 "FG%": "28",
                 "3P": "29",
@@ -110,7 +116,7 @@
                 "2PA": "4",
                 "2P%": "29",
                 "FT": "20",
-                "FTA": "19",
+                "FTA": "18",
                 "FT%": "24",
                 "ORB": "7",
                 "DRB": "29",
@@ -119,8 +125,8 @@
                 "STL": "6",
                 "BLK": "11",
                 "TOV": "17",
-                "PF": "14",
-                "PTS": "27"
+                "PF": "13",
+                "PTS": "28"
             },
             "Year/Year": {
                 "G": "",
@@ -199,27 +205,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "26",
+                "MP": "12",
+                "FG": "25",
                 "FGA": "20",
                 "FG%": "30",
                 "3P": "26",
-                "3PA": "19",
+                "3PA": "20",
                 "3P%": "25",
                 "2P": "25",
-                "2PA": "18",
+                "2PA": "16",
                 "2P%": "28",
                 "FT": "9",
-                "FTA": "8",
+                "FTA": "9",
                 "FT%": "25",
                 "ORB": "26",
-                "DRB": "22",
-                "TRB": "27",
+                "DRB": "21",
+                "TRB": "26",
                 "AST": "25",
                 "STL": "21",
                 "BLK": "18",
                 "TOV": "13",
-                "PF": "27",
+                "PF": "26",
                 "PTS": "25"
             },
             "Opp Year/Year": {
@@ -253,8 +259,8 @@
                 "PW": "7",
                 "PL": "28",
                 "MOV": "-10.60",
-                "SOS": "1.17",
-                "SRS": "-9.43",
+                "SOS": "1.18",
+                "SRS": "-9.42",
                 "ORtg": "108.4",
                 "DRtg": "119.1",
                 "Pace": "98.8",
@@ -274,7 +280,7 @@
                 "PW": "29",
                 "PL": "30",
                 "MOV": "29",
-                "SOS": "3",
+                "SOS": "4",
                 "SRS": "29",
                 "ORtg": "28",
                 "DRtg": "29",
@@ -287,10 +293,10 @@
                 "FT/FGA": "11",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NOP-2025.png",
-        "last_update": "Jan 04 2025 22:32:13"
+        "last_update": "Jan 05 2025 22:32:17"
     }
 }
