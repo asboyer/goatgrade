@@ -20,11 +20,11 @@
             "Rob Dillingham",
             "Terrence Shannon Jr. ",
             "Luka Garza",
-            "PJ Dozier",
             "Joe Ingles",
-            "Daishen Nix",
             "Leonard Miller",
-            "Jesse Edwards"
+            "Jesse Edwards",
+            "Tristen Newton",
+            "Jaylen Clark"
         ],
         "injuries": [
             {
@@ -36,14 +36,14 @@
             {
                 "Player": "Luka Garza",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Sat, Jan 4, 2025",
-                "Description": "Day To Day (Ankle) - Garza did not play in Saturday's (Jan. 4) game against the Pistons."
+                "Update": "Sun, Jan 5, 2025",
+                "Description": "Day To Day (Ankle) - The Timberwolves listed Garza as questionable for Monday's (Jan. 6) game against Los Angeles."
             },
             {
                 "Player": "Josh Minott",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Sat, Jan 4, 2025",
-                "Description": "Day To Day (Illness) - Minott did not play in Saturday's (Jan. 4) game against the Pistons."
+                "Update": "Sun, Jan 5, 2025",
+                "Description": "Day To Day (Illness) - The Timberwolves listed Minott as questionable for Monday's (Jan. 6) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -99,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "23",
                 "FG": "26",
                 "FGA": "26",
                 "FG%": "19",
@@ -111,16 +111,16 @@
                 "2P%": "21",
                 "FT": "25",
                 "FTA": "27",
-                "FT%": "8",
+                "FT%": "9",
                 "ORB": "22",
                 "DRB": "22",
                 "TRB": "23",
-                "AST": "23",
-                "STL": "13",
-                "BLK": "24",
+                "AST": "22",
+                "STL": "14",
+                "BLK": "23",
                 "TOV": "21",
                 "PF": "8",
-                "PTS": "23"
+                "PTS": "22"
             },
             "Year/Year": {
                 "G": "",
@@ -199,26 +199,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
-                "FG": "7",
+                "MP": "23",
+                "FG": "6",
                 "FGA": "8",
                 "FG%": "11",
                 "3P": "4",
                 "3PA": "6",
-                "3P%": "6",
+                "3P%": "5",
                 "2P": "15",
                 "2PA": "13",
                 "2P%": "15",
-                "FT": "4",
+                "FT": "5",
                 "FTA": "5",
-                "FT%": "19",
+                "FT%": "20",
                 "ORB": "12",
-                "DRB": "9",
+                "DRB": "8",
                 "TRB": "8",
                 "AST": "5",
-                "STL": "22",
+                "STL": "23",
                 "BLK": "11",
-                "TOV": "9",
+                "TOV": "10",
                 "PF": "21",
                 "PTS": "5"
             },
@@ -253,8 +253,8 @@
                 "PW": "18",
                 "PL": "16",
                 "MOV": "1.21",
-                "SOS": "0.51",
-                "SRS": "1.71",
+                "SOS": "0.55",
+                "SRS": "1.76",
                 "ORtg": "111.7",
                 "DRtg": "110.4",
                 "Pace": "97.2",
@@ -272,12 +272,12 @@
                 "W": "16",
                 "L": "15",
                 "PW": "13",
-                "PL": "13",
-                "MOV": "13",
+                "PL": "12",
+                "MOV": "12",
                 "SOS": "10",
-                "SRS": "12",
+                "SRS": "11",
                 "ORtg": "21",
-                "DRtg": "9",
+                "DRtg": "8",
                 "Pace": "26",
                 "FTr": "22",
                 "3PAr": "3",
@@ -287,10 +287,10 @@
                 "FT/FGA": "6",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIN-2025.png",
-        "last_update": "Jan 05 2025 22:32:17"
+        "last_update": "Jan 06 2025 22:32:16"
     }
 }

@@ -17,6 +17,7 @@
             "Giannis Antetokounmpo",
             "Damian Lillard",
             "Delon Wright",
+            "Ryan Rollins",
             "Pat Connaughton",
             "MarJon Beauchamp",
             "Khris Middleton",
@@ -26,7 +27,26 @@
             "AJ Johnson",
             "Chris Livingston"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Giannis Antetokounmpo",
+                "Team": "Milwaukee Bucks",
+                "Update": "Sun, Jan 5, 2025",
+                "Description": "Day To Day (Patella) - The Bucks listed Antetokounmpo as probable for Monday's (Jan. 6) game against Toronto."
+            },
+            {
+                "Player": "Andre Jackson Jr.",
+                "Team": "Milwaukee Bucks",
+                "Update": "Sun, Jan 5, 2025",
+                "Description": "Day To Day (Illness) - The Bucks listed Jackson Jr. as questionable for Monday's (Jan. 6) game against Toronto."
+            },
+            {
+                "Player": "Khris Middleton",
+                "Team": "Milwaukee Bucks",
+                "Update": "Sun, Jan 5, 2025",
+                "Description": "Day To Day (Ankle) - The Bucks listed Antetokounmpo as probable for Monday's (Jan. 6) game against Toronto."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "33",
@@ -80,11 +100,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "16",
                 "FGA": "21",
                 "FG%": "8",
-                "3P": "7",
+                "3P": "8",
                 "3PA": "14",
                 "3P%": "2",
                 "2P": "18",
@@ -180,17 +200,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "28",
-                "FG": "10",
+                "MP": "29",
+                "FG": "9",
                 "FGA": "18",
-                "FG%": "7",
+                "FG%": "6",
                 "3P": "20",
-                "3PA": "21",
-                "3P%": "17",
+                "3PA": "20",
+                "3P%": "18",
                 "2P": "6",
                 "2PA": "15",
                 "2P%": "6",
-                "FT": "11",
+                "FT": "10",
                 "FTA": "8",
                 "FT%": "30",
                 "ORB": "9",
@@ -200,7 +220,7 @@
                 "STL": "7",
                 "BLK": "1",
                 "TOV": "23",
-                "PF": "24",
+                "PF": "23",
                 "PTS": "12"
             },
             "Opp Year/Year": {
@@ -234,8 +254,8 @@
                 "PW": "18",
                 "PL": "15",
                 "MOV": "1.06",
-                "SOS": "-0.68",
-                "SRS": "0.38",
+                "SOS": "-0.81",
+                "SRS": "0.26",
                 "ORtg": "112.7",
                 "DRtg": "111.6",
                 "Pace": "99.3",
@@ -251,13 +271,13 @@
             },
             "Misc Lg Rank": {
                 "W": "16",
-                "L": "17",
+                "L": "18",
                 "PW": "14",
-                "PL": "11",
+                "PL": "9",
                 "MOV": "14",
                 "SOS": "24",
-                "SRS": "13",
-                "ORtg": "14",
+                "SRS": "14",
+                "ORtg": "15",
                 "DRtg": "10",
                 "Pace": "14",
                 "FTr": "12",
@@ -265,13 +285,13 @@
                 "eFG%": "9",
                 "TOV%": "23",
                 "ORB%": "30",
-                "FT/FGA": "12",
+                "FT/FGA": "13",
                 "DRB%": "6",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIL-2025.png",
-        "last_update": "Jan 05 2025 22:32:17"
+        "last_update": "Jan 06 2025 22:32:16"
     }
 }

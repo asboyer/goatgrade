@@ -28,10 +28,16 @@
         ],
         "injuries": [
             {
+                "Player": "Jalen Brunson",
+                "Team": "New York Knicks",
+                "Update": "Sun, Jan 5, 2025",
+                "Description": "Day To Day (Calf) - The Knicks listed Brunson as proabable for Monday's (Jan. 6) game against Orlando."
+            },
+            {
                 "Player": "Miles McBride",
                 "Team": "New York Knicks",
-                "Update": "Sat, Jan 4, 2025",
-                "Description": "Day To Day (Hamstring) - McBride did not play in Saturday's (Jan. 4) game against the Bulls."
+                "Update": "Sun, Jan 5, 2025",
+                "Description": "Day To Day (Hamstring) - The Knicks listed McBride as questionable for Monday's (Jan. 6) game against Orlando."
             },
             {
                 "Player": "Mitchell Robinson",
@@ -42,8 +48,8 @@
             {
                 "Player": "Karl-Anthony Towns",
                 "Team": "New York Knicks",
-                "Update": "Sat, Jan 4, 2025",
-                "Description": "Day To Day (Hamstring) - Towns did not return to Saturday's (Jan. 4) game against Chicago."
+                "Update": "Sun, Jan 5, 2025",
+                "Description": "Day To Day (Hamstring) - The Knicks listed Towns as questionable for Monday's (Jan. 6) game against Orlando."
             }
         ],
         "team_stats": {
@@ -99,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "6",
                 "FG": "4",
                 "FGA": "20",
                 "FG%": "2",
@@ -110,7 +116,7 @@
                 "2PA": "14",
                 "2P%": "2",
                 "FT": "15",
-                "FTA": "21",
+                "FTA": "22",
                 "FT%": "4",
                 "ORB": "20",
                 "DRB": "17",
@@ -199,26 +205,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "6",
                 "FG": "14",
                 "FGA": "13",
                 "FG%": "12",
                 "3P": "21",
                 "3PA": "13",
-                "3P%": "24",
-                "2P": "10",
-                "2PA": "11",
+                "3P%": "25",
+                "2P": "11",
+                "2PA": "12",
                 "2P%": "10",
                 "FT": "6",
                 "FTA": "6",
-                "FT%": "16",
-                "ORB": "7",
-                "DRB": "1",
+                "FT%": "15",
+                "ORB": "8",
+                "DRB": "2",
                 "TRB": "2",
-                "AST": "15",
+                "AST": "13",
                 "STL": "2",
                 "BLK": "12",
-                "TOV": "24",
+                "TOV": "25",
                 "PF": "12",
                 "PTS": "9"
             },
@@ -253,8 +259,8 @@
                 "PW": "25",
                 "PL": "11",
                 "MOV": "7.14",
-                "SOS": "-1.91",
-                "SRS": "5.23",
+                "SOS": "-1.97",
+                "SRS": "5.17",
                 "ORtg": "120.7",
                 "DRtg": "113.4",
                 "Pace": "97.3",
@@ -276,7 +282,7 @@
                 "MOV": "5",
                 "SOS": "29",
                 "SRS": "6",
-                "ORtg": "3",
+                "ORtg": "2",
                 "DRtg": "15",
                 "Pace": "24",
                 "FTr": "18",
@@ -291,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NYK-2025.png",
-        "last_update": "Jan 05 2025 22:32:17"
+        "last_update": "Jan 06 2025 22:32:16"
     }
 }

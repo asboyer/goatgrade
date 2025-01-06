@@ -31,8 +31,8 @@
             {
                 "Player": "RJ Barrett",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Jan 3, 2025",
-                "Description": "Day To Day (Illness) - Barrett did not play in Friday's (Jan. 3) game against the Magic."
+                "Update": "Sun, Jan 5, 2025",
+                "Description": "Day To Day (Illness) - The Raptors listed Barrett as questionable for Monday's (Jan. 6) game against Milwaukee."
             }
         ],
         "team_stats": {
@@ -88,13 +88,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "12",
+                "MP": "10",
+                "FG": "11",
                 "FGA": "10",
                 "FG%": "16",
-                "3P": "28",
+                "3P": "30",
                 "3PA": "29",
-                "3P%": "21",
+                "3P%": "22",
                 "2P": "4",
                 "2PA": "3",
                 "2P%": "20",
@@ -104,7 +104,7 @@
                 "ORB": "6",
                 "DRB": "24",
                 "TRB": "13",
-                "AST": "7",
+                "AST": "6",
                 "STL": "22",
                 "BLK": "25",
                 "TOV": "26",
@@ -188,28 +188,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "10",
                 "FG": "21",
                 "FGA": "16",
                 "FG%": "20",
                 "3P": "22",
                 "3PA": "23",
-                "3P%": "16",
+                "3P%": "17",
                 "2P": "18",
                 "2PA": "8",
-                "2P%": "22",
+                "2P%": "21",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "13",
+                "FT%": "12",
                 "ORB": "22",
                 "DRB": "4",
                 "TRB": "11",
                 "AST": "18",
                 "STL": "28",
                 "BLK": "26",
-                "TOV": "20",
+                "TOV": "19",
                 "PF": "19",
-                "PTS": "26"
+                "PTS": "27"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -242,8 +242,8 @@
                 "PW": "10",
                 "PL": "25",
                 "MOV": "-7.49",
-                "SOS": "1.41",
-                "SRS": "-6.08",
+                "SOS": "1.42",
+                "SRS": "-6.07",
                 "ORtg": "110.4",
                 "DRtg": "117.9",
                 "Pace": "99.8",
@@ -258,28 +258,28 @@
                 "Attendance": "359,151"
             },
             "Misc Lg Rank": {
-                "W": "26",
+                "W": "27",
                 "L": "2",
-                "PW": "25",
+                "PW": "27",
                 "PL": "27",
-                "MOV": "26",
+                "MOV": "27",
                 "SOS": "2",
-                "SRS": "25",
+                "SRS": "26",
                 "ORtg": "23",
                 "DRtg": "27",
                 "Pace": "7",
                 "FTr": "20",
                 "3PAr": "29",
-                "eFG%": "20",
+                "eFG%": "22",
                 "TOV%": "22",
                 "ORB%": "4",
                 "FT/FGA": "30",
                 "DRB%": "26",
                 "Arena": "",
-                "Attendance": "1"
+                "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/TOR-2025.png",
-        "last_update": "Jan 05 2025 22:32:17"
+        "last_update": "Jan 06 2025 22:32:16"
     }
 }

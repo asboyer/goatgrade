@@ -28,12 +28,6 @@
         ],
         "injuries": [
             {
-                "Player": "Simone Fontecchio",
-                "Team": "Detroit Pistons",
-                "Update": "Sat, Jan 4, 2025",
-                "Description": "Day To Day (Personal) - Fontecchio did not play in Saturday's (Jan. 4) game against the Timberwolves."
-            },
-            {
                 "Player": "Jaden Ivey",
                 "Team": "Detroit Pistons",
                 "Update": "Thu, Jan 2, 2025",
@@ -93,12 +87,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "9",
                 "FG": "13",
                 "FGA": "16",
                 "FG%": "14",
                 "3P": "16",
-                "3PA": "15",
+                "3PA": "17",
                 "3P%": "17",
                 "2P": "15",
                 "2PA": "15",
@@ -107,7 +101,7 @@
                 "FTA": "26",
                 "FT%": "26",
                 "ORB": "10",
-                "DRB": "11",
+                "DRB": "10",
                 "TRB": "11",
                 "AST": "16",
                 "STL": "28",
@@ -193,7 +187,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "9",
                 "FG": "16",
                 "FGA": "9",
                 "FG%": "19",
@@ -205,9 +199,9 @@
                 "2P%": "13",
                 "FT": "20",
                 "FTA": "19",
-                "FT%": "14",
+                "FT%": "13",
                 "ORB": "5",
-                "DRB": "7",
+                "DRB": "6",
                 "TRB": "4",
                 "AST": "6",
                 "STL": "25",
@@ -247,8 +241,8 @@
                 "PW": "15",
                 "PL": "20",
                 "MOV": "-1.91",
-                "SOS": "-0.03",
-                "SRS": "-1.95",
+                "SOS": "-0.08",
+                "SRS": "-2.00",
                 "ORtg": "111.9",
                 "DRtg": "113.8",
                 "Pace": "98.7",
@@ -265,26 +259,26 @@
             "Misc Lg Rank": {
                 "W": "16",
                 "L": "11",
-                "PW": "18",
+                "PW": "19",
                 "PL": "20",
                 "MOV": "19",
-                "SOS": "14",
+                "SOS": "18",
                 "SRS": "19",
                 "ORtg": "20",
-                "DRtg": "16",
-                "Pace": "18",
+                "DRtg": "17",
+                "Pace": "17",
                 "FTr": "26",
                 "3PAr": "16",
-                "eFG%": "22",
+                "eFG%": "23",
                 "TOV%": "16",
                 "ORB%": "10",
                 "FT/FGA": "19",
-                "DRB%": "3",
+                "DRB%": "4",
                 "Arena": "",
                 "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DET-2025.png",
-        "last_update": "Jan 05 2025 22:32:17"
+        "last_update": "Jan 06 2025 22:32:16"
     }
 }

@@ -28,18 +28,6 @@
         ],
         "injuries": [
             {
-                "Player": "Oso Ighodaro",
-                "Team": "Phoenix Suns",
-                "Update": "Sat, Jan 4, 2025",
-                "Description": "Day To Day (Illness) - Ighodaro did not play in Saturday's (Jan. 4) game against the Pacers."
-            },
-            {
-                "Player": "Tyus Jones",
-                "Team": "Phoenix Suns",
-                "Update": "Sat, Jan 4, 2025",
-                "Description": "Day To Day (Illness) - Jones did not play in Saturday's (Jan. 4) game against the Pacers."
-            },
-            {
                 "Player": "Royce O'Neale",
                 "Team": "Phoenix Suns",
                 "Update": "Tue, Dec 31, 2024",
@@ -99,28 +87,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "21",
                 "FGA": "27",
-                "FG%": "12",
+                "FG%": "11",
                 "3P": "9",
                 "3PA": "12",
                 "3P%": "6",
-                "2P": "24",
+                "2P": "25",
                 "2PA": "27",
                 "2P%": "15",
-                "FT": "10",
+                "FT": "9",
                 "FTA": "11",
                 "FT%": "5",
                 "ORB": "26",
-                "DRB": "19",
-                "TRB": "24",
+                "DRB": "20",
+                "TRB": "25",
                 "AST": "11",
                 "STL": "21",
                 "BLK": "13",
                 "TOV": "12",
                 "PF": "6",
-                "PTS": "15"
+                "PTS": "16"
             },
             "Year/Year": {
                 "G": "",
@@ -199,11 +187,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "19",
                 "FGA": "17",
                 "FG%": "18",
-                "3P": "19",
+                "3P": "18",
                 "3PA": "16",
                 "3P%": "23",
                 "2P": "18",
@@ -212,12 +200,12 @@
                 "FT": "17",
                 "FTA": "13",
                 "FT%": "22",
-                "ORB": "18",
+                "ORB": "17",
                 "DRB": "18",
-                "TRB": "18",
+                "TRB": "16",
                 "AST": "21",
-                "STL": "13",
-                "BLK": "6",
+                "STL": "11",
+                "BLK": "7",
                 "TOV": "28",
                 "PF": "10",
                 "PTS": "20"
@@ -253,8 +241,8 @@
                 "PW": "14",
                 "PL": "19",
                 "MOV": "-2.27",
-                "SOS": "0.11",
-                "SRS": "-2.17",
+                "SOS": "0.17",
+                "SRS": "-2.10",
                 "ORtg": "114.5",
                 "DRtg": "116.8",
                 "Pace": "97.3",
@@ -272,7 +260,7 @@
                 "W": "22",
                 "L": "11",
                 "PW": "21",
-                "PL": "18",
+                "PL": "17",
                 "MOV": "20",
                 "SOS": "13",
                 "SRS": "20",
@@ -280,17 +268,17 @@
                 "DRtg": "25",
                 "Pace": "25",
                 "FTr": "8",
-                "3PAr": "10",
+                "3PAr": "9",
                 "eFG%": "18",
                 "TOV%": "27",
                 "ORB%": "25",
                 "FT/FGA": "16",
                 "DRB%": "17",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHO-2025.png",
-        "last_update": "Jan 05 2025 22:32:17"
+        "last_update": "Jan 06 2025 22:32:16"
     }
 }
