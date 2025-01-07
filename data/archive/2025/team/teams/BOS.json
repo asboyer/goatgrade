@@ -26,14 +26,7 @@
             "Baylor Scheierman",
             "Anton Watson"
         ],
-        "injuries": [
-            {
-                "Player": "Al Horford",
-                "Team": "Boston Celtics",
-                "Update": "Fri, Jan 3, 2025",
-                "Description": "Day To Day (Rest) - Horford did not play in Friday's (Jan. 3) game against the Rockets."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "36",
@@ -87,8 +80,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
-                "FG": "12",
+                "MP": "7",
+                "FG": "11",
                 "FGA": "7",
                 "FG%": "18",
                 "3P": "1",
@@ -97,15 +90,15 @@
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "3",
-                "FT": "16",
-                "FTA": "21",
-                "FT%": "11",
+                "FT": "17",
+                "FTA": "19",
+                "FT%": "10",
                 "ORB": "13",
                 "DRB": "8",
                 "TRB": "10",
                 "AST": "17",
-                "STL": "24",
-                "BLK": "7",
+                "STL": "23",
+                "BLK": "6",
                 "TOV": "2",
                 "PF": "1",
                 "PTS": "4"
@@ -187,21 +180,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "7",
                 "FG": "13",
                 "FGA": "21",
                 "FG%": "5",
-                "3P": "6",
-                "3PA": "3",
+                "3P": "5",
+                "3PA": "4",
                 "3P%": "9",
-                "2P": "17",
+                "2P": "18",
                 "2PA": "26",
                 "2P%": "4",
                 "FT": "1",
                 "FTA": "1",
                 "FT%": "26",
-                "ORB": "7",
-                "DRB": "21",
+                "ORB": "8",
+                "DRB": "20",
                 "TRB": "15",
                 "AST": "4",
                 "STL": "3",
@@ -241,8 +234,8 @@
                 "PW": "28",
                 "PL": "8",
                 "MOV": "10.19",
-                "SOS": "-1.01",
-                "SRS": "9.19",
+                "SOS": "-0.96",
+                "SRS": "9.23",
                 "ORtg": "120.6",
                 "DRtg": "110.2",
                 "Pace": "97.5",
@@ -262,23 +255,23 @@
                 "PW": "3",
                 "PL": "3",
                 "MOV": "3",
-                "SOS": "27",
+                "SOS": "26",
                 "SRS": "3",
-                "ORtg": "3",
+                "ORtg": "2",
                 "DRtg": "6",
                 "Pace": "23",
                 "FTr": "23",
                 "3PAr": "1",
                 "eFG%": "4",
                 "TOV%": "24",
-                "ORB%": "17",
+                "ORB%": "18",
                 "FT/FGA": "2",
                 "DRB%": "7",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "6"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BOS-2025.png",
-        "last_update": "Jan 06 2025 22:32:16"
+        "last_update": "Jan 07 2025 22:32:14"
     }
 }

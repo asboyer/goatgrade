@@ -41,16 +41,28 @@
                 "Description": "Out (Knee) - Wizards head coach Brian Keefe said on Tuesday (Oct. 15) that Bey doesn't have a return timetable, per Varun Shankar of The Washington Post."
             },
             {
+                "Player": "Malcolm Brogdon",
+                "Team": "Washington Wizards",
+                "Update": "Mon, Jan 6, 2025",
+                "Description": "Out (Foot) - The Wizards listed Brogdon as Out for Tuesday's (Jan. 7) game against the Rockets."
+            },
+            {
+                "Player": "Carlton Carrington",
+                "Team": "Washington Wizards",
+                "Update": "Mon, Jan 6, 2025",
+                "Description": "Day To Day (Ankle) - The Wizards listed Carrington as Questionable for Tuesday's (Jan. 7) game against the Rockets."
+            },
+            {
                 "Player": "Bilal Coulibaly",
                 "Team": "Washington Wizards",
-                "Update": "Sun, Jan 5, 2025",
-                "Description": "Out (Illness) - The Wizards listed Coulibaly as OUT for Sunday's (Jan. 5) game against New Orleans. "
+                "Update": "Mon, Jan 6, 2025",
+                "Description": "Day To Day (Illness) - The Wizards listed Coulibaly as Questionable for Tuesday's (Jan. 7) game against the Rockets."
             },
             {
                 "Player": "Jordan Poole",
                 "Team": "Washington Wizards",
-                "Update": "Sun, Jan 5, 2025",
-                "Description": "Out (Hip) - The Wizards listed Poole as OUT for Sunday's (Jan. 5) game against New Orleans. "
+                "Update": "Mon, Jan 6, 2025",
+                "Description": "Day To Day (Hip) - The Wizards listed Poole as Questionable for Tuesday's (Jan. 7) game against the Rockets."
             }
         ],
         "team_stats": {
@@ -106,25 +118,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "29",
-                "FG": "18",
+                "MP": "30",
+                "FG": "19",
                 "FGA": "9",
-                "FG%": "26",
+                "FG%": "27",
                 "3P": "22",
-                "3PA": "15",
+                "3PA": "16",
                 "3P%": "28",
                 "2P": "14",
                 "2PA": "10",
-                "2P%": "23",
-                "FT": "22",
+                "2P%": "22",
+                "FT": "21",
                 "FTA": "23",
                 "FT%": "18",
                 "ORB": "18",
-                "DRB": "11",
+                "DRB": "10",
                 "TRB": "14",
                 "AST": "19",
                 "STL": "20",
-                "BLK": "8",
+                "BLK": "7",
                 "TOV": "25",
                 "PF": "27",
                 "PTS": "24"
@@ -206,11 +218,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "29",
+                "MP": "30",
                 "FG": "29",
                 "FGA": "28",
-                "FG%": "21",
-                "3P": "28",
+                "FG%": "20",
+                "3P": "29",
                 "3PA": "30",
                 "3P%": "15",
                 "2P": "27",
@@ -224,7 +236,7 @@
                 "TRB": "30",
                 "AST": "27",
                 "STL": "22",
-                "BLK": "24",
+                "BLK": "23",
                 "TOV": "26",
                 "PF": "23",
                 "PTS": "30"
@@ -260,8 +272,8 @@
                 "PW": "6",
                 "PL": "27",
                 "MOV": "-12.94",
-                "SOS": "2.09",
-                "SRS": "-10.85",
+                "SOS": "2.13",
+                "SRS": "-10.81",
                 "ORtg": "106.1",
                 "DRtg": "118.7",
                 "Pace": "102.3",
@@ -277,7 +289,7 @@
             },
             "Misc Lg Rank": {
                 "W": "30",
-                "L": "2",
+                "L": "3",
                 "PW": "30",
                 "PL": "29",
                 "MOV": "30",
@@ -289,15 +301,15 @@
                 "FTr": "25",
                 "3PAr": "17",
                 "eFG%": "21",
-                "TOV%": "28",
+                "TOV%": "27",
                 "ORB%": "21",
-                "FT/FGA": "23",
+                "FT/FGA": "25",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/WAS-2025.png",
-        "last_update": "Jan 06 2025 22:32:16"
+        "last_update": "Jan 07 2025 22:32:14"
     }
 }

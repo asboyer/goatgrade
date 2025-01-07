@@ -30,20 +30,20 @@
             {
                 "Player": "Tari Eason",
                 "Team": "Houston Rockets",
-                "Update": "Sat, Jan 4, 2025",
-                "Description": "Day To Day (Rest) - The Rockets have listed Eason as Doubtful for Sunday's (Jan. 5) game against the Lakers."
+                "Update": "Mon, Jan 6, 2025",
+                "Description": "Day To Day (Injury Management) - The Rockets listed Eason as Doubtful for Tuesday's (Jan. 7) game against the Wizards."
+            },
+            {
+                "Player": "Jalen Green",
+                "Team": "Houston Rockets",
+                "Update": "Mon, Jan 6, 2025",
+                "Description": "Day To Day (Knee) - The Rockets listed Green as Questionable for Tuesday's (Jan. 7) game against the Wizards."
             },
             {
                 "Player": "Jabari Smith Jr.",
                 "Team": "Houston Rockets",
                 "Update": "Fri, Jan 3, 2025",
                 "Description": "Out (Hand) - The Rockets announced on Friday (Jan. 3) that Smith Jr. suffered a fractured left hand during shoot around today and is expected to miss 4-to-8 weeks."
-            },
-            {
-                "Player": "Jae'Sean Tate",
-                "Team": "Houston Rockets",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Day To Day (Illness) - Tate did not play in Sunday's (Dec. 29) game against the Heat."
             }
         ],
         "team_stats": {
@@ -99,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "16",
                 "FG": "14",
                 "FGA": "1",
                 "FG%": "29",
@@ -111,16 +111,16 @@
                 "2P%": "27",
                 "FT": "12",
                 "FTA": "9",
-                "FT%": "24",
+                "FT%": "25",
                 "ORB": "1",
                 "DRB": "5",
                 "TRB": "1",
                 "AST": "30",
                 "STL": "12",
                 "BLK": "10",
-                "TOV": "6",
+                "TOV": "5",
                 "PF": "20",
-                "PTS": "12"
+                "PTS": "13"
             },
             "Year/Year": {
                 "G": "",
@@ -199,7 +199,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "16",
                 "FG": "3",
                 "FGA": "10",
                 "FG%": "2",
@@ -209,12 +209,12 @@
                 "2P": "4",
                 "2PA": "24",
                 "2P%": "1",
-                "FT": "13",
+                "FT": "12",
                 "FTA": "21",
                 "FT%": "1",
-                "ORB": "13",
+                "ORB": "12",
                 "DRB": "12",
-                "TRB": "10",
+                "TRB": "9",
                 "AST": "2",
                 "STL": "10",
                 "BLK": "26",
@@ -253,8 +253,8 @@
                 "PW": "24",
                 "PL": "11",
                 "MOV": "5.60",
-                "SOS": "0.29",
-                "SRS": "5.89",
+                "SOS": "0.27",
+                "SRS": "5.87",
                 "ORtg": "112.9",
                 "DRtg": "107.3",
                 "Pace": "98.5",
@@ -269,8 +269,8 @@
                 "Attendance": "329,511"
             },
             "Misc Lg Rank": {
-                "W": "5",
-                "L": "26",
+                "W": "6",
+                "L": "27",
                 "PW": "6",
                 "PL": "6",
                 "MOV": "6",
@@ -279,10 +279,10 @@
                 "ORtg": "14",
                 "DRtg": "3",
                 "Pace": "19",
-                "FTr": "16",
+                "FTr": "15",
                 "3PAr": "27",
                 "eFG%": "2",
-                "TOV%": "14",
+                "TOV%": "13",
                 "ORB%": "1",
                 "FT/FGA": "15",
                 "DRB%": "8",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/HOU-2025.png",
-        "last_update": "Jan 06 2025 22:32:16"
+        "last_update": "Jan 07 2025 22:32:14"
     }
 }
