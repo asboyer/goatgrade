@@ -29,10 +29,22 @@
         ],
         "injuries": [
             {
+                "Player": "Giannis Antetokounmpo",
+                "Team": "Milwaukee Bucks",
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Day To Day (Finger) - The Bucks have listed Antetokounmpo as Probable for Wednesday's (Jan. 8) game against the Spurs."
+            },
+            {
+                "Player": "Andre Jackson Jr.",
+                "Team": "Milwaukee Bucks",
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Day To Day (Back) - The Bucks have listed Jackson as Probable for Wednesday's (Jan. 8) game against the Spurs."
+            },
+            {
                 "Player": "Khris Middleton",
                 "Team": "Milwaukee Bucks",
-                "Update": "Mon, Jan 6, 2025",
-                "Description": "Out (Ankle) - The Bucks listed Middleton as Out for Monday's (Jan. 6) game against Toronto."
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Day To Day (Ankle) - The Bucks have listed Middleton as Probable for Wednesday's (Jan. 8) game against the Spurs."
             }
         ],
         "team_stats": {
@@ -88,12 +100,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "15",
                 "FGA": "22",
                 "FG%": "7",
                 "3P": "6",
-                "3PA": "14",
+                "3PA": "13",
                 "3P%": "2",
                 "2P": "20",
                 "2PA": "21",
@@ -108,8 +120,8 @@
                 "STL": "19",
                 "BLK": "13",
                 "TOV": "13",
-                "PF": "12",
-                "PTS": "12"
+                "PF": "13",
+                "PTS": "13"
             },
             "Year/Year": {
                 "G": "",
@@ -188,24 +200,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "9",
                 "FGA": "18",
                 "FG%": "7",
-                "3P": "18",
-                "3PA": "19",
-                "3P%": "13",
-                "2P": "7",
-                "2PA": "15",
+                "3P": "19",
+                "3PA": "18",
+                "3P%": "14",
+                "2P": "6",
+                "2PA": "16",
                 "2P%": "7",
                 "FT": "10",
-                "FTA": "8",
+                "FTA": "9",
                 "FT%": "28",
                 "ORB": "9",
                 "DRB": "27",
                 "TRB": "23",
                 "AST": "9",
-                "STL": "9",
+                "STL": "10",
                 "BLK": "1",
                 "TOV": "23",
                 "PF": "24",
@@ -242,8 +254,8 @@
                 "PW": "19",
                 "PL": "15",
                 "MOV": "1.74",
-                "SOS": "-0.96",
-                "SRS": "0.78",
+                "SOS": "-0.86",
+                "SRS": "0.87",
                 "ORtg": "113.1",
                 "DRtg": "111.3",
                 "Pace": "99.4",
@@ -258,28 +270,28 @@
                 "Attendance": "313,229"
             },
             "Misc Lg Rank": {
-                "W": "13",
+                "W": "15",
                 "L": "19",
-                "PW": "13",
+                "PW": "14",
                 "PL": "9",
                 "MOV": "11",
                 "SOS": "26",
                 "SRS": "14",
-                "ORtg": "13",
+                "ORtg": "14",
                 "DRtg": "10",
                 "Pace": "12",
                 "FTr": "12",
                 "3PAr": "12",
                 "eFG%": "9",
-                "TOV%": "22",
+                "TOV%": "21",
                 "ORB%": "30",
-                "FT/FGA": "12",
+                "FT/FGA": "11",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIL-2025.png",
-        "last_update": "Jan 07 2025 22:32:14"
+        "last_update": "Jan 08 2025 22:32:16"
     }
 }

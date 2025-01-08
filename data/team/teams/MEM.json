@@ -37,20 +37,14 @@
             {
                 "Player": "Desmond Bane",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Jan 6, 2025",
-                "Description": "Out (Ankle) - The Grizzlies have listed Bane as Out for Monday's (Jan. 6) game against the Mavericks."
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Day To Day (Ankle) - Bane did not play on Monday's (Jan. 6) game against the Mavericks."
             },
             {
                 "Player": "GG Jackson II",
                 "Team": "Memphis Grizzlies",
                 "Update": "Thu, Dec 5, 2024",
                 "Description": "Out (Foot ) - The Grizzlies announced Jackson continues to progress well from offseason foot surgery and is expected to return to play in 6-8 weeks."
-            },
-            {
-                "Player": "John Konchar",
-                "Team": "Memphis Grizzlies",
-                "Update": "Sat, Jan 4, 2025",
-                "Description": "Day To Day (Shoulder) - Konchar did not play in Saturday's (Jan. 4) game against the Warriors."
             },
             {
                 "Player": "Ja Morant",
@@ -124,12 +118,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "9",
                 "FG": "3",
                 "FGA": "2",
                 "FG%": "5",
-                "3P": "10",
-                "3PA": "10",
+                "3P": "12",
+                "3PA": "11",
                 "3P%": "11",
                 "2P": "2",
                 "2PA": "6",
@@ -137,7 +131,7 @@
                 "FT": "1",
                 "FTA": "1",
                 "FT%": "19",
-                "ORB": "2",
+                "ORB": "3",
                 "DRB": "2",
                 "TRB": "2",
                 "AST": "2",
@@ -224,15 +218,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
-                "FG": "16",
+                "MP": "9",
+                "FG": "17",
                 "FGA": "27",
                 "FG%": "3",
                 "3P": "17",
-                "3PA": "28",
+                "3PA": "27",
                 "3P%": "3",
                 "2P": "16",
-                "2PA": "22",
+                "2PA": "23",
                 "2P%": "6",
                 "FT": "27",
                 "FTA": "28",
@@ -241,7 +235,7 @@
                 "DRB": "3",
                 "TRB": "10",
                 "AST": "11",
-                "STL": "24",
+                "STL": "22",
                 "BLK": "24",
                 "TOV": "5",
                 "PF": "1",
@@ -278,8 +272,8 @@
                 "PW": "27",
                 "PL": "10",
                 "MOV": "8.41",
-                "SOS": "-1.39",
-                "SRS": "7.01",
+                "SOS": "-1.46",
+                "SRS": "6.95",
                 "ORtg": "116.9",
                 "DRtg": "108.9",
                 "Pace": "105.3",
@@ -301,21 +295,21 @@
                 "MOV": "4",
                 "SOS": "28",
                 "SRS": "4",
-                "ORtg": "5",
+                "ORtg": "6",
                 "DRtg": "4",
                 "Pace": "1",
-                "FTr": "5",
+                "FTr": "4",
                 "3PAr": "18",
                 "eFG%": "3",
-                "TOV%": "8",
+                "TOV%": "7",
                 "ORB%": "2",
                 "FT/FGA": "20",
                 "DRB%": "17",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MEM-2025.png",
-        "last_update": "Jan 07 2025 22:32:14"
+        "last_update": "Jan 08 2025 22:32:16"
     }
 }

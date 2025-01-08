@@ -2,7 +2,7 @@
     "DET": {
         "info": {
             "record": "18-18",
-            "standing": "7th in East",
+            "standing": "9th in East",
             "coach": "J.B. Bickerstaff (18-18)",
             "gm": "Trajan Langdon",
             "preseason_odds": "+100000"
@@ -22,9 +22,9 @@
             "Ausar Thompson",
             "Wendell Moore Jr.",
             "Daniss Jenkins",
-            "Cole Swider",
-            "Alondes Williams",
-            "Bobi Klintman"
+            "Bobi Klintman",
+            "Tolu Smith",
+            "Ron Harper Jr."
         ],
         "injuries": [
             {
@@ -36,8 +36,8 @@
             {
                 "Player": "Ausar Thompson",
                 "Team": "Detroit Pistons",
-                "Update": "Mon, Jan 6, 2025",
-                "Description": "Out (Illness) - The Pistons listed Thompson as Out for Monday's (Jan. 6) game against Blazers."
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Out (Illness) - The Pistons listed Thompson as Out for Wednesday's (Jan. 8) game against the Nets."
             }
         ],
         "team_stats": {
@@ -93,28 +93,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
-                "FG": "13",
+                "MP": "10",
+                "FG": "14",
                 "FGA": "16",
                 "FG%": "14",
                 "3P": "15",
-                "3PA": "15",
+                "3PA": "16",
                 "3P%": "17",
-                "2P": "15",
+                "2P": "13",
                 "2PA": "15",
-                "2P%": "16",
-                "FT": "27",
-                "FTA": "26",
-                "FT%": "24",
+                "2P%": "15",
+                "FT": "26",
+                "FTA": "25",
+                "FT%": "25",
                 "ORB": "10",
-                "DRB": "14",
+                "DRB": "13",
                 "TRB": "12",
                 "AST": "16",
                 "STL": "28",
-                "BLK": "17",
-                "TOV": "22",
+                "BLK": "16",
+                "TOV": "21",
                 "PF": "25",
-                "PTS": "17"
+                "PTS": "14"
             },
             "Year/Year": {
                 "G": "",
@@ -193,7 +193,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "10",
                 "FG": "18",
                 "FGA": "9",
                 "FG%": "19",
@@ -203,17 +203,17 @@
                 "2P": "13",
                 "2PA": "10",
                 "2P%": "14",
-                "FT": "18",
-                "FTA": "17",
+                "FT": "16",
+                "FTA": "16",
                 "FT%": "12",
                 "ORB": "5",
                 "DRB": "6",
                 "TRB": "4",
                 "AST": "8",
-                "STL": "25",
+                "STL": "23",
                 "BLK": "13",
                 "TOV": "16",
-                "PF": "29",
+                "PF": "28",
                 "PTS": "17"
             },
             "Opp Year/Year": {
@@ -247,8 +247,8 @@
                 "PW": "16",
                 "PL": "20",
                 "MOV": "-1.78",
-                "SOS": "-0.28",
-                "SRS": "-2.06",
+                "SOS": "-0.20",
+                "SRS": "-1.98",
                 "ORtg": "112.1",
                 "DRtg": "113.9",
                 "Pace": "98.7",
@@ -263,28 +263,28 @@
                 "Attendance": "317,574"
             },
             "Misc Lg Rank": {
-                "W": "13",
-                "L": "11",
+                "W": "15",
+                "L": "12",
                 "PW": "18",
-                "PL": "20",
-                "MOV": "19",
-                "SOS": "20",
-                "SRS": "20",
-                "ORtg": "18",
-                "DRtg": "17",
+                "PL": "19",
+                "MOV": "18",
+                "SOS": "19",
+                "SRS": "19",
+                "ORtg": "19",
+                "DRtg": "18",
                 "Pace": "18",
                 "FTr": "26",
                 "3PAr": "16",
                 "eFG%": "23",
                 "TOV%": "16",
                 "ORB%": "10",
-                "FT/FGA": "18",
+                "FT/FGA": "19",
                 "DRB%": "2",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DET-2025.png",
-        "last_update": "Jan 07 2025 22:32:14"
+        "last_update": "Jan 08 2025 22:32:16"
     }
 }

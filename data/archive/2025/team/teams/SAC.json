@@ -31,8 +31,8 @@
             {
                 "Player": "De'Aaron Fox",
                 "Team": "Sacramento Kings",
-                "Update": "Mon, Jan 6, 2025",
-                "Description": "Out (Hip) - The Kings have listed Fox as OUT for Monday's (Jan. 6) game against the Heat."
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Day To Day (Hip) - Fox did not play on Monday's (Jan. 6) game against the Heat."
             }
         ],
         "team_stats": {
@@ -92,12 +92,12 @@
                 "FG": "7",
                 "FGA": "11",
                 "FG%": "8",
-                "3P": "21",
+                "3P": "22",
                 "3PA": "23",
                 "3P%": "21",
                 "2P": "3",
                 "2PA": "7",
-                "2P%": "7",
+                "2P%": "6",
                 "FT": "9",
                 "FTA": "12",
                 "FT%": "2",
@@ -106,8 +106,8 @@
                 "TRB": "16",
                 "AST": "13",
                 "STL": "13",
-                "BLK": "21",
-                "TOV": "6",
+                "BLK": "23",
+                "TOV": "7",
                 "PF": "21",
                 "PTS": "9"
             },
@@ -191,7 +191,7 @@
                 "MP": "2",
                 "FG": "11",
                 "FGA": "7",
-                "FG%": "14",
+                "FG%": "16",
                 "3P": "28",
                 "3PA": "22",
                 "3P%": "28",
@@ -207,7 +207,7 @@
                 "AST": "12",
                 "STL": "14",
                 "BLK": "8",
-                "TOV": "9",
+                "TOV": "8",
                 "PF": "13",
                 "PTS": "18"
             },
@@ -242,8 +242,8 @@
                 "PW": "21",
                 "PL": "16",
                 "MOV": "2.22",
-                "SOS": "-0.88",
-                "SRS": "1.34",
+                "SOS": "-0.95",
+                "SRS": "1.27",
                 "ORtg": "115.6",
                 "DRtg": "113.4",
                 "Pace": "98.9",
@@ -258,12 +258,12 @@
                 "Attendance": "353,958"
             },
             "Misc Lg Rank": {
-                "W": "13",
+                "W": "15",
                 "L": "9",
                 "PW": "9",
                 "PL": "10",
                 "MOV": "9",
-                "SOS": "25",
+                "SOS": "27",
                 "SRS": "13",
                 "ORtg": "7",
                 "DRtg": "15",
@@ -272,14 +272,14 @@
                 "3PAr": "24",
                 "eFG%": "19",
                 "TOV%": "10",
-                "ORB%": "17",
+                "ORB%": "18",
                 "FT/FGA": "26",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "6"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/SAC-2025.png",
-        "last_update": "Jan 07 2025 22:32:14"
+        "last_update": "Jan 08 2025 22:32:16"
     }
 }

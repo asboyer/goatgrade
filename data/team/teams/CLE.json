@@ -30,14 +30,14 @@
             {
                 "Player": "Sam Merrill",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Sun, Jan 5, 2025",
-                "Description": "Day To Day (Ankle) - The Cavaliers listed Merrill as OUT for Sunday's (Jan. 5) game against Charlotte."
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Day To Day (Ankle) - The Cavaliers listed Merrill as Questionable for Wednesday's (Jan. 8) game against Thunder."
             },
             {
                 "Player": "Isaac Okoro",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Thu, Dec 19, 2024",
-                "Description": "Out (Shoulder) - The Cavaliers announced on Thursday (Dec. 19) that Okoro sustained a shoulder injury and will be re-evaluated in two weeks."
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Day To Day (Shoulder) - The Cavaliers have listed Okoro as Questionable for Wednesday's (Jan. 8) game against the Thunder."
             }
         ],
         "team_stats": {
@@ -93,8 +93,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
-                "FG": "2",
+                "MP": "24",
+                "FG": "1",
                 "FGA": "14",
                 "FG%": "1",
                 "3P": "3",
@@ -104,16 +104,16 @@
                 "2PA": "19",
                 "2P%": "1",
                 "FT": "23",
-                "FTA": "24",
+                "FTA": "23",
                 "FT%": "20",
                 "ORB": "23",
-                "DRB": "7",
+                "DRB": "6",
                 "TRB": "17",
                 "AST": "5",
                 "STL": "10",
-                "BLK": "20",
+                "BLK": "21",
                 "TOV": "3",
-                "PF": "11",
+                "PF": "10",
                 "PTS": "2"
             },
             "Year/Year": {
@@ -193,22 +193,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "7",
-                "FGA": "19",
+                "FGA": "20",
                 "FG%": "4",
                 "3P": "13",
                 "3PA": "8",
-                "3P%": "21",
+                "3P%": "22",
                 "2P": "9",
                 "2PA": "21",
                 "2P%": "3",
                 "FT": "13",
                 "FTA": "11",
-                "FT%": "22",
-                "ORB": "19",
-                "DRB": "15",
-                "TRB": "16",
+                "FT%": "21",
+                "ORB": "18",
+                "DRB": "16",
+                "TRB": "17",
                 "AST": "6",
                 "STL": "6",
                 "BLK": "10",
@@ -247,8 +247,8 @@
                 "PW": "28",
                 "PL": "7",
                 "MOV": "11.83",
-                "SOS": "-2.23",
-                "SRS": "9.60",
+                "SOS": "-2.19",
+                "SRS": "9.64",
                 "ORtg": "122.0",
                 "DRtg": "110.2",
                 "Pace": "100.4",
@@ -265,7 +265,7 @@
             "Misc Lg Rank": {
                 "W": "1",
                 "L": "30",
-                "PW": "2",
+                "PW": "3",
                 "PL": "2",
                 "MOV": "2",
                 "SOS": "30",
@@ -278,13 +278,13 @@
                 "eFG%": "6",
                 "TOV%": "9",
                 "ORB%": "22",
-                "FT/FGA": "14",
+                "FT/FGA": "13",
                 "DRB%": "14",
                 "Arena": "",
                 "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CLE-2025.png",
-        "last_update": "Jan 07 2025 22:32:14"
+        "last_update": "Jan 08 2025 22:32:16"
     }
 }

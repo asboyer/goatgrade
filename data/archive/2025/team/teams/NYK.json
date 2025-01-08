@@ -30,8 +30,8 @@
             {
                 "Player": "Miles McBride",
                 "Team": "New York Knicks",
-                "Update": "Mon, Jan 6, 2025",
-                "Description": "Out (Hamstring) - The Knicks listed McBride as Out for Monday's (Jan. 6) game against Orlando."
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Day To Day (Hamstring) - The Knicks listed Towns as questionable for Wednesday's (Jan. 8) game against Toronto."
             },
             {
                 "Player": "Mitchell Robinson",
@@ -42,8 +42,8 @@
             {
                 "Player": "Karl-Anthony Towns",
                 "Team": "New York Knicks",
-                "Update": "Mon, Jan 6, 2025",
-                "Description": "Out (Hamstring) - The Knicks listed Towns as Out for Monday's (Jan. 6) game against Orlando."
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Day To Day (Hamstring) - The Knicks listed Towns as questionable for Wednesday's (Jan. 8) game against Toronto."
             }
         ],
         "team_stats": {
@@ -99,28 +99,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "6",
                 "FG": "4",
                 "FGA": "20",
                 "FG%": "3",
                 "3P": "17",
                 "3PA": "24",
-                "3P%": "5",
+                "3P%": "4",
                 "2P": "5",
                 "2PA": "13",
-                "2P%": "2",
+                "2P%": "3",
                 "FT": "15",
-                "FTA": "20",
+                "FTA": "19",
                 "FT%": "4",
                 "ORB": "20",
-                "DRB": "20",
-                "TRB": "20",
+                "DRB": "22",
+                "TRB": "22",
                 "AST": "10",
                 "STL": "25",
                 "BLK": "28",
                 "TOV": "4",
                 "PF": "5",
-                "PTS": "6"
+                "PTS": "7"
             },
             "Year/Year": {
                 "G": "",
@@ -199,28 +199,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "6",
                 "FG": "14",
                 "FGA": "11",
-                "FG%": "15",
-                "3P": "19",
+                "FG%": "17",
+                "3P": "20",
                 "3PA": "12",
                 "3P%": "25",
                 "2P": "12",
                 "2PA": "11",
                 "2P%": "11",
                 "FT": "5",
-                "FTA": "6",
+                "FTA": "5",
                 "FT%": "16",
                 "ORB": "7",
-                "DRB": "2",
+                "DRB": "1",
                 "TRB": "2",
                 "AST": "13",
                 "STL": "2",
                 "BLK": "12",
                 "TOV": "25",
-                "PF": "11",
-                "PTS": "7"
+                "PF": "12",
+                "PTS": "8"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -253,8 +253,8 @@
                 "PW": "26",
                 "PL": "11",
                 "MOV": "6.70",
-                "SOS": "-1.86",
-                "SRS": "4.84",
+                "SOS": "-1.80",
+                "SRS": "4.91",
                 "ORtg": "120.4",
                 "DRtg": "113.5",
                 "Pace": "97.0",
@@ -280,17 +280,17 @@
                 "DRtg": "16",
                 "Pace": "26",
                 "FTr": "18",
-                "3PAr": "21",
-                "eFG%": "15",
-                "TOV%": "23",
+                "3PAr": "22",
+                "eFG%": "17",
+                "TOV%": "22",
                 "ORB%": "15",
                 "FT/FGA": "6",
-                "DRB%": "9",
+                "DRB%": "8",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NYK-2025.png",
-        "last_update": "Jan 07 2025 22:32:14"
+        "last_update": "Jan 08 2025 22:32:16"
     }
 }

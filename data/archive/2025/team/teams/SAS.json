@@ -2,7 +2,7 @@
     "SAS": {
         "info": {
             "record": "18-18",
-            "standing": "10th in West",
+            "standing": "9th in West",
             "coach": "Gregg Popovich (18-18)",
             "gm": "Brian Wright",
             "preseason_odds": "+10000"
@@ -27,7 +27,14 @@
             "Riley Minix",
             "Harrison Ingram"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Jeremy Sochan",
+                "Team": "San Antonio Spurs",
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Out (Back) - The Spurs have listed Sochan as Out for Wednesday's (Jan. 8) game against the Bucks."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "36",
@@ -81,19 +88,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "13",
                 "FG": "18",
                 "FGA": "17",
                 "FG%": "21",
                 "3P": "13",
                 "3PA": "7",
-                "3P%": "24",
+                "3P%": "23",
                 "2P": "18",
                 "2PA": "20",
                 "2P%": "13",
                 "FT": "13",
                 "FTA": "13",
-                "FT%": "7",
+                "FT%": "8",
                 "ORB": "11",
                 "DRB": "4",
                 "TRB": "5",
@@ -102,7 +109,7 @@
                 "BLK": "1",
                 "TOV": "16",
                 "PF": "2",
-                "PTS": "18"
+                "PTS": "19"
             },
             "Year/Year": {
                 "G": "",
@@ -181,7 +188,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "13",
                 "FG": "20",
                 "FGA": "26",
                 "FG%": "6",
@@ -192,10 +199,10 @@
                 "2PA": "29",
                 "2P%": "8",
                 "FT": "2",
-                "FTA": "2",
-                "FT%": "23",
+                "FTA": "3",
+                "FT%": "24",
                 "ORB": "25",
-                "DRB": "19",
+                "DRB": "20",
                 "TRB": "25",
                 "AST": "10",
                 "STL": "19",
@@ -235,8 +242,8 @@
                 "PW": "18",
                 "PL": "18",
                 "MOV": "-0.08",
-                "SOS": "-0.31",
-                "SRS": "-0.40",
+                "SOS": "-0.37",
+                "SRS": "-0.45",
                 "ORtg": "112.2",
                 "DRtg": "112.3",
                 "Pace": "98.8",
@@ -251,28 +258,28 @@
                 "Attendance": "356,473"
             },
             "Misc Lg Rank": {
-                "W": "13",
-                "L": "11",
-                "PW": "15",
+                "W": "15",
+                "L": "12",
+                "PW": "16",
                 "PL": "16",
                 "MOV": "16",
                 "SOS": "21",
                 "SRS": "16",
-                "ORtg": "16",
-                "DRtg": "11",
+                "ORtg": "18",
+                "DRtg": "12",
                 "Pace": "17",
                 "FTr": "16",
-                "3PAr": "7",
-                "eFG%": "5",
+                "3PAr": "8",
+                "eFG%": "4",
                 "TOV%": "26",
                 "ORB%": "16",
                 "FT/FGA": "1",
                 "DRB%": "21",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/SAS-2025.png",
-        "last_update": "Jan 07 2025 22:32:14"
+        "last_update": "Jan 08 2025 22:32:16"
     }
 }

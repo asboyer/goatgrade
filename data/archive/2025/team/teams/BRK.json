@@ -31,14 +31,14 @@
             {
                 "Player": "Bojan Bogdanović",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Jan 4, 2025",
-                "Description": "Day To Day (Foot) - Bogdanovic did not play in Saturday's (Jan. 4) game against the 76ers."
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Out (Foot) - The Nets listed Bogdanovic as Out for Wednesday's (Jan. 8) game against the Pistons."
             },
             {
                 "Player": "Cameron Johnson",
                 "Team": "Brooklyn Nets",
                 "Update": "Sat, Jan 4, 2025",
-                "Description": "Day To Day (Ankle) - Johnson did not play in Saturday's (Jan. 4) game against the 76ers."
+                "Description": "Out (Ankle) - The Nets announced Saturday (Jan. 4) that Johnson sustained a right ankle sprain in Thursday's 113-110 win over the Bucks and is set to miss the team's next three games"
             },
             {
                 "Player": "Maxwell Lewis",
@@ -55,26 +55,26 @@
             {
                 "Player": "D'Angelo Russell",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Jan 6, 2025",
-                "Description": "Out (Calf) - Russell is listed as Out for Monday's (Jan. 6) game against the Pacers, as per Brian Lewis of the New York Post."
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Out (Calf) - The Nets listed Russell as Out for Wednesday's (Jan. 8) game against the Pistons."
             },
             {
                 "Player": "Ben Simmons",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Jan 6, 2025",
-                "Description": "Out (Calf) - Simmons is Out for Monday's (Jan. 6) game against the Pacers, as per Brian Lewis of the New York Post."
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Day To Day (Calf) - The Nets listed Simmons as Questionable for Wednesday's (Jan. 8) game against the Pistons."
             },
             {
                 "Player": "Cam Thomas",
                 "Team": "Brooklyn Nets",
                 "Update": "Sat, Jan 4, 2025",
-                "Description": "Day To Day (Hamstring) - Thomas did not play in Saturday's (Jan. 4) game against the 76ers."
+                "Description": "Out (Hamstring) - The Nets announced Saturday (Jan. 4) that Thomas sustained a left hamstring strain in Thursday's 113-110 win over the bucks and will be re-evaluated for two weeks."
             },
             {
                 "Player": "Trendon Watford",
                 "Team": "Brooklyn Nets",
                 "Update": "Sat, Jan 4, 2025",
-                "Description": "Day To Day (Hamstring) - Watford did not play in Saturday's (Jan. 4) game against the 76ers."
+                "Description": "Out (Hamstring) - The Nets announced Saturday that Watford (hamstring) has resumed individual on-court workouts, and his status will be updated in one week."
             }
         ],
         "team_stats": {
@@ -130,13 +130,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "13",
                 "FG": "28",
                 "FGA": "30",
                 "FG%": "22",
                 "3P": "7",
                 "3PA": "8",
-                "3P%": "13",
+                "3P%": "12",
                 "2P": "29",
                 "2PA": "29",
                 "2P%": "26",
@@ -230,7 +230,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "13",
                 "FG": "12",
                 "FGA": "2",
                 "FG%": "30",
@@ -239,7 +239,7 @@
                 "3P%": "27",
                 "2P": "10",
                 "2PA": "3",
-                "2P%": "28",
+                "2P%": "29",
                 "FT": "28",
                 "FTA": "27",
                 "FT%": "9",
@@ -247,9 +247,9 @@
                 "DRB": "14",
                 "TRB": "5",
                 "AST": "22",
-                "STL": "15",
+                "STL": "16",
                 "BLK": "25",
-                "TOV": "12",
+                "TOV": "13",
                 "PF": "10",
                 "PTS": "16"
             },
@@ -284,8 +284,8 @@
                 "PW": "11",
                 "PL": "25",
                 "MOV": "-5.97",
-                "SOS": "0.79",
-                "SRS": "-5.18",
+                "SOS": "0.83",
+                "SRS": "-5.14",
                 "ORtg": "110.3",
                 "DRtg": "116.4",
                 "Pace": "96.9",
@@ -305,11 +305,11 @@
                 "PW": "24",
                 "PL": "26",
                 "MOV": "24",
-                "SOS": "7",
+                "SOS": "6",
                 "SRS": "24",
                 "ORtg": "23",
-                "DRtg": "24",
-                "Pace": "27",
+                "DRtg": "25",
+                "Pace": "28",
                 "FTr": "11",
                 "3PAr": "5",
                 "eFG%": "30",
@@ -322,6 +322,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BRK-2025.png",
-        "last_update": "Jan 07 2025 22:32:14"
+        "last_update": "Jan 08 2025 22:32:16"
     }
 }

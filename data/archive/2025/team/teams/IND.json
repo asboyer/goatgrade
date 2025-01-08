@@ -2,7 +2,7 @@
     "IND": {
         "info": {
             "record": "19-18",
-            "standing": "6th in East",
+            "standing": "8th in East",
             "coach": "Rick Carlisle (19-18)",
             "gm": "Kevin Pritchard",
             "preseason_odds": "+5000"
@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Tyrese Haliburton",
+                "Team": "Indiana Pacers",
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Day To Day (Ankle) - The Pacers have listed Haliburton as Questionable for Wednesday's (Jan. 8) game against the Bulls."
+            },
+            {
                 "Player": "Isaiah Jackson",
                 "Team": "Indiana Pacers",
                 "Update": "Sat, Nov 2, 2024",
@@ -37,8 +43,8 @@
             {
                 "Player": "Aaron Nesmith",
                 "Team": "Indiana Pacers",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Out (Ankle) - Pacers head coach Rick Carlisle said prior to Sunday's (Dec. 29) game versus the Celtics that Nesmith is making progress and showing improvement, but the forward remains without a clear timeline for a return, per Dustin Dopirak of The Indian"
+                "Update": "Sat, Jan 4, 2025",
+                "Description": "Out (Ankle) - Pacers head coach Carlisle said Saturday (Jan. 4) that Nesmith has been getting in some 5-on-5 work but will still need time to regain conditioning, according to Dustin Dopirak of The Indianapolis Star."
             },
             {
                 "Player": "James Wiseman",
@@ -100,24 +106,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "4",
                 "FG": "8",
                 "FGA": "19",
                 "FG%": "4",
                 "3P": "19",
                 "3PA": "27",
-                "3P%": "7",
+                "3P%": "8",
                 "2P": "6",
                 "2PA": "8",
                 "2P%": "4",
                 "FT": "16",
                 "FTA": "16",
-                "FT%": "12",
+                "FT%": "11",
                 "ORB": "29",
                 "DRB": "23",
                 "TRB": "28",
                 "AST": "9",
-                "STL": "17",
+                "STL": "18",
                 "BLK": "14",
                 "TOV": "9",
                 "PF": "19",
@@ -200,11 +206,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "4",
                 "FG": "23",
-                "FGA": "16",
+                "FGA": "15",
                 "FG%": "24",
-                "3P": "11",
+                "3P": "9",
                 "3PA": "7",
                 "3P%": "20",
                 "2P": "24",
@@ -212,14 +218,14 @@
                 "2P%": "21",
                 "FT": "24",
                 "FTA": "25",
-                "FT%": "11",
-                "ORB": "18",
+                "FT%": "10",
+                "ORB": "16",
                 "DRB": "17",
-                "TRB": "14",
+                "TRB": "15",
                 "AST": "14",
-                "STL": "8",
+                "STL": "9",
                 "BLK": "6",
-                "TOV": "21",
+                "TOV": "20",
                 "PF": "22",
                 "PTS": "22"
             },
@@ -254,8 +260,8 @@
                 "PW": "18",
                 "PL": "19",
                 "MOV": "-0.84",
-                "SOS": "-0.61",
-                "SRS": "-1.45",
+                "SOS": "-0.52",
+                "SRS": "-1.36",
                 "ORtg": "115.3",
                 "DRtg": "116.1",
                 "Pace": "99.4",
@@ -271,27 +277,27 @@
             },
             "Misc Lg Rank": {
                 "W": "12",
-                "L": "11",
+                "L": "12",
                 "PW": "17",
-                "PL": "19",
+                "PL": "17",
                 "MOV": "17",
                 "SOS": "23",
-                "SRS": "18",
+                "SRS": "17",
                 "ORtg": "9",
                 "DRtg": "23",
                 "Pace": "11",
                 "FTr": "17",
                 "3PAr": "26",
-                "eFG%": "22",
+                "eFG%": "20",
                 "TOV%": "19",
                 "ORB%": "28",
                 "FT/FGA": "23",
                 "DRB%": "22",
                 "Arena": "",
-                "Attendance": "29"
+                "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/IND-2025.png",
-        "last_update": "Jan 07 2025 22:32:14"
+        "last_update": "Jan 08 2025 22:32:16"
     }
 }

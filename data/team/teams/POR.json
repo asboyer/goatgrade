@@ -29,16 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Deni Avdija",
+                "Team": "Portland Trail Blazers",
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Day To Day (Wrist) - The Trail Blazers listed Avdija as questionable for Wednesday's (Jan. 8) game against New Orleans."
+            },
+            {
+                "Player": "Donovan Clingan",
+                "Team": "Portland Trail Blazers",
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Day To Day (Rest) - The Trail Blazers listed Clingan as questionable for Wednesday's (Jan. 8) game against New Orleans."
+            },
+            {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Jan 6, 2025",
-                "Description": "Out (Face) - The Trail Blazers listed Grant as OUT for Monday's (Jan. 6) game against Detroit."
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Out (Face) - The Trail Blazers listed Grant as OUT for Wednesday's (Jan. 8) game against New Orleans."
             },
             {
                 "Player": "Matisse Thybulle",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Jan 6, 2025",
-                "Description": "Out (Ankle) - The Trail Blazers listed Thybulle as OUT for Monday's (Jan. 6) game against Detroit."
+                "Update": "Tue, Jan 7, 2025",
+                "Description": "Out (Ankle) - The Trail Blazers listed Thybulle as OUT for Wednesday's (Jan. 8) game against New Orleans."
             }
         ],
         "team_stats": {
@@ -94,27 +106,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "20",
                 "FGA": "15",
-                "FG%": "24",
+                "FG%": "23",
                 "3P": "24",
                 "3PA": "20",
                 "3P%": "27",
-                "2P": "16",
+                "2P": "15",
                 "2PA": "9",
-                "2P%": "23",
-                "FT": "22",
+                "2P%": "24",
+                "FT": "21",
                 "FTA": "22",
-                "FT%": "23",
+                "FT%": "24",
                 "ORB": "7",
                 "DRB": "26",
-                "TRB": "21",
+                "TRB": "23",
                 "AST": "28",
                 "STL": "16",
-                "BLK": "8",
+                "BLK": "7",
                 "TOV": "27",
-                "PF": "17",
+                "PF": "18",
                 "PTS": "25"
             },
             "Year/Year": {
@@ -194,22 +206,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "22",
                 "FGA": "12",
                 "FG%": "27",
-                "3P": "22",
+                "3P": "23",
                 "3PA": "13",
                 "3P%": "26",
-                "2P": "20",
-                "2PA": "12",
+                "2P": "22",
+                "2PA": "13",
                 "2P%": "20",
                 "FT": "26",
                 "FTA": "24",
                 "FT%": "25",
-                "ORB": "27",
-                "DRB": "10",
-                "TRB": "21",
+                "ORB": "28",
+                "DRB": "11",
+                "TRB": "20",
                 "AST": "23",
                 "STL": "26",
                 "BLK": "29",
@@ -248,8 +260,8 @@
                 "PW": "9",
                 "PL": "26",
                 "MOV": "-8.71",
-                "SOS": "0.71",
-                "SRS": "-8.01",
+                "SOS": "0.66",
+                "SRS": "-8.06",
                 "ORtg": "108.8",
                 "DRtg": "117.6",
                 "Pace": "99.3",
@@ -273,12 +285,12 @@
                 "SRS": "28",
                 "ORtg": "27",
                 "DRtg": "26",
-                "Pace": "14",
+                "Pace": "13",
                 "FTr": "21",
                 "3PAr": "20",
                 "eFG%": "26",
-                "TOV%": "12",
-                "ORB%": "5",
+                "TOV%": "13",
+                "ORB%": "6",
                 "FT/FGA": "24",
                 "DRB%": "29",
                 "Arena": "",
@@ -286,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/POR-2025.png",
-        "last_update": "Jan 07 2025 22:32:14"
+        "last_update": "Jan 08 2025 22:32:16"
     }
 }
