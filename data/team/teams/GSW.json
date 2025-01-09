@@ -2,7 +2,7 @@
     "GSW": {
         "info": {
             "record": "18-18",
-            "standing": "10th in West",
+            "standing": "9th in West",
             "coach": "Steve Kerr (18-18)",
             "gm": "Mike Dunleavy",
             "preseason_odds": "+3000"
@@ -27,22 +27,46 @@
         ],
         "injuries": [
             {
+                "Player": "Stephen Curry",
+                "Team": "Golden State Warriors",
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (Knee) - The Warriors have listed Curry as Questionable for Thursday's (Jan. 9) game against the Pistons."
+            },
+            {
+                "Player": "Draymond Green",
+                "Team": "Golden State Warriors",
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (Ankle) - The Warriors have listed Green as Questionable for Thursday's (Jan. 9) game against the Pistons."
+            },
+            {
                 "Player": "Jonathan Kuminga",
                 "Team": "Golden State Warriors",
-                "Update": "Tue, Jan 7, 2025",
-                "Description": "Day To Day (Ankle) - Kuminga did not play in Tuesday's (Jan. 7) game against the Heat."
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Out (Ankle) - The Warriors have listed Kuminga as Out for Thursday's (Jan. 9) game against the Pistons."
+            },
+            {
+                "Player": "Moses Moody",
+                "Team": "Golden State Warriors",
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (Knee) - The Warriors have listed Moody as Questionable for Thursday's (Jan. 9) game against the Pistons."
             },
             {
                 "Player": "Gary Payton II",
                 "Team": "Golden State Warriors",
-                "Update": "Tue, Jan 7, 2025",
-                "Description": "Day To Day (Calf) - Payton II did not play in Tuesday's (Jan. 7) game against the Heat."
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Out (Calf) - The Warriors announced Saturday (Jan. 4) that Payton has been cleared to begin individual workouts and will be re-evaluated in one week."
             },
             {
                 "Player": "Brandin Podziemski",
                 "Team": "Golden State Warriors",
-                "Update": "Tue, Jan 7, 2025",
-                "Description": "Day To Day (Abdominal) - Podziemski did not play in Tuesday's (Jan. 7) game against the Heat."
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Out (Abdominal) - The Warriors have listed Podziemski as Out for Thursday's (Jan. 9) game against the Pistons."
+            },
+            {
+                "Player": "Dennis Schröder",
+                "Team": "Golden State Warriors",
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (Hip) - The Warriors have listed Schroder as Questionable for Thursday's (Jan. 9) game against the Pistons."
             }
         ],
         "team_stats": {
@@ -98,27 +122,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "19",
                 "FG": "16",
                 "FGA": "6",
-                "FG%": "24",
+                "FG%": "23",
                 "3P": "4",
                 "3PA": "4",
-                "3P%": "14",
+                "3P%": "13",
                 "2P": "22",
                 "2PA": "17",
                 "2P%": "28",
                 "FT": "30",
-                "FTA": "26",
+                "FTA": "25",
                 "FT%": "30",
                 "ORB": "4",
                 "DRB": "10",
                 "TRB": "3",
-                "AST": "8",
+                "AST": "7",
                 "STL": "8",
                 "BLK": "10",
                 "TOV": "15",
-                "PF": "17",
+                "PF": "18",
                 "PTS": "16"
             },
             "Year/Year": {
@@ -198,26 +222,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "19",
                 "FG": "8",
                 "FGA": "13",
                 "FG%": "8",
                 "3P": "10",
-                "3PA": "19",
-                "3P%": "7",
-                "2P": "10",
-                "2PA": "9",
-                "2P%": "12",
+                "3PA": "18",
+                "3P%": "6",
+                "2P": "9",
+                "2PA": "10",
+                "2P%": "11",
                 "FT": "19",
-                "FTA": "16",
+                "FTA": "17",
                 "FT%": "18",
-                "ORB": "12",
+                "ORB": "11",
                 "DRB": "26",
                 "TRB": "24",
                 "AST": "17",
                 "STL": "11",
-                "BLK": "27",
-                "TOV": "9",
+                "BLK": "28",
+                "TOV": "10",
                 "PF": "29",
                 "PTS": "12"
             },
@@ -252,8 +276,8 @@
                 "PW": "19",
                 "PL": "17",
                 "MOV": "0.72",
-                "SOS": "1.26",
-                "SRS": "1.98",
+                "SOS": "1.20",
+                "SRS": "1.92",
                 "ORtg": "111.8",
                 "DRtg": "111.1",
                 "Pace": "99.7",
@@ -268,21 +292,21 @@
                 "Attendance": "361,280"
             },
             "Misc Lg Rank": {
-                "W": "15",
-                "L": "12",
+                "W": "17",
+                "L": "13",
                 "PW": "15",
-                "PL": "15",
-                "MOV": "15",
+                "PL": "14",
+                "MOV": "14",
                 "SOS": "3",
-                "SRS": "10",
+                "SRS": "9",
                 "ORtg": "20",
                 "DRtg": "9",
-                "Pace": "8",
+                "Pace": "7",
                 "FTr": "28",
                 "3PAr": "7",
                 "eFG%": "10",
-                "TOV%": "12",
-                "ORB%": "7",
+                "TOV%": "13",
+                "ORB%": "8",
                 "FT/FGA": "17",
                 "DRB%": "12",
                 "Arena": "",
@@ -290,6 +314,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/GSW-2025.png",
-        "last_update": "Jan 08 2025 22:32:16"
+        "last_update": "Jan 09 2025 22:32:15"
     }
 }

@@ -2,7 +2,7 @@
     "ATL": {
         "info": {
             "record": "19-18",
-            "standing": "7th in East",
+            "standing": "9th in East",
             "coach": "Quin Snyder (19-18)",
             "gm": "Landry Fields",
             "preseason_odds": "+15000"
@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Bogdan Bogdanović",
+                "Team": "Atlanta Hawks",
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (Lower Leg) - The Hawks have listed Bogdanovic as Probable for Thursday's (Jan. 9) game against the Suns."
+            },
+            {
                 "Player": "Kobe Bufkin",
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Dec 18, 2024",
@@ -37,20 +43,32 @@
             {
                 "Player": "Jalen Johnson",
                 "Team": "Atlanta Hawks",
-                "Update": "Tue, Jan 7, 2025",
-                "Description": "Day To Day (Shoulder) - Johnson did not play in Tuesday's (Jan. 7) game against the Jazz."
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Out (Shoulder) - The Hawks have listed Johnson as Out for Thursday's (Jan. 9) game against the Suns."
             },
             {
                 "Player": "Larry Nance Jr.",
                 "Team": "Atlanta Hawks",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Out (Hand) - The Hawks announced on Monday (Dec. 30) that Nance will undergo surgery on Thursday (Jan. 2) after imaging confirmed a fractured fourth metacarpal bone in his right hand. A timeline for his return is yet to be provided."
+                "Update": "Fri, Jan 3, 2025",
+                "Description": "Out (Hand) - Nance underwent surgery Thursday (Jan. 2) to repair the fractured fourth metacarpal bone in his right hand and will be re-evaluated in two weeks, per Brad Rowland of the Locked On Podcast Network."
+            },
+            {
+                "Player": "Onyeka Okongwu",
+                "Team": "Atlanta Hawks",
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (Face) - The Hawks have listed Okongwu as Questionable for Thursday's (Jan. 9) game against the Suns."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks have listed Young as Probable for Thursday's (Jan. 9) game against the Suns."
             },
             {
                 "Player": "Cody Zeller",
                 "Team": "Atlanta Hawks",
-                "Update": "Tue, Jan 7, 2025",
-                "Description": "Day To Day (Personal) - Zeller did not play in Tuesday's (Jan. 7) game against the Jazz."
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Out (Personal) - The Hawks have listed Zeller as Out for Thursday's (Jan. 9) game against the Hawks."
             }
         ],
         "team_stats": {
@@ -106,10 +124,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "9",
                 "FG": "9",
-                "FGA": "4",
-                "FG%": "15",
+                "FGA": "3",
+                "FG%": "14",
                 "3P": "18",
                 "3PA": "17",
                 "3P%": "19",
@@ -118,15 +136,15 @@
                 "2P%": "17",
                 "FT": "4",
                 "FTA": "5",
-                "FT%": "15",
+                "FT%": "14",
                 "ORB": "8",
-                "DRB": "18",
+                "DRB": "17",
                 "TRB": "6",
                 "AST": "3",
                 "STL": "2",
                 "BLK": "11",
                 "TOV": "24",
-                "PF": "11",
+                "PF": "13",
                 "PTS": "6"
             },
             "Year/Year": {
@@ -206,8 +224,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "26",
+                "MP": "9",
+                "FG": "27",
                 "FGA": "25",
                 "FG%": "22",
                 "3P": "30",
@@ -216,15 +234,15 @@
                 "2P": "20",
                 "2PA": "18",
                 "2P%": "17",
-                "FT": "18",
+                "FT": "17",
                 "FTA": "14",
                 "FT%": "20",
                 "ORB": "13",
-                "DRB": "21",
+                "DRB": "20",
                 "TRB": "22",
-                "AST": "27",
+                "AST": "28",
                 "STL": "27",
-                "BLK": "20",
+                "BLK": "19",
                 "TOV": "4",
                 "PF": "4",
                 "PTS": "28"
@@ -260,8 +278,8 @@
                 "PW": "16",
                 "PL": "21",
                 "MOV": "-2.46",
-                "SOS": "-0.36",
-                "SRS": "-2.82",
+                "SOS": "-0.34",
+                "SRS": "-2.80",
                 "ORtg": "112.4",
                 "DRtg": "114.8",
                 "Pace": "103.8",
@@ -276,15 +294,15 @@
                 "Attendance": "280,524"
             },
             "Misc Lg Rank": {
-                "W": "12",
-                "L": "12",
+                "W": "13",
+                "L": "13",
                 "PW": "19",
                 "PL": "22",
                 "MOV": "21",
                 "SOS": "20",
-                "SRS": "22",
+                "SRS": "21",
                 "ORtg": "16",
-                "DRtg": "19",
+                "DRtg": "20",
                 "Pace": "3",
                 "FTr": "10",
                 "3PAr": "21",
@@ -298,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ATL-2025.png",
-        "last_update": "Jan 08 2025 22:32:16"
+        "last_update": "Jan 09 2025 22:32:15"
     }
 }

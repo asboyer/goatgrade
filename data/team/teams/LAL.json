@@ -29,28 +29,40 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (Foot) - The Lakers have listed Davis as Probable for Thursday's (Jan. 9) game against the Hornets."
+            },
+            {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sat, Jan 4, 2025",
-                "Description": "Out (Hamstring) - The Lakers listed Hood-Schifino as Out for Sunday's (Jan. 5) game against the Rockets."
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Out (Hamstring) - The Lakers have listed Hood-Schifino as Out for Thursday's (Jan. 9) game against the Hornets."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (Foot) - The Lakers have listed James as Probable for Thursday's (Jan. 9) game against the Hornets."
             },
             {
                 "Player": "Cam Reddish",
                 "Team": "Los Angeles Lakers",
-                "Update": "Tue, Jan 7, 2025",
-                "Description": "Day To Day (Back) - Reddish did not play in Tuesday's (Jan. 7) game against the Mavericks."
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (Back) - The Lakers have listed Reddish as Questionable for Thursday's (Jan. 9) game against the Hornets."
             },
             {
                 "Player": "Jarred Vanderbilt",
                 "Team": "Los Angeles Lakers",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Out (Knee) - Vanderbilt participated in non-contact work during Monday's (Dec. 30) practice, Dave McMenamin of ESPN.com reports. He remains a few hurdles away from game action."
+                "Update": "Mon, Jan 6, 2025",
+                "Description": "Out (Knee) - Vanderbilt participated in 5-on-5 practice Monday (Jan. 6) and will be re-evaluated in one week, per Jovan Buha of The Athletic."
             },
             {
                 "Player": "Christian Wood",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sat, Jan 4, 2025",
-                "Description": "Out (Knee) - The Lakers listed Wood as Out for Sunday's (Jan. 5) game against the Rockets."
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Out (Knee) - The Lakers listed Wood as Out for Thursday's (Jan. 9) game against the Hornets."
             }
         ],
         "team_stats": {
@@ -106,22 +118,22 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "19",
                 "FG": "17",
                 "FGA": "25",
                 "FG%": "9",
-                "3P": "25",
+                "3P": "26",
                 "3PA": "28",
                 "3P%": "18",
                 "2P": "12",
                 "2PA": "14",
                 "2P%": "12",
-                "FT": "3",
+                "FT": "2",
                 "FTA": "4",
                 "FT%": "10",
                 "ORB": "25",
-                "DRB": "25",
-                "TRB": "27",
+                "DRB": "24",
+                "TRB": "28",
                 "AST": "12",
                 "STL": "26",
                 "BLK": "19",
@@ -206,21 +218,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "19",
                 "FG": "24",
                 "FGA": "22",
                 "FG%": "25",
-                "3P": "12",
-                "3PA": "9",
+                "3P": "13",
+                "3PA": "11",
                 "3P%": "18",
-                "2P": "27",
-                "2PA": "24",
-                "2P%": "23",
+                "2P": "28",
+                "2PA": "25",
+                "2P%": "22",
                 "FT": "4",
                 "FTA": "4",
                 "FT%": "19",
                 "ORB": "19",
-                "DRB": "15",
+                "DRB": "17",
                 "TRB": "18",
                 "AST": "24",
                 "STL": "7",
@@ -260,8 +272,8 @@
                 "PW": "16",
                 "PL": "20",
                 "MOV": "-2.14",
-                "SOS": "0.26",
-                "SRS": "-1.88",
+                "SOS": "0.29",
+                "SRS": "-1.85",
                 "ORtg": "113.9",
                 "DRtg": "116.1",
                 "Pace": "97.9",
@@ -276,28 +288,28 @@
                 "Attendance": "317,361"
             },
             "Misc Lg Rank": {
-                "W": "9",
-                "L": "19",
+                "W": "10",
+                "L": "20",
                 "PW": "20",
                 "PL": "20",
                 "MOV": "19",
                 "SOS": "11",
-                "SRS": "18",
+                "SRS": "19",
                 "ORtg": "11",
                 "DRtg": "22",
                 "Pace": "21",
                 "FTr": "2",
                 "3PAr": "25",
                 "eFG%": "22",
-                "TOV%": "20",
+                "TOV%": "21",
                 "ORB%": "24",
                 "FT/FGA": "3",
                 "DRB%": "25",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAL-2025.png",
-        "last_update": "Jan 08 2025 22:32:16"
+        "last_update": "Jan 09 2025 22:32:15"
     }
 }

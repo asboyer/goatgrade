@@ -43,14 +43,14 @@
             {
                 "Player": "Daniel Gafford",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Jan 7, 2025",
-                "Description": "Day To Day (Ankle) - Gafford did not play in Tuesday's (Jan. 7) game against the Lakers."
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (Ankle) - The Mavericks have listed Gafford as Questionable for Thursday's (Jan. 9) game against the Trail Blazers."
             },
             {
                 "Player": "Kyrie Irving",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Jan 7, 2025",
-                "Description": "Day To Day (Illness) - Irving did not play in Tuesday's (Jan. 7) game against the Lakers."
+                "Update": "Mon, Jan 6, 2025",
+                "Description": "Out (Illness) - Irving has a bulging disc in his back and is expected to miss at least one-to-two weeks, per ESPN's Shams Charania."
             }
         ],
         "team_stats": {
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "12",
                 "FG": "10",
                 "FGA": "18",
                 "FG%": "6",
@@ -115,15 +115,15 @@
                 "3P%": "6",
                 "2P": "10",
                 "2PA": "12",
-                "2P%": "9",
+                "2P%": "10",
                 "FT": "8",
                 "FTA": "6",
                 "FT%": "22",
                 "ORB": "12",
                 "DRB": "9",
                 "TRB": "10",
-                "AST": "19",
-                "STL": "15",
+                "AST": "20",
+                "STL": "16",
                 "BLK": "5",
                 "TOV": "14",
                 "PF": "16",
@@ -206,22 +206,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "12",
                 "FG": "16",
                 "FGA": "23",
                 "FG%": "9",
                 "3P": "5",
                 "3PA": "4",
-                "3P%": "9",
+                "3P%": "10",
                 "2P": "21",
-                "2PA": "27",
-                "2P%": "5",
+                "2PA": "28",
+                "2P%": "6",
                 "FT": "16",
                 "FTA": "19",
                 "FT%": "6",
                 "ORB": "26",
-                "DRB": "9",
-                "TRB": "16",
+                "DRB": "10",
+                "TRB": "17",
                 "AST": "18",
                 "STL": "18",
                 "BLK": "5",
@@ -260,8 +260,8 @@
                 "PW": "24",
                 "PL": "13",
                 "MOV": "4.57",
-                "SOS": "0.02",
-                "SRS": "4.59",
+                "SOS": "0.01",
+                "SRS": "4.58",
                 "ORtg": "116.9",
                 "DRtg": "112.3",
                 "Pace": "99.3",
@@ -277,27 +277,27 @@
             },
             "Misc Lg Rank": {
                 "W": "8",
-                "L": "19",
+                "L": "20",
                 "PW": "7",
                 "PL": "7",
                 "MOV": "7",
-                "SOS": "14",
+                "SOS": "15",
                 "SRS": "7",
                 "ORtg": "5",
-                "DRtg": "13",
-                "Pace": "14",
+                "DRtg": "12",
+                "Pace": "13",
                 "FTr": "8",
                 "3PAr": "19",
-                "eFG%": "7",
-                "TOV%": "23",
-                "ORB%": "12",
+                "eFG%": "6",
+                "TOV%": "22",
+                "ORB%": "11",
                 "FT/FGA": "14",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DAL-2025.png",
-        "last_update": "Jan 08 2025 22:32:16"
+        "last_update": "Jan 09 2025 22:32:15"
     }
 }

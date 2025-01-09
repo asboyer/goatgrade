@@ -31,14 +31,14 @@
             {
                 "Player": "Santi Aldama",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Dec 28, 2024",
-                "Description": "Out (Ankle) - The Grizzlies announced on Saturday (Dec. 28) that Aldama is considered week to week with an ankle sprain."
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (Ankle) - The Grizzlies have listed Aldama as Questionable for Thursday's (Jan. 9) game against the Rockets."
             },
             {
                 "Player": "Desmond Bane",
                 "Team": "Memphis Grizzlies",
-                "Update": "Tue, Jan 7, 2025",
-                "Description": "Day To Day (Ankle) - Bane did not play on Monday's (Jan. 6) game against the Mavericks."
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (Ankle) - The Grizzlies have listed Bane as Questionable for Thursday's (Jan. 9) game against the Rockets."
             },
             {
                 "Player": "GG Jackson II",
@@ -47,10 +47,16 @@
                 "Description": "Out (Foot ) - The Grizzlies announced Jackson continues to progress well from offseason foot surgery and is expected to return to play in 6-8 weeks."
             },
             {
+                "Player": "Jaren Jackson Jr.",
+                "Team": "Memphis Grizzlies",
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (Thigh) - The Grizzlies have listed Jackson Jr. as Questionable for Thursday's (Jan. 9) game against the Rockets."
+            },
+            {
                 "Player": "Ja Morant",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Dec 30, 2024",
-                "Description": "Out (AC Joint) - The Grizzlies announced on Monday (Dec. 30) that Morant is listed as week to week with an AC Joint sprain."
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Day To Day (AC Joint) - The Grizzlies have listed Morant as Questionable for Thursday's (Jan. 9) game against the Rockets."
             },
             {
                 "Player": "Marcus Smart",
@@ -118,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "15",
                 "FG": "3",
                 "FGA": "2",
                 "FG%": "5",
@@ -130,9 +136,9 @@
                 "2P%": "5",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "19",
+                "FT%": "18",
                 "ORB": "3",
-                "DRB": "2",
+                "DRB": "1",
                 "TRB": "2",
                 "AST": "2",
                 "STL": "7",
@@ -218,17 +224,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
-                "FG": "17",
+                "MP": "15",
+                "FG": "18",
                 "FGA": "27",
                 "FG%": "3",
-                "3P": "17",
+                "3P": "16",
                 "3PA": "27",
                 "3P%": "3",
                 "2P": "16",
                 "2PA": "23",
-                "2P%": "6",
-                "FT": "27",
+                "2P%": "7",
+                "FT": "28",
                 "FTA": "28",
                 "FT%": "4",
                 "ORB": "23",
@@ -236,7 +242,7 @@
                 "TRB": "10",
                 "AST": "11",
                 "STL": "22",
-                "BLK": "24",
+                "BLK": "23",
                 "TOV": "5",
                 "PF": "1",
                 "PTS": "21"
@@ -272,7 +278,7 @@
                 "PW": "27",
                 "PL": "10",
                 "MOV": "8.41",
-                "SOS": "-1.46",
+                "SOS": "-1.45",
                 "SRS": "6.95",
                 "ORtg": "116.9",
                 "DRtg": "108.9",
@@ -288,7 +294,7 @@
                 "Attendance": "310,441"
             },
             "Misc Lg Rank": {
-                "W": "4",
+                "W": "5",
                 "L": "25",
                 "PW": "4",
                 "PL": "4",
@@ -298,18 +304,18 @@
                 "ORtg": "6",
                 "DRtg": "4",
                 "Pace": "1",
-                "FTr": "4",
-                "3PAr": "18",
+                "FTr": "3",
+                "3PAr": "17",
                 "eFG%": "3",
                 "TOV%": "7",
                 "ORB%": "2",
-                "FT/FGA": "20",
-                "DRB%": "17",
+                "FT/FGA": "21",
+                "DRB%": "16",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MEM-2025.png",
-        "last_update": "Jan 08 2025 22:32:16"
+        "last_update": "Jan 09 2025 22:32:15"
     }
 }
