@@ -30,14 +30,20 @@
             {
                 "Player": "Miles McBride",
                 "Team": "New York Knicks",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Day To Day (Hamstring) - McBride did not play in Wednesday's (Jan. 8) game against the Raptors."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Day To Day (Hamstring) - The Knicks have listed McBride as Questionable for Friday's (Jan. 10) game against the Thunder."
             },
             {
                 "Player": "Mitchell Robinson",
                 "Team": "New York Knicks",
                 "Update": "Wed, Jan 1, 2025",
                 "Description": "Out (Ankle) - Robinson has yet to begin running full speed but is expected to be cleared for full practice at some point in January, per Ian Begley of SportsNet New York."
+            },
+            {
+                "Player": "Karl-Anthony Towns",
+                "Team": "New York Knicks",
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Day To Day (Knee) - The Knicks have listed Towns as Questionable for Friday's (Jan. 10) game against the Thunder."
             }
         ],
         "team_stats": {
@@ -93,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "6",
                 "FG": "4",
                 "FGA": "20",
                 "FG%": "3",
@@ -193,25 +199,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
-                "FG": "14",
+                "MP": "6",
+                "FG": "13",
                 "FGA": "8",
                 "FG%": "17",
                 "3P": "19",
                 "3PA": "10",
                 "3P%": "25",
-                "2P": "10",
+                "2P": "11",
                 "2PA": "11",
                 "2P%": "12",
                 "FT": "5",
                 "FTA": "5",
-                "FT%": "17",
+                "FT%": "18",
                 "ORB": "7",
                 "DRB": "1",
-                "TRB": "2",
+                "TRB": "1",
                 "AST": "13",
                 "STL": "2",
-                "BLK": "12",
+                "BLK": "11",
                 "TOV": "25",
                 "PF": "13",
                 "PTS": "8"
@@ -247,8 +253,8 @@
                 "PW": "27",
                 "PL": "11",
                 "MOV": "6.89",
-                "SOS": "-1.90",
-                "SRS": "5.00",
+                "SOS": "-1.94",
+                "SRS": "4.95",
                 "ORtg": "120.4",
                 "DRtg": "113.3",
                 "Pace": "96.9",
@@ -264,15 +270,15 @@
             },
             "Misc Lg Rank": {
                 "W": "4",
-                "L": "25",
+                "L": "26",
                 "PW": "5",
-                "PL": "6",
+                "PL": "5",
                 "MOV": "5",
                 "SOS": "30",
                 "SRS": "6",
                 "ORtg": "3",
                 "DRtg": "15",
-                "Pace": "28",
+                "Pace": "27",
                 "FTr": "18",
                 "3PAr": "23",
                 "eFG%": "17",
@@ -281,10 +287,10 @@
                 "FT/FGA": "5",
                 "DRB%": "8",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NYK-2025.png",
-        "last_update": "Jan 09 2025 22:32:15"
+        "last_update": "Jan 10 2025 22:32:13"
     }
 }

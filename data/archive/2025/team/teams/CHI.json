@@ -31,14 +31,14 @@
             {
                 "Player": "Torrey Craig",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Day To Day (Leg) - Craig did not play in Wednesday's (Jan. 8) game against the Pacers."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out (Leg) - The Bulls listed Craig as OUT for Friday's (Jan. 10) game agianst Washington."
             },
             {
                 "Player": "Ayo Dosunmu",
                 "Team": "Chicago Bulls",
-                "Update": "Tue, Jan 7, 2025",
-                "Description": "Out (Achilles) - Head coach Billy Donovan said Monday (Jan.6) that Dosnumu is expected to need at least one more week of rehab before progressing to sprinting, per Cody Westerlund of 670TheScore.com."
+                "Update": "Wed, Jan 8, 2025",
+                "Description": "Out (Achilles) - Head coach Billy Donovan said Wednesday (Jan. 8) that Dosunmu (calf) is ready to begin ramping up his activity, according to Julia Poe of the Chicago Tribune."
             }
         ],
         "team_stats": {
@@ -94,27 +94,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "16",
                 "FG": "5",
-                "FGA": "4",
-                "FG%": "11",
+                "FGA": "3",
+                "FG%": "12",
                 "3P": "3",
                 "3PA": "2",
                 "3P%": "9",
                 "2P": "18",
-                "2PA": "23",
+                "2PA": "22",
                 "2P%": "8",
                 "FT": "29",
                 "FTA": "30",
-                "FT%": "6",
+                "FT%": "7",
                 "ORB": "26",
                 "DRB": "2",
-                "TRB": "9",
+                "TRB": "10",
                 "AST": "5",
                 "STL": "25",
                 "BLK": "23",
                 "TOV": "18",
-                "PF": "9",
+                "PF": "10",
                 "PTS": "5"
             },
             "Year/Year": {
@@ -194,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "16",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "23",
@@ -204,8 +204,8 @@
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "28",
-                "FT": "15",
-                "FTA": "15",
+                "FT": "16",
+                "FTA": "18",
                 "FT%": "11",
                 "ORB": "12",
                 "DRB": "30",
@@ -248,8 +248,8 @@
                 "PW": "15",
                 "PL": "22",
                 "MOV": "-3.57",
-                "SOS": "0.61",
-                "SRS": "-2.96",
+                "SOS": "0.54",
+                "SRS": "-3.02",
                 "ORtg": "112.8",
                 "DRtg": "116.2",
                 "Pace": "104.0",
@@ -282,10 +282,10 @@
                 "FT/FGA": "8",
                 "DRB%": "6",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "6"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHI-2025.png",
-        "last_update": "Jan 09 2025 22:32:15"
+        "last_update": "Jan 10 2025 22:32:13"
     }
 }

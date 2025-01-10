@@ -30,38 +30,38 @@
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Day To Day (Toe) - Drummond did not play in Wednesday's (Jan. 8) game against the Wizards."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out (Toe) - The 76ers have listed Drummond as Out for Friday's (Jan. 10) game against the Pelicans."
             },
             {
                 "Player": "Joel Embiid",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Day To Day (Foot) - Embiid did not play in Wednesday's (Jan. 8) game against the Wizards."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out (Foot) - The 76ers have listed Embiid as Out for Friday's (Jan. 10) game against the Pelicans."
             },
             {
                 "Player": "Paul George",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Day To Day (Groin) - George did not play in Wednesday's (Jan. 8) game against the Wizards."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Day To Day (Groin) - The 76ers have listed George as Probable for Friday's (Jan. 10) game against the Pelicans."
             },
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Day To Day (Hip) - Lowry did not play in Wednesday's (Jan. 8) game against the Wizards."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out (Hip) - The 76ers have listed Lowry as Out for Friday's (Jan. 10) game against the Pelicans."
             },
             {
                 "Player": "KJ Martin",
                 "Team": "Philadelphia 76ers",
-                "Update": "Tue, Dec 31, 2024",
-                "Description": "Out (Foot) - Martin will be re-evaluated in two weeks due to a stress reaction in his left foot, Adam Aaronson of PhillyVoice.com reports."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out (Foot) - Martin is out of his walking boot but has yet to take the court, per Ky Carlin of USA Today. There is no clear timetable yet for his return."
             },
             {
                 "Player": "Jared McCain",
                 "Team": "Philadelphia 76ers",
-                "Update": "Tue, Dec 17, 2024",
-                "Description": "Out (Meniscus) - The 76ers announced on Tuesday (Dec. 17) that McCain underwent successful surgery to repair a lateral meniscus tear and remains out indefinitely, per Tim Bontemps of ESPN.com."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out For Season (Meniscus) - McCain was reviewed Thursday (Jan. 9) by the surgeon who performed surgery on his left knee and is progressing well. The 76ers officially ruled out for the rest of the season, per Kyle Neubeck of AllPHLY.com."
             }
         ],
         "team_stats": {
@@ -117,20 +117,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "28",
                 "FGA": "28",
                 "FG%": "25",
                 "3P": "23",
                 "3PA": "20",
                 "3P%": "25",
-                "2P": "23",
-                "2PA": "19",
-                "2P%": "23",
+                "2P": "24",
+                "2PA": "18",
+                "2P%": "21",
                 "FT": "3",
                 "FTA": "2",
                 "FT%": "17",
-                "ORB": "20",
+                "ORB": "21",
                 "DRB": "30",
                 "TRB": "29",
                 "AST": "30",
@@ -217,27 +217,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "6",
                 "FGA": "3",
                 "FG%": "28",
-                "3P": "11",
+                "3P": "10",
                 "3PA": "9",
                 "3P%": "20",
                 "2P": "8",
                 "2PA": "1",
                 "2P%": "27",
-                "FT": "12",
+                "FT": "13",
                 "FTA": "9",
-                "FT%": "26",
+                "FT%": "25",
                 "ORB": "6",
                 "DRB": "21",
-                "TRB": "13",
-                "AST": "16",
+                "TRB": "14",
+                "AST": "18",
                 "STL": "4",
                 "BLK": "18",
                 "TOV": "2",
-                "PF": "6",
+                "PF": "5",
                 "PTS": "9"
             },
             "Opp Year/Year": {
@@ -271,8 +271,8 @@
                 "PW": "14",
                 "PL": "21",
                 "MOV": "-3.06",
-                "SOS": "-0.33",
-                "SRS": "-3.39",
+                "SOS": "-0.37",
+                "SRS": "-3.43",
                 "ORtg": "110.0",
                 "DRtg": "113.1",
                 "Pace": "96.8",
@@ -292,23 +292,23 @@
                 "PW": "23",
                 "PL": "21",
                 "MOV": "22",
-                "SOS": "19",
+                "SOS": "21",
                 "SRS": "23",
                 "ORtg": "25",
                 "DRtg": "14",
                 "Pace": "29",
                 "FTr": "1",
                 "3PAr": "14",
-                "eFG%": "28",
+                "eFG%": "27",
                 "TOV%": "3",
                 "ORB%": "21",
                 "FT/FGA": "20",
-                "DRB%": "18",
+                "DRB%": "20",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHI-2025.png",
-        "last_update": "Jan 09 2025 22:32:15"
+        "last_update": "Jan 10 2025 22:32:13"
     }
 }

@@ -30,14 +30,26 @@
             {
                 "Player": "Brandon Ingram",
                 "Team": "New Orleans Pelicans",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Day To Day (Ankle) - Ingram did not play in Wednesday's (Jan. 8) game against the Trail Blazers."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out (Ankle) - The Pelicans have listed Ingram as Out for Friday's (Jan. 10) game against the 76ers."
+            },
+            {
+                "Player": "Herbert Jones",
+                "Team": "New Orleans Pelicans",
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out (Shoulder) - The Pelicans have listed Jones as Out for Friday's (Jan. 10) game against the 76ers."
             },
             {
                 "Player": "Trey Murphy III",
                 "Team": "New Orleans Pelicans",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Day To Day (Ankle) - Murphy III did not play in Wednesday's (Jan. 8) game against the Trail Blazers."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out (Ankle) - The Pelicans have listed Murphy III as Out for Friday's (Jan. 10) game against the 76ers."
+            },
+            {
+                "Player": "Dejounte Murray",
+                "Team": "New Orleans Pelicans",
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Day To Day (Elbow) - The Pelicans have listed Murray as Questionable for Friday's (Jan. 10) game against the 76ers."
             },
             {
                 "Player": "Zion Williamson",
@@ -99,27 +111,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "6",
                 "FG": "23",
                 "FGA": "11",
                 "FG%": "29",
                 "3P": "28",
                 "3PA": "25",
                 "3P%": "27",
-                "2P": "16",
+                "2P": "15",
                 "2PA": "4",
                 "2P%": "29",
-                "FT": "19",
+                "FT": "20",
                 "FTA": "18",
-                "FT%": "25",
+                "FT%": "24",
                 "ORB": "5",
                 "DRB": "29",
                 "TRB": "24",
                 "AST": "24",
                 "STL": "5",
-                "BLK": "9",
+                "BLK": "10",
                 "TOV": "17",
-                "PF": "10",
+                "PF": "11",
                 "PTS": "28"
             },
             "Year/Year": {
@@ -199,26 +211,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "6",
                 "FG": "26",
                 "FGA": "18",
                 "FG%": "29",
-                "3P": "26",
+                "3P": "25",
                 "3PA": "20",
                 "3P%": "24",
-                "2P": "25",
-                "2PA": "16",
+                "2P": "26",
+                "2PA": "15",
                 "2P%": "30",
                 "FT": "8",
                 "FTA": "7",
-                "FT%": "24",
-                "ORB": "27",
+                "FT%": "23",
+                "ORB": "25",
                 "DRB": "23",
                 "TRB": "26",
                 "AST": "25",
                 "STL": "21",
                 "BLK": "21",
-                "TOV": "11",
+                "TOV": "12",
                 "PF": "27",
                 "PTS": "25"
             },
@@ -277,20 +289,20 @@
                 "SOS": "8",
                 "SRS": "29",
                 "ORtg": "28",
-                "DRtg": "28",
-                "Pace": "18",
-                "FTr": "20",
+                "DRtg": "27",
+                "Pace": "17",
+                "FTr": "22",
                 "3PAr": "28",
                 "eFG%": "29",
                 "TOV%": "14",
                 "ORB%": "7",
-                "FT/FGA": "9",
+                "FT/FGA": "10",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NOP-2025.png",
-        "last_update": "Jan 09 2025 22:32:15"
+        "last_update": "Jan 10 2025 22:32:13"
     }
 }

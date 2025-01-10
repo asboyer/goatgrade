@@ -2,7 +2,7 @@
     "IND": {
         "info": {
             "record": "20-18",
-            "standing": "6th in East",
+            "standing": "7th in East",
             "coach": "Rick Carlisle (20-18)",
             "gm": "Kevin Pritchard",
             "preseason_odds": "+5000"
@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Tyrese Haliburton",
+                "Team": "Indiana Pacers",
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Day To Day (Ankle) - The Pacers listed Haliburton as questionable for Friday's (Jan. 10) game against Golden State."
+            },
+            {
                 "Player": "Isaiah Jackson",
                 "Team": "Indiana Pacers",
                 "Update": "Sat, Nov 2, 2024",
@@ -43,8 +49,8 @@
             {
                 "Player": "Myles Turner",
                 "Team": "Indiana Pacers",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Day To Day (Illness) - Turner did not play in Wednesday's (Jan. 8) game against the Bulls."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Day To Day (Illness) - The Pacers listed Turner as questionable for Friday's (Jan. 10) game against Golden State."
             },
             {
                 "Player": "James Wiseman",
@@ -106,14 +112,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "4",
                 "FG": "7",
                 "FGA": "19",
                 "FG%": "4",
                 "3P": "19",
                 "3PA": "27",
                 "3P%": "8",
-                "2P": "4",
+                "2P": "5",
                 "2PA": "8",
                 "2P%": "4",
                 "FT": "17",
@@ -206,27 +212,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "4",
                 "FG": "23",
                 "FGA": "15",
                 "FG%": "24",
                 "3P": "8",
                 "3PA": "8",
-                "3P%": "17",
+                "3P%": "18",
                 "2P": "24",
                 "2PA": "20",
                 "2P%": "23",
-                "FT": "25",
+                "FT": "24",
                 "FTA": "25",
                 "FT%": "10",
                 "ORB": "16",
                 "DRB": "16",
-                "TRB": "15",
+                "TRB": "16",
                 "AST": "14",
                 "STL": "8",
-                "BLK": "7",
+                "BLK": "8",
                 "TOV": "19",
-                "PF": "21",
+                "PF": "20",
                 "PTS": "22"
             },
             "Opp Year/Year": {
@@ -260,8 +266,8 @@
                 "PW": "19",
                 "PL": "19",
                 "MOV": "-0.39",
-                "SOS": "-0.57",
-                "SRS": "-0.96",
+                "SOS": "-0.60",
+                "SRS": "-0.99",
                 "ORtg": "115.6",
                 "DRtg": "115.9",
                 "Pace": "99.5",
@@ -277,11 +283,11 @@
             },
             "Misc Lg Rank": {
                 "W": "10",
-                "L": "13",
+                "L": "15",
                 "PW": "16",
                 "PL": "17",
                 "MOV": "16",
-                "SOS": "24",
+                "SOS": "23",
                 "SRS": "17",
                 "ORtg": "9",
                 "DRtg": "21",
@@ -298,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/IND-2025.png",
-        "last_update": "Jan 09 2025 22:32:15"
+        "last_update": "Jan 10 2025 22:32:13"
     }
 }

@@ -31,14 +31,14 @@
             {
                 "Player": "Bojan Bogdanović",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Day To Day (Foot) - Bogdanovic did not play in Wednesday's (Jan. 8) game against the Nets."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out (Foot) - The Nets have listed Bogdanovic as Out for Friday's (Jan. 10) game against the Nuggets."
             },
             {
                 "Player": "Cameron Johnson",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Jan 4, 2025",
-                "Description": "Out (Ankle) - The Nets announced Saturday (Jan. 4) that Johnson sustained a right ankle sprain in Thursday's 113-110 win over the Bucks and is set to miss the team's next three games"
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out (Ankle) - The Nets have listed Johnson as Out for Friday's (Jan. 10) game against the Nuggets."
             },
             {
                 "Player": "Maxwell Lewis",
@@ -55,14 +55,14 @@
             {
                 "Player": "Dariq Whitehead",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Day To Day (Concussion) - Whitehead did not play in Wednesday's (Jan. 8) game against the Nets."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out (Concussion) - The Nets have listed Whitehead as Out for Friday's (Jan. 10) game against the Nuggets."
             },
             {
                 "Player": "D'Angelo Russell",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Day To Day (Calf) - Russell did not play in Wednesday's (Jan. 8) game against the Nets."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out (Calf) - The Nets have listed Russell as Out for Friday's (Jan. 10) game against the Nuggets."
             },
             {
                 "Player": "Day'Ron Sharpe",
@@ -142,13 +142,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
-                "FG": "30",
+                "MP": "13",
+                "FG": "29",
                 "FGA": "30",
                 "FG%": "24",
                 "3P": "7",
                 "3PA": "8",
-                "3P%": "15",
+                "3P%": "13",
                 "2P": "29",
                 "2PA": "29",
                 "2P%": "26",
@@ -162,7 +162,7 @@
                 "STL": "29",
                 "BLK": "30",
                 "TOV": "20",
-                "PF": "29",
+                "PF": "28",
                 "PTS": "27"
             },
             "Year/Year": {
@@ -242,11 +242,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
-                "FG": "13",
+                "MP": "13",
+                "FG": "12",
                 "FGA": "2",
                 "FG%": "30",
-                "3P": "16",
+                "3P": "17",
                 "3PA": "3",
                 "3P%": "28",
                 "2P": "12",
@@ -254,7 +254,7 @@
                 "2P%": "29",
                 "FT": "27",
                 "FTA": "27",
-                "FT%": "7",
+                "FT%": "6",
                 "ORB": "2",
                 "DRB": "15",
                 "TRB": "5",
@@ -296,8 +296,8 @@
                 "PW": "12",
                 "PL": "25",
                 "MOV": "-6.22",
-                "SOS": "0.85",
-                "SRS": "-5.36",
+                "SOS": "0.78",
+                "SRS": "-5.44",
                 "ORtg": "110.0",
                 "DRtg": "116.4",
                 "Pace": "96.9",
@@ -322,7 +322,7 @@
                 "ORtg": "24",
                 "DRtg": "24",
                 "Pace": "26",
-                "FTr": "12",
+                "FTr": "13",
                 "3PAr": "5",
                 "eFG%": "30",
                 "TOV%": "6",
@@ -334,6 +334,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BRK-2025.png",
-        "last_update": "Jan 09 2025 22:32:15"
+        "last_update": "Jan 10 2025 22:32:13"
     }
 }

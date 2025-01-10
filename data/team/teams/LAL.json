@@ -31,25 +31,25 @@
             {
                 "Player": "Anthony Davis",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Jan 8, 2025",
+                "Update": "Thu, Jan 9, 2025",
                 "Description": "Day To Day (Foot) - The Lakers have listed Davis as Probable for Thursday's (Jan. 9) game against the Hornets."
             },
             {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Jan 8, 2025",
+                "Update": "Thu, Jan 9, 2025",
                 "Description": "Out (Hamstring) - The Lakers have listed Hood-Schifino as Out for Thursday's (Jan. 9) game against the Hornets."
             },
             {
                 "Player": "LeBron James",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Jan 8, 2025",
+                "Update": "Thu, Jan 9, 2025",
                 "Description": "Day To Day (Foot) - The Lakers have listed James as Probable for Thursday's (Jan. 9) game against the Hornets."
             },
             {
                 "Player": "Cam Reddish",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Jan 8, 2025",
+                "Update": "Thu, Jan 9, 2025",
                 "Description": "Day To Day (Back) - The Lakers have listed Reddish as Questionable for Thursday's (Jan. 9) game against the Hornets."
             },
             {
@@ -61,7 +61,7 @@
             {
                 "Player": "Christian Wood",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Jan 8, 2025",
+                "Update": "Thu, Jan 9, 2025",
                 "Description": "Out (Knee) - The Lakers listed Wood as Out for Thursday's (Jan. 9) game against the Hornets."
             }
         ],
@@ -118,16 +118,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "24",
                 "FG": "17",
                 "FGA": "25",
                 "FG%": "9",
-                "3P": "26",
+                "3P": "27",
                 "3PA": "28",
-                "3P%": "18",
+                "3P%": "19",
                 "2P": "12",
                 "2PA": "14",
-                "2P%": "12",
+                "2P%": "11",
                 "FT": "2",
                 "FTA": "4",
                 "FT%": "10",
@@ -218,20 +218,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "24",
                 "FG": "24",
                 "FGA": "22",
-                "FG%": "25",
+                "FG%": "26",
                 "3P": "13",
                 "3PA": "11",
-                "3P%": "18",
+                "3P%": "19",
                 "2P": "28",
-                "2PA": "25",
+                "2PA": "24",
                 "2P%": "22",
                 "FT": "4",
                 "FTA": "4",
                 "FT%": "19",
-                "ORB": "19",
+                "ORB": "20",
                 "DRB": "17",
                 "TRB": "18",
                 "AST": "24",
@@ -239,7 +239,7 @@
                 "BLK": "3",
                 "TOV": "22",
                 "PF": "3",
-                "PTS": "20"
+                "PTS": "19"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -272,8 +272,8 @@
                 "PW": "16",
                 "PL": "20",
                 "MOV": "-2.14",
-                "SOS": "0.29",
-                "SRS": "-1.85",
+                "SOS": "0.32",
+                "SRS": "-1.82",
                 "ORtg": "113.9",
                 "DRtg": "116.1",
                 "Pace": "97.9",
@@ -289,10 +289,10 @@
             },
             "Misc Lg Rank": {
                 "W": "10",
-                "L": "20",
-                "PW": "20",
-                "PL": "20",
-                "MOV": "19",
+                "L": "21",
+                "PW": "21",
+                "PL": "19",
+                "MOV": "20",
                 "SOS": "11",
                 "SRS": "19",
                 "ORtg": "11",
@@ -306,10 +306,10 @@
                 "FT/FGA": "3",
                 "DRB%": "25",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAL-2025.png",
-        "last_update": "Jan 09 2025 22:32:15"
+        "last_update": "Jan 10 2025 22:32:13"
     }
 }

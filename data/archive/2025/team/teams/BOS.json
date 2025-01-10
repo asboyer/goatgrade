@@ -28,10 +28,22 @@
         ],
         "injuries": [
             {
+                "Player": "Drew Peterson",
+                "Team": "Boston Celtics",
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out (Concussion) - The Celtics have listed Peterson as Out for Friday's (Jan. 10) game against the Kings."
+            },
+            {
                 "Player": "Jordan Walsh",
                 "Team": "Boston Celtics",
                 "Update": "Tue, Jan 7, 2025",
                 "Description": "Day To Day (Illness) - Walsh did not play in Tuesday's (Jan. 7) game against the Nuggets."
+            },
+            {
+                "Player": "Jordan Walsh",
+                "Team": "Boston Celtics",
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Day To Day (Illness) - The Celtics have listed Walsh as Questionable for Friday's (Jan. 10) game against the Kings."
             },
             {
                 "Player": "Derrick White",
@@ -93,13 +105,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "11",
+                "MP": "11",
+                "FG": "12",
                 "FGA": "7",
                 "FG%": "17",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "14",
+                "3P%": "12",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "2",
@@ -107,8 +119,8 @@
                 "FTA": "19",
                 "FT%": "9",
                 "ORB": "13",
-                "DRB": "8",
-                "TRB": "10",
+                "DRB": "7",
+                "TRB": "11",
                 "AST": "17",
                 "STL": "21",
                 "BLK": "6",
@@ -193,22 +205,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "12",
+                "MP": "11",
+                "FG": "11",
                 "FGA": "21",
-                "FG%": "6",
-                "3P": "6",
+                "FG%": "5",
+                "3P": "5",
                 "3PA": "5",
-                "3P%": "11",
+                "3P%": "10",
                 "2P": "18",
                 "2PA": "26",
-                "2P%": "4",
+                "2P%": "3",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "27",
+                "FT%": "26",
                 "ORB": "8",
                 "DRB": "19",
-                "TRB": "14",
+                "TRB": "15",
                 "AST": "3",
                 "STL": "3",
                 "BLK": "4",
@@ -247,8 +259,8 @@
                 "PW": "29",
                 "PL": "8",
                 "MOV": "10.24",
-                "SOS": "-0.71",
-                "SRS": "9.53",
+                "SOS": "-0.74",
+                "SRS": "9.50",
                 "ORtg": "120.7",
                 "DRtg": "110.3",
                 "Pace": "97.4",
@@ -281,10 +293,10 @@
                 "FT/FGA": "2",
                 "DRB%": "7",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BOS-2025.png",
-        "last_update": "Jan 09 2025 22:32:15"
+        "last_update": "Jan 10 2025 22:32:13"
     }
 }
