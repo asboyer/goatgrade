@@ -2,7 +2,7 @@
     "SAS": {
         "info": {
             "record": "18-19",
-            "standing": "10th in West",
+            "standing": "11th in West",
             "coach": "Gregg Popovich (18-19)",
             "gm": "Brian Wright",
             "preseason_odds": "+10000"
@@ -31,8 +31,8 @@
             {
                 "Player": "Jeremy Sochan",
                 "Team": "San Antonio Spurs",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Day To Day (Back) - Sochan did not play in Wednesday's (Jan. 8) game against the Bucks."
+                "Update": "Fri, Jan 10, 2025",
+                "Description": "Day To Day (Back) - The Spurs have listed Sochan as Questionable for Saturday's (Jan. 11) game against the Lakers."
             }
         ],
         "team_stats": {
@@ -88,7 +88,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "17",
                 "FG": "20",
                 "FGA": "17",
                 "FG%": "21",
@@ -100,16 +100,16 @@
                 "2P%": "15",
                 "FT": "13",
                 "FTA": "14",
-                "FT%": "8",
+                "FT%": "7",
                 "ORB": "12",
                 "DRB": "4",
                 "TRB": "5",
-                "AST": "8",
+                "AST": "7",
                 "STL": "27",
                 "BLK": "1",
                 "TOV": "16",
                 "PF": "3",
-                "PTS": "18"
+                "PTS": "17"
             },
             "Year/Year": {
                 "G": "",
@@ -188,12 +188,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "17",
                 "FG": "20",
                 "FGA": "26",
                 "FG%": "6",
                 "3P": "11",
-                "3PA": "17",
+                "3PA": "19",
                 "3P%": "8",
                 "2P": "23",
                 "2PA": "29",
@@ -201,13 +201,13 @@
                 "FT": "2",
                 "FTA": "3",
                 "FT%": "22",
-                "ORB": "23",
+                "ORB": "24",
                 "DRB": "24",
-                "TRB": "25",
+                "TRB": "26",
                 "AST": "9",
                 "STL": "19",
                 "BLK": "9",
-                "TOV": "26",
+                "TOV": "27",
                 "PF": "21",
                 "PTS": "13"
             },
@@ -242,8 +242,8 @@
                 "PW": "18",
                 "PL": "19",
                 "MOV": "-0.51",
-                "SOS": "-0.29",
-                "SRS": "-0.80",
+                "SOS": "-0.17",
+                "SRS": "-0.68",
                 "ORtg": "112.0",
                 "DRtg": "112.5",
                 "Pace": "98.8",
@@ -258,28 +258,28 @@
                 "Attendance": "356,473"
             },
             "Misc Lg Rank": {
-                "W": "19",
+                "W": "20",
                 "L": "10",
                 "PW": "17",
                 "PL": "16",
                 "MOV": "17",
-                "SOS": "19",
+                "SOS": "18",
                 "SRS": "16",
                 "ORtg": "18",
                 "DRtg": "13",
                 "Pace": "16",
-                "FTr": "16",
-                "3PAr": "7",
+                "FTr": "15",
+                "3PAr": "6",
                 "eFG%": "6",
                 "TOV%": "26",
-                "ORB%": "16",
-                "FT/FGA": "1",
-                "DRB%": "21",
+                "ORB%": "17",
+                "FT/FGA": "2",
+                "DRB%": "22",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/SAS-2025.png",
-        "last_update": "Jan 10 2025 22:32:13"
+        "last_update": "Jan 11 2025 22:32:16"
     }
 }

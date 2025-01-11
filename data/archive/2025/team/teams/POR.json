@@ -29,16 +29,22 @@
         ],
         "injuries": [
             {
+                "Player": "Deandre Ayton",
+                "Team": "Portland Trail Blazers",
+                "Update": "Fri, Jan 10, 2025",
+                "Description": "Day To Day (Calf) - The Trail Blazers have listed Ayton as Questionable for Saturday's (Jan. 11) game against the Heat."
+            },
+            {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Thu, Jan 9, 2025",
-                "Description": "Day To Day (Face) - Grant did not play in Thursday's (Jan. 9) game against the Mavericks."
+                "Update": "Fri, Jan 10, 2025",
+                "Description": "Out (Face) - The Trail Blazers have listed Grant as Out for Saturday's (Jan. 11) game against the Heat."
             },
             {
                 "Player": "Matisse Thybulle",
                 "Team": "Portland Trail Blazers",
-                "Update": "Thu, Jan 9, 2025",
-                "Description": "Day To Day (Ankle) - Thybulle did not play in Thursday's (Jan. 9) game against the Mavericks."
+                "Update": "Fri, Jan 10, 2025",
+                "Description": "Out (Ankle) - The Trail Blazers have listed Thybulle as Out for Saturday's (Jan. 11) game against the Heat."
             },
             {
                 "Player": "Robert Williams",
@@ -100,13 +106,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "20",
                 "FG": "19",
                 "FGA": "15",
                 "FG%": "22",
                 "3P": "24",
-                "3PA": "21",
-                "3P%": "26",
+                "3PA": "22",
+                "3P%": "27",
                 "2P": "13",
                 "2PA": "10",
                 "2P%": "22",
@@ -118,9 +124,9 @@
                 "TRB": "22",
                 "AST": "28",
                 "STL": "15",
-                "BLK": "6",
+                "BLK": "7",
                 "TOV": "26",
-                "PF": "18",
+                "PF": "19",
                 "PTS": "25"
             },
             "Year/Year": {
@@ -200,23 +206,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "20",
                 "FG": "21",
                 "FGA": "12",
                 "FG%": "27",
                 "3P": "22",
                 "3PA": "12",
-                "3P%": "26",
+                "3P%": "27",
                 "2P": "22",
-                "2PA": "16",
+                "2PA": "15",
                 "2P%": "20",
                 "FT": "26",
                 "FTA": "24",
-                "FT%": "28",
+                "FT%": "27",
                 "ORB": "28",
                 "DRB": "10",
                 "TRB": "22",
-                "AST": "23",
+                "AST": "22",
                 "STL": "27",
                 "BLK": "29",
                 "TOV": "9",
@@ -254,8 +260,8 @@
                 "PW": "10",
                 "PL": "27",
                 "MOV": "-7.89",
-                "SOS": "0.46",
-                "SRS": "-7.43",
+                "SOS": "0.59",
+                "SRS": "-7.30",
                 "ORtg": "109.5",
                 "DRtg": "117.5",
                 "Pace": "99.1",
@@ -271,11 +277,11 @@
             },
             "Misc Lg Rank": {
                 "W": "24",
-                "L": "6",
+                "L": "7",
                 "PW": "28",
                 "PL": "27",
                 "MOV": "27",
-                "SOS": "10",
+                "SOS": "7",
                 "SRS": "28",
                 "ORtg": "26",
                 "DRtg": "26",
@@ -288,10 +294,10 @@
                 "FT/FGA": "25",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "29"
+                "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/POR-2025.png",
-        "last_update": "Jan 10 2025 22:32:13"
+        "last_update": "Jan 11 2025 22:32:16"
     }
 }

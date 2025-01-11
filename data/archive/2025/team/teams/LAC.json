@@ -35,6 +35,12 @@
                 "Description": "Day To Day (Personal) - Leonard did not play in Wednesday's (Jan. 8) game against the Nuggets."
             },
             {
+                "Player": "Jordan Miller",
+                "Team": "Los Angeles Clippers",
+                "Update": "Fri, Jan 10, 2025",
+                "Description": "Day To Day (Hip) - The Clippers have listed Miller as Questionable for Saturday's (Jan. 11) game against the Hornets."
+            },
+            {
                 "Player": "P.J. Tucker",
                 "Team": "Los Angeles Clippers",
                 "Update": "Sun, Oct 6, 2024",
@@ -94,20 +100,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
-                "FG": "22",
+                "MP": "19",
+                "FG": "23",
                 "FGA": "24",
                 "FG%": "16",
-                "3P": "20",
+                "3P": "21",
                 "3PA": "26",
-                "3P%": "16",
+                "3P%": "15",
                 "2P": "17",
                 "2PA": "16",
                 "2P%": "20",
-                "FT": "15",
+                "FT": "16",
                 "FTA": "13",
                 "FT%": "16",
-                "ORB": "17",
+                "ORB": "18",
                 "DRB": "18",
                 "TRB": "15",
                 "AST": "25",
@@ -194,11 +200,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "19",
                 "FG": "4",
                 "FGA": "5",
                 "FG%": "12",
-                "3P": "7",
+                "3P": "6",
                 "3PA": "14",
                 "3P%": "5",
                 "2P": "6",
@@ -212,10 +218,10 @@
                 "TRB": "6",
                 "AST": "7",
                 "STL": "29",
-                "BLK": "13",
+                "BLK": "12",
                 "TOV": "6",
-                "PF": "26",
-                "PTS": "6"
+                "PF": "25",
+                "PTS": "5"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -248,8 +254,8 @@
                 "PW": "19",
                 "PL": "18",
                 "MOV": "0.51",
-                "SOS": "1.10",
-                "SRS": "1.61",
+                "SOS": "1.15",
+                "SRS": "1.67",
                 "ORtg": "110.4",
                 "DRtg": "109.8",
                 "Pace": "98.4",
@@ -264,11 +270,11 @@
                 "Attendance": "296,543"
             },
             "Misc Lg Rank": {
-                "W": "10",
-                "L": "17",
-                "PW": "15",
-                "PL": "15",
-                "MOV": "15",
+                "W": "11",
+                "L": "18",
+                "PW": "16",
+                "PL": "13",
+                "MOV": "14",
                 "SOS": "4",
                 "SRS": "11",
                 "ORtg": "23",
@@ -278,7 +284,7 @@
                 "3PAr": "21",
                 "eFG%": "13",
                 "TOV%": "5",
-                "ORB%": "15",
+                "ORB%": "16",
                 "FT/FGA": "15",
                 "DRB%": "3",
                 "Arena": "",
@@ -286,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAC-2025.png",
-        "last_update": "Jan 10 2025 22:32:13"
+        "last_update": "Jan 11 2025 22:32:16"
     }
 }

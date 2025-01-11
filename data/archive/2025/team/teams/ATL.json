@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Bogdan Bogdanović",
+                "Team": "Atlanta Hawks",
+                "Update": "Fri, Jan 10, 2025",
+                "Description": "Day To Day (Knee) - The Hawks have listed Bogdanovic as Questionable for Saturday's (Jan. 11) game against the Rockets."
+            },
+            {
                 "Player": "Kobe Bufkin",
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Dec 18, 2024",
@@ -37,8 +43,8 @@
             {
                 "Player": "Jalen Johnson",
                 "Team": "Atlanta Hawks",
-                "Update": "Thu, Jan 9, 2025",
-                "Description": "Day To Day (Shoulder) - Johnson did not play in Thursday's (Jan. 9) game against the Suns."
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Out (Shoulder) - The Hawks have listed Johnson as Out for Saturday's (Jan. 11) game against the Rockets."
             },
             {
                 "Player": "Larry Nance Jr.",
@@ -47,10 +53,16 @@
                 "Description": "Out (Hand) - Nance underwent surgery Thursday (Jan. 2) to repair the fractured fourth metacarpal bone in his right hand and will be re-evaluated in two weeks, per Brad Rowland of the Locked On Podcast Network."
             },
             {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Fri, Jan 10, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks have listed Young as Probable for Saturday's (Jan. 11) game against the Rockets."
+            },
+            {
                 "Player": "Cody Zeller",
                 "Team": "Atlanta Hawks",
-                "Update": "Thu, Jan 9, 2025",
-                "Description": "Day To Day (Personal) - Zeller did not play in Thursday's (Jan. 9) game against the Suns."
+                "Update": "Fri, Jan 10, 2025",
+                "Description": "Out (Personal) - The Hawks have listed Zeller as Out for Saturday's (Jan. 11) game against the Rockets."
             }
         ],
         "team_stats": {
@@ -106,14 +118,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "9",
                 "FG": "9",
                 "FGA": "4",
                 "FG%": "15",
-                "3P": "18",
+                "3P": "17",
                 "3PA": "18",
                 "3P%": "18",
-                "2P": "7",
+                "2P": "8",
                 "2PA": "5",
                 "2P%": "17",
                 "FT": "4",
@@ -121,7 +133,7 @@
                 "FT%": "11",
                 "ORB": "8",
                 "DRB": "21",
-                "TRB": "9",
+                "TRB": "10",
                 "AST": "3",
                 "STL": "2",
                 "BLK": "11",
@@ -206,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "9",
                 "FG": "28",
                 "FGA": "25",
                 "FG%": "25",
@@ -216,14 +228,14 @@
                 "2P": "21",
                 "2PA": "18",
                 "2P%": "18",
-                "FT": "17",
+                "FT": "18",
                 "FTA": "13",
                 "FT%": "21",
-                "ORB": "14",
+                "ORB": "13",
                 "DRB": "20",
                 "TRB": "21",
                 "AST": "28",
-                "STL": "25",
+                "STL": "24",
                 "BLK": "19",
                 "TOV": "4",
                 "PF": "6",
@@ -261,7 +273,7 @@
                 "PL": "22",
                 "MOV": "-2.61",
                 "SOS": "-0.40",
-                "SRS": "-3.00",
+                "SRS": "-3.01",
                 "ORtg": "112.6",
                 "DRtg": "115.1",
                 "Pace": "103.5",
@@ -276,13 +288,13 @@
                 "Attendance": "280,524"
             },
             "Misc Lg Rank": {
-                "W": "14",
+                "W": "15",
                 "L": "10",
-                "PW": "19",
-                "PL": "22",
+                "PW": "20",
+                "PL": "23",
                 "MOV": "21",
-                "SOS": "22",
-                "SRS": "21",
+                "SOS": "21",
+                "SRS": "22",
                 "ORtg": "16",
                 "DRtg": "20",
                 "Pace": "3",
@@ -294,10 +306,10 @@
                 "FT/FGA": "12",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "28"
+                "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ATL-2025.png",
-        "last_update": "Jan 10 2025 22:32:13"
+        "last_update": "Jan 11 2025 22:32:16"
     }
 }

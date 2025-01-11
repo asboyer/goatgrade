@@ -30,8 +30,8 @@
             {
                 "Player": "Royce O'Neale",
                 "Team": "Phoenix Suns",
-                "Update": "Tue, Dec 31, 2024",
-                "Description": "Out (Ankle) - The Suns announced Tuesday (Dec. 31) that O'Neale will be re-evaluated in 10 days after being diagnosed with a left ankle sprain, per Shane Young of Forbes.com."
+                "Update": "Fri, Jan 10, 2025",
+                "Description": "Day To Day (Ankle) - The Suns have listed O'Neale as Doubtful for Saturday's (Jan. 11) game against the Jazz."
             }
         ],
         "team_stats": {
@@ -87,26 +87,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "21",
-                "FGA": "27",
-                "FG%": "10",
+                "FGA": "28",
+                "FG%": "12",
                 "3P": "10",
-                "3PA": "14",
-                "3P%": "6",
+                "3PA": "13",
+                "3P%": "5",
                 "2P": "22",
                 "2PA": "26",
                 "2P%": "14",
-                "FT": "11",
-                "FTA": "12",
+                "FT": "10",
+                "FTA": "11",
                 "FT%": "5",
                 "ORB": "28",
                 "DRB": "19",
                 "TRB": "25",
-                "AST": "11",
+                "AST": "10",
                 "STL": "24",
                 "BLK": "14",
-                "TOV": "10",
+                "TOV": "11",
                 "PF": "6",
                 "PTS": "14"
             },
@@ -187,10 +187,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "19",
                 "FGA": "17",
-                "FG%": "16",
+                "FG%": "17",
                 "3P": "21",
                 "3PA": "15",
                 "3P%": "22",
@@ -198,15 +198,15 @@
                 "2PA": "19",
                 "2P%": "16",
                 "FT": "20",
-                "FTA": "17",
+                "FTA": "18",
                 "FT%": "24",
                 "ORB": "19",
                 "DRB": "18",
-                "TRB": "18",
+                "TRB": "17",
                 "AST": "20",
-                "STL": "13",
-                "BLK": "6",
-                "TOV": "28",
+                "STL": "12",
+                "BLK": "7",
+                "TOV": "29",
                 "PF": "9",
                 "PTS": "19"
             },
@@ -241,8 +241,8 @@
                 "PW": "16",
                 "PL": "20",
                 "MOV": "-1.89",
-                "SOS": "-0.20",
-                "SRS": "-2.09",
+                "SOS": "-0.15",
+                "SRS": "-2.03",
                 "ORtg": "114.6",
                 "DRtg": "116.6",
                 "Pace": "97.2",
@@ -257,9 +257,9 @@
                 "Attendance": "324,349"
             },
             "Misc Lg Rank": {
-                "W": "21",
+                "W": "22",
                 "L": "10",
-                "PW": "20",
+                "PW": "21",
                 "PL": "18",
                 "MOV": "19",
                 "SOS": "17",
@@ -275,10 +275,10 @@
                 "FT/FGA": "19",
                 "DRB%": "18",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHO-2025.png",
-        "last_update": "Jan 10 2025 22:32:13"
+        "last_update": "Jan 11 2025 22:32:16"
     }
 }

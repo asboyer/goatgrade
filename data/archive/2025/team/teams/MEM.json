@@ -31,20 +31,20 @@
             {
                 "Player": "GG Jackson II",
                 "Team": "Memphis Grizzlies",
-                "Update": "Thu, Dec 5, 2024",
-                "Description": "Out (Foot ) - The Grizzlies announced Jackson continues to progress well from offseason foot surgery and is expected to return to play in 6-8 weeks."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out (Foot ) - The Grizzlies assigned Jackson to the G League's Memphis Hustle on Thursday (Jan. 9). There is no clear timetable yet for his return."
             },
             {
                 "Player": "Marcus Smart",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Dec 28, 2024",
-                "Description": "Out (Finger) - The Grizzlies announced Smart will be re-evaluated in two weeks with a finger injury."
+                "Update": "Fri, Jan 10, 2025",
+                "Description": "Out (Finger) - The Grizzlies announced that Smart remains week-to-week while rehabbing an injury to his right index finger."
             },
             {
                 "Player": "Cam Spencer",
                 "Team": "Memphis Grizzlies",
-                "Update": "Thu, Jan 9, 2025",
-                "Description": "Day To Day (Thumb) - Spencer did not play in Thursday's (Jan. 9) game against the Rockets."
+                "Update": "Fri, Jan 10, 2025",
+                "Description": "Out (Thumb) - The Grizzlies announced that Spencer suffered a fractured thumb and will be re-evaluated in three weeks."
             },
             {
                 "Player": "Vince Williams Jr.",
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "14",
                 "FG": "3",
                 "FGA": "2",
                 "FG%": "5",
@@ -120,13 +120,13 @@
                 "FTA": "1",
                 "FT%": "21",
                 "ORB": "3",
-                "DRB": "1",
+                "DRB": "2",
                 "TRB": "2",
                 "AST": "2",
                 "STL": "7",
                 "BLK": "3",
                 "TOV": "29",
-                "PF": "29",
+                "PF": "28",
                 "PTS": "2"
             },
             "Year/Year": {
@@ -206,24 +206,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "14",
                 "FG": "18",
                 "FGA": "27",
                 "FG%": "2",
-                "3P": "16",
+                "3P": "17",
                 "3PA": "27",
                 "3P%": "4",
                 "2P": "16",
                 "2PA": "25",
-                "2P%": "6",
+                "2P%": "7",
                 "FT": "28",
                 "FTA": "29",
-                "FT%": "3",
+                "FT%": "2",
                 "ORB": "26",
                 "DRB": "3",
                 "TRB": "10",
                 "AST": "10",
-                "STL": "25",
+                "STL": "24",
                 "BLK": "22",
                 "TOV": "5",
                 "PF": "1",
@@ -260,8 +260,8 @@
                 "PW": "27",
                 "PL": "11",
                 "MOV": "8.08",
-                "SOS": "-1.26",
-                "SRS": "6.82",
+                "SOS": "-1.25",
+                "SRS": "6.83",
                 "ORtg": "116.7",
                 "DRtg": "109.0",
                 "Pace": "105.3",
@@ -291,13 +291,13 @@
                 "eFG%": "3",
                 "TOV%": "9",
                 "ORB%": "2",
-                "FT/FGA": "22",
+                "FT/FGA": "23",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MEM-2025.png",
-        "last_update": "Jan 10 2025 22:32:13"
+        "last_update": "Jan 11 2025 22:32:16"
     }
 }
