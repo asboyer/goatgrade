@@ -31,14 +31,14 @@
             {
                 "Player": "Bojan Bogdanović",
                 "Team": "Brooklyn Nets",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Foot) - Bogdanovic did not play in Friday's (Jan. 10) game against the Nuggets."
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Out (Foot) - The Nets have listed Bogdanovic as Out for Sunday's (Jan. 12) game against the Jazz."
             },
             {
                 "Player": "Cameron Johnson",
                 "Team": "Brooklyn Nets",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Ankle) - Johnson did not play in Friday's (Jan. 10) game against the Nuggets."
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Out (Ankle) - The Nets have listed Johnson as Out for Sunday's (Jan. 12) game against the Jazz."
             },
             {
                 "Player": "Maxwell Lewis",
@@ -55,14 +55,14 @@
             {
                 "Player": "Dariq Whitehead",
                 "Team": "Brooklyn Nets",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Concussion) - Whitehead did not play in Friday's (Jan. 10) game against the Nuggets."
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Day To Day (Concussion) - The Nets have listed Whitehead as Questionable for Sunday's (Jan. 12) game against the Jazz."
             },
             {
                 "Player": "D'Angelo Russell",
                 "Team": "Brooklyn Nets",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Calf) - Russell did not play in Friday's (Jan. 10) game against the Nuggets."
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Out (Calf) - The Nets have listed Russell as Out for Sunday's (Jan. 12) game against the Jazz."
             },
             {
                 "Player": "Cam Thomas",
@@ -73,8 +73,8 @@
             {
                 "Player": "Trendon Watford",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Jan 4, 2025",
-                "Description": "Out (Hamstring) - The Nets announced Saturday that Watford has resumed individual on-court workouts, and his status will be updated in one week."
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Out (Hamstring) - The Nets have listed Watford as Out for Sunday's (Jan. 12) game against the Jazz."
             }
         ],
         "team_stats": {
@@ -130,7 +130,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "10",
                 "FG": "29",
                 "FGA": "30",
                 "FG%": "25",
@@ -143,14 +143,14 @@
                 "FT": "15",
                 "FTA": "21",
                 "FT%": "2",
-                "ORB": "27",
+                "ORB": "28",
                 "DRB": "28",
                 "TRB": "30",
                 "AST": "18",
                 "STL": "28",
                 "BLK": "30",
                 "TOV": "20",
-                "PF": "28",
+                "PF": "29",
                 "PTS": "28"
             },
             "Year/Year": {
@@ -230,26 +230,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "10",
                 "FG": "13",
                 "FGA": "2",
                 "FG%": "30",
                 "3P": "14",
                 "3PA": "3",
                 "3P%": "28",
-                "2P": "14",
+                "2P": "13",
                 "2PA": "3",
                 "2P%": "30",
                 "FT": "27",
                 "FTA": "27",
                 "FT%": "7",
                 "ORB": "2",
-                "DRB": "17",
+                "DRB": "18",
                 "TRB": "5",
-                "AST": "23",
+                "AST": "22",
                 "STL": "17",
                 "BLK": "26",
-                "TOV": "13",
+                "TOV": "12",
                 "PF": "10",
                 "PTS": "18"
             },
@@ -284,8 +284,8 @@
                 "PW": "12",
                 "PL": "26",
                 "MOV": "-6.55",
-                "SOS": "0.83",
-                "SRS": "-5.73",
+                "SOS": "0.85",
+                "SRS": "-5.70",
                 "ORtg": "109.8",
                 "DRtg": "116.5",
                 "Pace": "97.1",
@@ -309,12 +309,12 @@
                 "SRS": "25",
                 "ORtg": "25",
                 "DRtg": "24",
-                "Pace": "26",
+                "Pace": "25",
                 "FTr": "14",
                 "3PAr": "5",
                 "eFG%": "30",
                 "TOV%": "6",
-                "ORB%": "25",
+                "ORB%": "26",
                 "FT/FGA": "29",
                 "DRB%": "11",
                 "Arena": "",
@@ -322,6 +322,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BRK-2025.png",
-        "last_update": "Jan 11 2025 22:32:16"
+        "last_update": "Jan 12 2025 22:32:15"
     }
 }

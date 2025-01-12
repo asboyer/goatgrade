@@ -31,14 +31,32 @@
             {
                 "Player": "Torrey Craig",
                 "Team": "Chicago Bulls",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Leg) - Craig did not play in Friday's (Jan. 10) game against the Wizards."
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Out (Leg) - The Bulls have listed Craig as Out for Sunday's (Jan. 12) game against the Kings."
             },
             {
                 "Player": "Ayo Dosunmu",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Out (Achilles) - Head coach Billy Donovan said Wednesday (Jan. 8) that Dosunmu (calf) is ready to begin ramping up his activity, according to Julia Poe of the Chicago Tribune."
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Day To Day (Achilles) - The Bulls have listed Dosunmu as Doubtful for Sunday's (Jan. 12) game against the Kings."
+            },
+            {
+                "Player": "Adama Sanogo",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Out (Knee) - The Bulls have listed Sanogo as Out for Sunday's (Jan. 12) game against the Kings."
+            },
+            {
+                "Player": "Coby White",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Day To Day (Eye) - The Bulls have listed White as Questionable for Sunday's (Jan. 12) game against the Kings."
+            },
+            {
+                "Player": "Patrick Williams",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Day To Day (Elbow) - The Bulls have listed Williams as Probable for Sunday's (Jan. 12) game against the Kings."
             }
         ],
         "team_stats": {
@@ -94,13 +112,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "13",
                 "FG": "4",
                 "FGA": "3",
-                "FG%": "11",
+                "FG%": "12",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "6",
+                "3P%": "5",
                 "2P": "18",
                 "2PA": "23",
                 "2P%": "7",
@@ -114,7 +132,7 @@
                 "STL": "21",
                 "BLK": "21",
                 "TOV": "19",
-                "PF": "7",
+                "PF": "8",
                 "PTS": "4"
             },
             "Year/Year": {
@@ -194,13 +212,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "13",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "20",
-                "3P": "15",
+                "3P": "16",
                 "3PA": "26",
-                "3P%": "3",
+                "3P%": "2",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "26",
@@ -248,8 +266,8 @@
                 "PW": "16",
                 "PL": "22",
                 "MOV": "-2.61",
-                "SOS": "0.11",
-                "SRS": "-2.50",
+                "SOS": "0.12",
+                "SRS": "-2.49",
                 "ORtg": "113.3",
                 "DRtg": "115.8",
                 "Pace": "104.0",
@@ -266,10 +284,10 @@
             "Misc Lg Rank": {
                 "W": "20",
                 "L": "9",
-                "PW": "19",
+                "PW": "20",
                 "PL": "22",
                 "MOV": "21",
-                "SOS": "14",
+                "SOS": "13",
                 "SRS": "21",
                 "ORtg": "14",
                 "DRtg": "22",
@@ -286,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHI-2025.png",
-        "last_update": "Jan 11 2025 22:32:16"
+        "last_update": "Jan 12 2025 22:32:15"
     }
 }

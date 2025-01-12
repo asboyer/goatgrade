@@ -31,8 +31,8 @@
             {
                 "Player": "De'Aaron Fox",
                 "Team": "Sacramento Kings",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Hip) - Fox did not play in Friday's (Jan. 10) game against the Celtics."
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Day To Day (Hip) - The Kings have listed Fox as Questionable for Sunday's (Jan. 12) game against the Bulls."
             }
         ],
         "team_stats": {
@@ -88,26 +88,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "8",
                 "FGA": "8",
                 "FG%": "8",
                 "3P": "22",
-                "3PA": "21",
-                "3P%": "21",
-                "2P": "4",
+                "3PA": "22",
+                "3P%": "22",
+                "2P": "3",
                 "2PA": "7",
                 "2P%": "8",
-                "FT": "11",
+                "FT": "10",
                 "FTA": "12",
                 "FT%": "3",
                 "ORB": "17",
-                "DRB": "13",
+                "DRB": "14",
                 "TRB": "13",
                 "AST": "13",
                 "STL": "13",
                 "BLK": "20",
-                "TOV": "7",
+                "TOV": "8",
                 "PF": "21",
                 "PTS": "9"
             },
@@ -188,26 +188,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "7",
                 "FGA": "7",
                 "FG%": "13",
-                "3P": "27",
+                "3P": "28",
                 "3PA": "21",
                 "3P%": "25",
                 "2P": "2",
                 "2PA": "6",
                 "2P%": "10",
-                "FT": "25",
-                "FTA": "23",
-                "FT%": "28",
+                "FT": "26",
+                "FTA": "24",
+                "FT%": "29",
                 "ORB": "3",
                 "DRB": "15",
                 "TRB": "7",
-                "AST": "12",
+                "AST": "11",
                 "STL": "13",
                 "BLK": "10",
-                "TOV": "10",
+                "TOV": "9",
                 "PF": "14",
                 "PTS": "17"
             },
@@ -242,7 +242,7 @@
                 "PW": "22",
                 "PL": "16",
                 "MOV": "2.61",
-                "SOS": "-0.61",
+                "SOS": "-0.60",
                 "SRS": "2.00",
                 "ORtg": "115.6",
                 "DRtg": "113.0",
@@ -258,12 +258,12 @@
                 "Attendance": "370,802"
             },
             "Misc Lg Rank": {
-                "W": "15",
+                "W": "17",
                 "L": "10",
                 "PW": "9",
                 "PL": "10",
                 "MOV": "9",
-                "SOS": "22",
+                "SOS": "23",
                 "SRS": "10",
                 "ORtg": "8",
                 "DRtg": "14",
@@ -280,6 +280,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/SAC-2025.png",
-        "last_update": "Jan 11 2025 22:32:16"
+        "last_update": "Jan 12 2025 22:32:15"
     }
 }

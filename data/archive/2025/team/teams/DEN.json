@@ -37,14 +37,20 @@
             {
                 "Player": "Aaron Gordon",
                 "Team": "Denver Nuggets",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Calf) - Gordon did not play in Friday's (Jan. 10) game against the Nuggets."
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Day To Day (Calf) - The Nuggets have listed Gordon as Questionable for Sunday's (Jan. 12) game against the Mavericks."
             },
             {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sat, Jul 13, 2024",
                 "Description": "Out For Season (Achilles) - DaRon Holmes II has suffered a torn right Achilles tendon, sources tell @TheAthletic @Stadium. Heâs expected to miss the 2024-25 season."
+            },
+            {
+                "Player": "Nikola Jokić",
+                "Team": "Denver Nuggets",
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Day To Day (Illness) - The Nuggets have listed Jokic as Probable for Sunday's (Jan. 12) game against the Mavericks."
             },
             {
                 "Player": "Spencer Jones",
@@ -55,8 +61,8 @@
             {
                 "Player": "Jamal Murray",
                 "Team": "Denver Nuggets",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Knee) - Murray did not return to Friday's (Jan. 10) game versus the Nets."
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Day To Day (Knee) - The Nuggets have listed Murray as Questionable for Sunday's (Jan. 12) game against the Mavericks."
             }
         ],
         "team_stats": {
@@ -112,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "18",
                 "FG": "2",
                 "FGA": "10",
                 "FG%": "2",
@@ -121,7 +127,7 @@
                 "3P%": "3",
                 "2P": "1",
                 "2PA": "1",
-                "2P%": "6",
+                "2P%": "5",
                 "FT": "5",
                 "FTA": "2",
                 "FT%": "27",
@@ -212,11 +218,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "18",
                 "FG": "25",
                 "FGA": "28",
-                "FG%": "16",
-                "3P": "23",
+                "FG%": "17",
+                "3P": "22",
                 "3PA": "25",
                 "3P%": "9",
                 "2P": "27",
@@ -225,7 +231,7 @@
                 "FT": "7",
                 "FTA": "9",
                 "FT%": "9",
-                "ORB": "22",
+                "ORB": "23",
                 "DRB": "4",
                 "TRB": "11",
                 "AST": "30",
@@ -292,18 +298,18 @@
                 "ORtg": "4",
                 "DRtg": "19",
                 "Pace": "5",
-                "FTr": "4",
+                "FTr": "3",
                 "3PAr": "30",
                 "eFG%": "14",
                 "TOV%": "24",
                 "ORB%": "12",
                 "FT/FGA": "7",
-                "DRB%": "23",
+                "DRB%": "22",
                 "Arena": "",
                 "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DEN-2025.png",
-        "last_update": "Jan 11 2025 22:32:16"
+        "last_update": "Jan 12 2025 22:32:15"
     }
 }

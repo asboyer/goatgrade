@@ -31,14 +31,14 @@
             {
                 "Player": "Alex Caruso",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Hip) - Caruso did not play in Friday's (Jan. 10) game against the Knicks."
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Out (Hip) - The Thunder have listed Caruso as Out for Sunday's (Jan. 12) game against the Wizards."
             },
             {
                 "Player": "Chet Holmgren",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Mon, Nov 11, 2024",
-                "Description": "Out (Hip) - Holmgren is expected to return during the 2024-25 season, and an update on his return-to-play protocol will be provided in eight-to-ten weeks, per ESPN's Shams Charania."
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Out (Hip) - Holmgren joined the Thunder for their four-game road trip that began Wednesday (Jan. 8) and is beginning to increase his physical activity, per Joel Lorenzi of The Oklahoman. There is no clear timetable yet for his return."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -106,10 +106,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "23",
                 "FG": "6",
                 "FGA": "5",
-                "FG%": "10",
+                "FG%": "11",
                 "3P": "15",
                 "3PA": "11",
                 "3P%": "19",
@@ -120,9 +120,9 @@
                 "FTA": "29",
                 "FT%": "1",
                 "ORB": "22",
-                "DRB": "12",
+                "DRB": "13",
                 "TRB": "19",
-                "AST": "15",
+                "AST": "16",
                 "STL": "1",
                 "BLK": "4",
                 "TOV": "1",
@@ -206,12 +206,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "23",
                 "FG": "1",
                 "FGA": "4",
                 "FG%": "1",
                 "3P": "2",
-                "3PA": "18",
+                "3PA": "17",
                 "3P%": "1",
                 "2P": "1",
                 "2PA": "2",
@@ -292,12 +292,12 @@
                 "TOV%": "1",
                 "ORB%": "23",
                 "FT/FGA": "27",
-                "DRB%": "26",
+                "DRB%": "27",
                 "Arena": "",
                 "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/OKC-2025.png",
-        "last_update": "Jan 11 2025 22:32:16"
+        "last_update": "Jan 12 2025 22:32:15"
     }
 }

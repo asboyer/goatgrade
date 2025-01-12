@@ -30,8 +30,8 @@
             {
                 "Player": "Drew Peterson",
                 "Team": "Boston Celtics",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Concussion) - Peterson did not play in Friday's (Jan. 10) game against the Kings."
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Out (Concussion) - The Celtics have listed Peterson as Out for Saturday's (Jan. 11) game against the Pelicans."
             },
             {
                 "Player": "Jordan Walsh",
@@ -93,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "9",
                 "FG": "13",
                 "FGA": "8",
                 "FG%": "17",
@@ -193,22 +193,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "11",
+                "MP": "9",
+                "FG": "12",
                 "FGA": "22",
                 "FG%": "5",
                 "3P": "7",
                 "3PA": "5",
                 "3P%": "12",
-                "2P": "18",
+                "2P": "17",
                 "2PA": "26",
                 "2P%": "3",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "29",
+                "FT%": "30",
                 "ORB": "9",
                 "DRB": "19",
-                "TRB": "19",
+                "TRB": "18",
                 "AST": "4",
                 "STL": "3",
                 "BLK": "4",
@@ -247,8 +247,8 @@
                 "PW": "29",
                 "PL": "9",
                 "MOV": "9.53",
-                "SOS": "-0.71",
-                "SRS": "8.82",
+                "SOS": "-0.68",
+                "SRS": "8.85",
                 "ORtg": "120.1",
                 "DRtg": "110.4",
                 "Pace": "97.4",
@@ -285,6 +285,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BOS-2025.png",
-        "last_update": "Jan 11 2025 22:32:16"
+        "last_update": "Jan 12 2025 22:32:15"
     }
 }

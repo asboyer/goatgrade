@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Ty Jerome",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Day To Day (Illness) - The Cavaliers have listed Jerome as Doubtful for Sunday's (Jan. 12) game against the Pacers."
+            },
+            {
                 "Player": "Donovan Mitchell",
                 "Team": "Cleveland Cavaliers",
                 "Update": "Thu, Jan 9, 2025",
@@ -87,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "23",
                 "FG": "1",
                 "FGA": "14",
                 "FG%": "1",
@@ -108,7 +114,7 @@
                 "BLK": "24",
                 "TOV": "3",
                 "PF": "10",
-                "PTS": "1"
+                "PTS": "2"
             },
             "Year/Year": {
                 "G": "",
@@ -187,27 +193,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "23",
                 "FG": "14",
                 "FGA": "20",
                 "FG%": "9",
                 "3P": "10",
                 "3PA": "6",
-                "3P%": "21",
+                "3P%": "22",
                 "2P": "15",
-                "2PA": "23",
+                "2PA": "24",
                 "2P%": "4",
                 "FT": "11",
                 "FTA": "10",
                 "FT%": "20",
-                "ORB": "17",
+                "ORB": "16",
                 "DRB": "12",
                 "TRB": "13",
-                "AST": "11",
+                "AST": "10",
                 "STL": "6",
                 "BLK": "8",
                 "TOV": "7",
-                "PF": "17",
+                "PF": "16",
                 "PTS": "12"
             },
             "Opp Year/Year": {
@@ -241,8 +247,8 @@
                 "PW": "30",
                 "PL": "7",
                 "MOV": "11.54",
-                "SOS": "-2.02",
-                "SRS": "9.53",
+                "SOS": "-1.99",
+                "SRS": "9.55",
                 "ORtg": "122.6",
                 "DRtg": "111.1",
                 "Pace": "100.2",
@@ -279,6 +285,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CLE-2025.png",
-        "last_update": "Jan 11 2025 22:32:16"
+        "last_update": "Jan 12 2025 22:32:15"
     }
 }

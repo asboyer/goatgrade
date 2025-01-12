@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Miles McBride",
+                "Team": "New York Knicks",
+                "Update": "Sat, Jan 11, 2025",
+                "Description": "Day To Day (Hamstring) - The Knicks have listed McBride as Probable for Sunday's (Jan. 12) game against the Bucks."
+            },
+            {
                 "Player": "Mitchell Robinson",
                 "Team": "New York Knicks",
                 "Update": "Wed, Jan 1, 2025",
@@ -87,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "5",
                 "FG": "5",
                 "FGA": "20",
                 "FG%": "3",
@@ -104,7 +110,7 @@
                 "DRB": "22",
                 "TRB": "23",
                 "AST": "11",
-                "STL": "23",
+                "STL": "24",
                 "BLK": "28",
                 "TOV": "4",
                 "PF": "5",
@@ -187,23 +193,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "5",
                 "FG": "15",
                 "FGA": "8",
                 "FG%": "18",
-                "3P": "19",
+                "3P": "18",
                 "3PA": "7",
                 "3P%": "26",
-                "2P": "11",
-                "2PA": "14",
-                "2P%": "11",
+                "2P": "12",
+                "2PA": "13",
+                "2P%": "14",
                 "FT": "5",
                 "FTA": "5",
                 "FT%": "19",
                 "ORB": "7",
-                "DRB": "1",
+                "DRB": "2",
                 "TRB": "1",
-                "AST": "13",
+                "AST": "12",
                 "STL": "2",
                 "BLK": "15",
                 "TOV": "23",
@@ -241,8 +247,8 @@
                 "PW": "26",
                 "PL": "13",
                 "MOV": "6.08",
-                "SOS": "-1.61",
-                "SRS": "4.46",
+                "SOS": "-1.59",
+                "SRS": "4.49",
                 "ORtg": "119.9",
                 "DRtg": "113.7",
                 "Pace": "97.0",
@@ -275,10 +281,10 @@
                 "FT/FGA": "6",
                 "DRB%": "8",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NYK-2025.png",
-        "last_update": "Jan 11 2025 22:32:16"
+        "last_update": "Jan 12 2025 22:32:15"
     }
 }

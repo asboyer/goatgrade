@@ -2,7 +2,7 @@
     "LAC": {
         "info": {
             "record": "20-17",
-            "standing": "8th in West",
+            "standing": "7th in West",
             "coach": "Tyronn Lue (20-17)",
             "gm": "Lawrence Frank",
             "preseason_odds": "+3000"
@@ -100,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "23",
                 "FGA": "24",
                 "FG%": "16",
@@ -114,14 +114,14 @@
                 "FTA": "13",
                 "FT%": "16",
                 "ORB": "18",
-                "DRB": "18",
+                "DRB": "17",
                 "TRB": "15",
                 "AST": "25",
                 "STL": "3",
                 "BLK": "25",
                 "TOV": "28",
                 "PF": "15",
-                "PTS": "22"
+                "PTS": "23"
             },
             "Year/Year": {
                 "G": "",
@@ -200,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "4",
                 "FGA": "5",
                 "FG%": "12",
@@ -218,7 +218,7 @@
                 "TRB": "6",
                 "AST": "7",
                 "STL": "29",
-                "BLK": "12",
+                "BLK": "13",
                 "TOV": "6",
                 "PF": "25",
                 "PTS": "5"
@@ -254,8 +254,8 @@
                 "PW": "19",
                 "PL": "18",
                 "MOV": "0.51",
-                "SOS": "1.15",
-                "SRS": "1.67",
+                "SOS": "1.14",
+                "SRS": "1.65",
                 "ORtg": "110.4",
                 "DRtg": "109.8",
                 "Pace": "98.4",
@@ -271,14 +271,14 @@
             },
             "Misc Lg Rank": {
                 "W": "11",
-                "L": "18",
+                "L": "19",
                 "PW": "16",
                 "PL": "13",
                 "MOV": "14",
                 "SOS": "4",
                 "SRS": "11",
                 "ORtg": "23",
-                "DRtg": "6",
+                "DRtg": "5",
                 "Pace": "20",
                 "FTr": "11",
                 "3PAr": "21",
@@ -292,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAC-2025.png",
-        "last_update": "Jan 11 2025 22:32:16"
+        "last_update": "Jan 12 2025 22:32:15"
     }
 }
