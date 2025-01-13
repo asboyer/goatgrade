@@ -2,7 +2,7 @@
     "GSW": {
         "info": {
             "record": "19-19",
-            "standing": "10th in West",
+            "standing": "11th in West",
             "coach": "Steve Kerr (19-19)",
             "gm": "Mike Dunleavy",
             "preseason_odds": "+3000"
@@ -27,22 +27,16 @@
         ],
         "injuries": [
             {
-                "Player": "Stephen Curry",
-                "Team": "Golden State Warriors",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Knee) - Curry did not play in Friday's (Jan. 10) game against the Pacers."
-            },
-            {
                 "Player": "Draymond Green",
                 "Team": "Golden State Warriors",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Back) - Green did not play in Friday's (Jan. 10) game against the Pacers."
+                "Update": "Sun, Jan 12, 2025",
+                "Description": "Day To Day (Back) - The Warriors listed Green as questionable for Monday's (Jan. 13) game against Toronto."
             },
             {
                 "Player": "Jonathan Kuminga",
                 "Team": "Golden State Warriors",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Ankle) - Kuminga did not play in Friday's (Jan. 10) game against the Pacers."
+                "Update": "Sun, Jan 12, 2025",
+                "Description": "Out (Ankle) - The Warriors listed Kuminga as OUT for Monday's (Jan. 13) game against Toronto."
             },
             {
                 "Player": "Gary Payton II",
@@ -53,14 +47,8 @@
             {
                 "Player": "Brandin Podziemski",
                 "Team": "Golden State Warriors",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Abdominal) - Podziemski did not play in Friday's (Jan. 10) game against the Pacers."
-            },
-            {
-                "Player": "Andrew Wiggins",
-                "Team": "Golden State Warriors",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Personal) - Wiggins did not play in Friday's (Jan. 10) game against the Pacers."
+                "Update": "Sun, Jan 12, 2025",
+                "Description": "Out (Abdominal) - The Warriors announced Podziemski (abdomen) has started running at full speed but isn't near a return, Danny Emerman of Bay Area News Group reports."
             }
         ],
         "team_stats": {
@@ -116,13 +104,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "17",
                 "FG": "16",
                 "FGA": "6",
                 "FG%": "23",
                 "3P": "5",
                 "3PA": "4",
-                "3P%": "16",
+                "3P%": "14",
                 "2P": "23",
                 "2PA": "17",
                 "2P%": "27",
@@ -130,7 +118,7 @@
                 "FTA": "28",
                 "FT%": "30",
                 "ORB": "4",
-                "DRB": "11",
+                "DRB": "13",
                 "TRB": "3",
                 "AST": "8",
                 "STL": "9",
@@ -216,26 +204,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
-                "FG": "9",
+                "MP": "17",
+                "FG": "7",
                 "FGA": "13",
                 "FG%": "10",
                 "3P": "9",
-                "3PA": "16",
+                "3PA": "15",
                 "3P%": "6",
                 "2P": "10",
                 "2PA": "10",
                 "2P%": "15",
                 "FT": "16",
-                "FTA": "16",
-                "FT%": "16",
+                "FTA": "15",
+                "FT%": "14",
                 "ORB": "11",
-                "DRB": "28",
-                "TRB": "24",
+                "DRB": "27",
+                "TRB": "23",
                 "AST": "17",
                 "STL": "11",
                 "BLK": "29",
-                "TOV": "10",
+                "TOV": "9",
                 "PF": "29",
                 "PTS": "10"
             },
@@ -270,8 +258,8 @@
                 "PW": "20",
                 "PL": "18",
                 "MOV": "0.45",
-                "SOS": "1.16",
-                "SRS": "1.61",
+                "SOS": "1.21",
+                "SRS": "1.66",
                 "ORtg": "111.4",
                 "DRtg": "111.0",
                 "Pace": "99.6",
@@ -286,28 +274,28 @@
                 "Attendance": "361,280"
             },
             "Misc Lg Rank": {
-                "W": "17",
+                "W": "18",
                 "L": "10",
-                "PW": "14",
+                "PW": "15",
                 "PL": "15",
                 "MOV": "15",
-                "SOS": "3",
+                "SOS": "4",
                 "SRS": "12",
                 "ORtg": "21",
                 "DRtg": "8",
                 "Pace": "9",
                 "FTr": "28",
-                "3PAr": "7",
+                "3PAr": "8",
                 "eFG%": "10",
-                "TOV%": "12",
-                "ORB%": "8",
+                "TOV%": "10",
+                "ORB%": "7",
                 "FT/FGA": "16",
-                "DRB%": "9",
+                "DRB%": "11",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/GSW-2025.png",
-        "last_update": "Jan 12 2025 22:32:15"
+        "last_update": "Jan 13 2025 22:32:13"
     }
 }
