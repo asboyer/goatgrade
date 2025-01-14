@@ -31,8 +31,8 @@
             {
                 "Player": "Bogdan Bogdanović",
                 "Team": "Atlanta Hawks",
-                "Update": "Sat, Jan 11, 2025",
-                "Description": "Day To Day (Knee) - The Hawks have listed Bogdanovic as Questionable for Saturday's (Jan. 11) game against the Rockets."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Knee) - The Hawks have listed Bogdanovic as Questionable for Tuesday's (Jan. 14) game against the Suns."
             },
             {
                 "Player": "Kobe Bufkin",
@@ -55,8 +55,8 @@
             {
                 "Player": "Trae Young",
                 "Team": "Atlanta Hawks",
-                "Update": "Sat, Jan 11, 2025",
-                "Description": "Day To Day (Achilles) - The Hawks have listed Young as Probable for Saturday's (Jan. 11) game against the Rockets."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks have listed Young as Questionable for Tuesday's (Jan. 14) game against the Suns."
             },
             {
                 "Player": "Cody Zeller",
@@ -118,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "9",
                 "FGA": "4",
                 "FG%": "15",
@@ -136,10 +136,10 @@
                 "TRB": "10",
                 "AST": "2",
                 "STL": "2",
-                "BLK": "11",
+                "BLK": "10",
                 "TOV": "23",
                 "PF": "13",
-                "PTS": "6"
+                "PTS": "7"
             },
             "Year/Year": {
                 "G": "",
@@ -218,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "28",
                 "FGA": "25",
                 "FG%": "25",
@@ -229,13 +229,13 @@
                 "2PA": "18",
                 "2P%": "18",
                 "FT": "17",
-                "FTA": "12",
-                "FT%": "21",
+                "FTA": "13",
+                "FT%": "22",
                 "ORB": "13",
-                "DRB": "20",
+                "DRB": "21",
                 "TRB": "20",
                 "AST": "28",
-                "STL": "26",
+                "STL": "24",
                 "BLK": "19",
                 "TOV": "4",
                 "PF": "7",
@@ -272,8 +272,8 @@
                 "PW": "16",
                 "PL": "22",
                 "MOV": "-2.61",
-                "SOS": "-0.46",
-                "SRS": "-3.07",
+                "SOS": "-0.49",
+                "SRS": "-3.09",
                 "ORtg": "112.6",
                 "DRtg": "115.1",
                 "Pace": "103.5",
@@ -289,17 +289,17 @@
             },
             "Misc Lg Rank": {
                 "W": "18",
-                "L": "10",
+                "L": "11",
                 "PW": "21",
                 "PL": "21",
-                "MOV": "21",
-                "SOS": "21",
+                "MOV": "20",
+                "SOS": "22",
                 "SRS": "22",
-                "ORtg": "16",
+                "ORtg": "17",
                 "DRtg": "21",
                 "Pace": "3",
                 "FTr": "10",
-                "3PAr": "22",
+                "3PAr": "23",
                 "eFG%": "28",
                 "TOV%": "4",
                 "ORB%": "9",
@@ -310,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ATL-2025.png",
-        "last_update": "Jan 13 2025 22:32:13"
+        "last_update": "Jan 14 2025 22:32:11"
     }
 }

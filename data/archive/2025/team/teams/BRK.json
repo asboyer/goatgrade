@@ -35,10 +35,16 @@
                 "Description": "Out (Foot) - The Nets have listed Bogdanovic as Out for Sunday's (Jan. 12) game against the Jazz."
             },
             {
+                "Player": "Nic Claxton",
+                "Team": "Brooklyn Nets",
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Hamstring) - The Nets listed Claxton as questionable for Tuesday's (Jan. 14) game against Portland."
+            },
+            {
                 "Player": "Cameron Johnson",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Jan 11, 2025",
-                "Description": "Out (Ankle) - The Nets have listed Johnson as Out for Sunday's (Jan. 12) game against the Jazz."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Ankle) - The Nets listed Johnson as questionable for Tuesday's (Jan. 14) game against Portland."
             },
             {
                 "Player": "Maxwell Lewis",
@@ -55,8 +61,14 @@
             {
                 "Player": "D'Angelo Russell",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Jan 11, 2025",
-                "Description": "Out (Calf) - The Nets have listed Russell as Out for Sunday's (Jan. 12) game against the Jazz."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Calf) - The Nets listed Russell as questionable for Tuesday's (Jan. 14) game against Portland."
+            },
+            {
+                "Player": "Ben Simmons",
+                "Team": "Brooklyn Nets",
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Back) - The Nets listed Simmons as questionable for Tuesday's (Jan. 14) game against Portland."
             },
             {
                 "Player": "Cam Thomas",
@@ -67,8 +79,8 @@
             {
                 "Player": "Trendon Watford",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Jan 11, 2025",
-                "Description": "Out (Hamstring) - The Nets have listed Watford as Out for Sunday's (Jan. 12) game against the Jazz."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Out (Hamstring) - The Nets listed Watford as OUT for Tuesday's (Jan. 14) game against Portland."
             }
         ],
         "team_stats": {
@@ -124,20 +136,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "9",
                 "FG": "29",
                 "FGA": "29",
                 "FG%": "25",
-                "3P": "8",
+                "3P": "9",
                 "3PA": "8",
                 "3P%": "17",
                 "2P": "29",
                 "2PA": "28",
-                "2P%": "26",
-                "FT": "14",
+                "2P%": "25",
+                "FT": "15",
                 "FTA": "15",
                 "FT%": "4",
-                "ORB": "25",
+                "ORB": "26",
                 "DRB": "28",
                 "TRB": "29",
                 "AST": "18",
@@ -224,14 +236,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "9",
                 "FG": "13",
                 "FGA": "2",
                 "FG%": "30",
                 "3P": "16",
                 "3PA": "3",
                 "3P%": "28",
-                "2P": "12",
+                "2P": "11",
                 "2PA": "3",
                 "2P%": "28",
                 "FT": "27",
@@ -242,8 +254,8 @@
                 "TRB": "5",
                 "AST": "22",
                 "STL": "17",
-                "BLK": "26",
-                "TOV": "13",
+                "BLK": "27",
+                "TOV": "12",
                 "PF": "9",
                 "PTS": "18"
             },
@@ -300,22 +312,22 @@
                 "PL": "26",
                 "MOV": "25",
                 "SOS": "8",
-                "SRS": "25",
+                "SRS": "24",
                 "ORtg": "25",
-                "DRtg": "24",
+                "DRtg": "23",
                 "Pace": "28",
                 "FTr": "12",
                 "3PAr": "5",
                 "eFG%": "30",
-                "TOV%": "6",
+                "TOV%": "7",
                 "ORB%": "25",
                 "FT/FGA": "29",
                 "DRB%": "8",
                 "Arena": "",
-                "Attendance": "26"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BRK-2025.png",
-        "last_update": "Jan 13 2025 22:32:13"
+        "last_update": "Jan 14 2025 22:32:11"
     }
 }

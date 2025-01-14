@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Tyrese Haliburton",
+                "Team": "Indiana Pacers",
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Hamstring) - The Pacers listed Haliburton as Doubtful for Tuesday's (Jan. 14) game against Cleveland."
+            },
+            {
                 "Player": "Isaiah Jackson",
                 "Team": "Indiana Pacers",
                 "Update": "Sat, Nov 2, 2024",
@@ -100,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "5",
                 "FG": "7",
                 "FGA": "19",
                 "FG%": "4",
@@ -200,13 +206,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "5",
                 "FG": "21",
                 "FGA": "15",
                 "FG%": "20",
                 "3P": "8",
-                "3PA": "10",
-                "3P%": "14",
+                "3PA": "9",
+                "3P%": "13",
                 "2P": "24",
                 "2PA": "20",
                 "2P%": "22",
@@ -217,7 +223,7 @@
                 "DRB": "15",
                 "TRB": "14",
                 "AST": "14",
-                "STL": "8",
+                "STL": "7",
                 "BLK": "7",
                 "TOV": "19",
                 "PF": "19",
@@ -254,8 +260,8 @@
                 "PW": "20",
                 "PL": "20",
                 "MOV": "0.30",
-                "SOS": "-0.36",
-                "SRS": "-0.06",
+                "SOS": "-0.38",
+                "SRS": "-0.08",
                 "ORtg": "115.3",
                 "DRtg": "115.0",
                 "Pace": "99.4",
@@ -275,23 +281,23 @@
                 "PW": "13",
                 "PL": "17",
                 "MOV": "16",
-                "SOS": "19",
+                "SOS": "18",
                 "SRS": "16",
                 "ORtg": "9",
                 "DRtg": "20",
-                "Pace": "10",
-                "FTr": "17",
+                "Pace": "9",
+                "FTr": "18",
                 "3PAr": "28",
                 "eFG%": "20",
                 "TOV%": "18",
                 "ORB%": "28",
                 "FT/FGA": "21",
-                "DRB%": "16",
+                "DRB%": "15",
                 "Arena": "",
                 "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/IND-2025.png",
-        "last_update": "Jan 13 2025 22:32:13"
+        "last_update": "Jan 14 2025 22:32:11"
     }
 }

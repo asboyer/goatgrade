@@ -2,7 +2,7 @@
     "CHO": {
         "info": {
             "record": "8-28",
-            "standing": "13th in East",
+            "standing": "14th in East",
             "coach": "Charles Lee (8-28)",
             "gm": "Jeff Peterson",
             "preseason_odds": "+100000"
@@ -31,8 +31,8 @@
             {
                 "Player": "DaQuan Jeffries",
                 "Team": "Charlotte Hornets",
-                "Update": "Sun, Jan 12, 2025",
-                "Description": "Out (Illness) - The Hornets listed Jeffries as OUT for Sunday's (Jan. 12) game against Phoenix."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Illness) - Jeffries did not play in Sunday's (Jan. 12) game against Phoenix."
             },
             {
                 "Player": "Tre Mann",
@@ -100,20 +100,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "29",
+                "MP": "30",
                 "FG": "27",
-                "FGA": "12",
+                "FGA": "11",
                 "FG%": "30",
                 "3P": "7",
                 "3PA": "3",
-                "3P%": "25",
+                "3P%": "26",
                 "2P": "28",
-                "2PA": "24",
+                "2PA": "23",
                 "2P%": "30",
                 "FT": "27",
-                "FTA": "27",
-                "FT%": "22",
-                "ORB": "3",
+                "FTA": "26",
+                "FT%": "21",
+                "ORB": "2",
                 "DRB": "17",
                 "TRB": "4",
                 "AST": "27",
@@ -200,22 +200,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "29",
+                "MP": "30",
                 "FG": "10",
                 "FGA": "6",
                 "FG%": "17",
-                "3P": "19",
+                "3P": "18",
                 "3PA": "24",
                 "3P%": "8",
                 "2P": "7",
-                "2PA": "4",
+                "2PA": "5",
                 "2P%": "21",
                 "FT": "22",
-                "FTA": "21",
-                "FT%": "15",
+                "FTA": "22",
+                "FT%": "16",
                 "ORB": "9",
-                "DRB": "22",
-                "TRB": "17",
+                "DRB": "23",
+                "TRB": "18",
                 "AST": "16",
                 "STL": "15",
                 "BLK": "20",
@@ -254,7 +254,7 @@
                 "PW": "11",
                 "PL": "25",
                 "MOV": "-6.19",
-                "SOS": "0.40",
+                "SOS": "0.39",
                 "SRS": "-5.80",
                 "ORtg": "107.7",
                 "DRtg": "113.9",
@@ -270,28 +270,28 @@
                 "Attendance": "326,770"
             },
             "Misc Lg Rank": {
-                "W": "27",
+                "W": "28",
                 "L": "4",
                 "PW": "26",
                 "PL": "24",
                 "MOV": "24",
-                "SOS": "11",
-                "SRS": "24",
+                "SOS": "10",
+                "SRS": "25",
                 "ORtg": "29",
                 "DRtg": "19",
-                "Pace": "22",
+                "Pace": "21",
                 "FTr": "27",
                 "3PAr": "4",
                 "eFG%": "16",
                 "TOV%": "17",
                 "ORB%": "4",
-                "FT/FGA": "23",
-                "DRB%": "10",
+                "FT/FGA": "22",
+                "DRB%": "9",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHO-2025.png",
-        "last_update": "Jan 13 2025 22:32:13"
+        "last_update": "Jan 14 2025 22:32:11"
     }
 }

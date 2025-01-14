@@ -29,28 +29,40 @@
         ],
         "injuries": [
             {
+                "Player": "Deni Avdija",
+                "Team": "Portland Trail Blazers",
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Ankle) - The Trail Blazers listed Avdija as questionable for Tuesday's (Jan. 14) game against Brooklyn."
+            },
+            {
                 "Player": "Deandre Ayton",
                 "Team": "Portland Trail Blazers",
                 "Update": "Sat, Jan 11, 2025",
                 "Description": "Day To Day (Calf) - Ayton did not play in Saturday's (Jan. 11) game against the Heat."
             },
             {
+                "Player": "Dalano Banton",
+                "Team": "Portland Trail Blazers",
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Illness) - The Trail Blazers listed Banton as questionable for Tuesday's (Jan. 14) game against Brooklyn."
+            },
+            {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sat, Jan 11, 2025",
-                "Description": "Day To Day (Face) - Grant did not play in Saturday's (Jan. 11) game against the Heat."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Out (Face) - The Trail Blazers listed Grant as OUT for Tuesday's (Jan. 14) game against Brooklyn."
             },
             {
                 "Player": "Matisse Thybulle",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sat, Jan 11, 2025",
-                "Description": "Day To Day (Ankle) - Thybulle did not play in Saturday's (Jan. 11) game against the Heat."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Out (Ankle) - The Trail Blazers listed Thybulle as OUT for Tuesday's (Jan. 14) game against Brooklyn."
             },
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sat, Jan 11, 2025",
-                "Description": "Day To Day (Illness) - Williams III did not play in Saturday's (Jan. 11) game against the Heat."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Illness) - The Trail Blazers listed Williams III as questionable for Tuesday's (Jan. 14) game against Brooklyn."
             }
         ],
         "team_stats": {
@@ -106,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "24",
                 "FG": "20",
                 "FGA": "14",
                 "FG%": "22",
@@ -116,7 +128,7 @@
                 "2P": "14",
                 "2PA": "10",
                 "2P%": "24",
-                "FT": "24",
+                "FT": "23",
                 "FTA": "23",
                 "FT%": "23",
                 "ORB": "5",
@@ -125,8 +137,8 @@
                 "AST": "28",
                 "STL": "18",
                 "BLK": "7",
-                "TOV": "26",
-                "PF": "17",
+                "TOV": "28",
+                "PF": "18",
                 "PTS": "25"
             },
             "Year/Year": {
@@ -206,10 +218,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
-                "FG": "22",
+                "MP": "24",
+                "FG": "23",
                 "FGA": "12",
-                "FG%": "27",
+                "FG%": "26",
                 "3P": "23",
                 "3PA": "12",
                 "3P%": "26",
@@ -217,13 +229,13 @@
                 "2PA": "13",
                 "2P%": "20",
                 "FT": "24",
-                "FTA": "20",
-                "FT%": "27",
+                "FTA": "21",
+                "FT%": "28",
                 "ORB": "28",
                 "DRB": "11",
                 "TRB": "22",
                 "AST": "23",
-                "STL": "28",
+                "STL": "29",
                 "BLK": "28",
                 "TOV": "10",
                 "PF": "18",
@@ -260,8 +272,8 @@
                 "PW": "10",
                 "PL": "28",
                 "MOV": "-8.24",
-                "SOS": "0.69",
-                "SRS": "-7.55",
+                "SOS": "0.71",
+                "SRS": "-7.53",
                 "ORtg": "109.2",
                 "DRtg": "117.5",
                 "Pace": "99.1",
@@ -288,8 +300,8 @@
                 "Pace": "13",
                 "FTr": "24",
                 "3PAr": "19",
-                "eFG%": "25",
-                "TOV%": "14",
+                "eFG%": "26",
+                "TOV%": "13",
                 "ORB%": "5",
                 "FT/FGA": "24",
                 "DRB%": "29",
@@ -298,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/POR-2025.png",
-        "last_update": "Jan 13 2025 22:32:13"
+        "last_update": "Jan 14 2025 22:32:11"
     }
 }

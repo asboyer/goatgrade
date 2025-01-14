@@ -30,26 +30,26 @@
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Jan 11, 2025",
-                "Description": "Out (Toe) - The 76ers listed Drummond as OUT for Sunday's (Jan. 11) game against the Magic."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Out (Toe) - The 76ers listed Drummond as OUT for Tuesday's (Jan. 14) against the Thunder."
             },
             {
                 "Player": "Joel Embiid",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sun, Jan 12, 2025",
-                "Description": "Out (Foot) - The 76ers listed Embiid as OUT for Sunday's (Jan. 11) game against the Magic."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Out (Foot) - The 76ers listed Embiid as OUT for Tuesday's (Jan. 14) against the Thunder."
             },
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Jan 11, 2025",
-                "Description": "Out (Hip) - The 76ers listed Lowry as OUT for Sunday's (Jan. 11) game against the Magic."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Out (Hip) - The 76ers listed Lowry as OUT for Tuesday's (Jan. 14) against the Thunder."
             },
             {
                 "Player": "Caleb Martin",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sun, Jan 12, 2025",
-                "Description": "Out (Groin) - The 76ers listed Martin as OUT for Sunday's (Jan. 11) game against the Magic."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Groin) - The 76ers listed Martin as questionable for Tuesday's (Jan. 14) against the Thunder."
             },
             {
                 "Player": "KJ Martin",
@@ -117,17 +117,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "27",
                 "FG": "28",
                 "FGA": "28",
-                "FG%": "24",
+                "FG%": "23",
                 "3P": "23",
                 "3PA": "22",
                 "3P%": "24",
                 "2P": "24",
                 "2PA": "19",
-                "2P%": "23",
-                "FT": "3",
+                "2P%": "22",
+                "FT": "2",
                 "FTA": "3",
                 "FT%": "12",
                 "ORB": "22",
@@ -217,7 +217,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "27",
                 "FG": "6",
                 "FGA": "3",
                 "FG%": "28",
@@ -227,14 +227,14 @@
                 "2P": "9",
                 "2PA": "1",
                 "2P%": "29",
-                "FT": "14",
+                "FT": "15",
                 "FTA": "11",
-                "FT%": "22",
+                "FT%": "23",
                 "ORB": "6",
                 "DRB": "19",
                 "TRB": "13",
-                "AST": "18",
-                "STL": "5",
+                "AST": "17",
+                "STL": "4",
                 "BLK": "23",
                 "TOV": "2",
                 "PF": "6",
@@ -272,7 +272,7 @@
                 "PL": "22",
                 "MOV": "-3.24",
                 "SOS": "-0.62",
-                "SRS": "-3.87",
+                "SRS": "-3.86",
                 "ORtg": "110.1",
                 "DRtg": "113.4",
                 "Pace": "96.7",
@@ -303,12 +303,12 @@
                 "TOV%": "3",
                 "ORB%": "21",
                 "FT/FGA": "20",
-                "DRB%": "22",
+                "DRB%": "21",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHI-2025.png",
-        "last_update": "Jan 13 2025 22:32:13"
+        "last_update": "Jan 14 2025 22:32:11"
     }
 }

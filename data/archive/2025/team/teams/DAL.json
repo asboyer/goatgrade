@@ -43,8 +43,8 @@
             {
                 "Player": "Kyrie Irving",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Jan 6, 2025",
-                "Description": "Out (Illness) - Irving has a bulging disc in his back and is expected to miss at least one-to-two weeks, per ESPN's Shams Charania."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Illness) - The Mavericks listed Irving as questionable for Tuesdays (Jan. 13) game against Denver."
             }
         ],
         "team_stats": {
@@ -100,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "10",
                 "FGA": "18",
                 "FG%": "6",
@@ -111,9 +111,9 @@
                 "2PA": "12",
                 "2P%": "12",
                 "FT": "6",
-                "FTA": "6",
+                "FTA": "7",
                 "FT%": "19",
-                "ORB": "10",
+                "ORB": "11",
                 "DRB": "11",
                 "TRB": "11",
                 "AST": "19",
@@ -200,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "17",
                 "FGA": "23",
                 "FG%": "8",
@@ -208,13 +208,13 @@
                 "3PA": "4",
                 "3P%": "10",
                 "2P": "22",
-                "2PA": "28",
+                "2PA": "29",
                 "2P%": "5",
                 "FT": "18",
-                "FTA": "19",
+                "FTA": "18",
                 "FT%": "6",
                 "ORB": "26",
-                "DRB": "9",
+                "DRB": "10",
                 "TRB": "19",
                 "AST": "15",
                 "STL": "18",
@@ -254,8 +254,8 @@
                 "PW": "24",
                 "PL": "15",
                 "MOV": "4.21",
-                "SOS": "0.12",
-                "SRS": "4.33",
+                "SOS": "0.13",
+                "SRS": "4.34",
                 "ORtg": "116.7",
                 "DRtg": "112.4",
                 "Pace": "99.2",
@@ -271,14 +271,14 @@
             },
             "Misc Lg Rank": {
                 "W": "9",
-                "L": "19",
+                "L": "20",
                 "PW": "7",
                 "PL": "8",
                 "MOV": "8",
-                "SOS": "13",
+                "SOS": "14",
                 "SRS": "8",
                 "ORtg": "6",
-                "DRtg": "12",
+                "DRtg": "13",
                 "Pace": "12",
                 "FTr": "6",
                 "3PAr": "20",
@@ -286,12 +286,12 @@
                 "TOV%": "22",
                 "ORB%": "12",
                 "FT/FGA": "14",
-                "DRB%": "25",
+                "DRB%": "24",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DAL-2025.png",
-        "last_update": "Jan 13 2025 22:32:13"
+        "last_update": "Jan 14 2025 22:32:11"
     }
 }

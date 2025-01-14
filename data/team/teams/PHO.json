@@ -26,7 +26,20 @@
             "Jalen Bridges",
             "Collin Gillespie"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Grayson Allen",
+                "Team": "Phoenix Suns",
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Knee) - The Suns listed Allen as probable for Tuesday's (Jan. 14) game against Atlanta."
+            },
+            {
+                "Player": "Jusuf Nurkić",
+                "Team": "Phoenix Suns",
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Out (Illness) - The Suns listed Nurkic as OUT for Tuesday's (Jan. 14) game against Atlanta."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "38",
@@ -80,10 +93,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
-                "FG": "18",
+                "MP": "18",
+                "FG": "19",
                 "FGA": "27",
-                "FG%": "10",
+                "FG%": "9",
                 "3P": "10",
                 "3PA": "14",
                 "3P%": "6",
@@ -97,11 +110,11 @@
                 "DRB": "21",
                 "TRB": "25",
                 "AST": "10",
-                "STL": "21",
+                "STL": "22",
                 "BLK": "14",
                 "TOV": "10",
-                "PF": "6",
-                "PTS": "14"
+                "PF": "7",
+                "PTS": "15"
             },
             "Year/Year": {
                 "G": "",
@@ -180,18 +193,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "19",
                 "FGA": "18",
                 "FG%": "15",
-                "3P": "20",
+                "3P": "19",
                 "3PA": "16",
                 "3P%": "18",
-                "2P": "18",
+                "2P": "19",
                 "2PA": "19",
                 "2P%": "16",
                 "FT": "20",
-                "FTA": "15",
+                "FTA": "16",
                 "FT%": "24",
                 "ORB": "21",
                 "DRB": "17",
@@ -234,8 +247,8 @@
                 "PW": "17",
                 "PL": "21",
                 "MOV": "-1.39",
-                "SOS": "-0.35",
-                "SRS": "-1.74",
+                "SOS": "-0.39",
+                "SRS": "-1.79",
                 "ORtg": "115.1",
                 "DRtg": "116.5",
                 "Pace": "97.1",
@@ -251,12 +264,12 @@
             },
             "Misc Lg Rank": {
                 "W": "18",
-                "L": "10",
+                "L": "11",
                 "PW": "19",
-                "PL": "19",
+                "PL": "18",
                 "MOV": "19",
-                "SOS": "18",
-                "SRS": "20",
+                "SOS": "19",
+                "SRS": "19",
                 "ORtg": "10",
                 "DRtg": "25",
                 "Pace": "25",
@@ -265,13 +278,13 @@
                 "eFG%": "15",
                 "TOV%": "27",
                 "ORB%": "26",
-                "FT/FGA": "17",
+                "FT/FGA": "18",
                 "DRB%": "23",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHO-2025.png",
-        "last_update": "Jan 13 2025 22:32:13"
+        "last_update": "Jan 14 2025 22:32:11"
     }
 }

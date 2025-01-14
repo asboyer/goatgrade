@@ -28,22 +28,22 @@
         ],
         "injuries": [
             {
-                "Player": "Keion Brooks Jr.",
-                "Team": "New Orleans Pelicans",
-                "Update": "Sat, Jan 11, 2025",
-                "Description": "Out (Not With Team) - The Pelicans annnounced that Brooks Jr. is not with the team and is OUT for Sunday's (Jan. 12) game versus the Celtics. "
-            },
-            {
                 "Player": "Brandon Ingram",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sat, Jan 11, 2025",
-                "Description": "Out (Ankle) - The Pelicans listed Ingram as OUT for Sunday's (Jan. 12) game versus the Celtics."
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Out (Ankle) - The Pelicans listed Ingram as OUT for Tuesday's (Jan. 14) game against Chicago."
             },
             {
                 "Player": "Herbert Jones",
                 "Team": "New Orleans Pelicans",
                 "Update": "Fri, Jan 10, 2025",
                 "Description": "Out (Shoulder) - The Pelicans announced on Friday (Jan. 10) that Jones has suffered a torn labrum in his right shoulder and will be out indefinitely."
+            },
+            {
+                "Player": "Dejounte Murray",
+                "Team": "New Orleans Pelicans",
+                "Update": "Mon, Jan 13, 2025",
+                "Description": "Day To Day (Elbow) - The Pelicans listed Murray as questionable for Tuesday's (Jan. 14) game against Chicago."
             }
         ],
         "team_stats": {
@@ -99,18 +99,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
-                "FG": "22",
-                "FGA": "13",
+                "MP": "6",
+                "FG": "23",
+                "FGA": "12",
                 "FG%": "28",
-                "3P": "26",
+                "3P": "27",
                 "3PA": "25",
                 "3P%": "23",
                 "2P": "15",
                 "2PA": "5",
                 "2P%": "29",
                 "FT": "19",
-                "FTA": "17",
+                "FTA": "18",
                 "FT%": "25",
                 "ORB": "6",
                 "DRB": "29",
@@ -199,7 +199,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "6",
                 "FG": "26",
                 "FGA": "20",
                 "FG%": "29",
@@ -213,13 +213,13 @@
                 "FTA": "7",
                 "FT%": "25",
                 "ORB": "27",
-                "DRB": "23",
+                "DRB": "24",
                 "TRB": "26",
                 "AST": "25",
                 "STL": "21",
                 "BLK": "18",
                 "TOV": "14",
-                "PF": "27",
+                "PF": "26",
                 "PTS": "25"
             },
             "Opp Year/Year": {
@@ -253,8 +253,8 @@
                 "PW": "9",
                 "PL": "31",
                 "MOV": "-9.45",
-                "SOS": "0.76",
-                "SRS": "-8.69",
+                "SOS": "0.73",
+                "SRS": "-8.72",
                 "ORtg": "108.9",
                 "DRtg": "118.5",
                 "Pace": "98.7",
@@ -269,7 +269,7 @@
                 "Attendance": "348,203"
             },
             "Misc Lg Rank": {
-                "W": "27",
+                "W": "28",
                 "L": "1",
                 "PW": "29",
                 "PL": "29",
@@ -278,19 +278,19 @@
                 "SRS": "29",
                 "ORtg": "27",
                 "DRtg": "27",
-                "Pace": "17",
-                "FTr": "19",
+                "Pace": "18",
+                "FTr": "20",
                 "3PAr": "26",
                 "eFG%": "29",
-                "TOV%": "15",
+                "TOV%": "16",
                 "ORB%": "8",
                 "FT/FGA": "10",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "15"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NOP-2025.png",
-        "last_update": "Jan 13 2025 22:32:13"
+        "last_update": "Jan 14 2025 22:32:11"
     }
 }
