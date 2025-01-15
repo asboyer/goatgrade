@@ -29,9 +29,15 @@
         ],
         "injuries": [
             {
+                "Player": "Jay Huff",
+                "Team": "Memphis Grizzlies",
+                "Update": "Wed, Jan 15, 2025",
+                "Description": "Day To Day (Knee) - The Grizzlies have listed Huff as Probable for Wednesday's (Jan. 15) game against the Spurs."
+            },
+            {
                 "Player": "GG Jackson II",
                 "Team": "Memphis Grizzlies",
-                "Update": "Thu, Jan 9, 2025",
+                "Update": "Tue, Jan 14, 2025",
                 "Description": "Out (Foot ) - The Grizzlies assigned Jackson to the G League's Memphis Hustle on Thursday (Jan. 9). There is no clear timetable yet for his return."
             },
             {
@@ -49,8 +55,8 @@
             {
                 "Player": "Vince Williams Jr.",
                 "Team": "Memphis Grizzlies",
-                "Update": "Fri, Dec 20, 2024",
-                "Description": "Out (Ankle) - The Grizzlies announced that Williams Jr. is progressing well in his recovery from a Grade 3 right ankle sprain and the team expects him to return to game action in 3-to-6 weeks."
+                "Update": "Tue, Jan 14, 2025",
+                "Description": "Out (Ankle) - Head coach Taylor Jenkins said Monday (Jan. 13) that Williams is progressing well and is expected to be cleared for full-court basketball activities later this week but remains without a clear timeline for returning to game action."
             }
         ],
         "team_stats": {
@@ -58,13 +64,13 @@
                 "G": "40",
                 "MP": "9600",
                 "FG": "1795",
-                "FGA": "3719",
+                "FGA": "3718",
                 "FG%": ".483",
                 "3P": "560",
                 "3PA": "1514",
                 "3P%": ".370",
                 "2P": "1235",
-                "2PA": "2205",
+                "2PA": "2204",
                 "2P%": ".560",
                 "FT": "765",
                 "FTA": "992",
@@ -106,15 +112,15 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "3",
+                "MP": "11",
+                "FG": "2",
                 "FGA": "2",
                 "FG%": "5",
                 "3P": "11",
                 "3PA": "12",
                 "3P%": "10",
                 "2P": "2",
-                "2PA": "6",
+                "2PA": "5",
                 "2P%": "6",
                 "FT": "1",
                 "FTA": "1",
@@ -139,8 +145,8 @@
                 "3PA": "0.2%",
                 "3P%": "+.024",
                 "2P": "22.1%",
-                "2PA": "9.4%",
-                "2P%": "+.058",
+                "2PA": "9.3%",
+                "2P%": "+.059",
                 "FT": "19.2%",
                 "FTA": "18.1%",
                 "FT%": "+.007",
@@ -206,28 +212,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "11",
                 "FG": "18",
                 "FGA": "26",
                 "FG%": "3",
                 "3P": "20",
-                "3PA": "27",
+                "3PA": "26",
                 "3P%": "5",
                 "2P": "16",
                 "2PA": "22",
-                "2P%": "6",
+                "2P%": "7",
                 "FT": "28",
                 "FTA": "29",
                 "FT%": "2",
                 "ORB": "24",
                 "DRB": "3",
-                "TRB": "10",
+                "TRB": "11",
                 "AST": "13",
                 "STL": "26",
-                "BLK": "22",
+                "BLK": "23",
                 "TOV": "5",
                 "PF": "1",
-                "PTS": "22"
+                "PTS": "21"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -260,8 +266,8 @@
                 "PW": "28",
                 "PL": "12",
                 "MOV": "7.68",
-                "SOS": "-1.02",
-                "SRS": "6.66",
+                "SOS": "-1.03",
+                "SRS": "6.65",
                 "ORtg": "116.9",
                 "DRtg": "109.6",
                 "Pace": "105.1",
@@ -292,12 +298,12 @@
                 "TOV%": "6",
                 "ORB%": "2",
                 "FT/FGA": "23",
-                "DRB%": "18",
+                "DRB%": "19",
                 "Arena": "",
                 "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MEM-2025.png",
-        "last_update": "Jan 14 2025 22:32:11"
+        "last_update": "Jan 15 2025 22:32:11"
     }
 }

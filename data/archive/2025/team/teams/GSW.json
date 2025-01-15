@@ -27,34 +27,40 @@
         ],
         "injuries": [
             {
+                "Player": "Kyle Anderson",
+                "Team": "Golden State Warriors",
+                "Update": "Tue, Jan 14, 2025",
+                "Description": "Day To Day (Hamstring) - The Warriors listed Anderson as Questionable for Wednesday's (Jan. 15) game against the Timberwolves."
+            },
+            {
                 "Player": "Draymond Green",
                 "Team": "Golden State Warriors",
-                "Update": "Mon, Jan 13, 2025",
-                "Description": "Day To Day (Back) - Green did not play in Monday's (Jan. 13) game against Toronto."
+                "Update": "Tue, Jan 14, 2025",
+                "Description": "Day To Day (Back) - The Warriors listed Green as Questionable for Wednesday's (Jan. 15) game against the Timberwolves."
             },
             {
                 "Player": "Trayce Jackson-Davis",
                 "Team": "Golden State Warriors",
-                "Update": "Mon, Jan 13, 2025",
-                "Description": "Day To Day (Hand) - Jackson-Davis did not return to Monday's (Jan. 13) game against Toronto."
+                "Update": "Tue, Jan 14, 2025",
+                "Description": "Day To Day (Hand) - The Warriors listed Jackson-Davis as Probable for Wednesday's (Jan. 15) game against the Timberwolves."
             },
             {
                 "Player": "Jonathan Kuminga",
                 "Team": "Golden State Warriors",
-                "Update": "Mon, Jan 13, 2025",
-                "Description": "Day To Day (Ankle) - Kuminga did not play in Monday's (Jan. 13) game against Toronto."
+                "Update": "Sun, Jan 5, 2025",
+                "Description": "Out (Ankle) - Kuminga will be re-evaluated in three weeks after an MRI confirmed that he sustained a significant lateral right ankle sprain in Saturday's (Jan. 4) against the Grizzlies, per Anthony Slater of The Athletic."
             },
             {
                 "Player": "Gary Payton II",
                 "Team": "Golden State Warriors",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Out (Calf) - The Warriors announced Saturday (Jan. 4) that Payton has been cleared to begin individual workouts and will be re-evaluated in one week."
+                "Update": "Tue, Jan 14, 2025",
+                "Description": "Day To Day (Calf) - The Warriors listed Payton II as Probable for Wednesday's (Jan. 15) against the Timberwolves."
             },
             {
                 "Player": "Brandin Podziemski",
                 "Team": "Golden State Warriors",
                 "Update": "Sun, Jan 12, 2025",
-                "Description": "Out (Abdominal) - The Warriors announced Podziemski (abdomen) has started running at full speed but isn't near a return, Danny Emerman of Bay Area News Group reports."
+                "Description": "Out (Abdominal) - The Warriors announced Podziemski has started running at full speed but isn't near a return, Danny Emerman of Bay Area News Group reports."
             }
         ],
         "team_stats": {
@@ -110,13 +116,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "17",
                 "FG": "16",
-                "FGA": "6",
-                "FG%": "24",
+                "FGA": "5",
+                "FG%": "25",
                 "3P": "5",
                 "3PA": "4",
-                "3P%": "15",
+                "3P%": "16",
                 "2P": "23",
                 "2PA": "17",
                 "2P%": "27",
@@ -124,11 +130,11 @@
                 "FTA": "27",
                 "FT%": "30",
                 "ORB": "4",
-                "DRB": "13",
+                "DRB": "11",
                 "TRB": "3",
                 "AST": "8",
                 "STL": "8",
-                "BLK": "11",
+                "BLK": "10",
                 "TOV": "16",
                 "PF": "17",
                 "PTS": "18"
@@ -210,23 +216,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
-                "FG": "7",
+                "MP": "17",
+                "FG": "6",
                 "FGA": "13",
-                "FG%": "10",
+                "FG%": "9",
                 "3P": "9",
                 "3PA": "14",
-                "3P%": "7",
+                "3P%": "8",
                 "2P": "10",
-                "2PA": "11",
+                "2PA": "10",
                 "2P%": "15",
                 "FT": "13",
-                "FTA": "14",
-                "FT%": "14",
+                "FTA": "13",
+                "FT%": "13",
                 "ORB": "11",
                 "DRB": "26",
                 "TRB": "23",
-                "AST": "18",
+                "AST": "17",
                 "STL": "9",
                 "BLK": "29",
                 "TOV": "9",
@@ -264,8 +270,8 @@
                 "PW": "20",
                 "PL": "19",
                 "MOV": "0.36",
-                "SOS": "1.04",
-                "SRS": "1.40",
+                "SOS": "1.02",
+                "SRS": "1.38",
                 "ORtg": "111.4",
                 "DRtg": "111.0",
                 "Pace": "99.4",
@@ -280,9 +286,9 @@
                 "Attendance": "361,280"
             },
             "Misc Lg Rank": {
-                "W": "18",
+                "W": "19",
                 "L": "10",
-                "PW": "15",
+                "PW": "16",
                 "PL": "16",
                 "MOV": "15",
                 "SOS": "4",
@@ -302,6 +308,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/GSW-2025.png",
-        "last_update": "Jan 14 2025 22:32:11"
+        "last_update": "Jan 15 2025 22:32:11"
     }
 }

@@ -28,40 +28,40 @@
         ],
         "injuries": [
             {
-                "Player": "Kentavious Caldwell-Pope",
+                "Player": "Goga Bitadze",
                 "Team": "Orlando Magic",
-                "Update": "Mon, Jan 13, 2025",
-                "Description": "Day To Day (Knee) - Caldwell-Pope did not play in Sunday's (Jan. 12) game against Philadelphia."
+                "Update": "Tue, Jan 14, 2025",
+                "Description": "Day To Day (Hip) - The Magic have listed Bitadze as Questionable on Wednesday's (Jan. 15) game against the Bucks."
             },
             {
-                "Player": "Tristan Da Silva",
+                "Player": "Kentavious Caldwell-Pope",
                 "Team": "Orlando Magic",
-                "Update": "Sun, Jan 12, 2025",
-                "Description": "Day To Day (Illness) - Da Silva is questionable to return to Sunday's (Jan. 12) game against Philadelphia."
+                "Update": "Tue, Jan 14, 2025",
+                "Description": "Day To Day (Knee) - The Magic have listed Caldwell-Pope as Questionable on Wednesday's (Jan. 15) game against the Bucks."
             },
             {
                 "Player": "Gary Harris",
                 "Team": "Orlando Magic",
-                "Update": "Mon, Jan 13, 2025",
-                "Description": "Day To Day (Hamstring) - Harris did not play in Sunday's (Jan. 12) game against Philadelphia."
+                "Update": "Tue, Jan 14, 2025",
+                "Description": "Out (Hamstring) - The Magic have listed Harris as Out on Wednesday's (Jan. 15) game against the Bucks."
             },
             {
                 "Player": "Jett Howard",
                 "Team": "Orlando Magic",
-                "Update": "Mon, Jan 13, 2025",
-                "Description": "Day To Day (Ankle) - Howard did not play in Sunday's (Jan. 12) game against Philadelphia."
+                "Update": "Tue, Jan 14, 2025",
+                "Description": "Day To Day (Ankle) - The Magic have listed Howards as Doubtful on Wednesday's (Jan. 15) game against the Bucks."
             },
             {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
-                "Update": "Mon, Jan 13, 2025",
-                "Description": "Day To Day (Back) - Suggs did not play in Sunday's (Jan. 12) game against Philadelphia."
+                "Update": "Tue, Jan 14, 2025",
+                "Description": "Out (Back) - The Magic have listed Suggs as Out on Wednesday's (Jan. 15) game against the Bucks."
             },
             {
                 "Player": "Franz Wagner",
                 "Team": "Orlando Magic",
-                "Update": "Sat, Dec 7, 2024",
-                "Description": "Out (Oblique) - Magic star forward Franz Wagner has suffered a torn right oblique and is out indefinitely, sources tell ESPN. Wagner sustained the injury Friday night and will be re-evaluated in four weeks, per ESPN's Shams Charania."
+                "Update": "Tue, Jan 14, 2025",
+                "Description": "Out (Oblique) - Wagner, who will miss Wednesday's (Jan. 15) game against the Bucks, is expected to return once he gets his conditioning up to par, Mason Williams of Sports Illustrated reports."
             },
             {
                 "Player": "Moritz Wagner",
@@ -123,22 +123,22 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "4",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "26",
                 "3P": "30",
-                "3PA": "17",
+                "3PA": "18",
                 "3P%": "30",
                 "2P": "21",
                 "2PA": "24",
                 "2P%": "10",
-                "FT": "11",
+                "FT": "10",
                 "FTA": "8",
                 "FT%": "17",
                 "ORB": "15",
                 "DRB": "27",
-                "TRB": "27",
+                "TRB": "26",
                 "AST": "26",
                 "STL": "7",
                 "BLK": "2",
@@ -223,7 +223,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "4",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "16",
@@ -234,8 +234,8 @@
                 "2PA": "7",
                 "2P%": "9",
                 "FT": "21",
-                "FTA": "23",
-                "FT%": "8",
+                "FTA": "24",
+                "FT%": "9",
                 "ORB": "1",
                 "DRB": "8",
                 "TRB": "1",
@@ -277,8 +277,8 @@
                 "PW": "23",
                 "PL": "18",
                 "MOV": "1.56",
-                "SOS": "-0.40",
-                "SRS": "1.16",
+                "SOS": "-0.35",
+                "SRS": "1.22",
                 "ORtg": "108.7",
                 "DRtg": "107.1",
                 "Pace": "96.4",
@@ -293,12 +293,12 @@
                 "Attendance": "387,703"
             },
             "Misc Lg Rank": {
-                "W": "7",
-                "L": "16",
-                "PW": "9",
+                "W": "8",
+                "L": "17",
+                "PW": "10",
                 "PL": "14",
                 "MOV": "11",
-                "SOS": "21",
+                "SOS": "20",
                 "SRS": "13",
                 "ORtg": "28",
                 "DRtg": "2",
@@ -307,14 +307,14 @@
                 "3PAr": "12",
                 "eFG%": "11",
                 "TOV%": "2",
-                "ORB%": "13",
+                "ORB%": "12",
                 "FT/FGA": "28",
                 "DRB%": "1",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "6"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ORL-2025.png",
-        "last_update": "Jan 14 2025 22:32:11"
+        "last_update": "Jan 15 2025 22:32:11"
     }
 }

@@ -31,8 +31,8 @@
             {
                 "Player": "Immanuel Quickley",
                 "Team": "Toronto Raptors",
-                "Update": "Mon, Jan 13, 2025",
-                "Description": "Day To Day (Hip) - Quickley did not play in Monday's (Jan. 13) game against Golden State."
+                "Update": "Wed, Jan 15, 2025",
+                "Description": "Out (Hip) - The Raptors have listed Quickley as Out for Wednesday's (Jan. 15) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -88,7 +88,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "7",
                 "FG": "11",
                 "FGA": "13",
                 "FG%": "14",
@@ -99,7 +99,7 @@
                 "2PA": "3",
                 "2P%": "18",
                 "FT": "25",
-                "FTA": "21",
+                "FTA": "22",
                 "FT%": "28",
                 "ORB": "7",
                 "DRB": "25",
@@ -188,22 +188,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "7",
                 "FG": "22",
                 "FGA": "14",
-                "FG%": "21",
+                "FG%": "22",
                 "3P": "27",
                 "3PA": "23",
                 "3P%": "24",
                 "2P": "18",
                 "2PA": "8",
-                "2P%": "23",
+                "2P%": "22",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "15",
-                "ORB": "23",
+                "FT%": "14",
+                "ORB": "22",
                 "DRB": "7",
-                "TRB": "12",
+                "TRB": "14",
                 "AST": "21",
                 "STL": "26",
                 "BLK": "25",
@@ -242,8 +242,8 @@
                 "PW": "11",
                 "PL": "29",
                 "MOV": "-7.80",
-                "SOS": "1.71",
-                "SRS": "-6.09",
+                "SOS": "1.76",
+                "SRS": "-6.04",
                 "ORtg": "110.7",
                 "DRtg": "118.5",
                 "Pace": "99.4",
@@ -261,14 +261,14 @@
                 "W": "27",
                 "L": "3",
                 "PW": "27",
-                "PL": "28",
+                "PL": "27",
                 "MOV": "27",
                 "SOS": "2",
                 "SRS": "27",
                 "ORtg": "22",
                 "DRtg": "28",
-                "Pace": "8",
-                "FTr": "21",
+                "Pace": "9",
+                "FTr": "22",
                 "3PAr": "29",
                 "eFG%": "25",
                 "TOV%": "19",
@@ -276,10 +276,10 @@
                 "FT/FGA": "30",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/TOR-2025.png",
-        "last_update": "Jan 14 2025 22:32:11"
+        "last_update": "Jan 15 2025 22:32:11"
     }
 }

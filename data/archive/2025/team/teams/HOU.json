@@ -30,8 +30,14 @@
             {
                 "Player": "Tari Eason",
                 "Team": "Houston Rockets",
-                "Update": "Mon, Jan 13, 2025",
-                "Description": "Day To Day (Injury Management) - Eason did not play in Monday's (Jan. 13) game against Memphis."
+                "Update": "Tue, Jan 14, 2025",
+                "Description": "Day To Day (Injury Management) - The Rockets listed Eason as Doubtful for Wednesday's (Jan. 15) game against the Nuggets."
+            },
+            {
+                "Player": "Jock Landale",
+                "Team": "Houston Rockets",
+                "Update": "Tue, Jan 14, 2025",
+                "Description": "Out (Personal) - The Rockets listed Landale as Out for Wednesday's (Jan. 15) game against the Nuggets."
             },
             {
                 "Player": "Jabari Smith Jr.",
@@ -93,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "22",
                 "FG": "14",
                 "FGA": "1",
                 "FG%": "27",
@@ -105,13 +111,13 @@
                 "2P%": "28",
                 "FT": "8",
                 "FTA": "6",
-                "FT%": "26",
+                "FT%": "27",
                 "ORB": "1",
                 "DRB": "6",
                 "TRB": "1",
                 "AST": "29",
                 "STL": "10",
-                "BLK": "12",
+                "BLK": "11",
                 "TOV": "8",
                 "PF": "20",
                 "PTS": "12"
@@ -145,13 +151,13 @@
                 "G": "38",
                 "MP": "9195",
                 "FG": "1485",
-                "FGA": "3326",
-                "FG%": ".446",
+                "FGA": "3325",
+                "FG%": ".447",
                 "3P": "473",
                 "3PA": "1321",
                 "3P%": ".358",
                 "2P": "1012",
-                "2PA": "2005",
+                "2PA": "2004",
                 "2P%": ".505",
                 "FT": "636",
                 "FTA": "864",
@@ -171,12 +177,12 @@
                 "MP": "242.0",
                 "FG": "39.1",
                 "FGA": "87.5",
-                "FG%": ".446",
+                "FG%": ".447",
                 "3P": "12.4",
                 "3PA": "34.8",
                 "3P%": ".358",
                 "2P": "26.6",
-                "2PA": "52.8",
+                "2PA": "52.7",
                 "2P%": ".505",
                 "FT": "16.7",
                 "FTA": "22.7",
@@ -193,9 +199,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "22",
                 "FG": "3",
-                "FGA": "8",
+                "FGA": "7",
                 "FG%": "2",
                 "3P": "3",
                 "3PA": "2",
@@ -203,10 +209,10 @@
                 "2P": "6",
                 "2PA": "23",
                 "2P%": "1",
-                "FT": "16",
-                "FTA": "20",
+                "FT": "15",
+                "FTA": "22",
                 "FT%": "1",
-                "ORB": "12",
+                "ORB": "13",
                 "DRB": "9",
                 "TRB": "8",
                 "AST": "2",
@@ -247,8 +253,8 @@
                 "PW": "26",
                 "PL": "12",
                 "MOV": "5.92",
-                "SOS": "0.35",
-                "SRS": "6.27",
+                "SOS": "0.29",
+                "SRS": "6.21",
                 "ORtg": "113.8",
                 "DRtg": "107.9",
                 "Pace": "98.7",
@@ -272,7 +278,7 @@
                 "SRS": "5",
                 "ORtg": "11",
                 "DRtg": "3",
-                "Pace": "16",
+                "Pace": "17",
                 "FTr": "11",
                 "3PAr": "27",
                 "eFG%": "2",
@@ -281,10 +287,10 @@
                 "FT/FGA": "17",
                 "DRB%": "12",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/HOU-2025.png",
-        "last_update": "Jan 14 2025 22:32:11"
+        "last_update": "Jan 15 2025 22:32:11"
     }
 }

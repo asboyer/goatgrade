@@ -26,20 +26,7 @@
             "Baylor Scheierman",
             "Anton Watson"
         ],
-        "injuries": [
-            {
-                "Player": "Drew Peterson",
-                "Team": "Boston Celtics",
-                "Update": "Mon, Jan 13, 2025",
-                "Description": "Day To Day (Concussion) - Peterson did not play in Saturday's (Jan. 11) game against the Pelicans."
-            },
-            {
-                "Player": "Jordan Walsh",
-                "Team": "Boston Celtics",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Day To Day (Illness) - Walsh did not play in Friday's (Jan. 10) game against the Kings."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "39",
@@ -93,24 +80,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "13",
                 "FG": "13",
                 "FGA": "7",
                 "FG%": "18",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "14",
-                "2P": "29",
+                "3P%": "15",
+                "2P": "30",
                 "2PA": "30",
                 "2P%": "3",
                 "FT": "16",
                 "FTA": "20",
                 "FT%": "7",
-                "ORB": "12",
+                "ORB": "11",
                 "DRB": "8",
-                "TRB": "9",
-                "AST": "17",
-                "STL": "25",
+                "TRB": "10",
+                "AST": "18",
+                "STL": "26",
                 "BLK": "6",
                 "TOV": "1",
                 "PF": "2",
@@ -193,9 +180,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "13",
                 "FG": "11",
-                "FGA": "21",
+                "FGA": "20",
                 "FG%": "4",
                 "3P": "7",
                 "3PA": "6",
@@ -212,8 +199,8 @@
                 "AST": "4",
                 "STL": "3",
                 "BLK": "4",
-                "TOV": "25",
-                "PF": "16",
+                "TOV": "24",
+                "PF": "15",
                 "PTS": "6"
             },
             "Opp Year/Year": {
@@ -247,8 +234,8 @@
                 "PW": "30",
                 "PL": "9",
                 "MOV": "9.31",
-                "SOS": "-0.96",
-                "SRS": "8.35",
+                "SOS": "-0.88",
+                "SRS": "8.43",
                 "ORtg": "120.1",
                 "DRtg": "110.6",
                 "Pace": "97.5",
@@ -277,14 +264,14 @@
                 "3PAr": "1",
                 "eFG%": "4",
                 "TOV%": "24",
-                "ORB%": "17",
+                "ORB%": "16",
                 "FT/FGA": "2",
                 "DRB%": "7",
                 "Arena": "",
-                "Attendance": "6"
+                "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BOS-2025.png",
-        "last_update": "Jan 14 2025 22:32:11"
+        "last_update": "Jan 15 2025 22:32:11"
     }
 }

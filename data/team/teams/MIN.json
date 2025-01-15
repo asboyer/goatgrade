@@ -28,16 +28,10 @@
         ],
         "injuries": [
             {
-                "Player": "Rob Dillingham",
-                "Team": "Minnesota Timberwolves",
-                "Update": "Fri, Jan 3, 2025",
-                "Description": "Out (Ankle) - The Timberwolves announced on Friday (Jan. 3) that Dillingham has a Grade 2 right lateral ankle sprain. His return to play timeline is 1-2 weeks and he will be re-evaluated in one week."
-            },
-            {
                 "Player": "Terrence Shannon Jr. ",
                 "Team": "Minnesota Timberwolves",
                 "Update": "Mon, Jan 13, 2025",
-                "Description": "Day To Day (Ankle) - Shannon Jr. did not play in Monday's (Jan. 13) game against Washington."
+                "Description": "Out (Ankle) - Minnesota announced Monday (Jan. 13) that Shannon will miss the next 2-to-4 weeks after being diagnosed with a Grade 2 mid-foot sprain."
             }
         ],
         "team_stats": {
@@ -93,13 +87,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "14",
                 "FG": "26",
                 "FGA": "26",
                 "FG%": "17",
                 "3P": "4",
                 "3PA": "7",
-                "3P%": "3",
+                "3P%": "4",
                 "2P": "27",
                 "2PA": "29",
                 "2P%": "21",
@@ -107,11 +101,11 @@
                 "FTA": "24",
                 "FT%": "14",
                 "ORB": "20",
-                "DRB": "15",
-                "TRB": "18",
-                "AST": "21",
-                "STL": "15",
-                "BLK": "20",
+                "DRB": "14",
+                "TRB": "20",
+                "AST": "22",
+                "STL": "16",
+                "BLK": "21",
                 "TOV": "22",
                 "PF": "6",
                 "PTS": "22"
@@ -193,27 +187,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "14",
                 "FG": "5",
                 "FGA": "11",
                 "FG%": "7",
                 "3P": "4",
-                "3PA": "10",
+                "3PA": "9",
                 "3P%": "3",
                 "2P": "13",
                 "2PA": "14",
-                "2P%": "11",
+                "2P%": "10",
                 "FT": "5",
                 "FTA": "6",
                 "FT%": "10",
                 "ORB": "17",
                 "DRB": "5",
-                "TRB": "9",
+                "TRB": "10",
                 "AST": "5",
                 "STL": "23",
                 "BLK": "15",
-                "TOV": "13",
-                "PF": "17",
+                "TOV": "12",
+                "PF": "18",
                 "PTS": "4"
             },
             "Opp Year/Year": {
@@ -247,8 +241,8 @@
                 "PW": "22",
                 "PL": "17",
                 "MOV": "1.97",
-                "SOS": "0.20",
-                "SRS": "2.17",
+                "SOS": "0.10",
+                "SRS": "2.08",
                 "ORtg": "112.0",
                 "DRtg": "110.0",
                 "Pace": "97.4",
@@ -264,27 +258,27 @@
             },
             "Misc Lg Rank": {
                 "W": "11",
-                "L": "16",
+                "L": "17",
                 "PW": "11",
-                "PL": "10",
+                "PL": "9",
                 "MOV": "10",
-                "SOS": "12",
+                "SOS": "14",
                 "SRS": "9",
                 "ORtg": "19",
                 "DRtg": "6",
                 "Pace": "24",
                 "FTr": "19",
                 "3PAr": "3",
-                "eFG%": "6",
+                "eFG%": "5",
                 "TOV%": "10",
                 "ORB%": "19",
                 "FT/FGA": "5",
-                "DRB%": "16",
+                "DRB%": "15",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIN-2025.png",
-        "last_update": "Jan 14 2025 22:32:11"
+        "last_update": "Jan 15 2025 22:32:11"
     }
 }

@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Jalen Brunson",
+                "Team": "New York Knicks",
+                "Update": "Wed, Jan 15, 2025",
+                "Description": "Day To Day (Shoulder) - The Knicks have listed Brunson as Probable for Wednesday's (Jan. 15) game against the 76ers."
+            },
+            {
                 "Player": "Mitchell Robinson",
                 "Team": "New York Knicks",
                 "Update": "Wed, Jan 1, 2025",
@@ -36,8 +42,14 @@
             {
                 "Player": "Jericho Sims",
                 "Team": "New York Knicks",
-                "Update": "Mon, Jan 13, 2025",
-                "Description": "Day To Day (Back) - Sims did not play in Monday's (Jan. 13) game against Detroit."
+                "Update": "Wed, Jan 15, 2025",
+                "Description": "Day To Day (Back) - The Knicks have listed Sims as Questionable for Wednesday's (Jan. 15) game against the 76ers."
+            },
+            {
+                "Player": "Karl-Anthony Towns",
+                "Team": "New York Knicks",
+                "Update": "Wed, Jan 15, 2025",
+                "Description": "Day To Day (Thumb) - The Knicks have listed Towns as Questionable for Wednesday's (Jan. 15) game against the 76ers."
             }
         ],
         "team_stats": {
@@ -93,8 +105,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
-                "FG": "4",
+                "MP": "2",
+                "FG": "5",
                 "FGA": "20",
                 "FG%": "3",
                 "3P": "17",
@@ -105,16 +117,16 @@
                 "2P%": "2",
                 "FT": "13",
                 "FTA": "16",
-                "FT%": "3",
+                "FT%": "2",
                 "ORB": "19",
                 "DRB": "22",
-                "TRB": "23",
+                "TRB": "22",
                 "AST": "11",
                 "STL": "27",
                 "BLK": "28",
-                "TOV": "4",
+                "TOV": "5",
                 "PF": "5",
-                "PTS": "6"
+                "PTS": "7"
             },
             "Year/Year": {
                 "G": "",
@@ -193,11 +205,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "16",
                 "FGA": "10",
                 "FG%": "18",
-                "3P": "17",
+                "3P": "16",
                 "3PA": "7",
                 "3P%": "25",
                 "2P": "14",
@@ -211,10 +223,10 @@
                 "TRB": "2",
                 "AST": "10",
                 "STL": "2",
-                "BLK": "12",
+                "BLK": "13",
                 "TOV": "23",
                 "PF": "11",
-                "PTS": "10"
+                "PTS": "9"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +259,8 @@
                 "PW": "28",
                 "PL": "13",
                 "MOV": "6.49",
-                "SOS": "-1.53",
-                "SRS": "4.96",
+                "SOS": "-1.46",
+                "SRS": "5.03",
                 "ORtg": "120.5",
                 "DRtg": "113.8",
                 "Pace": "97.1",
@@ -271,20 +283,20 @@
                 "SOS": "29",
                 "SRS": "6",
                 "ORtg": "2",
-                "DRtg": "17",
+                "DRtg": "18",
                 "Pace": "26",
                 "FTr": "15",
                 "3PAr": "21",
                 "eFG%": "18",
                 "TOV%": "20",
-                "ORB%": "14",
+                "ORB%": "13",
                 "FT/FGA": "6",
                 "DRB%": "10",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NYK-2025.png",
-        "last_update": "Jan 14 2025 22:32:11"
+        "last_update": "Jan 15 2025 22:32:11"
     }
 }
