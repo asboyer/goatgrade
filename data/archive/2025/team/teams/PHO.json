@@ -28,10 +28,16 @@
         ],
         "injuries": [
             {
+                "Player": "Bradley Beal",
+                "Team": "Phoenix Suns",
+                "Update": "Wed, Jan 15, 2025",
+                "Description": "Day To Day (Ankle) - The Suns have listed Beal as Doubtful for Thursday's (Jan. 16) game against the Wizards."
+            },
+            {
                 "Player": "Jusuf Nurkić",
                 "Team": "Phoenix Suns",
-                "Update": "Tue, Jan 14, 2025",
-                "Description": "Day To Day (Illness) - Nurkic did not play in Tuesday's (Jan. 14) game against the Hawks."
+                "Update": "Wed, Jan 15, 2025",
+                "Description": "Out (Illness) - The Suns have listed Nurkic as Out for Thursday's (Jan. 16) game against the Wizards."
             }
         ],
         "team_stats": {
@@ -87,27 +93,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "20",
                 "FG": "19",
                 "FGA": "27",
-                "FG%": "10",
+                "FG%": "11",
                 "3P": "10",
-                "3PA": "15",
+                "3PA": "14",
                 "3P%": "6",
                 "2P": "22",
                 "2PA": "26",
                 "2P%": "12",
-                "FT": "11",
+                "FT": "9",
                 "FTA": "11",
-                "FT%": "6",
+                "FT%": "5",
                 "ORB": "28",
                 "DRB": "21",
                 "TRB": "25",
                 "AST": "10",
-                "STL": "20",
-                "BLK": "14",
+                "STL": "21",
+                "BLK": "15",
                 "TOV": "10",
-                "PF": "6",
+                "PF": "7",
                 "PTS": "14"
             },
             "Year/Year": {
@@ -187,28 +193,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "20",
                 "FG": "19",
-                "FGA": "19",
-                "FG%": "14",
+                "FGA": "20",
+                "FG%": "13",
                 "3P": "21",
-                "3PA": "16",
-                "3P%": "20",
+                "3PA": "17",
+                "3P%": "17",
                 "2P": "17",
                 "2PA": "20",
-                "2P%": "16",
+                "2P%": "14",
                 "FT": "20",
                 "FTA": "17",
-                "FT%": "23",
-                "ORB": "23",
+                "FT%": "24",
+                "ORB": "24",
                 "DRB": "17",
                 "TRB": "22",
-                "AST": "20",
+                "AST": "19",
                 "STL": "13",
                 "BLK": "5",
                 "TOV": "28",
                 "PF": "10",
-                "PTS": "19"
+                "PTS": "18"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -257,28 +263,28 @@
                 "Attendance": "358,491"
             },
             "Misc Lg Rank": {
-                "W": "19",
+                "W": "20",
                 "L": "10",
                 "PW": "19",
                 "PL": "19",
                 "MOV": "19",
-                "SOS": "22",
-                "SRS": "19",
+                "SOS": "23",
+                "SRS": "20",
                 "ORtg": "10",
-                "DRtg": "25",
-                "Pace": "25",
-                "FTr": "9",
+                "DRtg": "24",
+                "Pace": "24",
+                "FTr": "7",
                 "3PAr": "11",
                 "eFG%": "15",
                 "TOV%": "27",
                 "ORB%": "26",
                 "FT/FGA": "18",
-                "DRB%": "25",
+                "DRB%": "24",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHO-2025.png",
-        "last_update": "Jan 15 2025 22:32:11"
+        "last_update": "Jan 16 2025 22:32:15"
     }
 }

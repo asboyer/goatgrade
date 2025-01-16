@@ -31,26 +31,32 @@
             {
                 "Player": "Deni Avdija",
                 "Team": "Portland Trail Blazers",
-                "Update": "Tue, Jan 14, 2025",
-                "Description": "Day To Day (Ankle) - Avdija did not play in Tuesday's (Jan. 14) game against the Nets."
+                "Update": "Wed, Jan 15, 2025",
+                "Description": "Day To Day (Ankle) - The Trail Blazers listed Avdija as Doubtful for Thursday's (Jan. 16) game against the Clippers"
+            },
+            {
+                "Player": "Donovan Clingan",
+                "Team": "Portland Trail Blazers",
+                "Update": "Wed, Jan 15, 2025",
+                "Description": "Out (Ankke) - The Trail Blazers announced Donovan Clingan was evaluated after he left Tuesday's (Jan. 14) game vs. Brooklyn. It has been determined to be a mild left ankle sprain. Clingan will be re-evaluated in one week."
             },
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Tue, Jan 14, 2025",
-                "Description": "Day To Day (Face) - Grant did not play in Tuesday's (Jan. 14) game against the Nets."
+                "Update": "Wed, Jan 15, 2025",
+                "Description": "Out (Face) - The Trail Blazers listed Grant as Out for Thursday's (Jan. 16) game against the Clippers"
             },
             {
                 "Player": "Matisse Thybulle",
                 "Team": "Portland Trail Blazers",
-                "Update": "Tue, Jan 14, 2025",
-                "Description": "Day To Day (Ankle) - Thybulle did not play in Tuesday's (Jan. 14) game against the Nets."
+                "Update": "Wed, Jan 15, 2025",
+                "Description": "Out (Ankle) - Portland announced Saturday (Jan. 11) that Thybulle will be re-evaluated in two weeks."
             },
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Tue, Jan 14, 2025",
-                "Description": "Day To Day (Illness) - Williams III did not play in Tuesday's (Jan. 14) game against the Nets."
+                "Update": "Wed, Jan 15, 2025",
+                "Description": "Day To Day (Illness) - The Trail Blazers listed Williams III as Doubtful for Thursday's (Jan. 16) game against the Clippers."
             }
         ],
         "team_stats": {
@@ -106,27 +112,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "25",
                 "FG": "20",
                 "FGA": "14",
                 "FG%": "23",
                 "3P": "24",
-                "3PA": "21",
-                "3P%": "26",
+                "3PA": "20",
+                "3P%": "25",
                 "2P": "15",
                 "2PA": "10",
-                "2P%": "25",
+                "2P%": "24",
                 "FT": "23",
-                "FTA": "23",
-                "FT%": "23",
+                "FTA": "24",
+                "FT%": "22",
                 "ORB": "5",
                 "DRB": "26",
                 "TRB": "23",
                 "AST": "28",
-                "STL": "18",
+                "STL": "16",
                 "BLK": "7",
                 "TOV": "28",
-                "PF": "18",
+                "PF": "17",
                 "PTS": "24"
             },
             "Year/Year": {
@@ -206,27 +212,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "25",
                 "FG": "23",
-                "FGA": "12",
-                "FG%": "27",
+                "FGA": "13",
+                "FG%": "26",
                 "3P": "24",
                 "3PA": "13",
                 "3P%": "27",
                 "2P": "20",
-                "2PA": "13",
+                "2PA": "12",
                 "2P%": "20",
                 "FT": "23",
-                "FTA": "20",
-                "FT%": "28",
-                "ORB": "27",
+                "FTA": "21",
+                "FT%": "29",
+                "ORB": "28",
                 "DRB": "10",
-                "TRB": "21",
+                "TRB": "19",
                 "AST": "23",
                 "STL": "29",
                 "BLK": "28",
-                "TOV": "10",
-                "PF": "17",
+                "TOV": "9",
+                "PF": "18",
                 "PTS": "24"
             },
             "Opp Year/Year": {
@@ -260,8 +266,8 @@
                 "PW": "10",
                 "PL": "29",
                 "MOV": "-8.49",
-                "SOS": "0.49",
-                "SRS": "-7.99",
+                "SOS": "0.60",
+                "SRS": "-7.89",
                 "ORtg": "109.4",
                 "DRtg": "118.0",
                 "Pace": "99.1",
@@ -277,11 +283,11 @@
             },
             "Misc Lg Rank": {
                 "W": "25",
-                "L": "6",
-                "PW": "28",
-                "PL": "28",
+                "L": "7",
+                "PW": "29",
+                "PL": "26",
                 "MOV": "28",
-                "SOS": "7",
+                "SOS": "6",
                 "SRS": "28",
                 "ORtg": "26",
                 "DRtg": "26",
@@ -294,10 +300,10 @@
                 "FT/FGA": "24",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/POR-2025.png",
-        "last_update": "Jan 15 2025 22:32:11"
+        "last_update": "Jan 16 2025 22:32:15"
     }
 }

@@ -31,8 +31,8 @@
             {
                 "Player": "Marvin Bagley III",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Dec 26, 2024",
-                "Description": "Out (Knee) - Wizards head coach Brian Keefe said on Thursday (Dec. 26) that Bagley III's sprained right knee isn't expected to be a season-ending injury, though he is without a clear timeline to return to the court, per Varun Shankar of The Washington Pos"
+                "Update": "Wed, Jan 15, 2025",
+                "Description": "Out (Knee) - The Wizards have listed Bagley III as Out for Thursday's (Jan. 16) game against the Suns."
             },
             {
                 "Player": "Saddiq Bey",
@@ -43,8 +43,8 @@
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Jan 13, 2025",
-                "Description": "Day To Day (Foot) - Brogdon did not play in Monday's (Jan. 13) game against Minnesota."
+                "Update": "Wed, Jan 15, 2025",
+                "Description": "Out (Foot) - The Wizards listed Brogdon as Out for Thursday's (Jan. 16) game against the Suns."
             },
             {
                 "Player": "Tristan Vukcevic",
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "28",
                 "FG": "21",
                 "FGA": "9",
                 "FG%": "29",
@@ -115,16 +115,16 @@
                 "3P%": "29",
                 "2P": "16",
                 "2PA": "11",
-                "2P%": "26",
+                "2P%": "25",
                 "FT": "24",
                 "FTA": "25",
-                "FT%": "18",
+                "FT%": "17",
                 "ORB": "17",
                 "DRB": "19",
-                "TRB": "15",
+                "TRB": "17",
                 "AST": "20",
-                "STL": "21",
-                "BLK": "8",
+                "STL": "23",
+                "BLK": "9",
                 "TOV": "26",
                 "PF": "27",
                 "PTS": "25"
@@ -206,25 +206,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "28",
                 "FG": "29",
                 "FGA": "29",
                 "FG%": "23",
                 "3P": "29",
                 "3PA": "30",
-                "3P%": "21",
+                "3P%": "20",
                 "2P": "28",
-                "2PA": "21",
+                "2PA": "23",
                 "2P%": "25",
                 "FT": "29",
                 "FTA": "28",
-                "FT%": "20",
+                "FT%": "19",
                 "ORB": "30",
                 "DRB": "29",
                 "TRB": "30",
                 "AST": "27",
-                "STL": "24",
-                "BLK": "24",
+                "STL": "27",
+                "BLK": "23",
                 "TOV": "26",
                 "PF": "24",
                 "PTS": "30"
@@ -260,8 +260,8 @@
                 "PW": "6",
                 "PL": "32",
                 "MOV": "-14.32",
-                "SOS": "2.23",
-                "SRS": "-12.08",
+                "SOS": "2.24",
+                "SRS": "-12.07",
                 "ORtg": "105.9",
                 "DRtg": "119.9",
                 "Pace": "101.9",
@@ -288,16 +288,16 @@
                 "Pace": "4",
                 "FTr": "26",
                 "3PAr": "16",
-                "eFG%": "24",
+                "eFG%": "23",
                 "TOV%": "28",
                 "ORB%": "20",
                 "FT/FGA": "26",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/WAS-2025.png",
-        "last_update": "Jan 15 2025 22:32:11"
+        "last_update": "Jan 16 2025 22:32:15"
     }
 }
