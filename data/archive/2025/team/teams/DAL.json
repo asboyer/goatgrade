@@ -43,14 +43,14 @@
             {
                 "Player": "Kyrie Irving",
                 "Team": "Dallas Mavericks",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Back) - Irving did not play in Wednesday's (Jan. 15) game against the Pelicans."
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Back) - The Mavericks listed Irving as Questionable for Friday's (Jan. 17) game against the Thunder."
             },
             {
                 "Player": "Dereck Lively II",
                 "Team": "Dallas Mavericks",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Ankle) - Lively II did not play in Wednesday's (Jan. 15) game against the Pelicans."
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Out (Ankle) - The Mavericks listed Lively II as Out for Friday's (Jan. 17) game against the Thunder."
             }
         ],
         "team_stats": {
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "9",
                 "FG": "10",
                 "FGA": "18",
                 "FG%": "7",
@@ -114,16 +114,16 @@
                 "3PA": "23",
                 "3P%": "9",
                 "2P": "10",
-                "2PA": "12",
+                "2PA": "11",
                 "2P%": "14",
                 "FT": "6",
                 "FTA": "5",
-                "FT%": "21",
+                "FT%": "23",
                 "ORB": "13",
-                "DRB": "14",
+                "DRB": "15",
                 "TRB": "13",
                 "AST": "18",
-                "STL": "13",
+                "STL": "14",
                 "BLK": "5",
                 "TOV": "13",
                 "PF": "16",
@@ -206,22 +206,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "17",
+                "MP": "9",
+                "FG": "16",
                 "FGA": "23",
                 "FG%": "9",
                 "3P": "4",
                 "3PA": "4",
-                "3P%": "11",
+                "3P%": "12",
                 "2P": "22",
                 "2PA": "29",
-                "2P%": "6",
+                "2P%": "5",
                 "FT": "18",
                 "FTA": "19",
                 "FT%": "8",
-                "ORB": "26",
+                "ORB": "27",
                 "DRB": "11",
-                "TRB": "21",
+                "TRB": "20",
                 "AST": "15",
                 "STL": "18",
                 "BLK": "6",
@@ -260,8 +260,8 @@
                 "PW": "25",
                 "PL": "16",
                 "MOV": "3.46",
-                "SOS": "0.07",
-                "SRS": "3.54",
+                "SOS": "0.06",
+                "SRS": "3.52",
                 "ORtg": "116.1",
                 "DRtg": "112.6",
                 "Pace": "99.3",
@@ -276,13 +276,13 @@
                 "Attendance": "401,290"
             },
             "Misc Lg Rank": {
-                "W": "9",
-                "L": "14",
+                "W": "11",
+                "L": "15",
                 "PW": "7",
                 "PL": "8",
                 "MOV": "8",
-                "SOS": "14",
-                "SRS": "8",
+                "SOS": "15",
+                "SRS": "9",
                 "ORtg": "7",
                 "DRtg": "12",
                 "Pace": "10",
@@ -298,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DAL-2025.png",
-        "last_update": "Jan 16 2025 22:32:15"
+        "last_update": "Jan 17 2025 22:32:16"
     }
 }

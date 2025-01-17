@@ -41,16 +41,34 @@
                 "Description": "Out (Leg) - The Bulls announced Monday (Jan. 13) that Craig will be re-evaluated in two weeks, per K.C. Johnson of NBC Sports Chicago."
             },
             {
+                "Player": "Ayo Dosunmu",
+                "Team": "Chicago Bulls",
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Calf) - The Bulls listed Dosunmu as Probable for Friday's (Jan. 17) game against the Hornets."
+            },
+            {
+                "Player": "Josh Giddey",
+                "Team": "Chicago Bulls",
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Hip) - The Bulls listed Giddey as Questionable for Friday's (Jan. 17) game against the Hornets."
+            },
+            {
                 "Player": "Talen Horton-Tucker",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Knee) - Horton-Tucker did not return to Wednesday's (Jan. 15) game versus the Hawks. "
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Knee) - The Bulls listed Horton-Tucker as Questionable for Friday's (Jan. 17) game against the Hornets."
             },
             {
                 "Player": "Adama Sanogo",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Knee) - Sanogo did not play in Wednesday's (Jan. 15) game against the Hawks."
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Out (Knee) - The Bulls listed Sanogo as Out for Friday's (Jan. 17) game against the Hornets."
+            },
+            {
+                "Player": "Coby White",
+                "Team": "Chicago Bulls",
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Neck) - The Bulls listed White as Probable for Friday's (Jan. 17) game against the Hornets."
             }
         ],
         "team_stats": {
@@ -106,13 +124,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "5",
+                "MP": "9",
+                "FG": "6",
                 "FGA": "3",
                 "FG%": "12",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "7",
+                "3P%": "8",
                 "2P": "19",
                 "2PA": "20",
                 "2P%": "9",
@@ -124,9 +142,9 @@
                 "TRB": "5",
                 "AST": "4",
                 "STL": "27",
-                "BLK": "23",
+                "BLK": "22",
                 "TOV": "19",
-                "PF": "8",
+                "PF": "7",
                 "PTS": "5"
             },
             "Year/Year": {
@@ -206,10 +224,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "9",
                 "FG": "30",
                 "FGA": "30",
-                "FG%": "20",
+                "FG%": "21",
                 "3P": "15",
                 "3PA": "27",
                 "3P%": "2",
@@ -219,7 +237,7 @@
                 "FT": "16",
                 "FTA": "15",
                 "FT%": "10",
-                "ORB": "16",
+                "ORB": "15",
                 "DRB": "30",
                 "TRB": "29",
                 "AST": "29",
@@ -260,8 +278,8 @@
                 "PW": "17",
                 "PL": "24",
                 "MOV": "-3.07",
-                "SOS": "-0.18",
-                "SRS": "-3.25",
+                "SOS": "-0.19",
+                "SRS": "-3.27",
                 "ORtg": "112.9",
                 "DRtg": "115.8",
                 "Pace": "103.8",
@@ -298,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHI-2025.png",
-        "last_update": "Jan 16 2025 22:32:15"
+        "last_update": "Jan 17 2025 22:32:16"
     }
 }

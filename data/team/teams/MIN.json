@@ -28,6 +28,18 @@
         ],
         "injuries": [
             {
+                "Player": "Donte DiVincenzo",
+                "Team": "Minnesota Timberwolves",
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Out (Toe) - The Timberwolves listed DiVincenzo as Out for Friday's (Jan. 17) game against the Knicks."
+            },
+            {
+                "Player": "Leonard Miller",
+                "Team": "Minnesota Timberwolves",
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Out (Illness) - The Timberwolves listed Miller as Out for Friday's (Jan. 17) game against the Knicks."
+            },
+            {
                 "Player": "Terrence Shannon Jr. ",
                 "Team": "Minnesota Timberwolves",
                 "Update": "Mon, Jan 13, 2025",
@@ -87,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "15",
                 "FG": "26",
                 "FGA": "26",
                 "FG%": "17",
@@ -97,12 +109,12 @@
                 "2P": "28",
                 "2PA": "29",
                 "2P%": "21",
-                "FT": "22",
+                "FT": "21",
                 "FTA": "23",
                 "FT%": "15",
                 "ORB": "20",
                 "DRB": "17",
-                "TRB": "20",
+                "TRB": "19",
                 "AST": "23",
                 "STL": "18",
                 "BLK": "19",
@@ -187,11 +199,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "15",
                 "FG": "5",
                 "FGA": "11",
-                "FG%": "6",
-                "3P": "5",
+                "FG%": "7",
+                "3P": "6",
                 "3PA": "9",
                 "3P%": "5",
                 "2P": "10",
@@ -204,11 +216,11 @@
                 "DRB": "5",
                 "TRB": "10",
                 "AST": "5",
-                "STL": "25",
-                "BLK": "15",
+                "STL": "24",
+                "BLK": "14",
                 "TOV": "13",
                 "PF": "15",
-                "PTS": "5"
+                "PTS": "4"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -241,8 +253,8 @@
                 "PW": "22",
                 "PL": "18",
                 "MOV": "1.90",
-                "SOS": "0.27",
-                "SRS": "2.17",
+                "SOS": "0.28",
+                "SRS": "2.18",
                 "ORtg": "112.4",
                 "DRtg": "110.5",
                 "Pace": "97.1",
@@ -258,13 +270,13 @@
             },
             "Misc Lg Rank": {
                 "W": "13",
-                "L": "14",
-                "PW": "10",
-                "PL": "12",
+                "L": "15",
+                "PW": "11",
+                "PL": "11",
                 "MOV": "12",
                 "SOS": "12",
                 "SRS": "10",
-                "ORtg": "19",
+                "ORtg": "18",
                 "DRtg": "6",
                 "Pace": "25",
                 "FTr": "17",
@@ -275,10 +287,10 @@
                 "FT/FGA": "5",
                 "DRB%": "18",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIN-2025.png",
-        "last_update": "Jan 16 2025 22:32:15"
+        "last_update": "Jan 17 2025 22:32:16"
     }
 }

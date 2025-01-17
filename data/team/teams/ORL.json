@@ -31,25 +31,25 @@
                 "Player": "Goga Bitadze",
                 "Team": "Orlando Magic",
                 "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Hip) - Bitadze did not play in Wednesday's (Jan. 15) game against the Bucks."
+                "Description": "Out (Hip) - The Magic listed Bitadze as Out for Friday's (Jan. 16) game against the Celtics."
             },
             {
                 "Player": "Gary Harris",
                 "Team": "Orlando Magic",
                 "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Hamstring) - Harris did not play in Wednesday's (Jan. 15) game against the Bucks."
+                "Description": "Out (Hamstring) - The Magic listed Harris as Out for Friday's (Jan. 16) game against the Celtics."
             },
             {
                 "Player": "Jett Howard",
                 "Team": "Orlando Magic",
                 "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Ankle) - Howard did not play in Wednesday's (Jan. 15) game against the Bucks."
+                "Description": "Out (Ankle) - The Magic listed Howard as Out for Friday's (Jan. 16) game against the Celtics."
             },
             {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
                 "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Back) - Suggs did not play in Wednesday's (Jan. 15) game against the Bucks."
+                "Description": "Out (Back) - The Magic listed Suggs as Out for Friday's (Jan. 16) game against the Celtics."
             },
             {
                 "Player": "Franz Wagner",
@@ -117,19 +117,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "4",
                 "FG": "30",
                 "FGA": "28",
-                "FG%": "27",
+                "FG%": "28",
                 "3P": "30",
                 "3PA": "15",
                 "3P%": "30",
-                "2P": "21",
+                "2P": "22",
                 "2PA": "23",
                 "2P%": "13",
-                "FT": "11",
+                "FT": "12",
                 "FTA": "8",
-                "FT%": "18",
+                "FT%": "17",
                 "ORB": "15",
                 "DRB": "27",
                 "TRB": "27",
@@ -137,7 +137,7 @@
                 "STL": "6",
                 "BLK": "2",
                 "TOV": "18",
-                "PF": "25",
+                "PF": "26",
                 "PTS": "30"
             },
             "Year/Year": {
@@ -217,7 +217,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "4",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "17",
@@ -234,7 +234,7 @@
                 "DRB": "9",
                 "TRB": "2",
                 "AST": "1",
-                "STL": "15",
+                "STL": "14",
                 "BLK": "3",
                 "TOV": "3",
                 "PF": "2",
@@ -288,11 +288,11 @@
             },
             "Misc Lg Rank": {
                 "W": "8",
-                "L": "14",
+                "L": "15",
                 "PW": "13",
                 "PL": "16",
                 "MOV": "14",
-                "SOS": "20",
+                "SOS": "21",
                 "SRS": "15",
                 "ORtg": "28",
                 "DRtg": "2",
@@ -305,10 +305,10 @@
                 "FT/FGA": "28",
                 "DRB%": "1",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ORL-2025.png",
-        "last_update": "Jan 16 2025 22:32:15"
+        "last_update": "Jan 17 2025 22:32:16"
     }
 }

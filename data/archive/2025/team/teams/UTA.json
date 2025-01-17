@@ -31,14 +31,14 @@
             {
                 "Player": "Jordan Clarkson",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Jan 8, 2025",
-                "Description": "Out (Plantar ) - Clarkson underwent an MRI on his left foot Monday (Jan. 6) which confirmed a torn plantar fascia, per Sarah Todd of The Deseret News. There is no clear timetable yet for his return."
+                "Update": "Mon, Jan 6, 2025",
+                "Description": "Out (Plantar ) - Clarkson underwent an MRI on his left foot Monday (Jan. 6) which confirmed a torn plantar fascia, per Sarah Todd of The Deseret News. He will be re-evaluated in two weeks."
             },
             {
                 "Player": "John Collins",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Hip) - Collins did not play in Wednesday's (Jan. 15) game against the Hornets."
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Out (Hip) - The Jazz listed Collins as OUT for Friday's (Jan. 17) game against the Pelicans."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -49,20 +49,20 @@
             {
                 "Player": "Johnny Juzang",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Hand) - Juzang did not play in Wednesday's (Jan. 15) game against the Hornets."
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Out (Hand) - The Jazz listed Juzang as OUT for Friday's (Jan. 17) game against the Pelicans."
             },
             {
                 "Player": "Lauri Markkanen",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Back) - Markkanen did not play in Wednesday's (Jan. 15) game against the Hornets."
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Out (Back) - The Jazz listed Markkanen as OUT for Friday's (Jan. 17) game against the Pelicans."
             },
             {
-                "Player": "Collin Sexton",
+                "Player": "Micah Potter",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Rest) - Sexton did not play in Wednesday's (Jan. 15) game against the Hornets."
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Out (Illness) - The Jazz listed Potter as OUT for Friday's (Jan. 17) game versus the Pelicans."
             }
         ],
         "team_stats": {
@@ -118,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "26",
                 "FG": "24",
                 "FGA": "21",
                 "FG%": "19",
@@ -126,9 +126,9 @@
                 "3PA": "10",
                 "3P%": "16",
                 "2P": "25",
-                "2PA": "25",
+                "2PA": "26",
                 "2P%": "20",
-                "FT": "8",
+                "FT": "9",
                 "FTA": "9",
                 "FT%": "8",
                 "ORB": "9",
@@ -218,13 +218,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "26",
                 "FG": "27",
                 "FGA": "24",
                 "FG%": "25",
                 "3P": "26",
                 "3PA": "29",
-                "3P%": "10",
+                "3P%": "11",
                 "2P": "25",
                 "2PA": "15",
                 "2P%": "29",
@@ -293,23 +293,23 @@
                 "PW": "24",
                 "PL": "25",
                 "MOV": "25",
-                "SOS": "7",
+                "SOS": "8",
                 "SRS": "26",
                 "ORtg": "20",
                 "DRtg": "29",
                 "Pace": "15",
                 "FTr": "9",
                 "3PAr": "10",
-                "eFG%": "25",
+                "eFG%": "24",
                 "TOV%": "30",
                 "ORB%": "3",
-                "FT/FGA": "10",
+                "FT/FGA": "11",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/UTA-2025.png",
-        "last_update": "Jan 16 2025 22:32:15"
+        "last_update": "Jan 17 2025 22:32:16"
     }
 }

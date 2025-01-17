@@ -29,22 +29,34 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Foot) - The Lakers listed Davis as Probable for Friday's (Jan. 17) game against the Nets."
+            },
+            {
                 "Player": "Dorian Finney-Smith",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Personal) - Finney-Smith did not play in Wednesday's (Jan. 15) game against the Heat."
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Personal) - The Lakers listed Finney-Smith as Doubtful for Friday's (Jan. 17) game against the Nets."
             },
             {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Wednesday's (Jan. 15) game against the Heat."
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Out (Hamstring) - The Lakers listed Hood-Schifino as Out for Friday's (Jan. 17) game against the Nets."
             },
             {
                 "Player": "Bronny James",
                 "Team": "Los Angeles Lakers",
                 "Update": "Wed, Jan 15, 2025",
                 "Description": "Day To Day (Illness) - James did not play in Wednesday's (Jan. 15) game against the Heat."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Foot) - The Lakers listed James as Probable for Friday's (Jan. 17) game against the Nets."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -112,15 +124,15 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "17",
                 "FGA": "24",
-                "FG%": "9",
+                "FG%": "11",
                 "3P": "26",
                 "3PA": "27",
                 "3P%": "20",
                 "2P": "12",
-                "2PA": "14",
+                "2PA": "15",
                 "2P%": "10",
                 "FT": "4",
                 "FTA": "6",
@@ -128,8 +140,8 @@
                 "ORB": "26",
                 "DRB": "25",
                 "TRB": "28",
-                "AST": "12",
-                "STL": "22",
+                "AST": "13",
+                "STL": "23",
                 "BLK": "21",
                 "TOV": "6",
                 "PF": "4",
@@ -212,28 +224,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "24",
                 "FGA": "17",
-                "FG%": "27",
+                "FG%": "26",
                 "3P": "12",
                 "3PA": "10",
-                "3P%": "21",
-                "2P": "28",
-                "2PA": "24",
-                "2P%": "24",
+                "3P%": "20",
+                "2P": "29",
+                "2PA": "23",
+                "2P%": "25",
                 "FT": "4",
                 "FTA": "4",
-                "FT%": "23",
+                "FT%": "24",
                 "ORB": "17",
                 "DRB": "14",
                 "TRB": "15",
                 "AST": "24",
-                "STL": "10",
+                "STL": "9",
                 "BLK": "2",
                 "TOV": "22",
-                "PF": "4",
-                "PTS": "20"
+                "PF": "3",
+                "PTS": "18"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -266,8 +278,8 @@
                 "PW": "16",
                 "PL": "22",
                 "MOV": "-2.42",
-                "SOS": "0.44",
-                "SRS": "-1.99",
+                "SOS": "0.40",
+                "SRS": "-2.02",
                 "ORtg": "113.9",
                 "DRtg": "116.4",
                 "Pace": "97.8",
@@ -285,7 +297,7 @@
                 "W": "13",
                 "L": "21",
                 "PW": "22",
-                "PL": "20",
+                "PL": "19",
                 "MOV": "21",
                 "SOS": "11",
                 "SRS": "19",
@@ -293,8 +305,8 @@
                 "DRtg": "23",
                 "Pace": "22",
                 "FTr": "2",
-                "3PAr": "25",
-                "eFG%": "24",
+                "3PAr": "24",
+                "eFG%": "23",
                 "TOV%": "19",
                 "ORB%": "25",
                 "FT/FGA": "4",
@@ -304,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAL-2025.png",
-        "last_update": "Jan 16 2025 22:32:15"
+        "last_update": "Jan 17 2025 22:32:16"
     }
 }

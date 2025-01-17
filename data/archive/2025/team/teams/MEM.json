@@ -35,6 +35,12 @@
                 "Description": "Out (Foot ) - The Grizzlies assigned Jackson to the G League's Memphis Hustle on Thursday (Jan. 9). There is no clear timetable yet for his return."
             },
             {
+                "Player": "Ja Morant",
+                "Team": "Memphis Grizzlies",
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Foot) - The Grizzlies listed Morant as Questionable for Friday's (Jan. 17) game against the Spurs."
+            },
+            {
                 "Player": "Marcus Smart",
                 "Team": "Memphis Grizzlies",
                 "Update": "Fri, Jan 10, 2025",
@@ -106,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "11",
                 "FG": "1",
                 "FGA": "2",
                 "FG%": "5",
@@ -115,7 +121,7 @@
                 "3P%": "10",
                 "2P": "2",
                 "2PA": "4",
-                "2P%": "6",
+                "2P%": "7",
                 "FT": "1",
                 "FTA": "1",
                 "FT%": "24",
@@ -206,11 +212,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "11",
                 "FG": "18",
                 "FGA": "26",
                 "FG%": "2",
-                "3P": "20",
+                "3P": "21",
                 "3PA": "26",
                 "3P%": "4",
                 "2P": "14",
@@ -222,12 +228,12 @@
                 "ORB": "22",
                 "DRB": "4",
                 "TRB": "11",
-                "AST": "11",
-                "STL": "24",
+                "AST": "12",
+                "STL": "23",
                 "BLK": "24",
                 "TOV": "5",
                 "PF": "1",
-                "PTS": "21"
+                "PTS": "22"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -260,8 +266,8 @@
                 "PW": "29",
                 "PL": "12",
                 "MOV": "7.83",
-                "SOS": "-1.02",
-                "SRS": "6.81",
+                "SOS": "-1.03",
+                "SRS": "6.80",
                 "ORtg": "117.1",
                 "DRtg": "109.6",
                 "Pace": "105.1",
@@ -282,22 +288,22 @@
                 "PL": "4",
                 "MOV": "4",
                 "SOS": "28",
-                "SRS": "5",
+                "SRS": "4",
                 "ORtg": "5",
                 "DRtg": "5",
                 "Pace": "1",
                 "FTr": "6",
                 "3PAr": "18",
                 "eFG%": "3",
-                "TOV%": "8",
+                "TOV%": "7",
                 "ORB%": "2",
                 "FT/FGA": "23",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MEM-2025.png",
-        "last_update": "Jan 16 2025 22:32:15"
+        "last_update": "Jan 17 2025 22:32:16"
     }
 }

@@ -37,8 +37,8 @@
             {
                 "Player": "Aaron Gordon",
                 "Team": "Denver Nuggets",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Calf) - Gordon did not play in Wednesday's (Jan. 15) game against the Rockets."
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Calf) - The Nuggets listed Gordon as Questionable for Friday's (Jan. 17) game against the Heat."
             },
             {
                 "Player": "DaRon Holmes",
@@ -49,8 +49,14 @@
             {
                 "Player": "Nikola Jokić",
                 "Team": "Denver Nuggets",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Elbow) - Jokic did not play in Wednesday's (Jan. 15) game against the Rockets."
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Elbow) - The Nuggets listed Jokic as Questionable for Friday's (Jan. 17) game against the Heat."
+            },
+            {
+                "Player": "Jamal Murray",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Knee) - The Nuggets listed Murray as Probable for Friday's (Jan. 17) game against the Heat."
             }
         ],
         "team_stats": {
@@ -106,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "12",
                 "FG": "2",
                 "FGA": "12",
                 "FG%": "2",
@@ -115,18 +121,18 @@
                 "3P%": "3",
                 "2P": "1",
                 "2PA": "1",
-                "2P%": "5",
+                "2P%": "4",
                 "FT": "5",
                 "FTA": "2",
-                "FT%": "27",
+                "FT%": "26",
                 "ORB": "14",
                 "DRB": "5",
                 "TRB": "8",
                 "AST": "1",
-                "STL": "12",
+                "STL": "11",
                 "BLK": "19",
                 "TOV": "15",
-                "PF": "9",
+                "PF": "10",
                 "PTS": "3"
             },
             "Year/Year": {
@@ -206,22 +212,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "12",
                 "FG": "25",
-                "FGA": "28",
-                "FG%": "15",
+                "FGA": "29",
+                "FG%": "14",
                 "3P": "19",
                 "3PA": "25",
                 "3P%": "8",
                 "2P": "26",
                 "2PA": "27",
                 "2P%": "18",
-                "FT": "7",
-                "FTA": "9",
+                "FT": "8",
+                "FTA": "10",
                 "FT%": "6",
                 "ORB": "21",
                 "DRB": "3",
-                "TRB": "9",
+                "TRB": "8",
                 "AST": "30",
                 "STL": "21",
                 "BLK": "22",
@@ -260,8 +266,8 @@
                 "PW": "25",
                 "PL": "15",
                 "MOV": "4.00",
-                "SOS": "0.45",
-                "SRS": "4.45",
+                "SOS": "0.47",
+                "SRS": "4.47",
                 "ORtg": "117.9",
                 "DRtg": "114.0",
                 "Pace": "100.7",
@@ -281,7 +287,7 @@
                 "PW": "8",
                 "PL": "7",
                 "MOV": "7",
-                "SOS": "10",
+                "SOS": "9",
                 "SRS": "7",
                 "ORtg": "4",
                 "DRtg": "17",
@@ -298,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DEN-2025.png",
-        "last_update": "Jan 16 2025 22:32:15"
+        "last_update": "Jan 17 2025 22:32:16"
     }
 }

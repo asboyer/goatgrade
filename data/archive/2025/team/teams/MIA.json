@@ -2,7 +2,7 @@
     "MIA": {
         "info": {
             "record": "20-19",
-            "standing": "9th in East",
+            "standing": "8th in East",
             "coach": "Erik Spoelstra (20-19)",
             "gm": "Pat Riley",
             "preseason_odds": "+4000"
@@ -30,8 +30,8 @@
             {
                 "Player": "Josh Richardson",
                 "Team": "Miami Heat",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Heel) - Richardson did not play in Wednesday's (Jan. 15) game against the Lakers."
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Out (Heel) - The Heat have listed Richardson as Out for Friday's (Jan. 17) game against the Nuggets."
             },
             {
                 "Player": "Dru Smith",
@@ -93,17 +93,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "23",
                 "FG": "25",
                 "FGA": "23",
                 "FG%": "20",
                 "3P": "6",
                 "3PA": "9",
-                "3P%": "12",
+                "3P%": "11",
                 "2P": "26",
                 "2PA": "27",
                 "2P%": "23",
-                "FT": "10",
+                "FT": "11",
                 "FTA": "9",
                 "FT%": "12",
                 "ORB": "27",
@@ -193,26 +193,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "23",
                 "FG": "13",
                 "FGA": "16",
                 "FG%": "12",
                 "3P": "14",
                 "3PA": "16",
-                "3P%": "12",
+                "3P%": "13",
                 "2P": "13",
                 "2PA": "12",
-                "2P%": "16",
+                "2P%": "15",
                 "FT": "2",
                 "FTA": "2",
                 "FT%": "26",
                 "ORB": "20",
                 "DRB": "28",
                 "TRB": "26",
-                "AST": "20",
+                "AST": "19",
                 "STL": "5",
                 "BLK": "17",
-                "TOV": "16",
+                "TOV": "15",
                 "PF": "22",
                 "PTS": "7"
             },
@@ -247,8 +247,8 @@
                 "PW": "21",
                 "PL": "18",
                 "MOV": "1.26",
-                "SOS": "-0.81",
-                "SRS": "0.45",
+                "SOS": "-0.82",
+                "SRS": "0.44",
                 "ORtg": "112.7",
                 "DRtg": "111.4",
                 "Pace": "97.0",
@@ -263,28 +263,28 @@
                 "Attendance": "335,027"
             },
             "Misc Lg Rank": {
-                "W": "17",
-                "L": "14",
-                "PW": "14",
+                "W": "18",
+                "L": "15",
+                "PW": "15",
                 "PL": "13",
                 "MOV": "13",
                 "SOS": "25",
                 "SRS": "14",
-                "ORtg": "17",
-                "DRtg": "10",
+                "ORtg": "16",
+                "DRtg": "9",
                 "Pace": "26",
                 "FTr": "8",
                 "3PAr": "9",
                 "eFG%": "12",
-                "TOV%": "16",
+                "TOV%": "15",
                 "ORB%": "27",
                 "FT/FGA": "3",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIA-2025.png",
-        "last_update": "Jan 16 2025 22:32:15"
+        "last_update": "Jan 17 2025 22:32:16"
     }
 }

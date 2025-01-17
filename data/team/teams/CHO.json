@@ -31,14 +31,26 @@
             {
                 "Player": "Tre Mann",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Back) - Mann did not play in Wednesday's (Jan. 15) game against the Jazz."
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Out (Back) - The Hornets listed Mann as Out for Friday's (Jan. 17) game against the Bulls."
+            },
+            {
+                "Player": "Brandon Miller",
+                "Team": "Charlotte Hornets",
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Wrist) - The Hornets listed Miller as Questionable for Friday's (Jan. 17) game against the Bulls."
             },
             {
                 "Player": "Grant Williams",
                 "Team": "Charlotte Hornets",
                 "Update": "Wed, Dec 11, 2024",
                 "Description": "Out For Season (ACL) - The Hornets announced on Wednesday (Dec. 11) that Williams underwent successful surgery to repair multiple tears in his knee, including the ACL, per ESPN's Shams Charania. He is expected to return in 9 to 12 months."
+            },
+            {
+                "Player": "Mark Williams",
+                "Team": "Charlotte Hornets",
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Knee) - The Hornets listed Williams as Probable for Friday's (Jan. 17) game against the Bulls."
             }
         ],
         "team_stats": {
@@ -100,13 +112,13 @@
                 "FG%": "30",
                 "3P": "8",
                 "3PA": "3",
-                "3P%": "26",
+                "3P%": "25",
                 "2P": "27",
                 "2PA": "24",
                 "2P%": "30",
-                "FT": "27",
+                "FT": "28",
                 "FTA": "26",
-                "FT%": "20",
+                "FT%": "22",
                 "ORB": "2",
                 "DRB": "16",
                 "TRB": "4",
@@ -196,24 +208,24 @@
                 "G": "",
                 "MP": "30",
                 "FG": "8",
-                "FGA": "7",
-                "FG%": "16",
+                "FGA": "6",
+                "FG%": "15",
                 "3P": "18",
                 "3PA": "24",
                 "3P%": "7",
-                "2P": "7",
-                "2PA": "5",
+                "2P": "6",
+                "2PA": "4",
                 "2P%": "22",
                 "FT": "21",
                 "FTA": "20",
-                "FT%": "12",
+                "FT%": "13",
                 "ORB": "8",
                 "DRB": "20",
                 "TRB": "16",
                 "AST": "17",
-                "STL": "14",
+                "STL": "13",
                 "BLK": "20",
-                "TOV": "17",
+                "TOV": "18",
                 "PF": "13",
                 "PTS": "15"
             },
@@ -248,8 +260,8 @@
                 "PW": "12",
                 "PL": "25",
                 "MOV": "-5.89",
-                "SOS": "0.19",
-                "SRS": "-5.70",
+                "SOS": "0.14",
+                "SRS": "-5.75",
                 "ORtg": "107.9",
                 "DRtg": "113.9",
                 "Pace": "97.9",
@@ -269,7 +281,7 @@
                 "PW": "27",
                 "PL": "24",
                 "MOV": "24",
-                "SOS": "13",
+                "SOS": "14",
                 "SRS": "25",
                 "ORtg": "29",
                 "DRtg": "16",
@@ -282,10 +294,10 @@
                 "FT/FGA": "21",
                 "DRB%": "8",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHO-2025.png",
-        "last_update": "Jan 16 2025 22:32:15"
+        "last_update": "Jan 17 2025 22:32:16"
     }
 }

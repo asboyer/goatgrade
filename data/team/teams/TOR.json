@@ -29,10 +29,16 @@
         ],
         "injuries": [
             {
+                "Player": "Ochai Agbaji",
+                "Team": "Toronto Raptors",
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Day To Day (Hand) - The Raptors have listed Agbaji as Questionable in Friday's (Jan. 17) game against the Bucks."
+            },
+            {
                 "Player": "Immanuel Quickley",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Hip) - Quickley did not play in Wednesday's (Jan. 15) game against the Celtics."
+                "Update": "Thu, Jan 16, 2025",
+                "Description": "Out (Hip) - The Raptors have listed Quickley as Out in Friday's (Jan. 17) game against the Bucks."
             }
         ],
         "team_stats": {
@@ -88,16 +94,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "11",
+                "MP": "7",
+                "FG": "12",
                 "FGA": "11",
-                "FG%": "14",
+                "FG%": "15",
                 "3P": "29",
                 "3PA": "29",
-                "3P%": "21",
+                "3P%": "22",
                 "2P": "5",
                 "2PA": "3",
-                "2P%": "17",
+                "2P%": "18",
                 "FT": "26",
                 "FTA": "22",
                 "FT%": "28",
@@ -105,7 +111,7 @@
                 "DRB": "24",
                 "TRB": "15",
                 "AST": "6",
-                "STL": "19",
+                "STL": "21",
                 "BLK": "25",
                 "TOV": "24",
                 "PF": "30",
@@ -188,26 +194,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "20",
+                "MP": "7",
+                "FG": "21",
                 "FGA": "14",
-                "FG%": "21",
+                "FG%": "22",
                 "3P": "27",
                 "3PA": "23",
                 "3P%": "24",
                 "2P": "14",
                 "2PA": "7",
-                "2P%": "21",
+                "2P%": "20",
                 "FT": "30",
                 "FTA": "30",
                 "FT%": "9",
                 "ORB": "22",
-                "DRB": "7",
+                "DRB": "6",
                 "TRB": "14",
                 "AST": "21",
-                "STL": "26",
-                "BLK": "26",
-                "TOV": "18",
+                "STL": "25",
+                "BLK": "28",
+                "TOV": "19",
                 "PF": "21",
                 "PTS": "27"
             },
@@ -242,8 +248,8 @@
                 "PW": "12",
                 "PL": "29",
                 "MOV": "-7.29",
-                "SOS": "1.84",
-                "SRS": "-5.46",
+                "SOS": "1.81",
+                "SRS": "-5.48",
                 "ORtg": "110.9",
                 "DRtg": "118.2",
                 "Pace": "99.3",
@@ -261,11 +267,11 @@
                 "W": "26",
                 "L": "3",
                 "PW": "25",
-                "PL": "27",
+                "PL": "26",
                 "MOV": "27",
                 "SOS": "2",
                 "SRS": "24",
-                "ORtg": "22",
+                "ORtg": "23",
                 "DRtg": "28",
                 "Pace": "11",
                 "FTr": "22",
@@ -280,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/TOR-2025.png",
-        "last_update": "Jan 16 2025 22:32:15"
+        "last_update": "Jan 17 2025 22:32:16"
     }
 }
