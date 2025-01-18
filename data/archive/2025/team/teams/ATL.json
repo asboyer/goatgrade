@@ -37,38 +37,38 @@
             {
                 "Player": "De'Andre Hunter",
                 "Team": "Atlanta Hawks",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Foot) - Hunter did not play in Wednesday's (Jan. 15) game against the Bulls."
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Day To Day (Foot) - The Hawks listed Hunter as Probable for Saturday's (Jan. 18) game against the Celtics."
             },
             {
                 "Player": "Jalen Johnson",
                 "Team": "Atlanta Hawks",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Shoulder) - Johnson did not play in Wednesday's (Jan. 15) game against the Bulls."
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Day To Day (Shoulder) - The Hawks listed Johnson as Questionable for Saturday's (Jan. 18) game against the Celtics."
             },
             {
                 "Player": "Larry Nance Jr.",
                 "Team": "Atlanta Hawks",
-                "Update": "Fri, Jan 3, 2025",
-                "Description": "Out (Hand) - Nance underwent surgery Thursday (Jan. 2) to repair the fractured fourth metacarpal bone in his right hand and will be re-evaluated in two weeks, per Brad Rowland of the Locked On Podcast Network."
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Out (Hand) - The Hawks announced that Nance Jr. is progressing in his rehab and will be re-evaluated in one week, per Sr. NBA Writer Marc J. Spears."
             },
             {
                 "Player": "Zaccharie Risacher",
                 "Team": "Atlanta Hawks",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Hip) - Risacher did not play in Wednesday's (Jan. 15) game against the Bulls."
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Out (Thigh) - The Hawks announced that Risacher will miss the next two games and his status will be updated in advance of Wednesdayâs (Jan. 22) game vs. Detroit."
             },
             {
                 "Player": "Trae Young",
                 "Team": "Atlanta Hawks",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Rib) - Young did not play in Wednesday's (Jan. 15) game against the Bulls."
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Day To Day (Rib) - The Hawks listed Young as Probable for Saturday's (Jan. 18) game against the Celtics."
             },
             {
                 "Player": "Cody Zeller",
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Personal) - Zeller did not play in Wednesday's (Jan. 15) game against the Bulls."
+                "Description": "Out (Personal) - The Hawks announced Zeller has yet to suit up this season due to personal reasons. Until Atlanta provides a timetable for his return, the veteran big man can be considered out indefinitely."
             }
         ],
         "team_stats": {
@@ -124,28 +124,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "18",
                 "FG": "9",
                 "FGA": "4",
                 "FG%": "16",
                 "3P": "18",
-                "3PA": "16",
-                "3P%": "18",
+                "3PA": "15",
+                "3P%": "19",
                 "2P": "9",
-                "2PA": "5",
-                "2P%": "19",
+                "2PA": "4",
+                "2P%": "20",
                 "FT": "3",
                 "FTA": "3",
                 "FT%": "14",
                 "ORB": "8",
                 "DRB": "18",
-                "TRB": "7",
-                "AST": "2",
+                "TRB": "6",
+                "AST": "3",
                 "STL": "2",
                 "BLK": "12",
                 "TOV": "22",
                 "PF": "12",
-                "PTS": "7"
+                "PTS": "6"
             },
             "Year/Year": {
                 "G": "",
@@ -224,25 +224,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "18",
                 "FG": "28",
                 "FGA": "25",
-                "FG%": "24",
+                "FG%": "25",
                 "3P": "30",
                 "3PA": "28",
                 "3P%": "30",
-                "2P": "21",
-                "2PA": "17",
+                "2P": "22",
+                "2PA": "18",
                 "2P%": "19",
-                "FT": "14",
+                "FT": "15",
                 "FTA": "13",
-                "FT%": "21",
+                "FT%": "22",
                 "ORB": "11",
-                "DRB": "22",
+                "DRB": "23",
                 "TRB": "19",
                 "AST": "28",
-                "STL": "22",
-                "BLK": "18",
+                "STL": "24",
+                "BLK": "20",
                 "TOV": "4",
                 "PF": "7",
                 "PTS": "28"
@@ -278,8 +278,8 @@
                 "PW": "18",
                 "PL": "22",
                 "MOV": "-1.95",
-                "SOS": "-0.61",
-                "SRS": "-2.56",
+                "SOS": "-0.59",
+                "SRS": "-2.54",
                 "ORtg": "112.7",
                 "DRtg": "114.6",
                 "Pace": "103.4",
@@ -294,14 +294,14 @@
                 "Attendance": "296,745"
             },
             "Misc Lg Rank": {
-                "W": "13",
-                "L": "15",
+                "W": "15",
+                "L": "17",
                 "PW": "20",
-                "PL": "21",
+                "PL": "20",
                 "MOV": "20",
                 "SOS": "23",
                 "SRS": "21",
-                "ORtg": "15",
+                "ORtg": "17",
                 "DRtg": "20",
                 "Pace": "3",
                 "FTr": "10",
@@ -316,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ATL-2025.png",
-        "last_update": "Jan 17 2025 22:32:16"
+        "last_update": "Jan 18 2025 22:32:16"
     }
 }

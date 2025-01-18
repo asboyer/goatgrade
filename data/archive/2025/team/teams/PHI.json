@@ -30,26 +30,32 @@
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Toe) - Drummond did not play in Wednesday's (Jan. 15) game against the Knicks."
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Day To Day (Toe) - The 76ers have listed Drummond as Questionable for Saturday's (Jan. 18) game against the Pacers."
             },
             {
                 "Player": "Joel Embiid",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Foot) - Embiid did not play in Wednesday's (Jan. 15) game against the Knicks."
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Day To Day (Foot) - Embiid will have his left knee re-evaluated in 7-10 days due to swelling, according to Shams Charania of ESPN."
+            },
+            {
+                "Player": "Paul George",
+                "Team": "Philadelphia 76ers",
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Day To Day (Groin) - The 76ers listed George as Questionable for Saturday's (Jan. 18) game against the Pacers."
             },
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Hip) - Lowry did not play in Wednesday's (Jan. 15) game against the Knicks."
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Out (Hip) - The 76ers listed Lowry as Out for Saturday's (Jan. 18) game against the Pacers."
             },
             {
                 "Player": "Caleb Martin",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Day To Day (Groin) - Martin did not play in Wednesday's (Jan. 15) game against the Knicks."
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Out (Groin) - The 76ers listed Martin as Out for Saturday's (Jan. 18) game against the Pacers."
             },
             {
                 "Player": "KJ Martin",
@@ -62,6 +68,12 @@
                 "Team": "Philadelphia 76ers",
                 "Update": "Thu, Jan 9, 2025",
                 "Description": "Out For Season (Meniscus) - McCain was reviewed Thursday (Jan. 9) by the surgeon who performed surgery on his left knee and is progressing well. The 76ers officially ruled out for the rest of the season, per Kyle Neubeck of AllPHLY.com."
+            },
+            {
+                "Player": "Guerschon Yabusele",
+                "Team": "Philadelphia 76ers",
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Day To Day (Knee) - The 76ers listed Yabusele as Questionable for Saturday's (Jan. 18) game against the Pacers."
             }
         ],
         "team_stats": {
@@ -117,26 +129,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "27",
                 "FG": "28",
-                "FGA": "29",
+                "FGA": "28",
                 "FG%": "23",
                 "3P": "23",
                 "3PA": "20",
-                "3P%": "24",
+                "3P%": "25",
                 "2P": "23",
-                "2PA": "19",
-                "2P%": "22",
+                "2PA": "20",
+                "2P%": "23",
                 "FT": "2",
                 "FTA": "4",
-                "FT%": "10",
-                "ORB": "21",
+                "FT%": "11",
+                "ORB": "22",
                 "DRB": "30",
                 "TRB": "30",
                 "AST": "30",
                 "STL": "4",
                 "BLK": "27",
-                "TOV": "12",
+                "TOV": "13",
                 "PF": "22",
                 "PTS": "27"
             },
@@ -217,13 +229,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
-                "FG": "9",
+                "MP": "27",
+                "FG": "8",
                 "FGA": "3",
                 "FG%": "29",
                 "3P": "10",
                 "3PA": "8",
-                "3P%": "19",
+                "3P%": "18",
                 "2P": "12",
                 "2PA": "2",
                 "2P%": "30",
@@ -233,11 +245,11 @@
                 "ORB": "6",
                 "DRB": "19",
                 "TRB": "13",
-                "AST": "18",
-                "STL": "4",
-                "BLK": "21",
+                "AST": "17",
+                "STL": "5",
+                "BLK": "22",
                 "TOV": "2",
-                "PF": "6",
+                "PF": "4",
                 "PTS": "11"
             },
             "Opp Year/Year": {
@@ -271,8 +283,8 @@
                 "PW": "15",
                 "PL": "24",
                 "MOV": "-3.64",
-                "SOS": "-0.18",
-                "SRS": "-3.82",
+                "SOS": "-0.25",
+                "SRS": "-3.89",
                 "ORtg": "110.3",
                 "DRtg": "114.1",
                 "Pace": "96.5",
@@ -295,8 +307,8 @@
                 "SOS": "17",
                 "SRS": "23",
                 "ORtg": "24",
-                "DRtg": "19",
-                "Pace": "30",
+                "DRtg": "17",
+                "Pace": "29",
                 "FTr": "1",
                 "3PAr": "14",
                 "eFG%": "29",
@@ -305,10 +317,10 @@
                 "FT/FGA": "20",
                 "DRB%": "22",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHI-2025.png",
-        "last_update": "Jan 17 2025 22:32:16"
+        "last_update": "Jan 18 2025 22:32:16"
     }
 }

@@ -26,7 +26,20 @@
             "Luke Travers",
             "Emoni Bates"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Evan Mobley",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Day To Day (Calf) - The Cavaliers listed Mobley as Questionable for Saturday's (Jan. 18) game against the Timberwolves."
+            },
+            {
+                "Player": "Isaac Okoro",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Day To Day (Shoulder) - The Cavaliers listed Okoro as Questionable for Saturday's (Jan. 18) game against the Timberwolves."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "40",
@@ -80,10 +93,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "25",
                 "FG": "3",
                 "FGA": "15",
-                "FG%": "1",
+                "FG%": "2",
                 "3P": "3",
                 "3PA": "5",
                 "3P%": "1",
@@ -91,16 +104,16 @@
                 "2PA": "21",
                 "2P%": "1",
                 "FT": "19",
-                "FTA": "20",
-                "FT%": "16",
+                "FTA": "19",
+                "FT%": "15",
                 "ORB": "23",
                 "DRB": "7",
                 "TRB": "18",
                 "AST": "5",
                 "STL": "12",
                 "BLK": "24",
-                "TOV": "4",
-                "PF": "8",
+                "TOV": "5",
+                "PF": "9",
                 "PTS": "2"
             },
             "Year/Year": {
@@ -180,27 +193,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "25",
                 "FG": "17",
                 "FGA": "21",
                 "FG%": "11",
                 "3P": "11",
                 "3PA": "7",
-                "3P%": "21",
+                "3P%": "20",
                 "2P": "19",
                 "2PA": "25",
-                "2P%": "6",
-                "FT": "10",
+                "2P%": "5",
+                "FT": "9",
                 "FTA": "8",
-                "FT%": "17",
+                "FT%": "18",
                 "ORB": "14",
                 "DRB": "12",
                 "TRB": "12",
-                "AST": "11",
+                "AST": "10",
                 "STL": "10",
                 "BLK": "8",
-                "TOV": "10",
-                "PF": "16",
+                "TOV": "9",
+                "PF": "15",
                 "PTS": "13"
             },
             "Opp Year/Year": {
@@ -251,27 +264,27 @@
             },
             "Misc Lg Rank": {
                 "W": "1",
-                "L": "29",
-                "PW": "2",
+                "L": "30",
+                "PW": "3",
                 "PL": "2",
                 "MOV": "2",
                 "SOS": "29",
                 "SRS": "2",
                 "ORtg": "1",
-                "DRtg": "11",
+                "DRtg": "10",
                 "Pace": "6",
                 "FTr": "21",
                 "3PAr": "6",
                 "eFG%": "11",
                 "TOV%": "13",
                 "ORB%": "22",
-                "FT/FGA": "10",
+                "FT/FGA": "9",
                 "DRB%": "12",
                 "Arena": "",
                 "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CLE-2025.png",
-        "last_update": "Jan 17 2025 22:32:16"
+        "last_update": "Jan 18 2025 22:32:16"
     }
 }

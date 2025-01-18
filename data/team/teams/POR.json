@@ -31,8 +31,8 @@
             {
                 "Player": "Deni Avdija",
                 "Team": "Portland Trail Blazers",
-                "Update": "Thu, Jan 16, 2025",
-                "Description": "Day To Day (Ankle) - Avdija did not play in Thursday's (Jan. 16) game against the Clippers."
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Day To Day (Ankle) - The Trail Blazers listed Avdija as Doubtful for Saturday's (Jan. 18) game against the Rockets."
             },
             {
                 "Player": "Donovan Clingan",
@@ -43,8 +43,8 @@
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Thu, Jan 16, 2025",
-                "Description": "Day To Day (Face) - Grant did not play in Thursday's (Jan. 16) game against the Clippers."
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Day To Day (Face) - The Trail Blazers listed Grant as Questionable for Saturday's (Jan. 18) game against the Rockets."
             },
             {
                 "Player": "Matisse Thybulle",
@@ -106,11 +106,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
-                "FG": "22",
+                "MP": "25",
+                "FG": "23",
                 "FGA": "14",
                 "FG%": "25",
-                "3P": "24",
+                "3P": "25",
                 "3PA": "21",
                 "3P%": "27",
                 "2P": "15",
@@ -118,10 +118,10 @@
                 "2P%": "26",
                 "FT": "24",
                 "FTA": "25",
-                "FT%": "19",
-                "ORB": "5",
-                "DRB": "26",
-                "TRB": "23",
+                "FT%": "18",
+                "ORB": "6",
+                "DRB": "27",
+                "TRB": "24",
                 "AST": "28",
                 "STL": "15",
                 "BLK": "8",
@@ -206,25 +206,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
-                "FG": "23",
+                "MP": "25",
+                "FG": "22",
                 "FGA": "12",
                 "FG%": "27",
                 "3P": "23",
                 "3PA": "11",
-                "3P%": "27",
-                "2P": "20",
-                "2PA": "13",
+                "3P%": "28",
+                "2P": "21",
+                "2PA": "12",
                 "2P%": "21",
                 "FT": "25",
                 "FTA": "23",
-                "FT%": "29",
-                "ORB": "26",
+                "FT%": "30",
+                "ORB": "27",
                 "DRB": "12",
                 "TRB": "21",
                 "AST": "23",
                 "STL": "29",
-                "BLK": "27",
+                "BLK": "28",
                 "TOV": "8",
                 "PF": "18",
                 "PTS": "24"
@@ -260,8 +260,8 @@
                 "PW": "10",
                 "PL": "30",
                 "MOV": "-9.00",
-                "SOS": "0.71",
-                "SRS": "-8.29",
+                "SOS": "0.77",
+                "SRS": "-8.23",
                 "ORtg": "109.0",
                 "DRtg": "118.0",
                 "Pace": "99.0",
@@ -277,7 +277,7 @@
             },
             "Misc Lg Rank": {
                 "W": "25",
-                "L": "6",
+                "L": "7",
                 "PW": "29",
                 "PL": "28",
                 "MOV": "29",
@@ -285,19 +285,19 @@
                 "SRS": "29",
                 "ORtg": "27",
                 "DRtg": "26",
-                "Pace": "14",
+                "Pace": "15",
                 "FTr": "24",
-                "3PAr": "19",
-                "eFG%": "28",
-                "TOV%": "10",
-                "ORB%": "5",
+                "3PAr": "20",
+                "eFG%": "27",
+                "TOV%": "9",
+                "ORB%": "4",
                 "FT/FGA": "24",
-                "DRB%": "29",
+                "DRB%": "30",
                 "Arena": "",
                 "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/POR-2025.png",
-        "last_update": "Jan 17 2025 22:32:16"
+        "last_update": "Jan 18 2025 22:32:16"
     }
 }

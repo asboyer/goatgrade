@@ -19,25 +19,25 @@
             "Kevin Durant",
             "Bradley Beal",
             "Jusuf Nurkić",
-            "Josh Okogie",
             "Bol Bol",
             "Damion Lee",
             "TyTy Washington Jr.",
             "Jalen Bridges",
-            "Collin Gillespie"
+            "Collin Gillespie",
+            "Nick Richards"
         ],
         "injuries": [
             {
                 "Player": "Bradley Beal",
                 "Team": "Phoenix Suns",
-                "Update": "Thu, Jan 16, 2025",
-                "Description": "Day To Day (Ankle) - Beal did not play in Thursday's (Jan. 16) game against the Wizards."
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Day To Day (Ankle) - The Suns have listed Beal as Doubtful for Saturday's (Jan. 18) game against the Pistons."
             },
             {
                 "Player": "Jusuf Nurkić",
                 "Team": "Phoenix Suns",
-                "Update": "Thu, Jan 16, 2025",
-                "Description": "Day To Day (Illness) - Nurkic did not play in Thursday's (Jan. 16) game against the Wizards."
+                "Update": "Fri, Jan 17, 2025",
+                "Description": "Out (Illness) - The Suns have listed Nurkic as Out for Saturday's (Jan. 18) game against the Pistons."
             }
         ],
         "team_stats": {
@@ -93,19 +93,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "18",
                 "FG": "18",
                 "FGA": "27",
                 "FG%": "9",
-                "3P": "9",
+                "3P": "11",
                 "3PA": "14",
                 "3P%": "5",
-                "2P": "21",
+                "2P": "22",
                 "2PA": "25",
                 "2P%": "12",
-                "FT": "7",
-                "FTA": "11",
-                "FT%": "5",
+                "FT": "8",
+                "FTA": "10",
+                "FT%": "6",
                 "ORB": "28",
                 "DRB": "21",
                 "TRB": "25",
@@ -113,7 +113,7 @@
                 "STL": "20",
                 "BLK": "16",
                 "TOV": "10",
-                "PF": "9",
+                "PF": "10",
                 "PTS": "14"
             },
             "Year/Year": {
@@ -193,11 +193,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "18",
                 "FG": "19",
-                "FGA": "19",
+                "FGA": "20",
                 "FG%": "13",
-                "3P": "19",
+                "3P": "20",
                 "3PA": "17",
                 "3P%": "16",
                 "2P": "18",
@@ -205,11 +205,11 @@
                 "2P%": "16",
                 "FT": "20",
                 "FTA": "17",
-                "FT%": "20",
+                "FT%": "21",
                 "ORB": "24",
                 "DRB": "16",
                 "TRB": "22",
-                "AST": "20",
+                "AST": "19",
                 "STL": "15",
                 "BLK": "5",
                 "TOV": "28",
@@ -247,8 +247,8 @@
                 "PW": "18",
                 "PL": "22",
                 "MOV": "-1.28",
-                "SOS": "-0.78",
-                "SRS": "-2.06",
+                "SOS": "-0.81",
+                "SRS": "-2.08",
                 "ORtg": "115.4",
                 "DRtg": "116.7",
                 "Pace": "97.3",
@@ -264,16 +264,16 @@
             },
             "Misc Lg Rank": {
                 "W": "18",
-                "L": "10",
+                "L": "11",
                 "PW": "19",
                 "PL": "18",
                 "MOV": "19",
-                "SOS": "24",
-                "SRS": "20",
+                "SOS": "25",
+                "SRS": "19",
                 "ORtg": "9",
                 "DRtg": "25",
-                "Pace": "24",
-                "FTr": "7",
+                "Pace": "23",
+                "FTr": "6",
                 "3PAr": "11",
                 "eFG%": "15",
                 "TOV%": "28",
@@ -281,10 +281,10 @@
                 "FT/FGA": "18",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHO-2025.png",
-        "last_update": "Jan 17 2025 22:32:16"
+        "last_update": "Jan 18 2025 22:32:16"
     }
 }
