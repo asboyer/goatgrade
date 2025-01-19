@@ -31,20 +31,26 @@
             {
                 "Player": "Anthony Davis",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Jan 17, 2025",
-                "Description": "Day To Day (Foot) - Davis did not play in Friday's (Jan. 17) game against the Nets."
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Day To Day (Foot) - The Lakers listed Davis as questionable for Sunday's (Jan. 19) game against Los Angeles."
             },
             {
-                "Player": "Dorian Finney-Smith",
+                "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Jan 17, 2025",
-                "Description": "Day To Day (Personal) - Finney-Smith did not play in Friday's (Jan. 17) game against the Nets."
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Day To Day (Shoulder) - The Lakers listed Hayes as questionable for Sunday's (Jan. 19) game against Los Angeles."
             },
             {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Jan 17, 2025",
-                "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Friday's (Jan. 17) game against the Nets."
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Out (Hamstring) - The Lakers listed Hood-Schifino as OUT for Sunday's (Jan. 19) game against Los Angeles."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Day To Day (Foot) - The Lakers listed James as probable for Sunday's (Jan. 19) game against Los Angeles."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -112,13 +118,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "17",
                 "FGA": "24",
                 "FG%": "10",
                 "3P": "27",
                 "3PA": "27",
-                "3P%": "20",
+                "3P%": "19",
                 "2P": "12",
                 "2PA": "15",
                 "2P%": "11",
@@ -212,27 +218,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "24",
                 "FGA": "17",
                 "FG%": "26",
                 "3P": "13",
-                "3PA": "10",
-                "3P%": "22",
+                "3PA": "11",
+                "3P%": "23",
                 "2P": "26",
                 "2PA": "22",
                 "2P%": "24",
                 "FT": "4",
                 "FTA": "4",
-                "FT%": "24",
+                "FT%": "23",
                 "ORB": "17",
-                "DRB": "14",
+                "DRB": "13",
                 "TRB": "15",
                 "AST": "24",
-                "STL": "7",
-                "BLK": "4",
+                "STL": "8",
+                "BLK": "3",
                 "TOV": "20",
-                "PF": "4",
+                "PF": "5",
                 "PTS": "18"
             },
             "Opp Year/Year": {
@@ -266,8 +272,8 @@
                 "PW": "17",
                 "PL": "22",
                 "MOV": "-2.33",
-                "SOS": "0.21",
-                "SRS": "-2.12",
+                "SOS": "0.22",
+                "SRS": "-2.11",
                 "ORtg": "113.9",
                 "DRtg": "116.3",
                 "Pace": "97.6",
@@ -285,7 +291,7 @@
                 "W": "13",
                 "L": "21",
                 "PW": "22",
-                "PL": "21",
+                "PL": "19",
                 "MOV": "21",
                 "SOS": "14",
                 "SRS": "20",
@@ -295,15 +301,15 @@
                 "FTr": "2",
                 "3PAr": "24",
                 "eFG%": "22",
-                "TOV%": "19",
+                "TOV%": "18",
                 "ORB%": "25",
                 "FT/FGA": "4",
-                "DRB%": "23",
+                "DRB%": "22",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAL-2025.png",
-        "last_update": "Jan 18 2025 22:32:16"
+        "last_update": "Jan 19 2025 22:32:14"
     }
 }

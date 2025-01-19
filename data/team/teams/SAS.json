@@ -31,8 +31,8 @@
             {
                 "Player": "Jeremy Sochan",
                 "Team": "San Antonio Spurs",
-                "Update": "Fri, Jan 17, 2025",
-                "Description": "Day To Day (Back) - Sochan did not play in Friday's (Jan. 17) game against the Grizzlies."
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Out (Back) - The Spurs listed Sochan as OUT for Sunday's (Jan. 19) game against Miami."
             }
         ],
         "team_stats": {
@@ -88,7 +88,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "24",
                 "FG": "19",
                 "FGA": "17",
                 "FG%": "21",
@@ -103,11 +103,11 @@
                 "FT%": "7",
                 "ORB": "12",
                 "DRB": "4",
-                "TRB": "6",
+                "TRB": "7",
                 "AST": "7",
                 "STL": "27",
                 "BLK": "1",
-                "TOV": "15",
+                "TOV": "16",
                 "PF": "3",
                 "PTS": "16"
             },
@@ -188,8 +188,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
-                "FG": "23",
+                "MP": "24",
+                "FG": "22",
                 "FGA": "27",
                 "FG%": "10",
                 "3P": "16",
@@ -197,11 +197,11 @@
                 "3P%": "10",
                 "2P": "24",
                 "2PA": "29",
-                "2P%": "9",
+                "2P%": "10",
                 "FT": "1",
-                "FTA": "3",
+                "FTA": "2",
                 "FT%": "17",
-                "ORB": "25",
+                "ORB": "24",
                 "DRB": "21",
                 "TRB": "25",
                 "AST": "13",
@@ -242,8 +242,8 @@
                 "PW": "19",
                 "PL": "21",
                 "MOV": "-0.93",
-                "SOS": "0.19",
-                "SRS": "-0.73",
+                "SOS": "0.20",
+                "SRS": "-0.72",
                 "ORtg": "112.5",
                 "DRtg": "113.5",
                 "Pace": "98.8",
@@ -260,14 +260,14 @@
             "Misc Lg Rank": {
                 "W": "21",
                 "L": "10",
-                "PW": "18",
+                "PW": "19",
                 "PL": "16",
                 "MOV": "17",
                 "SOS": "15",
                 "SRS": "17",
-                "ORtg": "18",
+                "ORtg": "19",
                 "DRtg": "13",
-                "Pace": "17",
+                "Pace": "18",
                 "FTr": "15",
                 "3PAr": "8",
                 "eFG%": "9",
@@ -280,6 +280,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/SAS-2025.png",
-        "last_update": "Jan 18 2025 22:32:16"
+        "last_update": "Jan 19 2025 22:32:14"
     }
 }

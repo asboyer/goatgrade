@@ -29,16 +29,34 @@
         ],
         "injuries": [
             {
-                "Player": "Kawhi Leonard",
+                "Player": "Kris Dunn",
                 "Team": "Los Angeles Clippers",
-                "Update": "Thu, Jan 16, 2025",
-                "Description": "Day To Day (Knee) - Leonard did not play in Thursday's (Jan. 16) game against the Trail Blazers."
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Day To Day (Knee) - The Clippers listed Dunn as questionable for Sunday's (Jan. 19) game against Los Angeles."
+            },
+            {
+                "Player": "James Harden",
+                "Team": "Los Angeles Clippers",
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Day To Day (Illness) - The Clippers listed Harden as questionable for Sunday's (Jan. 19) game against Los Angeles."
+            },
+            {
+                "Player": "Norman Powell",
+                "Team": "Los Angeles Clippers",
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Day To Day (Back) - The Clippers listed Powell as questionable for Sunday's (Jan. 19) game against Los Angeles."
             },
             {
                 "Player": "P.J. Tucker",
                 "Team": "Los Angeles Clippers",
                 "Update": "Sun, Oct 6, 2024",
                 "Description": "Out (Personal) - The Clippers announced that F P.J. Tucker won't be with the team for the time being, according to Joey Linn of SI.com."
+            },
+            {
+                "Player": "Ivica Zubac",
+                "Team": "Los Angeles Clippers",
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Day To Day (Back) - The Clippers listed Zubac as questionable for Sunday's (Jan. 19) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -94,27 +112,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "25",
                 "FG": "21",
                 "FGA": "25",
                 "FG%": "13",
                 "3P": "22",
                 "3PA": "26",
-                "3P%": "14",
+                "3P%": "12",
                 "2P": "16",
                 "2PA": "16",
-                "2P%": "18",
+                "2P%": "19",
                 "FT": "15",
                 "FTA": "14",
-                "FT%": "13",
+                "FT%": "14",
                 "ORB": "19",
-                "DRB": "9",
+                "DRB": "10",
                 "TRB": "14",
                 "AST": "25",
                 "STL": "3",
                 "BLK": "26",
                 "TOV": "27",
-                "PF": "12",
+                "PF": "13",
                 "PTS": "23"
             },
             "Year/Year": {
@@ -194,11 +212,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "25",
                 "FG": "3",
                 "FGA": "5",
                 "FG%": "7",
-                "3P": "4",
+                "3P": "5",
                 "3PA": "14",
                 "3P%": "3",
                 "2P": "2",
@@ -248,8 +266,8 @@
                 "PW": "24",
                 "PL": "16",
                 "MOV": "2.95",
-                "SOS": "0.80",
-                "SRS": "3.75",
+                "SOS": "0.79",
+                "SRS": "3.74",
                 "ORtg": "111.1",
                 "DRtg": "108.1",
                 "Pace": "98.4",
@@ -264,12 +282,12 @@
                 "Attendance": "322,753"
             },
             "Misc Lg Rank": {
-                "W": "8",
+                "W": "9",
                 "L": "21",
                 "PW": "9",
                 "PL": "8",
                 "MOV": "9",
-                "SOS": "4",
+                "SOS": "5",
                 "SRS": "9",
                 "ORtg": "22",
                 "DRtg": "3",
@@ -286,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAC-2025.png",
-        "last_update": "Jan 18 2025 22:32:16"
+        "last_update": "Jan 19 2025 22:32:14"
     }
 }

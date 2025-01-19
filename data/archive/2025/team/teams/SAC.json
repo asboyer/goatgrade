@@ -28,10 +28,16 @@
         ],
         "injuries": [
             {
+                "Player": "Devin Carter",
+                "Team": "Sacramento Kings",
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Out (Wrist) - The Kings listed Carter as Out for Sunday's (Jan. 19) game against the Wizards."
+            },
+            {
                 "Player": "Keon Ellis",
                 "Team": "Sacramento Kings",
-                "Update": "Thu, Jan 16, 2025",
-                "Description": "Day To Day (Ankle) - Ellis did not return to Thursday's (Jan. 16) game versus the Rockets."
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Day To Day (Ankle) - The Kings listed Ellis as Questionable for Sunday's (Jan. 19) game against the Wizards."
             },
             {
                 "Player": "Jordan McLaughlin",
@@ -93,12 +99,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "13",
                 "FG": "7",
                 "FGA": "7",
-                "FG%": "8",
+                "FG%": "9",
                 "3P": "20",
-                "3PA": "22",
+                "3PA": "21",
                 "3P%": "21",
                 "2P": "3",
                 "2PA": "6",
@@ -110,9 +116,9 @@
                 "DRB": "11",
                 "TRB": "12",
                 "AST": "12",
-                "STL": "16",
+                "STL": "15",
                 "BLK": "21",
-                "TOV": "3",
+                "TOV": "4",
                 "PF": "21",
                 "PTS": "8"
             },
@@ -193,7 +199,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "13",
                 "FG": "12",
                 "FGA": "10",
                 "FG%": "15",
@@ -202,19 +208,19 @@
                 "3P%": "25",
                 "2P": "3",
                 "2PA": "6",
-                "2P%": "13",
-                "FT": "23",
+                "2P%": "12",
+                "FT": "25",
                 "FTA": "22",
-                "FT%": "28",
+                "FT%": "29",
                 "ORB": "3",
-                "DRB": "17",
+                "DRB": "18",
                 "TRB": "9",
-                "AST": "12",
+                "AST": "11",
                 "STL": "12",
                 "BLK": "10",
-                "TOV": "13",
+                "TOV": "12",
                 "PF": "14",
-                "PTS": "20"
+                "PTS": "19"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +253,8 @@
                 "PW": "23",
                 "PL": "18",
                 "MOV": "2.29",
-                "SOS": "-0.35",
-                "SRS": "1.94",
+                "SOS": "-0.34",
+                "SRS": "1.95",
                 "ORtg": "116.0",
                 "DRtg": "113.7",
                 "Pace": "99.2",
@@ -263,28 +269,28 @@
                 "Attendance": "389,029"
             },
             "Misc Lg Rank": {
-                "W": "15",
-                "L": "11",
+                "W": "16",
+                "L": "12",
                 "PW": "11",
-                "PL": "12",
+                "PL": "11",
                 "MOV": "11",
-                "SOS": "21",
+                "SOS": "20",
                 "SRS": "11",
                 "ORtg": "8",
-                "DRtg": "15",
+                "DRtg": "14",
                 "Pace": "12",
                 "FTr": "18",
                 "3PAr": "25",
                 "eFG%": "19",
-                "TOV%": "12",
+                "TOV%": "11",
                 "ORB%": "17",
                 "FT/FGA": "25",
                 "DRB%": "2",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/SAC-2025.png",
-        "last_update": "Jan 18 2025 22:32:16"
+        "last_update": "Jan 19 2025 22:32:14"
     }
 }

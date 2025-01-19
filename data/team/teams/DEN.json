@@ -35,6 +35,12 @@
                 "Description": "Out (Knee) - Cancar will be re-evaluated in eight weeks following a left knee surgery on Wednesday (Dec. 4), per Ryan Blackburn of MileHighSports.com."
             },
             {
+                "Player": "Aaron Gordon",
+                "Team": "Denver Nuggets",
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Day To Day (Calf) - The Nuggets listed Gordon as Probable for Sunday's (Jan. 19) game against the Magic."
+            },
+            {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sat, Jul 13, 2024",
@@ -94,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "14",
                 "FG": "2",
                 "FGA": "13",
                 "FG%": "1",
@@ -113,7 +119,7 @@
                 "AST": "1",
                 "STL": "11",
                 "BLK": "21",
-                "TOV": "12",
+                "TOV": "13",
                 "PF": "7",
                 "PTS": "3"
             },
@@ -194,14 +200,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "14",
                 "FG": "25",
                 "FGA": "29",
                 "FG%": "14",
                 "3P": "17",
                 "3PA": "24",
                 "3P%": "6",
-                "2P": "29",
+                "2P": "28",
                 "2PA": "27",
                 "2P%": "18",
                 "FT": "7",
@@ -248,8 +254,8 @@
                 "PW": "26",
                 "PL": "15",
                 "MOV": "4.39",
-                "SOS": "0.46",
-                "SRS": "4.85",
+                "SOS": "0.48",
+                "SRS": "4.87",
                 "ORtg": "118.4",
                 "DRtg": "114.0",
                 "Pace": "100.6",
@@ -274,18 +280,18 @@
                 "ORtg": "4",
                 "DRtg": "16",
                 "Pace": "5",
-                "FTr": "4",
+                "FTr": "5",
                 "3PAr": "30",
                 "eFG%": "13",
                 "TOV%": "24",
                 "ORB%": "12",
-                "FT/FGA": "7",
+                "FT/FGA": "6",
                 "DRB%": "17",
                 "Arena": "",
                 "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DEN-2025.png",
-        "last_update": "Jan 18 2025 22:32:16"
+        "last_update": "Jan 19 2025 22:32:14"
     }
 }

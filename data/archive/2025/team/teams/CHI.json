@@ -29,22 +29,40 @@
         ],
         "injuries": [
             {
+                "Player": "Lonzo Ball",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Day To Day (Quadriceps) - The Bulls listed Ball as questionable for Sunday's (Jan. 19) game against Portland."
+            },
+            {
+                "Player": "Jevon Carter",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Day To Day (Illness) - The Bulls listed Carter as doubtful for Sunday's (Jan. 19) game against Portland."
+            },
+            {
                 "Player": "Torrey Craig",
                 "Team": "Chicago Bulls",
                 "Update": "Mon, Jan 13, 2025",
                 "Description": "Out (Leg) - The Bulls announced Monday (Jan. 13) that Craig will be re-evaluated in two weeks, per K.C. Johnson of NBC Sports Chicago."
             },
             {
-                "Player": "Talen Horton-Tucker",
+                "Player": "Chris Duarte",
                 "Team": "Chicago Bulls",
-                "Update": "Fri, Jan 17, 2025",
-                "Description": "Day To Day (Knee) - Horton-Tucker did not play in Friday's (Jan. 17) game against the Hornets."
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Out (Personal) - The Bulls listed Duarte as OUT for Sunday's (Jan. 19) game against Portland."
             },
             {
-                "Player": "Adama Sanogo",
+                "Player": "Talen Horton-Tucker",
                 "Team": "Chicago Bulls",
-                "Update": "Fri, Jan 17, 2025",
-                "Description": "Day To Day (Knee) - Sanogo did not play in Friday's (Jan. 17) game against the Hornets."
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Day To Day (Knee) - The Bulls listed Horton-Tucker as questionable for Sunday's (Jan. 19) game against Portland."
+            },
+            {
+                "Player": "Zach LaVine",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Day To Day (Patella) - The Bulls listed Lavin as probable for Sunday's (Jan. 19) game against Portland."
             }
         ],
         "team_stats": {
@@ -100,15 +118,15 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "10",
                 "FG": "4",
                 "FGA": "3",
                 "FG%": "12",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "8",
-                "2P": "19",
-                "2PA": "19",
+                "3P%": "7",
+                "2P": "18",
+                "2PA": "20",
                 "2P%": "9",
                 "FT": "29",
                 "FTA": "30",
@@ -117,7 +135,7 @@
                 "DRB": "1",
                 "TRB": "5",
                 "AST": "4",
-                "STL": "25",
+                "STL": "26",
                 "BLK": "23",
                 "TOV": "19",
                 "PF": "8",
@@ -200,19 +218,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "10",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "21",
-                "3P": "12",
+                "3P": "11",
                 "3PA": "27",
                 "3P%": "2",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "26",
-                "FT": "14",
+                "FT": "15",
                 "FTA": "14",
-                "FT%": "10",
+                "FT%": "11",
                 "ORB": "16",
                 "DRB": "30",
                 "TRB": "29",
@@ -254,8 +272,8 @@
                 "PW": "17",
                 "PL": "25",
                 "MOV": "-3.05",
-                "SOS": "-0.30",
-                "SRS": "-3.35",
+                "SOS": "-0.27",
+                "SRS": "-3.32",
                 "ORtg": "113.1",
                 "DRtg": "116.0",
                 "Pace": "103.8",
@@ -271,11 +289,11 @@
             },
             "Misc Lg Rank": {
                 "W": "22",
-                "L": "8",
+                "L": "9",
                 "PW": "21",
-                "PL": "23",
+                "PL": "22",
                 "MOV": "22",
-                "SOS": "19",
+                "SOS": "18",
                 "SRS": "22",
                 "ORtg": "14",
                 "DRtg": "22",
@@ -284,7 +302,7 @@
                 "3PAr": "2",
                 "eFG%": "16",
                 "TOV%": "29",
-                "ORB%": "28",
+                "ORB%": "29",
                 "FT/FGA": "8",
                 "DRB%": "6",
                 "Arena": "",
@@ -292,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHI-2025.png",
-        "last_update": "Jan 18 2025 22:32:16"
+        "last_update": "Jan 19 2025 22:32:14"
     }
 }
