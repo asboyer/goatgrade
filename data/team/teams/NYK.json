@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Josh Hart",
+                "Team": "New York Knicks",
+                "Update": "Sun, Jan 19, 2025",
+                "Description": "Day To Day (Neck) - The Knicks listed Hart as questionable for Monday's (Jan. 20) game against Atlanta."
+            },
+            {
                 "Player": "Mitchell Robinson",
                 "Team": "New York Knicks",
                 "Update": "Wed, Jan 1, 2025",
@@ -36,8 +42,8 @@
             {
                 "Player": "Karl-Anthony Towns",
                 "Team": "New York Knicks",
-                "Update": "Fri, Jan 17, 2025",
-                "Description": "Day To Day (Thumb) - Towns did not play in Friday's (Jan. 17) game against the Timberwolves."
+                "Update": "Sun, Jan 19, 2025",
+                "Description": "Day To Day (Thumb) - The Knicks listed Towns as questionable for Monday's (Jan. 20) game against Atlanta."
             }
         ],
         "team_stats": {
@@ -93,8 +99,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
-                "FG": "6",
+                "MP": "3",
+                "FG": "5",
                 "FGA": "20",
                 "FG%": "3",
                 "3P": "16",
@@ -103,14 +109,14 @@
                 "2P": "6",
                 "2PA": "12",
                 "2P%": "2",
-                "FT": "14",
+                "FT": "13",
                 "FTA": "18",
                 "FT%": "3",
                 "ORB": "18",
                 "DRB": "23",
                 "TRB": "22",
                 "AST": "11",
-                "STL": "24",
+                "STL": "22",
                 "BLK": "28",
                 "TOV": "5",
                 "PF": "5",
@@ -193,14 +199,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "3",
                 "FG": "16",
                 "FGA": "9",
                 "FG%": "19",
-                "3P": "22",
+                "3P": "21",
                 "3PA": "6",
                 "3P%": "26",
-                "2P": "13",
+                "2P": "12",
                 "2PA": "14",
                 "2P%": "14",
                 "FT": "5",
@@ -211,7 +217,7 @@
                 "TRB": "1",
                 "AST": "9",
                 "STL": "2",
-                "BLK": "12",
+                "BLK": "11",
                 "TOV": "23",
                 "PF": "11",
                 "PTS": "9"
@@ -247,8 +253,8 @@
                 "PW": "29",
                 "PL": "14",
                 "MOV": "5.93",
-                "SOS": "-1.57",
-                "SRS": "4.36",
+                "SOS": "-1.61",
+                "SRS": "4.32",
                 "ORtg": "120.5",
                 "DRtg": "114.4",
                 "Pace": "96.6",
@@ -271,13 +277,13 @@
                 "SOS": "30",
                 "SRS": "7",
                 "ORtg": "2",
-                "DRtg": "20",
+                "DRtg": "19",
                 "Pace": "28",
                 "FTr": "16",
                 "3PAr": "22",
                 "eFG%": "20",
                 "TOV%": "21",
-                "ORB%": "10",
+                "ORB%": "11",
                 "FT/FGA": "5",
                 "DRB%": "11",
                 "Arena": "",
@@ -285,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NYK-2025.png",
-        "last_update": "Jan 19 2025 22:32:14"
+        "last_update": "Jan 20 2025 22:32:12"
     }
 }

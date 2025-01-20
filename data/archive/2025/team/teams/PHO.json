@@ -2,7 +2,7 @@
     "PHO": {
         "info": {
             "record": "21-20",
-            "standing": "11th in West",
+            "standing": "10th in West",
             "coach": "Mike Budenholzer (21-20)",
             "gm": "James Jones",
             "preseason_odds": "+3500"
@@ -30,14 +30,14 @@
             {
                 "Player": "Bradley Beal",
                 "Team": "Phoenix Suns",
-                "Update": "Sat, Jan 18, 2025",
-                "Description": "Day To Day (Ankle) - Beal did not play in Saturday's (Jan. 18) game against the Pistons."
+                "Update": "Sun, Jan 19, 2025",
+                "Description": "Day To Day (Ankle) - The Suns listed Beal as questionable fior Mondya's (Jan. 20) game against Cleveland."
             },
             {
                 "Player": "Jusuf Nurkić",
                 "Team": "Phoenix Suns",
-                "Update": "Sat, Jan 18, 2025",
-                "Description": "Day To Day (Illness) - Nurkic did not play in Saturday's (Jan. 18) game against the Pistons."
+                "Update": "Sun, Jan 19, 2025",
+                "Description": "Out (Illness) - The Suns listed Nurkic as OUT fior Mondya's (Jan. 20) game against Cleveland."
             }
         ],
         "team_stats": {
@@ -93,24 +93,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
-                "FG": "18",
-                "FGA": "27",
+                "MP": "21",
+                "FG": "17",
+                "FGA": "28",
                 "FG%": "8",
                 "3P": "12",
                 "3PA": "16",
                 "3P%": "6",
                 "2P": "21",
-                "2PA": "24",
+                "2PA": "25",
                 "2P%": "12",
                 "FT": "6",
-                "FTA": "9",
+                "FTA": "8",
                 "FT%": "5",
-                "ORB": "27",
-                "DRB": "19",
+                "ORB": "26",
+                "DRB": "20",
                 "TRB": "25",
                 "AST": "10",
-                "STL": "20",
+                "STL": "19",
                 "BLK": "17",
                 "TOV": "9",
                 "PF": "10",
@@ -193,11 +193,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "21",
                 "FG": "19",
                 "FGA": "20",
-                "FG%": "13",
-                "3P": "17",
+                "FG%": "15",
+                "3P": "16",
                 "3PA": "17",
                 "3P%": "16",
                 "2P": "19",
@@ -206,10 +206,10 @@
                 "FT": "19",
                 "FTA": "18",
                 "FT%": "16",
-                "ORB": "25",
-                "DRB": "16",
-                "TRB": "20",
-                "AST": "19",
+                "ORB": "24",
+                "DRB": "15",
+                "TRB": "21",
+                "AST": "18",
                 "STL": "15",
                 "BLK": "5",
                 "TOV": "28",
@@ -247,8 +247,8 @@
                 "PW": "19",
                 "PL": "22",
                 "MOV": "-1.15",
-                "SOS": "-0.83",
-                "SRS": "-1.98",
+                "SOS": "-0.79",
+                "SRS": "-1.94",
                 "ORtg": "115.6",
                 "DRtg": "116.8",
                 "Pace": "97.4",
@@ -263,15 +263,15 @@
                 "Attendance": "358,491"
             },
             "Misc Lg Rank": {
-                "W": "16",
-                "L": "12",
+                "W": "17",
+                "L": "13",
                 "PW": "18",
-                "PL": "18",
-                "MOV": "18",
+                "PL": "16",
+                "MOV": "17",
                 "SOS": "25",
                 "SRS": "19",
                 "ORtg": "9",
-                "DRtg": "25",
+                "DRtg": "24",
                 "Pace": "23",
                 "FTr": "4",
                 "3PAr": "12",
@@ -281,10 +281,10 @@
                 "FT/FGA": "18",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHO-2025.png",
-        "last_update": "Jan 19 2025 22:32:14"
+        "last_update": "Jan 20 2025 22:32:12"
     }
 }
