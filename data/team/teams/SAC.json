@@ -2,7 +2,7 @@
     "SAC": {
         "info": {
             "record": "22-20",
-            "standing": "9th in West",
+            "standing": "8th in West",
             "coach": "Mike Brown (13-18), Doug Christie (9-2)",
             "gm": "Monte McNair",
             "preseason_odds": "+6600"
@@ -30,8 +30,8 @@
             {
                 "Player": "Devin Carter",
                 "Team": "Sacramento Kings",
-                "Update": "Sat, Jan 18, 2025",
-                "Description": "Out (Wrist) - The Kings listed Carter as Out for Sunday's (Jan. 19) game against the Wizards."
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Day To Day (Wrist) - Carter did not play in Sunday's (Jan. 19) game against the Wizards."
             }
         ],
         "team_stats": {
@@ -87,8 +87,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "7",
+                "MP": "12",
+                "FG": "6",
                 "FGA": "7",
                 "FG%": "9",
                 "3P": "21",
@@ -97,12 +97,12 @@
                 "2P": "3",
                 "2PA": "6",
                 "2P%": "8",
-                "FT": "10",
+                "FT": "9",
                 "FTA": "13",
                 "FT%": "2",
                 "ORB": "16",
-                "DRB": "8",
-                "TRB": "11",
+                "DRB": "9",
+                "TRB": "12",
                 "AST": "12",
                 "STL": "15",
                 "BLK": "23",
@@ -187,12 +187,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "8",
+                "MP": "12",
+                "FG": "9",
                 "FGA": "10",
                 "FG%": "14",
                 "3P": "26",
-                "3PA": "20",
+                "3PA": "19",
                 "3P%": "25",
                 "2P": "3",
                 "2PA": "6",
@@ -204,9 +204,9 @@
                 "DRB": "18",
                 "TRB": "9",
                 "AST": "10",
-                "STL": "12",
+                "STL": "11",
                 "BLK": "9",
-                "TOV": "11",
+                "TOV": "10",
                 "PF": "14",
                 "PTS": "18"
             },
@@ -241,8 +241,8 @@
                 "PW": "25",
                 "PL": "17",
                 "MOV": "2.79",
-                "SOS": "-0.61",
-                "SRS": "2.18",
+                "SOS": "-0.72",
+                "SRS": "2.06",
                 "ORtg": "116.0",
                 "DRtg": "113.3",
                 "Pace": "99.3",
@@ -258,20 +258,20 @@
             },
             "Misc Lg Rank": {
                 "W": "13",
-                "L": "13",
+                "L": "16",
                 "PW": "10",
                 "PL": "11",
                 "MOV": "11",
-                "SOS": "23",
+                "SOS": "25",
                 "SRS": "11",
-                "ORtg": "8",
+                "ORtg": "7",
                 "DRtg": "13",
                 "Pace": "10",
-                "FTr": "18",
+                "FTr": "20",
                 "3PAr": "24",
                 "eFG%": "19",
-                "TOV%": "11",
-                "ORB%": "17",
+                "TOV%": "10",
+                "ORB%": "18",
                 "FT/FGA": "25",
                 "DRB%": "2",
                 "Arena": "",
@@ -279,6 +279,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/SAC-2025.png",
-        "last_update": "Jan 20 2025 22:32:12"
+        "last_update": "Jan 21 2025 22:32:17"
     }
 }

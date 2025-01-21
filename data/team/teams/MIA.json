@@ -28,16 +28,10 @@
         ],
         "injuries": [
             {
-                "Player": "Nikola Jović",
-                "Team": "Miami Heat",
-                "Update": "Sat, Jan 18, 2025",
-                "Description": "Day To Day (Elbow) - The Nuggets listed Jovic as Probable for Sunday's (Jan. 19) game against the Magic."
-            },
-            {
                 "Player": "Josh Richardson",
                 "Team": "Miami Heat",
-                "Update": "Sun, Jan 19, 2025",
-                "Description": "Day To Day (Heel) - Richardson did not play in Saturday's (Jan. 18) game against San Antonio."
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Out (Heel) - The Heat listed Richardson as OUT for Tuesday's (Jan. 21) game against Portland."
             },
             {
                 "Player": "Dru Smith",
@@ -99,13 +93,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "23",
                 "FG": "24",
-                "FGA": "21",
-                "FG%": "18",
-                "3P": "6",
+                "FGA": "22",
+                "FG%": "19",
+                "3P": "7",
                 "3PA": "11",
-                "3P%": "11",
+                "3P%": "9",
                 "2P": "26",
                 "2PA": "26",
                 "2P%": "21",
@@ -120,7 +114,7 @@
                 "BLK": "29",
                 "TOV": "7",
                 "PF": "1",
-                "PTS": "20"
+                "PTS": "19"
             },
             "Year/Year": {
                 "G": "",
@@ -199,21 +193,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "23",
                 "FG": "15",
                 "FGA": "16",
                 "FG%": "12",
-                "3P": "14",
-                "3PA": "16",
-                "3P%": "15",
+                "3P": "13",
+                "3PA": "15",
+                "3P%": "13",
                 "2P": "16",
-                "2PA": "15",
+                "2PA": "14",
                 "2P%": "15",
                 "FT": "2",
                 "FTA": "1",
                 "FT%": "27",
                 "ORB": "18",
-                "DRB": "28",
+                "DRB": "27",
                 "TRB": "25",
                 "AST": "21",
                 "STL": "5",
@@ -253,8 +247,8 @@
                 "PW": "22",
                 "PL": "19",
                 "MOV": "1.22",
-                "SOS": "-0.71",
-                "SRS": "0.51",
+                "SOS": "-0.70",
+                "SRS": "0.52",
                 "ORtg": "113.2",
                 "DRtg": "112.0",
                 "Pace": "97.0",
@@ -269,28 +263,28 @@
                 "Attendance": "374,683"
             },
             "Misc Lg Rank": {
-                "W": "17",
-                "L": "13",
+                "W": "18",
+                "L": "16",
                 "PW": "14",
                 "PL": "13",
                 "MOV": "13",
                 "SOS": "24",
                 "SRS": "14",
                 "ORtg": "14",
-                "DRtg": "11",
+                "DRtg": "10",
                 "Pace": "25",
                 "FTr": "11",
                 "3PAr": "10",
                 "eFG%": "13",
-                "TOV%": "15",
+                "TOV%": "16",
                 "ORB%": "27",
-                "FT/FGA": "2",
+                "FT/FGA": "3",
                 "DRB%": "15",
                 "Arena": "",
                 "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIA-2025.png",
-        "last_update": "Jan 20 2025 22:32:12"
+        "last_update": "Jan 21 2025 22:32:17"
     }
 }

@@ -31,14 +31,20 @@
             {
                 "Player": "Ochai Agbaji",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Jan 17, 2025",
-                "Description": "Day To Day (Hand) - Agbaji did not play in Friday's (Jan. 17) game against the Bucks."
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Out (Hand) - The Raptors listed Agbaji as OUT for Tuesday's (Jan. 21) game against Orlando."
+            },
+            {
+                "Player": "Chris Boucher",
+                "Team": "Toronto Raptors",
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Day To Day (Illness) - The Raptors listed Boucher as OUT for Tuesday's (Jan. 21) game against Orlando."
             },
             {
                 "Player": "Immanuel Quickley",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Jan 17, 2025",
-                "Description": "Day To Day (Hip) - Quickley did not play in Friday's (Jan. 17) game against the Bucks."
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Out (Hip) - The Raptors listed Quickley as OUT for Tuesday's (Jan. 21) game against Orlando."
             }
         ],
         "team_stats": {
@@ -94,8 +100,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
-                "FG": "12",
+                "MP": "14",
+                "FG": "11",
                 "FGA": "12",
                 "FG%": "15",
                 "3P": "29",
@@ -105,17 +111,17 @@
                 "2PA": "3",
                 "2P%": "18",
                 "FT": "27",
-                "FTA": "22",
+                "FTA": "21",
                 "FT%": "28",
-                "ORB": "7",
+                "ORB": "8",
                 "DRB": "24",
-                "TRB": "16",
+                "TRB": "15",
                 "AST": "6",
-                "STL": "20",
-                "BLK": "25",
-                "TOV": "25",
+                "STL": "19",
+                "BLK": "24",
+                "TOV": "24",
                 "PF": "30",
-                "PTS": "21"
+                "PTS": "20"
             },
             "Year/Year": {
                 "G": "",
@@ -194,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "14",
                 "FG": "21",
                 "FGA": "14",
                 "FG%": "22",
@@ -207,13 +213,13 @@
                 "FT": "30",
                 "FTA": "30",
                 "FT%": "8",
-                "ORB": "23",
+                "ORB": "22",
                 "DRB": "7",
                 "TRB": "13",
                 "AST": "20",
                 "STL": "24",
                 "BLK": "26",
-                "TOV": "18",
+                "TOV": "17",
                 "PF": "21",
                 "PTS": "27"
             },
@@ -248,8 +254,8 @@
                 "PW": "12",
                 "PL": "30",
                 "MOV": "-7.55",
-                "SOS": "1.85",
-                "SRS": "-5.69",
+                "SOS": "1.97",
+                "SRS": "-5.58",
                 "ORtg": "110.9",
                 "DRtg": "118.5",
                 "Pace": "99.3",
@@ -264,21 +270,21 @@
                 "Attendance": "414,711"
             },
             "Misc Lg Rank": {
-                "W": "27",
+                "W": "28",
                 "L": "2",
                 "PW": "27",
                 "PL": "26",
                 "MOV": "27",
                 "SOS": "2",
-                "SRS": "24",
+                "SRS": "25",
                 "ORtg": "23",
                 "DRtg": "28",
                 "Pace": "11",
                 "FTr": "22",
                 "3PAr": "29",
-                "eFG%": "22",
-                "TOV%": "20",
-                "ORB%": "4",
+                "eFG%": "23",
+                "TOV%": "21",
+                "ORB%": "5",
                 "FT/FGA": "30",
                 "DRB%": "27",
                 "Arena": "",
@@ -286,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/TOR-2025.png",
-        "last_update": "Jan 20 2025 22:32:12"
+        "last_update": "Jan 21 2025 22:32:17"
     }
 }

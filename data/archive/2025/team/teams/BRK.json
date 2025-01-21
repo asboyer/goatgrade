@@ -31,8 +31,8 @@
             {
                 "Player": "Bojan Bogdanović",
                 "Team": "Brooklyn Nets",
-                "Update": "Fri, Jan 17, 2025",
-                "Description": "Day To Day (Foot) - Bogdanovic did not play in Friday's (Jan. 17) game against the Lakers."
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Out (Foot) - The Nets listed Bogdanovic as OUT for Tuesday's (Jan. 21) game against New York."
             },
             {
                 "Player": "Maxwell Lewis",
@@ -47,10 +47,16 @@
                 "Description": "Out For Season (ACL) - Melton will undergo season-ending surgery on his left ACL, the team announced Wednesday (Nov. 20)."
             },
             {
+                "Player": "D'Angelo Russell",
+                "Team": "Brooklyn Nets",
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Day To Day (Ankle) - The Nets listed Russell as questionable for Tuesday's (Jan. 21) game against New York."
+            },
+            {
                 "Player": "Ben Simmons",
                 "Team": "Brooklyn Nets",
-                "Update": "Sun, Jan 19, 2025",
-                "Description": "Day To Day (Illness) - Simmons did not play in Sunday's (Jan. 19) game against Oklahoma City."
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Day To Day (Illness) - The Nets listed Simmons as probable for Tuesday's (Jan. 21) game against New York."
             },
             {
                 "Player": "Cam Thomas",
@@ -61,8 +67,14 @@
             {
                 "Player": "Trendon Watford",
                 "Team": "Brooklyn Nets",
-                "Update": "Fri, Jan 17, 2025",
-                "Description": "Day To Day (Hamstring) - Watford did not play in Friday's (Jan. 17) game against the Lakers."
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Out (Hamstring) - The Nets listed Watford as OUT for Tuesday's (Jan. 21) game against New York."
+            },
+            {
+                "Player": "Ziaire Williams",
+                "Team": "Brooklyn Nets",
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Day To Day (Ankle) - The Nets listed Williams as OUT for Tuesday's (Jan. 21) game against New York."
             }
         ],
         "team_stats": {
@@ -118,19 +130,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "7",
                 "FG": "29",
                 "FGA": "30",
                 "FG%": "26",
-                "3P": "10",
+                "3P": "9",
                 "3PA": "8",
-                "3P%": "17",
-                "2P": "29",
+                "3P%": "15",
+                "2P": "30",
                 "2PA": "28",
                 "2P%": "26",
-                "FT": "16",
-                "FTA": "21",
-                "FT%": "6",
+                "FT": "17",
+                "FTA": "20",
+                "FT%": "5",
                 "ORB": "24",
                 "DRB": "28",
                 "TRB": "29",
@@ -218,7 +230,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "7",
                 "FG": "12",
                 "FGA": "2",
                 "FG%": "30",
@@ -230,10 +242,10 @@
                 "2P%": "29",
                 "FT": "27",
                 "FTA": "27",
-                "FT%": "13",
+                "FT%": "12",
                 "ORB": "2",
-                "DRB": "16",
-                "TRB": "5",
+                "DRB": "15",
+                "TRB": "4",
                 "AST": "22",
                 "STL": "17",
                 "BLK": "25",
@@ -272,8 +284,8 @@
                 "PW": "12",
                 "PL": "31",
                 "MOV": "-7.40",
-                "SOS": "0.64",
-                "SRS": "-6.76",
+                "SOS": "0.72",
+                "SRS": "-6.67",
                 "ORtg": "109.4",
                 "DRtg": "116.9",
                 "Pace": "96.8",
@@ -293,13 +305,13 @@
                 "PW": "26",
                 "PL": "27",
                 "MOV": "26",
-                "SOS": "6",
-                "SRS": "27",
+                "SOS": "4",
+                "SRS": "26",
                 "ORtg": "26",
-                "DRtg": "25",
+                "DRtg": "24",
                 "Pace": "27",
                 "FTr": "14",
-                "3PAr": "5",
+                "3PAr": "4",
                 "eFG%": "30",
                 "TOV%": "8",
                 "ORB%": "23",
@@ -310,6 +322,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BRK-2025.png",
-        "last_update": "Jan 20 2025 22:32:12"
+        "last_update": "Jan 21 2025 22:32:17"
     }
 }

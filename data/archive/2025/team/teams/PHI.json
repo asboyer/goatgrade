@@ -30,8 +30,8 @@
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sun, Jan 19, 2025",
-                "Description": "Day To Day (Toe) - Drummond did not play in Sunday's (Jan. 19) game against Milwaukee."
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Day To Day (Toe) - The 76ers listed Drummond as questionable for Tuesday's (Jan. 21) game against Denver."
             },
             {
                 "Player": "Joel Embiid",
@@ -42,20 +42,20 @@
             {
                 "Player": "Paul George",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sun, Jan 19, 2025",
-                "Description": "Day To Day (Groin) - George did not play in Sunday's (Jan. 19) game against Milwaukee."
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Day To Day (Groin) - The 76ers listed George as questionable for Tuesday's (Jan. 21) game against Denver."
             },
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sun, Jan 19, 2025",
-                "Description": "Day To Day (Hip) - Lowry did not play in Sunday's (Jan. 19) game against Milwaukee."
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Out (Hip) - The 76ers listed Lowry as OUT for Tuesday's (Jan. 21) game against Denver."
             },
             {
                 "Player": "Caleb Martin",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sun, Jan 19, 2025",
-                "Description": "Day To Day (Groin) - Martin did not play in Sunday's (Jan. 19) game against Milwaukee."
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Out (Groin) - The 76ers listed Martin as OUT for Tuesday's (Jan. 21) game against Denver."
             },
             {
                 "Player": "KJ Martin",
@@ -72,8 +72,8 @@
             {
                 "Player": "Guerschon Yabusele",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sun, Jan 19, 2025",
-                "Description": "Day To Day (Knee) - Yabusele did not play in Sunday's (Jan. 19) game against Milwaukee."
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Day To Day (Knee) - The 76ers listed Yabusele as questionable for Tuesday's (Jan. 21) game against Denver."
             }
         ],
         "team_stats": {
@@ -129,20 +129,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "24",
                 "FG": "28",
                 "FGA": "28",
-                "FG%": "23",
-                "3P": "23",
+                "FG%": "22",
+                "3P": "22",
                 "3PA": "19",
                 "3P%": "26",
                 "2P": "23",
                 "2PA": "20",
-                "2P%": "23",
+                "2P%": "22",
                 "FT": "3",
                 "FTA": "4",
                 "FT%": "13",
-                "ORB": "22",
+                "ORB": "23",
                 "DRB": "30",
                 "TRB": "30",
                 "AST": "30",
@@ -229,27 +229,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
-                "FG": "10",
+                "MP": "24",
+                "FG": "11",
                 "FGA": "3",
                 "FG%": "29",
-                "3P": "9",
+                "3P": "10",
                 "3PA": "8",
-                "3P%": "18",
-                "2P": "13",
+                "3P%": "19",
+                "2P": "14",
                 "2PA": "2",
                 "2P%": "30",
-                "FT": "17",
-                "FTA": "13",
+                "FT": "18",
+                "FTA": "14",
                 "FT%": "19",
                 "ORB": "6",
                 "DRB": "20",
                 "TRB": "15",
                 "AST": "19",
                 "STL": "4",
-                "BLK": "18",
+                "BLK": "19",
                 "TOV": "3",
-                "PF": "4",
+                "PF": "5",
                 "PTS": "11"
             },
             "Opp Year/Year": {
@@ -283,8 +283,8 @@
                 "PW": "15",
                 "PL": "26",
                 "MOV": "-4.12",
-                "SOS": "-0.20",
-                "SRS": "-4.33",
+                "SOS": "-0.14",
+                "SRS": "-4.27",
                 "ORtg": "110.3",
                 "DRtg": "114.5",
                 "Pace": "96.5",
@@ -302,7 +302,7 @@
                 "W": "23",
                 "L": "8",
                 "PW": "23",
-                "PL": "24",
+                "PL": "23",
                 "MOV": "23",
                 "SOS": "18",
                 "SRS": "23",
@@ -314,13 +314,13 @@
                 "eFG%": "29",
                 "TOV%": "3",
                 "ORB%": "22",
-                "FT/FGA": "21",
+                "FT/FGA": "20",
                 "DRB%": "22",
                 "Arena": "",
                 "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHI-2025.png",
-        "last_update": "Jan 20 2025 22:32:12"
+        "last_update": "Jan 21 2025 22:32:17"
     }
 }

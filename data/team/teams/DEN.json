@@ -41,10 +41,16 @@
                 "Description": "Out For Season (Achilles) - DaRon Holmes II has suffered a torn right Achilles tendon, sources tell @TheAthletic @Stadium. Heâs expected to miss the 2024-25 season."
             },
             {
+                "Player": "Jamal Murray",
+                "Team": "Denver Nuggets",
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Day To Day (Calf) - The Nuggets listed Murray as probable for Tuesday's (Jan. 21) game against Philadelphia."
+            },
+            {
                 "Player": "Peyton Watson",
                 "Team": "Denver Nuggets",
-                "Update": "Sun, Jan 19, 2025",
-                "Description": "Unknown (Head) - The Nuggets announced Peyton Watson is questionable to return to tonight's game with a head contusion."
+                "Update": "Mon, Jan 20, 2025",
+                "Description": "Day To Day (Head) - The Nuggets listed Watson as probable for Tuesday's (Jan. 21) game against Philadelphia."
             }
         ],
         "team_stats": {
@@ -100,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "2",
                 "FGA": "13",
                 "FG%": "1",
@@ -113,9 +119,9 @@
                 "FT": "4",
                 "FTA": "2",
                 "FT%": "26",
-                "ORB": "14",
+                "ORB": "15",
                 "DRB": "4",
-                "TRB": "6",
+                "TRB": "7",
                 "AST": "1",
                 "STL": "11",
                 "BLK": "20",
@@ -200,13 +206,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "25",
                 "FGA": "29",
                 "FG%": "13",
                 "3P": "15",
-                "3PA": "24",
-                "3P%": "5",
+                "3PA": "25",
+                "3P%": "8",
                 "2P": "26",
                 "2PA": "27",
                 "2P%": "18",
@@ -215,12 +221,12 @@
                 "FT%": "7",
                 "ORB": "21",
                 "DRB": "3",
-                "TRB": "8",
+                "TRB": "7",
                 "AST": "30",
                 "STL": "21",
                 "BLK": "20",
-                "TOV": "22",
-                "PF": "5",
+                "TOV": "23",
+                "PF": "6",
                 "PTS": "23"
             },
             "Opp Year/Year": {
@@ -254,8 +260,8 @@
                 "PW": "27",
                 "PL": "15",
                 "MOV": "4.60",
-                "SOS": "0.50",
-                "SRS": "5.10",
+                "SOS": "0.36",
+                "SRS": "4.96",
                 "ORtg": "118.3",
                 "DRtg": "113.8",
                 "Pace": "100.5",
@@ -275,23 +281,23 @@
                 "PW": "7",
                 "PL": "7",
                 "MOV": "7",
-                "SOS": "9",
+                "SOS": "8",
                 "SRS": "6",
                 "ORtg": "4",
-                "DRtg": "14",
+                "DRtg": "15",
                 "Pace": "5",
                 "FTr": "3",
                 "3PAr": "30",
-                "eFG%": "12",
+                "eFG%": "11",
                 "TOV%": "25",
-                "ORB%": "10",
+                "ORB%": "12",
                 "FT/FGA": "6",
-                "DRB%": "17",
+                "DRB%": "16",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DEN-2025.png",
-        "last_update": "Jan 20 2025 22:32:12"
+        "last_update": "Jan 21 2025 22:32:17"
     }
 }
