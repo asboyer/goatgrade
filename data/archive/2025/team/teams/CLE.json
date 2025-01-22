@@ -30,20 +30,20 @@
             {
                 "Player": "Caris LeVert",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Wrist) - The Cavaliers have listed LeVert as Out for Monday's (Jan. 20) game against Phoenix."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Wrist) - The Cavaliers listed LeVert as Questionable for Wednesday's (Jan. 22) game against the Rockets."
             },
             {
                 "Player": "Evan Mobley",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Calf) - The Cavaliers have listed Mobley as Out for Monday's (Jan. 20) game against Phoenix."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Out (Calf) - The Cavaliers listed Mobley as Out for Wednesday's (Jan. 22) game against the Rockets."
             },
             {
                 "Player": "Isaac Okoro",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Shoulder) - The Cavaliers have listed Okoro as Out for Monday's (Jan. 20) game against Phoenix."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Out (Shoulder) - The Cavaliers listed Okoro as Out for Wednesday's (Jan. 22) game against the Rockets."
             }
         ],
         "team_stats": {
@@ -99,9 +99,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "3",
-                "FGA": "14",
+                "FGA": "12",
                 "FG%": "2",
                 "3P": "2",
                 "3PA": "5",
@@ -110,8 +110,8 @@
                 "2PA": "22",
                 "2P%": "1",
                 "FT": "18",
-                "FTA": "19",
-                "FT%": "14",
+                "FTA": "18",
+                "FT%": "13",
                 "ORB": "22",
                 "DRB": "8",
                 "TRB": "15",
@@ -199,28 +199,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "17",
                 "FGA": "19",
                 "FG%": "10",
-                "3P": "11",
-                "3PA": "6",
-                "3P%": "22",
+                "3P": "10",
+                "3PA": "5",
+                "3P%": "21",
                 "2P": "18",
                 "2PA": "26",
                 "2P%": "6",
                 "FT": "8",
-                "FTA": "7",
+                "FTA": "8",
                 "FT%": "17",
-                "ORB": "9",
-                "DRB": "13",
+                "ORB": "8",
+                "DRB": "12",
                 "TRB": "11",
                 "AST": "12",
                 "STL": "8",
                 "BLK": "10",
                 "TOV": "11",
                 "PF": "15",
-                "PTS": "12"
+                "PTS": "11"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -253,8 +253,8 @@
                 "PW": "33",
                 "PL": "9",
                 "MOV": "10.36",
-                "SOS": "-1.43",
-                "SRS": "8.93",
+                "SOS": "-1.42",
+                "SRS": "8.94",
                 "ORtg": "121.8",
                 "DRtg": "111.4",
                 "Pace": "100.2",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CLE-2025.png",
-        "last_update": "Jan 21 2025 22:32:17"
+        "last_update": "Jan 22 2025 22:32:17"
     }
 }

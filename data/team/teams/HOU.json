@@ -30,14 +30,14 @@
             {
                 "Player": "Steven Adams",
                 "Team": "Houston Rockets",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Head) - The Rockets have listed Adams as Out for Monday's (Jan. 20) game against the Pistons."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Head) - Adams did not play on Monday's (Jan. 20) game against the Pistons."
             },
             {
                 "Player": "Jabari Smith Jr.",
                 "Team": "Houston Rockets",
-                "Update": "Fri, Jan 3, 2025",
-                "Description": "Out (Hand) - The Rockets announced on Friday (Jan. 3) that Smith Jr. suffered a fractured left hand during shoot around today and is expected to miss 4-to-8 weeks."
+                "Update": "Sat, Jan 18, 2025",
+                "Description": "Out (Hand) - Rockets HC Ime Udoka said Saturday (Jan. 18) that Smith will not have surgery on his fractured left hand, this could extend his recovery timeline, according to Danielle Lerner of the Houston Chronicle. "
             }
         ],
         "team_stats": {
@@ -93,24 +93,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "10",
                 "FGA": "1",
-                "FG%": "23",
-                "3P": "25",
-                "3PA": "21",
-                "3P%": "27",
+                "FG%": "24",
+                "3P": "26",
+                "3PA": "22",
+                "3P%": "28",
                 "2P": "7",
                 "2PA": "2",
                 "2P%": "28",
-                "FT": "11",
-                "FTA": "7",
+                "FT": "10",
+                "FTA": "6",
                 "FT%": "27",
                 "ORB": "1",
                 "DRB": "11",
                 "TRB": "1",
                 "AST": "29",
-                "STL": "8",
+                "STL": "7",
                 "BLK": "12",
                 "TOV": "8",
                 "PF": "20",
@@ -193,7 +193,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "4",
                 "FGA": "6",
                 "FG%": "5",
@@ -247,8 +247,8 @@
                 "PW": "29",
                 "PL": "13",
                 "MOV": "5.98",
-                "SOS": "0.31",
-                "SRS": "6.28",
+                "SOS": "0.36",
+                "SRS": "6.34",
                 "ORtg": "114.3",
                 "DRtg": "108.3",
                 "Pace": "98.9",
@@ -263,17 +263,17 @@
                 "Attendance": "365,621"
             },
             "Misc Lg Rank": {
-                "W": "4",
+                "W": "5",
                 "L": "27",
                 "PW": "6",
                 "PL": "5",
-                "MOV": "6",
-                "SOS": "9",
+                "MOV": "5",
+                "SOS": "8",
                 "SRS": "5",
                 "ORtg": "12",
-                "DRtg": "3",
+                "DRtg": "2",
                 "Pace": "17",
-                "FTr": "13",
+                "FTr": "14",
                 "3PAr": "27",
                 "eFG%": "3",
                 "TOV%": "6",
@@ -285,6 +285,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/HOU-2025.png",
-        "last_update": "Jan 21 2025 22:32:17"
+        "last_update": "Jan 22 2025 22:32:17"
     }
 }

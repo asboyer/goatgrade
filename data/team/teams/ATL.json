@@ -35,6 +35,12 @@
                 "Description": "Out For Season (Shoulder) - The Hawks said on Wednesday (Dec. 18) that Bufkin will undergo surgery to address a right shoulder instability and will miss the rest of the season."
             },
             {
+                "Player": "Jalen Johnson",
+                "Team": "Atlanta Hawks",
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Shoulder) - The Hawks listed Johnson as Questionable for Wednesday's (Jan. 22) game against the Pistons."
+            },
+            {
                 "Player": "Larry Nance Jr.",
                 "Team": "Atlanta Hawks",
                 "Update": "Fri, Jan 17, 2025",
@@ -43,8 +49,14 @@
             {
                 "Player": "Zaccharie Risacher",
                 "Team": "Atlanta Hawks",
-                "Update": "Sun, Jan 19, 2025",
-                "Description": "Out (Thigh) - The Hawks listed Risacher as OUT for Monday's (Jan. 20) game against New York."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Out (Thigh) - The Hawks announced on Tuesday (Jan. 21) that Risacher who has missed the last three games due to a left adductor strain, is progressing in his rehabilitation and will be re-evaluated in one week."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as Probable for Wednesday's (Jan. 22) game against the Pistons."
             },
             {
                 "Player": "Cody Zeller",
@@ -106,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "9",
                 "FGA": "4",
                 "FG%": "16",
@@ -116,12 +128,12 @@
                 "2P": "8",
                 "2PA": "4",
                 "2P%": "19",
-                "FT": "2",
+                "FT": "3",
                 "FTA": "3",
                 "FT%": "15",
                 "ORB": "7",
-                "DRB": "19",
-                "TRB": "6",
+                "DRB": "20",
+                "TRB": "7",
                 "AST": "3",
                 "STL": "2",
                 "BLK": "9",
@@ -206,13 +218,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "28",
                 "FGA": "25",
                 "FG%": "23",
                 "3P": "30",
                 "3PA": "28",
-                "3P%": "27",
+                "3P%": "29",
                 "2P": "22",
                 "2PA": "20",
                 "2P%": "20",
@@ -223,7 +235,7 @@
                 "DRB": "22",
                 "TRB": "19",
                 "AST": "28",
-                "STL": "26",
+                "STL": "27",
                 "BLK": "18",
                 "TOV": "4",
                 "PF": "6",
@@ -260,8 +272,8 @@
                 "PW": "19",
                 "PL": "23",
                 "MOV": "-1.98",
-                "SOS": "-0.19",
-                "SRS": "-2.16",
+                "SOS": "-0.15",
+                "SRS": "-2.12",
                 "ORtg": "112.6",
                 "DRtg": "114.5",
                 "Pace": "103.2",
@@ -276,19 +288,19 @@
                 "Attendance": "296,745"
             },
             "Misc Lg Rank": {
-                "W": "13",
-                "L": "16",
+                "W": "14",
+                "L": "17",
                 "PW": "20",
                 "PL": "21",
                 "MOV": "20",
-                "SOS": "19",
-                "SRS": "19",
+                "SOS": "18",
+                "SRS": "20",
                 "ORtg": "17",
                 "DRtg": "19",
                 "Pace": "3",
                 "FTr": "9",
                 "3PAr": "21",
-                "eFG%": "26",
+                "eFG%": "27",
                 "TOV%": "4",
                 "ORB%": "8",
                 "FT/FGA": "11",
@@ -298,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ATL-2025.png",
-        "last_update": "Jan 21 2025 22:32:17"
+        "last_update": "Jan 22 2025 22:32:17"
     }
 }

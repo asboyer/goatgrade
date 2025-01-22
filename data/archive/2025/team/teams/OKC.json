@@ -22,7 +22,6 @@
             "Ousmane Dieng",
             "Jaylin Williams",
             "Adam Flagler",
-            "Branden Carlson",
             "Chet Holmgren",
             "Alex Ducas",
             "Nikola Topić"
@@ -53,10 +52,10 @@
                 "Description": "Out For Season (ACL) - Topic underwent a successful left ACL procedure Wednesday and will miss the 2024-25 season, Clemente Almanza of USA Today reports."
             },
             {
-                "Player": "Jaylin Williams",
+                "Player": "Jalen Williams",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Sun, Jan 19, 2025",
-                "Description": "Day To Day (Hip) - Williams did not play in Sunday's (Jan. 19) game against the Nets."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Hip) - The Thunder listed Williams as Questionable for Wednesday's (Jan. 22) game against the Jazz."
             }
         ],
         "team_stats": {
@@ -112,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "4",
                 "FGA": "5",
                 "FG%": "11",
@@ -132,7 +131,7 @@
                 "STL": "1",
                 "BLK": "5",
                 "TOV": "2",
-                "PF": "26",
+                "PF": "25",
                 "PTS": "9"
             },
             "Year/Year": {
@@ -212,7 +211,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "1",
                 "FGA": "4",
                 "FG%": "1",
@@ -223,16 +222,16 @@
                 "2PA": "1",
                 "2P%": "3",
                 "FT": "25",
-                "FTA": "26",
+                "FTA": "27",
                 "FT%": "5",
                 "ORB": "27",
                 "DRB": "24",
                 "TRB": "27",
                 "AST": "3",
                 "STL": "1",
-                "BLK": "15",
+                "BLK": "14",
                 "TOV": "1",
-                "PF": "27",
+                "PF": "26",
                 "PTS": "1"
             },
             "Opp Year/Year": {
@@ -266,8 +265,8 @@
                 "PW": "35",
                 "PL": "7",
                 "MOV": "12.81",
-                "SOS": "0.03",
-                "SRS": "12.84",
+                "SOS": "0.07",
+                "SRS": "12.88",
                 "ORtg": "116.8",
                 "DRtg": "103.9",
                 "Pace": "99.7",
@@ -287,7 +286,7 @@
                 "PW": "1",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "15",
+                "SOS": "14",
                 "SRS": "1",
                 "ORtg": "6",
                 "DRtg": "1",
@@ -296,7 +295,7 @@
                 "3PAr": "15",
                 "eFG%": "1",
                 "TOV%": "1",
-                "ORB%": "24",
+                "ORB%": "23",
                 "FT/FGA": "27",
                 "DRB%": "25",
                 "Arena": "",
@@ -304,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/OKC-2025.png",
-        "last_update": "Jan 21 2025 22:32:17"
+        "last_update": "Jan 22 2025 22:32:17"
     }
 }

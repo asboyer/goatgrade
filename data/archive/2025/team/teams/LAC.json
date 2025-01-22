@@ -29,10 +29,34 @@
         ],
         "injuries": [
             {
+                "Player": "Nicolas Batum",
+                "Team": "Los Angeles Clippers",
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Finger) - The Clippers listed Batum as Questionable for Wednesday's (Jan. 22) game against the Celtics."
+            },
+            {
+                "Player": "Kris Dunn",
+                "Team": "Los Angeles Clippers",
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Knee) - The Clippers listed Dunn as Questionable for Wednesday's (Jan. 22) game against the Celtics."
+            },
+            {
+                "Player": "James Harden",
+                "Team": "Los Angeles Clippers",
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Groin) - The Clippers listed Harden as Questionable for Wednesday's (Jan. 22) game against the Celtics."
+            },
+            {
                 "Player": "Kawhi Leonard",
                 "Team": "Los Angeles Clippers",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Knee) - The Clippers listed Leonard as OUT for Monday's (Jan. 20) game against Chicago."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Out (Knee) - The Clippers listed Leonard as Out for Wednesday's (Jan. 22) game against the Celtics."
+            },
+            {
+                "Player": "Norman Powell",
+                "Team": "Los Angeles Clippers",
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Back) - The Clippers listed Powell as Questionable for Wednesday's (Jan. 22) game against the Celtics."
             },
             {
                 "Player": "P.J. Tucker",
@@ -43,8 +67,8 @@
             {
                 "Player": "Ivica Zubac",
                 "Team": "Los Angeles Clippers",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Eye) - The Clippers listed Zubac as OUT for Monday's (Jan. 20) game against Chicago."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Out (Eye) - The Clippers listed Zubac as Out for Wednesday's (Jan. 22) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -100,13 +124,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "20",
                 "FGA": "24",
-                "FG%": "13",
+                "FG%": "14",
                 "3P": "23",
                 "3PA": "26",
-                "3P%": "16",
+                "3P%": "15",
                 "2P": "14",
                 "2PA": "16",
                 "2P%": "17",
@@ -115,11 +139,11 @@
                 "FT%": "12",
                 "ORB": "20",
                 "DRB": "13",
-                "TRB": "17",
+                "TRB": "16",
                 "AST": "25",
                 "STL": "3",
-                "BLK": "24",
-                "TOV": "26",
+                "BLK": "25",
+                "TOV": "27",
                 "PF": "11",
                 "PTS": "23"
             },
@@ -200,7 +224,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "3",
                 "FGA": "5",
                 "FG%": "8",
@@ -215,10 +239,10 @@
                 "FT%": "4",
                 "ORB": "5",
                 "DRB": "9",
-                "TRB": "6",
+                "TRB": "7",
                 "AST": "6",
-                "STL": "24",
-                "BLK": "13",
+                "STL": "25",
+                "BLK": "12",
                 "TOV": "7",
                 "PF": "28",
                 "PTS": "3"
@@ -254,8 +278,8 @@
                 "PW": "25",
                 "PL": "17",
                 "MOV": "2.83",
-                "SOS": "0.49",
-                "SRS": "3.33",
+                "SOS": "0.59",
+                "SRS": "3.43",
                 "ORtg": "111.1",
                 "DRtg": "108.3",
                 "Pace": "98.3",
@@ -278,10 +302,10 @@
                 "SOS": "7",
                 "SRS": "9",
                 "ORtg": "22",
-                "DRtg": "4",
+                "DRtg": "3",
                 "Pace": "20",
-                "FTr": "12",
-                "3PAr": "23",
+                "FTr": "11",
+                "3PAr": "22",
                 "eFG%": "7",
                 "TOV%": "5",
                 "ORB%": "19",
@@ -292,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAC-2025.png",
-        "last_update": "Jan 21 2025 22:32:17"
+        "last_update": "Jan 22 2025 22:32:17"
     }
 }

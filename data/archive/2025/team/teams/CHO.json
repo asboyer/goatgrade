@@ -31,8 +31,8 @@
             {
                 "Player": "Tre Mann",
                 "Team": "Charlotte Hornets",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Back) - The Hornets have listed Mann as Out for Monday's (Jan. 20) game against the Mavericks."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Out (Back) - The Hornets listed Mann as Out for Wednesday's (Jan. 22) game against the Grizzlies."
             },
             {
                 "Player": "Brandon Miller",
@@ -112,9 +112,9 @@
                 "2P%": "30",
                 "FT": "28",
                 "FTA": "27",
-                "FT%": "22",
+                "FT%": "21",
                 "ORB": "2",
-                "DRB": "18",
+                "DRB": "19",
                 "TRB": "4",
                 "AST": "26",
                 "STL": "16",
@@ -204,12 +204,12 @@
                 "FG": "10",
                 "FGA": "7",
                 "FG%": "16",
-                "3P": "14",
+                "3P": "13",
                 "3PA": "23",
                 "3P%": "7",
                 "2P": "10",
                 "2PA": "5",
-                "2P%": "23",
+                "2P%": "24",
                 "FT": "21",
                 "FTA": "21",
                 "FT%": "16",
@@ -219,7 +219,7 @@
                 "AST": "17",
                 "STL": "14",
                 "BLK": "22",
-                "TOV": "18",
+                "TOV": "17",
                 "PF": "13",
                 "PTS": "14"
             },
@@ -254,8 +254,8 @@
                 "PW": "13",
                 "PL": "26",
                 "MOV": "-5.41",
-                "SOS": "0.19",
-                "SRS": "-5.22",
+                "SOS": "0.07",
+                "SRS": "-5.34",
                 "ORtg": "108.5",
                 "DRtg": "114.0",
                 "Pace": "97.9",
@@ -273,10 +273,10 @@
                 "W": "27",
                 "L": "6",
                 "PW": "24",
-                "PL": "24",
+                "PL": "23",
                 "MOV": "24",
-                "SOS": "12",
-                "SRS": "24",
+                "SOS": "15",
+                "SRS": "25",
                 "ORtg": "28",
                 "DRtg": "17",
                 "Pace": "21",
@@ -285,13 +285,13 @@
                 "eFG%": "17",
                 "TOV%": "17",
                 "ORB%": "3",
-                "FT/FGA": "21",
+                "FT/FGA": "20",
                 "DRB%": "10",
                 "Arena": "",
                 "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHO-2025.png",
-        "last_update": "Jan 21 2025 22:32:17"
+        "last_update": "Jan 22 2025 22:32:17"
     }
 }

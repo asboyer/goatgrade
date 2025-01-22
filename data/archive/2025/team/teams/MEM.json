@@ -29,6 +29,18 @@
         ],
         "injuries": [
             {
+                "Player": "Luke Kennard",
+                "Team": "Memphis Grizzlies",
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Ankle) - The Grizzlies listed Kennard as Probable for Wednesday's (Jan. 22) game against the Hornets."
+            },
+            {
+                "Player": "Jake LaRavia",
+                "Team": "Memphis Grizzlies",
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Back) - The Grizzlies listed LaRavia as Doubtful for Wednesday's (Jan. 22) game against the Hornets."
+            },
+            {
                 "Player": "Marcus Smart",
                 "Team": "Memphis Grizzlies",
                 "Update": "Fri, Jan 10, 2025",
@@ -100,13 +112,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
-                "FG": "1",
+                "MP": "13",
+                "FG": "2",
                 "FGA": "2",
                 "FG%": "5",
                 "3P": "10",
                 "3PA": "13",
-                "3P%": "10",
+                "3P%": "9",
                 "2P": "2",
                 "2PA": "5",
                 "2P%": "5",
@@ -117,7 +129,7 @@
                 "DRB": "3",
                 "TRB": "2",
                 "AST": "2",
-                "STL": "7",
+                "STL": "6",
                 "BLK": "3",
                 "TOV": "29",
                 "PF": "29",
@@ -200,14 +212,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "13",
                 "FG": "16",
                 "FGA": "26",
                 "FG%": "2",
-                "3P": "19",
+                "3P": "20",
                 "3PA": "27",
                 "3P%": "5",
-                "2P": "12",
+                "2P": "13",
                 "2PA": "21",
                 "2P%": "5",
                 "FT": "28",
@@ -218,7 +230,7 @@
                 "TRB": "12",
                 "AST": "13",
                 "STL": "22",
-                "BLK": "24",
+                "BLK": "25",
                 "TOV": "5",
                 "PF": "1",
                 "PTS": "22"
@@ -254,8 +266,8 @@
                 "PW": "31",
                 "PL": "12",
                 "MOV": "8.16",
-                "SOS": "-1.04",
-                "SRS": "7.13",
+                "SOS": "-0.96",
+                "SRS": "7.20",
                 "ORtg": "117.4",
                 "DRtg": "109.6",
                 "Pace": "104.8",
@@ -270,7 +282,7 @@
                 "Attendance": "344,533"
             },
             "Misc Lg Rank": {
-                "W": "4",
+                "W": "5",
                 "L": "26",
                 "PW": "4",
                 "PL": "4",
@@ -285,13 +297,13 @@
                 "eFG%": "4",
                 "TOV%": "7",
                 "ORB%": "2",
-                "FT/FGA": "23",
+                "FT/FGA": "24",
                 "DRB%": "18",
                 "Arena": "",
                 "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MEM-2025.png",
-        "last_update": "Jan 21 2025 22:32:17"
+        "last_update": "Jan 22 2025 22:32:17"
     }
 }

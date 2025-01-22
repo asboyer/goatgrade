@@ -29,14 +29,14 @@
             {
                 "Player": "Kyle Anderson",
                 "Team": "Golden State Warriors",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Hamstring) - The Warriors have listed Anderson as Out for Monday's (Jan. 20) game against the Celtics."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Hamstring) - The Warriors listed Anderson as Questionable for Wednesday's (Jan. 22) game against the Kings."
             },
             {
                 "Player": "Draymond Green",
                 "Team": "Golden State Warriors",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Calf) - The Warriors have listed Green as Out for Monday's (Jan. 20) game against the Celtics."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Out (Calf) - Green was diagnosed Monday (Jan. 20) with a mild left calf strain and will be re-evaluated in one week, per Anthony Slater of The Athletic."
             },
             {
                 "Player": "Jonathan Kuminga",
@@ -47,8 +47,8 @@
             {
                 "Player": "Brandin Podziemski",
                 "Team": "Golden State Warriors",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Abdominal) - The Warriors have listed Podziemski as Out for Monday's (Jan. 20) game against the Celtics."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Out (Abdominal) - The Warriors listed Podziemski as Out for Wednesday's (Jan. 22) game against the Kings."
             }
         ],
         "team_stats": {
@@ -104,7 +104,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "16",
                 "FGA": "6",
                 "FG%": "25",
@@ -113,7 +113,7 @@
                 "3P%": "14",
                 "2P": "25",
                 "2PA": "17",
-                "2P%": "27",
+                "2P%": "26",
                 "FT": "30",
                 "FTA": "28",
                 "FT%": "30",
@@ -124,7 +124,7 @@
                 "STL": "9",
                 "BLK": "10",
                 "TOV": "13",
-                "PF": "17",
+                "PF": "18",
                 "PTS": "21"
             },
             "Year/Year": {
@@ -204,26 +204,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "7",
                 "FGA": "12",
                 "FG%": "9",
-                "3P": "16",
+                "3P": "17",
                 "3PA": "16",
                 "3P%": "14",
                 "2P": "6",
                 "2PA": "9",
-                "2P%": "10",
+                "2P%": "11",
                 "FT": "12",
                 "FTA": "13",
                 "FT%": "11",
                 "ORB": "12",
-                "DRB": "28",
+                "DRB": "27",
                 "TRB": "24",
                 "AST": "16",
                 "STL": "9",
                 "BLK": "29",
-                "TOV": "13",
+                "TOV": "12",
                 "PF": "29",
                 "PTS": "10"
             },
@@ -258,8 +258,8 @@
                 "PW": "20",
                 "PL": "22",
                 "MOV": "-0.40",
-                "SOS": "1.10",
-                "SRS": "0.69",
+                "SOS": "1.15",
+                "SRS": "0.75",
                 "ORtg": "111.6",
                 "DRtg": "112.0",
                 "Pace": "99.0",
@@ -275,15 +275,15 @@
             },
             "Misc Lg Rank": {
                 "W": "18",
-                "L": "11",
+                "L": "12",
                 "PW": "16",
                 "PL": "15",
-                "MOV": "16",
+                "MOV": "15",
                 "SOS": "3",
                 "SRS": "13",
                 "ORtg": "21",
-                "DRtg": "11",
-                "Pace": "15",
+                "DRtg": "10",
+                "Pace": "16",
                 "FTr": "28",
                 "3PAr": "7",
                 "eFG%": "12",
@@ -292,10 +292,10 @@
                 "FT/FGA": "15",
                 "DRB%": "12",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/GSW-2025.png",
-        "last_update": "Jan 21 2025 22:32:17"
+        "last_update": "Jan 22 2025 22:32:17"
     }
 }

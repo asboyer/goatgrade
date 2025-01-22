@@ -31,8 +31,8 @@
             {
                 "Player": "Jevon Carter",
                 "Team": "Chicago Bulls",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Illness) - The Bulls listed Carter as OUT for Monday's (Jan. 20) game against Los Angeles."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Illness) - Carter did not play on Monday's (Jan. 20) game against Los Angeles."
             },
             {
                 "Player": "Torrey Craig",
@@ -43,20 +43,20 @@
             {
                 "Player": "Ayo Dosunmu",
                 "Team": "Chicago Bulls",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Soleus) - The Bulls listed Dosumnu as OUT for Monday's (Jan. 20) game against Los Angeles."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Soleus) - Dosumnu did not play Monday's (Jan. 20) game against Los Angeles."
             },
             {
                 "Player": "Chris Duarte",
                 "Team": "Chicago Bulls",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Personal) - The Bulls listed Duarte as OUT for Monday's (Jan. 20) game against Los Angeles."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Personal) - Duarte did not play Monday's (Jan. 20) game against Los Angeles."
             },
             {
                 "Player": "Coby White",
                 "Team": "Chicago Bulls",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Ankle) - The Bulls listed White as OUT for Monday's (Jan. 20) game against Los Angeles."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Ankle) - White did not play on Monday's (Jan. 20) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -112,25 +112,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "5",
                 "FG": "7",
                 "FGA": "3",
-                "FG%": "12",
+                "FG%": "13",
                 "3P": "3",
                 "3PA": "2",
                 "3P%": "8",
                 "2P": "18",
                 "2PA": "19",
-                "2P%": "10",
+                "2P%": "11",
                 "FT": "29",
                 "FTA": "30",
                 "FT%": "4",
                 "ORB": "25",
                 "DRB": "1",
-                "TRB": "5",
+                "TRB": "6",
                 "AST": "4",
-                "STL": "25",
-                "BLK": "21",
+                "STL": "24",
+                "BLK": "20",
                 "TOV": "19",
                 "PF": "7",
                 "PTS": "5"
@@ -212,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "5",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "21",
@@ -266,8 +266,8 @@
                 "PW": "18",
                 "PL": "26",
                 "MOV": "-2.86",
-                "SOS": "-0.28",
-                "SRS": "-3.14",
+                "SOS": "-0.31",
+                "SRS": "-3.17",
                 "ORtg": "112.9",
                 "DRtg": "115.7",
                 "Pace": "103.5",
@@ -304,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHI-2025.png",
-        "last_update": "Jan 21 2025 22:32:17"
+        "last_update": "Jan 22 2025 22:32:17"
     }
 }

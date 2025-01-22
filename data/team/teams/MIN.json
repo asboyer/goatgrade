@@ -30,8 +30,8 @@
             {
                 "Player": "Donte DiVincenzo",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Toe) - The Minnesota have listed DiVincenzo as Out for Monday's (Jan. 20) game against the Grizzlies."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Out (Toe) - Minnesota announced Monday (Jan. 20) that DiVincenzo is out indefinitely after being diagnosed with a Grade 3 left great toe sprain following an MRI."
             },
             {
                 "Player": "Terrence Shannon Jr. ",
@@ -93,17 +93,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "10",
                 "FG": "26",
                 "FGA": "25",
                 "FG%": "17",
                 "3P": "4",
                 "3PA": "7",
-                "3P%": "3",
+                "3P%": "4",
                 "2P": "28",
                 "2PA": "29",
                 "2P%": "23",
-                "FT": "23",
+                "FT": "22",
                 "FTA": "24",
                 "FT%": "16",
                 "ORB": "19",
@@ -193,7 +193,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "10",
                 "FG": "5",
                 "FGA": "11",
                 "FG%": "6",
@@ -201,7 +201,7 @@
                 "3PA": "13",
                 "3P%": "4",
                 "2P": "8",
-                "2PA": "13",
+                "2PA": "15",
                 "2P%": "8",
                 "FT": "6",
                 "FTA": "6",
@@ -210,7 +210,7 @@
                 "DRB": "5",
                 "TRB": "10",
                 "AST": "4",
-                "STL": "23",
+                "STL": "24",
                 "BLK": "11",
                 "TOV": "14",
                 "PF": "16",
@@ -247,8 +247,8 @@
                 "PW": "24",
                 "PL": "19",
                 "MOV": "1.95",
-                "SOS": "0.60",
-                "SRS": "2.55",
+                "SOS": "0.69",
+                "SRS": "2.65",
                 "ORtg": "112.9",
                 "DRtg": "110.9",
                 "Pace": "96.9",
@@ -263,8 +263,8 @@
                 "Attendance": "379,560"
             },
             "Misc Lg Rank": {
-                "W": "13",
-                "L": "11",
+                "W": "14",
+                "L": "12",
                 "PW": "12",
                 "PL": "12",
                 "MOV": "12",
@@ -272,7 +272,7 @@
                 "SRS": "10",
                 "ORtg": "15",
                 "DRtg": "7",
-                "Pace": "26",
+                "Pace": "25",
                 "FTr": "19",
                 "3PAr": "2",
                 "eFG%": "6",
@@ -281,10 +281,10 @@
                 "FT/FGA": "7",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIN-2025.png",
-        "last_update": "Jan 21 2025 22:32:17"
+        "last_update": "Jan 22 2025 22:32:17"
     }
 }

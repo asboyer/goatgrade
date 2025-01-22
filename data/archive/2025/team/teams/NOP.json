@@ -30,8 +30,8 @@
             {
                 "Player": "Brandon Ingram",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Ankle) - The Pelicans have listed Ingram as Out for Monday's (Jan. 20) game against the Utah."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Out (Ankle) - Ingram did not play in Monday's (Jan. 20) game against Utah. There's no report of a target date for his return just yet."
             },
             {
                 "Player": "Herbert Jones",
@@ -42,14 +42,20 @@
             {
                 "Player": "Yves Missi",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Illness) - The Pelicans have listed Missi as Out for Monday's (Jan. 20) game against the Utah."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Illness) - The Pelicans listed Missi as questionable for Wednesday's (Jan. 22) game against the Bucks."
+            },
+            {
+                "Player": "Dejounte Murray",
+                "Team": "New Orleans Pelicans",
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Elbow) - The Pelicans listed Murray as Probable for Wednesday's (Jan. 22) game against the Bucks."
             },
             {
                 "Player": "Zion Williamson",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Out (Illness) - The Pelicans have listed Williamson as Out for Monday's (Jan. 20) game against the Utah."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Day To Day (Illness) - The Pelicans listed Williamson as Questionable for Wednesday's (Jan. 22) game against the Bucks."
             }
         ],
         "team_stats": {
@@ -72,9 +78,9 @@
                 "DRB": "1354",
                 "TRB": "1903",
                 "AST": "1111",
-                "STL": "421",
+                "STL": "422",
                 "BLK": "246",
-                "TOV": "637",
+                "TOV": "638",
                 "PF": "814",
                 "PTS": "4806"
             },
@@ -105,9 +111,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "4",
                 "FG": "21",
-                "FGA": "9",
+                "FGA": "10",
                 "FG%": "27",
                 "3P": "24",
                 "3PA": "23",
@@ -116,12 +122,12 @@
                 "2PA": "7",
                 "2P%": "29",
                 "FT": "16",
-                "FTA": "14",
-                "FT%": "25",
-                "ORB": "6",
-                "DRB": "26",
-                "TRB": "22",
-                "AST": "19",
+                "FTA": "13",
+                "FT%": "26",
+                "ORB": "5",
+                "DRB": "27",
+                "TRB": "23",
+                "AST": "18",
                 "STL": "4",
                 "BLK": "7",
                 "TOV": "17",
@@ -147,9 +153,9 @@
                 "DRB": "-8.3%",
                 "TRB": "-1.6%",
                 "AST": "-6.3%",
-                "STL": "14.7%",
+                "STL": "15.0%",
                 "BLK": "21.3%",
-                "TOV": "11.3%",
+                "TOV": "11.4%",
                 "PF": "0.6%",
                 "PTS": "-5.1%"
             },
@@ -172,9 +178,9 @@
                 "DRB": "1509",
                 "TRB": "2038",
                 "AST": "1233",
-                "STL": "386",
+                "STL": "387",
                 "BLK": "243",
-                "TOV": "660",
+                "TOV": "661",
                 "PF": "790",
                 "PTS": "5158"
             },
@@ -205,12 +211,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "4",
                 "FG": "26",
                 "FGA": "22",
                 "FG%": "28",
                 "3P": "25",
-                "3PA": "21",
+                "3PA": "22",
                 "3P%": "16",
                 "2P": "28",
                 "2PA": "16",
@@ -247,9 +253,9 @@
                 "DRB": "6.4%",
                 "TRB": "9.5%",
                 "AST": "4.6%",
-                "STL": "34.2%",
+                "STL": "34.6%",
                 "BLK": "6.8%",
-                "TOV": "5.3%",
+                "TOV": "5.5%",
                 "PF": "-2.3%",
                 "PTS": "5.9%"
             },
@@ -259,8 +265,8 @@
                 "PW": "12",
                 "PL": "32",
                 "MOV": "-8.00",
-                "SOS": "0.29",
-                "SRS": "-7.71",
+                "SOS": "0.35",
+                "SRS": "-7.65",
                 "ORtg": "109.8",
                 "DRtg": "117.9",
                 "Pace": "99.0",
@@ -280,12 +286,12 @@
                 "PW": "28",
                 "PL": "29",
                 "MOV": "28",
-                "SOS": "10",
+                "SOS": "9",
                 "SRS": "28",
                 "ORtg": "25",
                 "DRtg": "27",
-                "Pace": "16",
-                "FTr": "18",
+                "Pace": "15",
+                "FTr": "17",
                 "3PAr": "26",
                 "eFG%": "28",
                 "TOV%": "14",
@@ -293,10 +299,10 @@
                 "FT/FGA": "10",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NOP-2025.png",
-        "last_update": "Jan 21 2025 22:32:17"
+        "last_update": "Jan 22 2025 22:32:17"
     }
 }
