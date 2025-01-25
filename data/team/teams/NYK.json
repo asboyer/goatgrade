@@ -28,10 +28,16 @@
         ],
         "injuries": [
             {
+                "Player": "Josh Hart",
+                "Team": "New York Knicks",
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Knee) - The Knicks listed Hart as Questionable for Saturday's (Jan. 25) game against the Kings."
+            },
+            {
                 "Player": "Mitchell Robinson",
                 "Team": "New York Knicks",
-                "Update": "Wed, Jan 1, 2025",
-                "Description": "Out (Ankle) - Robinson has yet to begin running full speed but is expected to be cleared for full practice at some point in January, per Ian Begley of SportsNet New York."
+                "Update": "Tue, Jan 21, 2025",
+                "Description": "Out (Ankle) - The Knicks are optimistic that Robinson will be ready to make his season debut by early-to-mid-February, according to Ian Begley of SNY.tv."
             }
         ],
         "team_stats": {
@@ -102,7 +108,7 @@
                 "FT%": "3",
                 "ORB": "18",
                 "DRB": "23",
-                "TRB": "24",
+                "TRB": "23",
                 "AST": "11",
                 "STL": "21",
                 "BLK": "28",
@@ -191,8 +197,8 @@
                 "FG": "14",
                 "FGA": "6",
                 "FG%": "18",
-                "3P": "22",
-                "3PA": "6",
+                "3P": "23",
+                "3PA": "7",
                 "3P%": "28",
                 "2P": "9",
                 "2PA": "12",
@@ -241,7 +247,7 @@
                 "PW": "30",
                 "PL": "15",
                 "MOV": "5.96",
-                "SOS": "-1.87",
+                "SOS": "-1.86",
                 "SRS": "4.09",
                 "ORtg": "120.2",
                 "DRtg": "114.0",
@@ -257,7 +263,7 @@
                 "Attendance": "435,864"
             },
             "Misc Lg Rank": {
-                "W": "4",
+                "W": "5",
                 "L": "24",
                 "PW": "5",
                 "PL": "6",
@@ -273,12 +279,12 @@
                 "TOV%": "17",
                 "ORB%": "11",
                 "FT/FGA": "6",
-                "DRB%": "13",
+                "DRB%": "12",
                 "Arena": "",
                 "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NYK-2025.png",
-        "last_update": "Jan 24 2025 22:32:18"
+        "last_update": "Jan 25 2025 22:32:18"
     }
 }

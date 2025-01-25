@@ -2,7 +2,7 @@
     "TOR": {
         "info": {
             "record": "12-32",
-            "standing": "14th in East",
+            "standing": "13th in East",
             "coach": "Darko Rajakovic (12-32)",
             "gm": "Masai Ujiri",
             "preseason_odds": "+50000"
@@ -31,14 +31,20 @@
             {
                 "Player": "Ochai Agbaji",
                 "Team": "Toronto Raptors",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Hand) - Agbaji did not play in Thursday's (Jan. 23) game against the Hawks."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Out (Hand) - The Raptors listed Agbaji as Out for Saturday's (Jan. 25) game against the Hawks."
+            },
+            {
+                "Player": "Kelly Olynyk",
+                "Team": "Toronto Raptors",
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Out (Calf) - The Raptors listed Olynyk as Out for Saturday's (Jan. 25) game against the Hawks."
             },
             {
                 "Player": "Immanuel Quickley",
                 "Team": "Toronto Raptors",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Hip) - Quickley did not play in Thursday's (Jan. 23) game against the Hawks."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Out (Hip) - The Raptors listed Quickley as Out for Saturday's (Jan. 25) game against the Hawks."
             }
         ],
         "team_stats": {
@@ -94,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "13",
                 "FG": "10",
                 "FGA": "14",
                 "FG%": "12",
@@ -104,7 +110,7 @@
                 "2P": "4",
                 "2PA": "3",
                 "2P%": "17",
-                "FT": "26",
+                "FT": "27",
                 "FTA": "15",
                 "FT%": "28",
                 "ORB": "9",
@@ -194,14 +200,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
-                "FG": "20",
+                "MP": "13",
+                "FG": "21",
                 "FGA": "14",
                 "FG%": "21",
                 "3P": "26",
                 "3PA": "20",
-                "3P%": "24",
-                "2P": "14",
+                "3P%": "22",
+                "2P": "15",
                 "2PA": "7",
                 "2P%": "20",
                 "FT": "30",
@@ -212,9 +218,9 @@
                 "TRB": "13",
                 "AST": "19",
                 "STL": "24",
-                "BLK": "24",
+                "BLK": "25",
                 "TOV": "18",
-                "PF": "19",
+                "PF": "20",
                 "PTS": "26"
             },
             "Opp Year/Year": {
@@ -248,8 +254,8 @@
                 "PW": "13",
                 "PL": "31",
                 "MOV": "-6.77",
-                "SOS": "1.64",
-                "SRS": "-5.13",
+                "SOS": "1.63",
+                "SRS": "-5.15",
                 "ORtg": "111.2",
                 "DRtg": "118.0",
                 "Pace": "99.3",
@@ -265,18 +271,18 @@
             },
             "Misc Lg Rank": {
                 "W": "26",
-                "L": "2",
-                "PW": "24",
+                "L": "3",
+                "PW": "25",
                 "PL": "26",
                 "MOV": "25",
                 "SOS": "2",
                 "SRS": "24",
                 "ORtg": "22",
-                "DRtg": "28",
+                "DRtg": "27",
                 "Pace": "11",
                 "FTr": "21",
                 "3PAr": "29",
-                "eFG%": "23",
+                "eFG%": "24",
                 "TOV%": "20",
                 "ORB%": "6",
                 "FT/FGA": "30",
@@ -286,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/TOR-2025.png",
-        "last_update": "Jan 24 2025 22:32:18"
+        "last_update": "Jan 25 2025 22:32:18"
     }
 }

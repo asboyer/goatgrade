@@ -31,14 +31,14 @@
             {
                 "Player": "Bojan Bogdanović",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Jan 22, 2025",
-                "Description": "Day To Day (Foot) - Bogdanovic did not play in Wednesday's (Jan. 22) game against the Suns."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Out (Foot) - Bogdanovic recently resumed taking part in on-court work for the first time this season, per Brian Lewis of the New York Post. There is no clear timetable yet for his return."
             },
             {
                 "Player": "Cameron Johnson",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Jan 22, 2025",
-                "Description": "Day To Day (Ankle) - Johnson did not play in Wednesday's (Jan. 22) game against the Suns."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Out (Ankle) - Coach Jordi Fernandez said that Johnson will not play in Saturday's (Jan. 25) matchup against the Heat and will be re-evaluated sometime next week, per Sharif Phillips-Keaton of USA Today."
             },
             {
                 "Player": "Maxwell Lewis",
@@ -55,32 +55,32 @@
             {
                 "Player": "D'Angelo Russell",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Jan 22, 2025",
-                "Description": "Day To Day (Hamstring) - Russell did not play in Wednesday's (Jan. 22) game against the Suns."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Hamstring) - The Nets listed Russell as Questionable for Saturday's (Jan. 25) game against the Heat."
             },
             {
                 "Player": "Ben Simmons",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Jan 22, 2025",
-                "Description": "Day To Day (Illness) - Simmons did not play in Wednesday's (Jan. 22) game against the Suns."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Illness) - The Nets listed Simmons as Questionable for Saturday's (Jan. 25) game against the Heat."
             },
             {
                 "Player": "Cam Thomas",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Jan 22, 2025",
-                "Description": "Day To Day (Hamstring) - Thomas did not play in Wednesday's (Jan. 22) game against the Suns."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Out (Hamstring) - The Nets listed Thomas as Out for Saturday's (Jan. 25) game against the Heat."
             },
             {
                 "Player": "Trendon Watford",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Jan 22, 2025",
-                "Description": "Day To Day (Hamstring) - Watford did not play in Wednesday's (Jan. 22) game against the Suns."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Out (Hamstring) - The Nets listed Watford as Out for Saturday's (Jan. 25) game against the Heat."
             },
             {
                 "Player": "Ziaire Williams",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Jan 22, 2025",
-                "Description": "Day To Day (Ankle) - Williams did not play in Wednesday's (Jan. 22) game against the Suns."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Ankle) - The Nets listed Williams as Probable for Saturday's (Jan. 25) game against the Heat."
             }
         ],
         "team_stats": {
@@ -237,10 +237,10 @@
             "Opp Lg Rank": {
                 "G": "",
                 "MP": "3",
-                "FG": "10",
+                "FG": "11",
                 "FGA": "2",
                 "FG%": "30",
-                "3P": "13",
+                "3P": "12",
                 "3PA": "3",
                 "3P%": "30",
                 "2P": "12",
@@ -308,13 +308,13 @@
             "Misc Lg Rank": {
                 "W": "25",
                 "L": "5",
-                "PW": "27",
-                "PL": "29",
-                "MOV": "27",
+                "PW": "28",
+                "PL": "28",
+                "MOV": "28",
                 "SOS": "8",
                 "SRS": "28",
                 "ORtg": "27",
-                "DRtg": "25",
+                "DRtg": "26",
                 "Pace": "27",
                 "FTr": "14",
                 "3PAr": "5",
@@ -328,6 +328,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BRK-2025.png",
-        "last_update": "Jan 24 2025 22:32:18"
+        "last_update": "Jan 25 2025 22:32:18"
     }
 }

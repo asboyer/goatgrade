@@ -37,26 +37,32 @@
             {
                 "Player": "Clint Capela",
                 "Team": "Atlanta Hawks",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Knee) - Capela did not play in Thursday's (Jan. 23) game against the Raptors."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Knee) - The Hawks listed Capela as Probable for Saturday's (Jan. 25) game against the Raptors."
             },
             {
                 "Player": "Jalen Johnson",
                 "Team": "Atlanta Hawks",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Shoulder) - Johnson did not return for Thursday's (Jan. 23) game against Raptors."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Out (Shoulder) - The Hawks listed Johnson as Out for Saturday's (Jan. 25) game against the Raptors."
             },
             {
                 "Player": "Larry Nance Jr.",
                 "Team": "Atlanta Hawks",
-                "Update": "Fri, Jan 17, 2025",
-                "Description": "Out (Hand) - The Hawks announced that Nance Jr. is progressing in his rehab and will be re-evaluated in one week, per Sr. NBA Writer Marc J. Spears."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Hand) - The Hawks listed Nance Jr. as Probable for Saturday's (Jan. 25) game against the Raptors."
             },
             {
                 "Player": "Zaccharie Risacher",
                 "Team": "Atlanta Hawks",
                 "Update": "Tue, Jan 21, 2025",
                 "Description": "Out (Thigh) - The Hawks announced on Tuesday (Jan. 21) that Risacher who has missed the last three games due to a left adductor strain, is progressing in his rehabilitation and will be re-evaluated in one week."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Hamstring) - The Hawks listed Young as Questionable for Saturday's (Jan. 25) game against the Raptors."
             },
             {
                 "Player": "Cody Zeller",
@@ -118,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "13",
                 "FG": "9",
                 "FGA": "3",
                 "FG%": "16",
@@ -128,7 +134,7 @@
                 "2P": "8",
                 "2PA": "4",
                 "2P%": "19",
-                "FT": "2",
+                "FT": "1",
                 "FTA": "3",
                 "FT%": "16",
                 "ORB": "7",
@@ -138,7 +144,7 @@
                 "STL": "2",
                 "BLK": "9",
                 "TOV": "24",
-                "PF": "11",
+                "PF": "12",
                 "PTS": "7"
             },
             "Year/Year": {
@@ -218,12 +224,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
-                "FG": "28",
+                "MP": "13",
+                "FG": "27",
                 "FGA": "24",
                 "FG%": "27",
                 "3P": "30",
-                "3PA": "26",
+                "3PA": "27",
                 "3P%": "29",
                 "2P": "22",
                 "2PA": "20",
@@ -231,7 +237,7 @@
                 "FT": "14",
                 "FTA": "12",
                 "FT%": "26",
-                "ORB": "12",
+                "ORB": "11",
                 "DRB": "23",
                 "TRB": "20",
                 "AST": "28",
@@ -272,8 +278,8 @@
                 "PW": "19",
                 "PL": "25",
                 "MOV": "-2.18",
-                "SOS": "-0.31",
-                "SRS": "-2.50",
+                "SOS": "-0.33",
+                "SRS": "-2.51",
                 "ORtg": "112.3",
                 "DRtg": "114.4",
                 "Pace": "103.3",
@@ -296,20 +302,20 @@
                 "SOS": "19",
                 "SRS": "21",
                 "ORtg": "19",
-                "DRtg": "18",
+                "DRtg": "19",
                 "Pace": "3",
-                "FTr": "9",
+                "FTr": "8",
                 "3PAr": "21",
-                "eFG%": "28",
+                "eFG%": "27",
                 "TOV%": "4",
                 "ORB%": "9",
                 "FT/FGA": "12",
-                "DRB%": "11",
+                "DRB%": "10",
                 "Arena": "",
                 "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ATL-2025.png",
-        "last_update": "Jan 24 2025 22:32:18"
+        "last_update": "Jan 25 2025 22:32:18"
     }
 }

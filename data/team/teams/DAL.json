@@ -37,38 +37,38 @@
             {
                 "Player": "Dante Exum",
                 "Team": "Dallas Mavericks",
-                "Update": "Sun, Jan 12, 2025",
-                "Description": "Out (Wrist) - Head coach Jason Kidd said after Saturday's (Jan. 11) practice that Exum is making progress in his recovery from right wrist surgery. There is no clear timetable yet for his return."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Out (Wrist) - Mavericks head coach Jason Kidd said Thursday that Exum hasn't yet been cleared for contact and is without a timeline for making his season debut, according to Grant Afseth of DallasHoopsJournal.com. "
             },
             {
                 "Player": "Jaden Hardy",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Ankle) - Hardy did not play in Thursday's (Jan. 23) game against the Thunder."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Ankle) - The Mavericks listed Hardy as Questionable for Saturday's (Jan. 25) game against the Celtics."
             },
             {
                 "Player": "Dereck Lively II",
                 "Team": "Dallas Mavericks",
-                "Update": "Wed, Jan 22, 2025",
-                "Description": "Out (Ankle) - Lively was diagnosed Wednesday (Jan. 22) with a small fracture in his right foot and is expected to miss 2-to-3 months, per Shams Charania of ESPN."
+                "Update": "Thu, Jan 23, 2025",
+                "Description": "Out (Ankle) - The Mavericks announced Wednesday that Lively will be re-evaluated in four weeks after being diagnosed with a right ankle stress fracture."
             },
             {
                 "Player": "Naji Marshall",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Illness) - Marshall did not play in Thursday's (Jan. 23) game against the Thunder."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Out (Illness) - The Mavericks listed Marshall as Out for Saturday's (Jan. 25) game against the Celtics."
             },
             {
                 "Player": "Dwight Powell",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Hip) - Powell did not play in Thursday's (Jan. 23) game against the Thunder."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Out (Hip) - The Mavericks listed Powell as Out for Saturday's (Jan. 25) game against the Celtics."
             },
             {
                 "Player": "Klay Thompson",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Ankle) - Thompson did not play in Thursday's (Jan. 23) game against the Thunder."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Ankle) - The Mavericks listed Thompson as Questionable for Saturday's (Jan. 25) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -124,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "12",
                 "FGA": "19",
                 "FG%": "7",
@@ -136,14 +136,14 @@
                 "2P%": "10",
                 "FT": "4",
                 "FTA": "4",
-                "FT%": "17",
+                "FT%": "18",
                 "ORB": "15",
                 "DRB": "13",
                 "TRB": "13",
                 "AST": "20",
                 "STL": "13",
                 "BLK": "4",
-                "TOV": "15",
+                "TOV": "16",
                 "PF": "16",
                 "PTS": "10"
             },
@@ -224,17 +224,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "13",
                 "FGA": "22",
                 "FG%": "8",
                 "3P": "7",
                 "3PA": "4",
-                "3P%": "18",
+                "3P%": "17",
                 "2P": "20",
                 "2PA": "27",
                 "2P%": "2",
-                "FT": "17",
+                "FT": "18",
                 "FTA": "16",
                 "FT%": "9",
                 "ORB": "25",
@@ -245,7 +245,7 @@
                 "BLK": "8",
                 "TOV": "20",
                 "PF": "11",
-                "PTS": "12"
+                "PTS": "11"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -278,8 +278,8 @@
                 "PW": "27",
                 "PL": "18",
                 "MOV": "3.33",
-                "SOS": "0.70",
-                "SRS": "4.04",
+                "SOS": "0.72",
+                "SRS": "4.05",
                 "ORtg": "116.0",
                 "DRtg": "112.6",
                 "Pace": "99.2",
@@ -299,7 +299,7 @@
                 "PW": "8",
                 "PL": "10",
                 "MOV": "9",
-                "SOS": "6",
+                "SOS": "5",
                 "SRS": "8",
                 "ORtg": "8",
                 "DRtg": "12",
@@ -316,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DAL-2025.png",
-        "last_update": "Jan 24 2025 22:32:18"
+        "last_update": "Jan 25 2025 22:32:18"
     }
 }

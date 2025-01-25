@@ -29,10 +29,22 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Calf) - The Lakers listed Davis as Probable for Saturday's (Jan. 25) game against the Warriors."
+            },
+            {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Thursday's (Jan. 23) game against the Celtics."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Out (Hamstring) - The Lakers listed Hood-Schifino as Out for Saturday's (Jan. 25) game against the Warriors."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Foot) - The Lakers listed James as Probable for Saturday's (Jan. 25) game against the Warriors."
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -203,16 +215,16 @@
                 "MP": "28",
                 "FG": "23",
                 "FGA": "17",
-                "FG%": "23",
-                "3P": "11",
+                "FG%": "24",
+                "3P": "9",
                 "3PA": "13",
-                "3P%": "19",
+                "3P%": "18",
                 "2P": "25",
                 "2PA": "22",
                 "2P%": "21",
                 "FT": "4",
                 "FTA": "4",
-                "FT%": "18",
+                "FT%": "17",
                 "ORB": "15",
                 "DRB": "14",
                 "TRB": "14",
@@ -220,8 +232,8 @@
                 "STL": "10",
                 "BLK": "4",
                 "TOV": "22",
-                "PF": "7",
-                "PTS": "14"
+                "PF": "8",
+                "PTS": "15"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -254,8 +266,8 @@
                 "PW": "19",
                 "PL": "23",
                 "MOV": "-1.45",
-                "SOS": "0.30",
-                "SRS": "-1.15",
+                "SOS": "0.31",
+                "SRS": "-1.14",
                 "ORtg": "113.9",
                 "DRtg": "115.4",
                 "Pace": "97.5",
@@ -278,7 +290,7 @@
                 "SOS": "14",
                 "SRS": "17",
                 "ORtg": "13",
-                "DRtg": "22",
+                "DRtg": "21",
                 "Pace": "22",
                 "FTr": "4",
                 "3PAr": "25",
@@ -292,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAL-2025.png",
-        "last_update": "Jan 24 2025 22:32:18"
+        "last_update": "Jan 25 2025 22:32:18"
     }
 }

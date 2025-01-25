@@ -30,26 +30,26 @@
             {
                 "Player": "Cole Anthony",
                 "Team": "Orlando Magic",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Illness) - Anthony did not play in Thursday's (Jan. 23) game against the Trail Blazers."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Illness) - The Magic listed Anthony as Questionable for Saturday's (Jan. 25) game against the Pistons."
             },
             {
                 "Player": "Goga Bitadze",
                 "Team": "Orlando Magic",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Concussion) - Bitadze did not play in Thursday's (Jan. 23) game against the Trail Blazers."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Concussion) - The Magic listed Bitadze as Questionable for Saturday's (Jan. 25) game against the Pistons."
             },
             {
                 "Player": "Gary Harris",
                 "Team": "Orlando Magic",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Hamstring) - Harris did not play in Thursday's (Jan. 23) game against the Trail Blazers."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Out (Hamstring) - The Magic listed Harris as Out for Saturday's (Jan. 25) game against the Pistons."
             },
             {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Back) - Suggs did not play in Thursday's (Jan. 23) game against the Trail Blazers."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Back) - The Magic listed Suggs as Questionable for Saturday's (Jan. 25) game against the Pistons."
             },
             {
                 "Player": "Moritz Wagner",
@@ -217,7 +217,7 @@
                 "FG%": "20",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "22",
+                "3P%": "21",
                 "2P": "5",
                 "2PA": "8",
                 "2P%": "14",
@@ -225,7 +225,7 @@
                 "FTA": "25",
                 "FT%": "6",
                 "ORB": "1",
-                "DRB": "12",
+                "DRB": "13",
                 "TRB": "2",
                 "AST": "1",
                 "STL": "15",
@@ -265,8 +265,8 @@
                 "PW": "22",
                 "PL": "24",
                 "MOV": "-0.93",
-                "SOS": "-0.57",
-                "SRS": "-1.50",
+                "SOS": "-0.54",
+                "SRS": "-1.48",
                 "ORtg": "107.4",
                 "DRtg": "108.3",
                 "Pace": "96.3",
@@ -303,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ORL-2025.png",
-        "last_update": "Jan 24 2025 22:32:18"
+        "last_update": "Jan 25 2025 22:32:18"
     }
 }

@@ -34,6 +34,12 @@
                 "Description": "Out (Toe) - Minnesota announced Monday (Jan. 20) that DiVincenzo is out indefinitely after being diagnosed with a Grade 3 left great toe sprain following an MRI."
             },
             {
+                "Player": "Anthony Edwards",
+                "Team": "Minnesota Timberwolves",
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Illness) - The Timberwolves listed Edwards as Questionable for Saturday's (Jan. 24) game against the Nuggets."
+            },
+            {
                 "Player": "Terrence Shannon Jr. ",
                 "Team": "Minnesota Timberwolves",
                 "Update": "Mon, Jan 13, 2025",
@@ -93,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "15",
                 "FG": "26",
                 "FGA": "27",
                 "FG%": "17",
@@ -104,8 +110,8 @@
                 "2PA": "29",
                 "2P%": "23",
                 "FT": "20",
-                "FTA": "22",
-                "FT%": "13",
+                "FTA": "23",
+                "FT%": "14",
                 "ORB": "19",
                 "DRB": "16",
                 "TRB": "19",
@@ -193,12 +199,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "15",
                 "FG": "5",
-                "FGA": "10",
+                "FGA": "11",
                 "FG%": "7",
                 "3P": "4",
-                "3PA": "10",
+                "3PA": "9",
                 "3P%": "4",
                 "2P": "10",
                 "2PA": "15",
@@ -208,12 +214,12 @@
                 "FT%": "21",
                 "ORB": "19",
                 "DRB": "5",
-                "TRB": "9",
+                "TRB": "10",
                 "AST": "4",
                 "STL": "23",
                 "BLK": "12",
                 "TOV": "14",
-                "PF": "16",
+                "PF": "15",
                 "PTS": "5"
             },
             "Opp Year/Year": {
@@ -247,8 +253,8 @@
                 "PW": "25",
                 "PL": "19",
                 "MOV": "1.93",
-                "SOS": "0.91",
-                "SRS": "2.84",
+                "SOS": "0.92",
+                "SRS": "2.85",
                 "ORtg": "113.0",
                 "DRtg": "111.0",
                 "Pace": "97.0",
@@ -281,10 +287,10 @@
                 "FT/FGA": "8",
                 "DRB%": "18",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIN-2025.png",
-        "last_update": "Jan 24 2025 22:32:18"
+        "last_update": "Jan 25 2025 22:32:18"
     }
 }

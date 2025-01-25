@@ -28,10 +28,10 @@
         ],
         "injuries": [
             {
-                "Player": "Devin Carter",
+                "Player": "De'Aaron Fox",
                 "Team": "Sacramento Kings",
-                "Update": "Mon, Jan 20, 2025",
-                "Description": "Day To Day (Wrist) - Carter did not play in Sunday's (Jan. 19) game against the Wizards."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Thumb) - The Kings listed Fox as Questionable for Saturday's (Jan. 25) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -87,18 +87,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "10",
                 "FG": "6",
                 "FGA": "7",
                 "FG%": "9",
-                "3P": "20",
+                "3P": "21",
                 "3PA": "20",
                 "3P%": "21",
                 "2P": "3",
-                "2PA": "5",
+                "2PA": "6",
                 "2P%": "8",
                 "FT": "8",
-                "FTA": "12",
+                "FTA": "13",
                 "FT%": "2",
                 "ORB": "16",
                 "DRB": "7",
@@ -106,7 +106,7 @@
                 "AST": "12",
                 "STL": "16",
                 "BLK": "23",
-                "TOV": "4",
+                "TOV": "3",
                 "PF": "21",
                 "PTS": "5"
             },
@@ -187,17 +187,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "9",
-                "FGA": "12",
+                "MP": "10",
+                "FG": "10",
+                "FGA": "13",
                 "FG%": "15",
                 "3P": "28",
                 "3PA": "22",
-                "3P%": "26",
+                "3P%": "27",
                 "2P": "3",
                 "2PA": "6",
                 "2P%": "12",
-                "FT": "25",
+                "FT": "24",
                 "FTA": "24",
                 "FT%": "27",
                 "ORB": "3",
@@ -241,8 +241,8 @@
                 "PW": "25",
                 "PL": "19",
                 "MOV": "2.59",
-                "SOS": "-0.29",
-                "SRS": "2.30",
+                "SOS": "-0.27",
+                "SRS": "2.32",
                 "ORtg": "116.1",
                 "DRtg": "113.6",
                 "Pace": "99.5",
@@ -267,18 +267,18 @@
                 "ORtg": "7",
                 "DRtg": "14",
                 "Pace": "8",
-                "FTr": "16",
+                "FTr": "17",
                 "3PAr": "24",
                 "eFG%": "19",
                 "TOV%": "11",
                 "ORB%": "18",
-                "FT/FGA": "24",
+                "FT/FGA": "23",
                 "DRB%": "3",
                 "Arena": "",
                 "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/SAC-2025.png",
-        "last_update": "Jan 24 2025 22:32:18"
+        "last_update": "Jan 25 2025 22:32:18"
     }
 }

@@ -31,8 +31,8 @@
             {
                 "Player": "Isaiah Hartenstein",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Out (Calf) - The Thunder announced that Hartenstein sustained a left soleus strain in Tuesday's (Jan. 14) game against the Sixers and that he will be re-evaluated in one week, per Tim Bontemps of ESPN.com."
+                "Update": "Thu, Jan 23, 2025",
+                "Description": "Day To Day (Calf) - Hartenstein did not play in Thursday's (Jan. 23) game against the Mavericks."
             },
             {
                 "Player": "Chet Holmgren",
@@ -112,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "19",
                 "FG": "4",
                 "FGA": "5",
                 "FG%": "11",
@@ -120,17 +120,17 @@
                 "3PA": "11",
                 "3P%": "17",
                 "2P": "9",
-                "2PA": "10",
+                "2PA": "9",
                 "2P%": "7",
-                "FT": "24",
+                "FT": "26",
                 "FTA": "29",
                 "FT%": "1",
                 "ORB": "22",
                 "DRB": "19",
-                "TRB": "21",
+                "TRB": "22",
                 "AST": "15",
                 "STL": "1",
-                "BLK": "6",
+                "BLK": "7",
                 "TOV": "2",
                 "PF": "27",
                 "PTS": "9"
@@ -212,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "19",
                 "FG": "1",
                 "FGA": "4",
                 "FG%": "1",
@@ -225,14 +225,14 @@
                 "FT": "27",
                 "FTA": "27",
                 "FT%": "3",
-                "ORB": "29",
-                "DRB": "24",
+                "ORB": "28",
+                "DRB": "25",
                 "TRB": "28",
                 "AST": "3",
                 "STL": "1",
                 "BLK": "14",
                 "TOV": "1",
-                "PF": "24",
+                "PF": "25",
                 "PTS": "1"
             },
             "Opp Year/Year": {
@@ -267,7 +267,7 @@
                 "PL": "8",
                 "MOV": "12.30",
                 "SOS": "0.06",
-                "SRS": "12.35",
+                "SRS": "12.36",
                 "ORtg": "116.8",
                 "DRtg": "104.5",
                 "Pace": "99.7",
@@ -296,14 +296,14 @@
                 "3PAr": "16",
                 "eFG%": "1",
                 "TOV%": "1",
-                "ORB%": "23",
+                "ORB%": "24",
                 "FT/FGA": "27",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/OKC-2025.png",
-        "last_update": "Jan 24 2025 22:32:18"
+        "last_update": "Jan 25 2025 22:32:18"
     }
 }

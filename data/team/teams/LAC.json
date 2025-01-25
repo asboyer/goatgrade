@@ -31,14 +31,14 @@
             {
                 "Player": "Kris Dunn",
                 "Team": "Los Angeles Clippers",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Knee) - Dunn did not play in Thursday's (Jan. 23) game against the Wizards."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Out (Knee) - The Clippers listed Dunn as Out for Saturday's (Jan. 25) game against the Bucks."
             },
             {
                 "Player": "Jordan Miller",
                 "Team": "Los Angeles Clippers",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Illness) - Miller did not play in Thursday's (Jan. 23) game against the Wizards."
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Illness) - The Clippers listed Miller as Questionable for Saturday's (Jan. 25) game against the Bucks."
             },
             {
                 "Player": "P.J. Tucker",
@@ -100,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "15",
                 "FG": "20",
                 "FGA": "24",
                 "FG%": "13",
@@ -114,14 +114,14 @@
                 "FTA": "16",
                 "FT%": "11",
                 "ORB": "20",
-                "DRB": "11",
+                "DRB": "10",
                 "TRB": "15",
                 "AST": "25",
                 "STL": "3",
                 "BLK": "24",
                 "TOV": "28",
-                "PF": "13",
-                "PTS": "23"
+                "PF": "14",
+                "PTS": "24"
             },
             "Year/Year": {
                 "G": "",
@@ -200,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "15",
                 "FG": "3",
                 "FGA": "5",
                 "FG%": "5",
@@ -217,7 +217,7 @@
                 "DRB": "9",
                 "TRB": "6",
                 "AST": "6",
-                "STL": "27",
+                "STL": "28",
                 "BLK": "10",
                 "TOV": "6",
                 "PF": "28",
@@ -254,8 +254,8 @@
                 "PW": "26",
                 "PL": "18",
                 "MOV": "3.00",
-                "SOS": "0.57",
-                "SRS": "3.57",
+                "SOS": "0.61",
+                "SRS": "3.61",
                 "ORtg": "111.0",
                 "DRtg": "107.9",
                 "Pace": "98.3",
@@ -288,10 +288,10 @@
                 "FT/FGA": "14",
                 "DRB%": "5",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAC-2025.png",
-        "last_update": "Jan 24 2025 22:32:18"
+        "last_update": "Jan 25 2025 22:32:18"
     }
 }

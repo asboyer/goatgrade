@@ -26,7 +26,14 @@
             "JD Davison",
             "Anton Watson"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Derrick White",
+                "Team": "Boston Celtics",
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Knee) - The Celtics listed White as Questionable for Saturday's (Jan. 25) game against the Mavericks."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "45",
@@ -91,10 +98,10 @@
                 "2PA": "30",
                 "2P%": "4",
                 "FT": "19",
-                "FTA": "23",
+                "FTA": "24",
                 "FT%": "8",
                 "ORB": "13",
-                "DRB": "10",
+                "DRB": "9",
                 "TRB": "11",
                 "AST": "17",
                 "STL": "23",
@@ -185,11 +192,11 @@
                 "FGA": "20",
                 "FG%": "6",
                 "3P": "5",
-                "3PA": "7",
+                "3PA": "8",
                 "3P%": "6",
                 "2P": "19",
-                "2PA": "25",
-                "2P%": "6",
+                "2PA": "26",
+                "2P%": "5",
                 "FT": "3",
                 "FTA": "2",
                 "FT%": "28",
@@ -200,7 +207,7 @@
                 "STL": "3",
                 "BLK": "3",
                 "TOV": "24",
-                "PF": "17",
+                "PF": "18",
                 "PTS": "6"
             },
             "Opp Year/Year": {
@@ -234,8 +241,8 @@
                 "PW": "34",
                 "PL": "11",
                 "MOV": "8.80",
-                "SOS": "-0.95",
-                "SRS": "7.85",
+                "SOS": "-0.96",
+                "SRS": "7.84",
                 "ORtg": "119.4",
                 "DRtg": "110.4",
                 "Pace": "97.0",
@@ -262,7 +269,7 @@
                 "Pace": "24",
                 "FTr": "24",
                 "3PAr": "1",
-                "eFG%": "4",
+                "eFG%": "3",
                 "TOV%": "23",
                 "ORB%": "17",
                 "FT/FGA": "2",
@@ -272,6 +279,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BOS-2025.png",
-        "last_update": "Jan 24 2025 22:32:18"
+        "last_update": "Jan 25 2025 22:32:18"
     }
 }

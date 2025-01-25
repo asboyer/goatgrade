@@ -43,6 +43,24 @@
                 "Team": "Golden State Warriors",
                 "Update": "Wed, Jan 15, 2025",
                 "Description": "Out (Ankle) - Kuminga wasn't wearing a walking boot Wednesday but remains in the middle stages of his recovery, according to Anthony Slater of The Athletic."
+            },
+            {
+                "Player": "Gary Payton II",
+                "Team": "Golden State Warriors",
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Illness) - The Warriors listed Payton II as Probable for Saturday's (Jan. 25) game against the Lakers."
+            },
+            {
+                "Player": "Brandin Podziemski",
+                "Team": "Golden State Warriors",
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Abdomen) - The Warriors listed Podziemski as Probable for Saturday's (Jan. 25) game against the Lakers."
+            },
+            {
+                "Player": "Andrew Wiggins",
+                "Team": "Golden State Warriors",
+                "Update": "Fri, Jan 24, 2025",
+                "Description": "Day To Day (Back) - The Warriors listed Wiggins as Probable for Saturday's (Jan. 25) game against the Lakers."
             }
         ],
         "team_stats": {
@@ -98,7 +116,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "18",
                 "FG": "16",
                 "FGA": "6",
                 "FG%": "25",
@@ -198,24 +216,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "18",
                 "FG": "7",
-                "FGA": "10",
+                "FGA": "11",
                 "FG%": "9",
-                "3P": "15",
+                "3P": "16",
                 "3PA": "14",
                 "3P%": "14",
                 "2P": "6",
                 "2PA": "9",
                 "2P%": "9",
-                "FT": "16",
+                "FT": "17",
                 "FTA": "15",
-                "FT%": "15",
+                "FT%": "16",
                 "ORB": "10",
                 "DRB": "26",
                 "TRB": "23",
                 "AST": "15",
-                "STL": "9",
+                "STL": "8",
                 "BLK": "29",
                 "TOV": "13",
                 "PF": "29",
@@ -252,7 +270,7 @@
                 "PW": "22",
                 "PL": "22",
                 "MOV": "0.05",
-                "SOS": "1.06",
+                "SOS": "1.07",
                 "SRS": "1.11",
                 "ORtg": "112.2",
                 "DRtg": "112.2",
@@ -280,8 +298,8 @@
                 "Pace": "14",
                 "FTr": "28",
                 "3PAr": "4",
-                "eFG%": "12",
-                "TOV%": "14",
+                "eFG%": "11",
+                "TOV%": "13",
                 "ORB%": "7",
                 "FT/FGA": "18",
                 "DRB%": "9",
@@ -290,6 +308,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/GSW-2025.png",
-        "last_update": "Jan 24 2025 22:32:18"
+        "last_update": "Jan 25 2025 22:32:18"
     }
 }
