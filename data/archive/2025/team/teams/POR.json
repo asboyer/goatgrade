@@ -31,20 +31,14 @@
             {
                 "Player": "Deandre Ayton",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Jan 24, 2025",
-                "Description": "Day To Day (Knee) - Ayton did not play in Friday's (Jan. 24) game against the Hornets."
+                "Update": "Sat, Jan 25, 2025",
+                "Description": "Out (Knee) - The Trail Blazers listed Ayton as Out for Sunday's (Jan. 26) game against the Thunder."
             },
             {
                 "Player": "Matisse Thybulle",
                 "Team": "Portland Trail Blazers",
                 "Update": "Sat, Jan 11, 2025",
                 "Description": "Out (Ankle) - The Trail Blazers announced on Saturday (Jan. 11) that Thybulle will be re-evaluated in two weeks."
-            },
-            {
-                "Player": "Robert Williams",
-                "Team": "Portland Trail Blazers",
-                "Update": "Fri, Jan 24, 2025",
-                "Description": "Day To Day (Hand) - Williams III did not play in Friday's (Jan. 24) game against the Hornets."
             }
         ],
         "team_stats": {
@@ -100,26 +94,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "18",
                 "FG": "22",
-                "FGA": "17",
-                "FG%": "23",
+                "FGA": "15",
+                "FG%": "24",
                 "3P": "26",
-                "3PA": "22",
+                "3PA": "21",
                 "3P%": "28",
                 "2P": "16",
-                "2PA": "10",
+                "2PA": "11",
                 "2P%": "24",
                 "FT": "23",
                 "FTA": "22",
                 "FT%": "26",
                 "ORB": "5",
                 "DRB": "26",
-                "TRB": "21",
+                "TRB": "22",
                 "AST": "28",
-                "STL": "17",
+                "STL": "16",
                 "BLK": "6",
-                "TOV": "27",
+                "TOV": "28",
                 "PF": "18",
                 "PTS": "26"
             },
@@ -200,28 +194,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
-                "FG": "20",
-                "FGA": "10",
-                "FG%": "22",
-                "3P": "12",
-                "3PA": "5",
+                "MP": "18",
+                "FG": "21",
+                "FGA": "11",
+                "FG%": "23",
+                "3P": "14",
+                "3PA": "6",
                 "3P%": "26",
                 "2P": "21",
-                "2PA": "16",
+                "2PA": "18",
                 "2P%": "19",
-                "FT": "25",
-                "FTA": "23",
-                "FT%": "29",
+                "FT": "24",
+                "FTA": "22",
+                "FT%": "28",
                 "ORB": "29",
                 "DRB": "12",
-                "TRB": "22",
+                "TRB": "24",
                 "AST": "20",
-                "STL": "27",
+                "STL": "28",
                 "BLK": "27",
                 "TOV": "8",
-                "PF": "17",
-                "PTS": "22"
+                "PF": "18",
+                "PTS": "23"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -254,8 +248,8 @@
                 "PW": "13",
                 "PL": "32",
                 "MOV": "-7.44",
-                "SOS": "0.67",
-                "SRS": "-6.77",
+                "SOS": "0.56",
+                "SRS": "-6.89",
                 "ORtg": "109.1",
                 "DRtg": "116.6",
                 "Pace": "98.8",
@@ -272,13 +266,13 @@
             "Misc Lg Rank": {
                 "W": "23",
                 "L": "7",
-                "PW": "27",
+                "PW": "26",
                 "PL": "27",
                 "MOV": "27",
-                "SOS": "6",
+                "SOS": "8",
                 "SRS": "27",
                 "ORtg": "26",
-                "DRtg": "25",
+                "DRtg": "26",
                 "Pace": "19",
                 "FTr": "23",
                 "3PAr": "19",
@@ -288,10 +282,10 @@
                 "FT/FGA": "24",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/POR-2025.png",
-        "last_update": "Jan 25 2025 22:32:18"
+        "last_update": "Jan 26 2025 22:32:17"
     }
 }

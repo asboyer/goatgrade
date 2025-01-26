@@ -29,22 +29,16 @@
         ],
         "injuries": [
             {
-                "Player": "Isaiah Hartenstein",
+                "Player": "Luguentz Dort",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Calf) - Hartenstein did not play in Thursday's (Jan. 23) game against the Mavericks."
+                "Update": "Sat, Jan 25, 2025",
+                "Description": "Out (Knee) - The Thunder listed Dort as Out for Sunday's (Jan. 26) game against the Trail Blazers."
             },
             {
                 "Player": "Chet Holmgren",
                 "Team": "Oklahoma City Thunder",
                 "Update": "Fri, Jan 17, 2025",
                 "Description": "Out (Hip) - The Thunder announced on Friday (Jan. 17) that Holmgren is continuing to progress in his return to play protocol and will be re-evaluated in approximately three to five weeks, per Sr. NBA Writer Marc J. Spears."
-            },
-            {
-                "Player": "Isaiah Joe",
-                "Team": "Oklahoma City Thunder",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Day To Day (Illness) - Joe did not play in Thursday's (Jan. 23) game against the Mavericks."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -112,28 +106,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
-                "FG": "4",
+                "MP": "25",
+                "FG": "5",
                 "FGA": "5",
                 "FG%": "11",
-                "3P": "14",
+                "3P": "12",
                 "3PA": "11",
-                "3P%": "17",
-                "2P": "9",
-                "2PA": "9",
+                "3P%": "16",
+                "2P": "8",
+                "2PA": "10",
                 "2P%": "7",
-                "FT": "26",
+                "FT": "25",
                 "FTA": "29",
                 "FT%": "1",
                 "ORB": "22",
-                "DRB": "19",
-                "TRB": "22",
+                "DRB": "17",
+                "TRB": "23",
                 "AST": "15",
                 "STL": "1",
                 "BLK": "7",
                 "TOV": "2",
-                "PF": "27",
-                "PTS": "9"
+                "PF": "28",
+                "PTS": "7"
             },
             "Year/Year": {
                 "G": "",
@@ -212,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "25",
                 "FG": "1",
                 "FGA": "4",
                 "FG%": "1",
@@ -226,13 +220,13 @@
                 "FTA": "27",
                 "FT%": "3",
                 "ORB": "28",
-                "DRB": "25",
+                "DRB": "23",
                 "TRB": "28",
                 "AST": "3",
                 "STL": "1",
                 "BLK": "14",
                 "TOV": "1",
-                "PF": "25",
+                "PF": "24",
                 "PTS": "1"
             },
             "Opp Year/Year": {
@@ -266,8 +260,8 @@
                 "PW": "36",
                 "PL": "8",
                 "MOV": "12.30",
-                "SOS": "0.06",
-                "SRS": "12.36",
+                "SOS": "0.00",
+                "SRS": "12.30",
                 "ORtg": "116.8",
                 "DRtg": "104.5",
                 "Pace": "99.7",
@@ -283,11 +277,11 @@
             },
             "Misc Lg Rank": {
                 "W": "1",
-                "L": "29",
+                "L": "30",
                 "PW": "1",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "15",
+                "SOS": "16",
                 "SRS": "1",
                 "ORtg": "6",
                 "DRtg": "1",
@@ -296,14 +290,14 @@
                 "3PAr": "16",
                 "eFG%": "1",
                 "TOV%": "1",
-                "ORB%": "24",
+                "ORB%": "22",
                 "FT/FGA": "27",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/OKC-2025.png",
-        "last_update": "Jan 25 2025 22:32:18"
+        "last_update": "Jan 26 2025 22:32:17"
     }
 }
