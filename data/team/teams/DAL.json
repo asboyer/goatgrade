@@ -55,14 +55,14 @@
             {
                 "Player": "Naji Marshall",
                 "Team": "Dallas Mavericks",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Illness) - Marshall did not play in Saturday's (Jan. 25) game against the Celtics."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Illness) - The Mavericks listed Marshall as OUT for Monday's (Jan. 27) game against Washington."
             },
             {
                 "Player": "Dwight Powell",
                 "Team": "Dallas Mavericks",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Hip) - Powell did not play in Saturday's (Jan. 25) game against the Celtics."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Hip) - The Mavericks listed Powell as OUT for Monday's (Jan. 27) game against Washington."
             }
         ],
         "team_stats": {
@@ -126,7 +126,7 @@
                 "3PA": "24",
                 "3P%": "10",
                 "2P": "10",
-                "2PA": "12",
+                "2PA": "11",
                 "2P%": "12",
                 "FT": "3",
                 "FTA": "4",
@@ -293,7 +293,7 @@
                 "PW": "8",
                 "PL": "11",
                 "MOV": "10",
-                "SOS": "6",
+                "SOS": "7",
                 "SRS": "8",
                 "ORtg": "8",
                 "DRtg": "12",
@@ -310,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DAL-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }

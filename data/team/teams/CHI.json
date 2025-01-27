@@ -35,16 +35,10 @@
                 "Description": "Out (Leg) - The Bulls announced Monday (Jan. 13) that Craig will be re-evaluated in two weeks, per K.C. Johnson of NBC Sports Chicago."
             },
             {
-                "Player": "Chris Duarte",
-                "Team": "Chicago Bulls",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Personal) - Duarte did not play in Saturday's (Jan. 25) game against the 76ers."
-            },
-            {
                 "Player": "Coby White",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Ankle) - White did not play in Saturday's (Jan. 25) game against the 76ers."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Ankle) - The Bulls listed White as OUT for Monday's (Jan. 27) game against Denver."
             }
         ],
         "team_stats": {
@@ -204,7 +198,7 @@
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "19",
-                "3P": "11",
+                "3P": "12",
                 "3PA": "29",
                 "3P%": "2",
                 "2P": "30",
@@ -254,7 +248,7 @@
                 "PW": "18",
                 "PL": "28",
                 "MOV": "-3.54",
-                "SOS": "-0.46",
+                "SOS": "-0.47",
                 "SRS": "-4.01",
                 "ORtg": "112.4",
                 "DRtg": "115.8",
@@ -292,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHI-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }

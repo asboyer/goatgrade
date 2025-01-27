@@ -26,7 +26,14 @@
             "Jalen Bridges",
             "Collin Gillespie"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Ryan Dunn",
+                "Team": "Phoenix Suns",
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Ankle) - The Suns listed Dun as OUT for Monday's (Jan. 27) game against Los Angeles."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "44",
@@ -46,7 +53,7 @@
                 "ORB": "407",
                 "DRB": "1472",
                 "TRB": "1879",
-                "AST": "1199",
+                "AST": "1198",
                 "STL": "333",
                 "BLK": "216",
                 "TOV": "607",
@@ -71,7 +78,7 @@
                 "ORB": "9.3",
                 "DRB": "33.5",
                 "TRB": "42.7",
-                "AST": "27.3",
+                "AST": "27.2",
                 "STL": "7.6",
                 "BLK": "4.9",
                 "TOV": "13.8",
@@ -80,7 +87,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "24",
                 "FG": "19",
                 "FGA": "28",
                 "FG%": "10",
@@ -180,7 +187,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "24",
                 "FG": "19",
                 "FGA": "21",
                 "FG%": "12",
@@ -195,7 +202,7 @@
                 "FT%": "12",
                 "ORB": "25",
                 "DRB": "15",
-                "TRB": "21",
+                "TRB": "22",
                 "AST": "18",
                 "STL": "14",
                 "BLK": "2",
@@ -268,10 +275,10 @@
                 "FT/FGA": "15",
                 "DRB%": "23",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHO-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }

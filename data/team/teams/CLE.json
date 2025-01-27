@@ -30,20 +30,20 @@
             {
                 "Player": "Caris LeVert",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Wrist) - LeVert did not play in Saturday's (Jan. 25) game against the Rockets."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Wrist) - The Cavaliers listed LeVert as OUT for Monday's (Jan. 27) game against Detroit."
             },
             {
                 "Player": "Isaac Okoro",
                 "Team": "Cleveland Cavaliers",
                 "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Shoulder) - Okoro did not play in Saturday's (Jan. 25) game against the Rockets."
+                "Description": "Out (Shoulder) - The Cavaliers listed Okoro as OUT for Monday's (Jan. 27) game against Detroit."
             },
             {
                 "Player": "Dean Wade",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Knee) - Wade did not play in Saturday's (Jan. 25) game against the Rockets."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Knee) - The Cavaliers listed Wade as OUT for Monday's (Jan. 27) game against Detroit."
             }
         ],
         "team_stats": {
@@ -99,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "19",
                 "FG": "3",
                 "FGA": "12",
                 "FG%": "2",
@@ -199,13 +199,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "19",
                 "FG": "18",
                 "FGA": "17",
                 "FG%": "13",
-                "3P": "10",
-                "3PA": "5",
-                "3P%": "25",
+                "3P": "11",
+                "3PA": "6",
+                "3P%": "26",
                 "2P": "18",
                 "2PA": "25",
                 "2P%": "4",
@@ -213,7 +213,7 @@
                 "FTA": "10",
                 "FT%": "17",
                 "ORB": "14",
-                "DRB": "11",
+                "DRB": "12",
                 "TRB": "11",
                 "AST": "10",
                 "STL": "7",
@@ -253,8 +253,8 @@
                 "PW": "34",
                 "PL": "11",
                 "MOV": "9.49",
-                "SOS": "-1.16",
-                "SRS": "8.33",
+                "SOS": "-1.17",
+                "SRS": "8.32",
                 "ORtg": "122.0",
                 "DRtg": "112.5",
                 "Pace": "100.1",
@@ -269,17 +269,17 @@
                 "Attendance": "466,368"
             },
             "Misc Lg Rank": {
-                "W": "1",
+                "W": "2",
                 "L": "29",
                 "PW": "3",
                 "PL": "2",
                 "MOV": "2",
-                "SOS": "27",
+                "SOS": "28",
                 "SRS": "2",
                 "ORtg": "1",
                 "DRtg": "11",
                 "Pace": "6",
-                "FTr": "21",
+                "FTr": "22",
                 "3PAr": "7",
                 "eFG%": "12",
                 "TOV%": "10",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CLE-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }

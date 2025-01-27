@@ -30,14 +30,20 @@
             {
                 "Player": "Pacome Dadiet",
                 "Team": "New York Knicks",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Toe) - Dadiet did not play in Saturday's (Jan. 25) game against the Kings."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Toe) - The Knicks listed Dadiet as OUT for Monday's (Jan. 27) gamew against Memphis."
+            },
+            {
+                "Player": "Josh Hart",
+                "Team": "New York Knicks",
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Knee) - The Knicks listed Hart as questionable for Monday's (Jan. 27) gamew against Memphis."
             },
             {
                 "Player": "Ariel Hukporti",
                 "Team": "New York Knicks",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Illness) - Hukporti did not play in Saturday's (Jan. 25) game against the Kings."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Illness) - The Knicks listed Hukporti as questionable for Monday's (Jan. 27) gamew against Memphis."
             },
             {
                 "Player": "Mitchell Robinson",
@@ -107,7 +113,7 @@
                 "3PA": "25",
                 "3P%": "5",
                 "2P": "6",
-                "2PA": "9",
+                "2PA": "10",
                 "2P%": "2",
                 "FT": "13",
                 "FTA": "19",
@@ -253,8 +259,8 @@
                 "PW": "32",
                 "PL": "14",
                 "MOV": "6.33",
-                "SOS": "-1.73",
-                "SRS": "4.60",
+                "SOS": "-1.74",
+                "SRS": "4.59",
                 "ORtg": "120.6",
                 "DRtg": "114.1",
                 "Pace": "96.8",
@@ -291,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NYK-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }

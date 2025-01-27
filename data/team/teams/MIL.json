@@ -209,7 +209,7 @@
                 "FT%": "30",
                 "ORB": "7",
                 "DRB": "27",
-                "TRB": "23",
+                "TRB": "24",
                 "AST": "7",
                 "STL": "6",
                 "BLK": "1",
@@ -269,7 +269,7 @@
                 "PW": "11",
                 "PL": "8",
                 "MOV": "8",
-                "SOS": "28",
+                "SOS": "27",
                 "SRS": "11",
                 "ORtg": "12",
                 "DRtg": "8",
@@ -286,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIL-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }

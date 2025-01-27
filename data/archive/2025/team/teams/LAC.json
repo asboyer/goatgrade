@@ -31,20 +31,20 @@
             {
                 "Player": "Cam Christie",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Ankle) - Christie did not play in Saturday's (Jan. 25) game against the Bucks."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Ankle) - The Clippers listed Christie as OUT for Monday's (Jna. 27) game against Phoenix."
             },
             {
                 "Player": "Kris Dunn",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Knee) - Dunn did not play in Saturday's (Jan. 25) game against the Bucks."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Knee) - The Clippers listed Dunn as OUT for Monday's (Jna. 27) game against Phoenix."
             },
             {
                 "Player": "Jordan Miller",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Illness) - Miller did not play in Saturday's (Jan. 25) game against the Bucks."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Illness) - The Clippers listed Miller as OUT for Monday's (Jna. 27) game against Phoenix."
             },
             {
                 "Player": "P.J. Tucker",
@@ -106,11 +106,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "15",
                 "FG": "20",
                 "FGA": "24",
                 "FG%": "13",
-                "3P": "25",
+                "3P": "26",
                 "3PA": "26",
                 "3P%": "15",
                 "2P": "14",
@@ -206,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "15",
                 "FG": "3",
                 "FGA": "5",
                 "FG%": "4",
@@ -261,7 +261,7 @@
                 "PL": "18",
                 "MOV": "3.16",
                 "SOS": "0.52",
-                "SRS": "3.68",
+                "SRS": "3.67",
                 "ORtg": "111.3",
                 "DRtg": "108.1",
                 "Pace": "98.3",
@@ -298,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAC-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }

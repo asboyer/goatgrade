@@ -30,14 +30,20 @@
             {
                 "Player": "Goga Bitadze",
                 "Team": "Orlando Magic",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Concussion) - Bitadze did not play in Saturday's (Jan. 25) game against the Pistons."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Concussion) - The Magic listed Bitadze as questionable for Monday's (Jan. 27) game against Miami."
             },
             {
                 "Player": "Gary Harris",
                 "Team": "Orlando Magic",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Hamstring) - Harris did not play in Saturday's (Jan. 25) game against the Pistons."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Hamstring) - The Magic listed Harris as OUT for Monday's (Jan. 27) game against Miami."
+            },
+            {
+                "Player": "Jalen Suggs",
+                "Team": "Orlando Magic",
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Quad) - The Magic listed Suggs as questionable for Monday's (Jan. 27) game against Miami."
             },
             {
                 "Player": "Moritz Wagner",
@@ -111,7 +117,7 @@
                 "2P%": "18",
                 "FT": "11",
                 "FTA": "7",
-                "FT%": "24",
+                "FT%": "25",
                 "ORB": "14",
                 "DRB": "29",
                 "TRB": "27",
@@ -253,8 +259,8 @@
                 "PW": "22",
                 "PL": "25",
                 "MOV": "-0.74",
-                "SOS": "-0.38",
-                "SRS": "-1.13",
+                "SOS": "-0.39",
+                "SRS": "-1.14",
                 "ORtg": "107.6",
                 "DRtg": "108.4",
                 "Pace": "96.4",
@@ -291,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ORL-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }

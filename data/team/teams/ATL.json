@@ -37,20 +37,26 @@
             {
                 "Player": "De'Andre Hunter",
                 "Team": "Atlanta Hawks",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Illness) - Hunter did not play in Saturday's (Jan. 25) game against the Raptors."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Illness) - The Hawks listed Hunter as questionable for Monday's (Jan. 27) game against Minnesota."
             },
             {
                 "Player": "Jalen Johnson",
                 "Team": "Atlanta Hawks",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Shoulder) - Johnson did not play in Saturday's (Jan. 25) game against the Raptors."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Shoulder) - The Hawks listed Johnson as OUT for Monday's (Jan. 27) game against Minnesota."
             },
             {
                 "Player": "Zaccharie Risacher",
                 "Team": "Atlanta Hawks",
-                "Update": "Tue, Jan 21, 2025",
-                "Description": "Out (Thigh) - The Hawks announced on Tuesday (Jan. 21) that Risacher who has missed the last three games due to a left adductor strain, is progressing in his rehabilitation and will be re-evaluated in one week."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Thigh) - The Hawks listed Risacher as OUT for Monday's (Jan. 27) game against Minnesota."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Adductor) - The Hawks listed Young as questionable for Monday's (Jan. 27) game against Minnesota."
             },
             {
                 "Player": "Cody Zeller",
@@ -112,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "13",
                 "FG": "9",
                 "FGA": "3",
                 "FG%": "17",
@@ -212,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "13",
                 "FG": "27",
                 "FGA": "24",
                 "FG%": "27",
@@ -266,7 +272,7 @@
                 "PW": "19",
                 "PL": "26",
                 "MOV": "-2.64",
-                "SOS": "-0.43",
+                "SOS": "-0.44",
                 "SRS": "-3.08",
                 "ORtg": "111.6",
                 "DRtg": "114.2",
@@ -304,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ATL-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }

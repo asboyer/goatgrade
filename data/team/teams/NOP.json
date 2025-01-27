@@ -42,8 +42,8 @@
             {
                 "Player": "Dejounte Murray",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Elbow) - Murray did not play in Saturday's (Jan. 25) game against the Hornets."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Elbow) - The Pelicans listed Murray as OUT for Monday's (Jan. 27) game against Toronto."
             }
         ],
         "team_stats": {
@@ -111,7 +111,7 @@
                 "2P%": "29",
                 "FT": "14",
                 "FTA": "12",
-                "FT%": "23",
+                "FT%": "24",
                 "ORB": "7",
                 "DRB": "27",
                 "TRB": "24",
@@ -219,7 +219,7 @@
                 "STL": "20",
                 "BLK": "21",
                 "TOV": "10",
-                "PF": "23",
+                "PF": "24",
                 "PTS": "26"
             },
             "Opp Year/Year": {
@@ -253,7 +253,7 @@
                 "PW": "12",
                 "PL": "34",
                 "MOV": "-8.61",
-                "SOS": "0.37",
+                "SOS": "0.38",
                 "SRS": "-8.23",
                 "ORtg": "109.8",
                 "DRtg": "118.5",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NOP-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }

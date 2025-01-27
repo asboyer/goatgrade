@@ -31,20 +31,26 @@
             {
                 "Player": "Ochai Agbaji",
                 "Team": "Toronto Raptors",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Hand) - Agbaji did not play in Saturday's (Jan. 25) game against the Hawks."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Hand) - The Raptors listed Agbaji as questionable for Monday's (Jan. 27) against New Orleans."
             },
             {
                 "Player": "Kelly Olynyk",
                 "Team": "Toronto Raptors",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Calf) - Olynyk did not play in Saturday's (Jan. 25) game against the Hawks."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Calf) - The Raptors listed Olynyk as questionable for Monday's (Jan. 27) against New Orleans."
+            },
+            {
+                "Player": "Jakob Poeltl",
+                "Team": "Toronto Raptors",
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Back) - The Raptors listed Poeltl as questionable for Monday's (Jan. 27) against New Orleans."
             },
             {
                 "Player": "Immanuel Quickley",
                 "Team": "Toronto Raptors",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Hip) - Quickley did not play in Saturday's (Jan. 25) game against the Hawks."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Hip) - The Raptors listed Quickley as OUT for Monday's (Jan. 27) against New Orleans."
             }
         ],
         "team_stats": {
@@ -100,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "13",
                 "FG": "11",
                 "FGA": "14",
                 "FG%": "12",
@@ -200,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "13",
                 "FG": "20",
                 "FGA": "13",
                 "FG%": "20",
@@ -254,8 +260,8 @@
                 "PW": "14",
                 "PL": "31",
                 "MOV": "-6.11",
-                "SOS": "1.59",
-                "SRS": "-4.52",
+                "SOS": "1.58",
+                "SRS": "-4.53",
                 "ORtg": "111.1",
                 "DRtg": "117.2",
                 "Pace": "99.5",
@@ -292,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/TOR-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }

@@ -43,8 +43,8 @@
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Foot) - Brogdon did not play in Saturday's (Jan. 25) game against the Suns."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Foot) - The Wizards listed Brogdon as OUT for Monday's (Jan. 27) game against Dallas."
             }
         ],
         "team_stats": {
@@ -100,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "25",
                 "FG": "24",
                 "FGA": "9",
                 "FG%": "29",
@@ -120,7 +120,7 @@
                 "STL": "19",
                 "BLK": "10",
                 "TOV": "23",
-                "PF": "27",
+                "PF": "28",
                 "PTS": "27"
             },
             "Year/Year": {
@@ -166,7 +166,7 @@
                 "ORB": "551",
                 "DRB": "1603",
                 "TRB": "2154",
-                "AST": "1249",
+                "AST": "1248",
                 "STL": "414",
                 "BLK": "252",
                 "TOV": "590",
@@ -200,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "25",
                 "FG": "29",
                 "FGA": "27",
                 "FG%": "25",
@@ -241,7 +241,7 @@
                 "ORB": "3.4%",
                 "DRB": "-1.1%",
                 "TRB": "0.0%",
-                "AST": "-2.3%",
+                "AST": "-2.4%",
                 "STL": "17.8%",
                 "BLK": "-5.3%",
                 "TOV": "-4.6%",
@@ -254,8 +254,8 @@
                 "PW": "7",
                 "PL": "37",
                 "MOV": "-14.36",
-                "SOS": "1.88",
-                "SRS": "-12.48",
+                "SOS": "1.87",
+                "SRS": "-12.50",
                 "ORtg": "105.6",
                 "DRtg": "119.7",
                 "Pace": "101.8",
@@ -288,10 +288,10 @@
                 "FT/FGA": "26",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/WAS-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }

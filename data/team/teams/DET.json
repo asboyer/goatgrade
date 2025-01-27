@@ -30,8 +30,8 @@
             {
                 "Player": "Tobias Harris",
                 "Team": "Detroit Pistons",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Head) - Harris did not return to Saturday's (Jan. 25) game against the Magic."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Head) - The Pistons listed Harris as questionable for Monday's (Jan. 26) game against Cleveland."
             },
             {
                 "Player": "Jaden Ivey",
@@ -93,9 +93,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "11",
                 "FG": "14",
-                "FGA": "16",
+                "FGA": "15",
                 "FG%": "14",
                 "3P": "15",
                 "3PA": "19",
@@ -193,13 +193,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "11",
                 "FG": "11",
                 "FGA": "9",
                 "FG%": "17",
                 "3P": "22",
                 "3PA": "11",
-                "3P%": "24",
+                "3P%": "25",
                 "2P": "10",
                 "2PA": "12",
                 "2P%": "11",
@@ -285,6 +285,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DET-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }

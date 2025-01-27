@@ -31,14 +31,14 @@
             {
                 "Player": "Tre Mann",
                 "Team": "Charlotte Hornets",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Back) - Mann did not play in Saturday's (Jan. 25) game against the Pelicans."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Back) - The Hornets listed Mann as OUT for Monday's (Jan. 27) game against Lakers."
             },
             {
                 "Player": "Cody Martin",
                 "Team": "Charlotte Hornets",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Core) - Martin did not play in Saturday's (Jan. 25) game against the Pelicans."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Core) - The Hornets listed Martin as OUT for Monday's (Jan. 27) game against Lakers."
             },
             {
                 "Player": "Brandon Miller",
@@ -51,12 +51,6 @@
                 "Team": "Charlotte Hornets",
                 "Update": "Wed, Dec 11, 2024",
                 "Description": "Out For Season (ACL) - The Hornets announced on Wednesday (Dec. 11) that Williams underwent successful surgery to repair multiple tears in his knee, including the ACL, per ESPN's Shams Charania. He is expected to return in 9 to 12 months."
-            },
-            {
-                "Player": "Mark Williams",
-                "Team": "Charlotte Hornets",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Foot) - Williams did not play in Saturday's (Jan. 25) game against the Pelicans."
             }
         ],
         "team_stats": {
@@ -122,7 +116,7 @@
                 "2P": "27",
                 "2PA": "24",
                 "2P%": "30",
-                "FT": "24",
+                "FT": "25",
                 "FTA": "25",
                 "FT%": "18",
                 "ORB": "2",
@@ -216,7 +210,7 @@
                 "FG": "7",
                 "FGA": "6",
                 "FG%": "14",
-                "3P": "12",
+                "3P": "13",
                 "3PA": "23",
                 "3P%": "6",
                 "2P": "7",
@@ -304,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHO-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }

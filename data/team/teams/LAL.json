@@ -29,22 +29,40 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Plantar ) - The Lakers listed Davis as probable for Monday's (Jan. 27) game against Charlotte."
+            },
+            {
                 "Player": "Rui Hachimura",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Calf) - Hachimura did not play in Saturday's (Jan. 25) game against the Warriors."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Calf) - The Lakers listed Hachimura as questionable for Monday's (Jan. 27) game against Charlotte."
             },
             {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Saturday's (Jan. 25) game against the Warriors."
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Out (Hamstring) - The Lakers listed Hood-Schifino as OUT for Monday's (Jan. 27) game against Charlotte."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Foot) - The Lakers listed James as probable for Monday's (Jan. 27) game against Charlotte."
             },
             {
                 "Player": "Jarred Vanderbilt",
                 "Team": "Los Angeles Lakers",
                 "Update": "Wed, Jan 22, 2025",
                 "Description": "Out (Knee) - Vanderbilt will remain out for Thursday's (Jan. 23) game against the Celtics but has been medically cleared to make his season debut Saturday (Jan. 25) against the Warriors, per Shams Charania of ESPN."
+            },
+            {
+                "Player": "Gabe Vincent",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sun, Jan 26, 2025",
+                "Description": "Day To Day (Knee) - The Lakers listed Vincent as questionable for Monday's (Jan. 27) game against Charlotte."
             },
             {
                 "Player": "Christian Wood",
@@ -261,7 +279,7 @@
                 "PL": "23",
                 "MOV": "-1.19",
                 "SOS": "0.22",
-                "SRS": "-0.97",
+                "SRS": "-0.96",
                 "ORtg": "114.1",
                 "DRtg": "115.4",
                 "Pace": "97.5",
@@ -298,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAL-2025.png",
-        "last_update": "Jan 26 2025 22:32:17"
+        "last_update": "Jan 27 2025 22:32:20"
     }
 }
