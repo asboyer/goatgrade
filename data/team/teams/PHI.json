@@ -30,8 +30,8 @@
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Toe) - Drummond did not play in Saturday's (Jan. 25) game against the Bulls."
+                "Update": "Mon, Jan 27, 2025",
+                "Description": "Out (Toe) - The 76ers listed Drummond as OUT for Tuesday's (Jan. 28) game against Los Angeles."
             },
             {
                 "Player": "Joel Embiid",
@@ -42,8 +42,8 @@
             {
                 "Player": "Caleb Martin",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Day To Day (Groin) - Martin did not play in Saturday's (Jan. 25) game against the Bulls."
+                "Update": "Mon, Jan 27, 2025",
+                "Description": "Out (Groin) - The 76ers listed Martin as OUT for Tuesday's (Jan. 28) game against Los Angeles."
             },
             {
                 "Player": "KJ Martin",
@@ -56,6 +56,12 @@
                 "Team": "Philadelphia 76ers",
                 "Update": "Thu, Jan 9, 2025",
                 "Description": "Out For Season (Meniscus) - McCain was reviewed Thursday (Jan. 9) by the surgeon who performed surgery on his left knee and is progressing well. The 76ers officially ruled out for the rest of the season, per Kyle Neubeck of AllPHLY.com."
+            },
+            {
+                "Player": "Guerschon Yabusele",
+                "Team": "Philadelphia 76ers",
+                "Update": "Mon, Jan 27, 2025",
+                "Description": "Day To Day (Knee) - The 76ers listed Yabusele as probable for Tuesday's (Jan. 28) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -111,19 +117,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "25",
                 "FG": "28",
                 "FGA": "25",
                 "FG%": "22",
                 "3P": "21",
                 "3PA": "18",
-                "3P%": "24",
+                "3P%": "25",
                 "2P": "23",
                 "2PA": "19",
-                "2P%": "21",
+                "2P%": "22",
                 "FT": "5",
                 "FTA": "6",
-                "FT%": "14",
+                "FT%": "13",
                 "ORB": "24",
                 "DRB": "30",
                 "TRB": "30",
@@ -211,28 +217,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
-                "FG": "12",
+                "MP": "25",
+                "FG": "13",
                 "FGA": "3",
                 "FG%": "29",
                 "3P": "16",
-                "3PA": "12",
+                "3PA": "11",
                 "3P%": "23",
-                "2P": "14",
+                "2P": "12",
                 "2PA": "2",
                 "2P%": "30",
                 "FT": "14",
                 "FTA": "13",
-                "FT%": "20",
+                "FT%": "21",
                 "ORB": "6",
                 "DRB": "21",
                 "TRB": "16",
-                "AST": "22",
+                "AST": "21",
                 "STL": "4",
                 "BLK": "18",
                 "TOV": "3",
                 "PF": "7",
-                "PTS": "13"
+                "PTS": "14"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -265,8 +271,8 @@
                 "PW": "16",
                 "PL": "28",
                 "MOV": "-4.30",
-                "SOS": "0.04",
-                "SRS": "-4.25",
+                "SOS": "0.06",
+                "SRS": "-4.24",
                 "ORtg": "110.9",
                 "DRtg": "115.3",
                 "Pace": "96.6",
@@ -284,25 +290,25 @@
                 "W": "23",
                 "L": "8",
                 "PW": "23",
-                "PL": "24",
+                "PL": "23",
                 "MOV": "23",
-                "SOS": "15",
+                "SOS": "14",
                 "SRS": "23",
                 "ORtg": "24",
-                "DRtg": "21",
-                "Pace": "29",
-                "FTr": "3",
+                "DRtg": "22",
+                "Pace": "28",
+                "FTr": "2",
                 "3PAr": "13",
                 "eFG%": "29",
                 "TOV%": "3",
-                "ORB%": "23",
+                "ORB%": "24",
                 "FT/FGA": "20",
-                "DRB%": "24",
+                "DRB%": "25",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHI-2025.png",
-        "last_update": "Jan 27 2025 22:32:20"
+        "last_update": "Jan 28 2025 22:32:20"
     }
 }
