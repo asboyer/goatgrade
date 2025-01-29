@@ -30,8 +30,14 @@
             {
                 "Player": "Ryan Dunn",
                 "Team": "Phoenix Suns",
-                "Update": "Sun, Jan 26, 2025",
-                "Description": "Out (Ankle) - The Suns listed Dun as OUT for Monday's (Jan. 27) game against Los Angeles."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Day To Day (Ankle) - The Suns listed Dunn as Questionable for Wednesday's (Jan. 29) game against the Timberwolves."
+            },
+            {
+                "Player": "Kevin Durant",
+                "Team": "Phoenix Suns",
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Day To Day (Thumb) - The Suns listed Durant as Questionable for Wednesday's (Jan. 29) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -87,26 +93,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "22",
                 "FG": "19",
                 "FGA": "29",
                 "FG%": "10",
                 "3P": "10",
-                "3PA": "14",
+                "3PA": "15",
                 "3P%": "6",
                 "2P": "21",
                 "2PA": "27",
                 "2P%": "12",
                 "FT": "7",
-                "FTA": "12",
+                "FTA": "11",
                 "FT%": "4",
-                "ORB": "28",
+                "ORB": "27",
                 "DRB": "15",
                 "TRB": "25",
                 "AST": "11",
                 "STL": "22",
                 "BLK": "17",
-                "TOV": "11",
+                "TOV": "12",
                 "PF": "8",
                 "PTS": "14"
             },
@@ -187,7 +193,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "22",
                 "FG": "18",
                 "FGA": "19",
                 "FG%": "13",
@@ -197,12 +203,12 @@
                 "2P": "18",
                 "2PA": "16",
                 "2P%": "16",
-                "FT": "18",
+                "FT": "17",
                 "FTA": "16",
                 "FT%": "16",
                 "ORB": "25",
                 "DRB": "15",
-                "TRB": "20",
+                "TRB": "22",
                 "AST": "17",
                 "STL": "13",
                 "BLK": "2",
@@ -241,8 +247,8 @@
                 "PW": "21",
                 "PL": "24",
                 "MOV": "-0.82",
-                "SOS": "-0.95",
-                "SRS": "-1.78",
+                "SOS": "-0.93",
+                "SRS": "-1.75",
                 "ORtg": "115.5",
                 "DRtg": "116.3",
                 "Pace": "97.2",
@@ -260,7 +266,7 @@
                 "W": "14",
                 "L": "18",
                 "PW": "17",
-                "PL": "18",
+                "PL": "17",
                 "MOV": "16",
                 "SOS": "26",
                 "SRS": "20",
@@ -273,12 +279,12 @@
                 "TOV%": "28",
                 "ORB%": "26",
                 "FT/FGA": "15",
-                "DRB%": "24",
+                "DRB%": "25",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHO-2025.png",
-        "last_update": "Jan 28 2025 22:32:20"
+        "last_update": "Jan 29 2025 22:32:20"
     }
 }

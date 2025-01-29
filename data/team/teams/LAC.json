@@ -31,20 +31,20 @@
             {
                 "Player": "Cam Christie",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sun, Jan 26, 2025",
-                "Description": "Out (Ankle) - The Clippers listed Christie as OUT for Monday's (Jna. 27) game against Phoenix."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Ankle) - The Clippers listed Christie as Out for Wednesday's (Jan. 29) game against the Spurs."
             },
             {
                 "Player": "Kris Dunn",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sun, Jan 26, 2025",
-                "Description": "Out (Knee) - The Clippers listed Dunn as OUT for Monday's (Jna. 27) game against Phoenix."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Knee) - The Clippers listed Dunn as Out for Wednesday's (Jan. 29) game against the Spurs."
             },
             {
                 "Player": "Jordan Miller",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sun, Jan 26, 2025",
-                "Description": "Out (Illness) - The Clippers listed Miller as OUT for Monday's (Jna. 27) game against Phoenix."
+                "Update": "Mon, Jan 27, 2025",
+                "Description": "Day To Day (Illness) - Miller did not play on Monday's (Jna. 27) game against Phoenix."
             },
             {
                 "Player": "P.J. Tucker",
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "16",
                 "FG": "20",
                 "FGA": "24",
                 "FG%": "13",
@@ -114,14 +114,14 @@
                 "3PA": "27",
                 "3P%": "16",
                 "2P": "14",
-                "2PA": "16",
+                "2PA": "15",
                 "2P%": "15",
                 "FT": "15",
                 "FTA": "16",
                 "FT%": "7",
                 "ORB": "20",
                 "DRB": "11",
-                "TRB": "16",
+                "TRB": "15",
                 "AST": "25",
                 "STL": "3",
                 "BLK": "24",
@@ -206,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "16",
                 "FG": "3",
                 "FGA": "5",
                 "FG%": "3",
@@ -260,8 +260,8 @@
                 "PW": "27",
                 "PL": "19",
                 "MOV": "3.04",
-                "SOS": "0.42",
-                "SRS": "3.46",
+                "SOS": "0.46",
+                "SRS": "3.50",
                 "ORtg": "111.4",
                 "DRtg": "108.3",
                 "Pace": "98.2",
@@ -282,7 +282,7 @@
                 "PL": "9",
                 "MOV": "10",
                 "SOS": "10",
-                "SRS": "10",
+                "SRS": "9",
                 "ORtg": "21",
                 "DRtg": "2",
                 "Pace": "20",
@@ -292,12 +292,12 @@
                 "TOV%": "5",
                 "ORB%": "19",
                 "FT/FGA": "17",
-                "DRB%": "3",
+                "DRB%": "2",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAC-2025.png",
-        "last_update": "Jan 28 2025 22:32:20"
+        "last_update": "Jan 29 2025 22:32:20"
     }
 }

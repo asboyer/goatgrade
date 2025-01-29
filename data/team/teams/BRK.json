@@ -37,8 +37,8 @@
             {
                 "Player": "Noah Clowney",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Ankle) - Clowney did not return to Monday's (Jan. 27) game against Sacramento."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Ankle) - The Nets listed Clowney as Out for Wednesday's (Jan. 29) game against the Hornets."
             },
             {
                 "Player": "Cameron Johnson",
@@ -134,9 +134,9 @@
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "28",
-                "3P": "12",
-                "3PA": "9",
-                "3P%": "18",
+                "3P": "11",
+                "3PA": "8",
+                "3P%": "17",
                 "2P": "30",
                 "2PA": "29",
                 "2P%": "28",
@@ -234,10 +234,10 @@
                 "FG": "10",
                 "FGA": "2",
                 "FG%": "30",
-                "3P": "12",
+                "3P": "15",
                 "3PA": "3",
                 "3P%": "30",
-                "2P": "11",
+                "2P": "12",
                 "2PA": "4",
                 "2P%": "28",
                 "FT": "24",
@@ -245,7 +245,7 @@
                 "FT%": "12",
                 "ORB": "2",
                 "DRB": "17",
-                "TRB": "6",
+                "TRB": "5",
                 "AST": "23",
                 "STL": "18",
                 "BLK": "23",
@@ -284,8 +284,8 @@
                 "PW": "13",
                 "PL": "34",
                 "MOV": "-7.85",
-                "SOS": "0.71",
-                "SRS": "-7.14",
+                "SOS": "0.69",
+                "SRS": "-7.16",
                 "ORtg": "108.5",
                 "DRtg": "116.6",
                 "Pace": "96.6",
@@ -313,15 +313,15 @@
                 "FTr": "13",
                 "3PAr": "5",
                 "eFG%": "30",
-                "TOV%": "6",
+                "TOV%": "7",
                 "ORB%": "21",
                 "FT/FGA": "27",
-                "DRB%": "7",
+                "DRB%": "8",
                 "Arena": "",
                 "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BRK-2025.png",
-        "last_update": "Jan 28 2025 22:32:20"
+        "last_update": "Jan 29 2025 22:32:20"
     }
 }

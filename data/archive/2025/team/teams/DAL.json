@@ -23,8 +23,8 @@
             "Luka Dončić",
             "Kessler Edwards",
             "Brandon Williams",
-            "Jazian Gortman",
             "Markieff Morris",
+            "Kylor Kelley",
             "Dante Exum"
         ],
         "injuries": [
@@ -37,8 +37,8 @@
             {
                 "Player": "Dante Exum",
                 "Team": "Dallas Mavericks",
-                "Update": "Fri, Jan 24, 2025",
-                "Description": "Out (Wrist) - Mavericks head coach Jason Kidd said Thursday that Exum hasn't yet been cleared for contact and is without a timeline for making his season debut, according to Grant Afseth of DallasHoopsJournal.com. "
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Day To Day (Wrist) - The Mavericks listed Exum as for Doubtful Wednesday's (Jan. 29) game against the Pelicans."
             },
             {
                 "Player": "Maxi Kleber",
@@ -50,19 +50,19 @@
                 "Player": "Dereck Lively II",
                 "Team": "Dallas Mavericks",
                 "Update": "Thu, Jan 23, 2025",
-                "Description": "Out (Ankle) - The Mavericks announced Wednesday that Lively will be re-evaluated in four weeks after being diagnosed with a right ankle stress fracture."
+                "Description": "Out (Ankle) - The Mavericks announced on Wednesday (Jan. 22) that Lively II will be re-evaluated in four weeks after being diagnosed with a right ankle stress fracture."
             },
             {
                 "Player": "Naji Marshall",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Illness) - Marshall did not play in Monday's (Jan. 27) game against Washington."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Day To Day (Illness) - The Mavericks listed Marshall as Questionable for Wednesday's (Jan. 29) game against the Pelicans."
             },
             {
                 "Player": "Dwight Powell",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Hip) - Powell did not play in Monday's (Jan. 27) game against Washington."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Hip) - The Mavericks listed Powell as OUT for Wednesday's (Jan. 29) game against the Pelicans."
             }
         ],
         "team_stats": {
@@ -118,15 +118,15 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
-                "FG": "12",
+                "MP": "7",
+                "FG": "11",
                 "FGA": "20",
                 "FG%": "7",
                 "3P": "17",
                 "3PA": "24",
                 "3P%": "10",
-                "2P": "11",
-                "2PA": "11",
+                "2P": "10",
+                "2PA": "12",
                 "2P%": "11",
                 "FT": "3",
                 "FTA": "4",
@@ -134,12 +134,12 @@
                 "ORB": "15",
                 "DRB": "10",
                 "TRB": "12",
-                "AST": "19",
+                "AST": "20",
                 "STL": "16",
                 "BLK": "4",
                 "TOV": "14",
                 "PF": "16",
-                "PTS": "11"
+                "PTS": "10"
             },
             "Year/Year": {
                 "G": "",
@@ -218,23 +218,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "7",
                 "FG": "14",
                 "FGA": "23",
-                "FG%": "5",
+                "FG%": "6",
                 "3P": "8",
                 "3PA": "8",
-                "3P%": "15",
+                "3P%": "16",
                 "2P": "20",
                 "2PA": "27",
                 "2P%": "2",
-                "FT": "15",
+                "FT": "14",
                 "FTA": "17",
                 "FT%": "9",
                 "ORB": "27",
                 "DRB": "10",
                 "TRB": "19",
-                "AST": "16",
+                "AST": "15",
                 "STL": "17",
                 "BLK": "8",
                 "TOV": "23",
@@ -272,8 +272,8 @@
                 "PW": "28",
                 "PL": "19",
                 "MOV": "3.34",
-                "SOS": "0.44",
-                "SRS": "3.78",
+                "SOS": "0.48",
+                "SRS": "3.82",
                 "ORtg": "116.2",
                 "DRtg": "112.8",
                 "Pace": "99.1",
@@ -292,24 +292,24 @@
                 "L": "15",
                 "PW": "8",
                 "PL": "10",
-                "MOV": "9",
+                "MOV": "8",
                 "SOS": "9",
                 "SRS": "8",
                 "ORtg": "7",
                 "DRtg": "12",
-                "Pace": "14",
+                "Pace": "13",
                 "FTr": "3",
                 "3PAr": "21",
-                "eFG%": "3",
+                "eFG%": "4",
                 "TOV%": "23",
                 "ORB%": "14",
-                "FT/FGA": "12",
+                "FT/FGA": "11",
                 "DRB%": "26",
                 "Arena": "",
                 "Attendance": "3"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DAL-2025.png",
-        "last_update": "Jan 28 2025 22:32:20"
+        "last_update": "Jan 29 2025 22:32:20"
     }
 }

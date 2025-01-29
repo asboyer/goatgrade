@@ -31,20 +31,26 @@
             {
                 "Player": "LaMelo Ball",
                 "Team": "Charlotte Hornets",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Leg) - Ball did not return to Monday's (Jan. 27) game with a leg injury against Los Angeles."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Leg) - The Hornets listed Ball as Out for Wednesday's (Jan. 29) game against the Nets."
+            },
+            {
+                "Player": "Josh Green",
+                "Team": "Charlotte Hornets",
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Foot) - The Hornets listed Green as Out for Wednesday's (Jan. 29) game against the Nets."
             },
             {
                 "Player": "Tre Mann",
                 "Team": "Charlotte Hornets",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Back) - Mann did not play in Monday's (Jan. 27) game against Lakers."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Back) - The Hornets announced Mann as Out indefinitely. There is no clear timetable yet for his return."
             },
             {
                 "Player": "Cody Martin",
                 "Team": "Charlotte Hornets",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Core) - Martin did not play in Monday's (Jan. 27) game against Lakers."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Core) - The Hornets listed Martin as Out for Wednesday's (Jan. 29) game against the Nets."
             },
             {
                 "Player": "Brandon Miller",
@@ -57,6 +63,12 @@
                 "Team": "Charlotte Hornets",
                 "Update": "Wed, Dec 11, 2024",
                 "Description": "Out For Season (ACL) - The Hornets announced on Wednesday (Dec. 11) that Williams underwent successful surgery to repair multiple tears in his knee, including the ACL, per ESPN's Shams Charania. He is expected to return in 9 to 12 months."
+            },
+            {
+                "Player": "Mark Williams",
+                "Team": "Charlotte Hornets",
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Foot) - The Hornets listed Williams as Out for Wednesday's (Jan. 29) game against the Nets."
             }
         ],
         "team_stats": {
@@ -113,7 +125,7 @@
             "Lg Rank": {
                 "G": "",
                 "MP": "29",
-                "FG": "27",
+                "FG": "28",
                 "FGA": "13",
                 "FG%": "30",
                 "3P": "6",
@@ -227,13 +239,13 @@
                 "FT%": "13",
                 "ORB": "12",
                 "DRB": "19",
-                "TRB": "15",
+                "TRB": "16",
                 "AST": "14",
                 "STL": "16",
                 "BLK": "22",
                 "TOV": "18",
                 "PF": "12",
-                "PTS": "13"
+                "PTS": "14"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -266,8 +278,8 @@
                 "PW": "15",
                 "PL": "28",
                 "MOV": "-4.70",
-                "SOS": "-0.16",
-                "SRS": "-4.86",
+                "SOS": "-0.15",
+                "SRS": "-4.84",
                 "ORtg": "109.0",
                 "DRtg": "113.8",
                 "Pace": "97.9",
@@ -290,7 +302,7 @@
                 "SOS": "18",
                 "SRS": "25",
                 "ORtg": "27",
-                "DRtg": "15",
+                "DRtg": "16",
                 "Pace": "21",
                 "FTr": "24",
                 "3PAr": "6",
@@ -300,10 +312,10 @@
                 "FT/FGA": "22",
                 "DRB%": "14",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHO-2025.png",
-        "last_update": "Jan 28 2025 22:32:20"
+        "last_update": "Jan 29 2025 22:32:20"
     }
 }

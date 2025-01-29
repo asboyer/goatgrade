@@ -35,6 +35,12 @@
                 "Description": "Out For Season (Calf) - The Indiana Pacers announced C Isaiah Jackson has sustained a torn right Achilles tendon in Friday's (Nov. 1) game versus the Pelicans and will be out for the remainder of the season, per Shams Charania of ESPN."
             },
             {
+                "Player": "Andrew Nembhard",
+                "Team": "Indiana Pacers",
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Day To Day (Back) - The Pacers listed Nembhard as Questionable for Wednesday's (Jan. 29) game against the Pistons."
+            },
+            {
                 "Player": "James Wiseman",
                 "Team": "Indiana Pacers",
                 "Update": "Fri, Oct 25, 2024",
@@ -94,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "22",
                 "FG": "7",
                 "FGA": "18",
                 "FG%": "4",
@@ -104,7 +110,7 @@
                 "2P": "5",
                 "2PA": "8",
                 "2P%": "5",
-                "FT": "22",
+                "FT": "23",
                 "FTA": "23",
                 "FT%": "19",
                 "ORB": "29",
@@ -113,9 +119,9 @@
                 "AST": "9",
                 "STL": "11",
                 "BLK": "10",
-                "TOV": "9",
+                "TOV": "8",
                 "PF": "17",
-                "PTS": "10"
+                "PTS": "9"
             },
             "Year/Year": {
                 "G": "",
@@ -194,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "22",
                 "FG": "22",
                 "FGA": "15",
                 "FG%": "22",
@@ -202,7 +208,7 @@
                 "3PA": "9",
                 "3P%": "9",
                 "2P": "23",
-                "2PA": "19",
+                "2PA": "20",
                 "2P%": "23",
                 "FT": "22",
                 "FTA": "22",
@@ -211,7 +217,7 @@
                 "DRB": "16",
                 "TRB": "17",
                 "AST": "11",
-                "STL": "8",
+                "STL": "9",
                 "BLK": "11",
                 "TOV": "15",
                 "PF": "21",
@@ -248,8 +254,8 @@
                 "PW": "24",
                 "PL": "21",
                 "MOV": "0.76",
-                "SOS": "-0.49",
-                "SRS": "0.26",
+                "SOS": "-0.48",
+                "SRS": "0.28",
                 "ORtg": "115.5",
                 "DRtg": "114.7",
                 "Pace": "99.5",
@@ -279,13 +285,13 @@
                 "eFG%": "21",
                 "TOV%": "18",
                 "ORB%": "28",
-                "FT/FGA": "21",
-                "DRB%": "18",
+                "FT/FGA": "20",
+                "DRB%": "17",
                 "Arena": "",
                 "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/IND-2025.png",
-        "last_update": "Jan 28 2025 22:32:20"
+        "last_update": "Jan 29 2025 22:32:20"
     }
 }

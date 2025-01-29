@@ -30,14 +30,14 @@
             {
                 "Player": "Jaime Jaquez Jr.",
                 "Team": "Miami Heat",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Illness) - Jaquez did not play in Monday's (Jan. 27) game against the Magic, as per Ira Winderman of the South Florida Sun Sentinel."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Day To Day (Illness) - The Heat listed Jaquez Jr. as Probable for Wednesday's (Jan. 29) game against the Cavaliers."
             },
             {
                 "Player": "Josh Richardson",
                 "Team": "Miami Heat",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Heel) - Richardson did not play in Monday's (Jan. 27) game against Orlando."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Heel) - The Heat listed Richardson as Out for Wednesday's (Jan. 29) game against the Cavaliers."
             },
             {
                 "Player": "Dru Smith",
@@ -99,11 +99,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
-                "FG": "23",
+                "MP": "20",
+                "FG": "24",
                 "FGA": "22",
                 "FG%": "19",
-                "3P": "8",
+                "3P": "7",
                 "3PA": "10",
                 "3P%": "11",
                 "2P": "25",
@@ -115,7 +115,7 @@
                 "ORB": "26",
                 "DRB": "6",
                 "TRB": "20",
-                "AST": "14",
+                "AST": "13",
                 "STL": "12",
                 "BLK": "29",
                 "TOV": "7",
@@ -199,18 +199,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "20",
                 "FG": "16",
                 "FGA": "16",
                 "FG%": "12",
                 "3P": "20",
                 "3PA": "16",
-                "3P%": "15",
+                "3P%": "16",
                 "2P": "13",
-                "2PA": "12",
-                "2P%": "14",
-                "FT": "3",
-                "FTA": "4",
+                "2PA": "13",
+                "2P%": "13",
+                "FT": "2",
+                "FTA": "3",
                 "FT%": "20",
                 "ORB": "17",
                 "DRB": "28",
@@ -285,12 +285,12 @@
                 "TOV%": "19",
                 "ORB%": "29",
                 "FT/FGA": "4",
-                "DRB%": "11",
+                "DRB%": "12",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIA-2025.png",
-        "last_update": "Jan 28 2025 22:32:20"
+        "last_update": "Jan 29 2025 22:32:20"
     }
 }

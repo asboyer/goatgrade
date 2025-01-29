@@ -24,21 +24,20 @@
             "Bruce Brown",
             "Immanuel Quickley",
             "Ulrich Chomche",
-            "A.J. Lawson",
-            "Orlando Robinson"
+            "A.J. Lawson"
         ],
         "injuries": [
             {
                 "Player": "Kelly Olynyk",
                 "Team": "Toronto Raptors",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Calf) - Olynyk did not play in Monday's (Jan. 27) against New Orleans."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Day To Day (Calf) - The Raptors listed Olynyk as Questionable for Wednesday's (Jan. 29) game against the Wizards."
             },
             {
                 "Player": "Immanuel Quickley",
                 "Team": "Toronto Raptors",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Hip) - Quickley did not play in Monday's (Jan. 27) against New Orleans."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Hip) - The Raptors listed Quickley as Out for Wednesday's (Jan. 29) game against the Wizards."
             }
         ],
         "team_stats": {
@@ -94,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "14",
                 "FG": "10",
                 "FGA": "14",
                 "FG%": "12",
@@ -109,8 +108,8 @@
                 "FT%": "28",
                 "ORB": "9",
                 "DRB": "24",
-                "TRB": "15",
-                "AST": "4",
+                "TRB": "14",
+                "AST": "3",
                 "STL": "20",
                 "BLK": "24",
                 "TOV": "25",
@@ -194,7 +193,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "14",
                 "FG": "20",
                 "FGA": "13",
                 "FG%": "19",
@@ -248,8 +247,8 @@
                 "PW": "15",
                 "PL": "31",
                 "MOV": "-5.78",
-                "SOS": "1.41",
-                "SRS": "-4.37",
+                "SOS": "1.38",
+                "SRS": "-4.40",
                 "ORtg": "111.0",
                 "DRtg": "116.7",
                 "Pace": "99.7",
@@ -274,18 +273,18 @@
                 "ORtg": "23",
                 "DRtg": "26",
                 "Pace": "7",
-                "FTr": "19",
+                "FTr": "20",
                 "3PAr": "29",
-                "eFG%": "22",
+                "eFG%": "23",
                 "TOV%": "20",
                 "ORB%": "7",
                 "FT/FGA": "30",
-                "DRB%": "23",
+                "DRB%": "24",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "6"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/TOR-2025.png",
-        "last_update": "Jan 28 2025 22:32:20"
+        "last_update": "Jan 29 2025 22:32:20"
     }
 }

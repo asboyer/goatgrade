@@ -27,7 +27,14 @@
             "Riley Minix",
             "Harrison Ingram"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Sidy Cissoko",
+                "Team": "San Antonio Spurs",
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Concussion) - The Spurs listed Cissoko as Out for Wednesday's (Jan. 29) game against the Clippers."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "43",
@@ -84,7 +91,7 @@
                 "MP": "30",
                 "FG": "18",
                 "FGA": "16",
-                "FG%": "18",
+                "FG%": "17",
                 "3P": "13",
                 "3PA": "6",
                 "3P%": "22",
@@ -93,7 +100,7 @@
                 "2P%": "14",
                 "FT": "17",
                 "FTA": "17",
-                "FT%": "10",
+                "FT%": "11",
                 "ORB": "10",
                 "DRB": "5",
                 "TRB": "6",
@@ -101,7 +108,7 @@
                 "STL": "26",
                 "BLK": "1",
                 "TOV": "17",
-                "PF": "2",
+                "PF": "1",
                 "PTS": "15"
             },
             "Year/Year": {
@@ -235,8 +242,8 @@
                 "PW": "19",
                 "PL": "24",
                 "MOV": "-1.53",
-                "SOS": "0.25",
-                "SRS": "-1.29",
+                "SOS": "0.26",
+                "SRS": "-1.28",
                 "ORtg": "112.7",
                 "DRtg": "114.2",
                 "Pace": "98.9",
@@ -253,14 +260,14 @@
             "Misc Lg Rank": {
                 "W": "21",
                 "L": "12",
-                "PW": "20",
-                "PL": "17",
+                "PW": "21",
+                "PL": "16",
                 "MOV": "20",
-                "SOS": "12",
-                "SRS": "18",
+                "SOS": "13",
+                "SRS": "17",
                 "ORtg": "16",
                 "DRtg": "18",
-                "Pace": "17",
+                "Pace": "16",
                 "FTr": "17",
                 "3PAr": "9",
                 "eFG%": "9",
@@ -269,10 +276,10 @@
                 "FT/FGA": "1",
                 "DRB%": "22",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/SAS-2025.png",
-        "last_update": "Jan 28 2025 22:32:20"
+        "last_update": "Jan 29 2025 22:32:20"
     }
 }

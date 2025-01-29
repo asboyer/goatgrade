@@ -31,14 +31,20 @@
             {
                 "Player": "Torrey Craig",
                 "Team": "Chicago Bulls",
-                "Update": "Mon, Jan 13, 2025",
-                "Description": "Out (Leg) - The Bulls announced Monday (Jan. 13) that Craig will be re-evaluated in two weeks, per K.C. Johnson of NBC Sports Chicago."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Leg) - The Bulls listed Craig as Out for Wednesday's (Jan. 29) game against the Celtics."
+            },
+            {
+                "Player": "Zach LaVine",
+                "Team": "Chicago Bulls",
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Personal) - The Bulls listed LaVine as Out for Wednesday's (Jan. 29) game against the Celtics."
             },
             {
                 "Player": "Coby White",
                 "Team": "Chicago Bulls",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Ankle) - White did not play in Monday's (Jan. 27) game against Denver."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Day To Day (Ankle) - The Bulls listed White as Questionable for Wednesday's (Jan. 29) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -94,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "7",
                 "FG": "8",
                 "FGA": "3",
                 "FG%": "14",
@@ -108,9 +114,9 @@
                 "FTA": "30",
                 "FT%": "6",
                 "ORB": "25",
-                "DRB": "2",
+                "DRB": "1",
                 "TRB": "4",
-                "AST": "5",
+                "AST": "4",
                 "STL": "23",
                 "BLK": "23",
                 "TOV": "19",
@@ -194,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "7",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "20",
@@ -206,7 +212,7 @@
                 "2P%": "26",
                 "FT": "11",
                 "FTA": "11",
-                "FT%": "19",
+                "FT%": "18",
                 "ORB": "16",
                 "DRB": "29",
                 "TRB": "29",
@@ -273,11 +279,11 @@
                 "SRS": "22",
                 "ORtg": "17",
                 "DRtg": "23",
-                "Pace": "3",
+                "Pace": "2",
                 "FTr": "30",
                 "3PAr": "2",
                 "eFG%": "16",
-                "TOV%": "30",
+                "TOV%": "29",
                 "ORB%": "27",
                 "FT/FGA": "8",
                 "DRB%": "6",
@@ -286,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHI-2025.png",
-        "last_update": "Jan 28 2025 22:32:20"
+        "last_update": "Jan 29 2025 22:32:20"
     }
 }

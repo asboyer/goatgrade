@@ -30,8 +30,14 @@
             {
                 "Player": "Pacome Dadiet",
                 "Team": "New York Knicks",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Toe) - Dadiet did not play in Monday's (Jan. 27) gamew against Memphis."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Toe) - The Knicks listed Dadiet as Out for Wednesday's (Jan. 29) game against the Nuggets."
+            },
+            {
+                "Player": "Josh Hart",
+                "Team": "New York Knicks",
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Day To Day (Knee) - The Knicks listed Hart as Questionable for Wednesday's (Jan. 29) game against the Nuggets."
             },
             {
                 "Player": "Mitchell Robinson",
@@ -93,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "5",
                 "FG": "4",
                 "FGA": "19",
                 "FG%": "3",
@@ -104,11 +110,11 @@
                 "2PA": "9",
                 "2P%": "2",
                 "FT": "13",
-                "FTA": "20",
+                "FTA": "21",
                 "FT%": "3",
                 "ORB": "16",
                 "DRB": "23",
-                "TRB": "21",
+                "TRB": "22",
                 "AST": "10",
                 "STL": "18",
                 "BLK": "28",
@@ -193,7 +199,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "5",
                 "FG": "15",
                 "FGA": "8",
                 "FG%": "18",
@@ -206,7 +212,7 @@
                 "FT": "5",
                 "FTA": "5",
                 "FT%": "23",
-                "ORB": "11",
+                "ORB": "10",
                 "DRB": "1",
                 "TRB": "1",
                 "AST": "9",
@@ -263,7 +269,7 @@
                 "Attendance": "475,488"
             },
             "Misc Lg Rank": {
-                "W": "4",
+                "W": "5",
                 "L": "25",
                 "PW": "5",
                 "PL": "5",
@@ -271,9 +277,9 @@
                 "SOS": "30",
                 "SRS": "6",
                 "ORtg": "2",
-                "DRtg": "14",
+                "DRtg": "15",
                 "Pace": "26",
-                "FTr": "20",
+                "FTr": "21",
                 "3PAr": "22",
                 "eFG%": "20",
                 "TOV%": "16",
@@ -285,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NYK-2025.png",
-        "last_update": "Jan 28 2025 22:32:20"
+        "last_update": "Jan 29 2025 22:32:20"
     }
 }

@@ -30,14 +30,20 @@
             {
                 "Player": "Sam Hauser",
                 "Team": "Boston Celtics",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Hip) - Hauser did not play in Monday's (Jan. 27) game against Houston."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Day To Day (Hip) - The Celtics listed Hauser as Questionable for Wednesday's (Jan. 29) game against the Bulls."
             },
             {
-                "Player": "Derrick White",
+                "Player": "Al Horford",
                 "Team": "Boston Celtics",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Shin) - White did not play in Monday's (Jan. 27) game against Houston."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Day To Day (Toe) - The Celtics listed Horford as Questionable for Wednesday's (Jan. 29) game versus the Bulls."
+            },
+            {
+                "Player": "Jayson Tatum",
+                "Team": "Boston Celtics",
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Day To Day (Knee) - The Celtics listed Tatum as Questionable for Wednesday's (Jan. 29) game versus the Bulls."
             }
         ],
         "team_stats": {
@@ -103,15 +109,15 @@
                 "2P": "29",
                 "2PA": "30",
                 "2P%": "4",
-                "FT": "20",
+                "FT": "19",
                 "FTA": "24",
                 "FT%": "8",
                 "ORB": "13",
                 "DRB": "8",
                 "TRB": "11",
                 "AST": "16",
-                "STL": "25",
-                "BLK": "6",
+                "STL": "24",
+                "BLK": "5",
                 "TOV": "1",
                 "PF": "4",
                 "PTS": "5"
@@ -199,12 +205,12 @@
                 "FG%": "7",
                 "3P": "5",
                 "3PA": "7",
-                "3P%": "8",
+                "3P%": "7",
                 "2P": "19",
                 "2PA": "26",
                 "2P%": "5",
-                "FT": "4",
-                "FTA": "3",
+                "FT": "3",
+                "FTA": "2",
                 "FT%": "24",
                 "ORB": "9",
                 "DRB": "22",
@@ -213,7 +219,7 @@
                 "STL": "3",
                 "BLK": "4",
                 "TOV": "24",
-                "PF": "16",
+                "PF": "17",
                 "PTS": "6"
             },
             "Opp Year/Year": {
@@ -247,8 +253,8 @@
                 "PW": "35",
                 "PL": "12",
                 "MOV": "8.70",
-                "SOS": "-0.58",
-                "SRS": "8.12",
+                "SOS": "-0.60",
+                "SRS": "8.10",
                 "ORtg": "119.5",
                 "DRtg": "110.6",
                 "Pace": "97.0",
@@ -275,16 +281,16 @@
                 "Pace": "25",
                 "FTr": "25",
                 "3PAr": "1",
-                "eFG%": "2",
+                "eFG%": "3",
                 "TOV%": "22",
                 "ORB%": "17",
-                "FT/FGA": "3",
-                "DRB%": "8",
+                "FT/FGA": "2",
+                "DRB%": "9",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BOS-2025.png",
-        "last_update": "Jan 28 2025 22:32:20"
+        "last_update": "Jan 29 2025 22:32:20"
     }
 }
