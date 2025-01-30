@@ -31,8 +31,8 @@
             {
                 "Player": "Bogdan Bogdanović",
                 "Team": "Atlanta Hawks",
-                "Update": "Tue, Jan 28, 2025",
-                "Description": "Day To Day (Personal) - Bogdanovic did not play in Tuesday's (Jan. 28) game against the Rockets."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Personal) - The Hawks listed Bogdanovic as Out for Thursday's (Jan. 30) game against the Cavaliers."
             },
             {
                 "Player": "Kobe Bufkin",
@@ -41,16 +41,22 @@
                 "Description": "Out For Season (Shoulder) - The Hawks said on Wednesday (Dec. 18) that Bufkin will undergo surgery to address a right shoulder instability and will miss the rest of the season."
             },
             {
-                "Player": "Jalen Johnson",
+                "Player": "Clint Capela",
                 "Team": "Atlanta Hawks",
-                "Update": "Tue, Jan 28, 2025",
-                "Description": "Out (Shoulder) - The Hawks announced Saturday (Jan. 25) that Johnson will be listed as out indefinitely while he undergoes further medical testing and evaluation on the left shoulder injury."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Back) - The Hawks listed Capela as Out for Thursday's (Jan. 30) game against the Cavaliers."
             },
             {
-                "Player": "Zaccharie Risacher",
+                "Player": "Jalen Johnson",
                 "Team": "Atlanta Hawks",
-                "Update": "Tue, Jan 28, 2025",
-                "Description": "Day To Day (Thigh) - Risacher did not play in Tuesday's (Jan. 28) game against the Rockets."
+                "Update": "Wed, Jan 29, 2025",
+                "Description": "Out For Season (Shoulder) - Johnson was diagnosed on Wednesday (Jan. 29) with a torn labrum in his left shoulder and will miss the rest of the season, league sources tell NBA reporter Chris Haynes."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Hamstring) - The Hawks listed Young as Probable for Thursday's (Jan. 30) game against the Cavaliers."
             },
             {
                 "Player": "Cody Zeller",
@@ -112,23 +118,23 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
-                "FG": "9",
+                "MP": "11",
+                "FG": "10",
                 "FGA": "4",
                 "FG%": "18",
-                "3P": "18",
+                "3P": "19",
                 "3PA": "14",
-                "3P%": "25",
+                "3P%": "26",
                 "2P": "9",
                 "2PA": "7",
                 "2P%": "20",
                 "FT": "2",
                 "FTA": "3",
-                "FT%": "17",
+                "FT%": "16",
                 "ORB": "7",
                 "DRB": "19",
-                "TRB": "8",
-                "AST": "5",
+                "TRB": "7",
+                "AST": "4",
                 "STL": "2",
                 "BLK": "9",
                 "TOV": "28",
@@ -212,12 +218,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "11",
                 "FG": "25",
-                "FGA": "24",
+                "FGA": "23",
                 "FG%": "25",
                 "3P": "29",
-                "3PA": "24",
+                "3PA": "23",
                 "3P%": "27",
                 "2P": "22",
                 "2PA": "19",
@@ -225,7 +231,7 @@
                 "FT": "18",
                 "FTA": "14",
                 "FT%": "27",
-                "ORB": "8",
+                "ORB": "7",
                 "DRB": "25",
                 "TRB": "23",
                 "AST": "25",
@@ -266,8 +272,8 @@
                 "PW": "20",
                 "PL": "27",
                 "MOV": "-2.79",
-                "SOS": "-0.17",
-                "SRS": "-2.96",
+                "SOS": "-0.20",
+                "SRS": "-2.99",
                 "ORtg": "110.9",
                 "DRtg": "113.5",
                 "Pace": "103.3",
@@ -291,12 +297,12 @@
                 "SRS": "21",
                 "ORtg": "24",
                 "DRtg": "14",
-                "Pace": "3",
+                "Pace": "2",
                 "FTr": "9",
                 "3PAr": "19",
                 "eFG%": "26",
                 "TOV%": "4",
-                "ORB%": "10",
+                "ORB%": "9",
                 "FT/FGA": "14",
                 "DRB%": "10",
                 "Arena": "",
@@ -304,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ATL-2025.png",
-        "last_update": "Jan 29 2025 22:32:20"
+        "last_update": "Jan 30 2025 22:32:18"
     }
 }

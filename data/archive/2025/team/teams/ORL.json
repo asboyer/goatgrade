@@ -2,7 +2,7 @@
     "ORL": {
         "info": {
             "record": "24-24",
-            "standing": "7th in East",
+            "standing": "6th in East",
             "coach": "Jamahl Mosley (24-24)",
             "gm": "Jeff Weltman",
             "preseason_odds": "+8000"
@@ -30,14 +30,14 @@
             {
                 "Player": "Gary Harris",
                 "Team": "Orlando Magic",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Hamstring) - Harris did not play in Monday's (Jan. 27) game against Miami."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Hamstring) - The Magic listed Harris as Probable for Thursday's (Jan. 30) game against the Trail Blazers."
             },
             {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Day To Day (Quad) - Suggs did not play in Monday's (Jan. 27) game against Miami."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Quad) - The Magic listed Suggs as Questionable for Thursday's (Jan. 30) game against the Trail Blazers."
             },
             {
                 "Player": "Moritz Wagner",
@@ -99,20 +99,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "3",
                 "FG": "29",
-                "FGA": "27",
-                "FG%": "27",
+                "FGA": "26",
+                "FG%": "28",
                 "3P": "30",
                 "3PA": "16",
                 "3P%": "30",
                 "2P": "22",
-                "2PA": "22",
-                "2P%": "16",
+                "2PA": "23",
+                "2P%": "17",
                 "FT": "10",
                 "FTA": "7",
                 "FT%": "26",
-                "ORB": "14",
+                "ORB": "11",
                 "DRB": "28",
                 "TRB": "27",
                 "AST": "27",
@@ -199,19 +199,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "3",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "21",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "22",
+                "3P%": "23",
                 "2P": "5",
                 "2PA": "8",
-                "2P%": "15",
+                "2P%": "14",
                 "FT": "23",
                 "FTA": "25",
-                "FT%": "6",
+                "FT%": "7",
                 "ORB": "1",
                 "DRB": "14",
                 "TRB": "2",
@@ -253,8 +253,8 @@
                 "PW": "23",
                 "PL": "25",
                 "MOV": "-0.85",
-                "SOS": "-0.31",
-                "SRS": "-1.16",
+                "SOS": "-0.26",
+                "SRS": "-1.11",
                 "ORtg": "107.6",
                 "DRtg": "108.5",
                 "Pace": "96.3",
@@ -272,25 +272,25 @@
                 "W": "14",
                 "L": "11",
                 "PW": "16",
-                "PL": "20",
-                "MOV": "17",
-                "SOS": "20",
+                "PL": "19",
+                "MOV": "16",
+                "SOS": "21",
                 "SRS": "16",
                 "ORtg": "29",
                 "DRtg": "3",
                 "Pace": "30",
                 "FTr": "1",
                 "3PAr": "12",
-                "eFG%": "17",
+                "eFG%": "16",
                 "TOV%": "2",
-                "ORB%": "13",
+                "ORB%": "14",
                 "FT/FGA": "29",
                 "DRB%": "1",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ORL-2025.png",
-        "last_update": "Jan 29 2025 22:32:20"
+        "last_update": "Jan 30 2025 22:32:18"
     }
 }

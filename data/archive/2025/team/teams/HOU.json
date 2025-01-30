@@ -30,14 +30,14 @@
             {
                 "Player": "Steven Adams",
                 "Team": "Houston Rockets",
-                "Update": "Tue, Jan 28, 2025",
-                "Description": "Day To Day (Ankle) - Adams did not play in Tuesday's (Jan. 28) game against the Hawks."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Ankle) - The Rockets listed Adams as Questionable for Thursday's (Jan. 30) game against the Grizzlies."
             },
             {
-                "Player": "Tari Eason",
+                "Player": "Alperen Şengün",
                 "Team": "Houston Rockets",
-                "Update": "Tue, Jan 28, 2025",
-                "Description": "Day To Day (Leg) - Eason did not play in Tuesday's (Jan. 28) game against the Hawks."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Calf) - The Rockets listed Sengun as Questionable for Thursday's (Jan. 30) game against the Grizzlies."
             },
             {
                 "Player": "Jabari Smith Jr.",
@@ -99,17 +99,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "21",
                 "FG": "13",
                 "FGA": "1",
                 "FG%": "23",
                 "3P": "23",
                 "3PA": "22",
-                "3P%": "26",
+                "3P%": "27",
                 "2P": "8",
                 "2PA": "2",
                 "2P%": "25",
-                "FT": "8",
+                "FT": "7",
                 "FTA": "5",
                 "FT%": "27",
                 "ORB": "1",
@@ -199,17 +199,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "21",
                 "FG": "4",
                 "FGA": "7",
-                "FG%": "5",
+                "FG%": "4",
                 "3P": "3",
                 "3PA": "2",
                 "3P%": "14",
                 "2P": "6",
                 "2PA": "23",
                 "2P%": "1",
-                "FT": "12",
+                "FT": "11",
                 "FTA": "18",
                 "FT%": "1",
                 "ORB": "13",
@@ -218,7 +218,7 @@
                 "AST": "2",
                 "STL": "10",
                 "BLK": "28",
-                "TOV": "7",
+                "TOV": "6",
                 "PF": "3",
                 "PTS": "5"
             },
@@ -253,8 +253,8 @@
                 "PW": "31",
                 "PL": "15",
                 "MOV": "5.70",
-                "SOS": "0.86",
-                "SRS": "6.55",
+                "SOS": "0.82",
+                "SRS": "6.52",
                 "ORtg": "114.5",
                 "DRtg": "108.8",
                 "Pace": "98.8",
@@ -269,28 +269,28 @@
                 "Attendance": "382,340"
             },
             "Misc Lg Rank": {
-                "W": "3",
+                "W": "4",
                 "L": "28",
                 "PW": "6",
                 "PL": "6",
                 "MOV": "6",
-                "SOS": "3",
-                "SRS": "4",
+                "SOS": "4",
+                "SRS": "5",
                 "ORtg": "12",
                 "DRtg": "4",
                 "Pace": "18",
                 "FTr": "11",
                 "3PAr": "28",
-                "eFG%": "2",
-                "TOV%": "6",
+                "eFG%": "3",
+                "TOV%": "7",
                 "ORB%": "1",
-                "FT/FGA": "16",
+                "FT/FGA": "15",
                 "DRB%": "11",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/HOU-2025.png",
-        "last_update": "Jan 29 2025 22:32:20"
+        "last_update": "Jan 30 2025 22:32:18"
     }
 }

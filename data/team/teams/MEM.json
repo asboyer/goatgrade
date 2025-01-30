@@ -31,8 +31,8 @@
             {
                 "Player": "Marcus Smart",
                 "Team": "Memphis Grizzlies",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Out (Finger) - The Grizzlies listed Smart as Out for Friday's (Jan. 24) game against the Pelicans and there's no clear timetable for his return to game action."
+                "Update": "Wed, Jan 29, 2025",
+                "Description": "Out (Finger) - Grizzlies head coach Taylor Jenkins said Wednesday (Jan. 29) that Smart isn't yet practicing with the team and is still considered week-to-week, per Damichael Cole of The Memphis Commercial Appeal."
             },
             {
                 "Player": "Cam Spencer",
@@ -43,8 +43,8 @@
             {
                 "Player": "Vince Williams Jr.",
                 "Team": "Memphis Grizzlies",
-                "Update": "Tue, Jan 14, 2025",
-                "Description": "Out (Ankle) - Head coach Taylor Jenkins said Monday (Jan. 13) that Williams is progressing well and is expected to be cleared for full-court basketball activities later this week but remains without a clear timeline for returning to game action."
+                "Update": "Wed, Jan 29, 2025",
+                "Description": "Out (Ankle) - The Grizzlies announced Wednesday (Jan. 29) that Williams continues to progress and is now viewed as week-to-week, per Drew Hill of The Daily Memphian."
             }
         ],
         "team_stats": {
@@ -100,19 +100,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
-                "FG": "2",
+                "MP": "16",
+                "FG": "1",
                 "FGA": "2",
                 "FG%": "5",
-                "3P": "9",
+                "3P": "8",
                 "3PA": "13",
-                "3P%": "7",
+                "3P%": "8",
                 "2P": "2",
                 "2PA": "4",
                 "2P%": "6",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "18",
+                "FT%": "17",
                 "ORB": "2",
                 "DRB": "3",
                 "TRB": "2",
@@ -200,25 +200,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
-                "FG": "19",
+                "MP": "16",
+                "FG": "20",
                 "FGA": "26",
-                "FG%": "4",
-                "3P": "22",
+                "FG%": "3",
+                "3P": "21",
                 "3PA": "27",
                 "3P%": "6",
-                "2P": "16",
+                "2P": "17",
                 "2PA": "22",
                 "2P%": "7",
                 "FT": "28",
                 "FTA": "29",
                 "FT%": "2",
-                "ORB": "23",
+                "ORB": "24",
                 "DRB": "3",
                 "TRB": "9",
-                "AST": "13",
+                "AST": "12",
                 "STL": "24",
-                "BLK": "25",
+                "BLK": "26",
                 "TOV": "5",
                 "PF": "1",
                 "PTS": "23"
@@ -254,8 +254,8 @@
                 "PW": "33",
                 "PL": "14",
                 "MOV": "7.68",
-                "SOS": "-1.17",
-                "SRS": "6.51",
+                "SOS": "-1.15",
+                "SRS": "6.53",
                 "ORtg": "118.0",
                 "DRtg": "110.6",
                 "Pace": "104.5",
@@ -270,28 +270,28 @@
                 "Attendance": "394,010"
             },
             "Misc Lg Rank": {
-                "W": "5",
+                "W": "6",
                 "L": "25",
-                "PW": "4",
+                "PW": "5",
                 "PL": "4",
                 "MOV": "4",
                 "SOS": "28",
-                "SRS": "5",
+                "SRS": "4",
                 "ORtg": "5",
-                "DRtg": "6",
+                "DRtg": "7",
                 "Pace": "1",
                 "FTr": "7",
                 "3PAr": "18",
-                "eFG%": "7",
+                "eFG%": "5",
                 "TOV%": "8",
                 "ORB%": "2",
                 "FT/FGA": "23",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MEM-2025.png",
-        "last_update": "Jan 29 2025 22:32:20"
+        "last_update": "Jan 30 2025 22:32:18"
     }
 }
