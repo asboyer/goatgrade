@@ -30,8 +30,8 @@
             {
                 "Player": "Jordan Hawkins",
                 "Team": "New Orleans Pelicans",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Illness) - Hawkins did not play in Wednesday's (Jan. 29) game against the Mavericks."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Illness) - The Pelicans listed Hawkins as Questionable for Friday's (Jan. 31) game against the Celtics."
             },
             {
                 "Player": "Brandon Ingram",
@@ -44,6 +44,18 @@
                 "Team": "New Orleans Pelicans",
                 "Update": "Fri, Jan 10, 2025",
                 "Description": "Out (Shoulder) - The Pelicans announced on Friday (Jan. 10) that Jones has suffered a torn labrum in his right shoulder and will be out indefinitely."
+            },
+            {
+                "Player": "Dejounte Murray",
+                "Team": "New Orleans Pelicans",
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Finger) - The Pelicans listed Murray as Probable for Friday's (Jan. 31) game against the Celtics."
+            },
+            {
+                "Player": "Daniel Theis",
+                "Team": "New Orleans Pelicans",
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Thumb) - The Pelicans listed Theis as Doubtful for Friday's (Jan. 31) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -99,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "5",
                 "FG": "21",
                 "FGA": "10",
                 "FG%": "26",
@@ -112,7 +124,7 @@
                 "FT": "13",
                 "FTA": "10",
                 "FT%": "25",
-                "ORB": "8",
+                "ORB": "7",
                 "DRB": "27",
                 "TRB": "24",
                 "AST": "19",
@@ -199,23 +211,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "5",
                 "FG": "28",
                 "FGA": "22",
                 "FG%": "28",
                 "3P": "26",
                 "3PA": "24",
-                "3P%": "22",
-                "2P": "28",
+                "3P%": "21",
+                "2P": "27",
                 "2PA": "17",
                 "2P%": "28",
                 "FT": "9",
                 "FTA": "8",
-                "FT%": "26",
+                "FT%": "25",
                 "ORB": "28",
-                "DRB": "26",
+                "DRB": "25",
                 "TRB": "28",
-                "AST": "26",
+                "AST": "25",
                 "STL": "19",
                 "BLK": "21",
                 "TOV": "10",
@@ -253,8 +265,8 @@
                 "PW": "13",
                 "PL": "35",
                 "MOV": "-8.46",
-                "SOS": "0.38",
-                "SRS": "-8.08",
+                "SOS": "0.41",
+                "SRS": "-8.04",
                 "ORtg": "110.0",
                 "DRtg": "118.5",
                 "Pace": "99.2",
@@ -274,12 +286,12 @@
                 "PW": "29",
                 "PL": "29",
                 "MOV": "29",
-                "SOS": "9",
+                "SOS": "10",
                 "SRS": "29",
-                "ORtg": "25",
+                "ORtg": "26",
                 "DRtg": "28",
                 "Pace": "12",
-                "FTr": "15",
+                "FTr": "16",
                 "3PAr": "26",
                 "eFG%": "28",
                 "TOV%": "12",
@@ -291,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/NOP-2025.png",
-        "last_update": "Jan 30 2025 22:32:18"
+        "last_update": "Jan 31 2025 22:32:19"
     }
 }

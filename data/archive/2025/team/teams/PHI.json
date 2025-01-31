@@ -30,32 +30,32 @@
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Toe) - Drummond did not play in Wednesday's (Jan. 29) game against the Kings."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Toe) - The 76ers listed Drummond as OUT for Friday's (Jan. 31) gamew against Denver."
             },
             {
                 "Player": "Joel Embiid",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Knee) - Embiid did not play in Wednesday's (Jan. 29) game against the Kings."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Knee) - The 76ers listed Embiid as OUT for Friday's (Jan. 31) gamew against Denver."
             },
             {
                 "Player": "Paul George",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Illness) - George did not play in Wednesday's (Jan. 29) game against the Kings."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Illness) - The 76ers listed George as OUT for Friday's (Jan. 31) gamew against Denver."
             },
             {
                 "Player": "Caleb Martin",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Hip) - Martin did not play in Wednesday's (Jan. 29) game against the Kings."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Hip) - The 76ers listed Drummond as OUT for Friday's (Jan. 31) gamew against Denver."
             },
             {
                 "Player": "KJ Martin",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Foot) - Martin did not play in Wednesday's (Jan. 29) game against the Kings."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Foot) - The 76ers listed Martin as OUT for Friday's (Jan. 31) gamew against Denver."
             },
             {
                 "Player": "Jared McCain",
@@ -117,7 +117,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "22",
                 "FG": "27",
                 "FGA": "25",
                 "FG%": "22",
@@ -126,10 +126,10 @@
                 "3P%": "23",
                 "2P": "23",
                 "2PA": "18",
-                "2P%": "22",
+                "2P%": "23",
                 "FT": "3",
                 "FTA": "6",
-                "FT%": "12",
+                "FT%": "13",
                 "ORB": "24",
                 "DRB": "30",
                 "TRB": "30",
@@ -217,13 +217,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "22",
                 "FG": "11",
                 "FGA": "3",
                 "FG%": "30",
-                "3P": "13",
+                "3P": "14",
                 "3PA": "11",
-                "3P%": "21",
+                "3P%": "20",
                 "2P": "12",
                 "2PA": "2",
                 "2P%": "30",
@@ -271,8 +271,8 @@
                 "PW": "18",
                 "PL": "28",
                 "MOV": "-3.52",
-                "SOS": "0.04",
-                "SRS": "-3.48",
+                "SOS": "0.01",
+                "SRS": "-3.51",
                 "ORtg": "111.4",
                 "DRtg": "115.0",
                 "Pace": "96.6",
@@ -290,12 +290,12 @@
                 "W": "23",
                 "L": "9",
                 "PW": "23",
-                "PL": "22",
+                "PL": "21",
                 "MOV": "22",
                 "SOS": "14",
                 "SRS": "22",
                 "ORtg": "22",
-                "DRtg": "21",
+                "DRtg": "22",
                 "Pace": "28",
                 "FTr": "2",
                 "3PAr": "13",
@@ -309,6 +309,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHI-2025.png",
-        "last_update": "Jan 30 2025 22:32:18"
+        "last_update": "Jan 31 2025 22:32:19"
     }
 }

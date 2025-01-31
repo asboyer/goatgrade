@@ -37,14 +37,14 @@
             {
                 "Player": "Dante Exum",
                 "Team": "Dallas Mavericks",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Wrist) - Exum did not play in Wednesday's (Jan. 29) game against the Pelicans."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Wrist) - The Mavericks listed Exum as Questionable for Friday's (Jan. 31) game against the Pistons."
             },
             {
                 "Player": "Maxi Kleber",
                 "Team": "Dallas Mavericks",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Out (Foot) - The Mavericks announced Maxi sustained a right foot fracture during Saturday's (Jan. 25) game. He will be re-evaluated this week."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Foot) - Kleber was diagnosed Saturday (Jan. 25) with a broken right foot and will miss an extended period of time, per Shams Charania of ESPN."
             },
             {
                 "Player": "Dereck Lively II",
@@ -55,8 +55,8 @@
             {
                 "Player": "Dwight Powell",
                 "Team": "Dallas Mavericks",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Hip) - Powell did not play in Wednesday's (Jan. 29) game against the Pelicans."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Hip) - The Mavericks listed Powell as Out for Friday's (Jan. 31) game against the Pistons."
             }
         ],
         "team_stats": {
@@ -112,24 +112,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "9",
                 "FGA": "20",
                 "FG%": "7",
                 "3P": "17",
                 "3PA": "23",
                 "3P%": "9",
-                "2P": "10",
+                "2P": "11",
                 "2PA": "12",
                 "2P%": "11",
-                "FT": "5",
-                "FTA": "4",
-                "FT%": "18",
+                "FT": "6",
+                "FTA": "5",
+                "FT%": "17",
                 "ORB": "15",
-                "DRB": "9",
-                "TRB": "12",
+                "DRB": "10",
+                "TRB": "11",
                 "AST": "18",
-                "STL": "16",
+                "STL": "15",
                 "BLK": "4",
                 "TOV": "16",
                 "PF": "15",
@@ -212,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "17",
                 "FGA": "24",
                 "FG%": "7",
@@ -221,19 +221,19 @@
                 "3P%": "19",
                 "2P": "20",
                 "2PA": "27",
-                "2P%": "2",
+                "2P%": "1",
                 "FT": "15",
                 "FTA": "17",
                 "FT%": "10",
                 "ORB": "26",
-                "DRB": "9",
+                "DRB": "10",
                 "TRB": "18",
                 "AST": "18",
                 "STL": "18",
                 "BLK": "9",
                 "TOV": "23",
                 "PF": "12",
-                "PTS": "14"
+                "PTS": "15"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -266,8 +266,8 @@
                 "PW": "29",
                 "PL": "19",
                 "MOV": "3.29",
-                "SOS": "0.25",
-                "SRS": "3.54",
+                "SOS": "0.30",
+                "SRS": "3.60",
                 "ORtg": "116.5",
                 "DRtg": "113.2",
                 "Pace": "99.2",
@@ -282,19 +282,19 @@
                 "Attendance": "482,078"
             },
             "Misc Lg Rank": {
-                "W": "9",
+                "W": "11",
                 "L": "17",
-                "PW": "8",
-                "PL": "10",
+                "PW": "9",
+                "PL": "11",
                 "MOV": "8",
                 "SOS": "13",
-                "SRS": "9",
+                "SRS": "10",
                 "ORtg": "7",
                 "DRtg": "12",
                 "Pace": "13",
                 "FTr": "4",
                 "3PAr": "21",
-                "eFG%": "7",
+                "eFG%": "6",
                 "TOV%": "23",
                 "ORB%": "13",
                 "FT/FGA": "11",
@@ -304,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DAL-2025.png",
-        "last_update": "Jan 30 2025 22:32:18"
+        "last_update": "Jan 31 2025 22:32:19"
     }
 }

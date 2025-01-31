@@ -31,20 +31,26 @@
             {
                 "Player": "Gradey Dick",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Illness) - Dick did not play in Wednesday's (Jan. 29) game against the Wizards."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Illness) - The Raptors listed Dick as Questionable for Friday's (Jan. 31) game against the Bulls."
             },
             {
                 "Player": "Kelly Olynyk",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Calf) - Olynyk did not play in Wednesday's (Jan. 29) game against the Wizards."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Calf) - The Raptors listed Olynyk as Questionable for Friday's (Jan. 31) game against the Bulls."
             },
             {
                 "Player": "Immanuel Quickley",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Hip) - Quickley did not play in Wednesday's (Jan. 29) game against the Wizards."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Hip) - The Raptors listed Quickley as Questionable for Friday's (Jan. 31) game against the Bulls."
+            },
+            {
+                "Player": "Jamal Shead",
+                "Team": "Toronto Raptors",
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Illness) - The Raptors listed Shead as Questionable for Friday's (Jan. 31) game against the Bulls."
             }
         ],
         "team_stats": {
@@ -100,8 +106,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
-                "FG": "11",
+                "MP": "16",
+                "FG": "10",
                 "FGA": "14",
                 "FG%": "13",
                 "3P": "29",
@@ -109,14 +115,14 @@
                 "3P%": "20",
                 "2P": "4",
                 "2PA": "3",
-                "2P%": "16",
+                "2P%": "17",
                 "FT": "27",
-                "FTA": "17",
+                "FTA": "18",
                 "FT%": "28",
                 "ORB": "9",
-                "DRB": "24",
-                "TRB": "16",
-                "AST": "3",
+                "DRB": "25",
+                "TRB": "17",
+                "AST": "4",
                 "STL": "20",
                 "BLK": "24",
                 "TOV": "24",
@@ -200,21 +206,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "16",
                 "FG": "16",
-                "FGA": "10",
+                "FGA": "11",
                 "FG%": "19",
                 "3P": "22",
                 "3PA": "17",
-                "3P%": "17",
+                "3P%": "18",
                 "2P": "13",
                 "2PA": "6",
-                "2P%": "20",
+                "2P%": "21",
                 "FT": "30",
                 "FTA": "30",
                 "FT%": "5",
                 "ORB": "21",
-                "DRB": "10",
+                "DRB": "11",
                 "TRB": "14",
                 "AST": "19",
                 "STL": "25",
@@ -254,8 +260,8 @@
                 "PW": "16",
                 "PL": "31",
                 "MOV": "-5.15",
-                "SOS": "1.11",
-                "SRS": "-4.04",
+                "SOS": "1.09",
+                "SRS": "-4.06",
                 "ORtg": "110.9",
                 "DRtg": "116.0",
                 "Pace": "99.6",
@@ -277,12 +283,12 @@
                 "MOV": "25",
                 "SOS": "2",
                 "SRS": "24",
-                "ORtg": "23",
+                "ORtg": "24",
                 "DRtg": "24",
                 "Pace": "7",
                 "FTr": "22",
                 "3PAr": "29",
-                "eFG%": "22",
+                "eFG%": "23",
                 "TOV%": "15",
                 "ORB%": "7",
                 "FT/FGA": "30",
@@ -292,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/TOR-2025.png",
-        "last_update": "Jan 30 2025 22:32:18"
+        "last_update": "Jan 31 2025 22:32:19"
     }
 }

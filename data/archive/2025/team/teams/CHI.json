@@ -31,20 +31,20 @@
             {
                 "Player": "Torrey Craig",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Leg) - Craig did not play in Wednesday's (Jan. 29) game against the Celtics."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Leg) - The Bulls listed Craig as questionable for Friday's (Jan. 31) game against Toronto."
             },
             {
                 "Player": "Talen Horton-Tucker",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Leg) - Horton-Tucker did not return in Wednesday's (Jan. 29) game against the Celtics due to a left shin injury, per K.C. Johnson of NBC Sports Chicago."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Leg) - The Bulls listed Horton-Tucker as questionable for Friday's (Jan. 31) game against Toronto."
             },
             {
                 "Player": "Zach LaVine",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Personal) - LaVine did not play in Wednesday's (Jan. 29) game against the Celtics."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Personal) - The Bulls listed LaVine as OUT for Friday's (Jan. 31) game against Toronto."
             }
         ],
         "team_stats": {
@@ -100,14 +100,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "8",
                 "FGA": "3",
                 "FG%": "15",
                 "3P": "3",
                 "3PA": "2",
                 "3P%": "10",
-                "2P": "20",
+                "2P": "19",
                 "2PA": "21",
                 "2P%": "14",
                 "FT": "29",
@@ -116,8 +116,8 @@
                 "ORB": "25",
                 "DRB": "1",
                 "TRB": "5",
-                "AST": "4",
-                "STL": "24",
+                "AST": "5",
+                "STL": "25",
                 "BLK": "22",
                 "TOV": "19",
                 "PF": "7",
@@ -200,12 +200,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "30",
                 "FGA": "30",
-                "FG%": "20",
+                "FG%": "21",
                 "3P": "15",
-                "3PA": "28",
+                "3PA": "29",
                 "3P%": "2",
                 "2P": "30",
                 "2PA": "30",
@@ -254,8 +254,8 @@
                 "PW": "19",
                 "PL": "29",
                 "MOV": "-3.69",
-                "SOS": "-0.15",
-                "SRS": "-3.84",
+                "SOS": "-0.22",
+                "SRS": "-3.91",
                 "ORtg": "112.4",
                 "DRtg": "116.0",
                 "Pace": "103.3",
@@ -279,19 +279,19 @@
                 "SRS": "23",
                 "ORtg": "18",
                 "DRtg": "23",
-                "Pace": "3",
+                "Pace": "2",
                 "FTr": "30",
                 "3PAr": "2",
-                "eFG%": "17",
-                "TOV%": "29",
+                "eFG%": "16",
+                "TOV%": "30",
                 "ORB%": "27",
-                "FT/FGA": "8",
+                "FT/FGA": "7",
                 "DRB%": "6",
                 "Arena": "",
-                "Attendance": "1"
+                "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHI-2025.png",
-        "last_update": "Jan 30 2025 22:32:18"
+        "last_update": "Jan 31 2025 22:32:19"
     }
 }

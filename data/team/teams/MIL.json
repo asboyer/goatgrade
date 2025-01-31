@@ -29,22 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Giannis Antetokounmpo",
+                "Team": "Milwaukee Bucks",
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Patella) - The Bucks listed Antetokounmpo as Probable for Friday's (Jan. 31) game against the Spurs."
+            },
+            {
                 "Player": "A.J. Green",
                 "Team": "Milwaukee Bucks",
-                "Update": "Tue, Jan 28, 2025",
-                "Description": "Day To Day (Quad) - Green did not play in Tuesday's (Jan. 28) game against the Trail Blazers."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Quad) - The Bucks listed Green as Questionable for Friday's (Jan. 31) game against the Spurs."
+            },
+            {
+                "Player": "Khris Middleton",
+                "Team": "Milwaukee Bucks",
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Ankle) - The Bucks listed Middleton as Probable for Friday's (Jan. 31) game against the Spurs."
             },
             {
                 "Player": "Bobby Portis",
                 "Team": "Milwaukee Bucks",
-                "Update": "Tue, Jan 28, 2025",
-                "Description": "Day To Day (Personal) - Portis did not play in Tuesday's (Jan. 28) game against the Trail Blazers."
-            },
-            {
-                "Player": "Tyler Smith",
-                "Team": "Milwaukee Bucks",
-                "Update": "Tue, Jan 28, 2025",
-                "Description": "Day To Day (Illness) - Smith did not play in Tuesday's (Jan. 28) game against the Trail Blazers."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Personal) - The Bucks listed Portis as OUT for Friday's (Jan. 31) game against the Spurs."
             }
         ],
         "team_stats": {
@@ -100,23 +106,23 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "12",
                 "FGA": "23",
                 "FG%": "6",
                 "3P": "7",
-                "3PA": "17",
+                "3PA": "16",
                 "3P%": "2",
                 "2P": "16",
                 "2PA": "17",
                 "2P%": "9",
-                "FT": "21",
+                "FT": "22",
                 "FTA": "12",
                 "FT%": "29",
                 "ORB": "30",
                 "DRB": "2",
-                "TRB": "15",
-                "AST": "20",
+                "TRB": "16",
+                "AST": "21",
                 "STL": "28",
                 "BLK": "13",
                 "TOV": "10",
@@ -200,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "6",
                 "FGA": "21",
                 "FG%": "2",
@@ -214,7 +220,7 @@
                 "FTA": "10",
                 "FT%": "29",
                 "ORB": "12",
-                "DRB": "27",
+                "DRB": "26",
                 "TRB": "24",
                 "AST": "7",
                 "STL": "6",
@@ -254,8 +260,8 @@
                 "PW": "27",
                 "PL": "18",
                 "MOV": "3.13",
-                "SOS": "-1.27",
-                "SRS": "1.86",
+                "SOS": "-1.34",
+                "SRS": "1.80",
                 "ORtg": "115.0",
                 "DRtg": "111.8",
                 "Pace": "99.4",
@@ -270,11 +276,11 @@
                 "Attendance": "417,279"
             },
             "Misc Lg Rank": {
-                "W": "9",
+                "W": "11",
                 "L": "22",
                 "PW": "11",
                 "PL": "8",
-                "MOV": "10",
+                "MOV": "11",
                 "SOS": "29",
                 "SRS": "11",
                 "ORtg": "11",
@@ -282,7 +288,7 @@
                 "Pace": "10",
                 "FTr": "10",
                 "3PAr": "14",
-                "eFG%": "4",
+                "eFG%": "5",
                 "TOV%": "25",
                 "ORB%": "30",
                 "FT/FGA": "12",
@@ -292,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIL-2025.png",
-        "last_update": "Jan 30 2025 22:32:18"
+        "last_update": "Jan 31 2025 22:32:19"
     }
 }

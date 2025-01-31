@@ -37,8 +37,8 @@
             {
                 "Player": "Josh Green",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Foot) - Green did not play in Wednesday's (Jan. 29) game against the Nets."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Day To Day (Foot) - The Hornets listed Green as Probable for Friday's (Jan. 31) game against the Clippers."
             },
             {
                 "Player": "Tre Mann",
@@ -49,8 +49,8 @@
             {
                 "Player": "Cody Martin",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Core) - Martin did not play in Wednesday's (Jan. 29) game against the Nets."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Core) - The Hornets listed Martin as Out for Friday's (Jan. 31) game against the Clippers."
             },
             {
                 "Player": "Brandon Miller",
@@ -67,8 +67,8 @@
             {
                 "Player": "Mark Williams",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Foot) - Williams did not play in Wednesday's (Jan. 29) game against the Nets."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Foot) - The Hornets listed Williams as Out for Friday's (Jan. 31) game against the Clippers."
             }
         ],
         "team_stats": {
@@ -128,21 +128,21 @@
                 "FG": "28",
                 "FGA": "13",
                 "FG%": "30",
-                "3P": "9",
+                "3P": "8",
                 "3PA": "5",
                 "3P%": "24",
                 "2P": "28",
                 "2PA": "24",
                 "2P%": "30",
-                "FT": "25",
-                "FTA": "25",
+                "FT": "26",
+                "FTA": "26",
                 "FT%": "19",
-                "ORB": "3",
-                "DRB": "21",
+                "ORB": "2",
+                "DRB": "20",
                 "TRB": "4",
                 "AST": "26",
                 "STL": "14",
-                "BLK": "18",
+                "BLK": "20",
                 "TOV": "23",
                 "PF": "23",
                 "PTS": "28"
@@ -228,15 +228,15 @@
                 "FG": "8",
                 "FGA": "6",
                 "FG%": "15",
-                "3P": "9",
+                "3P": "10",
                 "3PA": "22",
-                "3P%": "5",
+                "3P%": "4",
                 "2P": "10",
                 "2PA": "5",
                 "2P%": "24",
                 "FT": "21",
                 "FTA": "20",
-                "FT%": "14",
+                "FT%": "13",
                 "ORB": "10",
                 "DRB": "19",
                 "TRB": "15",
@@ -278,8 +278,8 @@
                 "PW": "15",
                 "PL": "29",
                 "MOV": "-5.07",
-                "SOS": "-0.26",
-                "SRS": "-5.33",
+                "SOS": "-0.30",
+                "SRS": "-5.37",
                 "ORtg": "108.7",
                 "DRtg": "113.8",
                 "Pace": "97.8",
@@ -302,7 +302,7 @@
                 "SOS": "20",
                 "SRS": "25",
                 "ORtg": "27",
-                "DRtg": "16",
+                "DRtg": "15",
                 "Pace": "21",
                 "FTr": "24",
                 "3PAr": "6",
@@ -316,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHO-2025.png",
-        "last_update": "Jan 30 2025 22:32:18"
+        "last_update": "Jan 31 2025 22:32:19"
     }
 }

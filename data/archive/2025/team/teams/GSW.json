@@ -30,8 +30,8 @@
             {
                 "Player": "Draymond Green",
                 "Team": "Golden State Warriors",
-                "Update": "Mon, Jan 27, 2025",
-                "Description": "Out (Calf) - The Warriors announced Monday that Green is making good progress with his recovery from a strained left calf."
+                "Update": "Thu, Jan 30, 2025",
+                "Description": "Out (Calf) - The Warriors lsied Green as OUT for Friday's (Jan. 31) game against Phoenix."
             },
             {
                 "Player": "Jonathan Kuminga",
@@ -93,8 +93,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
-                "FG": "16",
+                "MP": "19",
+                "FG": "17",
                 "FGA": "6",
                 "FG%": "25",
                 "3P": "4",
@@ -102,19 +102,19 @@
                 "3P%": "12",
                 "2P": "26",
                 "2PA": "19",
-                "2P%": "26",
+                "2P%": "25",
                 "FT": "30",
                 "FTA": "28",
                 "FT%": "30",
                 "ORB": "4",
-                "DRB": "14",
+                "DRB": "13",
                 "TRB": "3",
                 "AST": "8",
                 "STL": "9",
-                "BLK": "11",
+                "BLK": "10",
                 "TOV": "13",
                 "PF": "19",
-                "PTS": "17"
+                "PTS": "18"
             },
             "Year/Year": {
                 "G": "",
@@ -193,20 +193,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "19",
                 "FG": "7",
-                "FGA": "12",
+                "FGA": "13",
                 "FG%": "9",
-                "3P": "10",
+                "3P": "12",
                 "3PA": "14",
-                "3P%": "11",
-                "2P": "7",
+                "3P%": "10",
+                "2P": "6",
                 "2PA": "9",
                 "2P%": "12",
                 "FT": "16",
                 "FTA": "15",
                 "FT%": "16",
-                "ORB": "7",
+                "ORB": "8",
                 "DRB": "24",
                 "TRB": "22",
                 "AST": "15",
@@ -247,8 +247,8 @@
                 "PW": "24",
                 "PL": "23",
                 "MOV": "0.21",
-                "SOS": "1.02",
-                "SRS": "1.23",
+                "SOS": "1.07",
+                "SRS": "1.29",
                 "ORtg": "112.4",
                 "DRtg": "112.2",
                 "Pace": "98.9",
@@ -285,6 +285,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/GSW-2025.png",
-        "last_update": "Jan 30 2025 22:32:18"
+        "last_update": "Jan 31 2025 22:32:19"
     }
 }
