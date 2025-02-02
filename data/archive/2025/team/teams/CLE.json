@@ -30,14 +30,20 @@
             {
                 "Player": "Caris LeVert",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Thu, Jan 30, 2025",
-                "Description": "Day To Day (Wrist) - LeVert did not play in Thursday's (Jan. 30) game against the Hawks."
+                "Update": "Sat, Feb 1, 2025",
+                "Description": "Day To Day (Wrist) - The Cavaliers listed LeVert as Questionable for Sunday's (Feb. 2) game against the Mavericks."
             },
             {
                 "Player": "Isaac Okoro",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Thu, Jan 30, 2025",
-                "Description": "Day To Day (Shoulder) - Okoro did not play in Thursday's (Jan. 30) game against the Hawks."
+                "Update": "Sat, Feb 1, 2025",
+                "Description": "Out (Shoulder) - The Cavaliers listed Okoro as Out for Sunday's (Feb. 2) game against the Mavericks."
+            },
+            {
+                "Player": "Craig Porter Jr.",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Sat, Feb 1, 2025",
+                "Description": "Day To Day (Illness) - The Cavaliers listed Porter Jr. as Questionable for Sunday's (Feb. 2) game against the Mavericks."
             },
             {
                 "Player": "Dean Wade",
@@ -99,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "20",
                 "FG": "3",
                 "FGA": "11",
                 "FG%": "2",
@@ -107,19 +113,19 @@
                 "3PA": "4",
                 "3P%": "1",
                 "2P": "12",
-                "2PA": "22",
+                "2PA": "24",
                 "2P%": "1",
-                "FT": "21",
+                "FT": "23",
                 "FTA": "23",
                 "FT%": "15",
-                "ORB": "21",
-                "DRB": "9",
+                "ORB": "22",
+                "DRB": "8",
                 "TRB": "15",
-                "AST": "3",
+                "AST": "4",
                 "STL": "11",
                 "BLK": "26",
                 "TOV": "3",
-                "PF": "11",
+                "PF": "9",
                 "PTS": "2"
             },
             "Year/Year": {
@@ -199,27 +205,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
-                "FG": "15",
-                "FGA": "17",
-                "FG%": "10",
+                "MP": "20",
+                "FG": "12",
+                "FGA": "16",
+                "FG%": "9",
                 "3P": "15",
                 "3PA": "7",
-                "3P%": "25",
+                "3P%": "24",
                 "2P": "15",
                 "2PA": "25",
                 "2P%": "5",
                 "FT": "8",
                 "FTA": "9",
-                "FT%": "14",
+                "FT%": "15",
                 "ORB": "14",
-                "DRB": "13",
+                "DRB": "12",
                 "TRB": "11",
                 "AST": "10",
                 "STL": "7",
                 "BLK": "7",
                 "TOV": "12",
-                "PF": "20",
+                "PF": "21",
                 "PTS": "11"
             },
             "Opp Year/Year": {
@@ -277,20 +283,20 @@
                 "SOS": "28",
                 "SRS": "2",
                 "ORtg": "1",
-                "DRtg": "9",
+                "DRtg": "8",
                 "Pace": "6",
                 "FTr": "23",
-                "3PAr": "7",
+                "3PAr": "5",
                 "eFG%": "10",
                 "TOV%": "11",
                 "ORB%": "20",
                 "FT/FGA": "10",
-                "DRB%": "11",
+                "DRB%": "10",
                 "Arena": "",
-                "Attendance": "1"
+                "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CLE-2025.png",
-        "last_update": "Jan 31 2025 22:32:19"
+        "last_update": "Feb 02 2025 22:32:20"
     }
 }
