@@ -30,8 +30,8 @@
             {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Quad) - Suggs did not play in Saturday's (Feb. 1) game against the Jazz."
+                "Update": "Sun, Feb 2, 2025",
+                "Description": "Day To Day (Quad) - The Magic listed Suggs as questionable for Monday's (Feb. 3) game against Golden State."
             },
             {
                 "Player": "Moritz Wagner",
@@ -93,18 +93,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "30",
                 "FGA": "27",
                 "FG%": "28",
                 "3P": "30",
                 "3PA": "17",
                 "3P%": "30",
-                "2P": "23",
-                "2PA": "23",
+                "2P": "22",
+                "2PA": "22",
                 "2P%": "20",
                 "FT": "7",
-                "FTA": "6",
+                "FTA": "5",
                 "FT%": "25",
                 "ORB": "12",
                 "DRB": "29",
@@ -193,19 +193,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "23",
                 "3P": "1",
                 "3PA": "1",
                 "3P%": "25",
-                "2P": "5",
+                "2P": "4",
                 "2PA": "7",
                 "2P%": "13",
                 "FT": "24",
                 "FTA": "26",
-                "FT%": "8",
+                "FT%": "7",
                 "ORB": "1",
                 "DRB": "15",
                 "TRB": "2",
@@ -263,7 +263,7 @@
                 "Attendance": "445,460"
             },
             "Misc Lg Rank": {
-                "W": "15",
+                "W": "16",
                 "L": "11",
                 "PW": "19",
                 "PL": "20",
@@ -285,6 +285,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ORL-2025.png",
-        "last_update": "Feb 02 2025 22:32:20"
+        "last_update": "Feb 03 2025 22:32:20"
     }
 }

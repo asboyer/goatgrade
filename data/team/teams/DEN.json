@@ -43,14 +43,14 @@
             {
                 "Player": "Peyton Watson",
                 "Team": "Denver Nuggets",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Knee) - Watson did not play in Saturday's (Feb. 1) game against the Hornets."
+                "Update": "Sun, Feb 2, 2025",
+                "Description": "Out (Knee) - The Nuggets listed Watson as OUT for Monday's (Feb. 3) game against Denver."
             },
             {
                 "Player": "Russell Westbrook",
                 "Team": "Denver Nuggets",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Hamstring) - Westbrook did not play in Saturday's (Feb. 1) game against the Hornets."
+                "Update": "Sun, Feb 2, 2025",
+                "Description": "Out (Hamstring) - The Nuggets listed Westbrook as OUT for Monday's (Feb. 3) game against Denver."
             }
         ],
         "team_stats": {
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "5",
                 "FG": "2",
                 "FGA": "13",
                 "FG%": "1",
@@ -118,7 +118,7 @@
                 "2P%": "2",
                 "FT": "3",
                 "FTA": "3",
-                "FT%": "23",
+                "FT%": "21",
                 "ORB": "14",
                 "DRB": "6",
                 "TRB": "7",
@@ -206,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "5",
                 "FG": "27",
                 "FGA": "29",
                 "FG%": "17",
@@ -214,11 +214,11 @@
                 "3PA": "23",
                 "3P%": "17",
                 "2P": "29",
-                "2PA": "27",
+                "2PA": "28",
                 "2P%": "18",
                 "FT": "6",
                 "FTA": "7",
-                "FT%": "9",
+                "FT%": "8",
                 "ORB": "22",
                 "DRB": "2",
                 "TRB": "5",
@@ -227,7 +227,7 @@
                 "BLK": "19",
                 "TOV": "23",
                 "PF": "10",
-                "PTS": "24"
+                "PTS": "25"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -260,8 +260,8 @@
                 "PW": "30",
                 "PL": "19",
                 "MOV": "4.00",
-                "SOS": "0.22",
-                "SRS": "4.22",
+                "SOS": "0.17",
+                "SRS": "4.17",
                 "ORtg": "119.0",
                 "DRtg": "115.0",
                 "Pace": "100.4",
@@ -288,8 +288,8 @@
                 "Pace": "5",
                 "FTr": "5",
                 "3PAr": "30",
-                "eFG%": "16",
-                "TOV%": "24",
+                "eFG%": "15",
+                "TOV%": "23",
                 "ORB%": "8",
                 "FT/FGA": "4",
                 "DRB%": "17",
@@ -298,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/DEN-2025.png",
-        "last_update": "Feb 02 2025 22:32:20"
+        "last_update": "Feb 03 2025 22:32:20"
     }
 }

@@ -31,8 +31,8 @@
             {
                 "Player": "Bogdan Bogdanović",
                 "Team": "Atlanta Hawks",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Personal) - Bogdanovic did not play in Saturday's (Feb. 1) game against the Pacers."
+                "Update": "Sun, Feb 2, 2025",
+                "Description": "Out (Personal) - The Hawks listed Bogdanovic as OUT for Monday's (Feb. 3) game against Detroit."
             },
             {
                 "Player": "Kobe Bufkin",
@@ -51,6 +51,12 @@
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Jan 29, 2025",
                 "Description": "Out For Season (Shoulder) - Johnson was diagnosed on Wednesday (Jan. 29) with a torn labrum in his left shoulder and will miss the rest of the season, league sources tell NBA reporter Chris Haynes."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Sun, Feb 2, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as OUT for Monday's (Feb. 3) game against Detroit."
             },
             {
                 "Player": "Cody Zeller",
@@ -112,26 +118,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "10",
+                "MP": "7",
+                "FG": "9",
                 "FGA": "5",
-                "FG%": "18",
+                "FG%": "19",
                 "3P": "18",
                 "3PA": "14",
                 "3P%": "26",
                 "2P": "9",
                 "2PA": "7",
-                "2P%": "19",
-                "FT": "2",
-                "FTA": "2",
-                "FT%": "22",
+                "2P%": "18",
+                "FT": "1",
+                "FTA": "1",
+                "FT%": "20",
                 "ORB": "6",
                 "DRB": "20",
                 "TRB": "8",
                 "AST": "6",
                 "STL": "2",
-                "BLK": "14",
-                "TOV": "27",
+                "BLK": "13",
+                "TOV": "28",
                 "PF": "13",
                 "PTS": "10"
             },
@@ -212,13 +218,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "7",
                 "FG": "26",
                 "FGA": "23",
                 "FG%": "27",
                 "3P": "28",
                 "3PA": "23",
-                "3P%": "26",
+                "3P%": "27",
                 "2P": "25",
                 "2PA": "20",
                 "2P%": "23",
@@ -231,7 +237,7 @@
                 "AST": "27",
                 "STL": "29",
                 "BLK": "20",
-                "TOV": "3",
+                "TOV": "2",
                 "PF": "4",
                 "PTS": "28"
             },
@@ -266,8 +272,8 @@
                 "PW": "20",
                 "PL": "29",
                 "MOV": "-3.22",
-                "SOS": "0.02",
-                "SRS": "-3.21",
+                "SOS": "0.04",
+                "SRS": "-3.19",
                 "ORtg": "111.2",
                 "DRtg": "114.3",
                 "Pace": "103.3",
@@ -284,8 +290,8 @@
             "Misc Lg Rank": {
                 "W": "20",
                 "L": "10",
-                "PW": "21",
-                "PL": "22",
+                "PW": "22",
+                "PL": "21",
                 "MOV": "21",
                 "SOS": "15",
                 "SRS": "21",
@@ -293,17 +299,17 @@
                 "DRtg": "16",
                 "Pace": "2",
                 "FTr": "6",
-                "3PAr": "18",
+                "3PAr": "17",
                 "eFG%": "27",
                 "TOV%": "4",
                 "ORB%": "10",
                 "FT/FGA": "15",
-                "DRB%": "9",
+                "DRB%": "10",
                 "Arena": "",
                 "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/ATL-2025.png",
-        "last_update": "Feb 02 2025 22:32:20"
+        "last_update": "Feb 03 2025 22:32:20"
     }
 }

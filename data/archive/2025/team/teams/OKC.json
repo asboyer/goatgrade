@@ -31,8 +31,8 @@
             {
                 "Player": "Alex Caruso",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Ankle) - Caruso did not play in Saturday's (Feb. 1) game against the Kings."
+                "Update": "Sun, Feb 2, 2025",
+                "Description": "Day To Day (Ankle) - The Thunder listed Caruso as questionable for Monday's (Feb. 3) game against Milwaukee."
             },
             {
                 "Player": "Chet Holmgren",
@@ -56,13 +56,13 @@
                 "Player": "Cason Wallace",
                 "Team": "Oklahoma City Thunder",
                 "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Shoulder) - Wallace did not return to Saturday's (Feb. 1) game against the Kings."
+                "Description": "Day To Day (Shoulder) - The Thunder listed Wallace as questionable for Monday's (Feb. 3) game against Milwaukee."
             },
             {
                 "Player": "Jalen Williams",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Wrist) - Williams did not play in Saturday's (Feb. 1) game against the Kings."
+                "Update": "Sun, Feb 2, 2025",
+                "Description": "Day To Day (Wrist) - The Thunder listed Williams as questionable for Monday's (Feb. 3) game against Milwaukee."
             }
         ],
         "team_stats": {
@@ -118,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "5",
                 "FGA": "3",
                 "FG%": "11",
@@ -218,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "1",
                 "FGA": "4",
                 "FG%": "1",
@@ -231,10 +231,10 @@
                 "FT": "27",
                 "FTA": "28",
                 "FT%": "4",
-                "ORB": "26",
+                "ORB": "27",
                 "DRB": "22",
                 "TRB": "27",
-                "AST": "3",
+                "AST": "4",
                 "STL": "1",
                 "BLK": "13",
                 "TOV": "1",
@@ -272,8 +272,8 @@
                 "PW": "39",
                 "PL": "8",
                 "MOV": "12.30",
-                "SOS": "-0.06",
-                "SRS": "12.24",
+                "SOS": "-0.13",
+                "SRS": "12.17",
                 "ORtg": "117.3",
                 "DRtg": "105.0",
                 "Pace": "99.8",
@@ -293,7 +293,7 @@
                 "PW": "1",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "18",
+                "SOS": "19",
                 "SRS": "1",
                 "ORtg": "6",
                 "DRtg": "1",
@@ -304,12 +304,12 @@
                 "TOV%": "1",
                 "ORB%": "21",
                 "FT/FGA": "28",
-                "DRB%": "26",
+                "DRB%": "27",
                 "Arena": "",
                 "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/OKC-2025.png",
-        "last_update": "Feb 02 2025 22:32:20"
+        "last_update": "Feb 03 2025 22:32:20"
     }
 }

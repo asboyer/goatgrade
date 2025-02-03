@@ -36,20 +36,14 @@
             {
                 "Player": "Anthony Edwards",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Illness) - Edwards did not play in Saturday's (Feb. 1) game against the Wizards."
-            },
-            {
-                "Player": "Julius Randle",
-                "Team": "Minnesota Timberwolves",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Groin) - Randle did not play in Saturday's (Feb. 1) game against the Wizards."
+                "Update": "Sun, Feb 2, 2025",
+                "Description": "Day To Day (Illness) - The Timberwolves listed Edwards as questionable for Monday's (Feb. 3) game against Sacramento."
             },
             {
                 "Player": "Naz Reid",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Finger) - Reid did not return to Saturday's (Feb. 1) game against the Wizards."
+                "Update": "Sun, Feb 2, 2025",
+                "Description": "Day To Day (Finger) - The Timberwolves listed Reid as questionable for Monday's (Feb. 3) game against Sacramento."
             }
         ],
         "team_stats": {
@@ -105,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "10",
                 "FG": "25",
                 "FGA": "26",
                 "FG%": "16",
@@ -114,14 +108,14 @@
                 "3P%": "3",
                 "2P": "28",
                 "2PA": "28",
-                "2P%": "23",
+                "2P%": "22",
                 "FT": "19",
                 "FTA": "21",
                 "FT%": "14",
                 "ORB": "21",
                 "DRB": "18",
                 "TRB": "21",
-                "AST": "17",
+                "AST": "18",
                 "STL": "15",
                 "BLK": "18",
                 "TOV": "20",
@@ -205,15 +199,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "10",
                 "FG": "5",
                 "FGA": "9",
-                "FG%": "8",
+                "FG%": "7",
                 "3P": "4",
                 "3PA": "9",
                 "3P%": "5",
-                "2P": "8",
-                "2PA": "13",
+                "2P": "9",
+                "2PA": "12",
                 "2P%": "8",
                 "FT": "7",
                 "FTA": "6",
@@ -223,7 +217,7 @@
                 "TRB": "7",
                 "AST": "5",
                 "STL": "22",
-                "BLK": "12",
+                "BLK": "11",
                 "TOV": "9",
                 "PF": "14",
                 "PTS": "4"
@@ -259,8 +253,8 @@
                 "PW": "29",
                 "PL": "20",
                 "MOV": "3.12",
-                "SOS": "0.37",
-                "SRS": "3.49",
+                "SOS": "0.31",
+                "SRS": "3.43",
                 "ORtg": "113.8",
                 "DRtg": "110.6",
                 "Pace": "97.1",
@@ -277,26 +271,26 @@
             "Misc Lg Rank": {
                 "W": "10",
                 "L": "19",
-                "PW": "8",
-                "PL": "10",
-                "MOV": "9",
-                "SOS": "10",
-                "SRS": "9",
+                "PW": "9",
+                "PL": "9",
+                "MOV": "8",
+                "SOS": "12",
+                "SRS": "8",
                 "ORtg": "14",
                 "DRtg": "6",
                 "Pace": "25",
                 "FTr": "16",
                 "3PAr": "4",
-                "eFG%": "7",
+                "eFG%": "5",
                 "TOV%": "9",
                 "ORB%": "15",
-                "FT/FGA": "7",
+                "FT/FGA": "8",
                 "DRB%": "16",
                 "Arena": "",
                 "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIN-2025.png",
-        "last_update": "Feb 02 2025 22:32:20"
+        "last_update": "Feb 03 2025 22:32:20"
     }
 }

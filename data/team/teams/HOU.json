@@ -2,7 +2,7 @@
     "HOU": {
         "info": {
             "record": "32-16",
-            "standing": "2nd in West",
+            "standing": "3rd in West",
             "coach": "Ime Udoka (32-16)",
             "gm": "Rafael Stone",
             "preseason_odds": "+10000"
@@ -30,8 +30,8 @@
             {
                 "Player": "Alperen Şengün",
                 "Team": "Houston Rockets",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Calf) - Sengun did not play in Saturday's (Feb. 1) game against the Nets."
+                "Update": "Sun, Feb 2, 2025",
+                "Description": "Day To Day (Calf) - The Rockets listed Sengun as questionable for Monday's (Feb. 3) game against New York."
             },
             {
                 "Player": "Jabari Smith Jr.",
@@ -42,8 +42,8 @@
             {
                 "Player": "Fred VanVleet",
                 "Team": "Houston Rockets",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Ankle) - VanVleet did not return to Saturday's (Feb. 1) game against the Nets."
+                "Update": "Sun, Feb 2, 2025",
+                "Description": "Out (Ankle) - The Rockets listed VanVleet as questionable for Monday's (Feb. 3) game against New York."
             }
         ],
         "team_stats": {
@@ -99,9 +99,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
-                "FG": "13",
-                "FGA": "1",
+                "MP": "19",
+                "FG": "14",
+                "FGA": "2",
                 "FG%": "24",
                 "3P": "23",
                 "3PA": "21",
@@ -110,7 +110,7 @@
                 "2PA": "2",
                 "2P%": "26",
                 "FT": "10",
-                "FTA": "5",
+                "FTA": "4",
                 "FT%": "27",
                 "ORB": "1",
                 "DRB": "15",
@@ -199,28 +199,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "19",
                 "FG": "4",
                 "FGA": "8",
-                "FG%": "7",
+                "FG%": "6",
                 "3P": "2",
                 "3PA": "2",
                 "3P%": "14",
                 "2P": "10",
                 "2PA": "24",
-                "2P%": "2",
+                "2P%": "1",
                 "FT": "11",
                 "FTA": "18",
                 "FT%": "1",
-                "ORB": "13",
+                "ORB": "12",
                 "DRB": "6",
                 "TRB": "8",
                 "AST": "1",
                 "STL": "10",
-                "BLK": "28",
+                "BLK": "27",
                 "TOV": "6",
                 "PF": "3",
-                "PTS": "6"
+                "PTS": "5"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -253,8 +253,8 @@
                 "PW": "32",
                 "PL": "16",
                 "MOV": "5.19",
-                "SOS": "0.90",
-                "SRS": "6.09",
+                "SOS": "0.88",
+                "SRS": "6.06",
                 "ORtg": "114.5",
                 "DRtg": "109.2",
                 "Pace": "98.6",
@@ -269,7 +269,7 @@
                 "Attendance": "400,395"
             },
             "Misc Lg Rank": {
-                "W": "4",
+                "W": "5",
                 "L": "26",
                 "PW": "6",
                 "PL": "6",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/HOU-2025.png",
-        "last_update": "Feb 02 2025 22:32:20"
+        "last_update": "Feb 03 2025 22:32:20"
     }
 }
