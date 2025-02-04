@@ -31,26 +31,32 @@
             {
                 "Player": "Torrey Craig",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Out (Leg) - The Bulls listed Craig as OUT for Sunday's (Feb. 2) game against Detroit."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Leg) - Craig did not play in Sunday's (Feb. 2) game against Detroit."
             },
             {
                 "Player": "Talen Horton-Tucker",
                 "Team": "Chicago Bulls",
-                "Update": "Sun, Feb 2, 2025",
-                "Description": "Out (Leg) - The Bulls listed Horton-Tucker as OUT for Sunday's (Feb. 2) game against Detroit."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Leg) - The Bulls listed Smith as doubtful for Tuesday's (Feb. 4) game against Miami."
             },
             {
-                "Player": "Zach LaVine",
+                "Player": "Adama Sanogo",
                 "Team": "Chicago Bulls",
-                "Update": "Sun, Feb 2, 2025",
-                "Description": "Out (Personal) - The Bulls listed LaVine as OUT for Sunday's (Feb. 2) game against Detroit."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Knee) - The Bulls listed Sanogo as questionable for Tuesday's (Feb. 4) game against Miami."
             },
             {
                 "Player": "Jalen Smith",
                 "Team": "Chicago Bulls",
-                "Update": "Sun, Feb 2, 2025",
-                "Description": "Out (Illness) - The Bulls listed Smith as OUT for Sunday's (Feb. 2) game against Detroit."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Illness) - The Bulls listed Smith as questionable for Tuesday's (Feb. 4) game against Miami."
+            },
+            {
+                "Player": "Dalen Terry",
+                "Team": "Chicago Bulls",
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Knee) - The Bulls listed Terry as questionable for Tuesday's (Feb. 4) game against Miami."
             }
         ],
         "team_stats": {
@@ -106,13 +112,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "9",
                 "FG": "8",
                 "FGA": "4",
                 "FG%": "15",
                 "3P": "3",
                 "3PA": "2",
-                "3P%": "9",
+                "3P%": "8",
                 "2P": "19",
                 "2PA": "24",
                 "2P%": "13",
@@ -124,7 +130,7 @@
                 "TRB": "5",
                 "AST": "4",
                 "STL": "27",
-                "BLK": "22",
+                "BLK": "21",
                 "TOV": "19",
                 "PF": "7",
                 "PTS": "7"
@@ -206,24 +212,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "9",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "21",
                 "3P": "11",
-                "3PA": "27",
+                "3PA": "28",
                 "3P%": "2",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "27",
-                "FT": "12",
+                "FT": "11",
                 "FTA": "12",
                 "FT%": "14",
-                "ORB": "13",
+                "ORB": "12",
                 "DRB": "29",
                 "TRB": "29",
                 "AST": "29",
-                "STL": "16",
+                "STL": "17",
                 "BLK": "16",
                 "TOV": "29",
                 "PF": "30",
@@ -260,8 +266,8 @@
                 "PW": "20",
                 "PL": "30",
                 "MOV": "-3.38",
-                "SOS": "-0.33",
-                "SRS": "-3.71",
+                "SOS": "-0.35",
+                "SRS": "-3.73",
                 "ORtg": "112.6",
                 "DRtg": "115.9",
                 "Pace": "103.3",
@@ -278,26 +284,26 @@
             "Misc Lg Rank": {
                 "W": "21",
                 "L": "7",
-                "PW": "21",
+                "PW": "22",
                 "PL": "23",
                 "MOV": "22",
                 "SOS": "21",
                 "SRS": "23",
-                "ORtg": "17",
+                "ORtg": "18",
                 "DRtg": "23",
                 "Pace": "3",
                 "FTr": "30",
                 "3PAr": "2",
                 "eFG%": "16",
-                "TOV%": "30",
+                "TOV%": "29",
                 "ORB%": "27",
                 "FT/FGA": "7",
-                "DRB%": "3",
+                "DRB%": "4",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/CHI-2025.png",
-        "last_update": "Feb 03 2025 22:32:20"
+        "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/CHI-2025.png",
+        "last_update": "Feb 04 2025 22:32:19"
     }
 }

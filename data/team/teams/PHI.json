@@ -30,38 +30,38 @@
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sun, Feb 2, 2025",
-                "Description": "Out (Toe) - The 76ers listed Drummond as OUT for Sunday's (Feb. 2) game against the Celtics."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Toe) - The 76ers listed Drummond as questionable for Tuesday's (Feb. 4) game against Dallas."
             },
             {
                 "Player": "Joel Embiid",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Out (Knee) - The 76ers listed Embiid as Out for Sunday's (Feb. 2) game against the Celtics."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Knee) - The 76ers listed Embiid as questionable for Tuesday's (Feb. 4) game against Dallas."
             },
             {
                 "Player": "Paul George",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Out (Illness) - The 76ers listed George as Out for Sunday's (Feb. 2) game against the Celtics."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Illness) - George did not play in Sunday's (Feb. 2) game against the Celtics."
             },
             {
                 "Player": "Eric Gordon",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sun, Feb 2, 2025",
-                "Description": "Out (Knee) - The 76ers listed Gordon as OUT for Sunday's (Feb. 2) game against the Celtics."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Knee) - The 76ers listed Gordon as questionable for Tuesday's (Feb. 4) game against Dallas."
             },
             {
                 "Player": "Caleb Martin",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sun, Feb 2, 2025",
-                "Description": "Out (Hip) - The 76ers listed Marin as OUT for Sunday's (Feb. 2) game against the Celtics."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Hip) - The 76ers listed Martin as questionable for Tuesday's (Feb. 4) game against Dallas."
             },
             {
                 "Player": "KJ Martin",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Out (Foot) - The 76ers listed Marin as Out for Sunday's (Feb. 2) game against the Celtics."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Foot) - The 76ers listed Martin as questionable for Tuesday's (Feb. 4) game against Dallas."
             },
             {
                 "Player": "Jared McCain",
@@ -123,26 +123,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "22",
                 "FG": "27",
-                "FGA": "25",
+                "FGA": "26",
                 "FG%": "22",
                 "3P": "19",
                 "3PA": "18",
                 "3P%": "20",
                 "2P": "23",
-                "2PA": "18",
+                "2PA": "19",
                 "2P%": "23",
                 "FT": "4",
-                "FTA": "7",
+                "FTA": "6",
                 "FT%": "13",
                 "ORB": "25",
                 "DRB": "30",
                 "TRB": "30",
                 "AST": "29",
-                "STL": "5",
+                "STL": "4",
                 "BLK": "27",
-                "TOV": "7",
+                "TOV": "8",
                 "PF": "23",
                 "PTS": "25"
             },
@@ -223,28 +223,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "22",
                 "FG": "13",
                 "FGA": "3",
                 "FG%": "30",
-                "3P": "16",
+                "3P": "17",
                 "3PA": "11",
                 "3P%": "24",
-                "2P": "14",
+                "2P": "13",
                 "2PA": "2",
                 "2P%": "30",
-                "FT": "15",
+                "FT": "16",
                 "FTA": "13",
-                "FT%": "25",
-                "ORB": "4",
+                "FT%": "24",
+                "ORB": "5",
                 "DRB": "20",
-                "TRB": "13",
+                "TRB": "14",
                 "AST": "24",
                 "STL": "4",
                 "BLK": "18",
                 "TOV": "3",
                 "PF": "6",
-                "PTS": "15"
+                "PTS": "14"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -277,8 +277,8 @@
                 "PW": "19",
                 "PL": "29",
                 "MOV": "-3.60",
-                "SOS": "0.32",
-                "SRS": "-3.28",
+                "SOS": "0.29",
+                "SRS": "-3.32",
                 "ORtg": "112.0",
                 "DRtg": "115.7",
                 "Pace": "96.5",
@@ -296,25 +296,25 @@
                 "W": "24",
                 "L": "7",
                 "PW": "23",
-                "PL": "22",
+                "PL": "21",
                 "MOV": "23",
-                "SOS": "11",
+                "SOS": "12",
                 "SRS": "22",
                 "ORtg": "20",
                 "DRtg": "22",
                 "Pace": "28",
-                "FTr": "2",
-                "3PAr": "14",
+                "FTr": "1",
+                "3PAr": "15",
                 "eFG%": "30",
                 "TOV%": "3",
                 "ORB%": "24",
                 "FT/FGA": "19",
-                "DRB%": "22",
+                "DRB%": "23",
                 "Arena": "",
                 "Attendance": "7"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/PHI-2025.png",
-        "last_update": "Feb 03 2025 22:32:20"
+        "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/PHI-2025.png",
+        "last_update": "Feb 04 2025 22:32:19"
     }
 }

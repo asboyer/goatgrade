@@ -30,8 +30,14 @@
             {
                 "Player": "Josh Richardson",
                 "Team": "Miami Heat",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Heel) - Richardson did not play in Saturday's (Feb. 1) game against the Spurs."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Out (Heel) - The Heat listed Richardson as OUT for Tuesday's (Feb. 4) game against Chicago."
+            },
+            {
+                "Player": "Duncan Robinson",
+                "Team": "Miami Heat",
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Hip) - The Heat listed Robinson as probable for Tuesday's (Feb. 4) game against Probable."
             },
             {
                 "Player": "Dru Smith",
@@ -93,9 +99,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "27",
                 "FG": "23",
-                "FGA": "22",
+                "FGA": "23",
                 "FG%": "20",
                 "3P": "7",
                 "3PA": "8",
@@ -103,11 +109,11 @@
                 "2P": "25",
                 "2PA": "27",
                 "2P%": "21",
-                "FT": "12",
+                "FT": "14",
                 "FTA": "15",
                 "FT%": "10",
                 "ORB": "26",
-                "DRB": "4",
+                "DRB": "5",
                 "TRB": "20",
                 "AST": "13",
                 "STL": "13",
@@ -193,27 +199,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
-                "FG": "17",
+                "MP": "27",
+                "FG": "16",
                 "FGA": "16",
-                "FG%": "12",
+                "FG%": "11",
                 "3P": "19",
                 "3PA": "19",
-                "3P%": "13",
-                "2P": "15",
-                "2PA": "14",
+                "3P%": "14",
+                "2P": "14",
+                "2PA": "13",
                 "2P%": "16",
-                "FT": "2",
+                "FT": "1",
                 "FTA": "2",
                 "FT%": "19",
                 "ORB": "19",
                 "DRB": "27",
-                "TRB": "25",
+                "TRB": "24",
                 "AST": "22",
                 "STL": "5",
                 "BLK": "17",
                 "TOV": "20",
-                "PF": "26",
+                "PF": "27",
                 "PTS": "7"
             },
             "Opp Year/Year": {
@@ -247,8 +253,8 @@
                 "PW": "24",
                 "PL": "23",
                 "MOV": "0.19",
-                "SOS": "-0.61",
-                "SRS": "-0.42",
+                "SOS": "-0.64",
+                "SRS": "-0.45",
                 "ORtg": "112.7",
                 "DRtg": "112.5",
                 "Pace": "96.8",
@@ -263,28 +269,28 @@
                 "Attendance": "433,483"
             },
             "Misc Lg Rank": {
-                "W": "16",
-                "L": "17",
-                "PW": "14",
+                "W": "18",
+                "L": "18",
+                "PW": "15",
                 "PL": "14",
                 "MOV": "14",
-                "SOS": "24",
+                "SOS": "23",
                 "SRS": "16",
                 "ORtg": "16",
                 "DRtg": "10",
                 "Pace": "27",
                 "FTr": "14",
-                "3PAr": "9",
+                "3PAr": "8",
                 "eFG%": "12",
                 "TOV%": "20",
                 "ORB%": "28",
                 "FT/FGA": "2",
-                "DRB%": "15",
+                "DRB%": "13",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "17"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/MIA-2025.png",
-        "last_update": "Feb 03 2025 22:32:20"
+        "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/MIA-2025.png",
+        "last_update": "Feb 04 2025 22:32:19"
     }
 }

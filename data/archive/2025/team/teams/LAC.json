@@ -18,14 +18,14 @@
             "Norman Powell",
             "Terance Mann",
             "Jordan Miller",
-            "Mo Bamba",
             "Kai Jones",
             "Bones Hyland",
             "Kobe Brown",
             "Kawhi Leonard",
             "Cam Christie",
             "Trentyn Flowers",
-            "P.J. Tucker"
+            "Drew Eubanks",
+            "Patty Mills"
         ],
         "injuries": [
             {
@@ -37,20 +37,8 @@
             {
                 "Player": "Cam Christie",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Out (Ankle) - The Clippers listed Christie as Out for Sunday's (Feb. 2) game against the Raptors."
-            },
-            {
-                "Player": "Kris Dunn",
-                "Team": "Los Angeles Clippers",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Out (Knee) - The Clippers listed Dunn as Out for Sunday's (Feb. 2) game against the Raptors."
-            },
-            {
-                "Player": "Norman Powell",
-                "Team": "Los Angeles Clippers",
-                "Update": "Sun, Feb 2, 2025",
-                "Description": "Out (Hip) - The Clippers listed Powell as OUT for Sunday's (Feb. 2) game against the Raptors."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Out (Ankle) - The Clipper listed Christie as OUT for Tuesday's (Feb. 4) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -106,8 +94,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
-                "FG": "19",
+                "MP": "18",
+                "FG": "18",
                 "FGA": "24",
                 "FG%": "12",
                 "3P": "26",
@@ -116,7 +104,7 @@
                 "2P": "14",
                 "2PA": "14",
                 "2P%": "15",
-                "FT": "14",
+                "FT": "15",
                 "FTA": "17",
                 "FT%": "8",
                 "ORB": "19",
@@ -125,7 +113,7 @@
                 "AST": "25",
                 "STL": "3",
                 "BLK": "25",
-                "TOV": "25",
+                "TOV": "27",
                 "PF": "12",
                 "PTS": "23"
             },
@@ -206,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "18",
                 "FG": "3",
                 "FGA": "5",
                 "FG%": "5",
@@ -217,16 +205,16 @@
                 "2PA": "4",
                 "2P%": "17",
                 "FT": "9",
-                "FTA": "10",
-                "FT%": "6",
+                "FTA": "11",
+                "FT%": "7",
                 "ORB": "3",
                 "DRB": "8",
                 "TRB": "3",
                 "AST": "6",
                 "STL": "28",
                 "BLK": "10",
-                "TOV": "7",
-                "PF": "27",
+                "TOV": "6",
+                "PF": "28",
                 "PTS": "3"
             },
             "Opp Year/Year": {
@@ -260,8 +248,8 @@
                 "PW": "29",
                 "PL": "20",
                 "MOV": "3.12",
-                "SOS": "0.16",
-                "SRS": "3.28",
+                "SOS": "0.19",
+                "SRS": "3.31",
                 "ORtg": "111.9",
                 "DRtg": "108.8",
                 "Pace": "98.1",
@@ -277,27 +265,27 @@
             },
             "Misc Lg Rank": {
                 "W": "8",
-                "L": "20",
-                "PW": "8",
+                "L": "21",
+                "PW": "9",
                 "PL": "8",
                 "MOV": "8",
-                "SOS": "14",
+                "SOS": "13",
                 "SRS": "9",
                 "ORtg": "21",
                 "DRtg": "2",
                 "Pace": "20",
                 "FTr": "13",
                 "3PAr": "26",
-                "eFG%": "6",
+                "eFG%": "5",
                 "TOV%": "5",
-                "ORB%": "17",
+                "ORB%": "16",
                 "FT/FGA": "14",
                 "DRB%": "2",
                 "Arena": "",
                 "Attendance": "25"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAC-2025.png",
-        "last_update": "Feb 03 2025 22:32:20"
+        "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/LAC-2025.png",
+        "last_update": "Feb 04 2025 22:32:19"
     }
 }

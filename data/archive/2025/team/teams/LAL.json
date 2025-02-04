@@ -9,9 +9,7 @@
         },
         "players": [
             "Dalton Knecht",
-            "Max Christie",
             "LeBron James",
-            "Anthony Davis",
             "Austin Reaves",
             "Rui Hachimura",
             "Gabe Vincent",
@@ -24,8 +22,10 @@
             "Armel Traoré",
             "Jarred Vanderbilt",
             "Trey Jemison",
-            "Jalen Hood-Schifino",
-            "Christian Wood"
+            "Luka Dončić",
+            "Markieff Morris",
+            "Christian Wood",
+            "Maxi Kleber"
         ],
         "injuries": [
             {
@@ -33,6 +33,12 @@
                 "Team": "Los Angeles Lakers",
                 "Update": "Thu, Jan 30, 2025",
                 "Description": "Out (Calf) - The Mavericks remain optimistic that Doncic (calf) will return to the lineup prior to the All-Star break, according to NBA reporter Marc Stein."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Foot) - The Lakers listed James as probable for Tuesday's (Feb. 4) game against Los Angeles."
             },
             {
                 "Player": "Maxi Kleber",
@@ -43,8 +49,14 @@
             {
                 "Player": "Cam Reddish",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Personal) - Reddish did not play in Saturday's (Feb. 1) game against the Knicks."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Personal) - The Lakers listed Reddish as doubtful for Tuesday's (Feb. 4) game against Los Angeles."
+            },
+            {
+                "Player": "Gabe Vincent",
+                "Team": "Los Angeles Lakers",
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Day To Day (Knee) - The Lakers listed Vincent as questionable for Tuesday's (Feb. 4) game against Los Angeles."
             },
             {
                 "Player": "Christian Wood",
@@ -106,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "30",
                 "FG": "16",
                 "FGA": "28",
                 "FG%": "7",
@@ -120,11 +132,11 @@
                 "FTA": "8",
                 "FT%": "7",
                 "ORB": "28",
-                "DRB": "25",
-                "TRB": "27",
+                "DRB": "24",
+                "TRB": "28",
                 "AST": "14",
-                "STL": "24",
-                "BLK": "19",
+                "STL": "25",
+                "BLK": "20",
                 "TOV": "6",
                 "PF": "3",
                 "PTS": "17"
@@ -206,20 +218,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "30",
                 "FG": "23",
                 "FGA": "18",
-                "FG%": "19",
+                "FG%": "20",
                 "3P": "10",
                 "3PA": "12",
-                "3P%": "11",
+                "3P%": "13",
                 "2P": "22",
-                "2PA": "22",
+                "2PA": "21",
                 "2P%": "20",
                 "FT": "4",
                 "FTA": "4",
                 "FT%": "20",
-                "ORB": "18",
+                "ORB": "17",
                 "DRB": "10",
                 "TRB": "12",
                 "AST": "23",
@@ -260,8 +272,8 @@
                 "PW": "23",
                 "PL": "24",
                 "MOV": "-0.13",
-                "SOS": "-0.14",
-                "SRS": "-0.27",
+                "SOS": "-0.11",
+                "SRS": "-0.24",
                 "ORtg": "114.7",
                 "DRtg": "114.8",
                 "Pace": "97.6",
@@ -278,26 +290,26 @@
             "Misc Lg Rank": {
                 "W": "8",
                 "L": "23",
-                "PW": "16",
+                "PW": "17",
                 "PL": "15",
                 "MOV": "15",
-                "SOS": "20",
+                "SOS": "18",
                 "SRS": "15",
-                "ORtg": "12",
-                "DRtg": "19",
+                "ORtg": "11",
+                "DRtg": "20",
                 "Pace": "22",
                 "FTr": "3",
-                "3PAr": "23",
+                "3PAr": "22",
                 "eFG%": "18",
                 "TOV%": "21",
                 "ORB%": "25",
                 "FT/FGA": "5",
-                "DRB%": "20",
+                "DRB%": "21",
                 "Arena": "",
                 "Attendance": "23"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/LAL-2025.png",
-        "last_update": "Feb 03 2025 22:32:20"
+        "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/LAL-2025.png",
+        "last_update": "Feb 04 2025 22:32:19"
     }
 }

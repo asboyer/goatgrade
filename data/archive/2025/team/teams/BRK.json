@@ -43,8 +43,8 @@
             {
                 "Player": "Cameron Johnson",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Feb 1, 2025",
-                "Description": "Day To Day (Ankle) - Johnson did not play in Saturday's (Feb. 1) game against the Rockets."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Out (Ankle) - The Nets listed Johnson as OUT for Tuesday's (Feb. 4) game against Houston."
             },
             {
                 "Player": "Maxwell Lewis",
@@ -57,6 +57,12 @@
                 "Team": "Brooklyn Nets",
                 "Update": "Wed, Nov 20, 2024",
                 "Description": "Out For Season (ACL) - Melton will undergo season-ending surgery on his left ACL, the team announced Wednesday (Nov. 20)."
+            },
+            {
+                "Player": "Ben Simmons",
+                "Team": "Brooklyn Nets",
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Out (Back) - The Nets listed Simmons as OUT for Tuesday's (Feb. 4) game against Houston."
             },
             {
                 "Player": "Cam Thomas",
@@ -118,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "14",
                 "FG": "29",
                 "FGA": "30",
                 "FG%": "27",
@@ -129,7 +135,7 @@
                 "2PA": "29",
                 "2P%": "25",
                 "FT": "16",
-                "FTA": "20",
+                "FTA": "19",
                 "FT%": "6",
                 "ORB": "23",
                 "DRB": "28",
@@ -137,7 +143,7 @@
                 "AST": "23",
                 "STL": "28",
                 "BLK": "28",
-                "TOV": "20",
+                "TOV": "21",
                 "PF": "25",
                 "PTS": "29"
             },
@@ -218,26 +224,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "14",
                 "FG": "6",
                 "FGA": "2",
-                "FG%": "29",
+                "FG%": "28",
                 "3P": "13",
                 "3PA": "3",
-                "3P%": "28",
+                "3P%": "29",
                 "2P": "7",
                 "2PA": "3",
                 "2P%": "26",
                 "FT": "23",
-                "FTA": "25",
+                "FTA": "24",
                 "FT%": "11",
                 "ORB": "2",
-                "DRB": "17",
+                "DRB": "16",
                 "TRB": "9",
                 "AST": "21",
-                "STL": "14",
-                "BLK": "25",
-                "TOV": "11",
+                "STL": "15",
+                "BLK": "26",
+                "TOV": "9",
                 "PF": "8",
                 "PTS": "13"
             },
@@ -272,8 +278,8 @@
                 "PW": "14",
                 "PL": "35",
                 "MOV": "-6.86",
-                "SOS": "0.63",
-                "SRS": "-6.23",
+                "SOS": "0.60",
+                "SRS": "-6.25",
                 "ORtg": "108.8",
                 "DRtg": "115.9",
                 "Pace": "96.4",
@@ -293,12 +299,12 @@
                 "PW": "27",
                 "PL": "28",
                 "MOV": "27",
-                "SOS": "5",
+                "SOS": "6",
                 "SRS": "27",
                 "ORtg": "27",
                 "DRtg": "24",
                 "Pace": "29",
-                "FTr": "12",
+                "FTr": "11",
                 "3PAr": "6",
                 "eFG%": "29",
                 "TOV%": "6",
@@ -309,7 +315,7 @@
                 "Attendance": "29"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202412261/tlogo/bbr/BRK-2025.png",
-        "last_update": "Feb 03 2025 22:32:20"
+        "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/BRK-2025.png",
+        "last_update": "Feb 04 2025 22:32:19"
     }
 }
