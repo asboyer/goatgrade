@@ -30,8 +30,8 @@
             {
                 "Player": "Jaden Ivey",
                 "Team": "Detroit Pistons",
-                "Update": "Thu, Jan 2, 2025",
-                "Description": "Out (Leg) - The Pistons announced on Thursday (Jan. 2) that Ivey underwent successful surgery to repair a broken fibula in his left leg, and he will be re-evaluated in four weeks, per Keith Langlois of the Pistons' official site."
+                "Update": "Fri, Jan 3, 2025",
+                "Description": "Out (Leg) - HC Bickerstaff said Sunday (Feb. 2) that Ivey is progressing and continues to meet with doctors and doesn't have a timeline for a return to game action, per Omari Sankofa II of the Detroit Free Press."
             }
         ],
         "team_stats": {
@@ -87,22 +87,22 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
-                "FG": "13",
-                "FGA": "15",
+                "MP": "7",
+                "FG": "12",
+                "FGA": "14",
                 "FG%": "14",
                 "3P": "17",
                 "3PA": "19",
                 "3P%": "14",
                 "2P": "12",
                 "2PA": "11",
-                "2P%": "16",
+                "2P%": "15",
                 "FT": "26",
                 "FTA": "27",
                 "FT%": "16",
-                "ORB": "12",
+                "ORB": "13",
                 "DRB": "13",
-                "TRB": "11",
+                "TRB": "12",
                 "AST": "17",
                 "STL": "23",
                 "BLK": "15",
@@ -187,9 +187,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "7",
                 "FG": "10",
-                "FGA": "7",
+                "FGA": "8",
                 "FG%": "17",
                 "3P": "23",
                 "3PA": "13",
@@ -199,10 +199,10 @@
                 "2P%": "12",
                 "FT": "21",
                 "FTA": "23",
-                "FT%": "10",
+                "FT%": "11",
                 "ORB": "4",
                 "DRB": "9",
-                "TRB": "4",
+                "TRB": "3",
                 "AST": "7",
                 "STL": "26",
                 "BLK": "14",
@@ -241,8 +241,8 @@
                 "PW": "23",
                 "PL": "27",
                 "MOV": "-1.04",
-                "SOS": "-0.17",
-                "SRS": "-1.21",
+                "SOS": "-0.18",
+                "SRS": "-1.22",
                 "ORtg": "112.6",
                 "DRtg": "113.7",
                 "Pace": "99.2",
@@ -259,26 +259,26 @@
             "Misc Lg Rank": {
                 "W": "14",
                 "L": "13",
-                "PW": "16",
+                "PW": "17",
                 "PL": "19",
                 "MOV": "18",
                 "SOS": "19",
                 "SRS": "18",
-                "ORtg": "17",
+                "ORtg": "18",
                 "DRtg": "12",
-                "Pace": "13",
+                "Pace": "12",
                 "FTr": "27",
                 "3PAr": "20",
-                "eFG%": "20",
+                "eFG%": "21",
                 "TOV%": "12",
                 "ORB%": "12",
                 "FT/FGA": "23",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/DET-2025.png",
-        "last_update": "Feb 04 2025 22:32:19"
+        "last_update": "Feb 05 2025 22:32:20"
     }
 }

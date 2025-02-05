@@ -36,8 +36,8 @@
             {
                 "Player": "Herbert Jones",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Out (Shoulder) - The Pelicans announced on Friday (Jan. 10) that Jones has suffered a torn labrum in his right shoulder and will be out indefinitely."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Out (Shoulder) - Jones remains without a timetable as he recovers from a posterior labrum tear in his right shoulder, and was spotted getting up some shots at Monday's (Feb. 3) morning shootaround, as per Will Guillory of The Athletic."
             },
             {
                 "Player": "Dejounte Murray",
@@ -48,8 +48,8 @@
             {
                 "Player": "Daniel Theis",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Out (Thumb) - The Pelicans have listed Theis as OUT for Monday's (Feb. 3) game against the Nuggets."
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Thumb) - The Pelicans listed Theis as Questionable for Wednesday's (Feb. 5) game against the Nuggets."
             }
         ],
         "team_stats": {
@@ -105,27 +105,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "13",
                 "FG": "21",
                 "FGA": "10",
                 "FG%": "25",
                 "3P": "23",
-                "3PA": "24",
+                "3PA": "23",
                 "3P%": "23",
                 "2P": "15",
                 "2PA": "6",
                 "2P%": "29",
-                "FT": "12",
+                "FT": "14",
                 "FTA": "11",
                 "FT%": "25",
                 "ORB": "6",
                 "DRB": "27",
                 "TRB": "24",
                 "AST": "21",
-                "STL": "5",
+                "STL": "4",
                 "BLK": "7",
                 "TOV": "15",
-                "PF": "11",
+                "PF": "10",
                 "PTS": "24"
             },
             "Year/Year": {
@@ -205,13 +205,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "13",
                 "FG": "28",
                 "FGA": "21",
                 "FG%": "29",
                 "3P": "26",
                 "3PA": "25",
-                "3P%": "22",
+                "3P%": "23",
                 "2P": "29",
                 "2PA": "16",
                 "2P%": "28",
@@ -259,8 +259,8 @@
                 "PW": "13",
                 "PL": "37",
                 "MOV": "-8.40",
-                "SOS": "0.67",
-                "SRS": "-7.73",
+                "SOS": "0.66",
+                "SRS": "-7.74",
                 "ORtg": "110.3",
                 "DRtg": "118.8",
                 "Pace": "99.2",
@@ -280,23 +280,23 @@
                 "PW": "29",
                 "PL": "29",
                 "MOV": "29",
-                "SOS": "5",
+                "SOS": "6",
                 "SRS": "29",
                 "ORtg": "26",
                 "DRtg": "28",
-                "Pace": "14",
+                "Pace": "13",
                 "FTr": "15",
                 "3PAr": "24",
-                "eFG%": "28",
-                "TOV%": "15",
+                "eFG%": "29",
+                "TOV%": "16",
                 "ORB%": "10",
                 "FT/FGA": "10",
-                "DRB%": "30",
+                "DRB%": "29",
                 "Arena": "",
                 "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/NOP-2025.png",
-        "last_update": "Feb 04 2025 22:32:19"
+        "last_update": "Feb 05 2025 22:32:20"
     }
 }

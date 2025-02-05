@@ -43,8 +43,14 @@
             {
                 "Player": "Cody Martin",
                 "Team": "Charlotte Hornets",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Day To Day (Core) - Micic did not play in Monday's (Feb. 3) game against Washington."
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Out (Core) - The Hornets listed Martin as Out for Wednesday's (Feb. 5) game against the Bucks."
+            },
+            {
+                "Player": "Vasilije Micić",
+                "Team": "Charlotte Hornets",
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Ankle) - The Hornets listed Micic as Questionable for Wednesday's (Feb. 5) game against the Bucks."
             },
             {
                 "Player": "Brandon Miller",
@@ -118,13 +124,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "28",
                 "FGA": "12",
                 "FG%": "30",
                 "3P": "11",
                 "3PA": "5",
-                "3P%": "26",
+                "3P%": "27",
                 "2P": "27",
                 "2PA": "18",
                 "2P%": "30",
@@ -136,9 +142,9 @@
                 "TRB": "4",
                 "AST": "26",
                 "STL": "14",
-                "BLK": "22",
+                "BLK": "21",
                 "TOV": "22",
-                "PF": "21",
+                "PF": "22",
                 "PTS": "28"
             },
             "Year/Year": {
@@ -218,28 +224,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "8",
                 "FGA": "6",
                 "FG%": "15",
-                "3P": "8",
+                "3P": "9",
                 "3PA": "20",
-                "3P%": "4",
+                "3P%": "3",
                 "2P": "10",
                 "2PA": "5",
-                "2P%": "25",
+                "2P%": "26",
                 "FT": "20",
                 "FTA": "19",
-                "FT%": "16",
+                "FT%": "15",
                 "ORB": "10",
-                "DRB": "19",
-                "TRB": "16",
+                "DRB": "20",
+                "TRB": "17",
                 "AST": "13",
-                "STL": "14",
+                "STL": "16",
                 "BLK": "23",
                 "TOV": "18",
                 "PF": "12",
-                "PTS": "11"
+                "PTS": "13"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -272,8 +278,8 @@
                 "PW": "16",
                 "PL": "31",
                 "MOV": "-5.19",
-                "SOS": "-0.33",
-                "SRS": "-5.52",
+                "SOS": "-0.34",
+                "SRS": "-5.53",
                 "ORtg": "108.7",
                 "DRtg": "114.0",
                 "Pace": "97.8",
@@ -292,24 +298,24 @@
                 "L": "4",
                 "PW": "26",
                 "PL": "24",
-                "MOV": "25",
+                "MOV": "26",
                 "SOS": "20",
                 "SRS": "26",
                 "ORtg": "28",
-                "DRtg": "14",
+                "DRtg": "13",
                 "Pace": "21",
                 "FTr": "26",
-                "3PAr": "7",
+                "3PAr": "8",
                 "eFG%": "14",
                 "TOV%": "18",
                 "ORB%": "4",
-                "FT/FGA": "20",
+                "FT/FGA": "21",
                 "DRB%": "12",
                 "Arena": "",
                 "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/CHO-2025.png",
-        "last_update": "Feb 04 2025 22:32:19"
+        "last_update": "Feb 05 2025 22:32:20"
     }
 }

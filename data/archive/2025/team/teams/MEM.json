@@ -31,20 +31,26 @@
             {
                 "Player": "Desmond Bane",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Out (Ankle) - The Grizzlies listed Bane as OUT for Monday's (Feb. 3) game against San Antonio."
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Out (Ankle) - HC Jenkins said Bane has been diagnosed with a left foot sprain following an MRI and will miss some time, as per Damichael Cole of The Memphis Commercial Appeal."
             },
             {
                 "Player": "Brandon Clarke",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Out (Back) - The Grizzlies listed Morant as OUT for Monday's (Feb. 3) game against San Antonio."
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Back) - The Grizzlies listed Clarke as Questionable for Wednesday's (Feb. 5) game against the Raptors."
+            },
+            {
+                "Player": "John Konchar",
+                "Team": "Memphis Grizzlies",
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Shoulder) - The Grizzlies listed Konchar as Questionable for Wednesday's (Feb. 5) game against the Raptors."
             },
             {
                 "Player": "Marcus Smart",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Out (Finger) - The Grizzlies listed Smart as OUT for Monday's (Feb. 3) game against San Antonio."
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Finger) - The Grizzlies listed Smart as Questionable for Wednesday's (Feb. 5) game against the Raptors."
             },
             {
                 "Player": "Cam Spencer",
@@ -55,8 +61,8 @@
             {
                 "Player": "Vince Williams Jr.",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Out (Ankle) - The Grizzlies listed Williams Jr. as OUT for Monday's (Feb. 3) game against San Antonio."
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Ankle) - The Grizzlies listed Williams Jr. as Questionable for Wednesday's (Feb. 5) game against the Raptors."
             }
         ],
         "team_stats": {
@@ -112,19 +118,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "16",
                 "FG": "1",
-                "FGA": "2",
+                "FGA": "1",
                 "FG%": "5",
                 "3P": "8",
                 "3PA": "13",
-                "3P%": "7",
+                "3P%": "8",
                 "2P": "2",
                 "2PA": "4",
-                "2P%": "6",
+                "2P%": "5",
                 "FT": "2",
                 "FTA": "2",
-                "FT%": "23",
+                "FT%": "24",
                 "ORB": "2",
                 "DRB": "3",
                 "TRB": "2",
@@ -212,10 +218,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "16",
                 "FG": "20",
                 "FGA": "26",
-                "FG%": "2",
+                "FG%": "3",
                 "3P": "22",
                 "3PA": "26",
                 "3P%": "6",
@@ -229,7 +235,7 @@
                 "DRB": "3",
                 "TRB": "10",
                 "AST": "12",
-                "STL": "25",
+                "STL": "24",
                 "BLK": "24",
                 "TOV": "5",
                 "PF": "2",
@@ -266,8 +272,8 @@
                 "PW": "36",
                 "PL": "14",
                 "MOV": "7.88",
-                "SOS": "-0.94",
-                "SRS": "6.94",
+                "SOS": "-0.91",
+                "SRS": "6.97",
                 "ORtg": "118.2",
                 "DRtg": "110.7",
                 "Pace": "104.5",
@@ -298,12 +304,12 @@
                 "TOV%": "7",
                 "ORB%": "2",
                 "FT/FGA": "22",
-                "DRB%": "19",
+                "DRB%": "20",
                 "Arena": "",
                 "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/MEM-2025.png",
-        "last_update": "Feb 04 2025 22:32:19"
+        "last_update": "Feb 05 2025 22:32:20"
     }
 }

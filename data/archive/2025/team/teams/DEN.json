@@ -37,8 +37,8 @@
             {
                 "Player": "Aaron Gordon",
                 "Team": "Denver Nuggets",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Out (Calf) - The Nuggets listed Gordon as OUT for Monday's (Feb. 3) game against Denver."
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Calf) - The Nuggets listed Gordon as Questionable for Wednesday's (Feb. 5) game against the Pelicans."
             },
             {
                 "Player": "DaRon Holmes",
@@ -49,13 +49,13 @@
             {
                 "Player": "Peyton Watson",
                 "Team": "Denver Nuggets",
-                "Update": "Sun, Feb 2, 2025",
-                "Description": "Out (Knee) - The Nuggets listed Watson as OUT for Monday's (Feb. 3) game against Denver."
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Out (Knee) - The Nuggets announced Monday (Feb. 3) that Watson will be re-evaluated in four weeks due to a right knee sprain he sustained in Friday's (Jan. 30) 137-134 win over the 76ers, per Bennett Durando of The Denver Post."
             },
             {
                 "Player": "Russell Westbrook",
                 "Team": "Denver Nuggets",
-                "Update": "Sun, Feb 2, 2025",
+                "Update": "Mon, Feb 3, 2025",
                 "Description": "Out (Hamstring) - Head coach Mike Malone said Monday that Westbrook does not have a timeline to return from a left hamstring strain, Vinny Benedetto of The Denver Gazette reports."
             }
         ],
@@ -112,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "7",
                 "FG": "2",
                 "FGA": "13",
                 "FG%": "1",
@@ -124,8 +124,8 @@
                 "2P%": "2",
                 "FT": "3",
                 "FTA": "3",
-                "FT%": "22",
-                "ORB": "13",
+                "FT%": "23",
+                "ORB": "14",
                 "DRB": "6",
                 "TRB": "7",
                 "AST": "1",
@@ -212,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "7",
                 "FG": "26",
                 "FGA": "29",
                 "FG%": "16",
@@ -221,10 +221,10 @@
                 "3P%": "18",
                 "2P": "27",
                 "2PA": "27",
-                "2P%": "18",
+                "2P%": "17",
                 "FT": "6",
                 "FTA": "7",
-                "FT%": "9",
+                "FT%": "10",
                 "ORB": "22",
                 "DRB": "2",
                 "TRB": "5",
@@ -233,7 +233,7 @@
                 "BLK": "19",
                 "TOV": "23",
                 "PF": "10",
-                "PTS": "25"
+                "PTS": "24"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -266,8 +266,8 @@
                 "PW": "31",
                 "PL": "19",
                 "MOV": "4.16",
-                "SOS": "0.04",
-                "SRS": "4.20",
+                "SOS": "0.01",
+                "SRS": "4.17",
                 "ORtg": "119.3",
                 "DRtg": "115.2",
                 "Pace": "100.2",
@@ -287,7 +287,7 @@
                 "PW": "7",
                 "PL": "7",
                 "MOV": "7",
-                "SOS": "14",
+                "SOS": "16",
                 "SRS": "7",
                 "ORtg": "4",
                 "DRtg": "21",
@@ -296,14 +296,14 @@
                 "3PAr": "30",
                 "eFG%": "15",
                 "TOV%": "24",
-                "ORB%": "7",
+                "ORB%": "9",
                 "FT/FGA": "4",
                 "DRB%": "18",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/DEN-2025.png",
-        "last_update": "Feb 04 2025 22:32:19"
+        "last_update": "Feb 05 2025 22:32:20"
     }
 }

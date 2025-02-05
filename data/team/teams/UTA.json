@@ -37,8 +37,20 @@
             {
                 "Player": "Jalen Hood-Schifino",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Out (Hamstring) - The Jazz listed Hood-Schifino as OUT for Monday's (Feb. 4) game against Indiana."
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Out (Hamstring) - The Jazz listed Hood-Schifino as Out for Wednesday's (Feb. 5) game against the Warriors."
+            },
+            {
+                "Player": "Lauri Markkanen",
+                "Team": "Utah Jazz",
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Back) - The Jazz listed Markkanen as Questionable for Wednesday's (Feb. 5) game against the Warriors."
+            },
+            {
+                "Player": "Collin Sexton",
+                "Team": "Utah Jazz",
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Out (Ankle) - The Jazz announced Sexton suffered a left ankle sprain during the first quarter of Monday's (Feb. 3) game vs Indiana. He will be re-evaluated in one week."
             },
             {
                 "Player": "Cody Williams",
@@ -100,21 +112,21 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "25",
                 "FGA": "21",
-                "FG%": "21",
+                "FG%": "22",
                 "3P": "12",
                 "3PA": "9",
-                "3P%": "17",
+                "3P%": "18",
                 "2P": "24",
                 "2PA": "25",
-                "2P%": "18",
+                "2P%": "19",
                 "FT": "7",
                 "FTA": "9",
-                "FT%": "14",
+                "FT%": "13",
                 "ORB": "7",
-                "DRB": "18",
+                "DRB": "17",
                 "TRB": "8",
                 "AST": "20",
                 "STL": "30",
@@ -200,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "25",
                 "FGA": "24",
                 "FG%": "26",
@@ -213,14 +225,14 @@
                 "FT": "17",
                 "FTA": "20",
                 "FT%": "4",
-                "ORB": "18",
+                "ORB": "19",
                 "DRB": "4",
                 "TRB": "6",
                 "AST": "26",
                 "STL": "30",
                 "BLK": "30",
                 "TOV": "30",
-                "PF": "4",
+                "PF": "5",
                 "PTS": "27"
             },
             "Opp Year/Year": {
@@ -275,7 +287,7 @@
                 "PW": "28",
                 "PL": "27",
                 "MOV": "28",
-                "SOS": "8",
+                "SOS": "7",
                 "SRS": "28",
                 "ORtg": "22",
                 "DRtg": "29",
@@ -292,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/UTA-2025.png",
-        "last_update": "Feb 04 2025 22:32:19"
+        "last_update": "Feb 05 2025 22:32:20"
     }
 }

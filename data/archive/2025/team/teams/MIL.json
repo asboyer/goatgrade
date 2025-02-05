@@ -31,32 +31,32 @@
             {
                 "Player": "Giannis Antetokounmpo",
                 "Team": "Milwaukee Bucks",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Day To Day (Patella) - Antetokounmpo did not play in Monday's (Feb. 3) game against Oklahoma City. "
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Patella) - The Bucks listed Antetokounmpo as Questionable on Wednesday's (Feb. 5) game against the Hornets. "
             },
             {
                 "Player": "Damian Lillard",
                 "Team": "Milwaukee Bucks",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Day To Day (Groin) - Lillard did not play in Monday's (Feb. 3) game against Oklahoma City. "
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Groin) - The Bucks listed Lillard as Questionable on Wednesday's (Feb. 5) game against the Hornets. "
             },
             {
                 "Player": "Brook Lopez",
                 "Team": "Milwaukee Bucks",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Day To Day (Back) - Lopez did not play in Monday's (Feb. 3) game against Oklahoma City. "
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Back) - The Bucks listed Lopez as Probable on Wednesday's (Feb. 5) game against the Hornets. "
             },
             {
                 "Player": "Khris Middleton",
                 "Team": "Milwaukee Bucks",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Day To Day (Ankle) - Middleton did not play in Monday's (Feb. 3) game against Oklahoma City. "
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Ankle) - The Bucks listed Middleton as Probable on Wednesday's (Feb. 5) game against the Hornets. "
             },
             {
                 "Player": "Bobby Portis",
                 "Team": "Milwaukee Bucks",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Day To Day (Personal) - Portis did not play in Monday's (Feb. 3) game against Oklahoma City."
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Personal) - The Bucks listed Portis as Probable on Wednesday's (Feb. 5) game against the Hornets. "
             }
         ],
         "team_stats": {
@@ -112,14 +112,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
-                "FG": "14",
-                "FGA": "22",
-                "FG%": "6",
-                "3P": "6",
+                "MP": "26",
+                "FG": "13",
+                "FGA": "23",
+                "FG%": "7",
+                "3P": "7",
                 "3PA": "16",
                 "3P%": "2",
-                "2P": "17",
+                "2P": "16",
                 "2PA": "17",
                 "2P%": "10",
                 "FT": "23",
@@ -129,9 +129,9 @@
                 "DRB": "2",
                 "TRB": "19",
                 "AST": "19",
-                "STL": "29",
-                "BLK": "12",
-                "TOV": "10",
+                "STL": "28",
+                "BLK": "13",
+                "TOV": "8",
                 "PF": "13",
                 "PTS": "12"
             },
@@ -212,24 +212,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "26",
                 "FG": "11",
                 "FGA": "23",
                 "FG%": "4",
                 "3P": "25",
                 "3PA": "27",
-                "3P%": "10",
+                "3P%": "9",
                 "2P": "5",
                 "2PA": "12",
                 "2P%": "6",
                 "FT": "12",
                 "FTA": "10",
-                "FT%": "26",
+                "FT%": "25",
                 "ORB": "15",
                 "DRB": "28",
                 "TRB": "25",
                 "AST": "10",
-                "STL": "7",
+                "STL": "6",
                 "BLK": "1",
                 "TOV": "27",
                 "PF": "18",
@@ -266,8 +266,8 @@
                 "PW": "26",
                 "PL": "22",
                 "MOV": "1.52",
-                "SOS": "-0.76",
-                "SRS": "0.77",
+                "SOS": "-0.75",
+                "SRS": "0.78",
                 "ORtg": "114.5",
                 "DRtg": "113.0",
                 "Pace": "99.6",
@@ -287,14 +287,14 @@
                 "PW": "12",
                 "PL": "10",
                 "MOV": "11",
-                "SOS": "25",
-                "SRS": "13",
+                "SOS": "24",
+                "SRS": "12",
                 "ORtg": "12",
                 "DRtg": "11",
                 "Pace": "9",
                 "FTr": "10",
                 "3PAr": "14",
-                "eFG%": "8",
+                "eFG%": "6",
                 "TOV%": "25",
                 "ORB%": "30",
                 "FT/FGA": "11",
@@ -304,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/MIL-2025.png",
-        "last_update": "Feb 04 2025 22:32:19"
+        "last_update": "Feb 05 2025 22:32:20"
     }
 }

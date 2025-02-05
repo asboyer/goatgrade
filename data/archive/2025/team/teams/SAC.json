@@ -2,7 +2,7 @@
     "SAC": {
         "info": {
             "record": "25-24",
-            "standing": "9th in West",
+            "standing": "8th in West",
             "coach": "Mike Brown (13-18), Doug Christie (12-6)",
             "gm": "Monte McNair",
             "preseason_odds": "+6600"
@@ -11,39 +11,26 @@
             "Keon Ellis",
             "Domantas Sabonis",
             "Keegan Murray",
-            "De'Aaron Fox",
             "DeMar DeRozan",
-            "Kevin Huerter",
             "Malik Monk",
             "Trey Lyles",
             "Alex Len",
             "Doug McDermott",
-            "Jordan McLaughlin",
             "Isaac Jones",
             "Colby Jones",
             "Devin Carter",
             "Jae Crowder",
             "Mason Jones",
-            "Isaiah Crawford"
+            "Isaiah Crawford",
+            "Zach LaVine",
+            "Sidy Cissoko"
         ],
         "injuries": [
             {
                 "Player": "Zach LaVine",
                 "Team": "Sacramento Kings",
-                "Update": "Sun, Feb 2, 2025",
-                "Description": "Out (Personal) - The Bulls listed LaVine as OUT for Sunday's (Feb. 2) game against Detroit."
-            },
-            {
-                "Player": "Zach LaVine",
-                "Team": "Sacramento Kings",
                 "Update": "Mon, Feb 3, 2025",
-                "Description": "Day To Day (Personal) - LaVine did not play in Sunday's (Feb. 2) game against Detroit."
-            },
-            {
-                "Player": "Doug McDermott",
-                "Team": "Sacramento Kings",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Day To Day (Illness) - McDermott did not play in Wednesday's (Jan. 29) game against the 76ers."
+                "Description": "Day To Day (Personal) - LaVine did not play Monday's (Feb. 3) game against Minnesota."
             }
         ],
         "team_stats": {
@@ -99,7 +86,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "7",
                 "FGA": "6",
                 "FG%": "11",
@@ -110,16 +97,16 @@
                 "2PA": "5",
                 "2P%": "9",
                 "FT": "11",
-                "FTA": "14",
+                "FTA": "13",
                 "FT%": "2",
-                "ORB": "17",
-                "DRB": "11",
+                "ORB": "18",
+                "DRB": "9",
                 "TRB": "13",
                 "AST": "12",
                 "STL": "18",
                 "BLK": "23",
                 "TOV": "4",
-                "PF": "18",
+                "PF": "19",
                 "PTS": "8"
             },
             "Year/Year": {
@@ -199,23 +186,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "14",
                 "FGA": "14",
                 "FG%": "14",
                 "3P": "30",
                 "3PA": "23",
-                "3P%": "28",
+                "3P%": "29",
                 "2P": "4",
-                "2PA": "8",
-                "2P%": "11",
+                "2PA": "7",
+                "2P%": "10",
                 "FT": "24",
                 "FTA": "21",
                 "FT%": "29",
                 "ORB": "6",
                 "DRB": "18",
                 "TRB": "13",
-                "AST": "16",
+                "AST": "17",
                 "STL": "10",
                 "BLK": "7",
                 "TOV": "16",
@@ -253,8 +240,8 @@
                 "PW": "26",
                 "PL": "23",
                 "MOV": "1.22",
-                "SOS": "0.00",
-                "SRS": "1.23",
+                "SOS": "0.03",
+                "SRS": "1.26",
                 "ORtg": "115.9",
                 "DRtg": "114.7",
                 "Pace": "99.4",
@@ -270,18 +257,18 @@
             },
             "Misc Lg Rank": {
                 "W": "14",
-                "L": "14",
+                "L": "15",
                 "PW": "11",
-                "PL": "13",
+                "PL": "12",
                 "MOV": "12",
-                "SOS": "16",
+                "SOS": "14",
                 "SRS": "11",
-                "ORtg": "9",
-                "DRtg": "18",
-                "Pace": "11",
-                "FTr": "20",
+                "ORtg": "8",
+                "DRtg": "19",
+                "Pace": "10",
+                "FTr": "21",
                 "3PAr": "23",
-                "eFG%": "21",
+                "eFG%": "22",
                 "TOV%": "17",
                 "ORB%": "18",
                 "FT/FGA": "24",
@@ -291,6 +278,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/SAC-2025.png",
-        "last_update": "Feb 04 2025 22:32:19"
+        "last_update": "Feb 05 2025 22:32:20"
     }
 }

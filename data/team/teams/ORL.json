@@ -30,8 +30,8 @@
             {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Out (Quad) - The Magic listed Suggs as OUT for Monday's (Feb. 3) game against Golden State."
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Quad) - The Magic listed Suggs as Doubtful for Wednesday's (Feb. 5) game against the Kings."
             },
             {
                 "Player": "Moritz Wagner",
@@ -93,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "30",
                 "FGA": "25",
                 "FG%": "28",
@@ -104,7 +104,7 @@
                 "2PA": "21",
                 "2P%": "20",
                 "FT": "9",
-                "FTA": "7",
+                "FTA": "6",
                 "FT%": "26",
                 "ORB": "10",
                 "DRB": "29",
@@ -193,10 +193,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "2",
                 "FGA": "1",
-                "FG%": "22",
+                "FG%": "24",
                 "3P": "1",
                 "3PA": "1",
                 "3P%": "25",
@@ -209,7 +209,7 @@
                 "ORB": "1",
                 "DRB": "15",
                 "TRB": "2",
-                "AST": "2",
+                "AST": "1",
                 "STL": "13",
                 "BLK": "5",
                 "TOV": "4",
@@ -271,20 +271,20 @@
                 "SOS": "22",
                 "SRS": "20",
                 "ORtg": "29",
-                "DRtg": "3",
+                "DRtg": "2",
                 "Pace": "30",
-                "FTr": "2",
+                "FTr": "1",
                 "3PAr": "12",
-                "eFG%": "17",
+                "eFG%": "16",
                 "TOV%": "2",
-                "ORB%": "13",
+                "ORB%": "14",
                 "FT/FGA": "29",
                 "DRB%": "1",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "15"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/ORL-2025.png",
-        "last_update": "Feb 04 2025 22:32:19"
+        "last_update": "Feb 05 2025 22:32:20"
     }
 }

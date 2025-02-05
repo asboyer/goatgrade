@@ -31,8 +31,8 @@
             {
                 "Player": "Marvin Bagley III",
                 "Team": "Washington Wizards",
-                "Update": "Fri, Jan 24, 2025",
-                "Description": "Out (Knee) - The Wizards announced that Bagley III's absence streak will extend to 17 games as he will miss Saturday's (Jan. 25) game versus the Suns due to a sprained right knee. Until the team provides a timetable his return, he can be considered week-t"
+                "Update": "Fri, Jan 31, 2025",
+                "Description": "Out (Knee) - The Wizards announced on Friday (Jan. 31) that Bagley III has not resumed on-court activities and is considered week-to-week."
             },
             {
                 "Player": "Saddiq Bey",
@@ -43,8 +43,8 @@
             {
                 "Player": "Alex Sarr",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Day To Day (Ankle) - Sarr did not play in Monday's (Feb. 3) game against Charlotte."
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Out (Ankle) - The Wizards listed Sarr as OUT for Wednesday's (Feb. 5) game against the Nets."
             }
         ],
         "team_stats": {
@@ -100,11 +100,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "26",
                 "FGA": "9",
                 "FG%": "29",
-                "3P": "21",
+                "3P": "20",
                 "3PA": "12",
                 "3P%": "29",
                 "2P": "20",
@@ -112,15 +112,15 @@
                 "2P%": "28",
                 "FT": "24",
                 "FTA": "25",
-                "FT%": "18",
-                "ORB": "16",
-                "DRB": "16",
-                "TRB": "18",
+                "FT%": "19",
+                "ORB": "17",
+                "DRB": "15",
+                "TRB": "17",
                 "AST": "24",
                 "STL": "21",
                 "BLK": "10",
-                "TOV": "25",
-                "PF": "26",
+                "TOV": "26",
+                "PF": "25",
                 "PTS": "27"
             },
             "Year/Year": {
@@ -200,19 +200,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "29",
                 "FGA": "27",
                 "FG%": "25",
                 "3P": "29",
-                "3PA": "29",
+                "3PA": "28",
                 "3P%": "19",
                 "2P": "28",
                 "2PA": "23",
                 "2P%": "23",
                 "FT": "29",
                 "FTA": "27",
-                "FT%": "27",
+                "FT%": "26",
                 "ORB": "30",
                 "DRB": "30",
                 "TRB": "30",
@@ -254,8 +254,8 @@
                 "PW": "7",
                 "PL": "42",
                 "MOV": "-14.37",
-                "SOS": "1.59",
-                "SRS": "-12.78",
+                "SOS": "1.57",
+                "SRS": "-12.80",
                 "ORtg": "105.3",
                 "DRtg": "119.4",
                 "Pace": "101.6",
@@ -280,7 +280,7 @@
                 "ORtg": "30",
                 "DRtg": "30",
                 "Pace": "4",
-                "FTr": "25",
+                "FTr": "24",
                 "3PAr": "13",
                 "eFG%": "25",
                 "TOV%": "27",
@@ -288,10 +288,10 @@
                 "FT/FGA": "25",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/WAS-2025.png",
-        "last_update": "Feb 04 2025 22:32:19"
+        "last_update": "Feb 05 2025 22:32:20"
     }
 }

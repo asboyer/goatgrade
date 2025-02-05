@@ -36,8 +36,8 @@
             {
                 "Player": "Julius Randle",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Day To Day (Groin) - Randle did not play in Monday's (Feb. 3) game against Sacramento."
+                "Update": "Sat, Feb 1, 2025",
+                "Description": "Out (Groin) - Head coach Chris Finch said Saturday (Feb. 1) that the Timberwolves are preparing to be without Randle \"for the near future\" due to a right groin strain that he suffered in Thursday's (Jan. 30). There is no clear timetable yet for his return"
             }
         ],
         "team_stats": {
@@ -93,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "13",
                 "FG": "24",
                 "FGA": "27",
                 "FG%": "16",
@@ -102,15 +102,15 @@
                 "3P%": "3",
                 "2P": "28",
                 "2PA": "28",
-                "2P%": "22",
+                "2P%": "23",
                 "FT": "19",
                 "FTA": "22",
                 "FT%": "11",
                 "ORB": "21",
                 "DRB": "19",
-                "TRB": "21",
+                "TRB": "22",
                 "AST": "18",
-                "STL": "15",
+                "STL": "16",
                 "BLK": "17",
                 "TOV": "20",
                 "PF": "8",
@@ -193,9 +193,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "13",
                 "FG": "5",
-                "FGA": "9",
+                "FGA": "10",
                 "FG%": "7",
                 "3P": "4",
                 "3PA": "6",
@@ -208,12 +208,12 @@
                 "FT%": "17",
                 "ORB": "16",
                 "DRB": "5",
-                "TRB": "7",
+                "TRB": "8",
                 "AST": "5",
                 "STL": "22",
                 "BLK": "12",
                 "TOV": "10",
-                "PF": "15",
+                "PF": "16",
                 "PTS": "4"
             },
             "Opp Year/Year": {
@@ -247,8 +247,8 @@
                 "PW": "30",
                 "PL": "20",
                 "MOV": "3.02",
-                "SOS": "0.36",
-                "SRS": "3.38",
+                "SOS": "0.37",
+                "SRS": "3.39",
                 "ORtg": "113.9",
                 "DRtg": "110.8",
                 "Pace": "97.1",
@@ -264,27 +264,27 @@
             },
             "Misc Lg Rank": {
                 "W": "11",
-                "L": "18",
+                "L": "19",
                 "PW": "8",
-                "PL": "9",
-                "MOV": "9",
+                "PL": "8",
+                "MOV": "8",
                 "SOS": "11",
                 "SRS": "8",
                 "ORtg": "14",
                 "DRtg": "7",
-                "Pace": "26",
+                "Pace": "25",
                 "FTr": "17",
                 "3PAr": "4",
-                "eFG%": "6",
-                "TOV%": "9",
+                "eFG%": "5",
+                "TOV%": "10",
                 "ORB%": "15",
                 "FT/FGA": "8",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/MIN-2025.png",
-        "last_update": "Feb 04 2025 22:32:19"
+        "last_update": "Feb 05 2025 22:32:20"
     }
 }

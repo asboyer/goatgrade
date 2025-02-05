@@ -31,8 +31,8 @@
             {
                 "Player": "Bogdan Bogdanović",
                 "Team": "Atlanta Hawks",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Day To Day (Personal) - Bogdanovic did not play in Monday's (Feb. 3) game against Detroit."
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Out (Personal) - Bogdanovic has been ruled OUT for Wednesday's (Feb. 5) game against the Spurs, per Brad Rowland of the Locked On Podcast Network."
             },
             {
                 "Player": "Kobe Bufkin",
@@ -43,8 +43,8 @@
             {
                 "Player": "Clint Capela",
                 "Team": "Atlanta Hawks",
-                "Update": "Thu, Jan 30, 2025",
-                "Description": "Out (Back) - Capela, who has been ruled out ahead of Thursday's (Jan. 30) game versus Cleveland, didn't travel with the Hawks for the start of their three-game road trip, per Brad Rowland of the Locked On Podcast Network."
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Out (Back) - The Hawks listed Capela as OUT for Wednesday's (Feb. 5) game versus the Spurs."
             },
             {
                 "Player": "Jalen Johnson",
@@ -53,10 +53,16 @@
                 "Description": "Out For Season (Shoulder) - Johnson was diagnosed on Wednesday (Jan. 29) with a torn labrum in his left shoulder and will miss the rest of the season, league sources tell NBA reporter Chris Haynes."
             },
             {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Tue, Feb 4, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as Probable for Wednesday's (Feb. 5) game versus the Spurs."
+            },
+            {
                 "Player": "Cody Zeller",
                 "Team": "Atlanta Hawks",
-                "Update": "Wed, Jan 15, 2025",
-                "Description": "Out (Personal) - The Hawks announced Zeller has yet to suit up this season due to personal reasons. Until Atlanta provides a timetable for his return, the veteran big man can be considered out indefinitely."
+                "Update": "Sat, Jan 25, 2025",
+                "Description": "Out (Personal) - The Hawks announced on Saturday (Jan. 25) that Zeller has yet to suit up this season due to personal reasons. Until Atlanta provides a timetable for his return, the veteran big man can be considered out indefinitely."
             }
         ],
         "team_stats": {
@@ -112,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "9",
                 "FG": "9",
                 "FGA": "5",
                 "FG%": "17",
@@ -120,11 +126,11 @@
                 "3PA": "14",
                 "3P%": "25",
                 "2P": "9",
-                "2PA": "7",
-                "2P%": "17",
+                "2PA": "8",
+                "2P%": "18",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "19",
+                "FT%": "21",
                 "ORB": "8",
                 "DRB": "20",
                 "TRB": "9",
@@ -133,7 +139,7 @@
                 "BLK": "11",
                 "TOV": "28",
                 "PF": "14",
-                "PTS": "10"
+                "PTS": "9"
             },
             "Year/Year": {
                 "G": "",
@@ -212,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "9",
                 "FG": "27",
                 "FGA": "22",
                 "FG%": "27",
@@ -220,7 +226,7 @@
                 "3PA": "21",
                 "3P%": "26",
                 "2P": "25",
-                "2PA": "20",
+                "2PA": "19",
                 "2P%": "24",
                 "FT": "19",
                 "FTA": "16",
@@ -266,8 +272,8 @@
                 "PW": "20",
                 "PL": "30",
                 "MOV": "-3.12",
-                "SOS": "0.02",
-                "SRS": "-3.11",
+                "SOS": "0.03",
+                "SRS": "-3.09",
                 "ORtg": "111.5",
                 "DRtg": "114.5",
                 "Pace": "103.3",
@@ -284,26 +290,26 @@
             "Misc Lg Rank": {
                 "W": "20",
                 "L": "10",
-                "PW": "21",
-                "PL": "22",
+                "PW": "22",
+                "PL": "21",
                 "MOV": "21",
                 "SOS": "15",
                 "SRS": "21",
                 "ORtg": "23",
                 "DRtg": "17",
                 "Pace": "2",
-                "FTr": "4",
+                "FTr": "5",
                 "3PAr": "17",
                 "eFG%": "27",
                 "TOV%": "4",
                 "ORB%": "11",
                 "FT/FGA": "17",
-                "DRB%": "10",
+                "DRB%": "9",
                 "Arena": "",
                 "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/ATL-2025.png",
-        "last_update": "Feb 04 2025 22:32:19"
+        "last_update": "Feb 05 2025 22:32:20"
     }
 }
