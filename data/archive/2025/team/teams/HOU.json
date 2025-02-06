@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Steven Adams",
+                "Team": "Houston Rockets",
+                "Update": "Wed, Feb 5, 2025",
+                "Description": "Day To Day (Ankle) - The Rockets listed Adams as Doubtful for Thursday's (Feb. 6) game against the Timberwolves."
+            },
+            {
                 "Player": "Tari Eason",
                 "Team": "Houston Rockets",
                 "Update": "Tue, Feb 4, 2025",
@@ -42,8 +48,8 @@
             {
                 "Player": "Fred VanVleet",
                 "Team": "Houston Rockets",
-                "Update": "Tue, Feb 4, 2025",
-                "Description": "Day To Day (Ankle) - VanVleet did not play in Tuesday's (Feb. 4) game against the Nets."
+                "Update": "Mon, Feb 3, 2025",
+                "Description": "Out (Ankle) - Head coach Ime Udoka said Monday (Feb. 3) that VanVleet is considered week-to-week due to a right ankle strain, per Adam Spolane of Sports Radio 610 Houston."
             }
         ],
         "team_stats": {
@@ -99,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "18",
                 "FG": "14",
                 "FGA": "2",
                 "FG%": "24",
@@ -108,18 +114,18 @@
                 "3P%": "28",
                 "2P": "8",
                 "2PA": "2",
-                "2P%": "27",
+                "2P%": "28",
                 "FT": "10",
                 "FTA": "5",
                 "FT%": "27",
                 "ORB": "1",
-                "DRB": "18",
+                "DRB": "17",
                 "TRB": "1",
                 "AST": "30",
                 "STL": "8",
-                "BLK": "12",
+                "BLK": "11",
                 "TOV": "11",
-                "PF": "21",
+                "PF": "22",
                 "PTS": "13"
             },
             "Year/Year": {
@@ -199,27 +205,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "18",
                 "FG": "4",
-                "FGA": "7",
+                "FGA": "8",
                 "FG%": "6",
                 "3P": "2",
                 "3PA": "2",
                 "3P%": "12",
-                "2P": "11",
-                "2PA": "26",
+                "2P": "12",
+                "2PA": "25",
                 "2P%": "2",
-                "FT": "11",
+                "FT": "12",
                 "FTA": "17",
                 "FT%": "1",
                 "ORB": "12",
                 "DRB": "6",
-                "TRB": "7",
+                "TRB": "8",
                 "AST": "2",
                 "STL": "11",
                 "BLK": "29",
                 "TOV": "7",
-                "PF": "4",
+                "PF": "5",
                 "PTS": "6"
             },
             "Opp Year/Year": {
@@ -253,8 +259,8 @@
                 "PW": "32",
                 "PL": "18",
                 "MOV": "4.82",
-                "SOS": "0.85",
-                "SRS": "5.67",
+                "SOS": "0.88",
+                "SRS": "5.70",
                 "ORtg": "114.3",
                 "DRtg": "109.4",
                 "Pace": "98.6",
@@ -274,23 +280,23 @@
                 "PW": "6",
                 "PL": "6",
                 "MOV": "6",
-                "SOS": "4",
+                "SOS": "3",
                 "SRS": "5",
-                "ORtg": "13",
+                "ORtg": "14",
                 "DRtg": "4",
                 "Pace": "18",
                 "FTr": "11",
                 "3PAr": "28",
                 "eFG%": "3",
-                "TOV%": "8",
+                "TOV%": "7",
                 "ORB%": "1",
-                "FT/FGA": "15",
+                "FT/FGA": "14",
                 "DRB%": "14",
                 "Arena": "",
-                "Attendance": "26"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/HOU-2025.png",
-        "last_update": "Feb 05 2025 22:32:20"
+        "last_update": "Feb 06 2025 22:32:17"
     }
 }

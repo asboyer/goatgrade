@@ -26,7 +26,14 @@
             "JD Davison",
             "Anton Watson"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Jrue Holiday",
+                "Team": "Boston Celtics",
+                "Update": "Wed, Feb 5, 2025",
+                "Description": "Day To Day (Shoulder) - The Celtics listed Holiday as questionable for Thursday's (Feb. 6) game against Dallas."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "51",
@@ -80,28 +87,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "3",
                 "FG": "15",
                 "FGA": "8",
-                "FG%": "20",
+                "FG%": "21",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "11",
+                "3P%": "12",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "7",
-                "FT": "20",
+                "FT": "21",
                 "FTA": "24",
                 "FT%": "8",
                 "ORB": "16",
                 "DRB": "8",
                 "TRB": "11",
                 "AST": "16",
-                "STL": "25",
+                "STL": "24",
                 "BLK": "5",
                 "TOV": "1",
                 "PF": "4",
-                "PTS": "5"
+                "PTS": "6"
             },
             "Year/Year": {
                 "G": "",
@@ -180,16 +187,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
-                "FG": "7",
-                "FGA": "19",
-                "FG%": "2",
+                "MP": "3",
+                "FG": "6",
+                "FGA": "18",
+                "FG%": "3",
                 "3P": "5",
                 "3PA": "8",
                 "3P%": "7",
-                "2P": "12",
-                "2PA": "25",
-                "2P%": "3",
+                "2P": "13",
+                "2PA": "24",
+                "2P%": "4",
                 "FT": "3",
                 "FTA": "3",
                 "FT%": "22",
@@ -200,7 +207,7 @@
                 "STL": "2",
                 "BLK": "2",
                 "TOV": "22",
-                "PF": "15",
+                "PF": "17",
                 "PTS": "5"
             },
             "Opp Year/Year": {
@@ -257,7 +264,7 @@
                 "MOV": "3",
                 "SOS": "26",
                 "SRS": "3",
-                "ORtg": "3",
+                "ORtg": "4",
                 "DRtg": "5",
                 "Pace": "24",
                 "FTr": "25",
@@ -266,12 +273,12 @@
                 "TOV%": "22",
                 "ORB%": "19",
                 "FT/FGA": "3",
-                "DRB%": "6",
+                "DRB%": "7",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/BOS-2025.png",
-        "last_update": "Feb 05 2025 22:32:20"
+        "last_update": "Feb 06 2025 22:32:17"
     }
 }

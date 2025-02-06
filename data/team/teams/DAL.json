@@ -2,7 +2,7 @@
     "DAL": {
         "info": {
             "record": "26-25",
-            "standing": "11th in West",
+            "standing": "8th in West",
             "coach": "Jason Kidd (26-25)",
             "gm": "Nico Harrison",
             "preseason_odds": "+1000"
@@ -10,7 +10,6 @@
         "players": [
             "Spencer Dinwiddie",
             "Daniel Gafford",
-            "Quentin Grimes",
             "Klay Thompson",
             "P.J. Washington",
             "Kyrie Irving",
@@ -23,20 +22,21 @@
             "Brandon Williams",
             "Kylor Kelley",
             "Dante Exum",
-            "Max Christie"
+            "Max Christie",
+            "Caleb Martin"
         ],
         "injuries": [
             {
                 "Player": "Anthony Davis",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Feb 4, 2025",
-                "Description": "Day To Day (Foot) - Davis did not play in Tuesday's (Feb. 4) game against the 76ers."
+                "Update": "Wed, Feb 5, 2025",
+                "Description": "Day To Day (Foot) - The Mavericks listed Davis as questionable for Thursday's (Feb. 6) game against Boston."
             },
             {
                 "Player": "Daniel Gafford",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Feb 4, 2025",
-                "Description": "Day To Day (Shoulder) - Gafford exited to the locker room after sustaining an apparent left shoulder injury in Tuesday's (Feb. 4) game against the 76ers, per Tim Bontemps of ESPN.com."
+                "Update": "Wed, Feb 5, 2025",
+                "Description": "Out (Shoulder) - The Mavericks listed Gafford as OUT for Thursday's (Feb. 6) game against Boston."
             },
             {
                 "Player": "Dereck Lively II",
@@ -47,20 +47,20 @@
             {
                 "Player": "Caleb Martin",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Feb 4, 2025",
-                "Description": "Day To Day (Hip) - Martin did not play in Tuesday's (Feb. 4) game against the 76ers."
+                "Update": "Wed, Feb 5, 2025",
+                "Description": "Out (Hip) - The Mavericks listed Martin as OUT for Thursday's (Feb. 6) game against Boston."
             },
             {
                 "Player": "Dwight Powell",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Feb 4, 2025",
-                "Description": "Out (Hip) - Powell did not play in Tuesday's (Feb. 4) game against the 76ers."
+                "Update": "Wed, Feb 5, 2025",
+                "Description": "Out (Hip) - The Mavericks listed Powell as OUT for Thursday's (Feb. 6) game against Boston."
             },
             {
                 "Player": "P.J. Washington",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Feb 4, 2025",
-                "Description": "Day To Day (Personal) - Washington Jr. did not play in Tuesday's (Feb. 4) game against the 76ers."
+                "Update": "Wed, Feb 5, 2025",
+                "Description": "Out (Personal) - The Mavericks listed Washington Jr. as OUT for Thursday's (Feb. 6) game against Boston."
             }
         ],
         "team_stats": {
@@ -116,24 +116,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "11",
+                "MP": "12",
+                "FG": "10",
                 "FGA": "20",
                 "FG%": "8",
                 "3P": "15",
-                "3PA": "24",
+                "3PA": "23",
                 "3P%": "10",
                 "2P": "10",
                 "2PA": "13",
-                "2P%": "12",
+                "2P%": "13",
                 "FT": "4",
-                "FTA": "4",
-                "FT%": "20",
-                "ORB": "11",
-                "DRB": "10",
+                "FTA": "3",
+                "FT%": "21",
+                "ORB": "12",
+                "DRB": "9",
                 "TRB": "10",
                 "AST": "22",
-                "STL": "19",
+                "STL": "18",
                 "BLK": "4",
                 "TOV": "16",
                 "PF": "15",
@@ -216,23 +216,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "12",
                 "FG": "21",
-                "FGA": "25",
+                "FGA": "24",
                 "FG%": "9",
                 "3P": "11",
                 "3PA": "7",
-                "3P%": "20",
+                "3P%": "21",
                 "2P": "21",
-                "2PA": "28",
-                "2P%": "4",
-                "FT": "15",
+                "2PA": "27",
+                "2P%": "5",
+                "FT": "13",
                 "FTA": "15",
                 "FT%": "9",
-                "ORB": "25",
-                "DRB": "12",
+                "ORB": "27",
+                "DRB": "11",
                 "TRB": "18",
-                "AST": "20",
+                "AST": "19",
                 "STL": "18",
                 "BLK": "11",
                 "TOV": "24",
@@ -270,8 +270,8 @@
                 "PW": "28",
                 "PL": "23",
                 "MOV": "1.92",
-                "SOS": "0.48",
-                "SRS": "2.41",
+                "SOS": "0.54",
+                "SRS": "2.47",
                 "ORtg": "116.0",
                 "DRtg": "114.1",
                 "Pace": "99.2",
@@ -286,19 +286,19 @@
                 "Attendance": "482,078"
             },
             "Misc Lg Rank": {
-                "W": "12",
-                "L": "13",
+                "W": "13",
+                "L": "14",
                 "PW": "10",
                 "PL": "11",
                 "MOV": "10",
-                "SOS": "9",
+                "SOS": "7",
                 "SRS": "10",
                 "ORtg": "7",
-                "DRtg": "14",
+                "DRtg": "13",
                 "Pace": "15",
                 "FTr": "4",
                 "3PAr": "21",
-                "eFG%": "7",
+                "eFG%": "8",
                 "TOV%": "23",
                 "ORB%": "13",
                 "FT/FGA": "12",
@@ -308,6 +308,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/DAL-2025.png",
-        "last_update": "Feb 05 2025 22:32:20"
+        "last_update": "Feb 06 2025 22:32:17"
     }
 }
