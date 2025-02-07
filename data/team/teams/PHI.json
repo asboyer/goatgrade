@@ -30,20 +30,20 @@
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Toe) - Drummond did not play in Wednesday's (Feb. 5) game against the Heat."
-            },
-            {
-                "Player": "Joel Embiid",
-                "Team": "Philadelphia 76ers",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Knee) - Embiid did not play in Wednesday's (Feb. 5) game against the Heat."
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Day To Day (Toe) - The 76ers listed Drummond as Doubtful for Friday's (Feb. 7) game against the Pistons."
             },
             {
                 "Player": "Jared McCain",
                 "Team": "Philadelphia 76ers",
                 "Update": "Thu, Jan 9, 2025",
                 "Description": "Out For Season (Meniscus) - McCain was reviewed Thursday (Jan. 9) by the surgeon who performed surgery on his left knee and is progressing well. The 76ers officially ruled out for the rest of the season, per Kyle Neubeck of AllPHLY.com."
+            },
+            {
+                "Player": "Guerschon Yabusele",
+                "Team": "Philadelphia 76ers",
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Day To Day (Knee) - The 76ers listed Yabusele as Questionable for Friday's (Feb. 7) game against the Pistons."
             }
         ],
         "team_stats": {
@@ -99,18 +99,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "20",
                 "FG": "27",
-                "FGA": "25",
+                "FGA": "26",
                 "FG%": "22",
                 "3P": "20",
-                "3PA": "18",
+                "3PA": "17",
                 "3P%": "20",
                 "2P": "23",
                 "2PA": "19",
                 "2P%": "22",
                 "FT": "6",
-                "FTA": "6",
+                "FTA": "8",
                 "FT%": "15",
                 "ORB": "24",
                 "DRB": "30",
@@ -199,17 +199,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "20",
                 "FG": "13",
                 "FGA": "3",
                 "FG%": "30",
                 "3P": "17",
                 "3PA": "9",
-                "3P%": "25",
+                "3P%": "24",
                 "2P": "11",
                 "2PA": "2",
                 "2P%": "30",
-                "FT": "16",
+                "FT": "15",
                 "FTA": "12",
                 "FT%": "23",
                 "ORB": "6",
@@ -253,8 +253,8 @@
                 "PW": "19",
                 "PL": "31",
                 "MOV": "-3.56",
-                "SOS": "0.30",
-                "SRS": "-3.26",
+                "SOS": "0.26",
+                "SRS": "-3.30",
                 "ORtg": "112.1",
                 "DRtg": "115.8",
                 "Pace": "96.5",
@@ -274,23 +274,23 @@
                 "PW": "23",
                 "PL": "22",
                 "MOV": "23",
-                "SOS": "11",
+                "SOS": "12",
                 "SRS": "22",
                 "ORtg": "20",
-                "DRtg": "22",
+                "DRtg": "23",
                 "Pace": "28",
-                "FTr": "1",
+                "FTr": "3",
                 "3PAr": "15",
                 "eFG%": "30",
                 "TOV%": "3",
                 "ORB%": "24",
-                "FT/FGA": "20",
+                "FT/FGA": "21",
                 "DRB%": "25",
                 "Arena": "",
                 "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/PHI-2025.png",
-        "last_update": "Feb 06 2025 22:32:17"
+        "last_update": "Feb 07 2025 22:32:18"
     }
 }

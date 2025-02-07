@@ -29,12 +29,6 @@
         ],
         "injuries": [
             {
-                "Player": "Bogdan Bogdanović",
-                "Team": "Atlanta Hawks",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Personal) - Bogdanovic did not play in Wednesday's (Feb. 5) game against the Spurs."
-            },
-            {
                 "Player": "Kobe Bufkin",
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Dec 18, 2024",
@@ -43,8 +37,8 @@
             {
                 "Player": "Clint Capela",
                 "Team": "Atlanta Hawks",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Back) - Capela did not play in Wednesday's (Feb. 5) game against the Spurs."
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Out (Back) - The Hawks listed Capela as Out for Friday's (Feb. 7) game against the Bucks."
             },
             {
                 "Player": "Jalen Johnson",
@@ -53,10 +47,10 @@
                 "Description": "Out For Season (Shoulder) - Johnson was diagnosed on Wednesday (Jan. 29) with a torn labrum in his left shoulder and will miss the rest of the season, league sources tell NBA reporter Chris Haynes."
             },
             {
-                "Player": "Cody Zeller",
+                "Player": "Trae Young",
                 "Team": "Atlanta Hawks",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Out (Personal) - The Hawks announced on Saturday (Jan. 25) that Zeller has yet to suit up this season due to personal reasons. Until Atlanta provides a timetable for his return, the veteran big man can be considered out indefinitely."
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as Probable for Friday's (Feb. 7) game against the Bucks."
             }
         ],
         "team_stats": {
@@ -112,28 +106,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "10",
                 "FG": "9",
                 "FGA": "5",
                 "FG%": "17",
                 "3P": "16",
                 "3PA": "14",
-                "3P%": "25",
+                "3P%": "24",
                 "2P": "9",
                 "2PA": "8",
                 "2P%": "17",
                 "FT": "1",
                 "FTA": "2",
-                "FT%": "23",
+                "FT%": "22",
                 "ORB": "8",
-                "DRB": "20",
+                "DRB": "19",
                 "TRB": "9",
                 "AST": "4",
                 "STL": "2",
-                "BLK": "10",
+                "BLK": "11",
                 "TOV": "28",
                 "PF": "14",
-                "PTS": "9"
+                "PTS": "8"
             },
             "Year/Year": {
                 "G": "",
@@ -212,15 +206,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "10",
                 "FG": "27",
                 "FGA": "23",
                 "FG%": "27",
                 "3P": "27",
-                "3PA": "22",
+                "3PA": "23",
                 "3P%": "26",
                 "2P": "25",
-                "2PA": "20",
+                "2PA": "21",
                 "2P%": "24",
                 "FT": "18",
                 "FTA": "16",
@@ -230,7 +224,7 @@
                 "TRB": "22",
                 "AST": "28",
                 "STL": "29",
-                "BLK": "20",
+                "BLK": "19",
                 "TOV": "4",
                 "PF": "3",
                 "PTS": "28"
@@ -266,8 +260,8 @@
                 "PW": "21",
                 "PL": "30",
                 "MOV": "-3.08",
-                "SOS": "-0.01",
-                "SRS": "-3.09",
+                "SOS": "-0.02",
+                "SRS": "-3.10",
                 "ORtg": "111.6",
                 "DRtg": "114.6",
                 "Pace": "103.4",
@@ -287,7 +281,7 @@
                 "PW": "21",
                 "PL": "21",
                 "MOV": "21",
-                "SOS": "15",
+                "SOS": "14",
                 "SRS": "21",
                 "ORtg": "23",
                 "DRtg": "18",
@@ -297,13 +291,13 @@
                 "eFG%": "27",
                 "TOV%": "4",
                 "ORB%": "12",
-                "FT/FGA": "17",
-                "DRB%": "8",
+                "FT/FGA": "16",
+                "DRB%": "9",
                 "Arena": "",
                 "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/ATL-2025.png",
-        "last_update": "Feb 06 2025 22:32:17"
+        "last_update": "Feb 07 2025 22:32:18"
     }
 }

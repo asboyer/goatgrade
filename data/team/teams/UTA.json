@@ -29,22 +29,16 @@
         ],
         "injuries": [
             {
+                "Player": "Jordan Clarkson",
+                "Team": "Utah Jazz",
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Out (Plantar) - The Jazz listed Clarkson as OUT for Friday's (Feb. 7) game against the Suns."
+            },
+            {
                 "Player": "Taylor Hendricks",
                 "Team": "Utah Jazz",
                 "Update": "Wed, Nov 6, 2024",
                 "Description": "Out For Season (Fibula) - Hendricks underwent surgery on Wednesday (Nov. 6) to repair a fractured right fibula and dislocated right ankle, per Andy Larsen of The Salt Lake Tribune."
-            },
-            {
-                "Player": "Jalen Hood-Schifino",
-                "Team": "Utah Jazz",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Hamstring) - Hood-Schifino did not play in Wednesday's (Feb. 5) game against the Warriors."
-            },
-            {
-                "Player": "Lauri Markkanen",
-                "Team": "Utah Jazz",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Back) - Markkanen did not play in Wednesday's (Feb. 5) game against the Warriors."
             },
             {
                 "Player": "Collin Sexton",
@@ -55,8 +49,8 @@
             {
                 "Player": "Cody Williams",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Out (Ankle) - The Jazz announced on Wednesday (Jan. 29) that Williams will be re-evaluated in one week, according to Ben Anderson of KSL News Salt Lake City."
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Day To Day (Ankle) - The Jazz listed Williams as Questionable for Friday's (Feb. 7) game against the Suns."
             }
         ],
         "team_stats": {
@@ -112,10 +106,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "25",
                 "FG": "23",
                 "FGA": "21",
-                "FG%": "20",
+                "FG%": "21",
                 "3P": "11",
                 "3PA": "9",
                 "3P%": "17",
@@ -123,7 +117,7 @@
                 "2PA": "25",
                 "2P%": "18",
                 "FT": "8",
-                "FTA": "8",
+                "FTA": "9",
                 "FT%": "12",
                 "ORB": "7",
                 "DRB": "15",
@@ -132,8 +126,8 @@
                 "STL": "30",
                 "BLK": "17",
                 "TOV": "30",
-                "PF": "17",
-                "PTS": "18"
+                "PF": "19",
+                "PTS": "19"
             },
             "Year/Year": {
                 "G": "",
@@ -212,8 +206,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
-                "FG": "25",
+                "MP": "25",
+                "FG": "26",
                 "FGA": "25",
                 "FG%": "26",
                 "3P": "28",
@@ -232,7 +226,7 @@
                 "STL": "30",
                 "BLK": "30",
                 "TOV": "30",
-                "PF": "4",
+                "PF": "5",
                 "PTS": "26"
             },
             "Opp Year/Year": {
@@ -287,23 +281,23 @@
                 "PW": "28",
                 "PL": "27",
                 "MOV": "28",
-                "SOS": "6",
-                "SRS": "28",
+                "SOS": "7",
+                "SRS": "27",
                 "ORtg": "21",
                 "DRtg": "28",
-                "Pace": "16",
+                "Pace": "15",
                 "FTr": "7",
                 "3PAr": "10",
                 "eFG%": "26",
                 "TOV%": "30",
                 "ORB%": "4",
-                "FT/FGA": "16",
+                "FT/FGA": "15",
                 "DRB%": "17",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/UTA-2025.png",
-        "last_update": "Feb 06 2025 22:32:17"
+        "last_update": "Feb 07 2025 22:32:18"
     }
 }

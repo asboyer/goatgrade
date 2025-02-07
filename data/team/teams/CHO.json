@@ -31,26 +31,20 @@
             {
                 "Player": "LaMelo Ball",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Jan 29, 2025",
-                "Description": "Out (Ankle) - Ball will be re-evaluated in one week after suffering a sprained left ankle in Tuesday's (Jan. 28) win against the Lakers, per Shams Charania of ESPN."
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Day To Day (Ankle) - The Hornets listed Ball as Questionable for Friday's (Feb. 7) game against the Spurs."
+            },
+            {
+                "Player": "Josh Green",
+                "Team": "Charlotte Hornets",
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Day To Day (Calf) - The Hornets listed Green as Probable for Friday's (Feb. 7) game against the Spurs."
             },
             {
                 "Player": "Tre Mann",
                 "Team": "Charlotte Hornets",
                 "Update": "Thu, Jan 30, 2025",
                 "Description": "Out For Season (Back) - Mann has been ruled out for the rest of the 2024-25 season, according to Spencer Percy of Buzz Beat Podcast."
-            },
-            {
-                "Player": "Cody Martin",
-                "Team": "Charlotte Hornets",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Core) - Martin did not play in Wednesday's (Feb. 5) game against the Bucks."
-            },
-            {
-                "Player": "Vasilije Micić",
-                "Team": "Charlotte Hornets",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Ankle) - Micic did not play in Wednesday's (Feb. 5) game against the Bucks."
             },
             {
                 "Player": "Brandon Miller",
@@ -67,8 +61,8 @@
             {
                 "Player": "Cam Reddish",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Personal) - The Lakers listed Reddish as Doubtful for Thursday's (Feb. 6) game against the Warriors."
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Day To Day (Personal) - The Hornets listed Reddish as Doubtful for Friday's (Feb. 7) game against the Spurs."
             },
             {
                 "Player": "Grant Williams",
@@ -130,9 +124,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "28",
-                "FGA": "13",
+                "FGA": "12",
                 "FG%": "30",
                 "3P": "13",
                 "3PA": "5",
@@ -230,11 +224,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "8",
                 "FGA": "6",
                 "FG%": "15",
-                "3P": "10",
+                "3P": "9",
                 "3PA": "24",
                 "3P%": "3",
                 "2P": "9",
@@ -243,10 +237,10 @@
                 "FT": "19",
                 "FTA": "19",
                 "FT%": "16",
-                "ORB": "9",
+                "ORB": "10",
                 "DRB": "19",
                 "TRB": "17",
-                "AST": "12",
+                "AST": "13",
                 "STL": "16",
                 "BLK": "23",
                 "TOV": "19",
@@ -284,8 +278,8 @@
                 "PW": "16",
                 "PL": "32",
                 "MOV": "-5.29",
-                "SOS": "-0.29",
-                "SRS": "-5.58",
+                "SOS": "-0.31",
+                "SRS": "-5.61",
                 "ORtg": "108.7",
                 "DRtg": "114.1",
                 "Pace": "97.7",
@@ -308,20 +302,20 @@
                 "SOS": "21",
                 "SRS": "26",
                 "ORtg": "28",
-                "DRtg": "14",
+                "DRtg": "13",
                 "Pace": "21",
-                "FTr": "26",
+                "FTr": "25",
                 "3PAr": "8",
-                "eFG%": "16",
+                "eFG%": "17",
                 "TOV%": "18",
                 "ORB%": "5",
-                "FT/FGA": "19",
+                "FT/FGA": "20",
                 "DRB%": "10",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/CHO-2025.png",
-        "last_update": "Feb 06 2025 22:32:17"
+        "last_update": "Feb 07 2025 22:32:18"
     }
 }

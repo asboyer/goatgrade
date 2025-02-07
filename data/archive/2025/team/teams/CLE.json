@@ -28,16 +28,22 @@
         ],
         "injuries": [
             {
+                "Player": "Sam Merrill",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Out (Personal) - The Cavaliers listed Merrill as Out for Friday's (Feb. 7) game against the Wizards."
+            },
+            {
                 "Player": "Donovan Mitchell",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Shoulder) - Mitchell did not play in Wednesday's (Feb. 5) game against the Pistons."
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Day To Day (Shoulder) - The Cavaliers listed Mitchell as Probable for Friday's (Feb. 7) game against the Wizards."
             },
             {
                 "Player": "Isaac Okoro",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Shoulder) - Okoro did not play in Wednesday's (Feb. 5) game against the Pistons."
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Out (Shoulder) - The Cavaliers listed Okoro as Out for Friday's (Feb. 7) game against the Wizards."
             },
             {
                 "Player": "Dean Wade",
@@ -99,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "3",
                 "FGA": "11",
                 "FG%": "2",
@@ -109,7 +115,7 @@
                 "2P": "13",
                 "2PA": "23",
                 "2P%": "1",
-                "FT": "20",
+                "FT": "21",
                 "FTA": "23",
                 "FT%": "14",
                 "ORB": "22",
@@ -119,7 +125,7 @@
                 "STL": "12",
                 "BLK": "26",
                 "TOV": "3",
-                "PF": "11",
+                "PF": "12",
                 "PTS": "2"
             },
             "Year/Year": {
@@ -199,15 +205,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "12",
                 "FGA": "20",
                 "FG%": "7",
                 "3P": "13",
-                "3PA": "11",
+                "3PA": "10",
                 "3P%": "20",
-                "2P": "15",
-                "2PA": "26",
+                "2P": "14",
+                "2PA": "25",
                 "2P%": "3",
                 "FT": "9",
                 "FTA": "10",
@@ -219,8 +225,8 @@
                 "STL": "9",
                 "BLK": "6",
                 "TOV": "14",
-                "PF": "20",
-                "PTS": "10"
+                "PF": "19",
+                "PTS": "9"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -253,8 +259,8 @@
                 "PW": "40",
                 "PL": "11",
                 "MOV": "10.33",
-                "SOS": "-0.97",
-                "SRS": "9.37",
+                "SOS": "-0.98",
+                "SRS": "9.35",
                 "ORtg": "122.2",
                 "DRtg": "111.8",
                 "Pace": "100.0",
@@ -291,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/CLE-2025.png",
-        "last_update": "Feb 06 2025 22:32:17"
+        "last_update": "Feb 07 2025 22:32:18"
     }
 }

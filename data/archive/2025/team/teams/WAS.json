@@ -9,7 +9,6 @@
         },
         "players": [
             "Carlton Carrington",
-            "Jonas Valančiūnas",
             "Bilal Coulibaly",
             "Corey Kispert",
             "Kyshawn George",
@@ -25,20 +24,21 @@
             "Marvin Bagley III",
             "Richaun Holmes",
             "Tristan Vukcevic",
-            "Saddiq Bey"
+            "Saddiq Bey",
+            "Sidy Cissoko"
         ],
         "injuries": [
-            {
-                "Player": "Marvin Bagley III",
-                "Team": "Washington Wizards",
-                "Update": "Fri, Jan 31, 2025",
-                "Description": "Out (Knee) - The Wizards announced on Friday (Jan. 31) that Bagley III has not resumed on-court activities and is considered week-to-week."
-            },
             {
                 "Player": "Saddiq Bey",
                 "Team": "Washington Wizards",
                 "Update": "Thu, Jan 30, 2025",
                 "Description": "Out (Knee) - The Wizards haven't provided any updates on Bey's status since training camp, making it difficult to gauge where he stands in his recovery. At this point, Bey doesn't look like he'll be a candidate to make his Wizards debut until after the Al"
+            },
+            {
+                "Player": "Malcolm Brogdon",
+                "Team": "Washington Wizards",
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Out (Foot) - The Wizards listed Brogdon as Out for Friday's (Feb. 7) game against the Cavaliers."
             },
             {
                 "Player": "Khris Middleton",
@@ -50,7 +50,7 @@
                 "Player": "Alex Sarr",
                 "Team": "Washington Wizards",
                 "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Ankle) - Sarr did not play in Wednesday's (Feb. 5) game against the Nets."
+                "Description": "Out (Ankle) - The Wizards listed Sarr as Out for Friday's (Feb. 7) game against the Cavaliers."
             }
         ],
         "team_stats": {
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "23",
                 "FG": "26",
                 "FGA": "10",
                 "FG%": "29",
@@ -115,7 +115,7 @@
                 "3P%": "29",
                 "2P": "20",
                 "2PA": "15",
-                "2P%": "27",
+                "2P%": "28",
                 "FT": "26",
                 "FTA": "25",
                 "FT%": "20",
@@ -124,8 +124,8 @@
                 "TRB": "18",
                 "AST": "23",
                 "STL": "23",
-                "BLK": "11",
-                "TOV": "26",
+                "BLK": "12",
+                "TOV": "25",
                 "PF": "26",
                 "PTS": "27"
             },
@@ -206,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "23",
                 "FG": "28",
                 "FGA": "27",
                 "FG%": "25",
@@ -260,8 +260,8 @@
                 "PW": "8",
                 "PL": "42",
                 "MOV": "-13.74",
-                "SOS": "1.40",
-                "SRS": "-12.34",
+                "SOS": "1.38",
+                "SRS": "-12.36",
                 "ORtg": "105.8",
                 "DRtg": "119.3",
                 "Pace": "101.4",
@@ -286,7 +286,7 @@
                 "ORtg": "30",
                 "DRtg": "30",
                 "Pace": "4",
-                "FTr": "27",
+                "FTr": "26",
                 "3PAr": "12",
                 "eFG%": "25",
                 "TOV%": "27",
@@ -298,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/WAS-2025.png",
-        "last_update": "Feb 06 2025 22:32:17"
+        "last_update": "Feb 07 2025 22:32:18"
     }
 }

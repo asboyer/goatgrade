@@ -13,7 +13,6 @@
             "Jeremiah Robinson-Earl",
             "Brandon Boston Jr.",
             "CJ McCollum",
-            "Daniel Theis",
             "Trey Murphy III",
             "Jordan Hawkins",
             "Dejounte Murray",
@@ -99,11 +98,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "14",
                 "FG": "21",
                 "FGA": "9",
                 "FG%": "25",
-                "3P": "23",
+                "3P": "24",
                 "3PA": "24",
                 "3P%": "23",
                 "2P": "15",
@@ -115,10 +114,10 @@
                 "ORB": "6",
                 "DRB": "27",
                 "TRB": "24",
-                "AST": "21",
+                "AST": "22",
                 "STL": "5",
                 "BLK": "8",
-                "TOV": "15",
+                "TOV": "14",
                 "PF": "9",
                 "PTS": "24"
             },
@@ -199,13 +198,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "14",
                 "FG": "29",
                 "FGA": "22",
                 "FG%": "29",
                 "3P": "26",
                 "3PA": "25",
-                "3P%": "23",
+                "3P%": "22",
                 "2P": "29",
                 "2PA": "16",
                 "2P%": "29",
@@ -253,8 +252,8 @@
                 "PW": "13",
                 "PL": "38",
                 "MOV": "-8.73",
-                "SOS": "0.77",
-                "SRS": "-7.96",
+                "SOS": "0.78",
+                "SRS": "-7.94",
                 "ORtg": "110.4",
                 "DRtg": "119.2",
                 "Pace": "99.2",
@@ -287,10 +286,10 @@
                 "FT/FGA": "9",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/NOP-2025.png",
-        "last_update": "Feb 06 2025 22:32:17"
+        "last_update": "Feb 07 2025 22:32:18"
     }
 }

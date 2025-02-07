@@ -24,26 +24,21 @@
             "Adam Flagler",
             "Alex Ducas",
             "Chet Holmgren",
-            "Nikola Topić"
+            "Nikola Topić",
+            "Daniel Theis"
         ],
         "injuries": [
             {
-                "Player": "Chet Holmgren",
+                "Player": "Ousmane Dieng",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Jan 17, 2025",
-                "Description": "Out (Hip) - The Thunder announced on Friday (Jan. 17) that Holmgren is continuing to progress in his return to play protocol and will be re-evaluated in approximately three to five weeks, per Sr. NBA Writer Marc J. Spears."
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Out (Calf) - The Thunder listed Dieng as Out for Friday's (Feb. 7) game against the Raptors."
             },
             {
                 "Player": "Ajay Mitchell",
                 "Team": "Oklahoma City Thunder",
                 "Update": "Fri, Jan 10, 2025",
                 "Description": "Out (Toe) - The Thunder announced on Friday (Jan. 10) that Mitchell underwent a successful procedure to address a turf toe sprain in his great right toe. He will be re-evaluated 10-12 weeks."
-            },
-            {
-                "Player": "Daniel Theis",
-                "Team": "Oklahoma City Thunder",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Thumb) - Theis did not play in Wednesday's (Feb. 5) game against the Suns."
             },
             {
                 "Player": "Nikola Topić",
@@ -54,8 +49,8 @@
             {
                 "Player": "Cason Wallace",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Shoulder) - Wallace did not play in Wednesday's (Feb. 5) game against the Suns."
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Out (Shoulder) - The Thunder listed Wallace as Out for Friday's (Feb. 7) game against the Raptors."
             }
         ],
         "team_stats": {
@@ -111,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "5",
                 "FGA": "3",
                 "FG%": "10",
@@ -126,7 +121,7 @@
                 "FT%": "1",
                 "ORB": "20",
                 "DRB": "11",
-                "TRB": "15",
+                "TRB": "16",
                 "AST": "15",
                 "STL": "1",
                 "BLK": "6",
@@ -211,12 +206,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "1",
                 "FGA": "4",
                 "FG%": "1",
                 "3P": "3",
-                "3PA": "21",
+                "3PA": "22",
                 "3P%": "1",
                 "2P": "1",
                 "2PA": "1",
@@ -229,7 +224,7 @@
                 "TRB": "25",
                 "AST": "4",
                 "STL": "1",
-                "BLK": "13",
+                "BLK": "12",
                 "TOV": "1",
                 "PF": "24",
                 "PTS": "1"
@@ -265,8 +260,8 @@
                 "PW": "41",
                 "PL": "8",
                 "MOV": "13.02",
-                "SOS": "-0.15",
-                "SRS": "12.87",
+                "SOS": "-0.17",
+                "SRS": "12.86",
                 "ORtg": "117.8",
                 "DRtg": "104.8",
                 "Pace": "99.8",
@@ -303,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/OKC-2025.png",
-        "last_update": "Feb 06 2025 22:32:17"
+        "last_update": "Feb 07 2025 22:32:18"
     }
 }

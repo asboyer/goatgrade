@@ -31,8 +31,20 @@
             {
                 "Player": "Giannis Antetokounmpo",
                 "Team": "Milwaukee Bucks",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Calf) - Antetokounmpo did not play in Wednesday's (Feb. 5) game against the Hornets."
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Day To Day (Calf) - The Bucks listed Antetokounmpo as Questionable for Friday's (Feb. 7) game against the Hawks."
+            },
+            {
+                "Player": "Damian Lillard",
+                "Team": "Milwaukee Bucks",
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Day To Day (Groin) - The Bucks listed Lillard as Probable for Friday's (Feb. 7) game against the Hawks."
+            },
+            {
+                "Player": "Brook Lopez",
+                "Team": "Milwaukee Bucks",
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Day To Day (Knee) - The Bucks listed Lopez as Probable for Friday's (Feb. 7) game against the Hawks."
             }
         ],
         "team_stats": {
@@ -91,7 +103,7 @@
                 "MP": "26",
                 "FG": "12",
                 "FGA": "23",
-                "FG%": "6",
+                "FG%": "7",
                 "3P": "6",
                 "3PA": "16",
                 "3P%": "2",
@@ -103,7 +115,7 @@
                 "FT%": "29",
                 "ORB": "30",
                 "DRB": "2",
-                "TRB": "19",
+                "TRB": "20",
                 "AST": "20",
                 "STL": "29",
                 "BLK": "13",
@@ -191,10 +203,10 @@
                 "MP": "26",
                 "FG": "11",
                 "FGA": "21",
-                "FG%": "4",
+                "FG%": "3",
                 "3P": "25",
                 "3PA": "26",
-                "3P%": "9",
+                "3P%": "10",
                 "2P": "7",
                 "2PA": "12",
                 "2P%": "7",
@@ -242,8 +254,8 @@
                 "PW": "27",
                 "PL": "22",
                 "MOV": "1.69",
-                "SOS": "-0.85",
-                "SRS": "0.84",
+                "SOS": "-0.90",
+                "SRS": "0.79",
                 "ORtg": "114.6",
                 "DRtg": "112.9",
                 "Pace": "99.4",
@@ -259,13 +271,13 @@
             },
             "Misc Lg Rank": {
                 "W": "12",
-                "L": "20",
+                "L": "21",
                 "PW": "11",
                 "PL": "10",
                 "MOV": "11",
                 "SOS": "27",
-                "SRS": "12",
-                "ORtg": "12",
+                "SRS": "11",
+                "ORtg": "13",
                 "DRtg": "11",
                 "Pace": "9",
                 "FTr": "10",
@@ -273,13 +285,13 @@
                 "eFG%": "6",
                 "TOV%": "26",
                 "ORB%": "30",
-                "FT/FGA": "11",
+                "FT/FGA": "12",
                 "DRB%": "6",
                 "Arena": "",
                 "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/MIL-2025.png",
-        "last_update": "Feb 06 2025 22:32:17"
+        "last_update": "Feb 07 2025 22:32:18"
     }
 }

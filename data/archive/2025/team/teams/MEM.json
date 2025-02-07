@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Marvin Bagley III",
+                "Team": "Memphis Grizzlies",
+                "Update": "Fri, Jan 31, 2025",
+                "Description": "Out (Knee) - The Wizards announced on Friday (Jan. 31) that Bagley III has not resumed on-court activities and is considered week-to-week."
+            },
+            {
                 "Player": "Desmond Bane",
                 "Team": "Memphis Grizzlies",
                 "Update": "Tue, Feb 4, 2025",
@@ -100,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "1",
                 "FGA": "1",
                 "FG%": "5",
@@ -115,7 +121,7 @@
                 "FT%": "24",
                 "ORB": "2",
                 "DRB": "3",
-                "TRB": "2",
+                "TRB": "1",
                 "AST": "2",
                 "STL": "6",
                 "BLK": "3",
@@ -200,14 +206,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "18",
                 "FGA": "26",
                 "FG%": "2",
                 "3P": "22",
                 "3PA": "27",
-                "3P%": "6",
-                "2P": "16",
+                "3P%": "5",
+                "2P": "15",
                 "2PA": "22",
                 "2P%": "6",
                 "FT": "27",
@@ -216,12 +222,12 @@
                 "ORB": "25",
                 "DRB": "3",
                 "TRB": "9",
-                "AST": "14",
+                "AST": "15",
                 "STL": "25",
                 "BLK": "24",
                 "TOV": "5",
                 "PF": "1",
-                "PTS": "22"
+                "PTS": "23"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -254,8 +260,8 @@
                 "PW": "37",
                 "PL": "14",
                 "MOV": "8.33",
-                "SOS": "-1.00",
-                "SRS": "7.34",
+                "SOS": "-1.01",
+                "SRS": "7.32",
                 "ORtg": "118.6",
                 "DRtg": "110.7",
                 "Pace": "104.3",
@@ -278,20 +284,20 @@
                 "SOS": "29",
                 "SRS": "4",
                 "ORtg": "5",
-                "DRtg": "6",
+                "DRtg": "5",
                 "Pace": "1",
                 "FTr": "9",
-                "3PAr": "18",
-                "eFG%": "4",
+                "3PAr": "19",
+                "eFG%": "3",
                 "TOV%": "8",
                 "ORB%": "2",
                 "FT/FGA": "22",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/MEM-2025.png",
-        "last_update": "Feb 06 2025 22:32:17"
+        "last_update": "Feb 07 2025 22:32:18"
     }
 }

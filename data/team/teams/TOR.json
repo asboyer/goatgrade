@@ -31,8 +31,8 @@
             {
                 "Player": "RJ Barrett",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Concussion) - Barrett did not play in Wednesday's (Feb. 5) game against the Grizzlies."
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Out (Concussion) - The Raptors listed Barrett as Out for Friday's (Feb. 7) game against the Thunder."
             },
             {
                 "Player": "Brandon Ingram",
@@ -43,8 +43,14 @@
             {
                 "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Hip) - Poeltl did not play in Wednesday's (Feb. 5) game against the Grizzlies."
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Out (Hip) - The Raptors listed Poeltl as Out for Friday's (Feb. 7) game against the Thunder."
+            },
+            {
+                "Player": "James Wiseman",
+                "Team": "Toronto Raptors",
+                "Update": "Fri, Oct 25, 2024",
+                "Description": "Out For Season (Calf) - Wiseman underwent successful surgery to repair a torn left Achilles on Thursday (Oct. 24), per Shams Charania of ESPN."
             }
         ],
         "team_stats": {
@@ -100,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "10",
                 "FG": "11",
                 "FGA": "15",
                 "FG%": "13",
@@ -109,16 +115,16 @@
                 "3P%": "21",
                 "2P": "6",
                 "2PA": "3",
-                "2P%": "20",
+                "2P%": "19",
                 "FT": "28",
-                "FTA": "21",
+                "FTA": "22",
                 "FT%": "28",
                 "ORB": "9",
                 "DRB": "25",
-                "TRB": "21",
+                "TRB": "22",
                 "AST": "6",
                 "STL": "20",
-                "BLK": "25",
+                "BLK": "24",
                 "TOV": "24",
                 "PF": "30",
                 "PTS": "21"
@@ -200,10 +206,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "10",
                 "FG": "19",
                 "FGA": "12",
-                "FG%": "21",
+                "FG%": "22",
                 "3P": "19",
                 "3PA": "15",
                 "3P%": "18",
@@ -212,15 +218,15 @@
                 "2P%": "21",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "6",
+                "FT%": "7",
                 "ORB": "22",
                 "DRB": "12",
                 "TRB": "15",
-                "AST": "14",
+                "AST": "15",
                 "STL": "24",
                 "BLK": "27",
                 "TOV": "15",
-                "PF": "21",
+                "PF": "20",
                 "PTS": "25"
             },
             "Opp Year/Year": {
@@ -254,8 +260,8 @@
                 "PW": "17",
                 "PL": "34",
                 "MOV": "-5.65",
-                "SOS": "1.18",
-                "SRS": "-4.46",
+                "SOS": "1.16",
+                "SRS": "-4.49",
                 "ORtg": "111.2",
                 "DRtg": "116.9",
                 "Pace": "99.4",
@@ -276,7 +282,7 @@
                 "PL": "26",
                 "MOV": "26",
                 "SOS": "2",
-                "SRS": "24",
+                "SRS": "25",
                 "ORtg": "24",
                 "DRtg": "26",
                 "Pace": "10",
@@ -292,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/TOR-2025.png",
-        "last_update": "Feb 06 2025 22:32:17"
+        "last_update": "Feb 07 2025 22:32:18"
     }
 }
