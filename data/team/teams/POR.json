@@ -29,10 +29,22 @@
         ],
         "injuries": [
             {
+                "Player": "Deni Avdija",
+                "Team": "Portland Trail Blazers",
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Hand) - The Trail Blazers listed Avdija as Questionable for Saturday's (Feb. 8) game against the Timberwolves."
+            },
+            {
+                "Player": "Scoot Henderson",
+                "Team": "Portland Trail Blazers",
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Ankle) - The Trail Blazers listed Henderson as Questionable for Saturday's (Feb. 8) game against the Timberwolves."
+            },
+            {
                 "Player": "Matisse Thybulle",
                 "Team": "Portland Trail Blazers",
-                "Update": "Thu, Feb 6, 2025",
-                "Description": "Day To Day (Ankle) - Thybulle did not play in Thursday's (Feb. 6) game against the Kings."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Out (Ankle) - The Trail Blazers listed Thybulle as Out for Saturday's (Feb. 8) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -88,13 +100,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
-                "FG": "22",
+                "MP": "9",
+                "FG": "23",
                 "FGA": "18",
                 "FG%": "23",
                 "3P": "22",
                 "3PA": "20",
-                "3P%": "26",
+                "3P%": "27",
                 "2P": "16",
                 "2PA": "13",
                 "2P%": "24",
@@ -105,10 +117,10 @@
                 "DRB": "26",
                 "TRB": "21",
                 "AST": "27",
-                "STL": "19",
+                "STL": "20",
                 "BLK": "7",
                 "TOV": "27",
-                "PF": "18",
+                "PF": "19",
                 "PTS": "26"
             },
             "Year/Year": {
@@ -188,18 +200,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "9",
                 "FG": "14",
                 "FGA": "9",
                 "FG%": "19",
                 "3P": "6",
                 "3PA": "3",
-                "3P%": "21",
+                "3P%": "20",
                 "2P": "20",
-                "2PA": "18",
+                "2PA": "17",
                 "2P%": "19",
                 "FT": "26",
-                "FTA": "22",
+                "FTA": "23",
                 "FT%": "28",
                 "ORB": "29",
                 "DRB": "7",
@@ -208,7 +220,7 @@
                 "STL": "27",
                 "BLK": "25",
                 "TOV": "8",
-                "PF": "13",
+                "PF": "12",
                 "PTS": "18"
             },
             "Opp Year/Year": {
@@ -242,8 +254,8 @@
                 "PW": "18",
                 "PL": "34",
                 "MOV": "-4.87",
-                "SOS": "0.48",
-                "SRS": "-4.39",
+                "SOS": "0.47",
+                "SRS": "-4.40",
                 "ORtg": "110.8",
                 "DRtg": "115.7",
                 "Pace": "98.2",
@@ -258,28 +270,28 @@
                 "Attendance": "478,210"
             },
             "Misc Lg Rank": {
-                "W": "20",
+                "W": "21",
                 "L": "9",
                 "PW": "24",
                 "PL": "25",
                 "MOV": "24",
                 "SOS": "8",
-                "SRS": "24",
+                "SRS": "25",
                 "ORtg": "25",
-                "DRtg": "22",
+                "DRtg": "23",
                 "Pace": "19",
                 "FTr": "17",
                 "3PAr": "18",
                 "eFG%": "19",
                 "TOV%": "9",
-                "ORB%": "3",
-                "FT/FGA": "26",
+                "ORB%": "4",
+                "FT/FGA": "25",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/POR-2025.png",
-        "last_update": "Feb 07 2025 22:32:18"
+        "last_update": "Feb 08 2025 22:32:22"
     }
 }

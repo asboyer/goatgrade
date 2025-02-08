@@ -19,7 +19,6 @@
             "Neemias Queta",
             "Jordan Walsh",
             "Kristaps Porziņģis",
-            "Jaden Springer",
             "Xavier Tillman Sr.",
             "Drew Peterson",
             "Baylor Scheierman",
@@ -30,8 +29,8 @@
             {
                 "Player": "Jrue Holiday",
                 "Team": "Boston Celtics",
-                "Update": "Thu, Feb 6, 2025",
-                "Description": "Day To Day (Shoulder) - Holiday did not play in Thursday's (Feb. 6) game against the Mavericks."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Out (Shoulder) - The Celtics listed Holiday as Out for Saturday's (Feb. 8) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -96,9 +95,9 @@
                 "3P%": "11",
                 "2P": "30",
                 "2PA": "30",
-                "2P%": "7",
+                "2P%": "8",
                 "FT": "22",
-                "FTA": "24",
+                "FTA": "26",
                 "FT%": "8",
                 "ORB": "17",
                 "DRB": "8",
@@ -189,18 +188,18 @@
                 "G": "",
                 "MP": "2",
                 "FG": "7",
-                "FGA": "17",
+                "FGA": "16",
                 "FG%": "4",
                 "3P": "5",
                 "3PA": "7",
                 "3P%": "7",
                 "2P": "16",
-                "2PA": "24",
+                "2PA": "25",
                 "2P%": "5",
                 "FT": "3",
                 "FTA": "3",
                 "FT%": "22",
-                "ORB": "8",
+                "ORB": "7",
                 "DRB": "23",
                 "TRB": "19",
                 "AST": "3",
@@ -241,8 +240,8 @@
                 "PW": "39",
                 "PL": "13",
                 "MOV": "8.48",
-                "SOS": "-0.73",
-                "SRS": "7.75",
+                "SOS": "-0.69",
+                "SRS": "7.79",
                 "ORtg": "119.5",
                 "DRtg": "110.9",
                 "Pace": "97.1",
@@ -262,23 +261,23 @@
                 "PW": "3",
                 "PL": "3",
                 "MOV": "3",
-                "SOS": "24",
+                "SOS": "23",
                 "SRS": "3",
                 "ORtg": "4",
                 "DRtg": "6",
                 "Pace": "24",
-                "FTr": "27",
+                "FTr": "26",
                 "3PAr": "1",
                 "eFG%": "2",
                 "TOV%": "22",
-                "ORB%": "19",
+                "ORB%": "20",
                 "FT/FGA": "3",
                 "DRB%": "7",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/BOS-2025.png",
-        "last_update": "Feb 07 2025 22:32:18"
+        "last_update": "Feb 08 2025 22:32:22"
     }
 }

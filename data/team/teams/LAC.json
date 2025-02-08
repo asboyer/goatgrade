@@ -13,32 +13,25 @@
             "Derrick Jones Jr.",
             "Nicolas Batum",
             "James Harden",
-            "Kevin Porter Jr.",
             "Kris Dunn",
             "Norman Powell",
-            "Terance Mann",
             "Jordan Miller",
             "Kai Jones",
-            "Bones Hyland",
             "Kobe Brown",
             "Kawhi Leonard",
             "Cam Christie",
             "Trentyn Flowers",
             "Drew Eubanks",
-            "Patty Mills"
+            "Patty Mills",
+            "Bogdan Bogdanović",
+            "MarJon Beauchamp"
         ],
         "injuries": [
             {
                 "Player": "Bogdan Bogdanović",
                 "Team": "Los Angeles Clippers",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Personal) - Bogdanovic did not play in Wednesday's (Feb. 5) game against the Spurs."
-            },
-            {
-                "Player": "Cam Christie",
-                "Team": "Los Angeles Clippers",
-                "Update": "Tue, Feb 4, 2025",
-                "Description": "Day To Day (Ankle) - Christie did not play in Tuesday's (Feb. 4) game against the Lakers."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Out (Personal) - The Clippers listed Bogdanovic as Out for Saturday's (Feb. 8) game against the Jazz."
             }
         ],
         "team_stats": {
@@ -94,13 +87,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
-                "FG": "19",
+                "MP": "17",
+                "FG": "20",
                 "FGA": "24",
                 "FG%": "12",
                 "3P": "25",
                 "3PA": "27",
-                "3P%": "14",
+                "3P%": "15",
                 "2P": "14",
                 "2PA": "14",
                 "2P%": "15",
@@ -112,7 +105,7 @@
                 "TRB": "15",
                 "AST": "25",
                 "STL": "3",
-                "BLK": "24",
+                "BLK": "25",
                 "TOV": "26",
                 "PF": "11",
                 "PTS": "23"
@@ -194,7 +187,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "17",
                 "FG": "3",
                 "FGA": "5",
                 "FG%": "5",
@@ -203,13 +196,13 @@
                 "3P%": "4",
                 "2P": "2",
                 "2PA": "4",
-                "2P%": "17",
+                "2P%": "18",
                 "FT": "8",
                 "FTA": "11",
                 "FT%": "6",
-                "ORB": "3",
+                "ORB": "4",
                 "DRB": "10",
-                "TRB": "4",
+                "TRB": "5",
                 "AST": "6",
                 "STL": "28",
                 "BLK": "9",
@@ -248,8 +241,8 @@
                 "PW": "29",
                 "PL": "22",
                 "MOV": "2.37",
-                "SOS": "0.25",
-                "SRS": "2.62",
+                "SOS": "0.26",
+                "SRS": "2.63",
                 "ORtg": "111.8",
                 "DRtg": "109.3",
                 "Pace": "98.1",
@@ -269,14 +262,14 @@
                 "PW": "9",
                 "PL": "9",
                 "MOV": "9",
-                "SOS": "13",
+                "SOS": "12",
                 "SRS": "10",
                 "ORtg": "22",
                 "DRtg": "3",
                 "Pace": "20",
-                "FTr": "15",
+                "FTr": "14",
                 "3PAr": "23",
-                "eFG%": "8",
+                "eFG%": "7",
                 "TOV%": "6",
                 "ORB%": "17",
                 "FT/FGA": "13",
@@ -286,6 +279,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/LAC-2025.png",
-        "last_update": "Feb 07 2025 22:32:18"
+        "last_update": "Feb 08 2025 22:32:22"
     }
 }

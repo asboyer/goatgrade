@@ -29,8 +29,8 @@
             {
                 "Player": "Anthony Davis",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Feb 6, 2025",
-                "Description": "Day To Day (Foot) - Davis did not play in Thursday's (Feb. 6) game against the Celtics."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Abdomen) - The Mavericks listed Davis as Probable for Saturday's (Feb. 8) game against the Rockets."
             },
             {
                 "Player": "Dereck Lively II",
@@ -41,14 +41,14 @@
             {
                 "Player": "Caleb Martin",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Feb 6, 2025",
-                "Description": "Day To Day (Hip) - Martin did not play in Thursday's (Feb. 6) game against the Celtics."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Out (Hip) - The Mavericks are optimistic that Martin will return to action in 2-to-3 weeks, Tim MacMahon of ESPN.com reports."
             },
             {
                 "Player": "Dwight Powell",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Feb 6, 2025",
-                "Description": "Day To Day (Hip) - Powell did not play in Thursday's (Feb. 6) game against the Celtics."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Out (Hip) - The Mavericks listed Powell as Out for Saturday's (Feb. 8) game against the Rockets."
             },
             {
                 "Player": "P.J. Washington",
@@ -110,7 +110,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "9",
                 "FG": "10",
                 "FGA": "20",
                 "FG%": "8",
@@ -122,9 +122,9 @@
                 "2P%": "12",
                 "FT": "4",
                 "FTA": "5",
-                "FT%": "21",
+                "FT%": "20",
                 "ORB": "14",
-                "DRB": "12",
+                "DRB": "13",
                 "TRB": "12",
                 "AST": "21",
                 "STL": "16",
@@ -210,7 +210,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "9",
                 "FG": "21",
                 "FGA": "24",
                 "FG%": "9",
@@ -219,18 +219,18 @@
                 "3P%": "23",
                 "2P": "21",
                 "2PA": "27",
-                "2P%": "4",
+                "2P%": "3",
                 "FT": "12",
-                "FTA": "14",
+                "FTA": "13",
                 "FT%": "10",
-                "ORB": "26",
+                "ORB": "25",
                 "DRB": "11",
                 "TRB": "18",
-                "AST": "20",
+                "AST": "19",
                 "STL": "17",
                 "BLK": "11",
                 "TOV": "24",
-                "PF": "13",
+                "PF": "12",
                 "PTS": "16"
             },
             "Opp Year/Year": {
@@ -289,19 +289,19 @@
                 "SRS": "9",
                 "ORtg": "7",
                 "DRtg": "15",
-                "Pace": "16",
-                "FTr": "5",
+                "Pace": "15",
+                "FTr": "4",
                 "3PAr": "21",
                 "eFG%": "9",
                 "TOV%": "23",
                 "ORB%": "14",
-                "FT/FGA": "11",
+                "FT/FGA": "12",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/DAL-2025.png",
-        "last_update": "Feb 07 2025 22:32:18"
+        "last_update": "Feb 08 2025 22:32:22"
     }
 }

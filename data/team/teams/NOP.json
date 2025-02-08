@@ -20,10 +20,11 @@
             "Herbert Jones",
             "Antonio Reeves",
             "Jamal Cain",
-            "Brandon Ingram",
             "Zion Williamson",
             "Karlo Matković",
-            "Keion Brooks Jr."
+            "Keion Brooks Jr.",
+            "Kelly Olynyk",
+            "Bruce Brown"
         ],
         "injuries": [
             {
@@ -33,16 +34,34 @@
                 "Description": "Day To Day (Illness) - Alvarado did not play in Wednesday's (Feb. 5) game against the Nuggets."
             },
             {
+                "Player": "Bruce Brown",
+                "Team": "New Orleans Pelicans",
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Out (Trade Pending) - The Pelicans listed Brown as Out for Saturday's (Feb. 8) game against the Kings."
+            },
+            {
                 "Player": "Herbert Jones",
                 "Team": "New Orleans Pelicans",
                 "Update": "Mon, Feb 3, 2025",
                 "Description": "Out (Shoulder) - Jones remains without a timetable as he recovers from a posterior labrum tear in his right shoulder, and was spotted getting up some shots at Monday's (Feb. 3) morning shootaround, as per Will Guillory of The Athletic."
             },
             {
+                "Player": "Karlo Matković",
+                "Team": "New Orleans Pelicans",
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Illness) - The Pelicans listed Matkovic as Questionable for Saturday's (Feb. 8) game against the Kings."
+            },
+            {
                 "Player": "Dejounte Murray",
                 "Team": "New Orleans Pelicans",
                 "Update": "Fri, Jan 31, 2025",
                 "Description": "Out For Season (Leg) - Murray suffered a torn right Achilles tendon during Friday's (Jan. 31) game against the Celtics and will now miss the rest of the season, per Shams Charania of ESPN.com."
+            },
+            {
+                "Player": "Kelly Olynyk",
+                "Team": "New Orleans Pelicans",
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Out (Trade Pending) - The Pelicans listed Olynyk as Out for Saturday's (Feb. 8) game against the Kings."
             }
         ],
         "team_stats": {
@@ -98,9 +117,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "17",
                 "FG": "21",
-                "FGA": "9",
+                "FGA": "10",
                 "FG%": "25",
                 "3P": "24",
                 "3PA": "24",
@@ -111,7 +130,7 @@
                 "FT": "12",
                 "FTA": "11",
                 "FT%": "25",
-                "ORB": "6",
+                "ORB": "7",
                 "DRB": "27",
                 "TRB": "24",
                 "AST": "22",
@@ -198,7 +217,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "17",
                 "FG": "29",
                 "FGA": "22",
                 "FG%": "29",
@@ -206,20 +225,20 @@
                 "3PA": "25",
                 "3P%": "22",
                 "2P": "29",
-                "2PA": "16",
+                "2PA": "15",
                 "2P%": "29",
                 "FT": "10",
                 "FTA": "8",
-                "FT%": "24",
-                "ORB": "28",
-                "DRB": "25",
+                "FT%": "25",
+                "ORB": "27",
+                "DRB": "24",
                 "TRB": "28",
-                "AST": "27",
+                "AST": "25",
                 "STL": "20",
-                "BLK": "21",
+                "BLK": "22",
                 "TOV": "13",
-                "PF": "23",
-                "PTS": "27"
+                "PF": "24",
+                "PTS": "26"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -252,8 +271,8 @@
                 "PW": "13",
                 "PL": "38",
                 "MOV": "-8.73",
-                "SOS": "0.78",
-                "SRS": "-7.94",
+                "SOS": "0.80",
+                "SRS": "-7.93",
                 "ORtg": "110.4",
                 "DRtg": "119.2",
                 "Pace": "99.2",
@@ -268,7 +287,7 @@
                 "Attendance": "429,930"
             },
             "Misc Lg Rank": {
-                "W": "27",
+                "W": "28",
                 "L": "2",
                 "PW": "29",
                 "PL": "29",
@@ -276,13 +295,13 @@
                 "SOS": "5",
                 "SRS": "29",
                 "ORtg": "26",
-                "DRtg": "29",
+                "DRtg": "28",
                 "Pace": "14",
-                "FTr": "14",
+                "FTr": "13",
                 "3PAr": "25",
                 "eFG%": "29",
                 "TOV%": "17",
-                "ORB%": "10",
+                "ORB%": "11",
                 "FT/FGA": "9",
                 "DRB%": "30",
                 "Arena": "",
@@ -290,6 +309,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/NOP-2025.png",
-        "last_update": "Feb 07 2025 22:32:18"
+        "last_update": "Feb 08 2025 22:32:22"
     }
 }

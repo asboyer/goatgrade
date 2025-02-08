@@ -15,7 +15,6 @@
             "Karl-Anthony Towns",
             "Cameron Payne",
             "Miles McBride",
-            "Jericho Sims",
             "Precious Achiuwa",
             "Tyler Kolek",
             "Landry Shamet",
@@ -24,26 +23,39 @@
             "Jacob Toppin",
             "Pacome Dadiet",
             "Kevin McCullar Jr.",
+            "Delon Wright",
             "Mitchell Robinson"
         ],
         "injuries": [
             {
                 "Player": "OG Anunoby",
                 "Team": "New York Knicks",
-                "Update": "Tue, Feb 4, 2025",
-                "Description": "Day To Day (Foot) - Anunoby did not play in Tuesday's (Feb. 4) game against the Raptors."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Foot) - The Knicks listed Anunoby as Doubtful for Saturday's (Feb. 8) game against the Celtics."
             },
             {
                 "Player": "Pacome Dadiet",
                 "Team": "New York Knicks",
-                "Update": "Tue, Feb 4, 2025",
-                "Description": "Day To Day (Toe) - Dadiet did not play in Tuesday's (Feb. 4) game against the Raptors."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Out (Toe) - The Knicks listed Dadiet as Out for Saturday's (Feb. 8) game against the Celtics."
+            },
+            {
+                "Player": "Josh Hart",
+                "Team": "New York Knicks",
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Knee) - The Knicks listed Hart as Probable for Saturday's (Feb. 8) game against the Celtics."
             },
             {
                 "Player": "Mitchell Robinson",
                 "Team": "New York Knicks",
                 "Update": "Mon, Feb 3, 2025",
                 "Description": "Out (Ankle) - HC Thibodeau said Monday (Feb. 3) that Robinson has been cleared for contact activities, according to James L. Edwards III of The Athletic."
+            },
+            {
+                "Player": "Karl-Anthony Towns",
+                "Team": "New York Knicks",
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Knee) - The Knicks listed Towns as Probable for Saturday's (Feb. 8) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -99,24 +111,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "17",
                 "FG": "4",
                 "FGA": "17",
                 "FG%": "3",
-                "3P": "16",
+                "3P": "18",
                 "3PA": "25",
                 "3P%": "6",
                 "2P": "3",
                 "2PA": "7",
                 "2P%": "3",
-                "FT": "14",
+                "FT": "13",
                 "FTA": "19",
                 "FT%": "3",
                 "ORB": "15",
                 "DRB": "24",
                 "TRB": "23",
                 "AST": "10",
-                "STL": "15",
+                "STL": "14",
                 "BLK": "29",
                 "TOV": "4",
                 "PF": "5",
@@ -199,19 +211,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "17",
                 "FG": "16",
                 "FGA": "11",
                 "FG%": "20",
                 "3P": "15",
-                "3PA": "5",
+                "3PA": "4",
                 "3P%": "30",
-                "2P": "18",
-                "2PA": "17",
+                "2P": "17",
+                "2PA": "16",
                 "2P%": "11",
                 "FT": "5",
                 "FTA": "5",
-                "FT%": "27",
+                "FT%": "26",
                 "ORB": "11",
                 "DRB": "1",
                 "TRB": "1",
@@ -219,7 +231,7 @@
                 "STL": "2",
                 "BLK": "14",
                 "TOV": "18",
-                "PF": "9",
+                "PF": "10",
                 "PTS": "8"
             },
             "Opp Year/Year": {
@@ -253,8 +265,8 @@
                 "PW": "35",
                 "PL": "16",
                 "MOV": "6.55",
-                "SOS": "-1.37",
-                "SRS": "5.18",
+                "SOS": "-1.32",
+                "SRS": "5.23",
                 "ORtg": "121.0",
                 "DRtg": "114.3",
                 "Pace": "97.1",
@@ -277,13 +289,13 @@
                 "SOS": "30",
                 "SRS": "6",
                 "ORtg": "2",
-                "DRtg": "14",
+                "DRtg": "13",
                 "Pace": "25",
-                "FTr": "20",
+                "FTr": "21",
                 "3PAr": "26",
                 "eFG%": "22",
                 "TOV%": "14",
-                "ORB%": "8",
+                "ORB%": "9",
                 "FT/FGA": "6",
                 "DRB%": "15",
                 "Arena": "",
@@ -291,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/NYK-2025.png",
-        "last_update": "Feb 07 2025 22:32:18"
+        "last_update": "Feb 08 2025 22:32:22"
     }
 }

@@ -12,7 +12,6 @@
             "Scotty Pippen Jr.",
             "Jaren Jackson Jr.",
             "Brandon Clarke",
-            "Jake LaRavia",
             "Jay Huff",
             "Santi Aldama",
             "Desmond Bane",
@@ -20,37 +19,32 @@
             "Zach Edey",
             "Ja Morant",
             "John Konchar",
-            "Marcus Smart",
             "Yuki Kawamura",
             "Cam Spencer",
             "GG Jackson II",
             "Vince Williams Jr.",
-            "Zyon Pullin"
+            "Zyon Pullin",
+            "Marvin Bagley III",
+            "Johnny Davis"
         ],
         "injuries": [
             {
                 "Player": "Marvin Bagley III",
                 "Team": "Memphis Grizzlies",
-                "Update": "Fri, Jan 31, 2025",
-                "Description": "Out (Knee) - The Wizards announced on Friday (Jan. 31) that Bagley III has not resumed on-court activities and is considered week-to-week."
+                "Update": "Thu, Feb 6, 2025",
+                "Description": "Out (Knee) - The Wizards traded Bagley to the Grizzlies on Thursday (Feb. 6) as part of the Marcus Smart trade, as per ESPN's Shams Charania reports."
             },
             {
                 "Player": "Desmond Bane",
                 "Team": "Memphis Grizzlies",
-                "Update": "Tue, Feb 4, 2025",
-                "Description": "Out (Ankle) - HC Jenkins said Bane has been diagnosed with a left foot sprain following an MRI and will miss some time, as per Damichael Cole of The Memphis Commercial Appeal."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Ankle) - The Grizzlies listed Bane as Questionable for Saturday's (Feb. 8) game against the Thunder."
             },
             {
                 "Player": "Cam Spencer",
                 "Team": "Memphis Grizzlies",
-                "Update": "Fri, Jan 10, 2025",
-                "Description": "Out (Thumb) - The Grizzlies announced that Spencer suffered a fractured thumb and will be re-evaluated in three weeks."
-            },
-            {
-                "Player": "Vince Williams Jr.",
-                "Team": "Memphis Grizzlies",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Ankle) - Williams Jr. did not play in Wednesday's (Feb. 5) game against the Raptors."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Out (Thumb) - The Grizzlies announced that Spencer suffered a fractured thumb. The rookie can be considered week-to-week until the team provides another update on his recovery."
             }
         ],
         "team_stats": {
@@ -106,17 +100,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "22",
                 "FG": "1",
                 "FGA": "1",
                 "FG%": "5",
-                "3P": "8",
+                "3P": "9",
                 "3PA": "13",
                 "3P%": "7",
                 "2P": "2",
                 "2PA": "4",
                 "2P%": "5",
-                "FT": "2",
+                "FT": "1",
                 "FTA": "1",
                 "FT%": "24",
                 "ORB": "2",
@@ -206,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "22",
                 "FG": "18",
                 "FGA": "26",
                 "FG%": "2",
@@ -216,14 +210,14 @@
                 "2P": "15",
                 "2PA": "22",
                 "2P%": "6",
-                "FT": "27",
+                "FT": "28",
                 "FTA": "29",
                 "FT%": "2",
-                "ORB": "25",
+                "ORB": "24",
                 "DRB": "3",
-                "TRB": "9",
+                "TRB": "10",
                 "AST": "15",
-                "STL": "25",
+                "STL": "26",
                 "BLK": "24",
                 "TOV": "5",
                 "PF": "1",
@@ -260,8 +254,8 @@
                 "PW": "37",
                 "PL": "14",
                 "MOV": "8.33",
-                "SOS": "-1.01",
-                "SRS": "7.32",
+                "SOS": "-0.98",
+                "SRS": "7.36",
                 "ORtg": "118.6",
                 "DRtg": "110.7",
                 "Pace": "104.3",
@@ -281,7 +275,7 @@
                 "PW": "4",
                 "PL": "4",
                 "MOV": "4",
-                "SOS": "29",
+                "SOS": "28",
                 "SRS": "4",
                 "ORtg": "5",
                 "DRtg": "5",
@@ -294,10 +288,10 @@
                 "FT/FGA": "22",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/MEM-2025.png",
-        "last_update": "Feb 07 2025 22:32:18"
+        "last_update": "Feb 08 2025 22:32:22"
     }
 }

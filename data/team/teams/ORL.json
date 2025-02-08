@@ -28,18 +28,6 @@
         ],
         "injuries": [
             {
-                "Player": "Kentavious Caldwell-Pope",
-                "Team": "Orlando Magic",
-                "Update": "Thu, Feb 6, 2025",
-                "Description": "Day To Day (Hamstring) - Caldwell-Pope did not play in Thursday's (Feb. 6) game against the Nuggets."
-            },
-            {
-                "Player": "Gary Harris",
-                "Team": "Orlando Magic",
-                "Update": "Thu, Feb 6, 2025",
-                "Description": "Day To Day (Illness) - Harris did not play in Thursday's (Feb. 6) game against the Nuggets."
-            },
-            {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
                 "Update": "Thu, Feb 6, 2025",
@@ -110,15 +98,15 @@
                 "FGA": "27",
                 "FG%": "28",
                 "3P": "30",
-                "3PA": "18",
+                "3PA": "17",
                 "3P%": "30",
                 "2P": "21",
                 "2PA": "21",
-                "2P%": "20",
+                "2P%": "19",
                 "FT": "9",
                 "FTA": "7",
                 "FT%": "26",
-                "ORB": "10",
+                "ORB": "11",
                 "DRB": "29",
                 "TRB": "28",
                 "AST": "28",
@@ -212,14 +200,14 @@
                 "3P": "1",
                 "3PA": "1",
                 "3P%": "25",
-                "2P": "4",
+                "2P": "5",
                 "2PA": "6",
                 "2P%": "15",
                 "FT": "25",
                 "FTA": "26",
-                "FT%": "5",
+                "FT%": "4",
                 "ORB": "1",
-                "DRB": "15",
+                "DRB": "14",
                 "TRB": "2",
                 "AST": "2",
                 "STL": "13",
@@ -260,7 +248,7 @@
                 "PL": "30",
                 "MOV": "-1.74",
                 "SOS": "-0.33",
-                "SRS": "-2.07",
+                "SRS": "-2.06",
                 "ORtg": "107.5",
                 "DRtg": "109.3",
                 "Pace": "96.2",
@@ -275,9 +263,9 @@
                 "Attendance": "445,460"
             },
             "Misc Lg Rank": {
-                "W": "14",
+                "W": "16",
                 "L": "10",
-                "PW": "18",
+                "PW": "19",
                 "PL": "20",
                 "MOV": "20",
                 "SOS": "22",
@@ -297,6 +285,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/ORL-2025.png",
-        "last_update": "Feb 07 2025 22:32:18"
+        "last_update": "Feb 08 2025 22:32:22"
     }
 }

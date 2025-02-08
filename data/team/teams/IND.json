@@ -24,8 +24,7 @@
             "Aaron Nesmith",
             "James Johnson",
             "RayJ Dennis",
-            "Isaiah Jackson",
-            "James Wiseman"
+            "Isaiah Jackson"
         ],
         "injuries": [
             {
@@ -37,8 +36,8 @@
             {
                 "Player": "Myles Turner",
                 "Team": "Indiana Pacers",
-                "Update": "Thu, Feb 6, 2025",
-                "Description": "Day To Day (Concussion) - Turner did not return to Thursday's (Feb. 6) game against the Clippers."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Out (Concussion) - The Pacers listed Turner as Out for Saturday's (Feb. 8) game against the Lakers."
             }
         ],
         "team_stats": {
@@ -94,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "25",
                 "FG": "6",
                 "FGA": "19",
                 "FG%": "4",
@@ -104,7 +103,7 @@
                 "2P": "5",
                 "2PA": "9",
                 "2P%": "4",
-                "FT": "20",
+                "FT": "21",
                 "FTA": "17",
                 "FT%": "18",
                 "ORB": "29",
@@ -113,7 +112,7 @@
                 "AST": "8",
                 "STL": "10",
                 "BLK": "9",
-                "TOV": "7",
+                "TOV": "8",
                 "PF": "16",
                 "PTS": "10"
             },
@@ -194,18 +193,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "25",
                 "FG": "23",
                 "FGA": "15",
-                "FG%": "23",
+                "FG%": "22",
                 "3P": "8",
-                "3PA": "11",
-                "3P%": "12",
+                "3PA": "9",
+                "3P%": "13",
                 "2P": "23",
-                "2PA": "19",
-                "2P%": "22",
-                "FT": "21",
-                "FTA": "23",
+                "2PA": "18",
+                "2P%": "21",
+                "FT": "22",
+                "FTA": "24",
                 "FT%": "9",
                 "ORB": "20",
                 "DRB": "18",
@@ -214,7 +213,7 @@
                 "STL": "7",
                 "BLK": "7",
                 "TOV": "10",
-                "PF": "21",
+                "PF": "19",
                 "PTS": "21"
             },
             "Opp Year/Year": {
@@ -248,8 +247,8 @@
                 "PW": "26",
                 "PL": "24",
                 "MOV": "0.76",
-                "SOS": "-0.75",
-                "SRS": "0.01",
+                "SOS": "-0.74",
+                "SRS": "0.02",
                 "ORtg": "115.5",
                 "DRtg": "114.8",
                 "Pace": "99.7",
@@ -271,7 +270,7 @@
                 "MOV": "12",
                 "SOS": "25",
                 "SRS": "15",
-                "ORtg": "9",
+                "ORtg": "10",
                 "DRtg": "19",
                 "Pace": "8",
                 "FTr": "19",
@@ -280,12 +279,12 @@
                 "TOV%": "12",
                 "ORB%": "29",
                 "FT/FGA": "19",
-                "DRB%": "22",
+                "DRB%": "21",
                 "Arena": "",
                 "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/IND-2025.png",
-        "last_update": "Feb 07 2025 22:32:18"
+        "last_update": "Feb 08 2025 22:32:22"
     }
 }

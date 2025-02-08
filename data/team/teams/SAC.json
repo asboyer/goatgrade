@@ -14,25 +14,17 @@
             "DeMar DeRozan",
             "Malik Monk",
             "Trey Lyles",
-            "Alex Len",
             "Doug McDermott",
             "Isaac Jones",
-            "Colby Jones",
             "Devin Carter",
             "Jae Crowder",
             "Mason Jones",
             "Isaiah Crawford",
             "Zach LaVine",
-            "Jonas Valančiūnas"
+            "Jonas Valančiūnas",
+            "Jake LaRavia"
         ],
-        "injuries": [
-            {
-                "Player": "Zach LaVine",
-                "Team": "Sacramento Kings",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Day To Day (Personal) - LaVine did not play Monday's (Feb. 3) game against Minnesota."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "51",
@@ -86,7 +78,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "7",
                 "FGA": "7",
                 "FG%": "11",
@@ -97,17 +89,17 @@
                 "2PA": "5",
                 "2P%": "9",
                 "FT": "11",
-                "FTA": "13",
+                "FTA": "12",
                 "FT%": "2",
                 "ORB": "18",
                 "DRB": "10",
                 "TRB": "14",
                 "AST": "12",
-                "STL": "18",
+                "STL": "19",
                 "BLK": "23",
                 "TOV": "5",
                 "PF": "17",
-                "PTS": "9"
+                "PTS": "8"
             },
             "Year/Year": {
                 "G": "",
@@ -186,19 +178,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "17",
                 "FGA": "14",
                 "FG%": "16",
                 "3P": "30",
                 "3PA": "21",
                 "3P%": "29",
-                "2P": "3",
+                "2P": "4",
                 "2PA": "7",
-                "2P%": "9",
+                "2P%": "10",
                 "FT": "24",
                 "FTA": "20",
-                "FT%": "30",
+                "FT%": "29",
                 "ORB": "5",
                 "DRB": "17",
                 "TRB": "13",
@@ -206,7 +198,7 @@
                 "STL": "10",
                 "BLK": "8",
                 "TOV": "17",
-                "PF": "16",
+                "PF": "15",
                 "PTS": "22"
             },
             "Opp Year/Year": {
@@ -240,8 +232,8 @@
                 "PW": "27",
                 "PL": "24",
                 "MOV": "0.69",
-                "SOS": "-0.05",
-                "SRS": "0.64",
+                "SOS": "-0.04",
+                "SRS": "0.65",
                 "ORtg": "115.7",
                 "DRtg": "115.0",
                 "Pace": "99.3",
@@ -256,16 +248,16 @@
                 "Attendance": "442,767"
             },
             "Misc Lg Rank": {
-                "W": "14",
-                "L": "12",
+                "W": "16",
+                "L": "13",
                 "PW": "12",
-                "PL": "15",
+                "PL": "14",
                 "MOV": "13",
-                "SOS": "16",
+                "SOS": "15",
                 "SRS": "12",
                 "ORtg": "8",
                 "DRtg": "21",
-                "Pace": "13",
+                "Pace": "12",
                 "FTr": "18",
                 "3PAr": "24",
                 "eFG%": "23",
@@ -278,6 +270,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/SAC-2025.png",
-        "last_update": "Feb 07 2025 22:32:18"
+        "last_update": "Feb 08 2025 22:32:22"
     }
 }

@@ -35,6 +35,12 @@
                 "Description": "Out (Knee) - Cancar will be re-evaluated in eight weeks following a left knee surgery on Wednesday (Dec. 4), per Ryan Blackburn of MileHighSports.com."
             },
             {
+                "Player": "Aaron Gordon",
+                "Team": "Denver Nuggets",
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Calf) - The Nuggets listed Gordon as Probable for Saturday's (Feb. 8) game against the Suns."
+            },
+            {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sat, Jul 13, 2024",
@@ -43,8 +49,14 @@
             {
                 "Player": "Jamal Murray",
                 "Team": "Denver Nuggets",
-                "Update": "Thu, Feb 6, 2025",
-                "Description": "Day To Day (Knee) - Murray did not play in Thursday's (Feb. 6) game against the Magic."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Knee) - The Nuggets listed Murray as Questionable for Saturday's (Feb. 8) game against the Suns."
+            },
+            {
+                "Player": "Michael Porter Jr.",
+                "Team": "Denver Nuggets",
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Hamstring) - The Nuggets listed Porter Jr. as Questionable for Saturday's (Feb. 8) game against the Suns."
             },
             {
                 "Player": "Peyton Watson",
@@ -118,16 +130,16 @@
                 "FG%": "1",
                 "3P": "28",
                 "3PA": "30",
-                "3P%": "4",
+                "3P%": "5",
                 "2P": "1",
                 "2PA": "1",
                 "2P%": "2",
                 "FT": "5",
                 "FTA": "3",
-                "FT%": "23",
-                "ORB": "12",
-                "DRB": "5",
-                "TRB": "5",
+                "FT%": "22",
+                "ORB": "13",
+                "DRB": "4",
+                "TRB": "6",
                 "AST": "1",
                 "STL": "11",
                 "BLK": "19",
@@ -214,20 +226,20 @@
                 "G": "",
                 "MP": "3",
                 "FG": "25",
-                "FGA": "29",
+                "FGA": "28",
                 "FG%": "14",
                 "3P": "23",
                 "3PA": "20",
-                "3P%": "15",
+                "3P%": "16",
                 "2P": "28",
                 "2PA": "28",
                 "2P%": "14",
                 "FT": "7",
                 "FTA": "7",
-                "FT%": "12",
+                "FT%": "11",
                 "ORB": "21",
                 "DRB": "2",
-                "TRB": "3",
+                "TRB": "4",
                 "AST": "30",
                 "STL": "21",
                 "BLK": "20",
@@ -266,8 +278,8 @@
                 "PW": "33",
                 "PL": "19",
                 "MOV": "4.90",
-                "SOS": "-0.21",
-                "SRS": "4.70",
+                "SOS": "-0.20",
+                "SRS": "4.71",
                 "ORtg": "119.6",
                 "DRtg": "114.8",
                 "Pace": "100.2",
@@ -287,23 +299,23 @@
                 "PW": "6",
                 "PL": "7",
                 "MOV": "6",
-                "SOS": "19",
+                "SOS": "18",
                 "SRS": "7",
                 "ORtg": "3",
                 "DRtg": "20",
                 "Pace": "5",
-                "FTr": "8",
+                "FTr": "7",
                 "3PAr": "30",
-                "eFG%": "12",
+                "eFG%": "13",
                 "TOV%": "24",
                 "ORB%": "6",
                 "FT/FGA": "5",
                 "DRB%": "18",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/DEN-2025.png",
-        "last_update": "Feb 07 2025 22:32:18"
+        "last_update": "Feb 08 2025 22:32:22"
     }
 }

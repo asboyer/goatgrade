@@ -28,10 +28,22 @@
         ],
         "injuries": [
             {
+                "Player": "Mike Conley",
+                "Team": "Minnesota Timberwolves",
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Finger) - The Timberwolves listed Conley as Out for Saturday's (Feb. 8) game against the Trail Blazers."
+            },
+            {
                 "Player": "Donte DiVincenzo",
                 "Team": "Minnesota Timberwolves",
                 "Update": "Fri, Jan 24, 2025",
                 "Description": "Out (Toe) - The Timberwolves announced Friday (Jan. 24) that DiVincenzo won't require surgery to address the partial ligament tear in the big toe on his left foot and will be re-evaluated in three weeks."
+            },
+            {
+                "Player": "Anthony Edwards",
+                "Team": "Minnesota Timberwolves",
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Hip) - The Timberwolves listed Edwards as Questionable for Saturday's (Feb. 8) game against the Trail Blazers."
             },
             {
                 "Player": "Julius Randle",
@@ -93,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "8",
                 "FG": "24",
                 "FGA": "25",
                 "FG%": "16",
@@ -104,17 +116,17 @@
                 "2PA": "28",
                 "2P%": "23",
                 "FT": "17",
-                "FTA": "21",
+                "FTA": "20",
                 "FT%": "9",
                 "ORB": "16",
-                "DRB": "20",
-                "TRB": "19",
-                "AST": "18",
+                "DRB": "21",
+                "TRB": "17",
+                "AST": "19",
                 "STL": "17",
                 "BLK": "15",
                 "TOV": "20",
                 "PF": "8",
-                "PTS": "18"
+                "PTS": "19"
             },
             "Year/Year": {
                 "G": "",
@@ -193,27 +205,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "8",
                 "FG": "5",
-                "FGA": "7",
+                "FGA": "8",
                 "FG%": "8",
-                "3P": "4",
+                "3P": "3",
                 "3PA": "6",
                 "3P%": "6",
                 "2P": "8",
-                "2PA": "13",
+                "2PA": "12",
                 "2P%": "8",
                 "FT": "6",
                 "FTA": "6",
                 "FT%": "14",
                 "ORB": "13",
                 "DRB": "5",
-                "TRB": "7",
+                "TRB": "6",
                 "AST": "5",
                 "STL": "22",
-                "BLK": "13",
-                "TOV": "12",
-                "PF": "15",
+                "BLK": "12",
+                "TOV": "11",
+                "PF": "14",
                 "PTS": "4"
             },
             "Opp Year/Year": {
@@ -247,8 +259,8 @@
                 "PW": "32",
                 "PL": "20",
                 "MOV": "3.52",
-                "SOS": "0.36",
-                "SRS": "3.88",
+                "SOS": "0.38",
+                "SRS": "3.90",
                 "ORtg": "114.7",
                 "DRtg": "111.1",
                 "Pace": "97.0",
@@ -268,7 +280,7 @@
                 "PW": "8",
                 "PL": "8",
                 "MOV": "8",
-                "SOS": "11",
+                "SOS": "9",
                 "SRS": "8",
                 "ORtg": "12",
                 "DRtg": "7",
@@ -281,10 +293,10 @@
                 "FT/FGA": "8",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/MIN-2025.png",
-        "last_update": "Feb 07 2025 22:32:18"
+        "last_update": "Feb 08 2025 22:32:22"
     }
 }

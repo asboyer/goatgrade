@@ -24,6 +24,7 @@
             "Jeff Green",
             "Jeenathan Williams",
             "Jack McVeigh",
+            "Cody Zeller",
             "N'Faly Dante"
         ],
         "injuries": [
@@ -32,12 +33,6 @@
                 "Team": "Houston Rockets",
                 "Update": "Thu, Feb 6, 2025",
                 "Description": "Day To Day (Ankle) - Adams did not play in Thursday's (Feb. 6) game against the Timberwolves."
-            },
-            {
-                "Player": "Tari Eason",
-                "Team": "Houston Rockets",
-                "Update": "Tue, Feb 4, 2025",
-                "Description": "Day To Day (Leg) - Eason did not play in Tuesday's (Feb. 4) game against the Nets."
             },
             {
                 "Player": "Jabari Smith Jr.",
@@ -111,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "16",
                 "FG": "14",
                 "FGA": "2",
                 "FG%": "24",
@@ -120,7 +115,7 @@
                 "3P%": "28",
                 "2P": "8",
                 "2PA": "2",
-                "2P%": "27",
+                "2P%": "28",
                 "FT": "10",
                 "FTA": "4",
                 "FT%": "27",
@@ -132,7 +127,7 @@
                 "BLK": "10",
                 "TOV": "11",
                 "PF": "22",
-                "PTS": "13"
+                "PTS": "14"
             },
             "Year/Year": {
                 "G": "",
@@ -211,15 +206,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "16",
                 "FG": "4",
                 "FGA": "10",
                 "FG%": "6",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "13",
+                "3P%": "15",
                 "2P": "12",
-                "2PA": "25",
+                "2PA": "26",
                 "2P%": "2",
                 "FT": "13",
                 "FTA": "17",
@@ -265,8 +260,8 @@
                 "PW": "32",
                 "PL": "19",
                 "MOV": "4.47",
-                "SOS": "0.93",
-                "SRS": "5.40",
+                "SOS": "0.95",
+                "SRS": "5.42",
                 "ORtg": "114.4",
                 "DRtg": "109.9",
                 "Pace": "98.5",
@@ -291,7 +286,7 @@
                 "ORtg": "14",
                 "DRtg": "4",
                 "Pace": "18",
-                "FTr": "11",
+                "FTr": "10",
                 "3PAr": "28",
                 "eFG%": "4",
                 "TOV%": "7",
@@ -299,10 +294,10 @@
                 "FT/FGA": "14",
                 "DRB%": "14",
                 "Arena": "",
-                "Attendance": "27"
+                "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/HOU-2025.png",
-        "last_update": "Feb 07 2025 22:32:18"
+        "last_update": "Feb 08 2025 22:32:22"
     }
 }

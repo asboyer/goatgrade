@@ -31,26 +31,26 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Knee) - Ball did not play in Wednesday's (Feb. 5) game against the Timberwolves."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Knee) - The Bulls listed Ball as Questionable for Saturday's (Feb. 8) game against the Warriors."
             },
             {
                 "Player": "Talen Horton-Tucker",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Leg) - Horton-Tucker did not play in Wednesday's (Feb. 5) game against the Timberwolves."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Leg) - The Bulls listed Horton-Tucker as Questionable for Saturday's (Feb. 8) game against the Warriors."
             },
             {
                 "Player": "Adama Sanogo",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Knee) - Sanogo did not play in Wednesday's (Feb. 5) game against the Timberwolves."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Out (Knee) - The Bulls listed Sanogo as Out for Saturday's (Feb. 8) game against the Warriors."
             },
             {
                 "Player": "Dalen Terry",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Day To Day (Knee) - Terry did not play in Wednesday's (Feb. 5) game against the Timberwolves."
+                "Update": "Fri, Feb 7, 2025",
+                "Description": "Day To Day (Knee) - The Bulls listed Terry as Questionable for Saturday's (Feb. 8) game against the Warriors."
             }
         ],
         "team_stats": {
@@ -106,22 +106,22 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "9",
                 "FG": "8",
                 "FGA": "4",
-                "FG%": "15",
+                "FG%": "14",
                 "3P": "3",
                 "3PA": "2",
                 "3P%": "8",
                 "2P": "19",
-                "2PA": "24",
+                "2PA": "25",
                 "2P%": "13",
                 "FT": "29",
                 "FTA": "30",
                 "FT%": "5",
                 "ORB": "25",
                 "DRB": "1",
-                "TRB": "5",
+                "TRB": "6",
                 "AST": "3",
                 "STL": "28",
                 "BLK": "21",
@@ -206,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "9",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "21",
@@ -217,14 +217,14 @@
                 "2PA": "30",
                 "2P%": "27",
                 "FT": "14",
-                "FTA": "13",
-                "FT%": "15",
-                "ORB": "16",
+                "FTA": "12",
+                "FT%": "16",
+                "ORB": "15",
                 "DRB": "29",
                 "TRB": "29",
                 "AST": "29",
                 "STL": "14",
-                "BLK": "17",
+                "BLK": "16",
                 "TOV": "29",
                 "PF": "30",
                 "PTS": "29"
@@ -260,8 +260,8 @@
                 "PW": "21",
                 "PL": "31",
                 "MOV": "-3.44",
-                "SOS": "-0.30",
-                "SRS": "-3.74",
+                "SOS": "-0.27",
+                "SRS": "-3.71",
                 "ORtg": "113.0",
                 "DRtg": "116.3",
                 "Pace": "103.1",
@@ -277,9 +277,9 @@
             },
             "Misc Lg Rank": {
                 "W": "22",
-                "L": "7",
+                "L": "8",
                 "PW": "22",
-                "PL": "23",
+                "PL": "22",
                 "MOV": "22",
                 "SOS": "20",
                 "SRS": "23",
@@ -288,7 +288,7 @@
                 "Pace": "3",
                 "FTr": "30",
                 "3PAr": "2",
-                "eFG%": "16",
+                "eFG%": "17",
                 "TOV%": "29",
                 "ORB%": "28",
                 "FT/FGA": "7",
@@ -298,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/CHI-2025.png",
-        "last_update": "Feb 07 2025 22:32:18"
+        "last_update": "Feb 08 2025 22:32:22"
     }
 }
