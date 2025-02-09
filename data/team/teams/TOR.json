@@ -29,20 +29,20 @@
             {
                 "Player": "RJ Barrett",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Feb 7, 2025",
-                "Description": "Day To Day (Concussion) - Barrett did not play in Friday's (Feb. 7) game against the Thunder."
+                "Update": "Sat, Feb 8, 2025",
+                "Description": "Out (Concussion) - The Raptors listed Barrett as Out for Sunday's (Feb. 8) game against the Rockets."
             },
             {
                 "Player": "Brandon Ingram",
                 "Team": "Toronto Raptors",
-                "Update": "Thu, Jan 23, 2025",
-                "Description": "Out (Ankle) - The Pelicans announced that Ingram is OUT for Friday's (Jan. 24) game versus the Grizzlies and has not been cleared for contact drills yet, per Will Guillory of The Athletic."
+                "Update": "Sat, Feb 8, 2025",
+                "Description": "Out (Ankle) - The Raptors listed Ingram as Out for Sunday's (Feb. 8) game against the Rockets."
             },
             {
                 "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Feb 7, 2025",
-                "Description": "Day To Day (Hip) - Poeltl did not play in Friday's (Feb. 7) game against the Thunder."
+                "Update": "Sat, Feb 8, 2025",
+                "Description": "Out (Hip) - The Raptors listed Poeltl as Out for Sunday's (Feb. 8) game against the Rockets."
             },
             {
                 "Player": "P.J. Tucker",
@@ -104,7 +104,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "12",
                 "FG": "11",
                 "FGA": "15",
                 "FG%": "13",
@@ -120,8 +120,8 @@
                 "ORB": "9",
                 "DRB": "25",
                 "TRB": "22",
-                "AST": "6",
-                "STL": "17",
+                "AST": "5",
+                "STL": "19",
                 "BLK": "24",
                 "TOV": "24",
                 "PF": "30",
@@ -204,24 +204,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
-                "FG": "19",
+                "MP": "12",
+                "FG": "18",
                 "FGA": "12",
-                "FG%": "23",
-                "3P": "19",
+                "FG%": "21",
+                "3P": "16",
                 "3PA": "15",
                 "3P%": "18",
                 "2P": "18",
                 "2PA": "8",
-                "2P%": "22",
+                "2P%": "21",
                 "FT": "30",
                 "FTA": "30",
                 "FT%": "7",
-                "ORB": "22",
+                "ORB": "21",
                 "DRB": "13",
                 "TRB": "15",
                 "AST": "14",
-                "STL": "24",
+                "STL": "25",
                 "BLK": "28",
                 "TOV": "16",
                 "PF": "21",
@@ -282,20 +282,20 @@
                 "SOS": "2",
                 "SRS": "24",
                 "ORtg": "24",
-                "DRtg": "27",
-                "Pace": "10",
+                "DRtg": "26",
+                "Pace": "12",
                 "FTr": "22",
                 "3PAr": "29",
-                "eFG%": "24",
+                "eFG%": "23",
                 "TOV%": "18",
                 "ORB%": "8",
                 "FT/FGA": "30",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/TOR-2025.png",
-        "last_update": "Feb 08 2025 22:32:22"
+        "last_update": "Feb 09 2025 22:32:20"
     }
 }

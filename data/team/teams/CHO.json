@@ -31,14 +31,8 @@
             {
                 "Player": "Josh Green",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Feb 7, 2025",
-                "Description": "Day To Day (Calf) - Green did not play in Friday's (Feb. 7) game against the Spurs."
-            },
-            {
-                "Player": "Dalton Knecht",
-                "Team": "Charlotte Hornets",
-                "Update": "Fri, Feb 7, 2025",
-                "Description": "Day To Day (Trade Pending) - Knecht did not play in Friday's (Feb. 7) game against the Spurs."
+                "Update": "Sat, Feb 8, 2025",
+                "Description": "Out (Calf) - The Hornets listed Green as Out for Sunday's (Feb. 9) game against the Pistons."
             },
             {
                 "Player": "Tre Mann",
@@ -55,8 +49,8 @@
             {
                 "Player": "Jusuf Nurkić",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Feb 7, 2025",
-                "Description": "Day To Day (Trade Pending) - Nurkic did not play in Friday's (Feb. 7) game against the Spurs."
+                "Update": "Sat, Feb 8, 2025",
+                "Description": "Day To Day (Trade Pending) - The Hornets listed Nurkic as Questionable for Sunday's (Feb. 9) game against the Pistons."
             },
             {
                 "Player": "Josh Okogie",
@@ -65,16 +59,22 @@
                 "Description": "Out (Hamstring) - The Hornets announced on Saturday (Feb. 1) that Okogie underwent an additional evaluation that revealed a left hamstring strain and he will be re-evaluated in three weeks."
             },
             {
-                "Player": "Cam Reddish",
+                "Player": "Nick Smith Jr.",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Feb 7, 2025",
-                "Description": "Day To Day (Personal) - Reddish did not play in Friday's (Feb. 7) game against the Spurs."
+                "Update": "Sat, Feb 8, 2025",
+                "Description": "Day To Day (Back) - The Hornets listed Smith Jr. as Questionable for Sunday's (Feb. 9) game against the Pistons."
             },
             {
                 "Player": "Grant Williams",
                 "Team": "Charlotte Hornets",
                 "Update": "Wed, Dec 11, 2024",
                 "Description": "Out For Season (ACL) - The Hornets announced on Wednesday (Dec. 11) that Williams underwent successful surgery to repair multiple tears in his knee, including the ACL, per ESPN's Shams Charania. He is expected to return in 9 to 12 months."
+            },
+            {
+                "Player": "Mark Williams",
+                "Team": "Charlotte Hornets",
+                "Update": "Sat, Feb 8, 2025",
+                "Description": "Day To Day (Trade Pending) - Williams did not play in Saturday's (Feb. 8) game against the Pacers."
             }
         ],
         "team_stats": {
@@ -130,25 +130,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "30",
                 "FG": "28",
                 "FGA": "12",
                 "FG%": "30",
-                "3P": "11",
+                "3P": "12",
                 "3PA": "5",
-                "3P%": "26",
+                "3P%": "25",
                 "2P": "27",
                 "2PA": "17",
                 "2P%": "30",
                 "FT": "28",
                 "FTA": "28",
-                "FT%": "17",
+                "FT%": "18",
                 "ORB": "3",
-                "DRB": "20",
+                "DRB": "19",
                 "TRB": "3",
                 "AST": "26",
                 "STL": "15",
-                "BLK": "22",
+                "BLK": "23",
                 "TOV": "21",
                 "PF": "21",
                 "PTS": "28"
@@ -230,24 +230,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "28",
-                "FG": "8",
+                "MP": "30",
+                "FG": "9",
                 "FGA": "6",
                 "FG%": "15",
-                "3P": "9",
-                "3PA": "23",
+                "3P": "10",
+                "3PA": "22",
                 "3P%": "3",
-                "2P": "9",
+                "2P": "10",
                 "2PA": "5",
                 "2P%": "26",
                 "FT": "20",
                 "FTA": "19",
                 "FT%": "17",
                 "ORB": "10",
-                "DRB": "19",
+                "DRB": "18",
                 "TRB": "14",
                 "AST": "13",
-                "STL": "15",
+                "STL": "16",
                 "BLK": "23",
                 "TOV": "19",
                 "PF": "16",
@@ -284,8 +284,8 @@
                 "PW": "17",
                 "PL": "32",
                 "MOV": "-5.16",
-                "SOS": "-0.32",
-                "SRS": "-5.48",
+                "SOS": "-0.36",
+                "SRS": "-5.52",
                 "ORtg": "109.0",
                 "DRtg": "114.3",
                 "Pace": "97.6",
@@ -303,25 +303,25 @@
                 "W": "27",
                 "L": "4",
                 "PW": "26",
-                "PL": "24",
+                "PL": "23",
                 "MOV": "25",
                 "SOS": "21",
                 "SRS": "26",
                 "ORtg": "27",
-                "DRtg": "14",
+                "DRtg": "13",
                 "Pace": "22",
                 "FTr": "27",
-                "3PAr": "8",
+                "3PAr": "9",
                 "eFG%": "16",
                 "TOV%": "19",
                 "ORB%": "5",
-                "FT/FGA": "20",
+                "FT/FGA": "19",
                 "DRB%": "10",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/CHO-2025.png",
-        "last_update": "Feb 08 2025 22:32:22"
+        "last_update": "Feb 09 2025 22:32:20"
     }
 }
