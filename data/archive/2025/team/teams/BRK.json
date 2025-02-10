@@ -53,6 +53,12 @@
                 "Description": "Out For Season (ACL) - Melton will undergo season-ending surgery on his left ACL, the team announced Wednesday (Nov. 20)."
             },
             {
+                "Player": "D'Angelo Russell",
+                "Team": "Brooklyn Nets",
+                "Update": "Sun, Feb 9, 2025",
+                "Description": "Day To Day (Illness) - The Nets listed Russell as questionable for Monday's (Feb. 9) game against Charlotte."
+            },
+            {
                 "Player": "Cam Thomas",
                 "Team": "Brooklyn Nets",
                 "Update": "Fri, Jan 31, 2025",
@@ -112,13 +118,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "15",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "27",
                 "3P": "14",
                 "3PA": "12",
-                "3P%": "21",
+                "3P%": "20",
                 "2P": "29",
                 "2PA": "29",
                 "2P%": "27",
@@ -212,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "15",
                 "FG": "6",
                 "FGA": "2",
                 "FG%": "28",
@@ -227,12 +233,12 @@
                 "FT%": "8",
                 "ORB": "2",
                 "DRB": "15",
-                "TRB": "9",
+                "TRB": "8",
                 "AST": "21",
-                "STL": "17",
+                "STL": "16",
                 "BLK": "26",
-                "TOV": "9",
-                "PF": "8",
+                "TOV": "8",
+                "PF": "7",
                 "PTS": "8"
             },
             "Opp Year/Year": {
@@ -266,8 +272,8 @@
                 "PW": "16",
                 "PL": "36",
                 "MOV": "-6.44",
-                "SOS": "0.32",
-                "SRS": "-6.12",
+                "SOS": "0.33",
+                "SRS": "-6.11",
                 "ORtg": "108.9",
                 "DRtg": "115.5",
                 "Pace": "96.1",
@@ -298,12 +304,12 @@
                 "TOV%": "6",
                 "ORB%": "22",
                 "FT/FGA": "27",
-                "DRB%": "11",
+                "DRB%": "10",
                 "Arena": "",
-                "Attendance": "27"
+                "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/BRK-2025.png",
-        "last_update": "Feb 09 2025 22:32:20"
+        "last_update": "Feb 10 2025 22:32:20"
     }
 }

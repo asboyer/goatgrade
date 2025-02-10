@@ -30,8 +30,8 @@
             {
                 "Player": "Mike Conley",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Finger) - Conley did not play in Saturday's (Feb. 8) game against the Trail Blazers."
+                "Update": "Sun, Feb 9, 2025",
+                "Description": "Day To Day (Finger) - The Timberwolves listed Conley as questionable for Monday's (Feb. 9) game against Cleveland."
             },
             {
                 "Player": "Donte DiVincenzo",
@@ -42,8 +42,8 @@
             {
                 "Player": "Anthony Edwards",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Hip) - Edwards did not play in Saturday's (Feb. 8) game against the Trail Blazers."
+                "Update": "Sun, Feb 9, 2025",
+                "Description": "Day To Day (Hip) - The Timberwolves listed Edwards as questionable for Monday's (Feb. 9) game against Cleveland."
             },
             {
                 "Player": "Julius Randle",
@@ -105,14 +105,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "23",
                 "FGA": "25",
                 "FG%": "16",
                 "3P": "5",
                 "3PA": "7",
                 "3P%": "3",
-                "2P": "28",
+                "2P": "27",
                 "2PA": "28",
                 "2P%": "22",
                 "FT": "17",
@@ -120,10 +120,10 @@
                 "FT%": "12",
                 "ORB": "20",
                 "DRB": "20",
-                "TRB": "19",
+                "TRB": "20",
                 "AST": "20",
                 "STL": "18",
-                "BLK": "18",
+                "BLK": "17",
                 "TOV": "20",
                 "PF": "8",
                 "PTS": "20"
@@ -205,9 +205,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "5",
-                "FGA": "10",
+                "FGA": "9",
                 "FG%": "7",
                 "3P": "3",
                 "3PA": "6",
@@ -259,7 +259,7 @@
                 "PW": "33",
                 "PL": "20",
                 "MOV": "3.75",
-                "SOS": "0.29",
+                "SOS": "0.30",
                 "SRS": "4.05",
                 "ORtg": "114.7",
                 "DRtg": "110.8",
@@ -277,18 +277,18 @@
             "Misc Lg Rank": {
                 "W": "9",
                 "L": "19",
-                "PW": "7",
+                "PW": "8",
                 "PL": "8",
                 "MOV": "8",
                 "SOS": "10",
                 "SRS": "8",
-                "ORtg": "12",
+                "ORtg": "13",
                 "DRtg": "5",
                 "Pace": "25",
                 "FTr": "14",
                 "3PAr": "5",
                 "eFG%": "5",
-                "TOV%": "10",
+                "TOV%": "9",
                 "ORB%": "12",
                 "FT/FGA": "7",
                 "DRB%": "16",
@@ -297,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/MIN-2025.png",
-        "last_update": "Feb 09 2025 22:32:20"
+        "last_update": "Feb 10 2025 22:32:20"
     }
 }

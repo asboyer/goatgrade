@@ -30,8 +30,8 @@
             {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Quad) - Suggs did not play in Saturday's (Feb. 8) game against the Spurs."
+                "Update": "Sun, Feb 9, 2025",
+                "Description": "Day To Day (Quad) - The Magic listed Suggs as doubtful for Monday's (Feb. 10) game against Atlanta. "
             },
             {
                 "Player": "Moritz Wagner",
@@ -101,7 +101,7 @@
                 "3PA": "19",
                 "3P%": "30",
                 "2P": "20",
-                "2PA": "20",
+                "2PA": "19",
                 "2P%": "19",
                 "FT": "11",
                 "FTA": "7",
@@ -199,8 +199,8 @@
                 "FG%": "24",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "26",
-                "2P": "4",
+                "3P%": "25",
+                "2P": "5",
                 "2PA": "6",
                 "2P%": "17",
                 "FT": "25",
@@ -212,7 +212,7 @@
                 "AST": "2",
                 "STL": "13",
                 "BLK": "5",
-                "TOV": "3",
+                "TOV": "2",
                 "PF": "2",
                 "PTS": "2"
             },
@@ -247,8 +247,8 @@
                 "PW": "24",
                 "PL": "30",
                 "MOV": "-1.69",
-                "SOS": "-0.38",
-                "SRS": "-2.07",
+                "SOS": "-0.37",
+                "SRS": "-2.06",
                 "ORtg": "107.7",
                 "DRtg": "109.4",
                 "Pace": "96.2",
@@ -263,7 +263,7 @@
                 "Attendance": "464,814"
             },
             "Misc Lg Rank": {
-                "W": "14",
+                "W": "15",
                 "L": "10",
                 "PW": "18",
                 "PL": "20",
@@ -285,6 +285,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/ORL-2025.png",
-        "last_update": "Feb 09 2025 22:32:20"
+        "last_update": "Feb 10 2025 22:32:20"
     }
 }

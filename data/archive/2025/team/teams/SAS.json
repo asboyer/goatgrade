@@ -31,8 +31,8 @@
             {
                 "Player": "Charles Bassey",
                 "Team": "San Antonio Spurs",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Knee) - Bassey did not play in Saturday's (Feb. 8) game against the Magic."
+                "Update": "Sun, Feb 9, 2025",
+                "Description": "Out (Knee) - The Spurs listed Bassey as OUT for Monday's (Feb. 10) game against Washington."
             }
         ],
         "team_stats": {
@@ -88,15 +88,15 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "17",
                 "FGA": "16",
                 "FG%": "18",
                 "3P": "10",
                 "3PA": "6",
-                "3P%": "22",
+                "3P%": "21",
                 "2P": "18",
-                "2PA": "21",
+                "2PA": "20",
                 "2P%": "14",
                 "FT": "16",
                 "FTA": "18",
@@ -104,7 +104,7 @@
                 "ORB": "14",
                 "DRB": "7",
                 "TRB": "8",
-                "AST": "7",
+                "AST": "6",
                 "STL": "21",
                 "BLK": "1",
                 "TOV": "17",
@@ -188,16 +188,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "25",
                 "FGA": "28",
                 "FG%": "14",
-                "3P": "21",
+                "3P": "20",
                 "3PA": "17",
-                "3P%": "17",
+                "3P%": "18",
                 "2P": "28",
                 "2PA": "29",
-                "2P%": "10",
+                "2P%": "11",
                 "FT": "1",
                 "FTA": "1",
                 "FT%": "19",
@@ -267,7 +267,7 @@
                 "SRS": "18",
                 "ORtg": "15",
                 "DRtg": "18",
-                "Pace": "14",
+                "Pace": "13",
                 "FTr": "21",
                 "3PAr": "10",
                 "eFG%": "12",
@@ -280,6 +280,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/SAS-2025.png",
-        "last_update": "Feb 09 2025 22:32:20"
+        "last_update": "Feb 10 2025 22:32:20"
     }
 }

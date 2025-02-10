@@ -30,8 +30,8 @@
             {
                 "Player": "Bogdan Bogdanović",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Personal) - Bogdanovic did not play in Saturday's (Feb. 8) game against the Jazz."
+                "Update": "Sun, Feb 9, 2025",
+                "Description": "Day To Day (Personal) - Bogdanovic (trade pending) is expected to make his Clippers debut Wednesday against the Grizzlies, Joe Reedy of The Associated Press reports."
             }
         ],
         "team_stats": {
@@ -87,7 +87,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "16",
                 "FG": "19",
                 "FGA": "24",
                 "FG%": "12",
@@ -187,10 +187,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "16",
                 "FG": "3",
                 "FGA": "5",
-                "FG%": "5",
+                "FG%": "6",
                 "3P": "7",
                 "3PA": "16",
                 "3P%": "4",
@@ -201,8 +201,8 @@
                 "FTA": "11",
                 "FT%": "6",
                 "ORB": "4",
-                "DRB": "9",
-                "TRB": "3",
+                "DRB": "10",
+                "TRB": "4",
                 "AST": "6",
                 "STL": "28",
                 "BLK": "9",
@@ -269,16 +269,16 @@
                 "Pace": "20",
                 "FTr": "15",
                 "3PAr": "24",
-                "eFG%": "8",
+                "eFG%": "7",
                 "TOV%": "5",
                 "ORB%": "16",
                 "FT/FGA": "13",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/LAC-2025.png",
-        "last_update": "Feb 09 2025 22:32:20"
+        "last_update": "Feb 10 2025 22:32:20"
     }
 }

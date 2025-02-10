@@ -38,6 +38,12 @@
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Jan 29, 2025",
                 "Description": "Out For Season (Shoulder) - Johnson was diagnosed on Wednesday (Jan. 29) with a torn labrum in his left shoulder and will miss the rest of the season, league sources tell NBA reporter Chris Haynes."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Sun, Feb 9, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as probable for Monday's (Feb. 10) game against Orlando."
             }
         ],
         "team_stats": {
@@ -93,21 +99,21 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "5",
                 "FG": "9",
                 "FGA": "4",
                 "FG%": "17",
                 "3P": "15",
-                "3PA": "14",
+                "3PA": "15",
                 "3P%": "24",
                 "2P": "9",
                 "2PA": "8",
-                "2P%": "16",
+                "2P%": "17",
                 "FT": "2",
                 "FTA": "2",
                 "FT%": "23",
                 "ORB": "8",
-                "DRB": "16",
+                "DRB": "17",
                 "TRB": "10",
                 "AST": "3",
                 "STL": "2",
@@ -193,13 +199,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "5",
                 "FG": "26",
                 "FGA": "23",
                 "FG%": "27",
                 "3P": "27",
                 "3PA": "24",
-                "3P%": "25",
+                "3P%": "24",
                 "2P": "25",
                 "2PA": "21",
                 "2P%": "25",
@@ -211,7 +217,7 @@
                 "TRB": "22",
                 "AST": "26",
                 "STL": "29",
-                "BLK": "18",
+                "BLK": "19",
                 "TOV": "4",
                 "PF": "5",
                 "PTS": "26"
@@ -247,8 +253,8 @@
                 "PW": "22",
                 "PL": "31",
                 "MOV": "-2.60",
-                "SOS": "-0.23",
-                "SRS": "-2.84",
+                "SOS": "-0.22",
+                "SRS": "-2.82",
                 "ORtg": "111.8",
                 "DRtg": "114.3",
                 "Pace": "103.3",
@@ -268,10 +274,10 @@
                 "PW": "21",
                 "PL": "21",
                 "MOV": "21",
-                "SOS": "19",
+                "SOS": "17",
                 "SRS": "21",
                 "ORtg": "23",
-                "DRtg": "15",
+                "DRtg": "14",
                 "Pace": "2",
                 "FTr": "7",
                 "3PAr": "17",
@@ -285,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/ATL-2025.png",
-        "last_update": "Feb 09 2025 22:32:20"
+        "last_update": "Feb 10 2025 22:32:20"
     }
 }

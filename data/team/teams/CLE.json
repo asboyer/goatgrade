@@ -41,8 +41,8 @@
             {
                 "Player": "Isaac Okoro",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Fri, Feb 7, 2025",
-                "Description": "Day To Day (Shoulder) - Okoro did not play in Friday's (Feb. 7) game against the Wizards."
+                "Update": "Sun, Feb 9, 2025",
+                "Description": "Out (Shoulder) - The Cavaliers listed Okoro as OUT for Monday's (Feb. 10) game against Minnesota."
             },
             {
                 "Player": "Dean Wade",
@@ -104,7 +104,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "21",
                 "FG": "3",
                 "FGA": "11",
                 "FG%": "2",
@@ -115,7 +115,7 @@
                 "2PA": "22",
                 "2P%": "1",
                 "FT": "21",
-                "FTA": "23",
+                "FTA": "22",
                 "FT%": "13",
                 "ORB": "22",
                 "DRB": "6",
@@ -204,12 +204,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
-                "FG": "12",
+                "MP": "21",
+                "FG": "11",
                 "FGA": "19",
                 "FG%": "8",
                 "3P": "14",
-                "3PA": "11",
+                "3PA": "10",
                 "3P%": "20",
                 "2P": "14",
                 "2PA": "24",
@@ -224,7 +224,7 @@
                 "STL": "9",
                 "BLK": "6",
                 "TOV": "14",
-                "PF": "19",
+                "PF": "20",
                 "PTS": "11"
             },
             "Opp Year/Year": {
@@ -258,8 +258,8 @@
                 "PW": "40",
                 "PL": "12",
                 "MOV": "10.33",
-                "SOS": "-1.15",
-                "SRS": "9.18",
+                "SOS": "-1.14",
+                "SRS": "9.19",
                 "ORtg": "122.4",
                 "DRtg": "112.1",
                 "Pace": "100.0",
@@ -279,23 +279,23 @@
                 "PW": "2",
                 "PL": "2",
                 "MOV": "2",
-                "SOS": "29",
+                "SOS": "30",
                 "SRS": "2",
                 "ORtg": "1",
                 "DRtg": "8",
                 "Pace": "6",
                 "FTr": "23",
                 "3PAr": "4",
-                "eFG%": "9",
+                "eFG%": "8",
                 "TOV%": "15",
                 "ORB%": "21",
-                "FT/FGA": "9",
+                "FT/FGA": "10",
                 "DRB%": "12",
                 "Arena": "",
-                "Attendance": "1"
+                "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/CLE-2025.png",
-        "last_update": "Feb 09 2025 22:32:20"
+        "last_update": "Feb 10 2025 22:32:20"
     }
 }

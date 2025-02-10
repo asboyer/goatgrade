@@ -37,8 +37,8 @@
             {
                 "Player": "Kyshawn George",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Ankle) - George did not play in Saturday's (Feb. 8) game against the Hawks."
+                "Update": "Sun, Feb 9, 2025",
+                "Description": "Day To Day (Ankle) - The Wizards listed George as questionable for Monday's (Feb. 10) game against San Antonio."
             },
             {
                 "Player": "Anthony Gill",
@@ -61,20 +61,20 @@
             {
                 "Player": "Khris Middleton",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Rest) - Middleton did not play in Saturday's (Feb. 8) game against the Hawks."
+                "Update": "Sun, Feb 9, 2025",
+                "Description": "Out (Rest) - Middleton (recently traded/ankles) is expected to make his Wizards debut after the All-Star break, Josh Robbins of The Athletic reports."
             },
             {
                 "Player": "Alex Sarr",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Ankle) - Sarr did not play in Saturday's (Feb. 8) game against the Hawks."
+                "Update": "Sun, Feb 9, 2025",
+                "Description": "Out (Ankle) - The Wizards listed Sarr as OUT for Monday's (Feb. 10) game against San Antonio."
             },
             {
                 "Player": "Marcus Smart",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Out (Trade Pending) - The Wizards listed Smart as Out on Saturday's (Feb. 8) game against the Hawks."
+                "Update": "Sun, Feb 9, 2025",
+                "Description": "Out (Trade Pending) - Smart will likely make his Wizards debut after the All-Star break, Josh Robbins of The Athletic reports."
             }
         ],
         "team_stats": {
@@ -130,25 +130,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "19",
                 "FG": "26",
                 "FGA": "9",
                 "FG%": "29",
-                "3P": "19",
+                "3P": "20",
                 "3PA": "11",
                 "3P%": "29",
                 "2P": "19",
                 "2PA": "15",
                 "2P%": "26",
-                "FT": "25",
+                "FT": "26",
                 "FTA": "25",
                 "FT%": "19",
                 "ORB": "16",
-                "DRB": "17",
+                "DRB": "18",
                 "TRB": "17",
                 "AST": "23",
                 "STL": "23",
-                "BLK": "16",
+                "BLK": "14",
                 "TOV": "25",
                 "PF": "25",
                 "PTS": "27"
@@ -230,7 +230,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "19",
                 "FG": "28",
                 "FGA": "26",
                 "FG%": "25",
@@ -248,7 +248,7 @@
                 "TRB": "30",
                 "AST": "28",
                 "STL": "22",
-                "BLK": "21",
+                "BLK": "22",
                 "TOV": "25",
                 "PF": "22",
                 "PTS": "30"
@@ -305,7 +305,7 @@
                 "PW": "30",
                 "PL": "30",
                 "MOV": "30",
-                "SOS": "1",
+                "SOS": "2",
                 "SRS": "30",
                 "ORtg": "30",
                 "DRtg": "30",
@@ -318,10 +318,10 @@
                 "FT/FGA": "25",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/WAS-2025.png",
-        "last_update": "Feb 09 2025 22:32:20"
+        "last_update": "Feb 10 2025 22:32:20"
     }
 }
