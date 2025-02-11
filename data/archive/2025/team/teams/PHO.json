@@ -2,7 +2,7 @@
     "PHO": {
         "info": {
             "record": "26-26",
-            "standing": "10th in West",
+            "standing": "11th in West",
             "coach": "Mike Budenholzer (26-26)",
             "gm": "James Jones",
             "preseason_odds": "+3500"
@@ -31,32 +31,26 @@
             {
                 "Player": "Grayson Allen",
                 "Team": "Phoenix Suns",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Knee) - Allen did not play in Saturday's (Feb. 8) game against the Nuggets."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Day To Day (Knee) - The Suns listed Allen as probable for Tuesday's (Feb. 11) game against Memphis."
             },
             {
                 "Player": "Bradley Beal",
                 "Team": "Phoenix Suns",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Toe) - Beal did not play in Saturday's (Feb. 8) game against the Nuggets."
-            },
-            {
-                "Player": "Kevin Durant",
-                "Team": "Phoenix Suns",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Ankle) - Durant did not play in Saturday's (Feb. 8) game against the Nuggets."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Out (Toe) - The Suns listed Beal as OUT for Tuesday's (Feb. 11) game against Memphis."
             },
             {
                 "Player": "Cody Martin",
                 "Team": "Phoenix Suns",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Trade Pending) - Martin did not play in Saturday's (Feb. 8) game against the Nuggets."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Out (Trade Pending) - Suns head coach Mike Budenholzer suggested Monday that Martin (sports hernia) likely won't be available to play until after the All-Star break, Gerald Bourguet of GoPHNX.com reports."
             },
             {
                 "Player": "Vasilije Micić",
                 "Team": "Phoenix Suns",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Trade Pending) - Micic did not play in Saturday's (Feb. 8) game against the Nuggets."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Day To Day (Trade Pending) - The Suns listed Micic as questionable for Tuesday's (Feb. 11) game against Memphis."
             }
         ],
         "team_stats": {
@@ -112,27 +106,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "20",
                 "FGA": "28",
-                "FG%": "10",
+                "FG%": "11",
                 "3P": "7",
                 "3PA": "13",
                 "3P%": "5",
                 "2P": "23",
                 "2PA": "27",
-                "2P%": "11",
-                "FT": "7",
-                "FTA": "10",
+                "2P%": "12",
+                "FT": "8",
+                "FTA": "11",
                 "FT%": "4",
                 "ORB": "27",
-                "DRB": "19",
+                "DRB": "18",
                 "TRB": "25",
                 "AST": "11",
-                "STL": "25",
+                "STL": "26",
                 "BLK": "12",
                 "TOV": "12",
-                "PF": "9",
+                "PF": "10",
                 "PTS": "13"
             },
             "Year/Year": {
@@ -212,27 +206,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "21",
                 "FGA": "20",
                 "FG%": "12",
                 "3P": "18",
-                "3PA": "18",
+                "3PA": "17",
                 "3P%": "14",
                 "2P": "19",
                 "2PA": "20",
-                "2P%": "16",
+                "2P%": "15",
                 "FT": "20",
-                "FTA": "17",
+                "FTA": "18",
                 "FT%": "20",
                 "ORB": "29",
                 "DRB": "16",
                 "TRB": "23",
                 "AST": "16",
-                "STL": "18",
+                "STL": "17",
                 "BLK": "4",
                 "TOV": "28",
-                "PF": "10",
+                "PF": "9",
                 "PTS": "20"
             },
             "Opp Year/Year": {
@@ -282,17 +276,17 @@
                 "Attendance": "443,846"
             },
             "Misc Lg Rank": {
-                "W": "15",
+                "W": "17",
                 "L": "13",
-                "PW": "19",
+                "PW": "20",
                 "PL": "19",
                 "MOV": "19",
                 "SOS": "23",
-                "SRS": "20",
+                "SRS": "19",
                 "ORtg": "8",
                 "DRtg": "27",
                 "Pace": "23",
-                "FTr": "6",
+                "FTr": "7",
                 "3PAr": "11",
                 "eFG%": "13",
                 "TOV%": "28",
@@ -300,10 +294,10 @@
                 "FT/FGA": "17",
                 "DRB%": "26",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "24"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/PHO-2025.png",
-        "last_update": "Feb 10 2025 22:32:20"
+        "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/PHO-2025.png",
+        "last_update": "Feb 11 2025 22:32:17"
     }
 }

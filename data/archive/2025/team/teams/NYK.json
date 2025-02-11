@@ -30,14 +30,20 @@
             {
                 "Player": "OG Anunoby",
                 "Team": "New York Knicks",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Foot) - Anunoby did not play in Saturday's (Feb. 8) game against the Celtics."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Day To Day (Foot) - The Knicks listed Anunoby as questionable for Tuesday's (Feb. 11) game against Indiana."
             },
             {
                 "Player": "Pacome Dadiet",
                 "Team": "New York Knicks",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Toe) - Dadiet did not play in Saturday's (Feb. 8) game against the Celtics."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Out (Toe) - The Knicks listed Dadiet as OUT for Tuesday's (Feb. 11) game against Indiana."
+            },
+            {
+                "Player": "Josh Hart",
+                "Team": "New York Knicks",
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Day To Day (Knee) - The Knicks listed Hart as probable for Tuesday's (Feb. 11) game against Indiana."
             },
             {
                 "Player": "Mitchell Robinson",
@@ -99,25 +105,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "21",
                 "FG": "5",
                 "FGA": "17",
                 "FG%": "3",
                 "3P": "18",
                 "3PA": "25",
                 "3P%": "6",
-                "2P": "3",
+                "2P": "4",
                 "2PA": "7",
-                "2P%": "3",
+                "2P%": "4",
                 "FT": "12",
-                "FTA": "17",
-                "FT%": "3",
-                "ORB": "16",
+                "FTA": "18",
+                "FT%": "2",
+                "ORB": "17",
                 "DRB": "25",
                 "TRB": "23",
                 "AST": "10",
-                "STL": "14",
-                "BLK": "30",
+                "STL": "13",
+                "BLK": "29",
                 "TOV": "3",
                 "PF": "5",
                 "PTS": "5"
@@ -199,27 +205,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
-                "FG": "18",
-                "FGA": "11",
-                "FG%": "22",
+                "MP": "21",
+                "FG": "16",
+                "FGA": "10",
+                "FG%": "21",
                 "3P": "16",
                 "3PA": "5",
                 "3P%": "30",
                 "2P": "18",
                 "2PA": "16",
-                "2P%": "13",
-                "FT": "5",
+                "2P%": "12",
+                "FT": "4",
                 "FTA": "4",
-                "FT%": "28",
+                "FT%": "29",
                 "ORB": "9",
-                "DRB": "1",
+                "DRB": "2",
                 "TRB": "1",
                 "AST": "7",
                 "STL": "2",
                 "BLK": "15",
                 "TOV": "18",
-                "PF": "9",
+                "PF": "8",
                 "PTS": "9"
             },
             "Opp Year/Year": {
@@ -253,7 +259,7 @@
                 "PW": "35",
                 "PL": "17",
                 "MOV": "5.90",
-                "SOS": "-1.14",
+                "SOS": "-1.13",
                 "SRS": "4.77",
                 "ORtg": "120.8",
                 "DRtg": "114.7",
@@ -269,17 +275,17 @@
                 "Attendance": "554,736"
             },
             "Misc Lg Rank": {
-                "W": "5",
+                "W": "6",
                 "L": "26",
-                "PW": "5",
+                "PW": "6",
                 "PL": "5",
                 "MOV": "5",
-                "SOS": "29",
+                "SOS": "30",
                 "SRS": "7",
                 "ORtg": "2",
                 "DRtg": "17",
-                "Pace": "26",
-                "FTr": "20",
+                "Pace": "25",
+                "FTr": "21",
                 "3PAr": "27",
                 "eFG%": "24",
                 "TOV%": "14",
@@ -287,10 +293,10 @@
                 "FT/FGA": "6",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "1"
+                "Attendance": "2"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/NYK-2025.png",
-        "last_update": "Feb 10 2025 22:32:20"
+        "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/NYK-2025.png",
+        "last_update": "Feb 11 2025 22:32:17"
     }
 }

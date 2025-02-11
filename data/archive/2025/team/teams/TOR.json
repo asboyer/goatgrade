@@ -20,41 +20,42 @@
             "Ja'Kobe Walter",
             "Garrett Temple",
             "Immanuel Quickley",
+            "Orlando Robinson",
             "Ulrich Chomche",
             "A.J. Lawson",
-            "Brandon Ingram",
-            "P.J. Tucker"
+            "P.J. Tucker",
+            "Brandon Ingram"
         ],
         "injuries": [
             {
                 "Player": "RJ Barrett",
                 "Team": "Toronto Raptors",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Out (Concussion) - The Raptors listed Barrett as Out for Sunday's (Feb. 8) game against the Rockets."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Day To Day (Concussion) - Barrett did not play in Sunday's (Feb. 8) game against the Rockets."
             },
             {
                 "Player": "Gradey Dick",
                 "Team": "Toronto Raptors",
-                "Update": "Sun, Feb 9, 2025",
-                "Description": "Day To Day (Concussion) - Dick did not return to Sunday's (Feb. 9) game against Houston."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Day To Day (Concussion) - The Raptors listed Dick as probable for Tuesday's (Feb. 11) game against Philadelphia."
             },
             {
                 "Player": "Brandon Ingram",
                 "Team": "Toronto Raptors",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Out (Ankle) - The Raptors listed Ingram as Out for Sunday's (Feb. 8) game against the Rockets."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Out (Ankle) - The Raptors listed Ingram as OUT for Tuesday's (Feb. 11) game against Philadelphia."
             },
             {
                 "Player": "Jonathan Mogbo",
                 "Team": "Toronto Raptors",
-                "Update": "Sun, Feb 9, 2025",
-                "Description": "Day To Day (Undisclosed) - Mogbo did not return to Sunday's (Feb. 9) game against Houston."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Day To Day (Undisclosed) - The Raptors listed Mogbo as probable for Tuesday's (Feb. 11) game against Philadelphia."
             },
             {
                 "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Out (Hip) - The Raptors listed Poeltl as Out for Sunday's (Feb. 8) game against the Rockets."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Out (Hip) - The Raptors listed Poeltl as OUT for Tuesday's (Feb. 11) game against Philadelphia."
             },
             {
                 "Player": "P.J. Tucker",
@@ -116,7 +117,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "10",
                 "FG": "13",
                 "FGA": "15",
                 "FG%": "15",
@@ -127,14 +128,14 @@
                 "2PA": "3",
                 "2P%": "20",
                 "FT": "28",
-                "FTA": "23",
+                "FTA": "21",
                 "FT%": "28",
                 "ORB": "9",
                 "DRB": "24",
                 "TRB": "21",
                 "AST": "7",
                 "STL": "20",
-                "BLK": "23",
+                "BLK": "24",
                 "TOV": "24",
                 "PF": "30",
                 "PTS": "21"
@@ -216,13 +217,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
-                "FG": "16",
-                "FGA": "12",
+                "MP": "10",
+                "FG": "15",
+                "FGA": "13",
                 "FG%": "19",
                 "3P": "15",
                 "3PA": "15",
-                "3P%": "17",
+                "3P%": "18",
                 "2P": "17",
                 "2PA": "8",
                 "2P%": "21",
@@ -231,7 +232,7 @@
                 "FT%": "7",
                 "ORB": "21",
                 "DRB": "13",
-                "TRB": "19",
+                "TRB": "18",
                 "AST": "11",
                 "STL": "24",
                 "BLK": "28",
@@ -270,8 +271,8 @@
                 "PW": "17",
                 "PL": "36",
                 "MOV": "-5.79",
-                "SOS": "1.47",
-                "SRS": "-4.32",
+                "SOS": "1.50",
+                "SRS": "-4.29",
                 "ORtg": "110.8",
                 "DRtg": "116.6",
                 "Pace": "99.3",
@@ -287,9 +288,9 @@
             },
             "Misc Lg Rank": {
                 "W": "26",
-                "L": "4",
+                "L": "5",
                 "PW": "25",
-                "PL": "26",
+                "PL": "25",
                 "MOV": "26",
                 "SOS": "1",
                 "SRS": "24",
@@ -298,7 +299,7 @@
                 "Pace": "12",
                 "FTr": "22",
                 "3PAr": "29",
-                "eFG%": "21",
+                "eFG%": "20",
                 "TOV%": "18",
                 "ORB%": "10",
                 "FT/FGA": "30",
@@ -307,7 +308,7 @@
                 "Attendance": "4"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/TOR-2025.png",
-        "last_update": "Feb 10 2025 22:32:20"
+        "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/TOR-2025.png",
+        "last_update": "Feb 11 2025 22:32:17"
     }
 }

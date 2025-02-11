@@ -31,14 +31,14 @@
             {
                 "Player": "Marvin Bagley III",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Knee) - Bagley III did not play in Saturday's (Feb. 8) game against the Thunder."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Day To Day (Knee) - The Grizzlies listed Bagley III as OUT for Tuesday's (Feb. 11) game against Phoenix."
             },
             {
                 "Player": "Johnny Davis",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Not Injury Related) - Davis did not play in Saturday's (Feb. 8) game against the Thunder."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Out (Not Injury Related) - The Grizzlies listed Davis as OUT for Tuesday's (Feb. 11) game against Phoenix."
             },
             {
                 "Player": "Cam Spencer",
@@ -100,12 +100,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "24",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "5",
                 "3P": "9",
-                "3PA": "16",
+                "3PA": "14",
                 "3P%": "7",
                 "2P": "2",
                 "2PA": "4",
@@ -200,28 +200,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
-                "FG": "19",
+                "MP": "24",
+                "FG": "17",
                 "FGA": "27",
                 "FG%": "2",
-                "3P": "23",
+                "3P": "22",
                 "3PA": "27",
                 "3P%": "6",
-                "2P": "14",
+                "2P": "16",
                 "2PA": "23",
                 "2P%": "6",
                 "FT": "27",
-                "FTA": "29",
+                "FTA": "28",
                 "FT%": "2",
-                "ORB": "24",
+                "ORB": "27",
                 "DRB": "3",
                 "TRB": "11",
                 "AST": "15",
                 "STL": "25",
-                "BLK": "24",
+                "BLK": "25",
                 "TOV": "5",
                 "PF": "1",
-                "PTS": "23"
+                "PTS": "22"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -255,7 +255,7 @@
                 "PL": "15",
                 "MOV": "7.92",
                 "SOS": "-0.71",
-                "SRS": "7.21",
+                "SRS": "7.22",
                 "ORtg": "118.6",
                 "DRtg": "111.0",
                 "Pace": "104.2",
@@ -275,10 +275,10 @@
                 "PW": "4",
                 "PL": "4",
                 "MOV": "4",
-                "SOS": "25",
+                "SOS": "26",
                 "SRS": "4",
                 "ORtg": "5",
-                "DRtg": "7",
+                "DRtg": "6",
                 "Pace": "1",
                 "FTr": "5",
                 "3PAr": "20",
@@ -288,10 +288,10 @@
                 "FT/FGA": "22",
                 "DRB%": "21",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "23"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/MEM-2025.png",
-        "last_update": "Feb 10 2025 22:32:20"
+        "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/MEM-2025.png",
+        "last_update": "Feb 11 2025 22:32:17"
     }
 }

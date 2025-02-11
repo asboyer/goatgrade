@@ -31,8 +31,14 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Knee) - Ball did not play in Saturday's (Feb. 8) game against the Warriors."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Out (Knee) - The Bulls listed Ball as OUT for Tuesday's (Feb. 11) game against Detroit."
+            },
+            {
+                "Player": "Ayo Dosunmu",
+                "Team": "Chicago Bulls",
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Day To Day (Illness) - The Bulls listed Dosunmu as probable for Tuesday's (Feb. 11) game against Detroit."
             },
             {
                 "Player": "Adama Sanogo",
@@ -94,9 +100,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "14",
                 "FG": "8",
-                "FGA": "6",
+                "FGA": "5",
                 "FG%": "14",
                 "3P": "3",
                 "3PA": "2",
@@ -104,15 +110,15 @@
                 "2P": "21",
                 "2PA": "25",
                 "2P%": "13",
-                "FT": "29",
+                "FT": "30",
                 "FTA": "30",
                 "FT%": "5",
                 "ORB": "25",
                 "DRB": "1",
                 "TRB": "7",
                 "AST": "5",
-                "STL": "28",
-                "BLK": "21",
+                "STL": "27",
+                "BLK": "20",
                 "TOV": "19",
                 "PF": "7",
                 "PTS": "7"
@@ -194,24 +200,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "14",
                 "FG": "30",
                 "FGA": "30",
-                "FG%": "21",
+                "FG%": "20",
                 "3P": "17",
                 "3PA": "29",
-                "3P%": "2",
+                "3P%": "3",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "27",
                 "FT": "14",
                 "FTA": "14",
                 "FT%": "16",
-                "ORB": "17",
+                "ORB": "18",
                 "DRB": "29",
                 "TRB": "29",
                 "AST": "29",
-                "STL": "14",
+                "STL": "15",
                 "BLK": "16",
                 "TOV": "29",
                 "PF": "30",
@@ -249,7 +255,7 @@
                 "PL": "32",
                 "MOV": "-3.77",
                 "SOS": "-0.23",
-                "SRS": "-4.00",
+                "SRS": "-4.01",
                 "ORtg": "113.0",
                 "DRtg": "116.6",
                 "Pace": "103.0",
@@ -264,12 +270,12 @@
                 "Attendance": "536,237"
             },
             "Misc Lg Rank": {
-                "W": "22",
+                "W": "23",
                 "L": "8",
                 "PW": "22",
                 "PL": "23",
                 "MOV": "22",
-                "SOS": "19",
+                "SOS": "17",
                 "SRS": "23",
                 "ORtg": "17",
                 "DRtg": "25",
@@ -280,12 +286,12 @@
                 "TOV%": "29",
                 "ORB%": "28",
                 "FT/FGA": "8",
-                "DRB%": "7",
+                "DRB%": "8",
                 "Arena": "",
                 "Attendance": "3"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/CHI-2025.png",
-        "last_update": "Feb 10 2025 22:32:20"
+        "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/CHI-2025.png",
+        "last_update": "Feb 11 2025 22:32:17"
     }
 }

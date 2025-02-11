@@ -18,12 +18,30 @@
             "Kyle Lowry",
             "Andre Drummond",
             "Jared McCain",
-            "Justin Edwards",
             "Jeff Dowtin",
             "Joel Embiid",
-            "Quentin Grimes"
+            "Quentin Grimes",
+            "Chuma Okeke"
         ],
         "injuries": [
+            {
+                "Player": "Joel Embiid",
+                "Team": "Philadelphia 76ers",
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Day To Day (Injury Management) - The 76ers listed Embiid as questionable for Tuesday's (Feb. 11) game against Toronto."
+            },
+            {
+                "Player": "Eric Gordon",
+                "Team": "Philadelphia 76ers",
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Day To Day (Wrist) - The 76ers listed Gordon as questionable for Tuesday's (Feb. 11) game against Toronto."
+            },
+            {
+                "Player": "Kyle Lowry",
+                "Team": "Philadelphia 76ers",
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Out (hip) - The 76ers listed Lowry as OUT for Tuesday's (Feb. 11) game against Toronto."
+            },
             {
                 "Player": "Jared McCain",
                 "Team": "Philadelphia 76ers",
@@ -84,17 +102,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "27",
                 "FGA": "26",
                 "FG%": "20",
                 "3P": "18",
                 "3PA": "17",
-                "3P%": "19",
+                "3P%": "18",
                 "2P": "22",
                 "2PA": "21",
                 "2P%": "21",
-                "FT": "6",
+                "FT": "7",
                 "FTA": "8",
                 "FT%": "15",
                 "ORB": "24",
@@ -184,22 +202,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "13",
                 "FGA": "3",
                 "FG%": "30",
                 "3P": "21",
                 "3PA": "12",
                 "3P%": "26",
-                "2P": "10",
+                "2P": "9",
                 "2PA": "2",
                 "2P%": "30",
                 "FT": "15",
-                "FTA": "12",
-                "FT%": "26",
+                "FTA": "13",
+                "FT%": "25",
                 "ORB": "9",
                 "DRB": "21",
-                "TRB": "18",
+                "TRB": "16",
                 "AST": "24",
                 "STL": "4",
                 "BLK": "17",
@@ -259,9 +277,9 @@
                 "PW": "23",
                 "PL": "22",
                 "MOV": "23",
-                "SOS": "12",
+                "SOS": "10",
                 "SRS": "22",
-                "ORtg": "20",
+                "ORtg": "19",
                 "DRtg": "24",
                 "Pace": "28",
                 "FTr": "4",
@@ -270,12 +288,12 @@
                 "TOV%": "3",
                 "ORB%": "24",
                 "FT/FGA": "20",
-                "DRB%": "27",
+                "DRB%": "28",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "6"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/PHI-2025.png",
-        "last_update": "Feb 10 2025 22:32:20"
+        "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/PHI-2025.png",
+        "last_update": "Feb 11 2025 22:32:17"
     }
 }

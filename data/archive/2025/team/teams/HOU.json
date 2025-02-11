@@ -2,7 +2,7 @@
     "HOU": {
         "info": {
             "record": "33-20",
-            "standing": "4th in West",
+            "standing": "5th in West",
             "coach": "Ime Udoka (33-20)",
             "gm": "Rafael Stone",
             "preseason_odds": "+10000"
@@ -31,14 +31,14 @@
             {
                 "Player": "Steven Adams",
                 "Team": "Houston Rockets",
-                "Update": "Sun, Feb 9, 2025",
-                "Description": "Out (Ankle) - The Rockets listed Adams as OUT for Sunday's (Feb. 9) game against Toronto."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Day To Day (Ankle) - Adams did not play in Sunday's (Feb. 9) game against Toronto."
             },
             {
                 "Player": "Tari Eason",
                 "Team": "Houston Rockets",
-                "Update": "Sun, Feb 9, 2025",
-                "Description": "Out (Rest) - The Rockets listed Eason as OUT for Sunday's (Feb. 9) game against Toronto."
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Day To Day (Rest) - Eason did nor play in Sunday's (Feb. 9) game against Toronto."
             },
             {
                 "Player": "Alperen Şengün",
@@ -49,8 +49,8 @@
             {
                 "Player": "Jabari Smith Jr.",
                 "Team": "Houston Rockets",
-                "Update": "Sat, Jan 18, 2025",
-                "Description": "Out (Hand) - Rockets HC Ime Udoka said Saturday (Jan. 18) that Smith will not have surgery on his fractured left hand, this could extend his recovery timeline, according to Danielle Lerner of the Houston Chronicle. "
+                "Update": "Mon, Feb 10, 2025",
+                "Description": "Out (Hand) - Coach Ime Udoka said Sunday that Smith (hand) may be cleared for contact work during the All-Star break, Adam Spolane of Sports Radio 610 Houston reports."
             },
             {
                 "Player": "Fred VanVleet",
@@ -118,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "10",
                 "FG": "15",
                 "FGA": "2",
                 "FG%": "25",
@@ -128,7 +128,7 @@
                 "2P": "8",
                 "2PA": "2",
                 "2P%": "28",
-                "FT": "10",
+                "FT": "9",
                 "FTA": "4",
                 "FT%": "27",
                 "ORB": "1",
@@ -137,9 +137,9 @@
                 "AST": "30",
                 "STL": "8",
                 "BLK": "11",
-                "TOV": "10",
+                "TOV": "11",
                 "PF": "22",
-                "PTS": "15"
+                "PTS": "17"
             },
             "Year/Year": {
                 "G": "",
@@ -218,15 +218,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "10",
                 "FG": "4",
-                "FGA": "10",
+                "FGA": "9",
                 "FG%": "4",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "9",
-                "2P": "12",
-                "2PA": "25",
+                "3P%": "10",
+                "2P": "13",
+                "2PA": "26",
                 "2P%": "2",
                 "FT": "13",
                 "FTA": "19",
@@ -235,11 +235,11 @@
                 "DRB": "7",
                 "TRB": "9",
                 "AST": "1",
-                "STL": "10",
+                "STL": "9",
                 "BLK": "29",
                 "TOV": "8",
                 "PF": "3",
-                "PTS": "5"
+                "PTS": "6"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -272,7 +272,7 @@
                 "PW": "33",
                 "PL": "20",
                 "MOV": "4.23",
-                "SOS": "0.92",
+                "SOS": "0.93",
                 "SRS": "5.15",
                 "ORtg": "114.0",
                 "DRtg": "109.7",
@@ -293,23 +293,23 @@
                 "PW": "7",
                 "PL": "7",
                 "MOV": "7",
-                "SOS": "3",
-                "SRS": "5",
+                "SOS": "4",
+                "SRS": "6",
                 "ORtg": "14",
                 "DRtg": "4",
                 "Pace": "18",
                 "FTr": "10",
                 "3PAr": "28",
-                "eFG%": "2",
-                "TOV%": "10",
+                "eFG%": "3",
+                "TOV%": "9",
                 "ORB%": "1",
-                "FT/FGA": "15",
-                "DRB%": "14",
+                "FT/FGA": "14",
+                "DRB%": "13",
                 "Arena": "",
-                "Attendance": "27"
+                "Attendance": "28"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502031/tlogo/bbr/HOU-2025.png",
-        "last_update": "Feb 10 2025 22:32:20"
+        "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/HOU-2025.png",
+        "last_update": "Feb 11 2025 22:32:17"
     }
 }
