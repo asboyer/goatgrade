@@ -31,14 +31,14 @@
             {
                 "Player": "LaMelo Ball",
                 "Team": "Charlotte Hornets",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Day To Day (Ankle) - Ball did not return to Monday's (Feb. 10) game against the Hornets."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Ankle) - The Hornets listed Ball as Out for Wednesday's (Feb. 12) game against the Magic."
             },
             {
                 "Player": "Moussa Diabaté",
                 "Team": "Charlotte Hornets",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Day To Day (Eye) - Diabate did not return to Monday's (Feb. 10) game against Brooklyn."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Eye) - The Hornets listed Diabate as Questionable for Wednesday's (Feb. 12) game against the Magic."
             },
             {
                 "Player": "Tre Mann",
@@ -67,14 +67,14 @@
             {
                 "Player": "Mark Williams",
                 "Team": "Charlotte Hornets",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Trade Pending) - The Hornets have listed Williams as Out for Monday's (Feb. 10) game against the Nets."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Personal) - The Hornets listed Williams as Out for Wednesday's (Feb. 12) game against the Magic."
             },
             {
                 "Player": "Isaiah Wong",
                 "Team": "Charlotte Hornets",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Foot) - The Hornets have listed Wong as OUT for Monday's (Feb. 10) game against the Nets."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Foot) - The Hornets listed Wong as Probable for Wednesday's (Feb. 12) game against the Magic."
             }
         ],
         "team_stats": {
@@ -130,7 +130,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "28",
                 "FGA": "14",
                 "FG%": "30",
@@ -141,7 +141,7 @@
                 "2PA": "17",
                 "2P%": "30",
                 "FT": "27",
-                "FTA": "28",
+                "FTA": "27",
                 "FT%": "19",
                 "ORB": "3",
                 "DRB": "21",
@@ -230,10 +230,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "9",
-                "FGA": "7",
-                "FG%": "15",
+                "FGA": "6",
+                "FG%": "16",
                 "3P": "9",
                 "3PA": "24",
                 "3P%": "2",
@@ -284,8 +284,8 @@
                 "PW": "17",
                 "PL": "34",
                 "MOV": "-5.31",
-                "SOS": "-0.46",
-                "SRS": "-5.78",
+                "SOS": "-0.45",
+                "SRS": "-5.77",
                 "ORtg": "108.8",
                 "DRtg": "114.3",
                 "Pace": "97.4",
@@ -303,14 +303,14 @@
                 "W": "27",
                 "L": "4",
                 "PW": "26",
-                "PL": "24",
+                "PL": "23",
                 "MOV": "24",
-                "SOS": "22",
+                "SOS": "23",
                 "SRS": "26",
                 "ORtg": "27",
                 "DRtg": "14",
                 "Pace": "22",
-                "FTr": "26",
+                "FTr": "25",
                 "3PAr": "10",
                 "eFG%": "15",
                 "TOV%": "19",
@@ -322,6 +322,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/CHO-2025.png",
-        "last_update": "Feb 11 2025 22:32:17"
+        "last_update": "Feb 12 2025 22:32:17"
     }
 }

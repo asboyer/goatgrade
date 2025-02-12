@@ -31,8 +31,8 @@
             {
                 "Player": "Charles Bassey",
                 "Team": "San Antonio Spurs",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Knee) - The Spurs have listed Bassey as OUT for Monday's (Feb. 10) game against Washington."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Knee) - The Spurs listed Bassey as Out for Wednesday's (Feb. 12) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -88,28 +88,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "17",
                 "FGA": "16",
                 "FG%": "18",
                 "3P": "11",
                 "3PA": "6",
-                "3P%": "20",
+                "3P%": "19",
                 "2P": "18",
                 "2PA": "19",
-                "2P%": "14",
+                "2P%": "13",
                 "FT": "14",
-                "FTA": "15",
+                "FTA": "16",
                 "FT%": "12",
                 "ORB": "13",
                 "DRB": "8",
-                "TRB": "8",
+                "TRB": "9",
                 "AST": "6",
                 "STL": "19",
                 "BLK": "1",
                 "TOV": "16",
                 "PF": "2",
-                "PTS": "14"
+                "PTS": "15"
             },
             "Year/Year": {
                 "G": "",
@@ -188,25 +188,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "29",
                 "FG": "25",
                 "FGA": "28",
                 "FG%": "14",
                 "3P": "19",
                 "3PA": "19",
-                "3P%": "16",
+                "3P%": "17",
                 "2P": "28",
                 "2PA": "28",
-                "2P%": "13",
+                "2P%": "12",
                 "FT": "1",
                 "FTA": "1",
                 "FT%": "19",
-                "ORB": "25",
+                "ORB": "26",
                 "DRB": "22",
                 "TRB": "26",
                 "AST": "19",
                 "STL": "19",
-                "BLK": "6",
+                "BLK": "7",
                 "TOV": "25",
                 "PF": "24",
                 "PTS": "18"
@@ -242,8 +242,8 @@
                 "PW": "24",
                 "PL": "27",
                 "MOV": "-1.25",
-                "SOS": "0.01",
-                "SRS": "-1.25",
+                "SOS": "-0.02",
+                "SRS": "-1.28",
                 "ORtg": "113.6",
                 "DRtg": "114.9",
                 "Pace": "99.2",
@@ -260,17 +260,17 @@
             "Misc Lg Rank": {
                 "W": "21",
                 "L": "11",
-                "PW": "19",
-                "PL": "17",
+                "PW": "20",
+                "PL": "18",
                 "MOV": "18",
                 "SOS": "13",
                 "SRS": "18",
                 "ORtg": "15",
                 "DRtg": "19",
-                "Pace": "13",
+                "Pace": "14",
                 "FTr": "20",
                 "3PAr": "9",
-                "eFG%": "12",
+                "eFG%": "13",
                 "TOV%": "25",
                 "ORB%": "18",
                 "FT/FGA": "1",
@@ -280,6 +280,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/SAS-2025.png",
-        "last_update": "Feb 11 2025 22:32:17"
+        "last_update": "Feb 12 2025 22:32:17"
     }
 }

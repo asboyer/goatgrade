@@ -24,7 +24,8 @@
             "Trentyn Flowers",
             "Patty Mills",
             "MarJon Beauchamp",
-            "Bogdan Bogdanović"
+            "Bogdan Bogdanović",
+            "Ben Simmons"
         ],
         "injuries": [
             {
@@ -32,6 +33,18 @@
                 "Team": "Los Angeles Clippers",
                 "Update": "Sun, Feb 9, 2025",
                 "Description": "Day To Day (Personal) - Bogdanovic (trade pending) is expected to make his Clippers debut Wednesday against the Grizzlies, Joe Reedy of The Associated Press reports."
+            },
+            {
+                "Player": "Drew Eubanks",
+                "Team": "Los Angeles Clippers",
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Ankle) - The Clippers listed Eubanks as Out for Wednesday's (Feb. 12) game against the Grizzlies."
+            },
+            {
+                "Player": "Ben Simmons",
+                "Team": "Los Angeles Clippers",
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Reconditioning) - The Clippers listed Simmons as Out for Wednesday's (Feb. 12) game against the Grizzlies."
             }
         ],
         "team_stats": {
@@ -87,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "23",
                 "FG": "19",
                 "FGA": "24",
                 "FG%": "12",
@@ -101,7 +114,7 @@
                 "FTA": "20",
                 "FT%": "8",
                 "ORB": "21",
-                "DRB": "10",
+                "DRB": "11",
                 "TRB": "16",
                 "AST": "25",
                 "STL": "3",
@@ -187,11 +200,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "23",
                 "FG": "3",
                 "FGA": "5",
                 "FG%": "6",
-                "3P": "7",
+                "3P": "8",
                 "3PA": "16",
                 "3P%": "4",
                 "2P": "2",
@@ -241,8 +254,8 @@
                 "PW": "30",
                 "PL": "22",
                 "MOV": "2.71",
-                "SOS": "0.15",
-                "SRS": "2.86",
+                "SOS": "0.14",
+                "SRS": "2.85",
                 "ORtg": "112.1",
                 "DRtg": "109.4",
                 "Pace": "98.1",
@@ -275,10 +288,10 @@
                 "FT/FGA": "13",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/LAC-2025.png",
-        "last_update": "Feb 11 2025 22:32:17"
+        "last_update": "Feb 12 2025 22:32:17"
     }
 }

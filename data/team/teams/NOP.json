@@ -30,26 +30,20 @@
             {
                 "Player": "Brandon Boston Jr.",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Ankle) - The Pelicans have listed Boston Jr. as Out for Monday's (Feb. 10) game against the Thunder."
-            },
-            {
-                "Player": "Bruce Brown",
-                "Team": "New Orleans Pelicans",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Not Injury Related) - The Pelicans have listed Brown as Out for Monday's (Feb. 10) game against the Thunder."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Ankle) - The Pelicans listed Boston Jr. as OUT for Wednesday's (Feb. 12) game against the Kings."
             },
             {
                 "Player": "Herbert Jones",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Out (Shoulder) - Jones remains without a timetable as he recovers from a posterior labrum tear in his right shoulder, and was spotted getting up some shots at Monday's (Feb. 3) morning shootaround, as per Will Guillory of The Athletic."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out For Season (Shoulder) - New Orleans VP Griffin said Tuesday (Feb. 11) that he expects Jones to miss the remainder of the season, according to Will Guillory of The Athletic."
             },
             {
                 "Player": "CJ McCollum",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Personal) - The Pelicans have listed McCollum as Out for Monday's (Feb. 10) game against the Thunder."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Personal) - The Pelicans listed McCollum as Questionable for Wednesday's (Feb. 12) game against the Kings."
             },
             {
                 "Player": "Dejounte Murray",
@@ -60,8 +54,8 @@
             {
                 "Player": "Kelly Olynyk",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Not Injury Related) - The Pelicans have listed Olynyk as Out for Monday's (Feb. 10) game against the Thunder."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Not Injury Related) - The Pelicans listed Olynyk as OUT for Wednesday's (Feb. 12) game against the Kings."
             }
         ],
         "team_stats": {
@@ -117,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "16",
                 "FG": "21",
                 "FGA": "11",
                 "FG%": "24",
@@ -137,7 +131,7 @@
                 "STL": "5",
                 "BLK": "8",
                 "TOV": "17",
-                "PF": "9",
+                "PF": "10",
                 "PTS": "23"
             },
             "Year/Year": {
@@ -217,7 +211,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "16",
                 "FG": "29",
                 "FGA": "23",
                 "FG%": "29",
@@ -230,7 +224,7 @@
                 "FT": "10",
                 "FTA": "8",
                 "FT%": "22",
-                "ORB": "25",
+                "ORB": "26",
                 "DRB": "26",
                 "TRB": "28",
                 "AST": "26",
@@ -271,8 +265,8 @@
                 "PW": "13",
                 "PL": "40",
                 "MOV": "-9.17",
-                "SOS": "1.06",
-                "SRS": "-8.11",
+                "SOS": "1.04",
+                "SRS": "-8.14",
                 "ORtg": "110.2",
                 "DRtg": "119.3",
                 "Pace": "99.5",
@@ -309,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/NOP-2025.png",
-        "last_update": "Feb 11 2025 22:32:17"
+        "last_update": "Feb 12 2025 22:32:17"
     }
 }

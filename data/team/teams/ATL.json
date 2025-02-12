@@ -33,12 +33,6 @@
                 "Description": "Out For Season (Shoulder) - The Hawks said on Wednesday (Dec. 18) that Bufkin will undergo surgery to address a right shoulder instability and will miss the rest of the season."
             },
             {
-                "Player": "Clint Capela",
-                "Team": "Atlanta Hawks",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Undisclosed) - The Hawks have listed Capela as OUT for Monday's (Feb. 10) game against Orlando."
-            },
-            {
                 "Player": "Jalen Johnson",
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Jan 29, 2025",
@@ -47,14 +41,20 @@
             {
                 "Player": "Vit Krejci",
                 "Team": "Atlanta Hawks",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Day To Day (Back) - Krejci did not return to Monday's (Feb. 10) game against Orlando."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Back) - The Hawks listed Krejci as Out for Wednesday's (Feb. 12) game against the Knicks."
             },
             {
                 "Player": "Larry Nance Jr.",
                 "Team": "Atlanta Hawks",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Day To Day (Knee) - Nance Jr. did not return to Monday's (Feb. 10) game against Orlando."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Knee) - The Hawks listed Nance Jr. as Out for Wednesday's (Feb. 12) game against the Knicks."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as Probable for Wednesday's (Feb. 12) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -110,11 +110,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "5",
                 "FG": "9",
                 "FGA": "6",
                 "FG%": "17",
-                "3P": "16",
+                "3P": "17",
                 "3PA": "16",
                 "3P%": "24",
                 "2P": "9",
@@ -131,7 +131,7 @@
                 "BLK": "10",
                 "TOV": "28",
                 "PF": "13",
-                "PTS": "9"
+                "PTS": "8"
             },
             "Year/Year": {
                 "G": "",
@@ -210,7 +210,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "5",
                 "FG": "26",
                 "FGA": "22",
                 "FG%": "27",
@@ -218,7 +218,7 @@
                 "3PA": "22",
                 "3P%": "24",
                 "2P": "24",
-                "2PA": "19",
+                "2PA": "18",
                 "2P%": "25",
                 "FT": "18",
                 "FTA": "15",
@@ -264,7 +264,7 @@
                 "PW": "23",
                 "PL": "31",
                 "MOV": "-2.44",
-                "SOS": "-0.24",
+                "SOS": "-0.25",
                 "SRS": "-2.69",
                 "ORtg": "111.9",
                 "DRtg": "114.2",
@@ -285,7 +285,7 @@
                 "PW": "21",
                 "PL": "21",
                 "MOV": "21",
-                "SOS": "18",
+                "SOS": "17",
                 "SRS": "21",
                 "ORtg": "23",
                 "DRtg": "13",
@@ -302,6 +302,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/ATL-2025.png",
-        "last_update": "Feb 11 2025 22:32:17"
+        "last_update": "Feb 12 2025 22:32:17"
     }
 }

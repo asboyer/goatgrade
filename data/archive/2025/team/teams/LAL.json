@@ -29,10 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Luka Dončić",
+                "Team": "Los Angeles Lakers",
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Calf) - The Lakers listed Doncic as Questionable for Wednesday's (Feb. 12) game against the Jazz."
+            },
+            {
+                "Player": "Dorian Finney-Smith",
+                "Team": "Los Angeles Lakers",
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Ankle) - The Lakers listed Finney-Smith as Out for Wednesday's (Feb. 12) game against the Jazz."
+            },
+            {
                 "Player": "Bronny James",
                 "Team": "Los Angeles Lakers",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Forearm) - The Lakers have listed James as OUT for Monday's (Feb. 10) game against the Jazz."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Forearm) - The Lakers listed James as Questionable for Wednesday's (Feb. 12) game against the Jazz."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Ankle) - The Lakers listed James as Probable for Wednesday's (Feb. 12) game against the Jazz."
             },
             {
                 "Player": "Maxi Kleber",
@@ -44,19 +62,25 @@
                 "Player": "Dalton Knecht",
                 "Team": "Los Angeles Lakers",
                 "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Trade Pending) - Knecht is OUT for Monday's (Feb. 10) game against the Jazz, as per Khobi Price of The Orange County Register reports."
+                "Description": "Day To Day (Trade Pending) - Knecht did not play on Monday's (Feb. 10) game against the Jazz."
+            },
+            {
+                "Player": "Austin Reaves",
+                "Team": "Los Angeles Lakers",
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Elbow) - The Lakers listed Reaves as Probable for Wednesday's (Feb. 12) game against the Jazz."
             },
             {
                 "Player": "Cam Reddish",
                 "Team": "Los Angeles Lakers",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Personal) - Reddish is Out for Monday's (Feb. 10) game against the Jazz, as per Khobi Price of The Orange County Register reports."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Personal) - The Lakers listed Reddish as Out for Wednesday's (Feb. 12) game against the Jazz."
             },
             {
-                "Player": "Christian Wood",
+                "Player": "Gabe Vincent",
                 "Team": "Los Angeles Lakers",
-                "Update": "Thu, Feb 6, 2025",
-                "Description": "Out (Knee) - Wood is listed as Out for Thursday's (Feb. 6) game against the Warriors."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Knee) - The Lakers listed Vincent as Out for Wednesday's (Feb. 12) game against the Jazz."
             }
         ],
         "team_stats": {
@@ -118,22 +142,22 @@
                 "FG%": "6",
                 "3P": "25",
                 "3PA": "27",
-                "3P%": "16",
+                "3P%": "17",
                 "2P": "11",
                 "2PA": "16",
-                "2P%": "3",
+                "2P%": "4",
                 "FT": "3",
                 "FTA": "7",
-                "FT%": "6",
+                "FT%": "5",
                 "ORB": "28",
                 "DRB": "22",
                 "TRB": "26",
                 "AST": "12",
                 "STL": "23",
-                "BLK": "21",
+                "BLK": "20",
                 "TOV": "8",
                 "PF": "4",
-                "PTS": "14"
+                "PTS": "15"
             },
             "Year/Year": {
                 "G": "",
@@ -215,20 +239,20 @@
                 "MP": "30",
                 "FG": "20",
                 "FGA": "18",
-                "FG%": "16",
+                "FG%": "17",
                 "3P": "11",
                 "3PA": "14",
                 "3P%": "8",
                 "2P": "20",
                 "2PA": "17",
                 "2P%": "19",
-                "FT": "5",
+                "FT": "4",
                 "FTA": "5",
                 "FT%": "24",
                 "ORB": "14",
                 "DRB": "6",
                 "TRB": "10",
-                "AST": "23",
+                "AST": "24",
                 "STL": "12",
                 "BLK": "3",
                 "TOV": "20",
@@ -266,8 +290,8 @@
                 "PW": "27",
                 "PL": "24",
                 "MOV": "1.04",
-                "SOS": "-0.18",
-                "SRS": "0.86",
+                "SOS": "-0.16",
+                "SRS": "0.88",
                 "ORtg": "115.5",
                 "DRtg": "114.4",
                 "Pace": "97.8",
@@ -284,7 +308,7 @@
             "Misc Lg Rank": {
                 "W": "8",
                 "L": "24",
-                "PW": "13",
+                "PW": "14",
                 "PL": "12",
                 "MOV": "12",
                 "SOS": "15",
@@ -304,6 +328,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/LAL-2025.png",
-        "last_update": "Feb 11 2025 22:32:17"
+        "last_update": "Feb 12 2025 22:32:17"
     }
 }

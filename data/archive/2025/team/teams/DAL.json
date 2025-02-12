@@ -33,10 +33,16 @@
                 "Description": "Out (Groin) - Davis was diagnosed Sunday with a left adductor strain and is expected to miss multiple weeks and potentially up to a month, Shams Charania of ESPN reports."
             },
             {
+                "Player": "Dante Exum",
+                "Team": "Dallas Mavericks",
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Achilles) - The Mavericks listed Exum as Questionable for Wednesday's (Feb. 12) game against the Warriors."
+            },
+            {
                 "Player": "Daniel Gafford",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Day To Day (Knee) - Gafford did not return to Monday's (Feb. 10) game against Sacramento."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Knee) - Gafford is slated to be re-evaluated within the next two weeks after sustaining a right knee sprain during Monday's (Feb. 10) 129-128 overtime loss to the Kings, Shams Charania of ESPN reports."
             },
             {
                 "Player": "Dereck Lively II",
@@ -53,14 +59,14 @@
             {
                 "Player": "Dwight Powell",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Hip) - The Mavericks have listed Powell as OUT for Monday's (Feb. 10) game against Sacramento."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Hip) - Powell will likely sit out until at least after the NBA All-Star break, with HC Kidd saying there's no update on the status of the big man, per Grant Afseth of DallasHoopsJournal.com."
             },
             {
                 "Player": "P.J. Washington",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Ankle) - The Mavericks have listed Washington Jr. as OUT for Monday's (Feb. 10) game against Sacramento."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Ankle) - The Mavericks listed Washington Jr. as Questionable for Wednesday's (Feb. 12) game against the Warriors."
             }
         ],
         "team_stats": {
@@ -116,16 +122,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "7",
                 "FG": "10",
                 "FGA": "20",
                 "FG%": "8",
                 "3P": "15",
                 "3PA": "23",
-                "3P%": "9",
+                "3P%": "8",
                 "2P": "10",
                 "2PA": "12",
-                "2P%": "11",
+                "2P%": "12",
                 "FT": "4",
                 "FTA": "3",
                 "FT%": "23",
@@ -134,7 +140,7 @@
                 "TRB": "15",
                 "AST": "20",
                 "STL": "17",
-                "BLK": "4",
+                "BLK": "3",
                 "TOV": "15",
                 "PF": "15",
                 "PTS": "10"
@@ -216,7 +222,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "7",
                 "FG": "22",
                 "FGA": "24",
                 "FG%": "9",
@@ -227,11 +233,11 @@
                 "2PA": "29",
                 "2P%": "5",
                 "FT": "11",
-                "FTA": "12",
+                "FTA": "13",
                 "FT%": "9",
                 "ORB": "28",
                 "DRB": "12",
-                "TRB": "19",
+                "TRB": "17",
                 "AST": "20",
                 "STL": "13",
                 "BLK": "11",
@@ -287,7 +293,7 @@
             },
             "Misc Lg Rank": {
                 "W": "12",
-                "L": "13",
+                "L": "14",
                 "PW": "9",
                 "PL": "10",
                 "MOV": "10",
@@ -304,10 +310,10 @@
                 "FT/FGA": "9",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "6"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/DAL-2025.png",
-        "last_update": "Feb 11 2025 22:32:17"
+        "last_update": "Feb 12 2025 22:32:17"
     }
 }

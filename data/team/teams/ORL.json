@@ -31,8 +31,8 @@
             {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Day To Day (Quad) - The Magic have listed Suggs as Doubtful for Monday's (Feb. 10) game against Atlanta. "
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Quad) - The Magic listed Suggs as Doubtful for Wednesday's (Feb. 12) game against the Hornets."
             },
             {
                 "Player": "Moritz Wagner",
@@ -96,23 +96,23 @@
                 "G": "",
                 "MP": "1",
                 "FG": "29",
-                "FGA": "27",
+                "FGA": "28",
                 "FG%": "28",
                 "3P": "30",
                 "3PA": "19",
                 "3P%": "30",
                 "2P": "20",
-                "2PA": "20",
+                "2PA": "21",
                 "2P%": "19",
                 "FT": "11",
                 "FTA": "6",
                 "FT%": "26",
                 "ORB": "11",
                 "DRB": "29",
-                "TRB": "28",
+                "TRB": "27",
                 "AST": "28",
-                "STL": "7",
-                "BLK": "3",
+                "STL": "6",
+                "BLK": "2",
                 "TOV": "18",
                 "PF": "28",
                 "PTS": "30"
@@ -200,7 +200,7 @@
                 "FG%": "24",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "25",
+                "3P%": "26",
                 "2P": "5",
                 "2PA": "6",
                 "2P%": "16",
@@ -213,7 +213,7 @@
                 "AST": "2",
                 "STL": "14",
                 "BLK": "5",
-                "TOV": "2",
+                "TOV": "3",
                 "PF": "2",
                 "PTS": "2"
             },
@@ -248,8 +248,8 @@
                 "PW": "24",
                 "PL": "31",
                 "MOV": "-1.76",
-                "SOS": "-0.42",
-                "SRS": "-2.19",
+                "SOS": "-0.41",
+                "SRS": "-2.17",
                 "ORtg": "107.7",
                 "DRtg": "109.5",
                 "Pace": "96.2",
@@ -276,7 +276,7 @@
                 "Pace": "29",
                 "FTr": "2",
                 "3PAr": "15",
-                "eFG%": "18",
+                "eFG%": "20",
                 "TOV%": "2",
                 "ORB%": "13",
                 "FT/FGA": "29",
@@ -286,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/ORL-2025.png",
-        "last_update": "Feb 11 2025 22:32:17"
+        "last_update": "Feb 12 2025 22:32:17"
     }
 }

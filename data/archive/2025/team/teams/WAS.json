@@ -23,7 +23,6 @@
             "AJ Johnson",
             "Jaylen Martin",
             "Saddiq Bey",
-            "Alex Len",
             "Khris Middleton",
             "Colby Jones",
             "Jaylen Nowell",
@@ -39,14 +38,8 @@
             {
                 "Player": "Anthony Gill",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Ankle) - The Wizards have listed Gill as Out for Monday's (Feb. 10) game against San Antonio."
-            },
-            {
-                "Player": "Alex Len",
-                "Team": "Washington Wizards",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Day To Day (Trade Pending) - Len did not play in Saturday's (Feb. 8) game against the Hawks."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Ankle) - The Wizards listed Gill as Out for Wednesday's (Feb. 12) game against the Pacers."
             },
             {
                 "Player": "Khris Middleton",
@@ -57,8 +50,8 @@
             {
                 "Player": "Alex Sarr",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Ankle) - The Wizards have listed Sarr as OUT for Monday's (Feb. 10) game against San Antonio."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Ankle) - The Wizards listed Sarr as Questionable for Wednesday's (Feb. 12) game against the Pacers."
             },
             {
                 "Player": "Marcus Smart",
@@ -120,25 +113,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "25",
                 "FGA": "9",
                 "FG%": "29",
-                "3P": "20",
+                "3P": "19",
                 "3PA": "11",
                 "3P%": "29",
                 "2P": "19",
                 "2PA": "15",
                 "2P%": "25",
-                "FT": "26",
+                "FT": "25",
                 "FTA": "25",
                 "FT%": "18",
                 "ORB": "19",
-                "DRB": "17",
+                "DRB": "18",
                 "TRB": "18",
                 "AST": "22",
                 "STL": "24",
-                "BLK": "15",
+                "BLK": "16",
                 "TOV": "25",
                 "PF": "25",
                 "PTS": "27"
@@ -220,20 +213,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "28",
                 "FGA": "26",
                 "FG%": "25",
                 "3P": "30",
-                "3PA": "28",
+                "3PA": "27",
                 "3P%": "23",
                 "2P": "27",
                 "2PA": "22",
                 "2P%": "23",
                 "FT": "29",
                 "FTA": "27",
-                "FT%": "28",
-                "ORB": "30",
+                "FT%": "29",
+                "ORB": "29",
                 "DRB": "30",
                 "TRB": "30",
                 "AST": "28",
@@ -274,8 +267,8 @@
                 "PW": "8",
                 "PL": "45",
                 "MOV": "-13.60",
-                "SOS": "1.45",
-                "SRS": "-12.15",
+                "SOS": "1.44",
+                "SRS": "-12.17",
                 "ORtg": "106.4",
                 "DRtg": "119.8",
                 "Pace": "101.5",
@@ -295,12 +288,12 @@
                 "PW": "30",
                 "PL": "30",
                 "MOV": "30",
-                "SOS": "2",
+                "SOS": "1",
                 "SRS": "30",
                 "ORtg": "30",
                 "DRtg": "30",
                 "Pace": "4",
-                "FTr": "25",
+                "FTr": "24",
                 "3PAr": "13",
                 "eFG%": "25",
                 "TOV%": "27",
@@ -312,6 +305,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/WAS-2025.png",
-        "last_update": "Feb 11 2025 22:32:17"
+        "last_update": "Feb 12 2025 22:32:17"
     }
 }

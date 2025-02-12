@@ -30,20 +30,20 @@
             {
                 "Player": "Jaylen Brown",
                 "Team": "Boston Celtics",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Knee) - The Celtics have listed Brown as OUT for Monday's (Feb. 10) game against Miami."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Knee) - The Celtics listed Brown as Questionable for Wednesday's (Feb. 12) game against the Spurs."
             },
             {
                 "Player": "Torrey Craig",
                 "Team": "Boston Celtics",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Ankle) - The Celtics have listed Craig as OUT for Monday's (Feb. 10) game against Miami."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Ankle) - The Celtics listed Craig as Questionable for Wednesday's (Feb. 12) game against the Spurs."
             },
             {
                 "Player": "Jrue Holiday",
                 "Team": "Boston Celtics",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Shoulder) - The Celtics have listed Holiday as OUT for Monday's (Feb. 10) game against Miami."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Shoulder) - The Celtics listed Holiday as Out for Wednesday's (Feb. 12) game against the Spurs."
             }
         ],
         "team_stats": {
@@ -110,12 +110,12 @@
                 "2PA": "30",
                 "2P%": "6",
                 "FT": "22",
-                "FTA": "27",
+                "FTA": "26",
                 "FT%": "7",
                 "ORB": "20",
                 "DRB": "7",
                 "TRB": "10",
-                "AST": "16",
+                "AST": "17",
                 "STL": "28",
                 "BLK": "5",
                 "TOV": "1",
@@ -214,12 +214,12 @@
                 "FT%": "23",
                 "ORB": "8",
                 "DRB": "23",
-                "TRB": "17",
+                "TRB": "16",
                 "AST": "3",
-                "STL": "3",
+                "STL": "2",
                 "BLK": "2",
                 "TOV": "24",
-                "PF": "18",
+                "PF": "19",
                 "PTS": "4"
             },
             "Opp Year/Year": {
@@ -253,8 +253,8 @@
                 "PW": "41",
                 "PL": "13",
                 "MOV": "9.00",
-                "SOS": "-0.59",
-                "SRS": "8.41",
+                "SOS": "-0.60",
+                "SRS": "8.40",
                 "ORtg": "119.8",
                 "DRtg": "110.6",
                 "Pace": "97.0",
@@ -274,7 +274,7 @@
                 "PW": "3",
                 "PL": "3",
                 "MOV": "3",
-                "SOS": "24",
+                "SOS": "25",
                 "SRS": "3",
                 "ORtg": "4",
                 "DRtg": "5",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/BOS-2025.png",
-        "last_update": "Feb 11 2025 22:32:17"
+        "last_update": "Feb 12 2025 22:32:17"
     }
 }

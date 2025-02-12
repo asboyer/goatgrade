@@ -31,14 +31,20 @@
             {
                 "Player": "Ousmane Dieng",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Calf) - The Thunder have listed Dieng as Out for Monday's (Feb. 10) game against the Pelicans."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Calf) - The Thunder listed Dieng as Out for Wednesday's (Feb. 12) game against the Heat."
+            },
+            {
+                "Player": "Chet Holmgren",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Rest) - The Thunder listed Holmgren as Out for Wednesday's (Feb. 12) game against the Heat."
             },
             {
                 "Player": "Isaiah Joe",
                 "Team": "Oklahoma City Thunder",
                 "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Knee) - The Thunder have listed Joe as Out for Monday's (Feb. 10) game against Pelicans."
+                "Description": "Day To Day (Knee) - Joe did not play on Monday's (Feb. 10) game against Pelicans."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -55,8 +61,8 @@
             {
                 "Player": "Cason Wallace",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Shoulder) - The Thunder have listed Wallace as Out for Monday's (Feb. 10) game against the Pelicans."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Shoulder) - The Thunder listed Wallace as Out for Wednesday's (Feb. 12) game against the Heat."
             }
         ],
         "team_stats": {
@@ -112,21 +118,21 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "26",
                 "FG": "4",
                 "FGA": "3",
                 "FG%": "9",
-                "3P": "10",
+                "3P": "9",
                 "3PA": "10",
-                "3P%": "15",
+                "3P%": "16",
                 "2P": "7",
                 "2PA": "10",
                 "2P%": "8",
                 "FT": "24",
                 "FTA": "29",
                 "FT%": "1",
-                "ORB": "17",
-                "DRB": "11",
+                "ORB": "18",
+                "DRB": "12",
                 "TRB": "14",
                 "AST": "15",
                 "STL": "1",
@@ -212,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "26",
                 "FG": "1",
                 "FGA": "4",
                 "FG%": "1",
@@ -223,11 +229,11 @@
                 "2PA": "1",
                 "2P%": "1",
                 "FT": "28",
-                "FTA": "28",
+                "FTA": "29",
                 "FT%": "3",
                 "ORB": "23",
                 "DRB": "20",
-                "TRB": "24",
+                "TRB": "23",
                 "AST": "4",
                 "STL": "1",
                 "BLK": "13",
@@ -267,7 +273,7 @@
                 "PL": "8",
                 "MOV": "13.44",
                 "SOS": "-0.26",
-                "SRS": "13.19",
+                "SRS": "13.18",
                 "ORtg": "118.5",
                 "DRtg": "105.0",
                 "Pace": "99.7",
@@ -287,7 +293,7 @@
                 "PW": "1",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "19",
+                "SOS": "18",
                 "SRS": "1",
                 "ORtg": "6",
                 "DRtg": "1",
@@ -304,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/OKC-2025.png",
-        "last_update": "Feb 11 2025 22:32:17"
+        "last_update": "Feb 12 2025 22:32:17"
     }
 }

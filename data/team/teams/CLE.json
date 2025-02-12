@@ -27,22 +27,28 @@
         ],
         "injuries": [
             {
+                "Player": "Ty Jerome",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Calf) - The Cavaliers listed Jerome as Questionable for Wednesday's (Feb. 12) game against the Raptors."
+            },
+            {
                 "Player": "Isaac Okoro",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Shoulder) - The Cavaliers have listed Okoro as OUT for Monday's (Feb. 10) game against Minnesota."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Shoulder) - Head coach Kenny Atkinson said Monday (Feb. 10) that the Cavaliers are aiming for Okoro to return after the All-Star break, Sam Amico of HoopsWire.com reports."
             },
             {
                 "Player": "Max Strus",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Ankle) - The Cavaliers have listed Strus as OUT for Monday's (Feb. 10) game against Minnesota."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Ankle) - The Cavaliers listed Strus as Questionable for Wednesday's (Feb. 12) game against the Raptors."
             },
             {
                 "Player": "Dean Wade",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Day To Day (Knee) - Head coach Kenny Atkinson said Monday that the Cavaliers are aiming for Okoro (shoulder) and Dean Wade (knee) to return after the All-Star break, Sam Amico of HoopsWire.com reports."
+                "Update": "Tue, Jan 28, 2025",
+                "Description": "Out (Knee) - Wade was diagnosed with a bone bruise in his right knee following a recent scan and is facing a multi-week recovery timeline, per Chris Fedor of The Cleveland Plain Dealer."
             }
         ],
         "team_stats": {
@@ -98,7 +104,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "20",
                 "FG": "3",
                 "FGA": "10",
                 "FG%": "2",
@@ -109,7 +115,7 @@
                 "2PA": "22",
                 "2P%": "1",
                 "FT": "21",
-                "FTA": "21",
+                "FTA": "22",
                 "FT%": "14",
                 "ORB": "23",
                 "DRB": "6",
@@ -198,7 +204,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "20",
                 "FG": "11",
                 "FGA": "19",
                 "FG%": "7",
@@ -216,7 +222,7 @@
                 "TRB": "13",
                 "AST": "8",
                 "STL": "10",
-                "BLK": "7",
+                "BLK": "8",
                 "TOV": "14",
                 "PF": "20",
                 "PTS": "12"
@@ -252,8 +258,8 @@
                 "PW": "41",
                 "PL": "12",
                 "MOV": "10.53",
-                "SOS": "-1.03",
-                "SRS": "9.50",
+                "SOS": "-1.02",
+                "SRS": "9.51",
                 "ORtg": "122.5",
                 "DRtg": "111.9",
                 "Pace": "100.1",
@@ -281,7 +287,7 @@
                 "FTr": "23",
                 "3PAr": "4",
                 "eFG%": "6",
-                "TOV%": "15",
+                "TOV%": "14",
                 "ORB%": "20",
                 "FT/FGA": "11",
                 "DRB%": "12",
@@ -290,6 +296,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/CLE-2025.png",
-        "last_update": "Feb 11 2025 22:32:17"
+        "last_update": "Feb 12 2025 22:32:17"
     }
 }

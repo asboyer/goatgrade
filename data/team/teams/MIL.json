@@ -31,7 +31,19 @@
                 "Player": "Giannis Antetokounmpo",
                 "Team": "Milwaukee Bucks",
                 "Update": "Sun, Feb 9, 2025",
-                "Description": "Out (Calf) - The Bucks announced Giannis Antetokounmpo will be sidelined through the next week due to a mild calf strain and will miss the NBA All-Star Game next Sunday"
+                "Description": "Out (Calf) - The Bucks announced Giannis Antetokounmpo will be sidelined through the next week due to a mild calf strain and will miss the NBA All-Star Game next Sunday (Feb. 16)."
+            },
+            {
+                "Player": "Pat Connaughton",
+                "Team": "Milwaukee Bucks",
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Calf) - The Bucks listed Connaughton as Probable for Wednesday's (Feb. 12) game against the Timberwolves."
+            },
+            {
+                "Player": "Damian Lillard",
+                "Team": "Milwaukee Bucks",
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Hamstring) - The Bucks listed Lillard as Probable for Wednesday's (Feb. 12) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -87,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "12",
                 "FGA": "22",
                 "FG%": "7",
@@ -105,7 +117,7 @@
                 "TRB": "19",
                 "AST": "19",
                 "STL": "29",
-                "BLK": "14",
+                "BLK": "15",
                 "TOV": "9",
                 "PF": "14",
                 "PTS": "12"
@@ -187,8 +199,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
-                "FG": "12",
+                "MP": "25",
+                "FG": "13",
                 "FGA": "21",
                 "FG%": "5",
                 "3P": "25",
@@ -241,8 +253,8 @@
                 "PW": "28",
                 "PL": "24",
                 "MOV": "1.38",
-                "SOS": "-0.96",
-                "SRS": "0.43",
+                "SOS": "-0.98",
+                "SRS": "0.41",
                 "ORtg": "114.8",
                 "DRtg": "113.4",
                 "Pace": "99.6",
@@ -265,7 +277,7 @@
                 "SOS": "28",
                 "SRS": "14",
                 "ORtg": "12",
-                "DRtg": "11",
+                "DRtg": "12",
                 "Pace": "9",
                 "FTr": "11",
                 "3PAr": "12",
@@ -273,12 +285,12 @@
                 "TOV%": "26",
                 "ORB%": "30",
                 "FT/FGA": "12",
-                "DRB%": "7",
+                "DRB%": "8",
                 "Arena": "",
                 "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/MIL-2025.png",
-        "last_update": "Feb 11 2025 22:32:17"
+        "last_update": "Feb 12 2025 22:32:17"
     }
 }

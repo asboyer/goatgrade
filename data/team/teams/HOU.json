@@ -29,12 +29,6 @@
         ],
         "injuries": [
             {
-                "Player": "Steven Adams",
-                "Team": "Houston Rockets",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Day To Day (Ankle) - Adams did not play in Sunday's (Feb. 9) game against Toronto."
-            },
-            {
                 "Player": "Tari Eason",
                 "Team": "Houston Rockets",
                 "Update": "Mon, Feb 10, 2025",
@@ -43,8 +37,8 @@
             {
                 "Player": "Alperen Şengün",
                 "Team": "Houston Rockets",
-                "Update": "Sun, Feb 9, 2025",
-                "Description": "Day To Day (Lumbar) - Sengun did not return to Sunday's (Feb. 9) game against Toronto."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Day To Day (Lumbar) - The Rockets listed Sengun as Questionable for Wednesday's (Feb. 12) game against the Suns."
             },
             {
                 "Player": "Jabari Smith Jr.",
@@ -55,8 +49,8 @@
             {
                 "Player": "Fred VanVleet",
                 "Team": "Houston Rockets",
-                "Update": "Mon, Feb 3, 2025",
-                "Description": "Out (Ankle) - Head coach Ime Udoka said Monday (Feb. 3) that VanVleet is considered week-to-week due to a right ankle strain, per Adam Spolane of Sports Radio 610 Houston."
+                "Update": "Tue, Feb 11, 2025",
+                "Description": "Out (Ankle) - The Rockets listed Vanvleet as Out for Wednesday's (Feb. 12) game against the Suns."
             },
             {
                 "Player": "Cody Zeller",
@@ -118,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "14",
                 "FG": "15",
                 "FGA": "2",
                 "FG%": "25",
@@ -133,10 +127,10 @@
                 "FT%": "27",
                 "ORB": "1",
                 "DRB": "14",
-                "TRB": "1",
+                "TRB": "2",
                 "AST": "30",
                 "STL": "8",
-                "BLK": "11",
+                "BLK": "12",
                 "TOV": "11",
                 "PF": "22",
                 "PTS": "17"
@@ -218,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "14",
                 "FG": "4",
                 "FGA": "9",
                 "FG%": "4",
@@ -272,8 +266,8 @@
                 "PW": "33",
                 "PL": "20",
                 "MOV": "4.23",
-                "SOS": "0.93",
-                "SRS": "5.15",
+                "SOS": "0.94",
+                "SRS": "5.16",
                 "ORtg": "114.0",
                 "DRtg": "109.7",
                 "Pace": "98.4",
@@ -310,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/HOU-2025.png",
-        "last_update": "Feb 11 2025 22:32:17"
+        "last_update": "Feb 12 2025 22:32:17"
     }
 }
