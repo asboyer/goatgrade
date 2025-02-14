@@ -2,7 +2,7 @@
     "ATL": {
         "info": {
             "record": "26-29",
-            "standing": "9th in East",
+            "standing": "8th in East",
             "coach": "Quin Snyder (26-29)",
             "gm": "Landry Fields",
             "preseason_odds": "+15000"
@@ -105,28 +105,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "6",
                 "FG": "8",
                 "FGA": "4",
                 "FG%": "16",
                 "3P": "16",
                 "3PA": "15",
-                "3P%": "23",
+                "3P%": "24",
                 "2P": "9",
                 "2PA": "9",
                 "2P%": "18",
                 "FT": "2",
                 "FTA": "2",
                 "FT%": "23",
-                "ORB": "8",
-                "DRB": "19",
-                "TRB": "10",
+                "ORB": "7",
+                "DRB": "20",
+                "TRB": "11",
                 "AST": "2",
                 "STL": "2",
                 "BLK": "9",
                 "TOV": "28",
                 "PF": "15",
-                "PTS": "7"
+                "PTS": "8"
             },
             "Year/Year": {
                 "G": "",
@@ -205,9 +205,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
-                "FG": "26",
-                "FGA": "22",
+                "MP": "6",
+                "FG": "27",
+                "FGA": "21",
                 "FG%": "28",
                 "3P": "26",
                 "3PA": "19",
@@ -218,14 +218,14 @@
                 "FT": "20",
                 "FTA": "15",
                 "FT%": "30",
-                "ORB": "7",
+                "ORB": "6",
                 "DRB": "24",
                 "TRB": "20",
                 "AST": "25",
                 "STL": "28",
                 "BLK": "19",
                 "TOV": "3",
-                "PF": "3",
+                "PF": "4",
                 "PTS": "26"
             },
             "Opp Year/Year": {
@@ -285,18 +285,18 @@
                 "ORtg": "21",
                 "DRtg": "15",
                 "Pace": "2",
-                "FTr": "5",
+                "FTr": "6",
                 "3PAr": "17",
                 "eFG%": "28",
                 "TOV%": "4",
-                "ORB%": "13",
-                "FT/FGA": "17",
+                "ORB%": "12",
+                "FT/FGA": "18",
                 "DRB%": "9",
                 "Arena": "",
                 "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/ATL-2025.png",
-        "last_update": "Feb 13 2025 22:32:22"
+        "last_update": "Feb 14 2025 22:32:17"
     }
 }

@@ -30,8 +30,8 @@
             {
                 "Player": "Brandon Ingram",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Ankle) - Ingram did not play in Wednesday's (Feb. 12) game against the Cavaliers."
+                "Update": "Thu, Feb 13, 2025",
+                "Description": "Out (Ankle) - Ingram (ankle) remains without a clear target date for making his Raptors debut, but the veteran forward isn't projected to play for at least a month,"
             },
             {
                 "Player": "Jakob Poeltl",
@@ -99,13 +99,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "9",
                 "FG": "13",
                 "FGA": "14",
                 "FG%": "14",
                 "3P": "29",
                 "3PA": "29",
-                "3P%": "21",
+                "3P%": "22",
                 "2P": "6",
                 "2PA": "3",
                 "2P%": "20",
@@ -116,11 +116,11 @@
                 "DRB": "24",
                 "TRB": "21",
                 "AST": "8",
-                "STL": "20",
+                "STL": "19",
                 "BLK": "24",
                 "TOV": "24",
                 "PF": "30",
-                "PTS": "22"
+                "PTS": "23"
             },
             "Year/Year": {
                 "G": "",
@@ -199,19 +199,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
-                "FG": "15",
+                "MP": "9",
+                "FG": "14",
                 "FGA": "13",
                 "FG%": "19",
                 "3P": "15",
-                "3PA": "16",
+                "3PA": "15",
                 "3P%": "12",
                 "2P": "17",
                 "2PA": "8",
                 "2P%": "21",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "8",
+                "FT%": "9",
                 "ORB": "21",
                 "DRB": "14",
                 "TRB": "19",
@@ -253,8 +253,8 @@
                 "PW": "18",
                 "PL": "37",
                 "MOV": "-5.95",
-                "SOS": "1.58",
-                "SRS": "-4.37",
+                "SOS": "1.56",
+                "SRS": "-4.39",
                 "ORtg": "110.6",
                 "DRtg": "116.6",
                 "Pace": "99.4",
@@ -282,15 +282,15 @@
                 "FTr": "22",
                 "3PAr": "29",
                 "eFG%": "20",
-                "TOV%": "17",
+                "TOV%": "16",
                 "ORB%": "10",
                 "FT/FGA": "30",
-                "DRB%": "26",
+                "DRB%": "25",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "6"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/TOR-2025.png",
-        "last_update": "Feb 13 2025 22:32:22"
+        "last_update": "Feb 14 2025 22:32:17"
     }
 }
