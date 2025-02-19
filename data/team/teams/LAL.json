@@ -29,28 +29,16 @@
         ],
         "injuries": [
             {
-                "Player": "Dorian Finney-Smith",
+                "Player": "LeBron James",
                 "Team": "Los Angeles Lakers",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Ankle) - Finney-Smith did not play in Wednesday's (Feb. 12) game against the Jazz."
+                "Update": "Tue, Feb 18, 2025",
+                "Description": "Day To Day (Foot) - The Lakers listed James as Questionable for Wednesday's (Feb. 19) game against the Hornets."
             },
             {
                 "Player": "Maxi Kleber",
                 "Team": "Los Angeles Lakers",
                 "Update": "Tue, Feb 4, 2025",
                 "Description": "Out (Foot) - Kleber will have his surgically repaired right foot re-evaluated in eight weeks, according to Jovan Buha of The Athletic."
-            },
-            {
-                "Player": "Cam Reddish",
-                "Team": "Los Angeles Lakers",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Personal) - Reddish did not play in Wednesday's (Feb. 12) game against the Jazz."
-            },
-            {
-                "Player": "Gabe Vincent",
-                "Team": "Los Angeles Lakers",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Knee) - Vincent did not play in Wednesday's (Feb. 12) game against the Jazz."
             }
         ],
         "team_stats": {
@@ -298,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/LAL-2025.png",
-        "last_update": "Feb 18 2025 22:32:17"
+        "last_update": "Feb 19 2025 22:32:17"
     }
 }

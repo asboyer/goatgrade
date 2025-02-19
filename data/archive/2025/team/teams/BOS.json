@@ -28,12 +28,6 @@
         ],
         "injuries": [
             {
-                "Player": "Jaylen Brown",
-                "Team": "Boston Celtics",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Knee) - Brown did not play in Wednesday's (Feb. 12) game against the Spurs."
-            },
-            {
                 "Player": "Jrue Holiday",
                 "Team": "Boston Celtics",
                 "Update": "Wed, Feb 12, 2025",
@@ -291,6 +285,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/BOS-2025.png",
-        "last_update": "Feb 18 2025 22:32:17"
+        "last_update": "Feb 19 2025 22:32:17"
     }
 }
