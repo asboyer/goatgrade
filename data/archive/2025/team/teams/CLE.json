@@ -29,20 +29,20 @@
             {
                 "Player": "Ty Jerome",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Calf) - Jerome did not play in Wednesday's (Feb. 12) game against the Raptors."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Day To Day (Calf) - The Cavaliers listed Jerome as Questionable for Thursday's (Feb. 20) game against the Nets."
             },
             {
                 "Player": "Isaac Okoro",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Tue, Feb 11, 2025",
-                "Description": "Out (Shoulder) - Head coach Kenny Atkinson said Monday (Feb. 10) that the Cavaliers are aiming for Okoro to return after the All-Star break, Sam Amico of HoopsWire.com reports."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Day To Day (Shoulder) - The Cavaliers listed Okoro as Questionable for Thursday's (Feb. 20) game against the Nets."
             },
             {
                 "Player": "Dean Wade",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Tue, Jan 28, 2025",
-                "Description": "Out (Knee) - Wade was diagnosed with a bone bruise in his right knee following a recent scan and is facing a multi-week recovery timeline, per Chris Fedor of The Cleveland Plain Dealer."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out (Knee) - The Cavaliers listed Wade as Out for Thursday's (Feb. 20) game against the Nets."
             }
         ],
         "team_stats": {
@@ -202,7 +202,7 @@
                 "FG": "11",
                 "FGA": "19",
                 "FG%": "6",
-                "3P": "14",
+                "3P": "13",
                 "3PA": "10",
                 "3P%": "20",
                 "2P": "15",
@@ -252,8 +252,8 @@
                 "PW": "42",
                 "PL": "12",
                 "MOV": "10.76",
-                "SOS": "-1.08",
-                "SRS": "9.68",
+                "SOS": "-1.07",
+                "SRS": "9.69",
                 "ORtg": "122.5",
                 "DRtg": "111.8",
                 "Pace": "100.1",
@@ -290,6 +290,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/CLE-2025.png",
-        "last_update": "Feb 19 2025 22:32:17"
+        "last_update": "Feb 20 2025 22:32:15"
     }
 }

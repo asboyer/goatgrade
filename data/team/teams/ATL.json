@@ -50,6 +50,12 @@
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Feb 12, 2025",
                 "Description": "Out (Knee) - The Hawks announced on Wednesday (Feb. 12) that Nance Jr. will be re-evaluated in approximately six weeks, and an update will be provided at that time."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as Probable for Thursday's (Feb. 20) game against the Magic."
             }
         ],
         "team_stats": {
@@ -283,7 +289,7 @@
                 "SOS": "14",
                 "SRS": "21",
                 "ORtg": "21",
-                "DRtg": "15",
+                "DRtg": "16",
                 "Pace": "2",
                 "FTr": "6",
                 "3PAr": "17",
@@ -297,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/ATL-2025.png",
-        "last_update": "Feb 19 2025 22:32:17"
+        "last_update": "Feb 20 2025 22:32:15"
     }
 }

@@ -28,16 +28,10 @@
         ],
         "injuries": [
             {
-                "Player": "Bojan Bogdanović",
-                "Team": "Brooklyn Nets",
-                "Update": "Fri, Feb 14, 2025",
-                "Description": "Out (Foot) - The Nets have yet to give a definitive timeline on when he might be ready for game action. The Nets could provide an update on Bogdanovic's status after the All-Star break."
-            },
-            {
                 "Player": "Noah Clowney",
                 "Team": "Brooklyn Nets",
-                "Update": "Fri, Jan 31, 2025",
-                "Description": "Out (Ankle) - The Nets announced Friday (Jan. 31) that Clowney will likely remain out through the All-Star break due to a left ankle sprain."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out (Ankle) - Clowney remains without a timetable for a return, according to Erik Slater of ClutchPoints.com."
             },
             {
                 "Player": "De'Anthony Melton",
@@ -48,8 +42,8 @@
             {
                 "Player": "Cam Thomas",
                 "Team": "Brooklyn Nets",
-                "Update": "Fri, Jan 31, 2025",
-                "Description": "Out (Hamstring) - The Nets announced Friday (Jan. 31) that Thomas had a follow-up MRI that revealed appropriate healing. He will continue to progress with individual on-court workouts and is expected to return shortly after the All-Star break."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out (Hamstring) - Thomas has been cleared to participate in a 5-on-5 scrimmage at Thursday's (Feb. 20) practice, as per Erik Slater of ClutchPoints.com."
             }
         ],
         "team_stats": {
@@ -209,7 +203,7 @@
                 "FG": "6",
                 "FGA": "2",
                 "FG%": "27",
-                "3P": "9",
+                "3P": "8",
                 "3PA": "4",
                 "3P%": "26",
                 "2P": "4",
@@ -259,8 +253,8 @@
                 "PW": "17",
                 "PL": "37",
                 "MOV": "-5.98",
-                "SOS": "0.11",
-                "SRS": "-5.87",
+                "SOS": "0.12",
+                "SRS": "-5.86",
                 "ORtg": "108.8",
                 "DRtg": "115.0",
                 "Pace": "96.0",
@@ -280,8 +274,8 @@
                 "PW": "27",
                 "PL": "26",
                 "MOV": "27",
-                "SOS": "12",
-                "SRS": "26",
+                "SOS": "10",
+                "SRS": "27",
                 "ORtg": "27",
                 "DRtg": "19",
                 "Pace": "30",
@@ -297,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/BRK-2025.png",
-        "last_update": "Feb 19 2025 22:32:17"
+        "last_update": "Feb 20 2025 22:32:15"
     }
 }

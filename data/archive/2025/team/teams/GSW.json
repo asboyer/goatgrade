@@ -27,8 +27,8 @@
             {
                 "Player": "Jonathan Kuminga",
                 "Team": "Golden State Warriors",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Ankle) - The Warriors announced Kuminga started on-court workouts and is expected to be incorporated in team practices after the All-Star break. He will be re-evaluated in 10 days."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Day To Day (Ankle) - The Warriors announced on Wednesday (Feb. 19) that Kuminga returned to team practice this evening and his return to game action will be based on his continued progress and physical readiness."
             }
         ],
         "team_stats": {
@@ -90,7 +90,7 @@
                 "FG%": "26",
                 "3P": "4",
                 "3PA": "3",
-                "3P%": "16",
+                "3P%": "15",
                 "2P": "26",
                 "2PA": "22",
                 "2P%": "26",
@@ -185,17 +185,17 @@
             "Opp Lg Rank": {
                 "G": "",
                 "MP": "12",
-                "FG": "8",
+                "FG": "9",
                 "FGA": "11",
                 "FG%": "12",
-                "3P": "13",
+                "3P": "12",
                 "3PA": "12",
                 "3P%": "16",
                 "2P": "8",
                 "2PA": "10",
                 "2P%": "14",
                 "FT": "16",
-                "FTA": "16",
+                "FTA": "17",
                 "FT%": "10",
                 "ORB": "7",
                 "DRB": "25",
@@ -205,7 +205,7 @@
                 "BLK": "28",
                 "TOV": "11",
                 "PF": "27",
-                "PTS": "9"
+                "PTS": "10"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -238,8 +238,8 @@
                 "PW": "28",
                 "PL": "27",
                 "MOV": "0.31",
-                "SOS": "0.86",
-                "SRS": "1.17",
+                "SOS": "0.85",
+                "SRS": "1.16",
                 "ORtg": "112.7",
                 "DRtg": "112.4",
                 "Pace": "99.1",
@@ -266,7 +266,7 @@
                 "Pace": "15",
                 "FTr": "25",
                 "3PAr": "3",
-                "eFG%": "12",
+                "eFG%": "13",
                 "TOV%": "11",
                 "ORB%": "6",
                 "FT/FGA": "17",
@@ -276,6 +276,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/GSW-2025.png",
-        "last_update": "Feb 19 2025 22:32:17"
+        "last_update": "Feb 20 2025 22:32:15"
     }
 }

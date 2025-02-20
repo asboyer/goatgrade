@@ -28,16 +28,10 @@
         ],
         "injuries": [
             {
-                "Player": "Jrue Holiday",
-                "Team": "Boston Celtics",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Shoulder) - Holiday did not play in Wednesday's (Feb. 12) game against the Spurs."
-            },
-            {
                 "Player": "Xavier Tillman Sr.",
                 "Team": "Boston Celtics",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Knee) - Tillman Sr. did not play in Wednesday's (Feb. 12) game against the Spurs."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out (Knee) - The Celtics listed Tillman Sr. as OUT to play Thursday's (Feb. 20) game against Philadelphia."
             }
         ],
         "team_stats": {
@@ -205,7 +199,7 @@
                 "2P%": "3",
                 "FT": "3",
                 "FTA": "3",
-                "FT%": "24",
+                "FT%": "23",
                 "ORB": "8",
                 "DRB": "22",
                 "TRB": "15",
@@ -247,7 +241,7 @@
                 "PW": "42",
                 "PL": "13",
                 "MOV": "9.07",
-                "SOS": "-0.62",
+                "SOS": "-0.61",
                 "SRS": "8.46",
                 "ORtg": "119.7",
                 "DRtg": "110.5",
@@ -285,6 +279,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/BOS-2025.png",
-        "last_update": "Feb 19 2025 22:32:17"
+        "last_update": "Feb 20 2025 22:32:15"
     }
 }

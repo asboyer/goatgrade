@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Ulrich Chomche",
+                "Team": "Toronto Raptors",
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out For Season (Knee) - Chomche was diagnosed Wednesday (Feb. 19) with a partial proximal MCL tear in his right knee and will miss the remainder of the season, as per Michael Scotto of USA Today."
+            },
+            {
                 "Player": "Brandon Ingram",
                 "Team": "Toronto Raptors",
                 "Update": "Thu, Feb 13, 2025",
@@ -254,7 +260,7 @@
                 "PL": "37",
                 "MOV": "-5.95",
                 "SOS": "1.56",
-                "SRS": "-4.39",
+                "SRS": "-4.38",
                 "ORtg": "110.6",
                 "DRtg": "116.6",
                 "Pace": "99.4",
@@ -291,6 +297,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/TOR-2025.png",
-        "last_update": "Feb 19 2025 22:32:17"
+        "last_update": "Feb 20 2025 22:32:15"
     }
 }

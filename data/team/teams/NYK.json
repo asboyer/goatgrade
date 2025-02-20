@@ -30,26 +30,26 @@
             {
                 "Player": "OG Anunoby",
                 "Team": "New York Knicks",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Foot) - Anunoby did not play in Wednesday's (Feb. 12) game against the Hawks."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Day To Day (Foot) - The Knicks listed Anunoby as Questionable for Thursday's (Feb. 20) game against the Bulls."
             },
             {
                 "Player": "Pacome Dadiet",
                 "Team": "New York Knicks",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Toe) - Dadiet did not play in Wednesday's (Feb. 12) game against the Hawks."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out (Toe) - The Knicks listed Dadiet as Out for Thursday's (Feb. 20) game against the Bulls."
             },
             {
-                "Player": "Tyler Kolek",
+                "Player": "Josh Hart",
                 "Team": "New York Knicks",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Ankle) - Kolek did not play in Wednesday's (Feb. 12) game against the Hawks."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out (Knee) - The Knicks listed Hart as Out for Thursday's (Feb. 20) game against the Bulls."
             },
             {
                 "Player": "Mitchell Robinson",
                 "Team": "New York Knicks",
-                "Update": "Sat, Feb 8, 2025",
-                "Description": "Out (Ankle) - Robinson (ankle) is reportedly targeting to return to the floor before next month for the Knicks, Shams Charania of ESPN reports."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out (Ankle) - Knicks coach Thibodeau said that Robinson has been cleared for 5-on-5 contact at practice, as per Ian Begley of SportsNet New York."
             }
         ],
         "team_stats": {
@@ -206,7 +206,7 @@
             "Opp Lg Rank": {
                 "G": "",
                 "MP": "18",
-                "FG": "18",
+                "FG": "19",
                 "FGA": "12",
                 "FG%": "20",
                 "3P": "16",
@@ -215,16 +215,16 @@
                 "2P": "18",
                 "2PA": "18",
                 "2P%": "13",
-                "FT": "5",
-                "FTA": "4",
-                "FT%": "25",
+                "FT": "4",
+                "FTA": "5",
+                "FT%": "24",
                 "ORB": "10",
                 "DRB": "1",
                 "TRB": "1",
                 "AST": "9",
                 "STL": "3",
                 "BLK": "15",
-                "TOV": "18",
+                "TOV": "19",
                 "PF": "6",
                 "PTS": "13"
             },
@@ -259,8 +259,8 @@
                 "PW": "36",
                 "PL": "18",
                 "MOV": "5.94",
-                "SOS": "-1.13",
-                "SRS": "4.82",
+                "SOS": "-1.12",
+                "SRS": "4.83",
                 "ORtg": "121.1",
                 "DRtg": "115.0",
                 "Pace": "97.2",
@@ -291,12 +291,12 @@
                 "TOV%": "15",
                 "ORB%": "8",
                 "FT/FGA": "6",
-                "DRB%": "17",
+                "DRB%": "18",
                 "Arena": "",
                 "Attendance": "1"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/NYK-2025.png",
-        "last_update": "Feb 19 2025 22:32:17"
+        "last_update": "Feb 20 2025 22:32:15"
     }
 }

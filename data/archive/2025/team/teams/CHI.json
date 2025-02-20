@@ -29,16 +29,10 @@
         ],
         "injuries": [
             {
-                "Player": "Lonzo Ball",
+                "Player": "Patrick Williams",
                 "Team": "Chicago Bulls",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Knee) - Ball did not play in Wednesday's (Feb. 12) game against the Pistons."
-            },
-            {
-                "Player": "Adama Sanogo",
-                "Team": "Chicago Bulls",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Knee) - Sanogo did not play in Wednesday's (Feb. 12) game against the Pistons."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out (Knee) - The Bulls listed Williams as Out for Thursday's (Feb. 20) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -248,8 +242,8 @@
                 "PW": "20",
                 "PL": "35",
                 "MOV": "-4.69",
-                "SOS": "-0.18",
-                "SRS": "-4.87",
+                "SOS": "-0.17",
+                "SRS": "-4.86",
                 "ORtg": "112.3",
                 "DRtg": "116.9",
                 "Pace": "103.1",
@@ -267,7 +261,7 @@
                 "W": "23",
                 "L": "8",
                 "PW": "23",
-                "PL": "24",
+                "PL": "23",
                 "MOV": "23",
                 "SOS": "15",
                 "SRS": "24",
@@ -286,6 +280,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/CHI-2025.png",
-        "last_update": "Feb 19 2025 22:32:17"
+        "last_update": "Feb 20 2025 22:32:15"
     }
 }

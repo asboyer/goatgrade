@@ -29,16 +29,10 @@
         ],
         "injuries": [
             {
-                "Player": "Jonathan Isaac",
-                "Team": "Orlando Magic",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Back) - Isaac did not play in Wednesday's (Feb. 12) game against the Hornets."
-            },
-            {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Quad) - Suggs did not play in Wednesday's (Feb. 12) game against the Hornets."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out (Quad) - The Hornets listed Suggs as Out on Thursday's (Feb. 20) game against the Hawks."
             },
             {
                 "Player": "Moritz Wagner",
@@ -111,7 +105,7 @@
                 "2PA": "21",
                 "2P%": "19",
                 "FT": "10",
-                "FTA": "8",
+                "FTA": "7",
                 "FT%": "26",
                 "ORB": "11",
                 "DRB": "29",
@@ -254,8 +248,8 @@
                 "PW": "25",
                 "PL": "31",
                 "MOV": "-1.45",
-                "SOS": "-0.52",
-                "SRS": "-1.97",
+                "SOS": "-0.51",
+                "SRS": "-1.96",
                 "ORtg": "107.7",
                 "DRtg": "109.2",
                 "Pace": "96.2",
@@ -292,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/ORL-2025.png",
-        "last_update": "Feb 19 2025 22:32:17"
+        "last_update": "Feb 20 2025 22:32:15"
     }
 }

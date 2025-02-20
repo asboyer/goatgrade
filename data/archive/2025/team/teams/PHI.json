@@ -27,22 +27,22 @@
         ],
         "injuries": [
             {
-                "Player": "Joel Embiid",
+                "Player": "Justin Edwards",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Knee) - Embiid did not play in Wednesday's (Feb. 12) game against the Nets."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out (Ankle) - Edwards will miss at least the next two games for the 76ers, according to Keith Pompey of The Philadelphia Inquirer."
             },
             {
                 "Player": "Eric Gordon",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Wrist) - Gordon did not play in Wednesday's (Feb. 12) game against the Nets."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out (Wrist) - The 76ers listed Gordon as Out for Thursday's (Feb. 20) game against the Celtics."
             },
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (hip) - Lowry did not play in Wednesday's (Feb. 12) game against the Nets."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out (hip) - The 76ers listed Lowry as Out for Thursday's (Feb. 20) game against the Celtics."
             },
             {
                 "Player": "Jared McCain",
@@ -258,8 +258,8 @@
                 "PW": "21",
                 "PL": "33",
                 "MOV": "-3.81",
-                "SOS": "0.05",
-                "SRS": "-3.77",
+                "SOS": "0.06",
+                "SRS": "-3.75",
                 "ORtg": "112.1",
                 "DRtg": "116.0",
                 "Pace": "96.6",
@@ -296,6 +296,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/PHI-2025.png",
-        "last_update": "Feb 19 2025 22:32:17"
+        "last_update": "Feb 20 2025 22:32:15"
     }
 }

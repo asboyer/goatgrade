@@ -37,26 +37,26 @@
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Knee) - Grant did not play in Wednesday's (Feb. 12) game against the Nuggets."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Day To Day (Knee) - The Trail Blazers listed Grant as Questionable for Thursday's (Feb. 20) game against the Lakers."
             },
             {
                 "Player": "Scoot Henderson",
                 "Team": "Portland Trail Blazers",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Ankle) - Henderson did not play in Wednesday's (Feb. 12) game against the Nuggets."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Day To Day (Ankle) - The Trail Blazers listed Henderson as Questionable for Thursday's (Feb. 20) game against the Lakers."
             },
             {
                 "Player": "Matisse Thybulle",
                 "Team": "Portland Trail Blazers",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Ankle) - Thybulle did not play in Wednesday's (Feb. 12) game against the Nuggets."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out (Ankle) - The Trail Blazers listed Thybulle as Out for Thursday's (Feb. 20) game against the Lakers."
             },
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Knee) - Williams III did not play in Wednesday's (Feb. 12) game against the Nuggets."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Day To Day (Knee) - The Trail Blazers listed Williams III as Questionable for Thursday's (Feb. 20) game against the Lakers."
             }
         ],
         "team_stats": {
@@ -116,7 +116,7 @@
                 "FG": "23",
                 "FGA": "19",
                 "FG%": "23",
-                "3P": "24",
+                "3P": "25",
                 "3PA": "21",
                 "3P%": "27",
                 "2P": "16",
@@ -132,7 +132,7 @@
                 "STL": "18",
                 "BLK": "7",
                 "TOV": "26",
-                "PF": "19",
+                "PF": "20",
                 "PTS": "25"
             },
             "Year/Year": {
@@ -213,7 +213,7 @@
             "Opp Lg Rank": {
                 "G": "",
                 "MP": "12",
-                "FG": "19",
+                "FG": "20",
                 "FGA": "9",
                 "FG%": "24",
                 "3P": "6",
@@ -230,7 +230,7 @@
                 "TRB": "14",
                 "AST": "16",
                 "STL": "29",
-                "BLK": "23",
+                "BLK": "24",
                 "TOV": "8",
                 "PF": "11",
                 "PTS": "19"
@@ -266,7 +266,7 @@
                 "PW": "18",
                 "PL": "37",
                 "MOV": "-5.62",
-                "SOS": "0.68",
+                "SOS": "0.67",
                 "SRS": "-4.94",
                 "ORtg": "110.8",
                 "DRtg": "116.5",
@@ -293,17 +293,17 @@
                 "DRtg": "24",
                 "Pace": "19",
                 "FTr": "15",
-                "3PAr": "18",
+                "3PAr": "19",
                 "eFG%": "22",
                 "TOV%": "9",
                 "ORB%": "4",
                 "FT/FGA": "26",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/POR-2025.png",
-        "last_update": "Feb 19 2025 22:32:17"
+        "last_update": "Feb 20 2025 22:32:15"
     }
 }

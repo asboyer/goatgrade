@@ -29,28 +29,10 @@
         ],
         "injuries": [
             {
-                "Player": "Grayson Allen",
-                "Team": "Phoenix Suns",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Knee) - Allen did not play in Wednesday's (Feb. 12) game against the Rockets."
-            },
-            {
-                "Player": "Bradley Beal",
-                "Team": "Phoenix Suns",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Toe) - Beal did not play in Wednesday's (Feb. 12) game against the Rockets."
-            },
-            {
-                "Player": "Devin Booker",
-                "Team": "Phoenix Suns",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Back) - Booker did not play in Wednesday's (Feb. 12) game against the Rockets."
-            },
-            {
                 "Player": "Cody Martin",
                 "Team": "Phoenix Suns",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Trade Pending) - Suns head coach Mike Budenholzer suggested Monday that Martin (sports hernia) likely won't be available to play until after the All-Star break, Gerald Bourguet of GoPHNX.com reports."
+                "Update": "Wed, Feb 19, 2025",
+                "Description": "Out (Abdomen) - The Suns listed Martin as Out for Thursday's (Feb. 20) game against the Spurs."
             }
         ],
         "team_stats": {
@@ -127,7 +109,7 @@
                 "BLK": "10",
                 "TOV": "13",
                 "PF": "9",
-                "PTS": "15"
+                "PTS": "14"
             },
             "Year/Year": {
                 "G": "",
@@ -213,7 +195,7 @@
                 "3P": "17",
                 "3PA": "17",
                 "3P%": "11",
-                "2P": "19",
+                "2P": "20",
                 "2PA": "20",
                 "2P%": "16",
                 "FT": "18",
@@ -261,7 +243,7 @@
                 "PL": "30",
                 "MOV": "-1.78",
                 "SOS": "-0.30",
-                "SRS": "-2.07",
+                "SRS": "-2.08",
                 "ORtg": "115.5",
                 "DRtg": "117.3",
                 "Pace": "97.3",
@@ -281,9 +263,9 @@
                 "PW": "19",
                 "PL": "19",
                 "MOV": "20",
-                "SOS": "18",
+                "SOS": "17",
                 "SRS": "20",
-                "ORtg": "11",
+                "ORtg": "10",
                 "DRtg": "27",
                 "Pace": "23",
                 "FTr": "9",
@@ -298,6 +280,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/PHO-2025.png",
-        "last_update": "Feb 19 2025 22:32:17"
+        "last_update": "Feb 20 2025 22:32:15"
     }
 }
