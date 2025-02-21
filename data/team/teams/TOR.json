@@ -24,7 +24,8 @@
             "Ulrich Chomche",
             "A.J. Lawson",
             "P.J. Tucker",
-            "Brandon Ingram"
+            "Brandon Ingram",
+            "Jared Rhoden"
         ],
         "injuries": [
             {
@@ -42,8 +43,8 @@
             {
                 "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Day To Day (Hip) - Poeltl did not play in Wednesday's (Feb. 12) game against the Cavaliers."
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Out (Hip) - The Raptors listed Poeltl as OUT for Friday's (Feb. 21) game against Miami."
             },
             {
                 "Player": "P.J. Tucker",
@@ -105,25 +106,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "14",
                 "FG": "13",
-                "FGA": "14",
+                "FGA": "15",
                 "FG%": "14",
                 "3P": "29",
                 "3PA": "29",
-                "3P%": "22",
+                "3P%": "21",
                 "2P": "6",
                 "2PA": "3",
-                "2P%": "20",
+                "2P%": "21",
                 "FT": "28",
-                "FTA": "21",
+                "FTA": "22",
                 "FT%": "28",
                 "ORB": "9",
-                "DRB": "24",
+                "DRB": "25",
                 "TRB": "21",
                 "AST": "8",
                 "STL": "19",
-                "BLK": "24",
+                "BLK": "23",
                 "TOV": "24",
                 "PF": "30",
                 "PTS": "23"
@@ -205,24 +206,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "14",
                 "FG": "14",
-                "FGA": "13",
+                "FGA": "12",
                 "FG%": "19",
                 "3P": "15",
                 "3PA": "15",
                 "3P%": "12",
-                "2P": "17",
+                "2P": "16",
                 "2PA": "8",
-                "2P%": "21",
+                "2P%": "22",
                 "FT": "30",
                 "FTA": "30",
                 "FT%": "9",
                 "ORB": "21",
-                "DRB": "14",
-                "TRB": "19",
+                "DRB": "13",
+                "TRB": "17",
                 "AST": "12",
-                "STL": "25",
+                "STL": "26",
                 "BLK": "26",
                 "TOV": "16",
                 "PF": "21",
@@ -259,7 +260,7 @@
                 "PW": "18",
                 "PL": "37",
                 "MOV": "-5.95",
-                "SOS": "1.56",
+                "SOS": "1.57",
                 "SRS": "-4.38",
                 "ORtg": "110.6",
                 "DRtg": "116.6",
@@ -278,11 +279,11 @@
                 "W": "26",
                 "L": "5",
                 "PW": "25",
-                "PL": "27",
+                "PL": "25",
                 "MOV": "26",
                 "SOS": "1",
                 "SRS": "23",
-                "ORtg": "25",
+                "ORtg": "24",
                 "DRtg": "25",
                 "Pace": "12",
                 "FTr": "22",
@@ -293,10 +294,10 @@
                 "FT/FGA": "30",
                 "DRB%": "25",
                 "Arena": "",
-                "Attendance": "6"
+                "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/TOR-2025.png",
-        "last_update": "Feb 20 2025 22:32:15"
+        "last_update": "Feb 21 2025 22:32:18"
     }
 }

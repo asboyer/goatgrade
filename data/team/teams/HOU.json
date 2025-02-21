@@ -35,16 +35,10 @@
                 "Description": "Day To Day (Leg) - Eason did not play in Thursday's (Feb. 13) game against the Warriors."
             },
             {
-                "Player": "Jabari Smith Jr.",
-                "Team": "Houston Rockets",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Hand) - Coach Ime Udoka said Sunday that Smith (hand) may be cleared for contact work during the All-Star break, Adam Spolane of Sports Radio 610 Houston reports."
-            },
-            {
                 "Player": "Fred VanVleet",
                 "Team": "Houston Rockets",
-                "Update": "Thu, Feb 13, 2025",
-                "Description": "Day To Day (Ankle) - VanVleet did not play in Thursday's (Feb. 13) game against the Warriors."
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Day To Day (Ankle) - The Rockets listed VanVleet as questionable for Friday's (Feb. 21) game against Minnesota."
             },
             {
                 "Player": "Cody Zeller",
@@ -106,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "14",
                 "FG": "15",
                 "FGA": "2",
                 "FG%": "25",
@@ -125,8 +119,8 @@
                 "AST": "30",
                 "STL": "8",
                 "BLK": "12",
-                "TOV": "11",
-                "PF": "22",
+                "TOV": "10",
+                "PF": "23",
                 "PTS": "17"
             },
             "Year/Year": {
@@ -206,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "14",
                 "FG": "4",
                 "FGA": "8",
                 "FG%": "5",
@@ -214,7 +208,7 @@
                 "3PA": "2",
                 "3P%": "10",
                 "2P": "12",
-                "2PA": "26",
+                "2PA": "25",
                 "2P%": "2",
                 "FT": "13",
                 "FTA": "18",
@@ -225,7 +219,7 @@
                 "AST": "1",
                 "STL": "10",
                 "BLK": "29",
-                "TOV": "8",
+                "TOV": "9",
                 "PF": "5",
                 "PTS": "6"
             },
@@ -260,8 +254,8 @@
                 "PW": "34",
                 "PL": "21",
                 "MOV": "4.09",
-                "SOS": "0.87",
-                "SRS": "4.96",
+                "SOS": "0.84",
+                "SRS": "4.93",
                 "ORtg": "113.8",
                 "DRtg": "109.7",
                 "Pace": "98.5",
@@ -285,19 +279,19 @@
                 "SRS": "6",
                 "ORtg": "14",
                 "DRtg": "4",
-                "Pace": "18",
-                "FTr": "10",
+                "Pace": "19",
+                "FTr": "11",
                 "3PAr": "28",
                 "eFG%": "3",
                 "TOV%": "8",
                 "ORB%": "1",
                 "FT/FGA": "14",
-                "DRB%": "13",
+                "DRB%": "11",
                 "Arena": "",
-                "Attendance": "26"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/HOU-2025.png",
-        "last_update": "Feb 20 2025 22:32:15"
+        "last_update": "Feb 21 2025 22:32:18"
     }
 }

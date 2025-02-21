@@ -21,14 +21,16 @@
             "Pat Spencer",
             "Quinten Post",
             "Jimmy Butler",
-            "Jackson Rowe"
+            "Jackson Rowe",
+            "Yuri Collins",
+            "Kevin Knox"
         ],
         "injuries": [
             {
                 "Player": "Jonathan Kuminga",
                 "Team": "Golden State Warriors",
-                "Update": "Wed, Feb 19, 2025",
-                "Description": "Day To Day (Ankle) - The Warriors announced on Wednesday (Feb. 19) that Kuminga returned to team practice this evening and his return to game action will be based on his continued progress and physical readiness."
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Out (Ankle) - The Warriors listed Kuminga as Out for Friday's (Feb. 21) game against the Kings."
             }
         ],
         "team_stats": {
@@ -84,15 +86,15 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "19",
                 "FG": "19",
-                "FGA": "5",
+                "FGA": "6",
                 "FG%": "26",
                 "3P": "4",
                 "3PA": "3",
                 "3P%": "15",
                 "2P": "26",
-                "2PA": "22",
+                "2PA": "23",
                 "2P%": "26",
                 "FT": "29",
                 "FTA": "23",
@@ -184,28 +186,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
-                "FG": "9",
+                "MP": "19",
+                "FG": "8",
                 "FGA": "11",
                 "FG%": "12",
-                "3P": "12",
-                "3PA": "12",
+                "3P": "13",
+                "3PA": "11",
                 "3P%": "16",
-                "2P": "8",
+                "2P": "7",
                 "2PA": "10",
                 "2P%": "14",
                 "FT": "16",
-                "FTA": "17",
+                "FTA": "16",
                 "FT%": "10",
                 "ORB": "7",
-                "DRB": "25",
-                "TRB": "21",
+                "DRB": "24",
+                "TRB": "20",
                 "AST": "11",
                 "STL": "7",
                 "BLK": "28",
                 "TOV": "11",
                 "PF": "27",
-                "PTS": "10"
+                "PTS": "9"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -238,8 +240,8 @@
                 "PW": "28",
                 "PL": "27",
                 "MOV": "0.31",
-                "SOS": "0.85",
-                "SRS": "1.16",
+                "SOS": "0.83",
+                "SRS": "1.14",
                 "ORtg": "112.7",
                 "DRtg": "112.4",
                 "Pace": "99.1",
@@ -256,7 +258,7 @@
             "Misc Lg Rank": {
                 "W": "15",
                 "L": "15",
-                "PW": "14",
+                "PW": "16",
                 "PL": "16",
                 "MOV": "16",
                 "SOS": "5",
@@ -266,7 +268,7 @@
                 "Pace": "15",
                 "FTr": "25",
                 "3PAr": "3",
-                "eFG%": "13",
+                "eFG%": "12",
                 "TOV%": "11",
                 "ORB%": "6",
                 "FT/FGA": "17",
@@ -276,6 +278,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/GSW-2025.png",
-        "last_update": "Feb 20 2025 22:32:15"
+        "last_update": "Feb 21 2025 22:32:18"
     }
 }

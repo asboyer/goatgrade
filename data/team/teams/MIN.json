@@ -30,26 +30,32 @@
             {
                 "Player": "Mike Conley",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Thu, Feb 13, 2025",
-                "Description": "Day To Day (Finger) - Conley did not play in Thursday's (Feb. 13) game against the Thunder."
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Day To Day (Finger) - The Timberwolves listed Conley as questionable for Friday's (Feb. 21) game against Houston."
+            },
+            {
+                "Player": "Mike Conley",
+                "Team": "Minnesota Timberwolves",
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Day To Day (Finger) - The Timberwolves listed Conley as questionable for Friday's (Feb. 21) game against Houston."
             },
             {
                 "Player": "Donte DiVincenzo",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Fri, Jan 24, 2025",
-                "Description": "Out (Toe) - The Timberwolves announced Friday (Jan. 24) that DiVincenzo won't require surgery to address the partial ligament tear in the big toe on his left foot and will be re-evaluated in three weeks."
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Out (Toe) - The Timberwolves announced Thursday that DiVincenzo (toe) has been cleared for non-contact basketball activities, Jace Frederick reports."
             },
             {
                 "Player": "Rudy Gobert",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Thu, Feb 13, 2025",
-                "Description": "Day To Day (Back) - Gobert did not play in Thursday's (Feb. 13) game against the Thunder."
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Day To Day (Back) - The Timberwolves listed Gobert as questionable for Friday's (Feb. 21) game against Houston."
             },
             {
                 "Player": "Julius Randle",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Wed, Feb 5, 2025",
-                "Description": "Out (Groin) - Minnesota announced Wednesday that Randle (groin) will be re-evaluated in two weeks after being diagnosed with a right adductor strain."
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Out (Groin) - Randle (groin) has been cleared for five-on-five activities but will still be out for the time being, Jace Frederick of St. Paul Pioneer Press reports."
             }
         ],
         "team_stats": {
@@ -105,23 +111,23 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "5",
                 "FG": "24",
                 "FGA": "24",
-                "FG%": "18",
+                "FG%": "19",
                 "3P": "5",
                 "3PA": "7",
                 "3P%": "4",
                 "2P": "27",
                 "2PA": "28",
                 "2P%": "22",
-                "FT": "16",
+                "FT": "15",
                 "FTA": "19",
-                "FT%": "10",
-                "ORB": "12",
-                "DRB": "19",
+                "FT%": "11",
+                "ORB": "13",
+                "DRB": "20",
                 "TRB": "15",
-                "AST": "20",
+                "AST": "19",
                 "STL": "20",
                 "BLK": "16",
                 "TOV": "20",
@@ -205,19 +211,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "5",
                 "FG": "5",
                 "FGA": "10",
                 "FG%": "7",
                 "3P": "3",
                 "3PA": "7",
-                "3P%": "4",
-                "2P": "10",
+                "3P%": "5",
+                "2P": "11",
                 "2PA": "16",
                 "2P%": "8",
                 "FT": "6",
                 "FTA": "6",
-                "FT%": "15",
+                "FT%": "14",
                 "ORB": "14",
                 "DRB": "5",
                 "TRB": "9",
@@ -259,8 +265,8 @@
                 "PW": "34",
                 "PL": "22",
                 "MOV": "3.41",
-                "SOS": "0.66",
-                "SRS": "4.07",
+                "SOS": "0.64",
+                "SRS": "4.05",
                 "ORtg": "114.3",
                 "DRtg": "110.8",
                 "Pace": "97.2",
@@ -278,7 +284,7 @@
                 "W": "9",
                 "L": "19",
                 "PW": "8",
-                "PL": "9",
+                "PL": "8",
                 "MOV": "8",
                 "SOS": "8",
                 "SRS": "8",
@@ -290,13 +296,13 @@
                 "eFG%": "5",
                 "TOV%": "10",
                 "ORB%": "11",
-                "FT/FGA": "7",
+                "FT/FGA": "8",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/MIN-2025.png",
-        "last_update": "Feb 20 2025 22:32:15"
+        "last_update": "Feb 21 2025 22:32:18"
     }
 }

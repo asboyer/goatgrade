@@ -30,14 +30,8 @@
             {
                 "Player": "Brandon Boston Jr.",
                 "Team": "New Orleans Pelicans",
-                "Update": "Thu, Feb 13, 2025",
-                "Description": "Day To Day (Ankle) - Boston Jr. did not play in Thursday's (Feb. 13) game against the Kings."
-            },
-            {
-                "Player": "Jamal Cain",
-                "Team": "New Orleans Pelicans",
-                "Update": "Thu, Feb 13, 2025",
-                "Description": "Day To Day (Illness) - Cain did not play in Thursday's (Feb. 13) game against the Kings."
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Out (Ankle) - The Pelicans listed Boston Jr. as OUT for Friday's (Feb. 21) game versus the Mavericks."
             },
             {
                 "Player": "Herbert Jones",
@@ -48,20 +42,14 @@
             {
                 "Player": "Yves Missi",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Feb 14, 2025",
-                "Description": "Out (Knee) - Missi will not compete in tonightâs Rising Stars game at 2025 NBA All-Star Weekend in San Francisco, CA. He will be re-evaluated next week, Pelicans announced."
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Day To Day (Knee) - The Pelicans listed Missi as Questionable for Friday's (Feb. 21) game versus the Mavericks."
             },
             {
                 "Player": "Dejounte Murray",
                 "Team": "New Orleans Pelicans",
                 "Update": "Fri, Jan 31, 2025",
                 "Description": "Out For Season (Leg) - Murray suffered a torn right Achilles tendon during Friday's (Jan. 31) game against the Celtics and will now miss the rest of the season, per Shams Charania of ESPN.com."
-            },
-            {
-                "Player": "Kelly Olynyk",
-                "Team": "New Orleans Pelicans",
-                "Update": "Thu, Feb 13, 2025",
-                "Description": "Day To Day (Not Injury Related) - Olynyk did not play in Thursday's (Feb. 13) game against the Kings."
             },
             {
                 "Player": "Zion Williamson",
@@ -123,25 +111,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "14",
                 "FG": "21",
                 "FGA": "11",
                 "FG%": "24",
                 "3P": "23",
                 "3PA": "23",
-                "3P%": "19",
+                "3P%": "20",
                 "2P": "15",
                 "2PA": "7",
                 "2P%": "29",
-                "FT": "13",
+                "FT": "12",
                 "FTA": "10",
                 "FT%": "25",
-                "ORB": "7",
+                "ORB": "8",
                 "DRB": "27",
                 "TRB": "24",
-                "AST": "21",
+                "AST": "20",
                 "STL": "5",
-                "BLK": "7",
+                "BLK": "8",
                 "TOV": "17",
                 "PF": "10",
                 "PTS": "22"
@@ -223,15 +211,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "14",
                 "FG": "29",
                 "FGA": "23",
                 "FG%": "29",
                 "3P": "27",
-                "3PA": "26",
+                "3PA": "27",
                 "3P%": "22",
                 "2P": "29",
-                "2PA": "14",
+                "2PA": "15",
                 "2P%": "29",
                 "FT": "11",
                 "FTA": "9",
@@ -241,7 +229,7 @@
                 "TRB": "28",
                 "AST": "27",
                 "STL": "21",
-                "BLK": "22",
+                "BLK": "23",
                 "TOV": "15",
                 "PF": "23",
                 "PTS": "28"
@@ -277,8 +265,8 @@
                 "PW": "14",
                 "PL": "41",
                 "MOV": "-8.85",
-                "SOS": "0.97",
-                "SRS": "-7.89",
+                "SOS": "0.96",
+                "SRS": "-7.90",
                 "ORtg": "110.6",
                 "DRtg": "119.5",
                 "Pace": "99.4",
@@ -300,7 +288,7 @@
                 "MOV": "29",
                 "SOS": "3",
                 "SRS": "29",
-                "ORtg": "26",
+                "ORtg": "25",
                 "DRtg": "28",
                 "Pace": "11",
                 "FTr": "12",
@@ -308,13 +296,13 @@
                 "eFG%": "29",
                 "TOV%": "17",
                 "ORB%": "13",
-                "FT/FGA": "10",
+                "FT/FGA": "11",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/NOP-2025.png",
-        "last_update": "Feb 20 2025 22:32:15"
+        "last_update": "Feb 21 2025 22:32:18"
     }
 }

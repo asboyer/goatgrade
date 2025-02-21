@@ -28,34 +28,22 @@
         ],
         "injuries": [
             {
-                "Player": "Jordan Clarkson",
-                "Team": "Utah Jazz",
-                "Update": "Thu, Feb 13, 2025",
-                "Description": "Day To Day (Foot) - Clarkson did not play in Thursday's (Feb. 13) game against the Clippers."
-            },
-            {
                 "Player": "Taylor Hendricks",
                 "Team": "Utah Jazz",
                 "Update": "Wed, Nov 6, 2024",
                 "Description": "Out For Season (Fibula) - Hendricks underwent surgery on Wednesday (Nov. 6) to repair a fractured right fibula and dislocated right ankle, per Andy Larsen of The Salt Lake Tribune."
             },
             {
-                "Player": "Walker Kessler",
-                "Team": "Utah Jazz",
-                "Update": "Thu, Feb 13, 2025",
-                "Description": "Day To Day (Thumb) - Kessler did not play in Thursday's (Feb. 13) game against the Clippers."
-            },
-            {
                 "Player": "KJ Martin",
                 "Team": "Utah Jazz",
-                "Update": "Thu, Feb 13, 2025",
-                "Description": "Day To Day (Trade Pending) - Martin did not play in Thursday's (Feb. 13) game against the Clippers."
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Day To Day (Trade Pending) - The Jazz listed Martin as questionable for Friday's (Feb. 20) game against Oklahoma City."
             },
             {
                 "Player": "Collin Sexton",
                 "Team": "Utah Jazz",
-                "Update": "Thu, Feb 13, 2025",
-                "Description": "Out (Ankle) - Sexton suffered a left ankle sprain during the first quarter of Monday's (Feb. 3) game vs Indiana. Sexton's next chance to suit up will come after the All-Star break against the Thunder on Feb. 21."
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Out (Ankle) - The Jazz listed Sexton as OUT for Friday's (Feb. 20) game against Oklahoma City."
             }
         ],
         "team_stats": {
@@ -111,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "22",
                 "FG": "22",
                 "FGA": "21",
                 "FG%": "20",
@@ -119,10 +107,10 @@
                 "3PA": "8",
                 "3P%": "18",
                 "2P": "24",
-                "2PA": "26",
+                "2PA": "25",
                 "2P%": "15",
                 "FT": "3",
-                "FTA": "6",
+                "FTA": "7",
                 "FT%": "9",
                 "ORB": "6",
                 "DRB": "14",
@@ -211,7 +199,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "22",
                 "FG": "26",
                 "FGA": "25",
                 "FG%": "26",
@@ -231,7 +219,7 @@
                 "STL": "30",
                 "BLK": "30",
                 "TOV": "30",
-                "PF": "3",
+                "PF": "4",
                 "PTS": "27"
             },
             "Opp Year/Year": {
@@ -265,8 +253,8 @@
                 "PW": "16",
                 "PL": "38",
                 "MOV": "-7.07",
-                "SOS": "0.59",
-                "SRS": "-6.49",
+                "SOS": "0.57",
+                "SRS": "-6.51",
                 "ORtg": "112.5",
                 "DRtg": "119.6",
                 "Pace": "99.1",
@@ -293,16 +281,16 @@
                 "Pace": "16",
                 "FTr": "5",
                 "3PAr": "7",
-                "eFG%": "26",
+                "eFG%": "27",
                 "TOV%": "30",
                 "ORB%": "3",
                 "FT/FGA": "15",
-                "DRB%": "17",
+                "DRB%": "18",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/UTA-2025.png",
-        "last_update": "Feb 20 2025 22:32:15"
+        "last_update": "Feb 21 2025 22:32:18"
     }
 }

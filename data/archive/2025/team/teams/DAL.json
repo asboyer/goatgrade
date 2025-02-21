@@ -30,8 +30,8 @@
             {
                 "Player": "Anthony Davis",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Feb 10, 2025",
-                "Description": "Out (Groin) - Davis was diagnosed Sunday with a left adductor strain and is expected to miss multiple weeks and potentially up to a month, Shams Charania of ESPN reports."
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Out (Groin) - The Mavericks announced Thursday (Feb. 21) that Davis will have his left adductor strain re-evaluated in two weeks."
             },
             {
                 "Player": "Daniel Gafford",
@@ -54,8 +54,8 @@
             {
                 "Player": "Dwight Powell",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Feb 11, 2025",
-                "Description": "Out (Hip) - Powell will likely sit out until at least after the NBA All-Star break, with HC Kidd saying there's no update on the status of the big man, per Grant Afseth of DallasHoopsJournal.com."
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Out (Hip) - The Mavericks will list Powell as out for Friday's (Feb. 21) game against the Pelicans, as per Grant Afseth of DallasHoopsJournal.com reports."
             },
             {
                 "Player": "Klay Thompson",
@@ -66,8 +66,8 @@
             {
                 "Player": "P.J. Washington",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Feb 13, 2025",
-                "Description": "Day To Day (Ankle) - Washington Jr. did not play in Thursday's (Feb. 13) game against the Heat."
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Day To Day (Ankle) - The Mavericks listed Washington Jr. as questionable for Friday's (Feb. 21) game against New Orleans."
             }
         ],
         "team_stats": {
@@ -123,7 +123,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "5",
                 "FG": "10",
                 "FGA": "20",
                 "FG%": "8",
@@ -133,16 +133,16 @@
                 "2P": "10",
                 "2PA": "12",
                 "2P%": "11",
-                "FT": "7",
+                "FT": "5",
                 "FTA": "4",
                 "FT%": "22",
-                "ORB": "16",
+                "ORB": "15",
                 "DRB": "15",
                 "TRB": "16",
-                "AST": "22",
-                "STL": "16",
-                "BLK": "3",
-                "TOV": "15",
+                "AST": "21",
+                "STL": "18",
+                "BLK": "4",
+                "TOV": "16",
                 "PF": "14",
                 "PTS": "11"
             },
@@ -223,22 +223,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "5",
                 "FG": "22",
                 "FGA": "24",
                 "FG%": "9",
                 "3P": "7",
                 "3PA": "6",
-                "3P%": "19",
-                "2P": "22",
+                "3P%": "20",
+                "2P": "21",
                 "2PA": "29",
                 "2P%": "5",
                 "FT": "10",
-                "FTA": "13",
-                "FT%": "7",
+                "FTA": "14",
+                "FT%": "8",
                 "ORB": "29",
-                "DRB": "11",
-                "TRB": "17",
+                "DRB": "10",
+                "TRB": "16",
                 "AST": "19",
                 "STL": "14",
                 "BLK": "11",
@@ -277,8 +277,8 @@
                 "PW": "32",
                 "PL": "24",
                 "MOV": "2.21",
-                "SOS": "0.76",
-                "SRS": "2.98",
+                "SOS": "0.74",
+                "SRS": "2.95",
                 "ORtg": "116.6",
                 "DRtg": "114.3",
                 "Pace": "98.9",
@@ -293,15 +293,15 @@
                 "Attendance": "562,353"
             },
             "Misc Lg Rank": {
-                "W": "11",
+                "W": "12",
                 "L": "17",
                 "PW": "10",
-                "PL": "11",
+                "PL": "10",
                 "MOV": "10",
                 "SOS": "6",
-                "SRS": "10",
+                "SRS": "9",
                 "ORtg": "7",
-                "DRtg": "14",
+                "DRtg": "15",
                 "Pace": "17",
                 "FTr": "4",
                 "3PAr": "22",
@@ -315,6 +315,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/DAL-2025.png",
-        "last_update": "Feb 20 2025 22:32:15"
+        "last_update": "Feb 21 2025 22:32:18"
     }
 }
