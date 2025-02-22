@@ -22,8 +22,7 @@
             "Jared McCain",
             "Joel Embiid",
             "Quentin Grimes",
-            "Jared Butler",
-            "David Roddy"
+            "Jared Butler"
         ],
         "injuries": [
             {
@@ -35,14 +34,14 @@
             {
                 "Player": "Eric Gordon",
                 "Team": "Philadelphia 76ers",
-                "Update": "Thu, Feb 20, 2025",
-                "Description": "Out (Wrist) - The 76ers listed Gordon as Out for Thursday's (Feb. 20) game against the Celtics and is without a timetable to return, per Adam Aaronson of PhillyVoice.com."
+                "Update": "Fri, Feb 21, 2025",
+                "Description": "Out (Wrist) - Gordon is working through treatment options and carries no timetable for a return, according to Adam Aaronson of PhillyVoice.com."
             },
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
                 "Update": "Thu, Feb 20, 2025",
-                "Description": "Day To Day (hip) - Lowry did not play in Thursday's (Feb. 20) game against the Celtics."
+                "Description": "Out (hip) - The 76ers listed Lowry as Out for Saturday's (Feb. 21) game against the Nets."
             },
             {
                 "Player": "Jared McCain",
@@ -104,7 +103,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "18",
                 "FG": "27",
                 "FGA": "26",
                 "FG%": "21",
@@ -123,7 +122,7 @@
                 "AST": "28",
                 "STL": "4",
                 "BLK": "28",
-                "TOV": "7",
+                "TOV": "6",
                 "PF": "22",
                 "PTS": "26"
             },
@@ -204,11 +203,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "18",
                 "FG": "13",
                 "FGA": "3",
                 "FG%": "30",
-                "3P": "21",
+                "3P": "23",
                 "3PA": "13",
                 "3P%": "28",
                 "2P": "9",
@@ -224,7 +223,7 @@
                 "STL": "4",
                 "BLK": "17",
                 "TOV": "2",
-                "PF": "8",
+                "PF": "7",
                 "PTS": "16"
             },
             "Opp Year/Year": {
@@ -283,7 +282,7 @@
                 "SRS": "22",
                 "ORtg": "23",
                 "DRtg": "23",
-                "Pace": "28",
+                "Pace": "27",
                 "FTr": "3",
                 "3PAr": "14",
                 "eFG%": "30",
@@ -292,10 +291,10 @@
                 "FT/FGA": "20",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "6"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/PHI-2025.png",
-        "last_update": "Feb 21 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHI-2025.png",
+        "last_update": "Feb 22 2025 22:32:17"
     }
 }

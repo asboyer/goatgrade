@@ -29,16 +29,34 @@
         ],
         "injuries": [
             {
+                "Player": "Ayo Dosunmu",
+                "Team": "Chicago Bulls",
+                "Update": "Fri, Feb 21, 2025",
+                "Description": "Day To Day (Shoulder) - The Bulls listed Dosunmu as Questionable for Saturday's (Feb. 22) game against the Suns."
+            },
+            {
+                "Player": "Josh Giddey",
+                "Team": "Chicago Bulls",
+                "Update": "Fri, Feb 21, 2025",
+                "Description": "Day To Day (Wrist) - The Bulls listed Giddey as Probable for Saturday's (Feb. 22) game against the Suns."
+            },
+            {
                 "Player": "Jalen Smith",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Feb 20, 2025",
-                "Description": "Day To Day (Face) - Smith has been placed in concussion protocol after exiting Thursday's game against the Knicks early, K.C. Johnson of NBC Sports Chicago reports."
+                "Update": "Fri, Feb 21, 2025",
+                "Description": "Out (Face) - The Bulls listed Smith as Out for Saturday's (Feb. 22) game against the Suns."
+            },
+            {
+                "Player": "Nikola Vučević",
+                "Team": "Chicago Bulls",
+                "Update": "Fri, Feb 21, 2025",
+                "Description": "Day To Day (Calf) - The Bulls listed Vucevic as Probable for Saturday's (Feb. 22) game against the Suns."
             },
             {
                 "Player": "Patrick Williams",
                 "Team": "Chicago Bulls",
                 "Update": "Thu, Feb 20, 2025",
-                "Description": "Day To Day (Knee) - Williams did not play in Thursday's (Feb. 20) game against the Knicks."
+                "Description": "Out (Knee) - The Bulls announced Thursday (Feb. 20) that Williams received a platelet-rich plasma injection to address tendinosis in his right knee and will be re-evaluated in two weeks."
             }
         ],
         "team_stats": {
@@ -94,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "13",
                 "FG": "8",
                 "FGA": "5",
                 "FG%": "15",
@@ -109,11 +127,11 @@
                 "FT%": "5",
                 "ORB": "25",
                 "DRB": "1",
-                "TRB": "7",
-                "AST": "7",
+                "TRB": "8",
+                "AST": "8",
                 "STL": "26",
                 "BLK": "19",
-                "TOV": "19",
+                "TOV": "20",
                 "PF": "7",
                 "PTS": "10"
             },
@@ -194,17 +212,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "13",
                 "FG": "30",
                 "FGA": "30",
-                "FG%": "22",
-                "3P": "18",
+                "FG%": "21",
+                "3P": "17",
                 "3PA": "29",
                 "3P%": "3",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "27",
-                "FT": "14",
+                "FT": "13",
                 "FTA": "13",
                 "FT%": "17",
                 "ORB": "16",
@@ -272,7 +290,7 @@
                 "SOS": "14",
                 "SRS": "24",
                 "ORtg": "22",
-                "DRtg": "26",
+                "DRtg": "25",
                 "Pace": "3",
                 "FTr": "30",
                 "3PAr": "2",
@@ -282,10 +300,10 @@
                 "FT/FGA": "7",
                 "DRB%": "6",
                 "Arena": "",
-                "Attendance": "2"
+                "Attendance": "4"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/CHI-2025.png",
-        "last_update": "Feb 21 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CHI-2025.png",
+        "last_update": "Feb 22 2025 22:32:17"
     }
 }

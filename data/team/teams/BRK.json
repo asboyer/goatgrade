@@ -23,8 +23,8 @@
             "D'Angelo Russell",
             "Dariq Whitehead",
             "Maxwell Lewis",
-            "De'Anthony Melton",
-            "Bojan Bogdanović"
+            "Killian Hayes",
+            "De'Anthony Melton"
         ],
         "injuries": [
             {
@@ -42,14 +42,14 @@
             {
                 "Player": "D'Angelo Russell",
                 "Team": "Brooklyn Nets",
-                "Update": "Thu, Feb 20, 2025",
-                "Description": "Day To Day (Ankle) - Russell did not return to Thursday's (Feb. 20) game against Cleveland."
+                "Update": "Fri, Feb 21, 2025",
+                "Description": "Out (Ankle) - The Nets listed Russell as Out for Saturday's (Feb. 22) game against the 76ers."
             },
             {
                 "Player": "Cam Thomas",
                 "Team": "Brooklyn Nets",
-                "Update": "Wed, Feb 19, 2025",
-                "Description": "Out (Hamstring) - Thomas has been cleared to participate in a 5-on-5 scrimmage at Thursday's (Feb. 20) practice, as per Erik Slater of ClutchPoints.com."
+                "Update": "Fri, Feb 21, 2025",
+                "Description": "Out (Hamstring) - The Nets listed Thomas as Out for Saturday's (Feb. 22) game against the 76ers."
             }
         ],
         "team_stats": {
@@ -105,10 +105,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "21",
                 "FG": "30",
                 "FGA": "30",
-                "FG%": "28",
+                "FG%": "27",
                 "3P": "14",
                 "3PA": "12",
                 "3P%": "23",
@@ -116,7 +116,7 @@
                 "2PA": "29",
                 "2P%": "27",
                 "FT": "21",
-                "FTA": "24",
+                "FTA": "23",
                 "FT%": "10",
                 "ORB": "22",
                 "DRB": "29",
@@ -205,22 +205,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
-                "FG": "6",
+                "MP": "21",
+                "FG": "5",
                 "FGA": "2",
                 "FG%": "27",
                 "3P": "8",
                 "3PA": "4",
-                "3P%": "23",
-                "2P": "5",
+                "3P%": "24",
+                "2P": "3",
                 "2PA": "4",
                 "2P%": "24",
                 "FT": "20",
-                "FTA": "22",
+                "FTA": "23",
                 "FT%": "7",
                 "ORB": "2",
-                "DRB": "14",
-                "TRB": "7",
+                "DRB": "13",
+                "TRB": "8",
                 "AST": "17",
                 "STL": "16",
                 "BLK": "26",
@@ -259,8 +259,8 @@
                 "PW": "17",
                 "PL": "38",
                 "MOV": "-6.11",
-                "SOS": "0.29",
-                "SRS": "-5.82",
+                "SOS": "0.28",
+                "SRS": "-5.83",
                 "ORtg": "108.5",
                 "DRtg": "114.8",
                 "Pace": "96.1",
@@ -278,12 +278,12 @@
                 "W": "24",
                 "L": "6",
                 "PW": "27",
-                "PL": "27",
+                "PL": "26",
                 "MOV": "27",
                 "SOS": "10",
-                "SRS": "26",
+                "SRS": "27",
                 "ORtg": "27",
-                "DRtg": "20",
+                "DRtg": "18",
                 "Pace": "30",
                 "FTr": "17",
                 "3PAr": "6",
@@ -293,10 +293,10 @@
                 "FT/FGA": "27",
                 "DRB%": "13",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "23"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/BRK-2025.png",
-        "last_update": "Feb 21 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/BRK-2025.png",
+        "last_update": "Feb 22 2025 22:32:17"
     }
 }

@@ -31,20 +31,20 @@
             {
                 "Player": "Luka Dončić",
                 "Team": "Los Angeles Lakers",
-                "Update": "Thu, Feb 20, 2025",
-                "Description": "Day To Day (Injury Management) - Doncic did not play in Thursday's (Feb. 20) game against the Trail Blazers."
+                "Update": "Fri, Feb 21, 2025",
+                "Description": "Day To Day (Not Injury Related) - The Lakers listed Doncic as Probable for Saturday's (Feb. 22) game against the Nuggets."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Fri, Feb 21, 2025",
+                "Description": "Day To Day (Foot) - The Lakers listed James as Probable for Saturday's (Feb. 22) game against the Nuggets."
             },
             {
                 "Player": "Maxi Kleber",
                 "Team": "Los Angeles Lakers",
                 "Update": "Tue, Feb 4, 2025",
                 "Description": "Out (Foot) - Kleber will have his surgically repaired right foot re-evaluated in eight weeks, according to Jovan Buha of The Athletic."
-            },
-            {
-                "Player": "Jarred Vanderbilt",
-                "Team": "Los Angeles Lakers",
-                "Update": "Thu, Feb 20, 2025",
-                "Description": "Day To Day (Foot) - Vanderbilt did not play in Thursday's (Feb. 20) game against the Trail Blazers."
             }
         ],
         "team_stats": {
@@ -100,19 +100,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "30",
                 "FG": "17",
                 "FGA": "29",
                 "FG%": "6",
-                "3P": "25",
+                "3P": "24",
                 "3PA": "25",
                 "3P%": "17",
                 "2P": "12",
                 "2PA": "16",
                 "2P%": "4",
-                "FT": "4",
-                "FTA": "8",
-                "FT%": "8",
+                "FT": "3",
+                "FTA": "7",
+                "FT%": "9",
                 "ORB": "27",
                 "DRB": "22",
                 "TRB": "26",
@@ -200,22 +200,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "26",
-                "FG": "16",
+                "MP": "30",
+                "FG": "17",
                 "FGA": "16",
-                "FG%": "17",
-                "3P": "12",
-                "3PA": "14",
-                "3P%": "8",
+                "FG%": "15",
+                "3P": "13",
+                "3PA": "15",
+                "3P%": "9",
                 "2P": "19",
-                "2PA": "14",
+                "2PA": "15",
                 "2P%": "19",
                 "FT": "5",
                 "FTA": "5",
-                "FT%": "22",
+                "FT%": "23",
                 "ORB": "12",
-                "DRB": "7",
-                "TRB": "10",
+                "DRB": "9",
+                "TRB": "9",
                 "AST": "23",
                 "STL": "15",
                 "BLK": "4",
@@ -254,8 +254,8 @@
                 "PW": "28",
                 "PL": "26",
                 "MOV": "0.85",
-                "SOS": "-0.49",
-                "SRS": "0.37",
+                "SOS": "-0.51",
+                "SRS": "0.35",
                 "ORtg": "115.0",
                 "DRtg": "114.1",
                 "Pace": "98.0",
@@ -272,26 +272,26 @@
             "Misc Lg Rank": {
                 "W": "8",
                 "L": "23",
-                "PW": "13",
+                "PW": "15",
                 "PL": "12",
                 "MOV": "12",
-                "SOS": "22",
+                "SOS": "23",
                 "SRS": "13",
                 "ORtg": "11",
                 "DRtg": "14",
                 "Pace": "21",
                 "FTr": "2",
                 "3PAr": "19",
-                "eFG%": "15",
+                "eFG%": "14",
                 "TOV%": "20",
                 "ORB%": "25",
                 "FT/FGA": "5",
                 "DRB%": "14",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "19"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/LAL-2025.png",
-        "last_update": "Feb 21 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAL-2025.png",
+        "last_update": "Feb 22 2025 22:32:17"
     }
 }

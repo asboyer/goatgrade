@@ -30,16 +30,10 @@
         ],
         "injuries": [
             {
-                "Player": "LaMelo Ball",
-                "Team": "Charlotte Hornets",
-                "Update": "Thu, Feb 20, 2025",
-                "Description": "Day To Day (Ankle) - Ball did not play in Thursday's (Feb. 20) game against the Nuggets."
-            },
-            {
                 "Player": "DaQuan Jeffries",
                 "Team": "Charlotte Hornets",
-                "Update": "Thu, Feb 20, 2025",
-                "Description": "Day To Day (Knee) - Jeffries did not play in Thursday's (Feb. 20) game against the Nuggets."
+                "Update": "Fri, Feb 21, 2025",
+                "Description": "Out (Knee) - The Hornets listed Jeffries as Out for Saturday's (Feb. 22) game against the Trail Blazers."
             },
             {
                 "Player": "Tre Mann",
@@ -125,7 +119,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "27",
                 "FG": "28",
                 "FGA": "14",
                 "FG%": "30",
@@ -142,8 +136,8 @@
                 "DRB": "21",
                 "TRB": "5",
                 "AST": "26",
-                "STL": "15",
-                "BLK": "24",
+                "STL": "16",
+                "BLK": "23",
                 "TOV": "21",
                 "PF": "19",
                 "PTS": "28"
@@ -225,9 +219,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "27",
                 "FG": "10",
-                "FGA": "9",
+                "FGA": "10",
                 "FG%": "14",
                 "3P": "11",
                 "3PA": "24",
@@ -238,7 +232,7 @@
                 "FT": "17",
                 "FTA": "15",
                 "FT%": "16",
-                "ORB": "13",
+                "ORB": "14",
                 "DRB": "19",
                 "TRB": "18",
                 "AST": "13",
@@ -279,8 +273,8 @@
                 "PW": "18",
                 "PL": "36",
                 "MOV": "-5.52",
-                "SOS": "-0.33",
-                "SRS": "-5.85",
+                "SOS": "-0.30",
+                "SRS": "-5.82",
                 "ORtg": "108.5",
                 "DRtg": "114.1",
                 "Pace": "97.4",
@@ -300,14 +294,14 @@
                 "PW": "26",
                 "PL": "24",
                 "MOV": "24",
-                "SOS": "18",
-                "SRS": "27",
+                "SOS": "16",
+                "SRS": "26",
                 "ORtg": "28",
                 "DRtg": "13",
                 "Pace": "22",
                 "FTr": "27",
-                "3PAr": "10",
-                "eFG%": "16",
+                "3PAr": "9",
+                "eFG%": "15",
                 "TOV%": "18",
                 "ORB%": "5",
                 "FT/FGA": "18",
@@ -316,7 +310,7 @@
                 "Attendance": "15"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/CHO-2025.png",
-        "last_update": "Feb 21 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CHO-2025.png",
+        "last_update": "Feb 22 2025 22:32:17"
     }
 }

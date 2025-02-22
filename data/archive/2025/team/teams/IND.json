@@ -24,8 +24,7 @@
             "Quenton Jackson",
             "James Johnson",
             "RayJ Dennis",
-            "Isaiah Jackson",
-            "Jahlil Okafor"
+            "Isaiah Jackson"
         ],
         "injuries": [
             {
@@ -94,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "27",
                 "FG": "6",
                 "FGA": "18",
                 "FG%": "4",
@@ -106,14 +105,14 @@
                 "2P%": "6",
                 "FT": "17",
                 "FTA": "15",
-                "FT%": "16",
+                "FT%": "17",
                 "ORB": "29",
                 "DRB": "23",
                 "TRB": "28",
-                "AST": "6",
+                "AST": "5",
                 "STL": "10",
                 "BLK": "9",
-                "TOV": "6",
+                "TOV": "5",
                 "PF": "16",
                 "PTS": "9"
             },
@@ -194,12 +193,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "27",
                 "FG": "23",
                 "FGA": "15",
-                "FG%": "23",
+                "FG%": "22",
                 "3P": "9",
-                "3PA": "9",
+                "3PA": "10",
                 "3P%": "17",
                 "2P": "23",
                 "2PA": "19",
@@ -207,12 +206,12 @@
                 "FT": "22",
                 "FTA": "21",
                 "FT%": "15",
-                "ORB": "20",
+                "ORB": "19",
                 "DRB": "19",
                 "TRB": "22",
                 "AST": "16",
                 "STL": "5",
-                "BLK": "8",
+                "BLK": "9",
                 "TOV": "10",
                 "PF": "18",
                 "PTS": "21"
@@ -249,7 +248,7 @@
                 "PL": "26",
                 "MOV": "0.67",
                 "SOS": "-0.66",
-                "SRS": "0.00",
+                "SRS": "0.01",
                 "ORtg": "115.8",
                 "DRtg": "115.1",
                 "Pace": "99.8",
@@ -266,13 +265,13 @@
             "Misc Lg Rank": {
                 "W": "9",
                 "L": "22",
-                "PW": "15",
+                "PW": "16",
                 "PL": "13",
-                "MOV": "14",
+                "MOV": "15",
                 "SOS": "26",
-                "SRS": "16",
+                "SRS": "15",
                 "ORtg": "9",
-                "DRtg": "21",
+                "DRtg": "20",
                 "Pace": "7",
                 "FTr": "18",
                 "3PAr": "26",
@@ -285,7 +284,7 @@
                 "Attendance": "30"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502101/tlogo/bbr/IND-2025.png",
-        "last_update": "Feb 21 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/IND-2025.png",
+        "last_update": "Feb 22 2025 22:32:17"
     }
 }
