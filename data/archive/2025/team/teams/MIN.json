@@ -36,14 +36,14 @@
             {
                 "Player": "Rudy Gobert",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Fri, Feb 21, 2025",
-                "Description": "Day To Day (Back) - Gobert did not play in Friday's (Dec. 21) game against the Rockets."
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Out (Back) - The Timberwolves listed Gobert as Out for Sunday's (Feb. 23) game against the Thunder."
             },
             {
                 "Player": "Julius Randle",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Thu, Feb 20, 2025",
-                "Description": "Out (Groin) - Randle (groin) has been cleared for five-on-five activities but will still be out for the time being, Jace Frederick of St. Paul Pioneer Press reports."
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Out (Groin) - The Timberwolves listed Randle as Out for Sunday's (Feb. 23) game against the Thunder."
             }
         ],
         "team_stats": {
@@ -99,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "4",
                 "FG": "24",
                 "FGA": "24",
                 "FG%": "19",
@@ -111,14 +111,14 @@
                 "2P%": "23",
                 "FT": "15",
                 "FTA": "17",
-                "FT%": "8",
+                "FT%": "10",
                 "ORB": "14",
                 "DRB": "20",
                 "TRB": "17",
                 "AST": "21",
                 "STL": "19",
                 "BLK": "15",
-                "TOV": "19",
+                "TOV": "20",
                 "PF": "8",
                 "PTS": "20"
             },
@@ -199,9 +199,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "4",
                 "FG": "6",
-                "FGA": "9",
+                "FGA": "8",
                 "FG%": "8",
                 "3P": "3",
                 "3PA": "5",
@@ -211,15 +211,15 @@
                 "2P%": "8",
                 "FT": "6",
                 "FTA": "6",
-                "FT%": "14",
+                "FT%": "13",
                 "ORB": "13",
-                "DRB": "7",
-                "TRB": "10",
+                "DRB": "6",
+                "TRB": "8",
                 "AST": "5",
                 "STL": "22",
                 "BLK": "13",
-                "TOV": "13",
-                "PF": "11",
+                "TOV": "12",
+                "PF": "10",
                 "PTS": "5"
             },
             "Opp Year/Year": {
@@ -253,8 +253,8 @@
                 "PW": "34",
                 "PL": "23",
                 "MOV": "3.25",
-                "SOS": "0.70",
-                "SRS": "3.95",
+                "SOS": "0.77",
+                "SRS": "4.01",
                 "ORtg": "114.3",
                 "DRtg": "110.9",
                 "Pace": "97.3",
@@ -279,7 +279,7 @@
                 "ORtg": "13",
                 "DRtg": "6",
                 "Pace": "25",
-                "FTr": "14",
+                "FTr": "15",
                 "3PAr": "5",
                 "eFG%": "5",
                 "TOV%": "9",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MIN-2025.png",
-        "last_update": "Feb 22 2025 22:32:17"
+        "last_update": "Feb 23 2025 22:32:18"
     }
 }

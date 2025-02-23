@@ -50,6 +50,12 @@
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Feb 12, 2025",
                 "Description": "Out (Knee) - The Hawks announced on Wednesday (Feb. 12) that Nance Jr. will be re-evaluated in approximately six weeks, and an update will be provided at that time."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as Probable for Sunday's (Feb.23) game against the Pistons."
             }
         ],
         "team_stats": {
@@ -105,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "10",
                 "FG": "8",
                 "FGA": "4",
                 "FG%": "17",
@@ -205,25 +211,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "10",
                 "FG": "26",
-                "FGA": "21",
+                "FGA": "20",
                 "FG%": "28",
                 "3P": "26",
                 "3PA": "16",
                 "3P%": "26",
                 "2P": "29",
                 "2PA": "21",
-                "2P%": "26",
-                "FT": "21",
+                "2P%": "25",
+                "FT": "20",
                 "FTA": "17",
                 "FT%": "30",
                 "ORB": "6",
                 "DRB": "25",
-                "TRB": "21",
+                "TRB": "20",
                 "AST": "25",
                 "STL": "28",
-                "BLK": "20",
+                "BLK": "19",
                 "TOV": "3",
                 "PF": "3",
                 "PTS": "26"
@@ -259,8 +265,8 @@
                 "PW": "24",
                 "PL": "32",
                 "MOV": "-2.48",
-                "SOS": "-0.19",
-                "SRS": "-2.67",
+                "SOS": "-0.20",
+                "SRS": "-2.69",
                 "ORtg": "112.1",
                 "DRtg": "114.5",
                 "Pace": "103.2",
@@ -275,14 +281,14 @@
                 "Attendance": "408,816"
             },
             "Misc Lg Rank": {
-                "W": "18",
+                "W": "19",
                 "L": "10",
                 "PW": "21",
                 "PL": "21",
                 "MOV": "21",
                 "SOS": "15",
                 "SRS": "21",
-                "ORtg": "21",
+                "ORtg": "22",
                 "DRtg": "16",
                 "Pace": "2",
                 "FTr": "5",
@@ -297,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/ATL-2025.png",
-        "last_update": "Feb 22 2025 22:32:17"
+        "last_update": "Feb 23 2025 22:32:18"
     }
 }

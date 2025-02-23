@@ -29,10 +29,16 @@
         ],
         "injuries": [
             {
+                "Player": "Kawhi Leonard",
+                "Team": "Los Angeles Clippers",
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Day To Day (Foot) - The Clippers listed Leonard as Questionable for Sunday's (Feb. 23) game against the Pacers."
+            },
+            {
                 "Player": "Norman Powell",
                 "Team": "Los Angeles Clippers",
-                "Update": "Thu, Feb 20, 2025",
-                "Description": "Day To Day (Knee) - Powell did not play in Thursday's (Feb. 20) game against the Bucks."
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Day To Day (Knee) - The Clippers listed Powell as Questionable for Sunday's (Feb. 23) game against the Pacers."
             }
         ],
         "team_stats": {
@@ -88,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "22",
                 "FG": "19",
                 "FGA": "25",
                 "FG%": "12",
@@ -96,7 +102,7 @@
                 "3PA": "28",
                 "3P%": "12",
                 "2P": "14",
-                "2PA": "14",
+                "2PA": "13",
                 "2P%": "17",
                 "FT": "14",
                 "FTA": "16",
@@ -104,7 +110,7 @@
                 "ORB": "21",
                 "DRB": "12",
                 "TRB": "16",
-                "AST": "24",
+                "AST": "25",
                 "STL": "3",
                 "BLK": "25",
                 "TOV": "25",
@@ -188,20 +194,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "22",
                 "FG": "3",
                 "FGA": "5",
                 "FG%": "7",
-                "3P": "14",
+                "3P": "12",
                 "3PA": "17",
                 "3P%": "7",
                 "2P": "2",
                 "2PA": "3",
                 "2P%": "17",
                 "FT": "9",
-                "FTA": "11",
+                "FTA": "12",
                 "FT%": "6",
-                "ORB": "3",
+                "ORB": "2",
                 "DRB": "11",
                 "TRB": "5",
                 "AST": "6",
@@ -242,8 +248,8 @@
                 "PW": "32",
                 "PL": "23",
                 "MOV": "2.78",
-                "SOS": "0.09",
-                "SRS": "2.88",
+                "SOS": "0.15",
+                "SRS": "2.93",
                 "ORtg": "112.3",
                 "DRtg": "109.5",
                 "Pace": "98.2",
@@ -263,7 +269,7 @@
                 "PW": "10",
                 "PL": "8",
                 "MOV": "9",
-                "SOS": "12",
+                "SOS": "11",
                 "SRS": "10",
                 "ORtg": "19",
                 "DRtg": "3",
@@ -280,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAC-2025.png",
-        "last_update": "Feb 22 2025 22:32:17"
+        "last_update": "Feb 23 2025 22:32:18"
     }
 }

@@ -49,14 +49,20 @@
             {
                 "Player": "Caleb Martin",
                 "Team": "Dallas Mavericks",
-                "Update": "Fri, Feb 7, 2025",
-                "Description": "Out (Hip) - The Mavericks are optimistic that Martin will return to action in 2-to-3 weeks, Tim MacMahon of ESPN.com reports."
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Out (Hip) - The Mavericks listed Martin as Out for Sunday's (Feb. 23) game against the Warriors."
             },
             {
                 "Player": "Dwight Powell",
                 "Team": "Dallas Mavericks",
-                "Update": "Fri, Feb 21, 2025",
-                "Description": "Day To Day (Hip) - Powell did not play in Friday's (Dec. 21) game against the Pelicans."
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Day To Day (Hip) - The Mavericks listed Powell as Doubtful for Sunday's (Feb. 23) game against the Warriors."
+            },
+            {
+                "Player": "P.J. Washington",
+                "Team": "Dallas Mavericks",
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Day To Day (Ankle) - The Mavericks listed Washington Jr. as Questionable for Sunday's (Feb. 23) game against the Warriors."
             }
         ],
         "team_stats": {
@@ -112,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "4",
                 "FG": "11",
                 "FGA": "20",
                 "FG%": "8",
@@ -122,16 +128,16 @@
                 "2P": "11",
                 "2PA": "12",
                 "2P%": "13",
-                "FT": "5",
+                "FT": "4",
                 "FTA": "5",
-                "FT%": "22",
+                "FT%": "21",
                 "ORB": "16",
                 "DRB": "14",
                 "TRB": "15",
                 "AST": "19",
                 "STL": "18",
                 "BLK": "4",
-                "TOV": "15",
+                "TOV": "14",
                 "PF": "14",
                 "PTS": "11"
             },
@@ -212,22 +218,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "4",
                 "FG": "20",
                 "FGA": "24",
                 "FG%": "9",
                 "3P": "7",
                 "3PA": "5",
-                "3P%": "19",
+                "3P%": "20",
                 "2P": "22",
                 "2PA": "29",
                 "2P%": "5",
                 "FT": "10",
-                "FTA": "14",
-                "FT%": "8",
-                "ORB": "29",
+                "FTA": "13",
+                "FT%": "7",
+                "ORB": "30",
                 "DRB": "12",
-                "TRB": "17",
+                "TRB": "18",
                 "AST": "19",
                 "STL": "14",
                 "BLK": "11",
@@ -266,8 +272,8 @@
                 "PW": "33",
                 "PL": "24",
                 "MOV": "2.32",
-                "SOS": "0.60",
-                "SRS": "2.91",
+                "SOS": "0.65",
+                "SRS": "2.96",
                 "ORtg": "116.4",
                 "DRtg": "114.1",
                 "Pace": "99.0",
@@ -287,10 +293,10 @@
                 "PW": "9",
                 "PL": "10",
                 "MOV": "10",
-                "SOS": "9",
+                "SOS": "8",
                 "SRS": "9",
                 "ORtg": "7",
-                "DRtg": "15",
+                "DRtg": "14",
                 "Pace": "17",
                 "FTr": "4",
                 "3PAr": "22",
@@ -300,10 +306,10 @@
                 "FT/FGA": "10",
                 "DRB%": "26",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DAL-2025.png",
-        "last_update": "Feb 22 2025 22:32:17"
+        "last_update": "Feb 23 2025 22:32:18"
     }
 }

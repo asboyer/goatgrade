@@ -28,10 +28,16 @@
         ],
         "injuries": [
             {
+                "Player": "OG Anunoby",
+                "Team": "New York Knicks",
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Day To Day (Foot) - The Knicks listed Anunoby as Questionable for Sunday's (Feb. 23) game against the Celtics."
+            },
+            {
                 "Player": "Josh Hart",
                 "Team": "New York Knicks",
-                "Update": "Fri, Feb 21, 2025",
-                "Description": "Day To Day (Knee) - Hart did not play in Friday's (Dec. 21) game against the Cavaliers."
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Day To Day (Knee) - The Knicks listed Hart as Questionable for Sunday's (Feb. 23) game against the Celtics."
             },
             {
                 "Player": "Mitchell Robinson",
@@ -93,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "10",
                 "FG": "4",
                 "FGA": "17",
                 "FG%": "3",
@@ -110,7 +116,7 @@
                 "DRB": "25",
                 "TRB": "23",
                 "AST": "10",
-                "STL": "14",
+                "STL": "16",
                 "BLK": "29",
                 "TOV": "3",
                 "PF": "5",
@@ -193,26 +199,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "10",
                 "FG": "22",
                 "FGA": "13",
-                "FG%": "23",
-                "3P": "19",
+                "FG%": "24",
+                "3P": "20",
                 "3PA": "7",
                 "3P%": "30",
-                "2P": "18",
+                "2P": "19",
                 "2PA": "18",
                 "2P%": "12",
                 "FT": "4",
                 "FTA": "4",
                 "FT%": "24",
-                "ORB": "11",
+                "ORB": "10",
                 "DRB": "2",
                 "TRB": "1",
                 "AST": "10",
                 "STL": "3",
                 "BLK": "16",
-                "TOV": "18",
+                "TOV": "19",
                 "PF": "8",
                 "PTS": "14"
             },
@@ -247,8 +253,8 @@
                 "PW": "36",
                 "PL": "20",
                 "MOV": "5.11",
-                "SOS": "-0.94",
-                "SRS": "4.16",
+                "SOS": "-0.99",
+                "SRS": "4.12",
                 "ORtg": "120.4",
                 "DRtg": "115.2",
                 "Pace": "97.4",
@@ -264,27 +270,27 @@
             },
             "Misc Lg Rank": {
                 "W": "4",
-                "L": "25",
+                "L": "26",
                 "PW": "6",
-                "PL": "6",
+                "PL": "5",
                 "MOV": "6",
                 "SOS": "28",
                 "SRS": "7",
-                "ORtg": "3",
+                "ORtg": "2",
                 "DRtg": "21",
-                "Pace": "23",
+                "Pace": "24",
                 "FTr": "20",
                 "3PAr": "27",
                 "eFG%": "24",
                 "TOV%": "15",
                 "ORB%": "9",
-                "FT/FGA": "6",
+                "FT/FGA": "5",
                 "DRB%": "17",
                 "Arena": "",
-                "Attendance": "1"
+                "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NYK-2025.png",
-        "last_update": "Feb 22 2025 22:32:17"
+        "last_update": "Feb 23 2025 22:32:18"
     }
 }

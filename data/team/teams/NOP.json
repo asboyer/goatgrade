@@ -30,8 +30,8 @@
             {
                 "Player": "Brandon Boston Jr.",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Feb 21, 2025",
-                "Description": "Day To Day (Ankle) - Boston Jr. did not play in Friday's (Dec. 21) game against the Mavericks."
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Out (Ankle) - The Pelicans listed Boston Jr. as Out for Sunday's (Feb. 23) game against the Spurs."
             },
             {
                 "Player": "Herbert Jones",
@@ -44,12 +44,6 @@
                 "Team": "New Orleans Pelicans",
                 "Update": "Fri, Jan 31, 2025",
                 "Description": "Out For Season (Leg) - Murray suffered a torn right Achilles tendon during Friday's (Jan. 31) game against the Celtics and will now miss the rest of the season, per Shams Charania of ESPN.com."
-            },
-            {
-                "Player": "Zion Williamson",
-                "Team": "New Orleans Pelicans",
-                "Update": "Thu, Feb 13, 2025",
-                "Description": "Day To Day (Rest) - Williamson did not play in Thursday's (Feb. 13) game against the Kings."
             }
         ],
         "team_stats": {
@@ -105,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "17",
                 "FG": "21",
                 "FGA": "11",
                 "FG%": "24",
@@ -119,12 +113,12 @@
                 "FTA": "10",
                 "FT%": "25",
                 "ORB": "8",
-                "DRB": "26",
+                "DRB": "27",
                 "TRB": "24",
                 "AST": "20",
                 "STL": "5",
                 "BLK": "8",
-                "TOV": "17",
+                "TOV": "16",
                 "PF": "10",
                 "PTS": "23"
             },
@@ -205,13 +199,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "17",
                 "FG": "29",
                 "FGA": "23",
                 "FG%": "29",
                 "3P": "28",
-                "3PA": "28",
-                "3P%": "23",
+                "3PA": "29",
+                "3P%": "24",
                 "2P": "27",
                 "2PA": "14",
                 "2P%": "29",
@@ -222,8 +216,8 @@
                 "DRB": "27",
                 "TRB": "28",
                 "AST": "26",
-                "STL": "21",
-                "BLK": "23",
+                "STL": "20",
+                "BLK": "22",
                 "TOV": "15",
                 "PF": "23",
                 "PTS": "27"
@@ -259,8 +253,8 @@
                 "PW": "14",
                 "PL": "42",
                 "MOV": "-8.84",
-                "SOS": "0.97",
-                "SRS": "-7.87",
+                "SOS": "1.02",
+                "SRS": "-7.82",
                 "ORtg": "110.4",
                 "DRtg": "119.3",
                 "Pace": "99.4",
@@ -275,7 +269,7 @@
                 "Attendance": "464,060"
             },
             "Misc Lg Rank": {
-                "W": "28",
+                "W": "29",
                 "L": "2",
                 "PW": "29",
                 "PL": "29",
@@ -288,7 +282,7 @@
                 "FTr": "12",
                 "3PAr": "25",
                 "eFG%": "29",
-                "TOV%": "17",
+                "TOV%": "18",
                 "ORB%": "13",
                 "FT/FGA": "11",
                 "DRB%": "30",
@@ -297,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NOP-2025.png",
-        "last_update": "Feb 22 2025 22:32:17"
+        "last_update": "Feb 23 2025 22:32:18"
     }
 }

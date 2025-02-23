@@ -28,10 +28,16 @@
         ],
         "injuries": [
             {
+                "Player": "Neemias Queta",
+                "Team": "Boston Celtics",
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Day To Day (Illness) - The Celtics listed Queta as Questionable for Sunday's (Feb. 23) game against the Knicks."
+            },
+            {
                 "Player": "Xavier Tillman Sr.",
                 "Team": "Boston Celtics",
-                "Update": "Thu, Feb 20, 2025",
-                "Description": "Day To Day (Knee) - Tillman Sr. did not play in Thursday's (Feb. 20) game against the 76ers."
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Out (Knee) - The Celtics listed Tillman Sr. as Out for Sunday's (Feb. 23) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -87,13 +93,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "9",
                 "FG": "13",
                 "FGA": "9",
                 "FG%": "18",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "10",
+                "3P%": "9",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "5",
@@ -187,16 +193,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "9",
                 "FG": "7",
                 "FGA": "18",
                 "FG%": "2",
                 "3P": "4",
                 "3PA": "8",
                 "3P%": "4",
-                "2P": "14",
+                "2P": "13",
                 "2PA": "24",
-                "2P%": "4",
+                "2P%": "3",
                 "FT": "3",
                 "FTA": "3",
                 "FT%": "25",
@@ -241,8 +247,8 @@
                 "PW": "43",
                 "PL": "13",
                 "MOV": "9.27",
-                "SOS": "-0.62",
-                "SRS": "8.64",
+                "SOS": "-0.68",
+                "SRS": "8.59",
                 "ORtg": "119.9",
                 "DRtg": "110.4",
                 "Pace": "97.0",
@@ -262,7 +268,7 @@
                 "PW": "3",
                 "PL": "3",
                 "MOV": "3",
-                "SOS": "25",
+                "SOS": "26",
                 "SRS": "3",
                 "ORtg": "4",
                 "DRtg": "5",
@@ -275,10 +281,10 @@
                 "FT/FGA": "3",
                 "DRB%": "5",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/BOS-2025.png",
-        "last_update": "Feb 22 2025 22:32:17"
+        "last_update": "Feb 23 2025 22:32:18"
     }
 }

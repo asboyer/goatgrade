@@ -29,10 +29,16 @@
         ],
         "injuries": [
             {
+                "Player": "Tyler Herro",
+                "Team": "Miami Heat",
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Day To Day (Shoulder) - The Heat listed Herro as Probable for Sunday's (Feb.23) game against the Bucks."
+            },
+            {
                 "Player": "Kevin Love",
                 "Team": "Miami Heat",
-                "Update": "Fri, Feb 21, 2025",
-                "Description": "Day To Day (Personal) - Love did not play in Friday's (Dec. 21) game against the Raptors."
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Out (Personal) - The Heat listed Love as Out for Sunday's (Feb. 22) game against the Bucks."
             },
             {
                 "Player": "Dru Smith",
@@ -94,19 +100,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "28",
                 "FG": "26",
                 "FGA": "22",
-                "FG%": "22",
+                "FG%": "21",
                 "3P": "9",
                 "3PA": "11",
                 "3P%": "14",
                 "2P": "25",
-                "2PA": "25",
+                "2PA": "26",
                 "2P%": "22",
                 "FT": "18",
                 "FTA": "19",
-                "FT%": "11",
+                "FT%": "12",
                 "ORB": "26",
                 "DRB": "7",
                 "TRB": "19",
@@ -194,11 +200,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "28",
                 "FG": "14",
                 "FGA": "17",
                 "FG%": "10",
-                "3P": "21",
+                "3P": "22",
                 "3PA": "21",
                 "3P%": "13",
                 "2P": "11",
@@ -206,7 +212,7 @@
                 "2P%": "13",
                 "FT": "2",
                 "FTA": "2",
-                "FT%": "18",
+                "FT%": "17",
                 "ORB": "17",
                 "DRB": "26",
                 "TRB": "25",
@@ -248,8 +254,8 @@
                 "PW": "26",
                 "PL": "28",
                 "MOV": "-0.69",
-                "SOS": "-0.37",
-                "SRS": "-1.06",
+                "SOS": "-0.36",
+                "SRS": "-1.04",
                 "ORtg": "112.2",
                 "DRtg": "112.9",
                 "Pace": "96.5",
@@ -264,7 +270,7 @@
                 "Attendance": "453,444"
             },
             "Misc Lg Rank": {
-                "W": "18",
+                "W": "19",
                 "L": "14",
                 "PW": "18",
                 "PL": "17",
@@ -273,19 +279,19 @@
                 "SRS": "17",
                 "ORtg": "20",
                 "DRtg": "11",
-                "Pace": "28",
+                "Pace": "27",
                 "FTr": "16",
                 "3PAr": "8",
                 "eFG%": "12",
                 "TOV%": "21",
                 "ORB%": "26",
                 "FT/FGA": "2",
-                "DRB%": "11",
+                "DRB%": "10",
                 "Arena": "",
                 "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MIA-2025.png",
-        "last_update": "Feb 22 2025 22:32:17"
+        "last_update": "Feb 23 2025 22:32:18"
     }
 }

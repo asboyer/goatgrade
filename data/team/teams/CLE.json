@@ -30,8 +30,14 @@
             {
                 "Player": "Jarrett Allen",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Fri, Feb 21, 2025",
-                "Description": "Day To Day (Hand) - Allen suffered a right hand injury during Friday's (Feb. 21) game against the Knicks and won't return, per Chris Fedor of The Cleveland Plain Dealer."
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Day To Day (Hand) - The Cavaliers listed Allen as Questionable for Sunday's (Feb. 23) game against the Grizzlies."
+            },
+            {
+                "Player": "Darius Garland",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Day To Day (Hip) - The Cavaliers listed Garland as Questionable for Sunday's (Feb. 23) game against the Grizzlies."
             }
         ],
         "team_stats": {
@@ -87,20 +93,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "20",
                 "FG": "2",
                 "FGA": "10",
                 "FG%": "2",
                 "3P": "2",
                 "3PA": "4",
                 "3P%": "1",
-                "2P": "13",
+                "2P": "12",
                 "2PA": "22",
                 "2P%": "1",
                 "FT": "20",
                 "FTA": "22",
-                "FT%": "14",
-                "ORB": "23",
+                "FT%": "13",
+                "ORB": "22",
                 "DRB": "6",
                 "TRB": "11",
                 "AST": "3",
@@ -187,21 +193,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "20",
                 "FG": "11",
                 "FGA": "19",
                 "FG%": "6",
                 "3P": "10",
                 "3PA": "9",
-                "3P%": "20",
-                "2P": "15",
+                "3P%": "21",
+                "2P": "14",
                 "2PA": "26",
-                "2P%": "3",
+                "2P%": "2",
                 "FT": "8",
                 "FTA": "8",
                 "FT%": "9",
                 "ORB": "18",
-                "DRB": "8",
+                "DRB": "7",
                 "TRB": "12",
                 "AST": "8",
                 "STL": "8",
@@ -241,8 +247,8 @@
                 "PW": "44",
                 "PL": "12",
                 "MOV": "11.27",
-                "SOS": "-1.03",
-                "SRS": "10.24",
+                "SOS": "-1.09",
+                "SRS": "10.18",
                 "ORtg": "122.6",
                 "DRtg": "111.3",
                 "Pace": "100.2",
@@ -273,12 +279,12 @@
                 "TOV%": "14",
                 "ORB%": "17",
                 "FT/FGA": "9",
-                "DRB%": "12",
+                "DRB%": "11",
                 "Arena": "",
-                "Attendance": "2"
+                "Attendance": "3"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CLE-2025.png",
-        "last_update": "Feb 22 2025 22:32:17"
+        "last_update": "Feb 23 2025 22:32:18"
     }
 }

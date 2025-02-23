@@ -31,14 +31,14 @@
             {
                 "Player": "Jonathan Isaac",
                 "Team": "Orlando Magic",
-                "Update": "Fri, Feb 21, 2025",
-                "Description": "Day To Day (Illness) - Isaac did not play in Friday's (Dec. 21) game against the Grizzlies."
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Day To Day (Illness) - The Magic listed Isaac as Questionable for Sunday's (Feb. 23) game against the Wizards."
             },
             {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
-                "Update": "Fri, Feb 21, 2025",
-                "Description": "Day To Day (Quad) - Suggs did not play in Friday's (Dec. 21) game against the Grizzlies."
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Out (Quad) - The Magic listed Suggs as Out for Sunday's (Feb. 23) game against the Wizards."
             },
             {
                 "Player": "Moritz Wagner",
@@ -105,18 +105,18 @@
                 "FGA": "27",
                 "FG%": "28",
                 "3P": "30",
-                "3PA": "19",
+                "3PA": "20",
                 "3P%": "30",
                 "2P": "19",
                 "2PA": "19",
                 "2P%": "19",
-                "FT": "8",
+                "FT": "9",
                 "FTA": "4",
                 "FT%": "26",
                 "ORB": "11",
                 "DRB": "28",
                 "TRB": "27",
-                "AST": "29",
+                "AST": "28",
                 "STL": "7",
                 "BLK": "2",
                 "TOV": "18",
@@ -254,8 +254,8 @@
                 "PW": "26",
                 "PL": "32",
                 "MOV": "-1.31",
-                "SOS": "-0.46",
-                "SRS": "-1.77",
+                "SOS": "-0.47",
+                "SRS": "-1.78",
                 "ORtg": "107.8",
                 "DRtg": "109.1",
                 "Pace": "96.3",
@@ -275,14 +275,14 @@
                 "PW": "17",
                 "PL": "20",
                 "MOV": "18",
-                "SOS": "22",
+                "SOS": "23",
                 "SRS": "19",
                 "ORtg": "29",
                 "DRtg": "2",
                 "Pace": "29",
                 "FTr": "1",
                 "3PAr": "16",
-                "eFG%": "17",
+                "eFG%": "16",
                 "TOV%": "2",
                 "ORB%": "14",
                 "FT/FGA": "29",
@@ -292,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/ORL-2025.png",
-        "last_update": "Feb 22 2025 22:32:17"
+        "last_update": "Feb 23 2025 22:32:18"
     }
 }

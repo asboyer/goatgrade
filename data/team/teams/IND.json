@@ -34,6 +34,12 @@
                 "Description": "Out For Season (Calf) - The Indiana Pacers announced C Isaiah Jackson has sustained a torn right Achilles tendon in Friday's (Nov. 1) game versus the Pelicans and will be out for the remainder of the season, per Shams Charania of ESPN."
             },
             {
+                "Player": "James Johnson",
+                "Team": "Indiana Pacers",
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Out (Illness) - The Pacers listed Johnson as OUT for Sunday's (Feb. 22) game against Los Angeles."
+            },
+            {
                 "Player": "Myles Turner",
                 "Team": "Indiana Pacers",
                 "Update": "Tue, Feb 18, 2025",
@@ -93,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "6",
                 "FGA": "18",
                 "FG%": "4",
@@ -105,7 +111,7 @@
                 "2P%": "6",
                 "FT": "17",
                 "FTA": "15",
-                "FT%": "17",
+                "FT%": "16",
                 "ORB": "29",
                 "DRB": "23",
                 "TRB": "28",
@@ -193,14 +199,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "23",
                 "FGA": "15",
                 "FG%": "22",
                 "3P": "9",
                 "3PA": "10",
-                "3P%": "17",
-                "2P": "23",
+                "3P%": "16",
+                "2P": "24",
                 "2PA": "19",
                 "2P%": "21",
                 "FT": "22",
@@ -208,8 +214,8 @@
                 "FT%": "15",
                 "ORB": "19",
                 "DRB": "19",
-                "TRB": "22",
-                "AST": "16",
+                "TRB": "21",
+                "AST": "15",
                 "STL": "5",
                 "BLK": "9",
                 "TOV": "10",
@@ -247,8 +253,8 @@
                 "PW": "28",
                 "PL": "26",
                 "MOV": "0.67",
-                "SOS": "-0.66",
-                "SRS": "0.01",
+                "SOS": "-0.65",
+                "SRS": "0.02",
                 "ORtg": "115.8",
                 "DRtg": "115.1",
                 "Pace": "99.8",
@@ -268,14 +274,14 @@
                 "PW": "16",
                 "PL": "13",
                 "MOV": "15",
-                "SOS": "26",
+                "SOS": "25",
                 "SRS": "15",
                 "ORtg": "9",
                 "DRtg": "20",
                 "Pace": "7",
                 "FTr": "18",
                 "3PAr": "26",
-                "eFG%": "21",
+                "eFG%": "22",
                 "TOV%": "13",
                 "ORB%": "29",
                 "FT/FGA": "21",
@@ -285,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/IND-2025.png",
-        "last_update": "Feb 22 2025 22:32:17"
+        "last_update": "Feb 23 2025 22:32:18"
     }
 }

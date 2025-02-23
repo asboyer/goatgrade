@@ -43,8 +43,8 @@
             {
                 "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Feb 21, 2025",
-                "Description": "Day To Day (Hip) - Poeltl did not play in Friday's (Dec. 21) game against the Heat."
+                "Update": "Sat, Feb 22, 2025",
+                "Description": "Day To Day (Hip) - The Raptors listed Poeltl as Questionable for Sunday's (Feb. 23) game against the Suns."
             },
             {
                 "Player": "P.J. Tucker",
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "10",
                 "FG": "14",
                 "FGA": "15",
                 "FG%": "14",
@@ -118,7 +118,7 @@
                 "2P%": "21",
                 "FT": "28",
                 "FTA": "21",
-                "FT%": "28",
+                "FT%": "27",
                 "ORB": "9",
                 "DRB": "24",
                 "TRB": "21",
@@ -206,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "10",
                 "FG": "15",
                 "FGA": "12",
                 "FG%": "19",
@@ -221,7 +221,7 @@
                 "FT%": "10",
                 "ORB": "21",
                 "DRB": "14",
-                "TRB": "16",
+                "TRB": "17",
                 "AST": "11",
                 "STL": "25",
                 "BLK": "25",
@@ -260,8 +260,8 @@
                 "PW": "18",
                 "PL": "38",
                 "MOV": "-6.00",
-                "SOS": "1.52",
-                "SRS": "-4.48",
+                "SOS": "1.50",
+                "SRS": "-4.51",
                 "ORtg": "110.6",
                 "DRtg": "116.6",
                 "Pace": "99.2",
@@ -279,25 +279,25 @@
                 "W": "26",
                 "L": "5",
                 "PW": "25",
-                "PL": "27",
+                "PL": "25",
                 "MOV": "26",
                 "SOS": "1",
-                "SRS": "23",
-                "ORtg": "24",
+                "SRS": "24",
+                "ORtg": "25",
                 "DRtg": "26",
                 "Pace": "14",
                 "FTr": "22",
                 "3PAr": "29",
-                "eFG%": "20",
-                "TOV%": "16",
+                "eFG%": "21",
+                "TOV%": "17",
                 "ORB%": "10",
                 "FT/FGA": "30",
                 "DRB%": "25",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/TOR-2025.png",
-        "last_update": "Feb 22 2025 22:32:17"
+        "last_update": "Feb 23 2025 22:32:18"
     }
 }
