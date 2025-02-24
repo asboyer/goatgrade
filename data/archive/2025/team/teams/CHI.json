@@ -31,14 +31,20 @@
             {
                 "Player": "Ayo Dosunmu",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Feb 22, 2025",
-                "Description": "Day To Day (Shoulder) - Dosunmu did not play in Saturday's (Feb. 22) game against the Suns."
+                "Update": "Sun, Feb 23, 2025",
+                "Description": "Out (Shoulder) - The Bulls announced Dosunmu (shoulder) is quoted to be pretty sore and is without a timeline for a return, Cody Westerlund of 670TheScore.com reports."
             },
             {
                 "Player": "Jalen Smith",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Feb 22, 2025",
-                "Description": "Day To Day (Face) - Smith did not play in Saturday's (Feb. 22) game against the Suns."
+                "Update": "Sun, Feb 23, 2025",
+                "Description": "Out (Face) - The Bulls listed Smith as OUT for Monday's (Feb. 24) game against Philadelphia."
+            },
+            {
+                "Player": "Coby White",
+                "Team": "Chicago Bulls",
+                "Update": "Sun, Feb 23, 2025",
+                "Description": "Day To Day (Ankle) - The Bulls listed White as probable for Monday's (Feb. 24) game against Philadelphia."
             },
             {
                 "Player": "Patrick Williams",
@@ -100,8 +106,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "9",
+                "MP": "13",
+                "FG": "10",
                 "FGA": "5",
                 "FG%": "16",
                 "3P": "3",
@@ -109,15 +115,15 @@
                 "3P%": "10",
                 "2P": "23",
                 "2PA": "24",
-                "2P%": "14",
+                "2P%": "15",
                 "FT": "30",
                 "FTA": "30",
                 "FT%": "5",
                 "ORB": "25",
                 "DRB": "1",
-                "TRB": "8",
+                "TRB": "7",
                 "AST": "8",
-                "STL": "26",
+                "STL": "25",
                 "BLK": "20",
                 "TOV": "19",
                 "PF": "7",
@@ -200,20 +206,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "13",
                 "FG": "30",
                 "FGA": "30",
-                "FG%": "21",
+                "FG%": "22",
                 "3P": "16",
-                "3PA": "28",
+                "3PA": "27",
                 "3P%": "2",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "27",
                 "FT": "15",
                 "FTA": "14",
-                "FT%": "18",
-                "ORB": "13",
+                "FT%": "19",
+                "ORB": "14",
                 "DRB": "30",
                 "TRB": "29",
                 "AST": "29",
@@ -254,8 +260,8 @@
                 "PW": "21",
                 "PL": "36",
                 "MOV": "-4.63",
-                "SOS": "-0.15",
-                "SRS": "-4.78",
+                "SOS": "-0.13",
+                "SRS": "-4.76",
                 "ORtg": "112.1",
                 "DRtg": "116.6",
                 "Pace": "103.0",
@@ -277,21 +283,21 @@
                 "MOV": "23",
                 "SOS": "14",
                 "SRS": "25",
-                "ORtg": "21",
-                "DRtg": "25",
+                "ORtg": "22",
+                "DRtg": "26",
                 "Pace": "3",
                 "FTr": "30",
                 "3PAr": "2",
-                "eFG%": "19",
+                "eFG%": "18",
                 "TOV%": "29",
                 "ORB%": "28",
                 "FT/FGA": "7",
                 "DRB%": "6",
                 "Arena": "",
-                "Attendance": "1"
+                "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CHI-2025.png",
-        "last_update": "Feb 23 2025 22:32:18"
+        "last_update": "Feb 24 2025 22:32:18"
     }
 }

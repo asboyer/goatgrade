@@ -42,14 +42,14 @@
             {
                 "Player": "D'Angelo Russell",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Feb 22, 2025",
-                "Description": "Day To Day (Ankle) - Russell did not play in Saturday's (Feb. 22) game against the 76ers."
+                "Update": "Sun, Feb 23, 2025",
+                "Description": "Day To Day (Ankle) - The Nets listed Russell as OUT for Monday's (Feb. 24) game against Washington."
             },
             {
                 "Player": "Cam Thomas",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Feb 22, 2025",
-                "Description": "Day To Day (Hamstring) - Thomas did not play in Saturday's (Feb. 22) game against the 76ers."
+                "Update": "Sun, Feb 23, 2025",
+                "Description": "Out (Hamstring) - The Nets listed Thomas as OUT for Monday's (Feb. 24) game against Washington."
             }
         ],
         "team_stats": {
@@ -105,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "21",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "27",
@@ -116,15 +116,15 @@
                 "2PA": "29",
                 "2P%": "26",
                 "FT": "21",
-                "FTA": "23",
-                "FT%": "9",
-                "ORB": "23",
+                "FTA": "25",
+                "FT%": "10",
+                "ORB": "22",
                 "DRB": "29",
                 "TRB": "29",
                 "AST": "24",
                 "STL": "24",
-                "BLK": "26",
-                "TOV": "23",
+                "BLK": "27",
+                "TOV": "22",
                 "PF": "25",
                 "PTS": "29"
             },
@@ -205,28 +205,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "21",
                 "FG": "4",
                 "FGA": "2",
-                "FG%": "26",
+                "FG%": "27",
                 "3P": "8",
                 "3PA": "4",
-                "3P%": "23",
-                "2P": "3",
+                "3P%": "24",
+                "2P": "4",
                 "2PA": "4",
                 "2P%": "24",
                 "FT": "20",
-                "FTA": "24",
-                "FT%": "8",
+                "FTA": "23",
+                "FT%": "6",
                 "ORB": "3",
                 "DRB": "13",
                 "TRB": "7",
-                "AST": "14",
+                "AST": "15",
                 "STL": "16",
                 "BLK": "26",
                 "TOV": "8",
                 "PF": "11",
-                "PTS": "8"
+                "PTS": "7"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -259,8 +259,8 @@
                 "PW": "18",
                 "PL": "38",
                 "MOV": "-5.96",
-                "SOS": "0.17",
-                "SRS": "-5.80",
+                "SOS": "0.18",
+                "SRS": "-5.78",
                 "ORtg": "108.6",
                 "DRtg": "114.8",
                 "Pace": "96.0",
@@ -279,24 +279,24 @@
                 "L": "7",
                 "PW": "26",
                 "PL": "27",
-                "MOV": "25",
+                "MOV": "26",
                 "SOS": "10",
                 "SRS": "26",
                 "ORtg": "27",
-                "DRtg": "17",
+                "DRtg": "16",
                 "Pace": "30",
-                "FTr": "17",
+                "FTr": "18",
                 "3PAr": "7",
-                "eFG%": "25",
+                "eFG%": "26",
                 "TOV%": "6",
                 "ORB%": "20",
                 "FT/FGA": "27",
                 "DRB%": "13",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/BRK-2025.png",
-        "last_update": "Feb 23 2025 22:32:18"
+        "last_update": "Feb 24 2025 22:32:18"
     }
 }
