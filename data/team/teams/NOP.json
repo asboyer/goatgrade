@@ -2,14 +2,13 @@
     "NOP": {
         "info": {
             "record": "14-43",
-            "standing": "15th in West",
+            "standing": "14th in West",
             "coach": "Willie Green (14-43)",
             "gm": "David Griffin",
             "preseason_odds": "+5000"
         },
         "players": [
             "Yves Missi",
-            "Javonte Green",
             "Jeremiah Robinson-Earl",
             "CJ McCollum",
             "Brandon Boston Jr.",
@@ -30,8 +29,8 @@
             {
                 "Player": "Brandon Boston Jr.",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sat, Feb 22, 2025",
-                "Description": "Out (Ankle) - The Pelicans listed Boston Jr. as Out for Sunday's (Feb. 23) game against the Spurs."
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Out (Ankle) - The Pelicans listed Boston Jr. as Out for Tuesday's (Feb. 25) game against the Spurs."
             },
             {
                 "Player": "Herbert Jones",
@@ -99,7 +98,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "16",
                 "FG": "21",
                 "FGA": "10",
                 "FG%": "24",
@@ -107,9 +106,9 @@
                 "3PA": "24",
                 "3P%": "21",
                 "2P": "15",
-                "2PA": "6",
+                "2PA": "5",
                 "2P%": "29",
-                "FT": "12",
+                "FT": "13",
                 "FTA": "10",
                 "FT%": "25",
                 "ORB": "7",
@@ -118,7 +117,7 @@
                 "AST": "19",
                 "STL": "5",
                 "BLK": "8",
-                "TOV": "17",
+                "TOV": "16",
                 "PF": "10",
                 "PTS": "23"
             },
@@ -199,10 +198,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
-                "FG": "28",
+                "MP": "16",
+                "FG": "29",
                 "FGA": "23",
-                "FG%": "28",
+                "FG%": "29",
                 "3P": "28",
                 "3PA": "29",
                 "3P%": "23",
@@ -211,13 +210,13 @@
                 "2P%": "29",
                 "FT": "11",
                 "FTA": "9",
-                "FT%": "21",
+                "FT%": "20",
                 "ORB": "25",
                 "DRB": "27",
                 "TRB": "28",
                 "AST": "26",
-                "STL": "21",
-                "BLK": "22",
+                "STL": "20",
+                "BLK": "23",
                 "TOV": "15",
                 "PF": "23",
                 "PTS": "26"
@@ -253,8 +252,8 @@
                 "PW": "15",
                 "PL": "42",
                 "MOV": "-8.37",
-                "SOS": "0.95",
-                "SRS": "-7.42",
+                "SOS": "1.00",
+                "SRS": "-7.37",
                 "ORtg": "110.5",
                 "DRtg": "118.8",
                 "Pace": "99.5",
@@ -274,23 +273,23 @@
                 "PW": "29",
                 "PL": "29",
                 "MOV": "29",
-                "SOS": "3",
-                "SRS": "29",
+                "SOS": "4",
+                "SRS": "28",
                 "ORtg": "26",
                 "DRtg": "28",
                 "Pace": "11",
                 "FTr": "12",
-                "3PAr": "25",
-                "eFG%": "28",
-                "TOV%": "18",
-                "ORB%": "12",
+                "3PAr": "26",
+                "eFG%": "29",
+                "TOV%": "19",
+                "ORB%": "13",
                 "FT/FGA": "11",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NOP-2025.png",
-        "last_update": "Feb 24 2025 22:32:18"
+        "last_update": "Feb 25 2025 22:32:19"
     }
 }

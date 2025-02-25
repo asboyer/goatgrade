@@ -2,7 +2,7 @@
     "MEM": {
         "info": {
             "record": "37-20",
-            "standing": "2nd in West",
+            "standing": "3rd in West",
             "coach": "Taylor Jenkins (37-20)",
             "gm": "Zach Kleiman",
             "preseason_odds": "+4000"
@@ -25,20 +25,20 @@
             "Vince Williams Jr.",
             "Zyon Pullin",
             "Marvin Bagley III",
-            "Johnny Davis"
+            "Lamar Stevens"
         ],
         "injuries": [
+            {
+                "Player": "Zyon Pullin",
+                "Team": "Memphis Grizzlies",
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Out (Knee) - The Grizzlies listed Pullin as OUT for Tuesday's (Feb. 25) game against Phoenix."
+            },
             {
                 "Player": "Cam Spencer",
                 "Team": "Memphis Grizzlies",
                 "Update": "Fri, Feb 7, 2025",
                 "Description": "Out (Thumb) - The Grizzlies announced that Spencer suffered a fractured thumb. The rookie can be considered week-to-week until the team provides another update on his recovery."
-            },
-            {
-                "Player": "Vince Williams Jr.",
-                "Team": "Memphis Grizzlies",
-                "Update": "Fri, Feb 21, 2025",
-                "Description": "Day To Day (Knee) - Williams Jr. did not play in Friday's (Dec. 21) game against the Magic."
             }
         ],
         "team_stats": {
@@ -94,11 +94,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "23",
                 "FG": "3",
                 "FGA": "1",
                 "FG%": "6",
-                "3P": "8",
+                "3P": "9",
                 "3PA": "14",
                 "3P%": "8",
                 "2P": "3",
@@ -194,8 +194,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
-                "FG": "18",
+                "MP": "23",
+                "FG": "19",
                 "FGA": "27",
                 "FG%": "3",
                 "3P": "19",
@@ -204,18 +204,18 @@
                 "2P": "16",
                 "2PA": "22",
                 "2P%": "6",
-                "FT": "28",
+                "FT": "27",
                 "FTA": "29",
                 "FT%": "2",
                 "ORB": "25",
                 "DRB": "3",
                 "TRB": "13",
-                "AST": "16",
+                "AST": "15",
                 "STL": "23",
-                "BLK": "28",
+                "BLK": "27",
                 "TOV": "5",
                 "PF": "1",
-                "PTS": "23"
+                "PTS": "24"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -248,8 +248,8 @@
                 "PW": "39",
                 "PL": "18",
                 "MOV": "6.77",
-                "SOS": "-0.50",
-                "SRS": "6.28",
+                "SOS": "-0.47",
+                "SRS": "6.30",
                 "ORtg": "117.9",
                 "DRtg": "111.4",
                 "Pace": "104.1",
@@ -264,7 +264,7 @@
                 "Attendance": "444,636"
             },
             "Misc Lg Rank": {
-                "W": "4",
+                "W": "5",
                 "L": "25",
                 "PW": "4",
                 "PL": "4",
@@ -274,10 +274,10 @@
                 "ORtg": "6",
                 "DRtg": "7",
                 "Pace": "1",
-                "FTr": "7",
-                "3PAr": "21",
+                "FTr": "6",
+                "3PAr": "20",
                 "eFG%": "4",
-                "TOV%": "10",
+                "TOV%": "9",
                 "ORB%": "2",
                 "FT/FGA": "23",
                 "DRB%": "21",
@@ -286,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MEM-2025.png",
-        "last_update": "Feb 24 2025 22:32:18"
+        "last_update": "Feb 25 2025 22:32:19"
     }
 }

@@ -49,14 +49,20 @@
             {
                 "Player": "Caleb Martin",
                 "Team": "Dallas Mavericks",
-                "Update": "Sun, Feb 23, 2025",
-                "Description": "Day To Day (Hip) - Martin did not play in Sunday's (Feb. 23) game against the Warriors."
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Out (Hip) - The Mavericks listed Martin as OUT for Tuesday's (Feb. 25) game against Los Angeles."
             },
             {
                 "Player": "Dwight Powell",
                 "Team": "Dallas Mavericks",
-                "Update": "Sun, Feb 23, 2025",
-                "Description": "Day To Day (Hip) - Powell did not play in Sunday's (Feb. 23) game against the Warriors."
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Day To Day (Hip) - The Mavericks listed Powell as doubtful for Tuesday's (Feb. 25) game against Los Angeles."
+            },
+            {
+                "Player": "P.J. Washington",
+                "Team": "Dallas Mavericks",
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Day To Day (Ankle) - The Mavericks listed Washington Jr. as questionable for Tuesday's (Feb. 25) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -112,22 +118,22 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "6",
                 "FG": "11",
                 "FGA": "20",
                 "FG%": "8",
-                "3P": "16",
+                "3P": "15",
                 "3PA": "23",
                 "3P%": "7",
                 "2P": "11",
                 "2PA": "12",
                 "2P%": "12",
-                "FT": "6",
+                "FT": "5",
                 "FTA": "5",
                 "FT%": "22",
                 "ORB": "17",
                 "DRB": "14",
-                "TRB": "15",
+                "TRB": "16",
                 "AST": "20",
                 "STL": "17",
                 "BLK": "4",
@@ -212,28 +218,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "6",
                 "FG": "21",
                 "FGA": "24",
                 "FG%": "9",
                 "3P": "7",
-                "3PA": "6",
-                "3P%": "17",
-                "2P": "24",
+                "3PA": "5",
+                "3P%": "18",
+                "2P": "23",
                 "2PA": "29",
                 "2P%": "5",
-                "FT": "10",
-                "FTA": "13",
+                "FT": "9",
+                "FTA": "12",
                 "FT%": "10",
                 "ORB": "30",
-                "DRB": "12",
+                "DRB": "11",
                 "TRB": "21",
-                "AST": "19",
-                "STL": "15",
+                "AST": "18",
+                "STL": "14",
                 "BLK": "11",
                 "TOV": "23",
-                "PF": "15",
-                "PTS": "16"
+                "PF": "13",
+                "PTS": "17"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -266,8 +272,8 @@
                 "PW": "32",
                 "PL": "26",
                 "MOV": "1.86",
-                "SOS": "0.66",
-                "SRS": "2.52",
+                "SOS": "0.69",
+                "SRS": "2.55",
                 "ORtg": "116.2",
                 "DRtg": "114.3",
                 "Pace": "99.0",
@@ -282,17 +288,17 @@
                 "Attendance": "582,478"
             },
             "Misc Lg Rank": {
-                "W": "11",
+                "W": "13",
                 "L": "16",
-                "PW": "9",
+                "PW": "10",
                 "PL": "12",
                 "MOV": "10",
                 "SOS": "8",
-                "SRS": "10",
+                "SRS": "9",
                 "ORtg": "7",
                 "DRtg": "14",
                 "Pace": "17",
-                "FTr": "5",
+                "FTr": "4",
                 "3PAr": "22",
                 "eFG%": "7",
                 "TOV%": "24",
@@ -300,10 +306,10 @@
                 "FT/FGA": "10",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DAL-2025.png",
-        "last_update": "Feb 24 2025 22:32:18"
+        "last_update": "Feb 25 2025 22:32:19"
     }
 }

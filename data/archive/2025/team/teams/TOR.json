@@ -35,6 +35,12 @@
                 "Description": "Out For Season (Knee) - Chomche was diagnosed Wednesday (Feb. 19) with a partial proximal MCL tear in his right knee and will miss the remainder of the season, as per Michael Scotto of USA Today."
             },
             {
+                "Player": "Gradey Dick",
+                "Team": "Toronto Raptors",
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Day To Day (Thigh) - The Raptors listed Dick as probable for Tuesday's (Feb. 25) game against Boston."
+            },
+            {
                 "Player": "Brandon Ingram",
                 "Team": "Toronto Raptors",
                 "Update": "Thu, Feb 13, 2025",
@@ -43,8 +49,8 @@
             {
                 "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Sun, Feb 23, 2025",
-                "Description": "Out (Hip) - The Raptors listed Poeltl as OUT for Sunday's (Feb. 23) game against the Suns."
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Day To Day (Hip) - The Raptors listed Poeltl as Questionable for Tuesday's (Feb. 25) game against Boston."
             },
             {
                 "Player": "P.J. Tucker",
@@ -106,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "11",
                 "FG": "14",
                 "FGA": "15",
                 "FG%": "14",
@@ -115,7 +121,7 @@
                 "3P%": "19",
                 "2P": "6",
                 "2PA": "3",
-                "2P%": "22",
+                "2P%": "21",
                 "FT": "27",
                 "FTA": "20",
                 "FT%": "27",
@@ -125,9 +131,9 @@
                 "AST": "9",
                 "STL": "21",
                 "BLK": "24",
-                "TOV": "23",
+                "TOV": "22",
                 "PF": "30",
-                "PTS": "22"
+                "PTS": "21"
             },
             "Year/Year": {
                 "G": "",
@@ -206,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "11",
                 "FG": "16",
                 "FGA": "12",
                 "FG%": "20",
@@ -214,19 +220,19 @@
                 "3PA": "14",
                 "3P%": "11",
                 "2P": "17",
-                "2PA": "8",
+                "2PA": "9",
                 "2P%": "23",
                 "FT": "30",
                 "FTA": "30",
                 "FT%": "8",
                 "ORB": "21",
-                "DRB": "14",
+                "DRB": "15",
                 "TRB": "16",
                 "AST": "10",
-                "STL": "26",
+                "STL": "25",
                 "BLK": "25",
                 "TOV": "16",
-                "PF": "20",
+                "PF": "21",
                 "PTS": "25"
             },
             "Opp Year/Year": {
@@ -260,8 +266,8 @@
                 "PW": "19",
                 "PL": "38",
                 "MOV": "-5.58",
-                "SOS": "1.44",
-                "SRS": "-4.14",
+                "SOS": "1.45",
+                "SRS": "-4.13",
                 "ORtg": "110.9",
                 "DRtg": "116.5",
                 "Pace": "99.2",
@@ -282,7 +288,7 @@
                 "PL": "25",
                 "MOV": "25",
                 "SOS": "1",
-                "SRS": "23",
+                "SRS": "22",
                 "ORtg": "25",
                 "DRtg": "25",
                 "Pace": "14",
@@ -294,10 +300,10 @@
                 "FT/FGA": "30",
                 "DRB%": "23",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "6"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/TOR-2025.png",
-        "last_update": "Feb 24 2025 22:32:18"
+        "last_update": "Feb 25 2025 22:32:19"
     }
 }

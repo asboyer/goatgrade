@@ -29,28 +29,22 @@
         ],
         "injuries": [
             {
-                "Player": "Steven Adams",
+                "Player": "Dillon Brooks",
                 "Team": "Houston Rockets",
-                "Update": "Sat, Feb 22, 2025",
-                "Description": "Day To Day (Ankle) - Adams did not play in Saturday's (Feb. 22) game against the Jazz."
-            },
-            {
-                "Player": "Tari Eason",
-                "Team": "Houston Rockets",
-                "Update": "Sat, Feb 22, 2025",
-                "Description": "Day To Day (Leg) - Eason did not play in Saturday's (Feb. 22) game against the Jazz."
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Day To Day (Illness) - The Rockets listed Brooks as questionable for Tuesday's (Feb. 25) game against Milwaukee."
             },
             {
                 "Player": "Jae'Sean Tate",
                 "Team": "Houston Rockets",
-                "Update": "Sat, Feb 22, 2025",
-                "Description": "Day To Day (Back) - Tate did not play in Saturday's (Feb. 22) game against the Jazz."
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Day To Day (Back) - The Rockets listed Tate as questionable for Tuesday's (Feb. 25) game against Milwaukee."
             },
             {
                 "Player": "Fred VanVleet",
                 "Team": "Houston Rockets",
-                "Update": "Sat, Feb 22, 2025",
-                "Description": "Day To Day (Ankle) - VanVleet did not play in Saturday's (Feb. 22) game against the Jazz."
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Day To Day (Ankle) - The Rockets listed VanVleet as questionable for Tuesday's (Feb. 25) game against Milwaukee."
             },
             {
                 "Player": "Cody Zeller",
@@ -112,13 +106,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "16",
                 "FG": "15",
                 "FGA": "2",
                 "FG%": "25",
-                "3P": "27",
+                "3P": "26",
                 "3PA": "22",
-                "3P%": "28",
+                "3P%": "27",
                 "2P": "8",
                 "2PA": "2",
                 "2P%": "28",
@@ -212,9 +206,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "16",
                 "FG": "5",
-                "FGA": "11",
+                "FGA": "9",
                 "FG%": "5",
                 "3P": "2",
                 "3PA": "2",
@@ -227,13 +221,13 @@
                 "FT%": "1",
                 "ORB": "11",
                 "DRB": "9",
-                "TRB": "10",
+                "TRB": "9",
                 "AST": "1",
                 "STL": "10",
                 "BLK": "29",
-                "TOV": "13",
-                "PF": "5",
-                "PTS": "6"
+                "TOV": "12",
+                "PF": "3",
+                "PTS": "5"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -266,8 +260,8 @@
                 "PW": "35",
                 "PL": "22",
                 "MOV": "3.89",
-                "SOS": "0.77",
-                "SRS": "4.66",
+                "SOS": "0.79",
+                "SRS": "4.68",
                 "ORtg": "113.8",
                 "DRtg": "109.9",
                 "Pace": "98.6",
@@ -287,7 +281,7 @@
                 "PW": "7",
                 "PL": "7",
                 "MOV": "7",
-                "SOS": "7",
+                "SOS": "6",
                 "SRS": "6",
                 "ORtg": "15",
                 "DRtg": "4",
@@ -304,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/HOU-2025.png",
-        "last_update": "Feb 24 2025 22:32:18"
+        "last_update": "Feb 25 2025 22:32:19"
     }
 }

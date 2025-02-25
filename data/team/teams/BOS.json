@@ -28,16 +28,34 @@
         ],
         "injuries": [
             {
+                "Player": "Jrue Holiday",
+                "Team": "Boston Celtics",
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Out (Rest) - The Celtics listed Holiday as OUT for Tuesday's (Feb. 25) game against Toronto."
+            },
+            {
+                "Player": "Al Horford",
+                "Team": "Boston Celtics",
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Day To Day (Toe) - The Celtics listed Horford as questionable for Tuesday's (Feb. 25) game against Toronto."
+            },
+            {
+                "Player": "Luke Kornet",
+                "Team": "Boston Celtics",
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Out (Personal) - The Celtics listed Kornet as OUT for Tuesday's (Feb. 25) game against Toronto."
+            },
+            {
                 "Player": "Neemias Queta",
                 "Team": "Boston Celtics",
-                "Update": "Sun, Feb 23, 2025",
-                "Description": "Day To Day (Illness) - Queta did not play in Sunday's (Feb. 23) game against the Knicks."
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Day To Day (Illness) - The Celtics listed Queta as probable for Tuesday's (Feb. 25) game against Toronto."
             },
             {
                 "Player": "Xavier Tillman Sr.",
                 "Team": "Boston Celtics",
-                "Update": "Sun, Feb 23, 2025",
-                "Description": "Day To Day (Knee) - Tillman Sr. did not play in Sunday's (Feb. 23) game against the Knicks."
+                "Update": "Mon, Feb 24, 2025",
+                "Description": "Day To Day (Knee) - The Celtics listed Tillman Sr. as probable for Tuesday's (Feb. 25) game against Toronto."
             }
         ],
         "team_stats": {
@@ -93,23 +111,23 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "10",
                 "FG": "13",
                 "FGA": "9",
                 "FG%": "17",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "9",
+                "3P%": "10",
                 "2P": "30",
                 "2PA": "30",
-                "2P%": "4",
-                "FT": "25",
+                "2P%": "5",
+                "FT": "26",
                 "FTA": "28",
                 "FT%": "7",
                 "ORB": "18",
                 "DRB": "4",
-                "TRB": "8",
-                "AST": "17",
+                "TRB": "9",
+                "AST": "16",
                 "STL": "28",
                 "BLK": "6",
                 "TOV": "1",
@@ -193,11 +211,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "10",
                 "FG": "7",
                 "FGA": "18",
                 "FG%": "2",
-                "3P": "4",
+                "3P": "3",
                 "3PA": "8",
                 "3P%": "4",
                 "2P": "13",
@@ -205,7 +223,7 @@
                 "2P%": "3",
                 "FT": "3",
                 "FTA": "3",
-                "FT%": "27",
+                "FT%": "26",
                 "ORB": "8",
                 "DRB": "21",
                 "TRB": "15",
@@ -213,7 +231,7 @@
                 "STL": "2",
                 "BLK": "1",
                 "TOV": "26",
-                "PF": "21",
+                "PF": "22",
                 "PTS": "3"
             },
             "Opp Year/Year": {
@@ -247,8 +265,8 @@
                 "PW": "43",
                 "PL": "14",
                 "MOV": "9.33",
-                "SOS": "-0.57",
-                "SRS": "8.77",
+                "SOS": "-0.55",
+                "SRS": "8.79",
                 "ORtg": "119.9",
                 "DRtg": "110.4",
                 "Pace": "97.0",
@@ -268,7 +286,7 @@
                 "PW": "3",
                 "PL": "3",
                 "MOV": "3",
-                "SOS": "25",
+                "SOS": "26",
                 "SRS": "3",
                 "ORtg": "4",
                 "DRtg": "5",
@@ -281,10 +299,10 @@
                 "FT/FGA": "3",
                 "DRB%": "5",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/BOS-2025.png",
-        "last_update": "Feb 24 2025 22:32:18"
+        "last_update": "Feb 25 2025 22:32:19"
     }
 }
