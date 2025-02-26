@@ -35,22 +35,34 @@
                 "Description": "Day To Day (Head) - Ball did not return to Monday's (Feb. 24) game against Philadelphia."
             },
             {
+                "Player": "Zach Collins",
+                "Team": "Chicago Bulls",
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Day To Day (Leg) - The Bulls listed Collins as Probable for Wednesday's (Feb. 26) game against the Clippers."
+            },
+            {
                 "Player": "Ayo Dosunmu",
                 "Team": "Chicago Bulls",
-                "Update": "Sun, Feb 23, 2025",
-                "Description": "Out (Shoulder) - The Bulls announced Dosunmu is quoted to be pretty sore and is without a timeline for a return, Cody Westerlund of 670TheScore.com reports."
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Day To Day (Shoulder) - The Bulls listed Dosunmu as Questionable for Wednesday's (Feb. 26) game against the Clippers."
+            },
+            {
+                "Player": "Kevin Huerter",
+                "Team": "Chicago Bulls",
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Day To Day (Quadricep) - The Bulls listed Huerter as Probable for Wednesday's (Feb. 26) game against the Clippers."
             },
             {
                 "Player": "Jalen Smith",
                 "Team": "Chicago Bulls",
-                "Update": "Mon, Feb 24, 2025",
-                "Description": "Day To Day (Face) - Smith did not play in Monday's (Feb. 24) game against Philadelphia."
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Out (Face) - The Bulls listed Smith as Out for Wednesday's (Feb. 26) game against the Clippers."
             },
             {
                 "Player": "Nikola Vučević",
                 "Team": "Chicago Bulls",
-                "Update": "Mon, Feb 24, 2025",
-                "Description": "Day To Day (Calf) - Vucevic did not play in Monday's (Feb. 24) game against the 76ers."
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Day To Day (Calf) - The Bulls listed Vucevic as Doubtful for Wednesday's (Feb. 26) game against the Clippers."
             },
             {
                 "Player": "Patrick Williams",
@@ -112,9 +124,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "12",
                 "FG": "9",
-                "FGA": "5",
+                "FGA": "6",
                 "FG%": "15",
                 "3P": "3",
                 "3PA": "2",
@@ -212,24 +224,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "12",
                 "FG": "30",
                 "FGA": "30",
-                "FG%": "21",
+                "FG%": "20",
                 "3P": "15",
                 "3PA": "27",
                 "3P%": "2",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "26",
-                "FT": "15",
+                "FT": "16",
                 "FTA": "14",
-                "FT%": "21",
-                "ORB": "16",
+                "FT%": "20",
+                "ORB": "14",
                 "DRB": "30",
                 "TRB": "29",
                 "AST": "29",
-                "STL": "18",
+                "STL": "16",
                 "BLK": "17",
                 "TOV": "28",
                 "PF": "30",
@@ -266,8 +278,8 @@
                 "PW": "22",
                 "PL": "36",
                 "MOV": "-4.00",
-                "SOS": "-0.21",
-                "SRS": "-4.21",
+                "SOS": "-0.23",
+                "SRS": "-4.23",
                 "ORtg": "112.5",
                 "DRtg": "116.4",
                 "Pace": "103.1",
@@ -298,12 +310,12 @@
                 "TOV%": "29",
                 "ORB%": "28",
                 "FT/FGA": "8",
-                "DRB%": "8",
+                "DRB%": "7",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CHI-2025.png",
-        "last_update": "Feb 25 2025 22:32:19"
+        "last_update": "Feb 26 2025 22:32:19"
     }
 }

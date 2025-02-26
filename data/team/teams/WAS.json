@@ -31,14 +31,14 @@
             {
                 "Player": "Saddiq Bey",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Jan 30, 2025",
-                "Description": "Out (Knee) - The Wizards haven't provided any updates on Bey's status since training camp, making it difficult to gauge where he stands in his recovery. At this point, Bey doesn't look like he'll be a candidate to make his Wizards debut until after the Al"
+                "Update": "Thu, Feb 20, 2025",
+                "Description": "Out (Knee) - Bey was listed as out for Sunday's (Feb. 23) game against the Magic and remains without a timetable for making his season debut."
             },
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Feb 24, 2025",
-                "Description": "Day To Day (Ankle) - Brogdon did not play in Monday's (Feb. 24) game against the Nets."
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Out (Ankle) - The Wizards listed Brogdon as Out for Wednesday's (Feb.26) game against the Trail Blazers."
             },
             {
                 "Player": "Khris Middleton",
@@ -49,8 +49,8 @@
             {
                 "Player": "Alex Sarr",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Feb 24, 2025",
-                "Description": "Day To Day (Ankle) - Sarr did not play in Monday's (Feb. 24) game against the Nets."
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Day To Day (Ankle) - The Wizards listed Sarr as Questionable for Wednesday's (Feb.26) game against the Trail Blazers."
             },
             {
                 "Player": "Marcus Smart",
@@ -112,10 +112,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "25",
                 "FGA": "12",
-                "FG%": "29",
+                "FG%": "28",
                 "3P": "18",
                 "3PA": "11",
                 "3P%": "29",
@@ -123,12 +123,12 @@
                 "2PA": "15",
                 "2P%": "26",
                 "FT": "25",
-                "FTA": "26",
+                "FTA": "25",
                 "FT%": "19",
                 "ORB": "23",
                 "DRB": "17",
-                "TRB": "21",
-                "AST": "23",
+                "TRB": "20",
+                "AST": "22",
                 "STL": "26",
                 "BLK": "14",
                 "TOV": "28",
@@ -212,20 +212,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "28",
                 "FGA": "26",
                 "FG%": "24",
                 "3P": "27",
-                "3PA": "25",
+                "3PA": "24",
                 "3P%": "26",
                 "2P": "27",
                 "2PA": "23",
                 "2P%": "21",
                 "FT": "29",
                 "FTA": "27",
-                "FT%": "25",
-                "ORB": "28",
+                "FT%": "26",
+                "ORB": "27",
                 "DRB": "29",
                 "TRB": "30",
                 "AST": "27",
@@ -298,12 +298,12 @@
                 "TOV%": "26",
                 "ORB%": "23",
                 "FT/FGA": "26",
-                "DRB%": "25",
+                "DRB%": "26",
                 "Arena": "",
                 "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/WAS-2025.png",
-        "last_update": "Feb 25 2025 22:32:19"
+        "last_update": "Feb 26 2025 22:32:19"
     }
 }

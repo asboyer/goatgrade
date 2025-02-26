@@ -2,7 +2,7 @@
     "IND": {
         "info": {
             "record": "32-24",
-            "standing": "5th in East",
+            "standing": "4th in East",
             "coach": "Rick Carlisle (32-24)",
             "gm": "Kevin Pritchard",
             "preseason_odds": "+5000"
@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Tyrese Haliburton",
+                "Team": "Indiana Pacers",
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Day To Day (Groin) - The Pacers listed Haliburton as Questionable for Wednesday's (Feb. 26) game against the Raptors."
+            },
+            {
                 "Player": "Isaiah Jackson",
                 "Team": "Indiana Pacers",
                 "Update": "Sat, Nov 2, 2024",
@@ -36,14 +42,8 @@
             {
                 "Player": "T.J. McConnell",
                 "Team": "Indiana Pacers",
-                "Update": "Mon, Feb 24, 2025",
-                "Description": "Day To Day (Ankle) - McConnell did not play in Monday's (Feb. 24) game against the Nuggets."
-            },
-            {
-                "Player": "Myles Turner",
-                "Team": "Indiana Pacers",
-                "Update": "Tue, Feb 18, 2025",
-                "Description": "Out (Neck) - Coach Rick Carlisle said Tuesday that Turne should be good to go for Thursday's game versus the Grizzlies, Dustin Dopirak of The Indianapolis Star reports."
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Day To Day (Ankle) - The Pacers listed McConnell as Questionable for Wednesday's (Feb. 26) game against the Raptors."
             }
         ],
         "team_stats": {
@@ -99,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "28",
                 "FG": "6",
                 "FGA": "19",
                 "FG%": "4",
@@ -108,14 +108,14 @@
                 "3P%": "11",
                 "2P": "5",
                 "2PA": "9",
-                "2P%": "4",
+                "2P%": "5",
                 "FT": "15",
                 "FTA": "16",
                 "FT%": "13",
                 "ORB": "29",
                 "DRB": "23",
                 "TRB": "28",
-                "AST": "5",
+                "AST": "6",
                 "STL": "10",
                 "BLK": "9",
                 "TOV": "5",
@@ -199,28 +199,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "28",
                 "FG": "23",
                 "FGA": "15",
                 "FG%": "23",
                 "3P": "8",
                 "3PA": "9",
-                "3P%": "13",
-                "2P": "25",
+                "3P%": "15",
+                "2P": "26",
                 "2PA": "21",
                 "2P%": "22",
                 "FT": "20",
                 "FTA": "21",
                 "FT%": "14",
-                "ORB": "19",
+                "ORB": "18",
                 "DRB": "18",
-                "TRB": "19",
-                "AST": "19",
+                "TRB": "18",
+                "AST": "16",
                 "STL": "5",
                 "BLK": "7",
                 "TOV": "10",
                 "PF": "18",
-                "PTS": "21"
+                "PTS": "20"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -253,8 +253,8 @@
                 "PW": "29",
                 "PL": "27",
                 "MOV": "0.80",
-                "SOS": "-0.50",
-                "SRS": "0.30",
+                "SOS": "-0.52",
+                "SRS": "0.28",
                 "ORtg": "115.9",
                 "DRtg": "115.1",
                 "Pace": "99.9",
@@ -270,11 +270,11 @@
             },
             "Misc Lg Rank": {
                 "W": "9",
-                "L": "21",
+                "L": "22",
                 "PW": "16",
                 "PL": "14",
                 "MOV": "16",
-                "SOS": "24",
+                "SOS": "25",
                 "SRS": "16",
                 "ORtg": "9",
                 "DRtg": "21",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/IND-2025.png",
-        "last_update": "Feb 25 2025 22:32:19"
+        "last_update": "Feb 26 2025 22:32:19"
     }
 }

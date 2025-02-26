@@ -29,16 +29,10 @@
         ],
         "injuries": [
             {
-                "Player": "Jordan Clarkson",
-                "Team": "Utah Jazz",
-                "Update": "Mon, Feb 24, 2025",
-                "Description": "Out (Plantar) - The Jazz have listed Clarkson as OUT for Monday's (Feb. 24) game against the Trail Blazers."
-            },
-            {
                 "Player": "John Collins",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Feb 24, 2025",
-                "Description": "Out (Back) - The Jazz have listed Collins as OUT for Monday's (Feb. 24) game against the Trail Blazers."
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Out (Back) - The Jazz have listed Collins as OUT for Wednesday's (Feb. 26) game against the Kings."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -49,20 +43,20 @@
             {
                 "Player": "Walker Kessler",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Feb 24, 2025",
-                "Description": "Out (Illness) - The Jazz have listed Kessler as OUT for Monday's (Feb. 24) game against the Trail Blazers."
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Out (Illness) - The Jazz have listed Kessler as Questionable for Wednesday's (Feb. 26) game against the Kings."
             },
             {
                 "Player": "Lauri Markkanen",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Feb 24, 2025",
-                "Description": "Out (Back) - The Jazz have listed Markkanen as OUT for Monday's (Feb. 24) game against the Trail Blazers."
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Out (Back) - The Jazz listed Markkanen as Out for Wednesday's (Feb. 26) game against the Kings."
             },
             {
                 "Player": "Collin Sexton",
                 "Team": "Utah Jazz",
-                "Update": "Sat, Feb 22, 2025",
-                "Description": "Out (Ankle) - Sexton (left ankle sprain) has resumed on court activities and is nearing a return. He will be re-evaluated early next week."
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Out (Ankle) - The Jazz listed Sexton as Out for Wednesday's (Feb. 26) game against the Kings."
             }
         ],
         "team_stats": {
@@ -118,19 +112,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "18",
                 "FG": "22",
                 "FGA": "21",
                 "FG%": "20",
-                "3P": "8",
+                "3P": "10",
                 "3PA": "7",
                 "3P%": "18",
                 "2P": "24",
-                "2PA": "25",
+                "2PA": "26",
                 "2P%": "17",
-                "FT": "6",
+                "FT": "5",
                 "FTA": "7",
-                "FT%": "15",
+                "FT%": "16",
                 "ORB": "6",
                 "DRB": "15",
                 "TRB": "5",
@@ -218,13 +212,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "18",
                 "FG": "27",
                 "FGA": "25",
                 "FG%": "26",
                 "3P": "30",
                 "3PA": "30",
-                "3P%": "16",
+                "3P%": "18",
                 "2P": "22",
                 "2PA": "12",
                 "2P%": "28",
@@ -232,13 +226,13 @@
                 "FTA": "22",
                 "FT%": "3",
                 "ORB": "20",
-                "DRB": "4",
+                "DRB": "3",
                 "TRB": "7",
                 "AST": "28",
                 "STL": "30",
                 "BLK": "30",
                 "TOV": "30",
-                "PF": "5",
+                "PF": "4",
                 "PTS": "28"
             },
             "Opp Year/Year": {
@@ -272,7 +266,7 @@
                 "PW": "17",
                 "PL": "40",
                 "MOV": "-6.98",
-                "SOS": "0.72",
+                "SOS": "0.73",
                 "SRS": "-6.26",
                 "ORtg": "112.5",
                 "DRtg": "119.5",
@@ -288,28 +282,28 @@
                 "Attendance": "508,900"
             },
             "Misc Lg Rank": {
-                "W": "27",
+                "W": "28",
                 "L": "2",
                 "PW": "27",
-                "PL": "28",
+                "PL": "27",
                 "MOV": "27",
-                "SOS": "7",
+                "SOS": "8",
                 "SRS": "27",
                 "ORtg": "19",
                 "DRtg": "30",
-                "Pace": "15",
+                "Pace": "14",
                 "FTr": "7",
                 "3PAr": "6",
                 "eFG%": "26",
                 "TOV%": "30",
                 "ORB%": "3",
                 "FT/FGA": "14",
-                "DRB%": "19",
+                "DRB%": "18",
                 "Arena": "",
                 "Attendance": "15"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/UTA-2025.png",
-        "last_update": "Feb 25 2025 22:32:19"
+        "last_update": "Feb 26 2025 22:32:19"
     }
 }

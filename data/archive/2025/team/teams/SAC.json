@@ -25,7 +25,14 @@
             "Isaiah Crawford",
             "Markelle Fultz"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Keon Ellis",
+                "Team": "Sacramento Kings",
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Day To Day (Ankle) - The Kings listed Ellis as Questionable for Wednesday's (Feb. 26) game against the Jazz."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "57",
@@ -79,17 +86,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "17",
                 "FG": "7",
                 "FGA": "7",
-                "FG%": "9",
+                "FG%": "10",
                 "3P": "22",
                 "3PA": "20",
-                "3P%": "23",
+                "3P%": "21",
                 "2P": "4",
-                "2PA": "5",
+                "2PA": "6",
                 "2P%": "7",
-                "FT": "10",
+                "FT": "9",
                 "FTA": "13",
                 "FT%": "2",
                 "ORB": "14",
@@ -97,7 +104,7 @@
                 "TRB": "12",
                 "AST": "12",
                 "STL": "19",
-                "BLK": "22",
+                "BLK": "23",
                 "TOV": "7",
                 "PF": "17",
                 "PTS": "7"
@@ -179,28 +186,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "17",
                 "FG": "18",
                 "FGA": "14",
-                "FG%": "18",
-                "3P": "28",
+                "FG%": "17",
+                "3P": "29",
                 "3PA": "22",
                 "3P%": "29",
                 "2P": "6",
-                "2PA": "8",
-                "2P%": "13",
+                "2PA": "9",
+                "2P%": "12",
                 "FT": "24",
                 "FTA": "20",
                 "FT%": "27",
                 "ORB": "5",
-                "DRB": "14",
-                "TRB": "11",
+                "DRB": "15",
+                "TRB": "12",
                 "AST": "22",
                 "STL": "12",
-                "BLK": "10",
+                "BLK": "9",
                 "TOV": "17",
-                "PF": "14",
-                "PTS": "22"
+                "PF": "13",
+                "PTS": "21"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -233,8 +240,8 @@
                 "PW": "30",
                 "PL": "27",
                 "MOV": "1.05",
-                "SOS": "-0.45",
-                "SRS": "0.60",
+                "SOS": "-0.44",
+                "SRS": "0.61",
                 "ORtg": "116.1",
                 "DRtg": "115.1",
                 "Pace": "99.4",
@@ -251,26 +258,26 @@
             "Misc Lg Rank": {
                 "W": "16",
                 "L": "15",
-                "PW": "14",
+                "PW": "15",
                 "PL": "15",
                 "MOV": "14",
                 "SOS": "21",
                 "SRS": "13",
-                "ORtg": "8",
+                "ORtg": "7",
                 "DRtg": "20",
-                "Pace": "12",
+                "Pace": "13",
                 "FTr": "19",
                 "3PAr": "23",
                 "eFG%": "23",
-                "TOV%": "18",
+                "TOV%": "19",
                 "ORB%": "16",
                 "FT/FGA": "21",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/SAC-2025.png",
-        "last_update": "Feb 25 2025 22:32:19"
+        "last_update": "Feb 26 2025 22:32:19"
     }
 }

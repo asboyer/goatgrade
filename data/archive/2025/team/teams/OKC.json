@@ -29,12 +29,6 @@
         ],
         "injuries": [
             {
-                "Player": "Chet Holmgren",
-                "Team": "Oklahoma City Thunder",
-                "Update": "Mon, Feb 24, 2025",
-                "Description": "Day To Day (Rest) - Holmren did not play in Monday's (Feb. 24) game against Minnesota."
-            },
-            {
                 "Player": "Ajay Mitchell",
                 "Team": "Oklahoma City Thunder",
                 "Update": "Thu, Feb 6, 2025",
@@ -100,16 +94,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "25",
                 "FG": "4",
                 "FGA": "3",
-                "FG%": "10",
+                "FG%": "11",
                 "3P": "7",
                 "3PA": "9",
                 "3P%": "13",
                 "2P": "7",
                 "2PA": "11",
-                "2P%": "8",
+                "2P%": "9",
                 "FT": "24",
                 "FTA": "29",
                 "FT%": "1",
@@ -200,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "25",
                 "FG": "1",
                 "FGA": "4",
                 "FG%": "1",
@@ -215,10 +209,10 @@
                 "FT%": "4",
                 "ORB": "24",
                 "DRB": "19",
-                "TRB": "23",
+                "TRB": "24",
                 "AST": "4",
                 "STL": "1",
-                "BLK": "12",
+                "BLK": "11",
                 "TOV": "1",
                 "PF": "25",
                 "PTS": "2"
@@ -254,8 +248,8 @@
                 "PW": "47",
                 "PL": "10",
                 "MOV": "12.72",
-                "SOS": "-0.13",
-                "SRS": "12.59",
+                "SOS": "-0.12",
+                "SRS": "12.60",
                 "ORtg": "118.7",
                 "DRtg": "106.0",
                 "Pace": "99.6",
@@ -275,11 +269,11 @@
                 "PW": "1",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "14",
+                "SOS": "13",
                 "SRS": "1",
                 "ORtg": "5",
                 "DRtg": "1",
-                "Pace": "9",
+                "Pace": "10",
                 "FTr": "29",
                 "3PAr": "15",
                 "eFG%": "1",
@@ -292,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/OKC-2025.png",
-        "last_update": "Feb 25 2025 22:32:19"
+        "last_update": "Feb 26 2025 22:32:19"
     }
 }

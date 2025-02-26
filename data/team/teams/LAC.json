@@ -29,22 +29,10 @@
         ],
         "injuries": [
             {
-                "Player": "Kawhi Leonard",
-                "Team": "Los Angeles Clippers",
-                "Update": "Mon, Feb 24, 2025",
-                "Description": "Day To Day (Foot) - Leonard did not play in Monday's (Feb. 24) game against the Pacers."
-            },
-            {
                 "Player": "Norman Powell",
                 "Team": "Los Angeles Clippers",
-                "Update": "Mon, Feb 24, 2025",
-                "Description": "Day To Day (Knee) - Powell did not play in Monday's (Feb. 24) game against the Pistons."
-            },
-            {
-                "Player": "Ben Simmons",
-                "Team": "Los Angeles Clippers",
-                "Update": "Mon, Feb 24, 2025",
-                "Description": "Out (Back) - Simmons has been ruled Out for Monday's (Feb. 24) game against the Pistons, Law Murray of The Athletic reports."
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Out (Knee) - The Clippers listed Powell as Out for Wednesday's (Feb. 26) game against the Bulls."
             }
         ],
         "team_stats": {
@@ -100,13 +88,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
-                "FG": "19",
+                "MP": "21",
+                "FG": "20",
                 "FGA": "25",
                 "FG%": "13",
                 "3P": "27",
                 "3PA": "28",
-                "3P%": "16",
+                "3P%": "15",
                 "2P": "14",
                 "2PA": "14",
                 "2P%": "16",
@@ -114,14 +102,14 @@
                 "FTA": "17",
                 "FT%": "8",
                 "ORB": "22",
-                "DRB": "12",
+                "DRB": "13",
                 "TRB": "18",
                 "AST": "25",
                 "STL": "3",
-                "BLK": "25",
+                "BLK": "24",
                 "TOV": "25",
-                "PF": "12",
-                "PTS": "22"
+                "PF": "14",
+                "PTS": "21"
             },
             "Year/Year": {
                 "G": "",
@@ -200,21 +188,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "21",
                 "FG": "3",
                 "FGA": "5",
                 "FG%": "8",
-                "3P": "10",
-                "3PA": "15",
-                "3P%": "6",
+                "3P": "11",
+                "3PA": "14",
+                "3P%": "5",
                 "2P": "2",
                 "2PA": "3",
-                "2P%": "18",
+                "2P%": "19",
                 "FT": "10",
                 "FTA": "13",
                 "FT%": "6",
                 "ORB": "2",
-                "DRB": "12",
+                "DRB": "11",
                 "TRB": "5",
                 "AST": "6",
                 "STL": "24",
@@ -272,13 +260,13 @@
             "Misc Lg Rank": {
                 "W": "13",
                 "L": "19",
-                "PW": "9",
+                "PW": "10",
                 "PL": "9",
                 "MOV": "9",
                 "SOS": "10",
-                "SRS": "10",
+                "SRS": "11",
                 "ORtg": "21",
-                "DRtg": "3",
+                "DRtg": "4",
                 "Pace": "20",
                 "FTr": "14",
                 "3PAr": "24",
@@ -292,6 +280,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAC-2025.png",
-        "last_update": "Feb 25 2025 22:32:19"
+        "last_update": "Feb 26 2025 22:32:19"
     }
 }

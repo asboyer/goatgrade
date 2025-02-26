@@ -2,7 +2,7 @@
     "POR": {
         "info": {
             "record": "25-33",
-            "standing": "13th in West",
+            "standing": "12th in West",
             "coach": "Chauncey Billups (25-33)",
             "gm": "Joe Cronin",
             "preseason_odds": "+100000"
@@ -43,8 +43,8 @@
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Feb 24, 2025",
-                "Description": "Out (Knee) - The Trail Blazers have listed Williams III as Out for Monday's (Feb. 24) game against the Jazz."
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Out (Knee) - The Trail Blazers listed Williams III as Out for Wednesday's (Feb.26) game against the Wizards."
             }
         ],
         "team_stats": {
@@ -100,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "23",
                 "FGA": "18",
                 "FG%": "23",
@@ -112,7 +112,7 @@
                 "2P%": "24",
                 "FT": "18",
                 "FTA": "14",
-                "FT%": "21",
+                "FT%": "22",
                 "ORB": "5",
                 "DRB": "27",
                 "TRB": "22",
@@ -200,13 +200,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "17",
                 "FGA": "11",
                 "FG%": "22",
                 "3P": "6",
                 "3PA": "3",
-                "3P%": "20",
+                "3P%": "21",
                 "2P": "21",
                 "2PA": "20",
                 "2P%": "20",
@@ -219,7 +219,7 @@
                 "AST": "13",
                 "STL": "29",
                 "BLK": "24",
-                "TOV": "8",
+                "TOV": "9",
                 "PF": "12",
                 "PTS": "18"
             },
@@ -254,8 +254,8 @@
                 "PW": "21",
                 "PL": "37",
                 "MOV": "-4.52",
-                "SOS": "0.35",
-                "SRS": "-4.17",
+                "SOS": "0.33",
+                "SRS": "-4.19",
                 "ORtg": "110.9",
                 "DRtg": "115.5",
                 "Pace": "98.7",
@@ -282,7 +282,7 @@
                 "Pace": "18",
                 "FTr": "16",
                 "3PAr": "18",
-                "eFG%": "20",
+                "eFG%": "19",
                 "TOV%": "8",
                 "ORB%": "4",
                 "FT/FGA": "25",
@@ -292,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/POR-2025.png",
-        "last_update": "Feb 25 2025 22:32:19"
+        "last_update": "Feb 26 2025 22:32:19"
     }
 }
