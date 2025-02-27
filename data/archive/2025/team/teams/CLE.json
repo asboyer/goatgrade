@@ -32,7 +32,7 @@
                 "Player": "Darius Garland",
                 "Team": "Cleveland Cavaliers",
                 "Update": "Tue, Feb 25, 2025",
-                "Description": "Day To Day (Hip) - Garland did not play in Tuesday's (Feb. 25) game against the Magic."
+                "Description": "Out (Hip) - Garland has been ruled out for Tuesday's (Feb. 25) game against the Magic, as per Chris Fedor of The Cleveland Plain Dealer reports."
             }
         ],
         "team_stats": {
@@ -88,9 +88,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "24",
                 "FG": "3",
-                "FGA": "10",
+                "FGA": "9",
                 "FG%": "2",
                 "3P": "2",
                 "3PA": "4",
@@ -98,16 +98,16 @@
                 "2P": "11",
                 "2PA": "23",
                 "2P%": "1",
-                "FT": "20",
+                "FT": "21",
                 "FTA": "21",
                 "FT%": "14",
-                "ORB": "19",
+                "ORB": "20",
                 "DRB": "4",
-                "TRB": "9",
+                "TRB": "8",
                 "AST": "5",
                 "STL": "11",
-                "BLK": "26",
-                "TOV": "4",
+                "BLK": "25",
+                "TOV": "3",
                 "PF": "11",
                 "PTS": "2"
             },
@@ -188,26 +188,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "24",
                 "FG": "10",
                 "FGA": "19",
-                "FG%": "5",
+                "FG%": "6",
                 "3P": "10",
                 "3PA": "10",
                 "3P%": "17",
-                "2P": "14",
+                "2P": "13",
                 "2PA": "26",
                 "2P%": "2",
                 "FT": "8",
                 "FTA": "8",
-                "FT%": "7",
+                "FT%": "9",
                 "ORB": "19",
                 "DRB": "5",
                 "TRB": "9",
-                "AST": "7",
+                "AST": "8",
                 "STL": "9",
                 "BLK": "10",
-                "TOV": "14",
+                "TOV": "13",
                 "PF": "20",
                 "PTS": "10"
             },
@@ -243,7 +243,7 @@
                 "PL": "11",
                 "MOV": "11.67",
                 "SOS": "-0.97",
-                "SRS": "10.71",
+                "SRS": "10.70",
                 "ORtg": "122.8",
                 "DRtg": "111.1",
                 "Pace": "100.1",
@@ -268,7 +268,7 @@
                 "ORtg": "1",
                 "DRtg": "6",
                 "Pace": "6",
-                "FTr": "24",
+                "FTr": "23",
                 "3PAr": "4",
                 "eFG%": "4",
                 "TOV%": "14",
@@ -276,10 +276,10 @@
                 "FT/FGA": "9",
                 "DRB%": "12",
                 "Arena": "",
-                "Attendance": "1"
+                "Attendance": "3"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CLE-2025.png",
-        "last_update": "Feb 26 2025 22:32:19"
+        "last_update": "Feb 27 2025 22:32:20"
     }
 }

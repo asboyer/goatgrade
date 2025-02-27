@@ -36,10 +36,16 @@
                 "Description": "Day To Day (Ankle) - Ball did not play in Tuesday's (Feb. 25) game against the Warriors."
             },
             {
+                "Player": "Seth Curry",
+                "Team": "Charlotte Hornets",
+                "Update": "Wed, Feb 26, 2025",
+                "Description": "Day To Day (Back) - The Hornets listed Curry as Probable for Thursday's (Feb. 27) game against the Mavericks."
+            },
+            {
                 "Player": "DaQuan Jeffries",
                 "Team": "Charlotte Hornets",
-                "Update": "Tue, Feb 25, 2025",
-                "Description": "Day To Day (Knee) - Jeffries did not play in Tuesday's (Feb. 25) game against the Warriors."
+                "Update": "Wed, Feb 26, 2025",
+                "Description": "Day To Day (Knee) - The Hornets listed Jeffries as Questionable for Thursday's (Feb. 27) game against the Mavericks."
             },
             {
                 "Player": "Tre Mann",
@@ -62,20 +68,14 @@
             {
                 "Player": "Tidjane Salaün",
                 "Team": "Charlotte Hornets",
-                "Update": "Tue, Feb 25, 2025",
-                "Description": "Day To Day (Ankle) - Salaun did not play in Tuesday's (Feb. 25) game against the Warriors."
+                "Update": "Wed, Feb 26, 2025",
+                "Description": "Out (Ankle) - The Hornets listed Salaun as Out for Thursday's (Feb. 27) game against the Mavericks."
             },
             {
                 "Player": "Grant Williams",
                 "Team": "Charlotte Hornets",
                 "Update": "Wed, Dec 11, 2024",
                 "Description": "Out For Season (ACL) - The Hornets announced on Wednesday (Dec. 11) that Williams underwent successful surgery to repair multiple tears in his knee, including the ACL, per ESPN's Shams Charania. He is expected to return in 9 to 12 months."
-            },
-            {
-                "Player": "Mark Williams",
-                "Team": "Charlotte Hornets",
-                "Update": "Thu, Feb 20, 2025",
-                "Description": "Day To Day (Not Injury Related) - Williams did not play in Thursday's (Feb. 20) game against the Nuggets."
             }
         ],
         "team_stats": {
@@ -131,9 +131,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "26",
                 "FG": "28",
-                "FGA": "14",
+                "FGA": "15",
                 "FG%": "30",
                 "3P": "13",
                 "3PA": "6",
@@ -143,14 +143,14 @@
                 "2P%": "30",
                 "FT": "27",
                 "FTA": "27",
-                "FT%": "17",
+                "FT%": "16",
                 "ORB": "4",
                 "DRB": "22",
                 "TRB": "6",
-                "AST": "26",
+                "AST": "27",
                 "STL": "14",
                 "BLK": "22",
-                "TOV": "22",
+                "TOV": "23",
                 "PF": "19",
                 "PTS": "28"
             },
@@ -231,23 +231,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "26",
                 "FG": "12",
                 "FGA": "9",
                 "FG%": "18",
-                "3P": "16",
-                "3PA": "24",
+                "3P": "15",
+                "3PA": "25",
                 "3P%": "4",
-                "2P": "10",
+                "2P": "9",
                 "2PA": "5",
                 "2P%": "27",
-                "FT": "15",
+                "FT": "16",
                 "FTA": "15",
                 "FT%": "16",
                 "ORB": "16",
                 "DRB": "22",
                 "TRB": "22",
-                "AST": "21",
+                "AST": "20",
                 "STL": "18",
                 "BLK": "22",
                 "TOV": "18",
@@ -285,8 +285,8 @@
                 "PW": "16",
                 "PL": "41",
                 "MOV": "-7.53",
-                "SOS": "-0.31",
-                "SRS": "-7.84",
+                "SOS": "-0.27",
+                "SRS": "-7.80",
                 "ORtg": "107.3",
                 "DRtg": "115.0",
                 "Pace": "97.7",
@@ -302,27 +302,27 @@
             },
             "Misc Lg Rank": {
                 "W": "28",
-                "L": "2",
+                "L": "3",
                 "PW": "28",
                 "PL": "28",
                 "MOV": "28",
-                "SOS": "18",
+                "SOS": "17",
                 "SRS": "29",
                 "ORtg": "29",
-                "DRtg": "19",
+                "DRtg": "20",
                 "Pace": "22",
                 "FTr": "27",
                 "3PAr": "10",
-                "eFG%": "20",
-                "TOV%": "15",
+                "eFG%": "19",
+                "TOV%": "16",
                 "ORB%": "5",
-                "FT/FGA": "16",
+                "FT/FGA": "17",
                 "DRB%": "19",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CHO-2025.png",
-        "last_update": "Feb 26 2025 22:32:19"
+        "last_update": "Feb 27 2025 22:32:20"
     }
 }

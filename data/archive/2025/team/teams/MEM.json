@@ -33,12 +33,6 @@
                 "Team": "Memphis Grizzlies",
                 "Update": "Tue, Feb 25, 2025",
                 "Description": "Day To Day (Knee) - Pullin did not play in Tuesday's (Feb. 25) game against the Suns."
-            },
-            {
-                "Player": "Cam Spencer",
-                "Team": "Memphis Grizzlies",
-                "Update": "Fri, Feb 7, 2025",
-                "Description": "Out (Thumb) - The Grizzlies announced that Spencer suffered a fractured thumb. The rookie can be considered week-to-week until the team provides another update on his recovery."
             }
         ],
         "team_stats": {
@@ -94,16 +88,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "21",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "5",
-                "3P": "9",
+                "3P": "8",
                 "3PA": "13",
                 "3P%": "7",
                 "2P": "3",
                 "2PA": "4",
-                "2P%": "8",
+                "2P%": "9",
                 "FT": "1",
                 "FTA": "1",
                 "FT%": "23",
@@ -194,12 +188,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "21",
                 "FG": "19",
                 "FGA": "27",
                 "FG%": "4",
-                "3P": "23",
-                "3PA": "27",
+                "3P": "22",
+                "3PA": "28",
                 "3P%": "8",
                 "2P": "17",
                 "2PA": "22",
@@ -207,12 +201,12 @@
                 "FT": "27",
                 "FTA": "29",
                 "FT%": "2",
-                "ORB": "25",
-                "DRB": "4",
+                "ORB": "24",
+                "DRB": "3",
                 "TRB": "13",
                 "AST": "18",
                 "STL": "23",
-                "BLK": "26",
+                "BLK": "27",
                 "TOV": "5",
                 "PF": "1",
                 "PTS": "25"
@@ -248,8 +242,8 @@
                 "PW": "40",
                 "PL": "18",
                 "MOV": "6.71",
-                "SOS": "-0.50",
-                "SRS": "6.21",
+                "SOS": "-0.49",
+                "SRS": "6.22",
                 "ORtg": "118.2",
                 "DRtg": "111.8",
                 "Pace": "104.1",
@@ -269,23 +263,23 @@
                 "PW": "4",
                 "PL": "4",
                 "MOV": "4",
-                "SOS": "23",
+                "SOS": "22",
                 "SRS": "4",
                 "ORtg": "6",
                 "DRtg": "8",
                 "Pace": "1",
-                "FTr": "5",
+                "FTr": "4",
                 "3PAr": "20",
                 "eFG%": "6",
-                "TOV%": "9",
+                "TOV%": "10",
                 "ORB%": "2",
                 "FT/FGA": "23",
                 "DRB%": "21",
                 "Arena": "",
-                "Attendance": "27"
+                "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MEM-2025.png",
-        "last_update": "Feb 26 2025 22:32:19"
+        "last_update": "Feb 27 2025 22:32:20"
     }
 }

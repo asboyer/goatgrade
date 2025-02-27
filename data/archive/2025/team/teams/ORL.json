@@ -29,16 +29,22 @@
         ],
         "injuries": [
             {
+                "Player": "Cole Anthony",
+                "Team": "Orlando Magic",
+                "Update": "Wed, Feb 26, 2025",
+                "Description": "Day To Day (Knee) - The Magic listed Anthony as Questionable for Thursday's (Feb.27) game against the Warriors."
+            },
+            {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
-                "Update": "Tue, Feb 25, 2025",
-                "Description": "Day To Day (Quad) - Suggs did not play in Tuesday's (Feb. 25) game against the Celtics."
+                "Update": "Wed, Feb 26, 2025",
+                "Description": "Out (Quad) - Coach Jamahl Mosley said Wednesday (Feb. 26) that there's been no indication given that Suggs will miss the rest of the season, per Mason Williams of SI.com. Timetable for return uncertain."
             },
             {
                 "Player": "Moritz Wagner",
                 "Team": "Orlando Magic",
-                "Update": "Sun, Dec 22, 2024",
-                "Description": "Out For Season (Knee) - Wagner has suffered a season-ending torn ACL in his left knee during Saturday's (Dec. 21) game versus the Heat, per Shams Charania of ESPN."
+                "Update": "Thu, Jan 9, 2025",
+                "Description": "Out For Season (Knee) - The Magic announced that Wagner underwent successful surgery to repair a torn ACL in his left knee Wednesday (Jan. 8) and will miss the remainder of the 2024-25 season."
             }
         ],
         "team_stats": {
@@ -104,8 +110,8 @@
                 "2P": "20",
                 "2PA": "17",
                 "2P%": "21",
-                "FT": "10",
-                "FTA": "4",
+                "FT": "9",
+                "FTA": "3",
                 "FT%": "26",
                 "ORB": "11",
                 "DRB": "28",
@@ -197,16 +203,16 @@
                 "MP": "1",
                 "FG": "2",
                 "FGA": "1",
-                "FG%": "21",
+                "FG%": "20",
                 "3P": "1",
                 "3PA": "1",
                 "3P%": "24",
                 "2P": "4",
-                "2PA": "6",
+                "2PA": "7",
                 "2P%": "11",
                 "FT": "25",
                 "FTA": "26",
-                "FT%": "5",
+                "FT%": "4",
                 "ORB": "1",
                 "DRB": "16",
                 "TRB": "2",
@@ -248,8 +254,8 @@
                 "PW": "27",
                 "PL": "33",
                 "MOV": "-1.60",
-                "SOS": "-0.54",
-                "SRS": "-2.14",
+                "SOS": "-0.51",
+                "SRS": "-2.11",
                 "ORtg": "107.5",
                 "DRtg": "109.2",
                 "Pace": "96.3",
@@ -264,13 +270,13 @@
                 "Attendance": "558,319"
             },
             "Misc Lg Rank": {
-                "W": "16",
-                "L": "11",
-                "PW": "17",
-                "PL": "21",
+                "W": "17",
+                "L": "12",
+                "PW": "18",
+                "PL": "20",
                 "MOV": "18",
-                "SOS": "26",
-                "SRS": "19",
+                "SOS": "23",
+                "SRS": "18",
                 "ORtg": "28",
                 "DRtg": "2",
                 "Pace": "29",
@@ -279,13 +285,13 @@
                 "eFG%": "16",
                 "TOV%": "2",
                 "ORB%": "14",
-                "FT/FGA": "29",
+                "FT/FGA": "30",
                 "DRB%": "1",
                 "Arena": "",
                 "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/ORL-2025.png",
-        "last_update": "Feb 26 2025 22:32:19"
+        "last_update": "Feb 27 2025 22:32:20"
     }
 }

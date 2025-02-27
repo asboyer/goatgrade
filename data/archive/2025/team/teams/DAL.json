@@ -35,6 +35,12 @@
                 "Description": "Out (Groin) - The Mavericks announced Thursday (Feb. 21) that Davis will have his left adductor strain re-evaluated in two weeks."
             },
             {
+                "Player": "Dante Exum",
+                "Team": "Dallas Mavericks",
+                "Update": "Tue, Feb 25, 2025",
+                "Description": "Day To Day (Face) - Exum did not return to Tuesday's (Feb. 25) game against the Lakers."
+            },
+            {
                 "Player": "Daniel Gafford",
                 "Team": "Dallas Mavericks",
                 "Update": "Thu, Feb 13, 2025",
@@ -49,8 +55,20 @@
             {
                 "Player": "Caleb Martin",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Feb 25, 2025",
-                "Description": "Day To Day (Hip) - Martin did not play in Tuesday's (Feb. 25) game against the Lakers."
+                "Update": "Wed, Feb 26, 2025",
+                "Description": "Out (Hip) - The Mavericks listed Martin as Out for Thursday's (Feb. 27) game against the Hornets."
+            },
+            {
+                "Player": "Dwight Powell",
+                "Team": "Dallas Mavericks",
+                "Update": "Wed, Feb 26, 2025",
+                "Description": "Day To Day (Hip) - The Mavericks listed Powell as Questionable for Thursday's (Feb. 27) game against the Hornets."
+            },
+            {
+                "Player": "P.J. Washington",
+                "Team": "Dallas Mavericks",
+                "Update": "Wed, Feb 26, 2025",
+                "Description": "Day To Day (Ankle) - The Mavericks listed Washington Jr. as Questionable for Thursday's (Feb. 27) game against the Hornets."
             }
         ],
         "team_stats": {
@@ -106,27 +124,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "8",
                 "FG": "11",
                 "FGA": "20",
-                "FG%": "8",
-                "3P": "14",
+                "FG%": "10",
+                "3P": "15",
                 "3PA": "23",
                 "3P%": "8",
                 "2P": "13",
-                "2PA": "12",
+                "2PA": "13",
                 "2P%": "14",
-                "FT": "7",
+                "FT": "6",
                 "FTA": "5",
                 "FT%": "21",
                 "ORB": "17",
-                "DRB": "16",
+                "DRB": "15",
                 "TRB": "16",
                 "AST": "21",
                 "STL": "17",
                 "BLK": "3",
-                "TOV": "14",
-                "PF": "13",
+                "TOV": "15",
+                "PF": "14",
                 "PTS": "11"
             },
             "Year/Year": {
@@ -206,27 +224,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "8",
                 "FG": "20",
                 "FGA": "24",
-                "FG%": "9",
+                "FG%": "8",
                 "3P": "7",
                 "3PA": "5",
                 "3P%": "16",
-                "2P": "23",
+                "2P": "22",
                 "2PA": "29",
-                "2P%": "5",
+                "2P%": "4",
                 "FT": "11",
                 "FTA": "12",
-                "FT%": "9",
-                "ORB": "30",
+                "FT%": "10",
+                "ORB": "29",
                 "DRB": "12",
                 "TRB": "21",
-                "AST": "15",
+                "AST": "17",
                 "STL": "14",
                 "BLK": "12",
                 "TOV": "23",
-                "PF": "15",
+                "PF": "14",
                 "PTS": "16"
             },
             "Opp Year/Year": {
@@ -260,8 +278,8 @@
                 "PW": "33",
                 "PL": "26",
                 "MOV": "1.69",
-                "SOS": "0.74",
-                "SRS": "2.43",
+                "SOS": "0.73",
+                "SRS": "2.42",
                 "ORtg": "115.9",
                 "DRtg": "114.2",
                 "Pace": "98.9",
@@ -276,12 +294,12 @@
                 "Attendance": "582,478"
             },
             "Misc Lg Rank": {
-                "W": "13",
+                "W": "14",
                 "L": "15",
-                "PW": "9",
+                "PW": "10",
                 "PL": "13",
                 "MOV": "11",
-                "SOS": "7",
+                "SOS": "8",
                 "SRS": "10",
                 "ORtg": "8",
                 "DRtg": "14",
@@ -298,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DAL-2025.png",
-        "last_update": "Feb 26 2025 22:32:19"
+        "last_update": "Feb 27 2025 22:32:20"
     }
 }

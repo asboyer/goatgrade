@@ -29,8 +29,14 @@
             {
                 "Player": "Brandon Boston Jr.",
                 "Team": "New Orleans Pelicans",
-                "Update": "Tue, Feb 25, 2025",
-                "Description": "Day To Day (Ankle) - Boston Jr. did not play in Tuesday's (Feb. 25) game against the Spurs."
+                "Update": "Wed, Feb 26, 2025",
+                "Description": "Out (Ankle) - The Pelicans listed Boston Jr. as Out for Thursday's (Feb. 27) game against the Suns."
+            },
+            {
+                "Player": "Bruce Brown",
+                "Team": "New Orleans Pelicans",
+                "Update": "Wed, Feb 26, 2025",
+                "Description": "Out (Rest) - The Pelicans listed Brown as Out for Thursday's (Feb. 27) game against the Suns."
             },
             {
                 "Player": "Herbert Jones",
@@ -43,6 +49,12 @@
                 "Team": "New Orleans Pelicans",
                 "Update": "Fri, Jan 31, 2025",
                 "Description": "Out For Season (Leg) - Murray suffered a torn right Achilles tendon during Friday's (Jan. 31) game against the Celtics and will now miss the rest of the season, per Shams Charania of ESPN.com."
+            },
+            {
+                "Player": "Kelly Olynyk",
+                "Team": "New Orleans Pelicans",
+                "Update": "Wed, Feb 26, 2025",
+                "Description": "Out (Rest) - The Pelicans listed Olynyk as Out for Thursday's (Feb. 27) game against the Suns."
             }
         ],
         "team_stats": {
@@ -98,17 +110,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "17",
                 "FG": "21",
-                "FGA": "9",
+                "FGA": "8",
                 "FG%": "24",
-                "3P": "25",
+                "3P": "26",
                 "3PA": "24",
                 "3P%": "23",
                 "2P": "15",
                 "2PA": "5",
-                "2P%": "28",
-                "FT": "12",
+                "2P%": "29",
+                "FT": "11",
                 "FTA": "10",
                 "FT%": "25",
                 "ORB": "7",
@@ -119,7 +131,7 @@
                 "BLK": "8",
                 "TOV": "17",
                 "PF": "10",
-                "PTS": "23"
+                "PTS": "22"
             },
             "Year/Year": {
                 "G": "",
@@ -198,8 +210,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
-                "FG": "29",
+                "MP": "17",
+                "FG": "28",
                 "FGA": "23",
                 "FG%": "28",
                 "3P": "28",
@@ -208,17 +220,17 @@
                 "2P": "25",
                 "2PA": "13",
                 "2P%": "29",
-                "FT": "9",
+                "FT": "10",
                 "FTA": "10",
                 "FT%": "19",
                 "ORB": "26",
-                "DRB": "26",
-                "TRB": "28",
+                "DRB": "27",
+                "TRB": "27",
                 "AST": "26",
                 "STL": "21",
                 "BLK": "23",
                 "TOV": "15",
-                "PF": "23",
+                "PF": "24",
                 "PTS": "26"
             },
             "Opp Year/Year": {
@@ -252,8 +264,8 @@
                 "PW": "16",
                 "PL": "42",
                 "MOV": "-8.12",
-                "SOS": "0.95",
-                "SRS": "-7.17",
+                "SOS": "0.94",
+                "SRS": "-7.18",
                 "ORtg": "110.4",
                 "DRtg": "118.5",
                 "Pace": "99.6",
@@ -269,7 +281,7 @@
             },
             "Misc Lg Rank": {
                 "W": "27",
-                "L": "2",
+                "L": "3",
                 "PW": "29",
                 "PL": "29",
                 "MOV": "29",
@@ -277,19 +289,19 @@
                 "SRS": "28",
                 "ORtg": "26",
                 "DRtg": "28",
-                "Pace": "11",
+                "Pace": "10",
                 "FTr": "11",
                 "3PAr": "26",
-                "eFG%": "29",
-                "TOV%": "18",
+                "eFG%": "28",
+                "TOV%": "17",
                 "ORB%": "10",
                 "FT/FGA": "11",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NOP-2025.png",
-        "last_update": "Feb 26 2025 22:32:19"
+        "last_update": "Feb 27 2025 22:32:20"
     }
 }

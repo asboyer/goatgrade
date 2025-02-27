@@ -2,7 +2,7 @@
     "LAL": {
         "info": {
             "record": "35-21",
-            "standing": "4th in West",
+            "standing": "5th in West",
             "coach": "JJ Redick (35-21)",
             "gm": "Rob Pelinka",
             "preseason_odds": "+3000"
@@ -28,6 +28,12 @@
             "Maxi Kleber"
         ],
         "injuries": [
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Wed, Feb 26, 2025",
+                "Description": "Day To Day (Foot) - The Lakers listed James as Probable for Thursday's (Feb. 27) game against the Timberwolves."
+            },
             {
                 "Player": "Maxi Kleber",
                 "Team": "Los Angeles Lakers",
@@ -94,15 +100,15 @@
                 "FG%": "6",
                 "3P": "24",
                 "3PA": "25",
-                "3P%": "17",
+                "3P%": "18",
                 "2P": "12",
                 "2PA": "16",
                 "2P%": "4",
                 "FT": "3",
                 "FTA": "6",
-                "FT%": "11",
+                "FT%": "12",
                 "ORB": "27",
-                "DRB": "21",
+                "DRB": "20",
                 "TRB": "26",
                 "AST": "13",
                 "STL": "24",
@@ -195,15 +201,15 @@
                 "3P": "14",
                 "3PA": "16",
                 "3P%": "10",
-                "2P": "16",
+                "2P": "15",
                 "2PA": "14",
-                "2P%": "17",
+                "2P%": "16",
                 "FT": "5",
                 "FTA": "5",
                 "FT%": "23",
                 "ORB": "12",
                 "DRB": "8",
-                "TRB": "10",
+                "TRB": "11",
                 "AST": "23",
                 "STL": "13",
                 "BLK": "4",
@@ -242,8 +248,8 @@
                 "PW": "30",
                 "PL": "26",
                 "MOV": "1.38",
-                "SOS": "-0.31",
-                "SRS": "1.06",
+                "SOS": "-0.30",
+                "SRS": "1.07",
                 "ORtg": "115.1",
                 "DRtg": "113.7",
                 "Pace": "98.0",
@@ -260,26 +266,26 @@
             "Misc Lg Rank": {
                 "W": "8",
                 "L": "24",
-                "PW": "14",
+                "PW": "16",
                 "PL": "10",
                 "MOV": "13",
-                "SOS": "17",
+                "SOS": "18",
                 "SRS": "12",
                 "ORtg": "11",
                 "DRtg": "13",
                 "Pace": "21",
                 "FTr": "2",
-                "3PAr": "19",
+                "3PAr": "18",
                 "eFG%": "10",
                 "TOV%": "20",
                 "ORB%": "25",
                 "FT/FGA": "5",
                 "DRB%": "14",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAL-2025.png",
-        "last_update": "Feb 26 2025 22:32:19"
+        "last_update": "Feb 27 2025 22:32:20"
     }
 }
