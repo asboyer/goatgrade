@@ -31,32 +31,26 @@
             {
                 "Player": "Joel Embiid",
                 "Team": "Philadelphia 76ers",
-                "Update": "Tue, Feb 25, 2025",
-                "Description": "Day To Day (Knee) - Embiid did not play in Wednesday's (Feb. 26) game against the Knicks."
+                "Update": "Fri, Feb 28, 2025",
+                "Description": "Out For Season (Knee) - The 76ers announced that Embiid will miss the remainder of the 2024-2025 season."
             },
             {
                 "Player": "Eric Gordon",
                 "Team": "Philadelphia 76ers",
-                "Update": "Tue, Feb 25, 2025",
-                "Description": "Out (Wrist) - The 76ers announced Tuesday that Gordon will undergo surgery Wednesday (Feb. 26), as per Keith Pompey of The Philadelphia Inquirer."
+                "Update": "Thu, Feb 27, 2025",
+                "Description": "Out (Wrist) - The 76ers announced Thursday (Feb. 27) that Gordon will be re-evaluated in three months after undergoing successful surgery Wednesday, as per Keith Pompey of The Philadelphia Inquirer."
             },
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Feb 26, 2025",
-                "Description": "Day To Day (Hip) - Lowry did not play in Wednesday's (Feb. 26) game against the Knicks."
+                "Update": "Fri, Feb 28, 2025",
+                "Description": "Out (Hip) - The 76ers listed Lowry as Out for Saturday's (Mar. 1) game against the Warriors."
             },
             {
                 "Player": "Jared McCain",
                 "Team": "Philadelphia 76ers",
                 "Update": "Thu, Jan 9, 2025",
                 "Description": "Out For Season (Meniscus) - McCain was reviewed Thursday (Jan. 9) by the surgeon who performed surgery on his left knee and is progressing well. The 76ers officially ruled out for the rest of the season, per Kyle Neubeck of AllPHLY.com."
-            },
-            {
-                "Player": "Guerschon Yabusele",
-                "Team": "Philadelphia 76ers",
-                "Update": "Wed, Feb 26, 2025",
-                "Description": "Day To Day (Eyes) - Yabusele did not play in Wednesday's (Feb. 26) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -112,18 +106,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "24",
                 "FG": "27",
                 "FGA": "26",
-                "FG%": "22",
-                "3P": "22",
+                "FG%": "23",
+                "3P": "23",
                 "3PA": "17",
                 "3P%": "26",
                 "2P": "22",
                 "2PA": "20",
                 "2P%": "20",
                 "FT": "4",
-                "FTA": "8",
+                "FTA": "7",
                 "FT%": "11",
                 "ORB": "24",
                 "DRB": "30",
@@ -212,27 +206,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
-                "FG": "13",
+                "MP": "24",
+                "FG": "14",
                 "FGA": "3",
                 "FG%": "30",
-                "3P": "18",
+                "3P": "19",
                 "3PA": "11",
                 "3P%": "26",
-                "2P": "10",
+                "2P": "9",
                 "2PA": "2",
                 "2P%": "30",
-                "FT": "17",
+                "FT": "18",
                 "FTA": "14",
                 "FT%": "29",
                 "ORB": "9",
                 "DRB": "21",
-                "TRB": "18",
+                "TRB": "19",
                 "AST": "24",
                 "STL": "4",
                 "BLK": "20",
                 "TOV": "2",
-                "PF": "9",
+                "PF": "10",
                 "PTS": "17"
             },
             "Opp Year/Year": {
@@ -266,8 +260,8 @@
                 "PW": "21",
                 "PL": "37",
                 "MOV": "-4.57",
-                "SOS": "0.08",
-                "SRS": "-4.49",
+                "SOS": "0.07",
+                "SRS": "-4.50",
                 "ORtg": "111.8",
                 "DRtg": "116.5",
                 "Pace": "96.7",
@@ -290,20 +284,20 @@
                 "SOS": "11",
                 "SRS": "25",
                 "ORtg": "23",
-                "DRtg": "25",
+                "DRtg": "26",
                 "Pace": "27",
                 "FTr": "3",
                 "3PAr": "14",
                 "eFG%": "30",
                 "TOV%": "3",
-                "ORB%": "24",
-                "FT/FGA": "24",
-                "DRB%": "25",
+                "ORB%": "25",
+                "FT/FGA": "23",
+                "DRB%": "24",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "6"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHI-2025.png",
-        "last_update": "Feb 28 2025 22:32:17"
+        "last_update": "Mar 01 2025 22:32:21"
     }
 }

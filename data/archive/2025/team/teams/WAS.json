@@ -37,14 +37,20 @@
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Wed, Feb 26, 2025",
-                "Description": "Day To Day (Ankle) - Brogdon did not play in Wednesday's (Feb. 26) game against the Trail Blazers."
+                "Update": "Fri, Feb 28, 2025",
+                "Description": "Out (Ankle) - The Wizards listed Brogdon as Out for Saturday's (Mar. 1) against the Hornets."
+            },
+            {
+                "Player": "Jordan Poole",
+                "Team": "Washington Wizards",
+                "Update": "Fri, Feb 28, 2025",
+                "Description": "Out (Elbow) - The Wizards listed Poole as Out for Saturday's (Mar. 1) against the Hornets."
             },
             {
                 "Player": "Alex Sarr",
                 "Team": "Washington Wizards",
-                "Update": "Wed, Feb 26, 2025",
-                "Description": "Day To Day (Ankle) - Sarr did not play in Wednesday's (Feb. 26) game against the Trail Blazers."
+                "Update": "Fri, Feb 28, 2025",
+                "Description": "Day To Day (Ankle) - The Wizards listed Sarr as Questionable for Saturday's (Mar. 1) against the Hornets."
             }
         ],
         "team_stats": {
@@ -100,27 +106,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
-                "FG": "25",
-                "FGA": "12",
+                "MP": "27",
+                "FG": "26",
+                "FGA": "13",
                 "FG%": "27",
                 "3P": "18",
-                "3PA": "11",
+                "3PA": "10",
                 "3P%": "29",
                 "2P": "21",
                 "2PA": "15",
                 "2P%": "26",
                 "FT": "25",
-                "FTA": "24",
+                "FTA": "26",
                 "FT%": "19",
                 "ORB": "23",
                 "DRB": "17",
-                "TRB": "22",
-                "AST": "23",
+                "TRB": "21",
+                "AST": "22",
                 "STL": "26",
                 "BLK": "13",
                 "TOV": "28",
-                "PF": "28",
+                "PF": "27",
                 "PTS": "27"
             },
             "Year/Year": {
@@ -200,27 +206,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
-                "FG": "29",
+                "MP": "27",
+                "FG": "28",
                 "FGA": "26",
-                "FG%": "24",
+                "FG%": "23",
                 "3P": "27",
-                "3PA": "24",
-                "3P%": "25",
+                "3PA": "25",
+                "3P%": "24",
                 "2P": "28",
                 "2PA": "23",
                 "2P%": "21",
                 "FT": "29",
                 "FTA": "27",
-                "FT%": "28",
-                "ORB": "28",
+                "FT%": "26",
+                "ORB": "27",
                 "DRB": "29",
                 "TRB": "30",
                 "AST": "26",
                 "STL": "27",
                 "BLK": "21",
                 "TOV": "24",
-                "PF": "17",
+                "PF": "16",
                 "PTS": "30"
             },
             "Opp Year/Year": {
@@ -254,7 +260,7 @@
                 "PW": "10",
                 "PL": "48",
                 "MOV": "-12.90",
-                "SOS": "1.04",
+                "SOS": "1.03",
                 "SRS": "-11.86",
                 "ORtg": "106.4",
                 "DRtg": "119.1",
@@ -280,18 +286,18 @@
                 "ORtg": "30",
                 "DRtg": "29",
                 "Pace": "4",
-                "FTr": "25",
+                "FTr": "24",
                 "3PAr": "12",
-                "eFG%": "24",
-                "TOV%": "26",
+                "eFG%": "25",
+                "TOV%": "25",
                 "ORB%": "23",
-                "FT/FGA": "26",
+                "FT/FGA": "25",
                 "DRB%": "26",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/WAS-2025.png",
-        "last_update": "Feb 28 2025 22:32:17"
+        "last_update": "Mar 01 2025 22:32:21"
     }
 }
