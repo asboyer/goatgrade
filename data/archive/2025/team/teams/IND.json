@@ -37,7 +37,7 @@
                 "Player": "Bennedict Mathurin",
                 "Team": "Indiana Pacers",
                 "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Wrist) - Mathurin did not play in Friday's (Feb. 28) game against the Heat."
+                "Description": "Out (Wrist) - Mathurin will miss a couple of games at least, head coach Rick Carlisle told Jeremiah Johnson of FanDuel Sports Network Indiana. Should be out for at least the Pacers' next two or three games."
             }
         ],
         "team_stats": {
@@ -93,24 +93,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "28",
                 "FG": "6",
-                "FGA": "19",
+                "FGA": "20",
                 "FG%": "4",
                 "3P": "19",
                 "3PA": "26",
-                "3P%": "8",
+                "3P%": "7",
                 "2P": "5",
-                "2PA": "11",
+                "2PA": "10",
                 "2P%": "4",
-                "FT": "18",
+                "FT": "19",
                 "FTA": "17",
                 "FT%": "13",
                 "ORB": "29",
                 "DRB": "23",
                 "TRB": "28",
-                "AST": "4",
-                "STL": "10",
+                "AST": "5",
+                "STL": "9",
                 "BLK": "9",
                 "TOV": "6",
                 "PF": "16",
@@ -193,13 +193,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "28",
                 "FG": "23",
                 "FGA": "15",
                 "FG%": "26",
                 "3P": "8",
                 "3PA": "8",
-                "3P%": "15",
+                "3P%": "14",
                 "2P": "26",
                 "2PA": "21",
                 "2P%": "22",
@@ -212,9 +212,9 @@
                 "AST": "17",
                 "STL": "5",
                 "BLK": "6",
-                "TOV": "11",
+                "TOV": "10",
                 "PF": "19",
-                "PTS": "20"
+                "PTS": "21"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +247,8 @@
                 "PW": "31",
                 "PL": "27",
                 "MOV": "1.03",
-                "SOS": "-0.58",
-                "SRS": "0.46",
+                "SOS": "-0.55",
+                "SRS": "0.49",
                 "ORtg": "116.1",
                 "DRtg": "115.0",
                 "Pace": "99.8",
@@ -263,12 +263,12 @@
                 "Attendance": "456,146"
             },
             "Misc Lg Rank": {
-                "W": "9",
+                "W": "11",
                 "L": "21",
                 "PW": "16",
-                "PL": "15",
-                "MOV": "15",
-                "SOS": "27",
+                "PL": "14",
+                "MOV": "16",
+                "SOS": "26",
                 "SRS": "16",
                 "ORtg": "8",
                 "DRtg": "20",
@@ -279,12 +279,12 @@
                 "TOV%": "11",
                 "ORB%": "29",
                 "FT/FGA": "20",
-                "DRB%": "21",
+                "DRB%": "20",
                 "Arena": "",
                 "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/IND-2025.png",
-        "last_update": "Mar 01 2025 22:32:21"
+        "last_update": "Mar 02 2025 22:32:21"
     }
 }

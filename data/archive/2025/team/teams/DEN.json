@@ -31,20 +31,26 @@
             {
                 "Player": "Vlatko Čančar",
                 "Team": "Denver Nuggets",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Knee) - Cancar did not play in Friday's (Feb. 28) game against the Pistons."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Knee) - The Nuggets listed Cancar as Out for Sunday's (Mar. 2) game against the Celtics."
             },
             {
                 "Player": "Aaron Gordon",
                 "Team": "Denver Nuggets",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Ankle) - Gordon did not play in Friday's (Feb. 28) game against the Pistons."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets listed Gordon as Questionable for Sunday's (Mar. 2) game against the Celtics."
             },
             {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sun, Feb 23, 2025",
                 "Description": "Out For Season (Achilles) - Nuggets HC Michael Malone said that Holmes was able to participate in portions of Wednesday's (Feb. 19) practice, as per Brendan Vogt of TheDNVR.com reports."
+            },
+            {
+                "Player": "Zeke Nnaji",
+                "Team": "Denver Nuggets",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets listed Nnaji as Questionable for Sunday's (Mar. 2) game against the Celtics."
             },
             {
                 "Player": "Peyton Watson",
@@ -106,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "1",
                 "FGA": "11",
                 "FG%": "1",
@@ -206,13 +212,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "24",
                 "FGA": "28",
                 "FG%": "12",
-                "3P": "23",
+                "3P": "24",
                 "3PA": "21",
-                "3P%": "18",
+                "3P%": "17",
                 "2P": "25",
                 "2PA": "27",
                 "2P%": "10",
@@ -277,11 +283,11 @@
             },
             "Misc Lg Rank": {
                 "W": "4",
-                "L": "24",
+                "L": "25",
                 "PW": "5",
                 "PL": "5",
                 "MOV": "5",
-                "SOS": "24",
+                "SOS": "25",
                 "SRS": "5",
                 "ORtg": "2",
                 "DRtg": "17",
@@ -294,10 +300,10 @@
                 "FT/FGA": "4",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DEN-2025.png",
-        "last_update": "Mar 01 2025 22:32:21"
+        "last_update": "Mar 02 2025 22:32:21"
     }
 }

@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Jaime Jaquez Jr.",
+                "Team": "Miami Heat",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Ankle) - The Heat listed Wiggins as Doubtful for Sunday's (Mar. 2) game against the Knicks."
+            },
+            {
                 "Player": "Nikola Jović",
                 "Team": "Miami Heat",
                 "Update": "Tue, Feb 25, 2025",
@@ -43,8 +49,8 @@
             {
                 "Player": "Andrew Wiggins",
                 "Team": "Miami Heat",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Ankle) - Wiggins did not play in Friday's (Feb. 28) game against the Pacers."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Ankle) - The Heat listed Wiggins as Doubtful for Sunday's (Mar. 2) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -100,14 +106,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "27",
                 "FG": "25",
                 "FGA": "24",
                 "FG%": "21",
                 "3P": "10",
-                "3PA": "10",
-                "3P%": "13",
-                "2P": "25",
+                "3PA": "11",
+                "3P%": "14",
+                "2P": "26",
                 "2PA": "27",
                 "2P%": "21",
                 "FT": "17",
@@ -115,9 +121,9 @@
                 "FT%": "9",
                 "ORB": "26",
                 "DRB": "6",
-                "TRB": "19",
+                "TRB": "20",
                 "AST": "16",
-                "STL": "20",
+                "STL": "22",
                 "BLK": "30",
                 "TOV": "9",
                 "PF": "1",
@@ -200,21 +206,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "27",
                 "FG": "15",
                 "FGA": "16",
-                "FG%": "13",
+                "FG%": "14",
                 "3P": "21",
                 "3PA": "18",
-                "3P%": "17",
-                "2P": "11",
+                "3P%": "16",
+                "2P": "10",
                 "2PA": "11",
-                "2P%": "18",
+                "2P%": "17",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "17",
+                "FT%": "16",
                 "ORB": "12",
-                "DRB": "23",
+                "DRB": "24",
                 "TRB": "22",
                 "AST": "22",
                 "STL": "6",
@@ -254,8 +260,8 @@
                 "PW": "28",
                 "PL": "30",
                 "MOV": "-0.50",
-                "SOS": "-0.43",
-                "SRS": "-0.93",
+                "SOS": "-0.41",
+                "SRS": "-0.91",
                 "ORtg": "112.8",
                 "DRtg": "113.3",
                 "Pace": "96.4",
@@ -275,12 +281,12 @@
                 "PW": "17",
                 "PL": "17",
                 "MOV": "17",
-                "SOS": "22",
+                "SOS": "21",
                 "SRS": "17",
-                "ORtg": "17",
+                "ORtg": "18",
                 "DRtg": "12",
                 "Pace": "28",
-                "FTr": "16",
+                "FTr": "17",
                 "3PAr": "8",
                 "eFG%": "15",
                 "TOV%": "21",
@@ -288,10 +294,10 @@
                 "FT/FGA": "2",
                 "DRB%": "11",
                 "Arena": "",
-                "Attendance": "26"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MIA-2025.png",
-        "last_update": "Mar 01 2025 22:32:21"
+        "last_update": "Mar 02 2025 22:32:21"
     }
 }

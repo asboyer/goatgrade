@@ -29,10 +29,40 @@
         ],
         "injuries": [
             {
+                "Player": "Lonzo Ball",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Wrist) - The Bulls listed Ball as Probable for Sunday's (Mar. 2) game against Indiana."
+            },
+            {
+                "Player": "Ayo Dosunmu",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Shoulder) - The Bulls listed Dosunmu as OUT for Sunday's (Mar. 2) game against Indiana."
+            },
+            {
+                "Player": "Josh Giddey",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Ankle) - The Bulls listed Giddey as Probable for Sunday's (Mar. 2) game against Indiana."
+            },
+            {
+                "Player": "Kevin Huerter",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Knee) - The Bulls listed Huerter as Questionable for Sunday's (Mar. 2) game against the Pacers."
+            },
+            {
                 "Player": "Nikola Vučević",
                 "Team": "Chicago Bulls",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Calf) - Vucevic did not play in Friday's (Feb. 28) game against the Raptors."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Calf) - The Bulls listed Vucevic as OUT for Sunday's (Mar. 2) game against Indiana."
+            },
+            {
+                "Player": "Coby White",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Toe) - The Bulls listed White as Probable for Sunday's (Mar. 2) game against Indiana."
             },
             {
                 "Player": "Patrick Williams",
@@ -94,14 +124,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "10",
                 "FG": "8",
                 "FGA": "4",
                 "FG%": "16",
                 "3P": "3",
                 "3PA": "2",
-                "3P%": "11",
-                "2P": "23",
+                "3P%": "10",
+                "2P": "21",
                 "2PA": "24",
                 "2P%": "14",
                 "FT": "30",
@@ -110,7 +140,7 @@
                 "ORB": "25",
                 "DRB": "2",
                 "TRB": "8",
-                "AST": "6",
+                "AST": "7",
                 "STL": "25",
                 "BLK": "20",
                 "TOV": "20",
@@ -194,7 +224,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "10",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "20",
@@ -248,8 +278,8 @@
                 "PW": "23",
                 "PL": "37",
                 "MOV": "-3.78",
-                "SOS": "-0.29",
-                "SRS": "-4.08",
+                "SOS": "-0.26",
+                "SRS": "-4.04",
                 "ORtg": "112.7",
                 "DRtg": "116.3",
                 "Pace": "102.9",
@@ -264,19 +294,19 @@
                 "Attendance": "635,884"
             },
             "Misc Lg Rank": {
-                "W": "22",
+                "W": "23",
                 "L": "8",
                 "PW": "22",
                 "PL": "22",
                 "MOV": "22",
-                "SOS": "19",
+                "SOS": "16",
                 "SRS": "23",
                 "ORtg": "19",
                 "DRtg": "25",
                 "Pace": "3",
                 "FTr": "30",
                 "3PAr": "2",
-                "eFG%": "17",
+                "eFG%": "18",
                 "TOV%": "29",
                 "ORB%": "27",
                 "FT/FGA": "7",
@@ -286,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CHI-2025.png",
-        "last_update": "Mar 01 2025 22:32:21"
+        "last_update": "Mar 02 2025 22:32:21"
     }
 }

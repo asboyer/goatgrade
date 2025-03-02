@@ -29,10 +29,16 @@
         ],
         "injuries": [
             {
+                "Player": "Ochai Agbaji",
+                "Team": "Toronto Raptors",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Ankle) - The Raptors listed Agbaji as Out for Sunday's (Mar. 2) game against the Magic."
+            },
+            {
                 "Player": "Jamison Battle",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Nose) - Battle did not play in Friday's (Feb. 28) game against the Bulls."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Nose) - The Raptors listed Battle as OUT for Sunday's (Mar. 2) game against Orlando."
             },
             {
                 "Player": "Ulrich Chomche",
@@ -49,8 +55,8 @@
             {
                 "Player": "Garrett Temple",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Personal) - Temple did not play in Friday's (Feb. 28) game against the Bulls."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Personal) - The Raptors listed Temple as OUT for Sunday's (Mar. 2) game against Orlando."
             }
         ],
         "team_stats": {
@@ -106,8 +112,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
-                "FG": "15",
+                "MP": "5",
+                "FG": "14",
                 "FGA": "16",
                 "FG%": "14",
                 "3P": "29",
@@ -117,14 +123,14 @@
                 "2PA": "3",
                 "2P%": "22",
                 "FT": "27",
-                "FTA": "22",
-                "FT%": "28",
+                "FTA": "24",
+                "FT%": "27",
                 "ORB": "9",
                 "DRB": "24",
-                "TRB": "18",
+                "TRB": "19",
                 "AST": "9",
                 "STL": "23",
-                "BLK": "26",
+                "BLK": "27",
                 "TOV": "24",
                 "PF": "30",
                 "PTS": "23"
@@ -206,24 +212,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "5",
                 "FG": "18",
                 "FGA": "12",
                 "FG%": "19",
                 "3P": "14",
                 "3PA": "16",
                 "3P%": "11",
-                "2P": "18",
-                "2PA": "9",
+                "2P": "17",
+                "2PA": "8",
                 "2P%": "23",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "11",
+                "FT%": "10",
                 "ORB": "21",
                 "DRB": "15",
                 "TRB": "16",
                 "AST": "13",
-                "STL": "25",
+                "STL": "24",
                 "BLK": "25",
                 "TOV": "16",
                 "PF": "21",
@@ -260,8 +266,8 @@
                 "PW": "19",
                 "PL": "41",
                 "MOV": "-5.97",
-                "SOS": "1.48",
-                "SRS": "-4.49",
+                "SOS": "1.51",
+                "SRS": "-4.46",
                 "ORtg": "110.3",
                 "DRtg": "116.3",
                 "Pace": "99.2",
@@ -282,11 +288,11 @@
                 "PL": "25",
                 "MOV": "25",
                 "SOS": "1",
-                "SRS": "24",
+                "SRS": "25",
                 "ORtg": "26",
                 "DRtg": "24",
                 "Pace": "14",
-                "FTr": "22",
+                "FTr": "23",
                 "3PAr": "29",
                 "eFG%": "21",
                 "TOV%": "15",
@@ -294,10 +300,10 @@
                 "FT/FGA": "29",
                 "DRB%": "22",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "6"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/TOR-2025.png",
-        "last_update": "Mar 01 2025 22:32:21"
+        "last_update": "Mar 02 2025 22:32:21"
     }
 }

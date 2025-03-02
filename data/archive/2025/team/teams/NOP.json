@@ -29,8 +29,8 @@
             {
                 "Player": "Brandon Boston Jr.",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Ankle) - Boston Jr. did not play in Friday's (Feb. 28) game against the Suns."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Ankle) - The Pelicans listed Boston Jr. as OUT for Sunday's (Mar. 2) game against the Jazz."
             },
             {
                 "Player": "Herbert Jones",
@@ -98,7 +98,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "10",
                 "FG": "21",
                 "FGA": "8",
                 "FG%": "24",
@@ -198,14 +198,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "10",
                 "FG": "29",
                 "FGA": "22",
                 "FG%": "28",
                 "3P": "29",
                 "3PA": "29",
                 "3P%": "23",
-                "2P": "24",
+                "2P": "23",
                 "2PA": "12",
                 "2P%": "29",
                 "FT": "9",
@@ -218,7 +218,7 @@
                 "STL": "20",
                 "BLK": "22",
                 "TOV": "15",
-                "PF": "24",
+                "PF": "25",
                 "PTS": "26"
             },
             "Opp Year/Year": {
@@ -252,8 +252,8 @@
                 "PW": "16",
                 "PL": "44",
                 "MOV": "-8.00",
-                "SOS": "0.83",
-                "SRS": "-7.17",
+                "SOS": "0.82",
+                "SRS": "-7.18",
                 "ORtg": "110.8",
                 "DRtg": "118.8",
                 "Pace": "99.4",
@@ -269,7 +269,7 @@
             },
             "Misc Lg Rank": {
                 "W": "27",
-                "L": "2",
+                "L": "3",
                 "PW": "28",
                 "PL": "29",
                 "MOV": "29",
@@ -277,8 +277,8 @@
                 "SRS": "28",
                 "ORtg": "25",
                 "DRtg": "28",
-                "Pace": "11",
-                "FTr": "15",
+                "Pace": "12",
+                "FTr": "16",
                 "3PAr": "26",
                 "eFG%": "29",
                 "TOV%": "17",
@@ -286,10 +286,10 @@
                 "FT/FGA": "9",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NOP-2025.png",
-        "last_update": "Mar 01 2025 22:32:21"
+        "last_update": "Mar 02 2025 22:32:21"
     }
 }

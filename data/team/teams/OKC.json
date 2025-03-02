@@ -31,8 +31,20 @@
             {
                 "Player": "Ousmane Dieng",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Wrist) - Dieng did not play in Friday's (Feb. 28) game against the Hawks."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Wrist) - The Thunder listed Dieng as Questionable for Sunday's (Mar. 2) game against the Spurs."
+            },
+            {
+                "Player": "Chet Holmgren",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Ankle) - The Thunder listed Holmgren as Out for Sunday's (Mar. 2) game against the Spurs."
+            },
+            {
+                "Player": "Isaiah Joe",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Back) - The Thunder listed Joe as Out for Sunday's (Mar. 2) game against the Spurs."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -100,27 +112,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "24",
                 "FG": "4",
                 "FGA": "3",
-                "FG%": "9",
+                "FG%": "10",
                 "3P": "8",
                 "3PA": "9",
                 "3P%": "12",
                 "2P": "7",
-                "2PA": "10",
+                "2PA": "9",
                 "2P%": "9",
                 "FT": "24",
                 "FTA": "29",
                 "FT%": "1",
-                "ORB": "15",
-                "DRB": "11",
-                "TRB": "14",
+                "ORB": "16",
+                "DRB": "10",
+                "TRB": "13",
                 "AST": "13",
                 "STL": "1",
                 "BLK": "5",
                 "TOV": "1",
-                "PF": "26",
+                "PF": "27",
                 "PTS": "4"
             },
             "Year/Year": {
@@ -200,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "24",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
@@ -218,9 +230,9 @@
                 "TRB": "25",
                 "AST": "4",
                 "STL": "1",
-                "BLK": "12",
+                "BLK": "11",
                 "TOV": "1",
-                "PF": "23",
+                "PF": "24",
                 "PTS": "2"
             },
             "Opp Year/Year": {
@@ -254,8 +266,8 @@
                 "PW": "49",
                 "PL": "10",
                 "MOV": "12.69",
-                "SOS": "-0.28",
-                "SRS": "12.41",
+                "SOS": "-0.31",
+                "SRS": "12.39",
                 "ORtg": "119.1",
                 "DRtg": "106.4",
                 "Pace": "99.7",
@@ -275,11 +287,11 @@
                 "PW": "1",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "18",
+                "SOS": "17",
                 "SRS": "1",
                 "ORtg": "5",
                 "DRtg": "1",
-                "Pace": "9",
+                "Pace": "10",
                 "FTr": "29",
                 "3PAr": "15",
                 "eFG%": "1",
@@ -292,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/OKC-2025.png",
-        "last_update": "Mar 01 2025 22:32:21"
+        "last_update": "Mar 02 2025 22:32:21"
     }
 }

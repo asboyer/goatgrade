@@ -31,14 +31,14 @@
             {
                 "Player": "Grayson Allen",
                 "Team": "Phoenix Suns",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Foot) - Allen did not play in Friday's (Feb. 28) game against the Pelicans."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Foot) - The Suns listed Allen as probable for Sunday's (Mar. 2) game against Minnesota."
             },
             {
                 "Player": "Bradley Beal",
                 "Team": "Phoenix Suns",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Calf) - Beal did not play in Friday's (Feb. 28) game against the Pelicans."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Calf) - The Suns listed Beal as Questionable for Sunday's (Mar. 2) game against the Timberwolves."
             },
             {
                 "Player": "Cody Martin",
@@ -49,8 +49,8 @@
             {
                 "Player": "Monte Morris",
                 "Team": "Phoenix Suns",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Back) - Morris did not play in Friday's (Feb. 28) game against the Pelicans."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Back) - The Suns listed Morris as Questionable for Sunday's (Mar. 2) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -106,8 +106,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
-                "FG": "17",
+                "MP": "5",
+                "FG": "18",
                 "FGA": "27",
                 "FG%": "8",
                 "3P": "7",
@@ -116,11 +116,11 @@
                 "2P": "20",
                 "2PA": "26",
                 "2P%": "10",
-                "FT": "10",
+                "FT": "9",
                 "FTA": "13",
                 "FT%": "5",
                 "ORB": "28",
-                "DRB": "15",
+                "DRB": "14",
                 "TRB": "25",
                 "AST": "10",
                 "STL": "27",
@@ -206,13 +206,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "5",
                 "FG": "22",
                 "FGA": "23",
-                "FG%": "14",
-                "3P": "24",
+                "FG%": "15",
+                "3P": "25",
                 "3PA": "20",
-                "3P%": "21",
+                "3P%": "20",
                 "2P": "19",
                 "2PA": "18",
                 "2P%": "14",
@@ -260,8 +260,8 @@
                 "PW": "27",
                 "PL": "33",
                 "MOV": "-1.92",
-                "SOS": "-0.54",
-                "SRS": "-2.46",
+                "SOS": "-0.55",
+                "SRS": "-2.47",
                 "ORtg": "115.9",
                 "DRtg": "117.8",
                 "Pace": "97.5",
@@ -281,7 +281,7 @@
                 "PW": "19",
                 "PL": "19",
                 "MOV": "19",
-                "SOS": "25",
+                "SOS": "27",
                 "SRS": "20",
                 "ORtg": "9",
                 "DRtg": "27",
@@ -292,12 +292,12 @@
                 "TOV%": "28",
                 "ORB%": "28",
                 "FT/FGA": "15",
-                "DRB%": "25",
+                "DRB%": "24",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHO-2025.png",
-        "last_update": "Mar 01 2025 22:32:21"
+        "last_update": "Mar 02 2025 22:32:21"
     }
 }

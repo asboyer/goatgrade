@@ -31,8 +31,14 @@
             {
                 "Player": "Jordan Clarkson",
                 "Team": "Utah Jazz",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Foot) - Clarkson did not play in Friday's (Feb. 28) game against the Timberwolves."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Foot) - The Jazz listed Clarkson as OUT for Sunday's (Mar. 2) game against the Pelicans."
+            },
+            {
+                "Player": "John Collins",
+                "Team": "Utah Jazz",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Back) - The Jazz listed Collins as OUT for Sunday's (Mar. 2) game against the Pelicans."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -41,10 +47,22 @@
                 "Description": "Out For Season (Fibula) - Hendricks underwent surgery on Wednesday (Nov. 6) to repair a fractured right fibula and dislocated right ankle, per Andy Larsen of The Salt Lake Tribune."
             },
             {
+                "Player": "Walker Kessler",
+                "Team": "Utah Jazz",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Rest) - The Jazz listed Kessler as Out for Sunday's (Mar. 2) game against the Pelicans."
+            },
+            {
                 "Player": "Lauri Markkanen",
                 "Team": "Utah Jazz",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Back) - Markkanen did not play in Friday's (Feb. 28) game against the Timberwolves."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Back) - The Jazz listed Markkanen as Out for Sunday's (Mar. 2) game against the Pelicans."
+            },
+            {
+                "Player": "Collin Sexton",
+                "Team": "Utah Jazz",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Ankle) - The Jazz listed Sexton as Out for Sunday's (Mar. 2) game against the Pelicans."
             }
         ],
         "team_stats": {
@@ -100,10 +118,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "22",
                 "FGA": "21",
-                "FG%": "18",
+                "FG%": "19",
                 "3P": "9",
                 "3PA": "7",
                 "3P%": "17",
@@ -112,7 +130,7 @@
                 "2P%": "17",
                 "FT": "7",
                 "FTA": "9",
-                "FT%": "17",
+                "FT%": "19",
                 "ORB": "6",
                 "DRB": "13",
                 "TRB": "5",
@@ -200,13 +218,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "26",
                 "FGA": "25",
                 "FG%": "25",
                 "3P": "30",
                 "3PA": "30",
-                "3P%": "20",
+                "3P%": "19",
                 "2P": "22",
                 "2PA": "13",
                 "2P%": "28",
@@ -215,7 +233,7 @@
                 "FT%": "3",
                 "ORB": "20",
                 "DRB": "4",
-                "TRB": "8",
+                "TRB": "7",
                 "AST": "28",
                 "STL": "30",
                 "BLK": "30",
@@ -271,12 +289,12 @@
             },
             "Misc Lg Rank": {
                 "W": "28",
-                "L": "2",
+                "L": "3",
                 "PW": "27",
-                "PL": "27",
+                "PL": "26",
                 "MOV": "27",
-                "SOS": "5",
-                "SRS": "27",
+                "SOS": "4",
+                "SRS": "26",
                 "ORtg": "20",
                 "DRtg": "30",
                 "Pace": "15",
@@ -292,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/UTA-2025.png",
-        "last_update": "Mar 01 2025 22:32:21"
+        "last_update": "Mar 02 2025 22:32:21"
     }
 }

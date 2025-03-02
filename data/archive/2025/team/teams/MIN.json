@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Edwards",
+                "Team": "Minnesota Timberwolves",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Calf) - The Timberwolves listed Edwards as Questionable for Sunday's (Mar. 2) game against the Suns."
+            },
+            {
                 "Player": "Rudy Gobert",
                 "Team": "Minnesota Timberwolves",
                 "Update": "Fri, Feb 28, 2025",
@@ -36,8 +42,8 @@
             {
                 "Player": "Julius Randle",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Out (Groin) - Timberwolves HC Finch said Randle is close to playing in games, but no formal target date established, according to Charlie Walton of ZoneCoverage.com."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Groin) - The Timberwolves listed Randle as Questionable for Sunday's (Mar. 2) game against Phoenix."
             }
         ],
         "team_stats": {
@@ -93,10 +99,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "24",
                 "FGA": "22",
-                "FG%": "19",
+                "FG%": "20",
                 "3P": "5",
                 "3PA": "6",
                 "3P%": "5",
@@ -105,10 +111,10 @@
                 "2P%": "23",
                 "FT": "12",
                 "FTA": "15",
-                "FT%": "7",
+                "FT%": "8",
                 "ORB": "13",
                 "DRB": "21",
-                "TRB": "16",
+                "TRB": "15",
                 "AST": "19",
                 "STL": "17",
                 "BLK": "16",
@@ -193,19 +199,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "6",
                 "FGA": "9",
-                "FG%": "8",
+                "FG%": "7",
                 "3P": "4",
                 "3PA": "7",
                 "3P%": "7",
-                "2P": "12",
+                "2P": "11",
                 "2PA": "15",
-                "2P%": "8",
+                "2P%": "9",
                 "FT": "6",
                 "FTA": "6",
-                "FT%": "12",
+                "FT%": "11",
                 "ORB": "17",
                 "DRB": "10",
                 "TRB": "13",
@@ -213,7 +219,7 @@
                 "STL": "21",
                 "BLK": "14",
                 "TOV": "12",
-                "PF": "7",
+                "PF": "8",
                 "PTS": "6"
             },
             "Opp Year/Year": {
@@ -247,8 +253,8 @@
                 "PW": "36",
                 "PL": "25",
                 "MOV": "2.80",
-                "SOS": "1.09",
-                "SRS": "3.90",
+                "SOS": "1.08",
+                "SRS": "3.89",
                 "ORtg": "114.4",
                 "DRtg": "111.5",
                 "Pace": "97.4",
@@ -270,7 +276,7 @@
                 "MOV": "8",
                 "SOS": "2",
                 "SRS": "8",
-                "ORtg": "12",
+                "ORtg": "13",
                 "DRtg": "7",
                 "Pace": "25",
                 "FTr": "12",
@@ -278,13 +284,13 @@
                 "eFG%": "8",
                 "TOV%": "10",
                 "ORB%": "14",
-                "FT/FGA": "11",
+                "FT/FGA": "10",
                 "DRB%": "18",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MIN-2025.png",
-        "last_update": "Mar 01 2025 22:32:21"
+        "last_update": "Mar 02 2025 22:32:21"
     }
 }

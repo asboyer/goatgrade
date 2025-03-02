@@ -2,7 +2,7 @@
     "LAL": {
         "info": {
             "record": "37-21",
-            "standing": "4th in West",
+            "standing": "3rd in West",
             "coach": "JJ Redick (37-21)",
             "gm": "Rob Pelinka",
             "preseason_odds": "+3000"
@@ -29,10 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Luka Dončić",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Calf) - The Lakers listed Doncic as questionable for Sunday's (Mar. 2) game against Los Angeles."
+            },
+            {
+                "Player": "Jordan Goodwin",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Ankle) - The Lakers listed Goodwin as doubtful for Sunday's (Mar. 2) game against Los Angeles."
+            },
+            {
                 "Player": "Rui Hachimura",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Knee) - Hachimura did not play in Friday's (Feb. 28) game against the Clippers."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Out (Knee) - The Lakers listed Hachimura as OUT for Sunday's (Mar. 2) game against Los Angeles."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Foot) - The Lakers listed James as questionable for Sunday's (Mar. 2) game against Los Angeles."
             },
             {
                 "Player": "Maxi Kleber",
@@ -43,8 +61,8 @@
             {
                 "Player": "Austin Reaves",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Day To Day (Calf) - Reaves did not return to Friday's (Feb. 28) game against the Clippers."
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Calf) - The Lakers listed Reaves as doubtful for Sunday's (Mar. 2) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -100,8 +118,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "28",
-                "FG": "18",
+                "MP": "30",
+                "FG": "19",
                 "FGA": "30",
                 "FG%": "6",
                 "3P": "24",
@@ -114,9 +132,9 @@
                 "FTA": "3",
                 "FT%": "12",
                 "ORB": "27",
-                "DRB": "20",
+                "DRB": "19",
                 "TRB": "26",
-                "AST": "14",
+                "AST": "15",
                 "STL": "24",
                 "BLK": "18",
                 "TOV": "11",
@@ -200,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "30",
                 "FG": "13",
                 "FGA": "17",
                 "FG%": "10",
@@ -209,7 +227,7 @@
                 "3P%": "8",
                 "2P": "14",
                 "2PA": "14",
-                "2P%": "17",
+                "2P%": "16",
                 "FT": "5",
                 "FTA": "5",
                 "FT%": "22",
@@ -221,7 +239,7 @@
                 "BLK": "4",
                 "TOV": "20",
                 "PF": "6",
-                "PTS": "10"
+                "PTS": "8"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -255,7 +273,7 @@
                 "PL": "26",
                 "MOV": "1.55",
                 "SOS": "-0.20",
-                "SRS": "1.35",
+                "SRS": "1.36",
                 "ORtg": "115.1",
                 "DRtg": "113.5",
                 "Pace": "97.9",
@@ -271,10 +289,10 @@
             },
             "Misc Lg Rank": {
                 "W": "7",
-                "L": "24",
-                "PW": "14",
-                "PL": "12",
-                "MOV": "13",
+                "L": "25",
+                "PW": "15",
+                "PL": "11",
+                "MOV": "12",
                 "SOS": "15",
                 "SRS": "12",
                 "ORtg": "11",
@@ -284,7 +302,7 @@
                 "3PAr": "17",
                 "eFG%": "9",
                 "TOV%": "20",
-                "ORB%": "24",
+                "ORB%": "25",
                 "FT/FGA": "5",
                 "DRB%": "14",
                 "Arena": "",
@@ -292,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAL-2025.png",
-        "last_update": "Mar 01 2025 22:32:21"
+        "last_update": "Mar 02 2025 22:32:21"
     }
 }

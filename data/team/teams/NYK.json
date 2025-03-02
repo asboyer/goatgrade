@@ -28,10 +28,22 @@
         ],
         "injuries": [
             {
+                "Player": "Josh Hart",
+                "Team": "New York Knicks",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Knee) - The Knicks listed Hart as probable for Sunday's (Mar. 2) game against Miami. "
+            },
+            {
                 "Player": "Ariel Hukporti",
                 "Team": "New York Knicks",
                 "Update": "Thu, Feb 27, 2025",
                 "Description": "Out (Knee) - Hukporti will miss the next four to six weeks for the Knicks after suffering a torn meniscus in his left knee, according to Shams Charania of ESPN."
+            },
+            {
+                "Player": "Mitchell Robinson",
+                "Team": "New York Knicks",
+                "Update": "Sat, Mar 1, 2025",
+                "Description": "Day To Day (Ankle) - The Knicks listed Robinson as probable for Sunday's (Mar. 2) game against Miami. "
             }
         ],
         "team_stats": {
@@ -87,24 +99,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "5",
                 "FGA": "17",
                 "FG%": "3",
                 "3P": "20",
                 "3PA": "28",
                 "3P%": "6",
-                "2P": "2",
+                "2P": "3",
                 "2PA": "6",
                 "2P%": "5",
                 "FT": "14",
-                "FTA": "20",
+                "FTA": "21",
                 "FT%": "4",
                 "ORB": "22",
                 "DRB": "25",
                 "TRB": "24",
                 "AST": "11",
-                "STL": "19",
+                "STL": "20",
                 "BLK": "29",
                 "TOV": "4",
                 "PF": "5",
@@ -187,8 +199,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
-                "FG": "21",
+                "MP": "18",
+                "FG": "20",
                 "FGA": "13",
                 "FG%": "24",
                 "3P": "16",
@@ -241,8 +253,8 @@
                 "PW": "38",
                 "PL": "21",
                 "MOV": "4.73",
-                "SOS": "-0.77",
-                "SRS": "3.96",
+                "SOS": "-0.74",
+                "SRS": "3.99",
                 "ORtg": "119.9",
                 "DRtg": "115.1",
                 "Pace": "97.4",
@@ -265,7 +277,7 @@
                 "SOS": "28",
                 "SRS": "7",
                 "ORtg": "3",
-                "DRtg": "21",
+                "DRtg": "22",
                 "Pace": "24",
                 "FTr": "20",
                 "3PAr": "28",
@@ -275,10 +287,10 @@
                 "FT/FGA": "6",
                 "DRB%": "19",
                 "Arena": "",
-                "Attendance": "2"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NYK-2025.png",
-        "last_update": "Mar 01 2025 22:32:21"
+        "last_update": "Mar 02 2025 22:32:21"
     }
 }
