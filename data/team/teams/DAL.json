@@ -49,14 +49,14 @@
             {
                 "Player": "Caleb Martin",
                 "Team": "Dallas Mavericks",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Hip) - Martin did not play in Saturday's (Mar. 1) game against the Bucks."
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Out (Hip) - The Mavericks listed Martin as OUT for Monday's (Mar. 3) game against Sacramento."
             },
             {
                 "Player": "P.J. Washington",
                 "Team": "Dallas Mavericks",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Ankle) - Washington Jr. did not return to Saturday's (Mar. 1) game against Milwaukee. "
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Out (Ankle) - The Mavericks listed Washington Jr. as OUT for Monday's (Mar. 3) game against Sacramento."
             }
         ],
         "team_stats": {
@@ -112,26 +112,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "10",
                 "FG": "11",
                 "FGA": "19",
                 "FG%": "11",
                 "3P": "15",
-                "3PA": "22",
-                "3P%": "8",
-                "2P": "12",
+                "3PA": "21",
+                "3P%": "9",
+                "2P": "11",
                 "2PA": "12",
                 "2P%": "15",
-                "FT": "5",
+                "FT": "6",
                 "FTA": "6",
                 "FT%": "22",
-                "ORB": "18",
-                "DRB": "16",
-                "TRB": "16",
+                "ORB": "19",
+                "DRB": "15",
+                "TRB": "15",
                 "AST": "23",
                 "STL": "18",
                 "BLK": "4",
-                "TOV": "14",
+                "TOV": "13",
                 "PF": "13",
                 "PTS": "11"
             },
@@ -212,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "10",
                 "FG": "19",
                 "FGA": "24",
                 "FG%": "8",
@@ -220,14 +220,14 @@
                 "3PA": "5",
                 "3P%": "13",
                 "2P": "24",
-                "2PA": "29",
+                "2PA": "30",
                 "2P%": "4",
                 "FT": "13",
                 "FTA": "15",
-                "FT%": "12",
-                "ORB": "29",
-                "DRB": "14",
-                "TRB": "23",
+                "FT%": "10",
+                "ORB": "30",
+                "DRB": "15",
+                "TRB": "24",
                 "AST": "16",
                 "STL": "12",
                 "BLK": "12",
@@ -282,21 +282,21 @@
                 "Attendance": "622,759"
             },
             "Misc Lg Rank": {
-                "W": "12",
+                "W": "13",
                 "L": "15",
                 "PW": "10",
                 "PL": "15",
                 "MOV": "13",
                 "SOS": "8",
                 "SRS": "11",
-                "ORtg": "10",
+                "ORtg": "9",
                 "DRtg": "14",
                 "Pace": "17",
                 "FTr": "6",
                 "3PAr": "21",
                 "eFG%": "6",
                 "TOV%": "24",
-                "ORB%": "19",
+                "ORB%": "20",
                 "FT/FGA": "12",
                 "DRB%": "28",
                 "Arena": "",
@@ -304,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DAL-2025.png",
-        "last_update": "Mar 02 2025 22:32:21"
+        "last_update": "Mar 03 2025 22:32:22"
     }
 }

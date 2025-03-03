@@ -29,22 +29,40 @@
         ],
         "injuries": [
             {
+                "Player": "Steven Adams",
+                "Team": "Houston Rockets",
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Day To Day (Ankle) - The Rockets listed Adams as Questionable for Monday's (Mar. 3) game against Oklahoma City."
+            },
+            {
+                "Player": "Dillon Brooks",
+                "Team": "Houston Rockets",
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Day To Day (Knee) - The Rockets listed Brooks as Questionable for Monday's (Mar. 3) game against Oklahoma City."
+            },
+            {
                 "Player": "Tari Eason",
                 "Team": "Houston Rockets",
-                "Update": "Wed, Feb 26, 2025",
-                "Description": "Day To Day (Rest) - Eason did not play in Wednesday's (Feb. 26) game against the Spurs."
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Day To Day (Rest) - The Rockets listed Eason as Questionable for Monday's (Mar. 3) game against Oklahoma City."
+            },
+            {
+                "Player": "Alperen Şengün",
+                "Team": "Houston Rockets",
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Day To Day (Back) - The Rockets listed Sengun as Questionable for Monday's (Mar. 3) game against Oklahoma City."
+            },
+            {
+                "Player": "Amen Thompson",
+                "Team": "Houston Rockets",
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Day To Day (Shoulder) - The Rockets listed Thompson as Questionable for Monday's (Mar. 3) game against Oklahoma City."
             },
             {
                 "Player": "Fred VanVleet",
                 "Team": "Houston Rockets",
-                "Update": "Wed, Feb 26, 2025",
-                "Description": "Day To Day (Ankle) - VanVleet did not play in Wednesday's (Feb. 26) game against the Spurs."
-            },
-            {
-                "Player": "Cody Zeller",
-                "Team": "Houston Rockets",
-                "Update": "Sat, Jan 25, 2025",
-                "Description": "Out (Personal) - The Hawks announced on Saturday (Jan. 25) that Zeller has yet to suit up this season due to personal reasons. Until Atlanta provides a timetable for his return, the veteran big man can be considered out indefinitely."
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Out (Ankle) - The Rockets listed VanVleet as OUT for Monday's (Mar. 3) game against Oklahoma City."
             }
         ],
         "team_stats": {
@@ -100,24 +118,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
-                "FG": "15",
+                "MP": "15",
+                "FG": "13",
                 "FGA": "2",
                 "FG%": "26",
                 "3P": "27",
-                "3PA": "23",
+                "3PA": "22",
                 "3P%": "27",
                 "2P": "9",
                 "2PA": "2",
                 "2P%": "29",
                 "FT": "11",
-                "FTA": "4",
+                "FTA": "5",
                 "FT%": "29",
                 "ORB": "1",
-                "DRB": "12",
+                "DRB": "13",
                 "TRB": "1",
                 "AST": "30",
-                "STL": "10",
+                "STL": "9",
                 "BLK": "14",
                 "TOV": "12",
                 "PF": "21",
@@ -200,9 +218,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "15",
                 "FG": "4",
-                "FGA": "10",
+                "FGA": "11",
                 "FG%": "5",
                 "3P": "2",
                 "3PA": "2",
@@ -215,11 +233,11 @@
                 "FT%": "1",
                 "ORB": "10",
                 "DRB": "8",
-                "TRB": "10",
+                "TRB": "8",
                 "AST": "1",
                 "STL": "10",
                 "BLK": "29",
-                "TOV": "13",
+                "TOV": "14",
                 "PF": "4",
                 "PTS": "5"
             },
@@ -254,8 +272,8 @@
                 "PW": "37",
                 "PL": "23",
                 "MOV": "3.78",
-                "SOS": "0.72",
-                "SRS": "4.50",
+                "SOS": "0.73",
+                "SRS": "4.51",
                 "ORtg": "113.6",
                 "DRtg": "109.8",
                 "Pace": "98.6",
@@ -270,19 +288,19 @@
                 "Attendance": "523,726"
             },
             "Misc Lg Rank": {
-                "W": "7",
+                "W": "8",
                 "L": "23",
                 "PW": "7",
                 "PL": "7",
                 "MOV": "7",
-                "SOS": "6",
+                "SOS": "4",
                 "SRS": "6",
                 "ORtg": "16",
                 "DRtg": "3",
                 "Pace": "19",
                 "FTr": "13",
-                "3PAr": "27",
-                "eFG%": "3",
+                "3PAr": "28",
+                "eFG%": "2",
                 "TOV%": "13",
                 "ORB%": "1",
                 "FT/FGA": "14",
@@ -292,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/HOU-2025.png",
-        "last_update": "Mar 02 2025 22:32:21"
+        "last_update": "Mar 03 2025 22:32:22"
     }
 }

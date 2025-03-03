@@ -37,14 +37,14 @@
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Ankle) - Brogdon did not play in Saturday's (Mar. 1) game against the Hornets."
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Out (Ankle) - The Wizards listed Brogdon as OUT for Monday's (Mar. 3) game against Portland."
             },
             {
                 "Player": "Jordan Poole",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Elbow) - Poole did not play in Saturday's (Mar. 1) game against the Hornets."
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Out (Elbow) - The Wizards listed Poole as OUT for Monday's (Mar. 3) game against Portland."
             }
         ],
         "team_stats": {
@@ -100,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "27",
                 "FG": "26",
                 "FGA": "14",
                 "FG%": "27",
@@ -115,7 +115,7 @@
                 "FT%": "18",
                 "ORB": "23",
                 "DRB": "17",
-                "TRB": "21",
+                "TRB": "20",
                 "AST": "21",
                 "STL": "26",
                 "BLK": "13",
@@ -200,20 +200,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
-                "FG": "28",
+                "MP": "27",
+                "FG": "27",
                 "FGA": "26",
                 "FG%": "23",
                 "3P": "27",
                 "3PA": "25",
                 "3P%": "22",
-                "2P": "27",
+                "2P": "26",
                 "2PA": "23",
                 "2P%": "21",
                 "FT": "29",
                 "FTA": "27",
                 "FT%": "26",
-                "ORB": "27",
+                "ORB": "28",
                 "DRB": "29",
                 "TRB": "30",
                 "AST": "26",
@@ -254,8 +254,8 @@
                 "PW": "11",
                 "PL": "48",
                 "MOV": "-12.46",
-                "SOS": "0.87",
-                "SRS": "-11.59",
+                "SOS": "0.86",
+                "SRS": "-11.60",
                 "ORtg": "106.5",
                 "DRtg": "118.8",
                 "Pace": "101.4",
@@ -282,7 +282,7 @@
                 "Pace": "4",
                 "FTr": "25",
                 "3PAr": "12",
-                "eFG%": "25",
+                "eFG%": "24",
                 "TOV%": "25",
                 "ORB%": "23",
                 "FT/FGA": "24",
@@ -292,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/WAS-2025.png",
-        "last_update": "Mar 02 2025 22:32:21"
+        "last_update": "Mar 03 2025 22:32:22"
     }
 }

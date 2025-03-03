@@ -30,14 +30,20 @@
             {
                 "Player": "Jimmy Butler",
                 "Team": "Golden State Warriors",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Back) - Butler III did not play in Saturday's (Mar. 1) game against the 76ers."
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Day To Day (Back) - The Warriors listed Butler III as probable for Monday's (Mar. 3) game against Charlotte."
             },
             {
                 "Player": "Jonathan Kuminga",
                 "Team": "Golden State Warriors",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Ankle) - Kuminga did not play in Saturday's (Mar. 1) game against the 76ers."
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Out (Ankle) - The Warriors listed Kuminga as OUT for Monday's (Mar. 3) game against Charlotte."
+            },
+            {
+                "Player": "Quinten Post",
+                "Team": "Golden State Warriors",
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Day To Day (Ankle) - The Warriors listed Post as questionable for Monday's (Mar. 3) game against Charlotte."
             }
         ],
         "team_stats": {
@@ -93,28 +99,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "17",
                 "FGA": "5",
                 "FG%": "25",
                 "3P": "4",
                 "3PA": "3",
                 "3P%": "15",
-                "2P": "25",
+                "2P": "26",
                 "2PA": "23",
                 "2P%": "25",
                 "FT": "28",
                 "FTA": "25",
                 "FT%": "30",
                 "ORB": "3",
-                "DRB": "20",
+                "DRB": "19",
                 "TRB": "4",
-                "AST": "3",
-                "STL": "7",
+                "AST": "4",
+                "STL": "6",
                 "BLK": "15",
                 "TOV": "10",
                 "PF": "20",
-                "PTS": "15"
+                "PTS": "16"
             },
             "Year/Year": {
                 "G": "",
@@ -193,19 +199,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "8",
                 "FGA": "6",
                 "FG%": "13",
-                "3P": "12",
+                "3P": "11",
                 "3PA": "11",
-                "3P%": "21",
+                "3P%": "20",
                 "2P": "7",
                 "2PA": "10",
                 "2P%": "13",
                 "FT": "14",
                 "FTA": "16",
-                "FT%": "8",
+                "FT%": "7",
                 "ORB": "8",
                 "DRB": "23",
                 "TRB": "20",
@@ -213,8 +219,8 @@
                 "STL": "7",
                 "BLK": "26",
                 "TOV": "9",
-                "PF": "26",
-                "PTS": "11"
+                "PF": "25",
+                "PTS": "10"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -248,7 +254,7 @@
                 "PL": "27",
                 "MOV": "1.67",
                 "SOS": "0.61",
-                "SRS": "2.28",
+                "SRS": "2.27",
                 "ORtg": "113.9",
                 "DRtg": "112.2",
                 "Pace": "99.1",
@@ -263,7 +269,7 @@
                 "Attendance": "541,920"
             },
             "Misc Lg Rank": {
-                "W": "12",
+                "W": "13",
                 "L": "17",
                 "PW": "11",
                 "PL": "13",
@@ -272,10 +278,10 @@
                 "SRS": "9",
                 "ORtg": "15",
                 "DRtg": "9",
-                "Pace": "16",
+                "Pace": "15",
                 "FTr": "26",
                 "3PAr": "3",
-                "eFG%": "13",
+                "eFG%": "12",
                 "TOV%": "7",
                 "ORB%": "5",
                 "FT/FGA": "18",
@@ -285,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/GSW-2025.png",
-        "last_update": "Mar 02 2025 22:32:21"
+        "last_update": "Mar 03 2025 22:32:22"
     }
 }

@@ -30,10 +30,16 @@
         ],
         "injuries": [
             {
+                "Player": "Miles Bridges",
+                "Team": "Charlotte Hornets",
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Day To Day (Illness) - The Hornets listed Bridges as probable for Monday's (Mar. 3) game against Golden State."
+            },
+            {
                 "Player": "Seth Curry",
                 "Team": "Charlotte Hornets",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Back) - Curry did not play in Saturday's (Mar. 1) game against the Wizards."
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Day To Day (Back) - The Hornets listed Curry as probable for Monday's (Mar. 3) game against Golden State."
             },
             {
                 "Player": "Tre Mann",
@@ -50,20 +56,14 @@
             {
                 "Player": "Wendell Moore Jr.",
                 "Team": "Charlotte Hornets",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Concussion) - Moore Jr. did not play in Saturday's (Mar. 1) game against the Wizards."
-            },
-            {
-                "Player": "Jusuf Nurkić",
-                "Team": "Charlotte Hornets",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Illness) - Nurkic did not play in Saturday's (Mar. 1) game against the Wizards."
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Day To Day (Concussion) - The Hornets listed Moore Jr. as probable for Monday's (Mar. 3) game against Golden State."
             },
             {
                 "Player": "Josh Okogie",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Feb 28, 2025",
-                "Description": "Out (Hamstring) - Okogie is out for Saturday's (Mar. 1) game against the Wizards. Given that the Hornets haven't updated much about his progress, he could be considered week-to-week until further details emerge about his recovery process."
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Out (Hamstring) - The Hornets listed Okogie as OUT for Monday's (Mar. 3) game against Golden State."
             },
             {
                 "Player": "Grant Williams",
@@ -125,24 +125,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "25",
                 "FG": "28",
                 "FGA": "12",
                 "FG%": "30",
                 "3P": "13",
-                "3PA": "7",
+                "3PA": "8",
                 "3P%": "28",
                 "2P": "28",
-                "2PA": "17",
+                "2PA": "16",
                 "2P%": "30",
                 "FT": "29",
-                "FTA": "27",
+                "FTA": "28",
                 "FT%": "16",
                 "ORB": "4",
                 "DRB": "22",
                 "TRB": "6",
                 "AST": "27",
-                "STL": "15",
+                "STL": "16",
                 "BLK": "23",
                 "TOV": "21",
                 "PF": "19",
@@ -225,27 +225,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "25",
                 "FG": "11",
-                "FGA": "11",
-                "FG%": "17",
-                "3P": "17",
+                "FGA": "12",
+                "FG%": "16",
+                "3P": "16",
                 "3PA": "26",
-                "3P%": "3",
+                "3P%": "4",
                 "2P": "9",
                 "2PA": "5",
                 "2P%": "25",
                 "FT": "15",
                 "FTA": "14",
                 "FT%": "17",
-                "ORB": "14",
+                "ORB": "15",
                 "DRB": "22",
                 "TRB": "21",
                 "AST": "20",
                 "STL": "19",
                 "BLK": "24",
-                "TOV": "19",
-                "PF": "18",
+                "TOV": "18",
+                "PF": "19",
                 "PTS": "13"
             },
             "Opp Year/Year": {
@@ -279,8 +279,8 @@
                 "PW": "16",
                 "PL": "43",
                 "MOV": "-7.61",
-                "SOS": "-0.38",
-                "SRS": "-7.99",
+                "SOS": "-0.40",
+                "SRS": "-8.01",
                 "ORtg": "107.0",
                 "DRtg": "114.8",
                 "Pace": "97.7",
@@ -300,23 +300,23 @@
                 "PW": "29",
                 "PL": "28",
                 "MOV": "28",
-                "SOS": "20",
+                "SOS": "22",
                 "SRS": "29",
                 "ORtg": "29",
                 "DRtg": "15",
                 "Pace": "22",
-                "FTr": "27",
+                "FTr": "28",
                 "3PAr": "11",
-                "eFG%": "19",
+                "eFG%": "18",
                 "TOV%": "18",
                 "ORB%": "6",
                 "FT/FGA": "17",
-                "DRB%": "17",
+                "DRB%": "18",
                 "Arena": "",
                 "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CHO-2025.png",
-        "last_update": "Mar 02 2025 22:32:21"
+        "last_update": "Mar 03 2025 22:32:22"
     }
 }

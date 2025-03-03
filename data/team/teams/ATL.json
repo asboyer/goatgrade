@@ -50,6 +50,18 @@
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Feb 12, 2025",
                 "Description": "Out (Knee) - The Hawks announced on Wednesday (Feb. 12) that Nance Jr. will be re-evaluated in approximately six weeks, and an update will be provided at that time."
+            },
+            {
+                "Player": "Georges Niang",
+                "Team": "Atlanta Hawks",
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Out (Illness) - The Hawks listed Niang as OUT for Monday's (Mar. 3) game against Memphis."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as probable for Monday's (Mar. 3) game against Memphis."
             }
         ],
         "team_stats": {
@@ -105,7 +117,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "9",
                 "FGA": "6",
                 "FG%": "15",
@@ -117,13 +129,13 @@
                 "2P%": "18",
                 "FT": "2",
                 "FTA": "2",
-                "FT%": "23",
+                "FT%": "24",
                 "ORB": "8",
                 "DRB": "18",
                 "TRB": "11",
                 "AST": "2",
                 "STL": "2",
-                "BLK": "11",
+                "BLK": "12",
                 "TOV": "26",
                 "PF": "15",
                 "PTS": "8"
@@ -205,14 +217,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
-                "FG": "27",
+                "MP": "13",
+                "FG": "26",
                 "FGA": "20",
                 "FG%": "29",
                 "3P": "26",
-                "3PA": "19",
+                "3PA": "18",
                 "3P%": "28",
-                "2P": "28",
+                "2P": "27",
                 "2PA": "17",
                 "2P%": "26",
                 "FT": "21",
@@ -226,7 +238,7 @@
                 "BLK": "17",
                 "TOV": "3",
                 "PF": "3",
-                "PTS": "28"
+                "PTS": "27"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -259,8 +271,8 @@
                 "PW": "25",
                 "PL": "35",
                 "MOV": "-2.83",
-                "SOS": "0.10",
-                "SRS": "-2.73",
+                "SOS": "0.08",
+                "SRS": "-2.75",
                 "ORtg": "112.3",
                 "DRtg": "115.0",
                 "Pace": "103.2",
@@ -276,27 +288,27 @@
             },
             "Misc Lg Rank": {
                 "W": "20",
-                "L": "9",
+                "L": "11",
                 "PW": "21",
                 "PL": "21",
                 "MOV": "21",
-                "SOS": "11",
+                "SOS": "14",
                 "SRS": "21",
                 "ORtg": "21",
-                "DRtg": "19",
+                "DRtg": "18",
                 "Pace": "2",
                 "FTr": "4",
                 "3PAr": "18",
                 "eFG%": "28",
                 "TOV%": "6",
-                "ORB%": "11",
+                "ORB%": "12",
                 "FT/FGA": "19",
                 "DRB%": "6",
                 "Arena": "",
-                "Attendance": "29"
+                "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/ATL-2025.png",
-        "last_update": "Mar 02 2025 22:32:21"
+        "last_update": "Mar 03 2025 22:32:22"
     }
 }

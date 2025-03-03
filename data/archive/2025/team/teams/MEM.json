@@ -29,34 +29,22 @@
         ],
         "injuries": [
             {
-                "Player": "Desmond Bane",
+                "Player": "Yuki Kawamura",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Hip) - Bane did not play in Saturday's (Mar. 1) game against the Spurs."
-            },
-            {
-                "Player": "Brandon Clarke",
-                "Team": "Memphis Grizzlies",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Lip) - Clarke did not play in Saturday's (Mar. 1) game against the Spurs."
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Out (Hamstring) - The Grizzlies listed Kawamura as OUT for Monday's (Mar. 3) game against Atlanta."
             },
             {
                 "Player": "Ja Morant",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Shoulder) - Morant did not play in Saturday's (Mar. 1) game against the Spurs."
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Day To Day (Shoulder) - The Grizzlies listed Morant as questionable for Monday's (Mar. 3) game against Atlanta."
             },
             {
                 "Player": "Zyon Pullin",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Knee) - Pullin did not play in Saturday's (Mar. 1) game against the Spurs."
-            },
-            {
-                "Player": "Vince Williams Jr.",
-                "Team": "Memphis Grizzlies",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Knee) - Williams Jr. did not play in Saturday's (Mar. 1) game against the Spurs."
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Out (Knee) - The Grizzlies listed Pullin as OUT for Monday's (Mar. 3) game against Atlanta."
             }
         ],
         "team_stats": {
@@ -112,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "18",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "5",
@@ -124,11 +112,11 @@
                 "2P%": "7",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "21",
+                "FT%": "20",
                 "ORB": "2",
                 "DRB": "5",
                 "TRB": "2",
-                "AST": "4",
+                "AST": "6",
                 "STL": "8",
                 "BLK": "3",
                 "TOV": "29",
@@ -212,8 +200,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
-                "FG": "21",
+                "MP": "18",
+                "FG": "20",
                 "FGA": "27",
                 "FG%": "6",
                 "3P": "23",
@@ -223,9 +211,9 @@
                 "2PA": "22",
                 "2P%": "7",
                 "FT": "27",
-                "FTA": "28",
+                "FTA": "29",
                 "FT%": "2",
-                "ORB": "23",
+                "ORB": "24",
                 "DRB": "3",
                 "TRB": "12",
                 "AST": "21",
@@ -267,7 +255,7 @@
                 "PL": "19",
                 "MOV": "6.43",
                 "SOS": "-0.45",
-                "SRS": "5.99",
+                "SRS": "5.98",
                 "ORtg": "118.2",
                 "DRtg": "112.0",
                 "Pace": "104.0",
@@ -300,10 +288,10 @@
                 "FT/FGA": "22",
                 "DRB%": "21",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MEM-2025.png",
-        "last_update": "Mar 02 2025 22:32:21"
+        "last_update": "Mar 03 2025 22:32:22"
     }
 }

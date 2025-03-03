@@ -35,6 +35,12 @@
                 "Description": "Out For Season (Knee) - The 76ers announced that Embiid will miss the remainder of the 2024-2025 season."
             },
             {
+                "Player": "Paul George",
+                "Team": "Philadelphia 76ers",
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Day To Day (Groin) - The 76ers listed George as questionable for Monday's (Mar. 3) game against Portland."
+            },
+            {
                 "Player": "Eric Gordon",
                 "Team": "Philadelphia 76ers",
                 "Update": "Thu, Feb 27, 2025",
@@ -43,8 +49,8 @@
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Hip) - Lowry did not play in Saturday's (Mar. 1) game against the Warriors."
+                "Update": "Sun, Mar 2, 2025",
+                "Description": "Out (Hip) - The 76ers listed Lowry as OUT for Monday's (Mar. 3) game against Portland."
             },
             {
                 "Player": "Jared McCain",
@@ -106,27 +112,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "24",
                 "FG": "27",
                 "FGA": "26",
                 "FG%": "22",
                 "3P": "21",
                 "3PA": "17",
-                "3P%": "24",
+                "3P%": "25",
                 "2P": "22",
                 "2PA": "20",
-                "2P%": "20",
+                "2P%": "21",
                 "FT": "4",
                 "FTA": "7",
                 "FT%": "11",
                 "ORB": "24",
                 "DRB": "30",
                 "TRB": "30",
-                "AST": "29",
+                "AST": "28",
                 "STL": "4",
                 "BLK": "28",
-                "TOV": "5",
-                "PF": "23",
+                "TOV": "6",
+                "PF": "22",
                 "PTS": "26"
             },
             "Year/Year": {
@@ -206,18 +212,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "24",
                 "FG": "14",
                 "FGA": "3",
                 "FG%": "30",
-                "3P": "19",
+                "3P": "17",
                 "3PA": "12",
                 "3P%": "26",
-                "2P": "12",
-                "2PA": "2",
+                "2P": "11",
+                "2PA": "3",
                 "2P%": "30",
-                "FT": "17",
-                "FTA": "12",
+                "FT": "18",
+                "FTA": "13",
                 "FT%": "29",
                 "ORB": "9",
                 "DRB": "21",
@@ -226,7 +232,7 @@
                 "STL": "4",
                 "BLK": "20",
                 "TOV": "2",
-                "PF": "10",
+                "PF": "9",
                 "PTS": "17"
             },
             "Opp Year/Year": {
@@ -260,8 +266,8 @@
                 "PW": "22",
                 "PL": "37",
                 "MOV": "-4.37",
-                "SOS": "0.11",
-                "SRS": "-4.27",
+                "SOS": "0.09",
+                "SRS": "-4.29",
                 "ORtg": "112.0",
                 "DRtg": "116.5",
                 "Pace": "96.8",
@@ -279,25 +285,25 @@
                 "W": "24",
                 "L": "7",
                 "PW": "24",
-                "PL": "24",
+                "PL": "22",
                 "MOV": "24",
-                "SOS": "10",
+                "SOS": "13",
                 "SRS": "24",
                 "ORtg": "23",
-                "DRtg": "26",
-                "Pace": "27",
+                "DRtg": "25",
+                "Pace": "26",
                 "FTr": "3",
                 "3PAr": "14",
                 "eFG%": "30",
                 "TOV%": "3",
-                "ORB%": "24",
+                "ORB%": "25",
                 "FT/FGA": "23",
-                "DRB%": "27",
+                "DRB%": "26",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHI-2025.png",
-        "last_update": "Mar 02 2025 22:32:21"
+        "last_update": "Mar 03 2025 22:32:22"
     }
 }
