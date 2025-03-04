@@ -24,7 +24,8 @@
             "Quenton Jackson",
             "James Johnson",
             "RayJ Dennis",
-            "Isaiah Jackson"
+            "Isaiah Jackson",
+            "Tony Bradley"
         ],
         "injuries": [
             {
@@ -36,8 +37,8 @@
             {
                 "Player": "Bennedict Mathurin",
                 "Team": "Indiana Pacers",
-                "Update": "Sun, Mar 2, 2025",
-                "Description": "Out (Wrist) - Head coach Rick Carlisle said Sunday that Mathurin (wrist) can be considered day-to-day moving forward, Tony East of WTHR Channel 13 Indianapolis reports."
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Day To Day (Wrist) - The Pacers listed Mathurin as doubtful for Tuesday's (Mar. 4) game against Houston."
             }
         ],
         "team_stats": {
@@ -93,9 +94,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "6",
-                "FGA": "20",
+                "FGA": "19",
                 "FG%": "4",
                 "3P": "18",
                 "3PA": "26",
@@ -109,10 +110,10 @@
                 "ORB": "29",
                 "DRB": "23",
                 "TRB": "29",
-                "AST": "3",
-                "STL": "10",
-                "BLK": "9",
-                "TOV": "5",
+                "AST": "5",
+                "STL": "9",
+                "BLK": "10",
+                "TOV": "6",
                 "PF": "16",
                 "PTS": "9"
             },
@@ -193,14 +194,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "23",
                 "FGA": "15",
                 "FG%": "25",
                 "3P": "7",
                 "3PA": "7",
-                "3P%": "14",
-                "2P": "28",
+                "3P%": "13",
+                "2P": "27",
                 "2PA": "21",
                 "2P%": "22",
                 "FT": "20",
@@ -214,7 +215,7 @@
                 "BLK": "6",
                 "TOV": "11",
                 "PF": "21",
-                "PTS": "20"
+                "PTS": "21"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +248,8 @@
                 "PW": "32",
                 "PL": "27",
                 "MOV": "1.27",
-                "SOS": "-0.63",
-                "SRS": "0.64",
+                "SOS": "-0.61",
+                "SRS": "0.66",
                 "ORtg": "116.3",
                 "DRtg": "115.0",
                 "Pace": "99.7",
@@ -263,19 +264,19 @@
                 "Attendance": "473,174"
             },
             "Misc Lg Rank": {
-                "W": "9",
+                "W": "10",
                 "L": "21",
                 "PW": "16",
                 "PL": "14",
-                "MOV": "16",
+                "MOV": "15",
                 "SOS": "27",
                 "SRS": "16",
-                "ORtg": "7",
-                "DRtg": "19",
-                "Pace": "8",
+                "ORtg": "8",
+                "DRtg": "18",
+                "Pace": "9",
                 "FTr": "18",
                 "3PAr": "24",
-                "eFG%": "22",
+                "eFG%": "23",
                 "TOV%": "11",
                 "ORB%": "29",
                 "FT/FGA": "20",
@@ -285,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/IND-2025.png",
-        "last_update": "Mar 03 2025 22:32:22"
+        "last_update": "Mar 04 2025 22:32:17"
     }
 }

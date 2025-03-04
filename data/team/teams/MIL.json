@@ -20,18 +20,36 @@
             "Pat Connaughton",
             "Stanley Umude",
             "Tyler Smith",
-            "Liam Robbins",
             "Chris Livingston",
             "Kyle Kuzma",
             "Kevin Porter Jr.",
-            "Jericho Sims"
+            "Jericho Sims",
+            "Pete Nance"
         ],
         "injuries": [
             {
+                "Player": "Giannis Antetokounmpo",
+                "Team": "Milwaukee Bucks",
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Day To Day (Calf) - The Bucks listed Antetokounmpo as Probable for Tuesday's (Mar. 4) game against Atlanta."
+            },
+            {
                 "Player": "Pat Connaughton",
                 "Team": "Milwaukee Bucks",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Day To Day (Calf) - Connaughton did not play in Saturday's (Mar. 1) game against the Mavericks."
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Out (Calf) - The Bucks listed Connaughton as OUT for Tuesday's (Mar. 4) game against Atlanta."
+            },
+            {
+                "Player": "Kyle Kuzma",
+                "Team": "Milwaukee Bucks",
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Day To Day (Ankle) - The Bucks listed Kuzma as Doubtful for Tuesday's (Mar. 4) game against Atlanta."
+            },
+            {
+                "Player": "Pete Nance",
+                "Team": "Milwaukee Bucks",
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Out (Ankle) - The Bucks listed Nance as OUT for Tuesday's (Mar. 4) game against Atlanta."
             }
         ],
         "team_stats": {
@@ -88,22 +106,22 @@
             "Lg Rank": {
                 "G": "",
                 "MP": "29",
-                "FG": "12",
+                "FG": "13",
                 "FGA": "23",
                 "FG%": "7",
                 "3P": "6",
-                "3PA": "16",
+                "3PA": "15",
                 "3P%": "2",
                 "2P": "18",
                 "2PA": "21",
-                "2P%": "11",
+                "2P%": "12",
                 "FT": "20",
                 "FTA": "11",
-                "FT%": "28",
+                "FT%": "29",
                 "ORB": "30",
                 "DRB": "1",
                 "TRB": "17",
-                "AST": "21",
+                "AST": "22",
                 "STL": "27",
                 "BLK": "16",
                 "TOV": "8",
@@ -188,13 +206,13 @@
             "Opp Lg Rank": {
                 "G": "",
                 "MP": "29",
-                "FG": "11",
+                "FG": "12",
                 "FGA": "21",
                 "FG%": "2",
                 "3P": "17",
-                "3PA": "24",
+                "3PA": "25",
                 "3P%": "5",
-                "2P": "8",
+                "2P": "9",
                 "2PA": "16",
                 "2P%": "6",
                 "FT": "11",
@@ -207,7 +225,7 @@
                 "STL": "8",
                 "BLK": "2",
                 "TOV": "27",
-                "PF": "16",
+                "PF": "15",
                 "PTS": "12"
             },
             "Opp Year/Year": {
@@ -257,28 +275,28 @@
                 "Attendance": "521,651"
             },
             "Misc Lg Rank": {
-                "W": "9",
+                "W": "10",
                 "L": "21",
-                "PW": "13",
+                "PW": "14",
                 "PL": "9",
-                "MOV": "10",
+                "MOV": "11",
                 "SOS": "29",
-                "SRS": "13",
+                "SRS": "15",
                 "ORtg": "12",
                 "DRtg": "11",
                 "Pace": "10",
-                "FTr": "7",
+                "FTr": "8",
                 "3PAr": "13",
                 "eFG%": "4",
                 "TOV%": "27",
                 "ORB%": "30",
-                "FT/FGA": "11",
-                "DRB%": "7",
+                "FT/FGA": "12",
+                "DRB%": "6",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MIL-2025.png",
-        "last_update": "Mar 03 2025 22:32:22"
+        "last_update": "Mar 04 2025 22:32:17"
     }
 }

@@ -23,14 +23,15 @@
             "Herbert Jones",
             "Bruce Brown",
             "Kelly Olynyk",
-            "Keion Brooks Jr."
+            "Keion Brooks Jr.",
+            "Lester Quiñones"
         ],
         "injuries": [
             {
                 "Player": "Brandon Boston Jr.",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Out (Ankle) - The Pelicans listed Boston Jr. as OUT for Sunday's (Mar. 2) game against the Jazz."
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Day To Day (Ankle) - The Pelicans listed Boston Jr. as questionable for Tuesday's (Mar. 4) game against Los Angeles."
             },
             {
                 "Player": "Herbert Jones",
@@ -98,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "12",
                 "FG": "20",
                 "FGA": "8",
                 "FG%": "24",
@@ -116,7 +117,7 @@
                 "TRB": "23",
                 "AST": "19",
                 "STL": "5",
-                "BLK": "7",
+                "BLK": "8",
                 "TOV": "16",
                 "PF": "8",
                 "PTS": "21"
@@ -198,20 +199,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
-                "FG": "29",
+                "MP": "12",
+                "FG": "28",
                 "FGA": "23",
                 "FG%": "28",
-                "3P": "29",
+                "3P": "30",
                 "3PA": "29",
                 "3P%": "23",
-                "2P": "24",
+                "2P": "23",
                 "2PA": "12",
-                "2P%": "29",
+                "2P%": "28",
                 "FT": "8",
                 "FTA": "8",
                 "FT%": "19",
-                "ORB": "25",
+                "ORB": "23",
                 "DRB": "27",
                 "TRB": "27",
                 "AST": "27",
@@ -272,11 +273,11 @@
                 "L": "4",
                 "PW": "28",
                 "PL": "29",
-                "MOV": "29",
-                "SOS": "5",
+                "MOV": "28",
+                "SOS": "6",
                 "SRS": "28",
                 "ORtg": "25",
-                "DRtg": "28",
+                "DRtg": "29",
                 "Pace": "12",
                 "FTr": "16",
                 "3PAr": "26",
@@ -286,10 +287,10 @@
                 "FT/FGA": "8",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NOP-2025.png",
-        "last_update": "Mar 03 2025 22:32:22"
+        "last_update": "Mar 04 2025 22:32:17"
     }
 }

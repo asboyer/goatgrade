@@ -2,7 +2,7 @@
     "MIN": {
         "info": {
             "record": "33-29",
-            "standing": "8th in West",
+            "standing": "9th in West",
             "coach": "Chris Finch (33-29)",
             "gm": "Tim Connelly",
             "preseason_odds": "+850"
@@ -24,7 +24,8 @@
             "Joe Ingles",
             "Leonard Miller",
             "Tristen Newton",
-            "Jesse Edwards"
+            "Jesse Edwards",
+            "Bones Hyland"
         ],
         "injuries": [
             {
@@ -32,6 +33,12 @@
                 "Team": "Minnesota Timberwolves",
                 "Update": "Fri, Feb 28, 2025",
                 "Description": "Out (Back) - Timberwolves HC Finch said Gobert is close to playing in games, but no formal target date established, according to Charlie Walton of ZoneCoverage.com."
+            },
+            {
+                "Player": "Julius Randle",
+                "Team": "Minnesota Timberwolves",
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Day To Day (Groin) - The Timberwolves listed Randle as questionable for Tuesday's (Mar. 4) game against Philadelphia."
             }
         ],
         "team_stats": {
@@ -87,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "24",
                 "FGA": "22",
                 "FG%": "21",
@@ -96,13 +103,13 @@
                 "3P%": "5",
                 "2P": "27",
                 "2PA": "28",
-                "2P%": "23",
-                "FT": "13",
-                "FTA": "15",
+                "2P%": "24",
+                "FT": "11",
+                "FTA": "14",
                 "FT%": "8",
                 "ORB": "16",
-                "DRB": "20",
-                "TRB": "16",
+                "DRB": "19",
+                "TRB": "15",
                 "AST": "20",
                 "STL": "15",
                 "BLK": "17",
@@ -187,13 +194,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "6",
                 "FGA": "8",
                 "FG%": "7",
                 "3P": "4",
                 "3PA": "8",
-                "3P%": "7",
+                "3P%": "6",
                 "2P": "10",
                 "2PA": "15",
                 "2P%": "9",
@@ -205,10 +212,10 @@
                 "TRB": "13",
                 "AST": "4",
                 "STL": "21",
-                "BLK": "14",
+                "BLK": "15",
                 "TOV": "12",
-                "PF": "10",
-                "PTS": "6"
+                "PF": "9",
+                "PTS": "5"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -241,8 +248,8 @@
                 "PW": "37",
                 "PL": "25",
                 "MOV": "3.05",
-                "SOS": "1.01",
-                "SRS": "4.06",
+                "SOS": "1.04",
+                "SRS": "4.09",
                 "ORtg": "114.4",
                 "DRtg": "111.3",
                 "Pace": "97.5",
@@ -258,7 +265,7 @@
             },
             "Misc Lg Rank": {
                 "W": "12",
-                "L": "15",
+                "L": "16",
                 "PW": "8",
                 "PL": "8",
                 "MOV": "8",
@@ -269,16 +276,16 @@
                 "Pace": "24",
                 "FTr": "12",
                 "3PAr": "4",
-                "eFG%": "8",
-                "TOV%": "9",
+                "eFG%": "7",
+                "TOV%": "10",
                 "ORB%": "15",
                 "FT/FGA": "9",
                 "DRB%": "19",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MIN-2025.png",
-        "last_update": "Mar 03 2025 22:32:22"
+        "last_update": "Mar 04 2025 22:32:17"
     }
 }

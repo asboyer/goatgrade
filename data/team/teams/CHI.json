@@ -31,8 +31,8 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Sun, Mar 2, 2025",
-                "Description": "Out (Wrist) - The Bulls listed Ball as OUT for Sunday's (Mar. 2) game against Indiana."
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Day To Day (Wrist) - The Bulls listed Ball as questionable for Tuesday's (Mar. 4) game against Cleveland."
             },
             {
                 "Player": "Ayo Dosunmu",
@@ -41,16 +41,28 @@
                 "Description": "Out For Season (Shoulder) - The Bulls announced Dosunmu will undergo surgery and be out for the remainder of the season."
             },
             {
+                "Player": "Josh Giddey",
+                "Team": "Chicago Bulls",
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Day To Day (Quadricep) - The Bulls listed Giddey as questionable for Tuesday's (Mar. 4) game against Cleveland."
+            },
+            {
                 "Player": "Kevin Huerter",
                 "Team": "Chicago Bulls",
-                "Update": "Sun, Mar 2, 2025",
-                "Description": "Out (Knee) - The Bulls listed Huerter as OUT for Sunday's (Mar. 2) game against the Pacers."
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Day To Day (Knee) - The Bulls listed Ball as questionable for Tuesday's (Mar. 4) game against Cleveland."
             },
             {
                 "Player": "Nikola Vučević",
                 "Team": "Chicago Bulls",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Out (Calf) - The Bulls listed Vucevic as OUT for Sunday's (Mar. 2) game against Indiana."
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Out (Calf) - The Bulls listed Vucevic as OUT for Tuesday's (Mar. 4) game against Cleveland."
+            },
+            {
+                "Player": "Coby White",
+                "Team": "Chicago Bulls",
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Day To Day (Thumb) - The Bulls listed White as probable for Tuesday's (Mar. 4) game against Cleveland."
             },
             {
                 "Player": "Patrick Williams",
@@ -112,13 +124,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
-                "FG": "8",
+                "MP": "12",
+                "FG": "9",
                 "FGA": "4",
                 "FG%": "16",
                 "3P": "3",
                 "3PA": "2",
-                "3P%": "10",
+                "3P%": "11",
                 "2P": "20",
                 "2PA": "24",
                 "2P%": "14",
@@ -130,7 +142,7 @@
                 "TRB": "9",
                 "AST": "8",
                 "STL": "25",
-                "BLK": "20",
+                "BLK": "19",
                 "TOV": "20",
                 "PF": "7",
                 "PTS": "10"
@@ -212,7 +224,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "12",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "22",
@@ -221,9 +233,9 @@
                 "3P%": "2",
                 "2P": "30",
                 "2PA": "29",
-                "2P%": "24",
-                "FT": "16",
-                "FTA": "12",
+                "2P%": "25",
+                "FT": "14",
+                "FTA": "13",
                 "FT%": "21",
                 "ORB": "14",
                 "DRB": "30",
@@ -266,8 +278,8 @@
                 "PW": "23",
                 "PL": "38",
                 "MOV": "-3.97",
-                "SOS": "-0.25",
-                "SRS": "-4.21",
+                "SOS": "-0.23",
+                "SRS": "-4.20",
                 "ORtg": "112.7",
                 "DRtg": "116.5",
                 "Pace": "102.8",
@@ -284,13 +296,13 @@
             "Misc Lg Rank": {
                 "W": "23",
                 "L": "8",
-                "PW": "22",
-                "PL": "23",
+                "PW": "23",
+                "PL": "22",
                 "MOV": "23",
                 "SOS": "16",
                 "SRS": "23",
                 "ORtg": "19",
-                "DRtg": "26",
+                "DRtg": "25",
                 "Pace": "3",
                 "FTr": "30",
                 "3PAr": "2",
@@ -298,12 +310,12 @@
                 "TOV%": "29",
                 "ORB%": "27",
                 "FT/FGA": "7",
-                "DRB%": "8",
+                "DRB%": "7",
                 "Arena": "",
-                "Attendance": "1"
+                "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CHI-2025.png",
-        "last_update": "Mar 03 2025 22:32:22"
+        "last_update": "Mar 04 2025 22:32:17"
     }
 }

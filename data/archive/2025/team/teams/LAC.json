@@ -2,7 +2,7 @@
     "LAC": {
         "info": {
             "record": "32-28",
-            "standing": "6th in West",
+            "standing": "7th in West",
             "coach": "Tyronn Lue (32-28)",
             "gm": "Lawrence Frank",
             "preseason_odds": "+3000"
@@ -16,7 +16,6 @@
             "Kris Dunn",
             "Norman Powell",
             "Jordan Miller",
-            "Kai Jones",
             "Kobe Brown",
             "Kawhi Leonard",
             "Bogdan Bogdanović",
@@ -24,21 +23,28 @@
             "Cam Christie",
             "Ben Simmons",
             "Patty Mills",
-            "MarJon Beauchamp",
-            "Trentyn Flowers"
+            "Trentyn Flowers",
+            "Patrick Baldwin Jr.",
+            "Seth Lundy"
         ],
         "injuries": [
             {
                 "Player": "Derrick Jones Jr.",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sat, Mar 1, 2025",
-                "Description": "Out (Knee) - The Clippers listed Jones Jr. as OUT for Sunday's (Mar. 2) game against the Lakers."
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Out (Knee) - The Clippers listed Jones Jr. as OUT for Tuesday's (Mar. 4) game against Phoenix."
+            },
+            {
+                "Player": "Norman Powell",
+                "Team": "Los Angeles Clippers",
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Out (Hamstring) - The Clippers listed Powell as OUT for Tuesday's (Mar. 4) game against Phoenix."
             },
             {
                 "Player": "Ben Simmons",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sun, Mar 2, 2025",
-                "Description": "Out (Knee) - The Clippers listed Simmons as OUT for Sunday's (Mar. 2) game against the Lakers."
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Out (Knee) - The Clippers listed Simmons as OUT for Tuesday's (Mar. 4) game against Phoenix."
             }
         ],
         "team_stats": {
@@ -94,16 +100,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "22",
                 "FG": "21",
                 "FGA": "25",
                 "FG%": "13",
-                "3P": "26",
+                "3P": "27",
                 "3PA": "27",
                 "3P%": "16",
                 "2P": "15",
                 "2PA": "14",
-                "2P%": "17",
+                "2P%": "16",
                 "FT": "14",
                 "FTA": "16",
                 "FT%": "9",
@@ -115,7 +121,7 @@
                 "BLK": "24",
                 "TOV": "25",
                 "PF": "14",
-                "PTS": "22"
+                "PTS": "23"
             },
             "Year/Year": {
                 "G": "",
@@ -194,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "22",
                 "FG": "3",
                 "FGA": "4",
                 "FG%": "9",
@@ -211,8 +217,8 @@
                 "DRB": "10",
                 "TRB": "5",
                 "AST": "6",
-                "STL": "25",
-                "BLK": "7",
+                "STL": "26",
+                "BLK": "8",
                 "TOV": "5",
                 "PF": "28",
                 "PTS": "4"
@@ -248,8 +254,8 @@
                 "PW": "34",
                 "PL": "26",
                 "MOV": "2.02",
-                "SOS": "0.12",
-                "SRS": "2.13",
+                "SOS": "0.11",
+                "SRS": "2.12",
                 "ORtg": "112.2",
                 "DRtg": "110.1",
                 "Pace": "98.1",
@@ -264,17 +270,17 @@
                 "Attendance": "465,287"
             },
             "Misc Lg Rank": {
-                "W": "13",
+                "W": "14",
                 "L": "17",
-                "PW": "9",
+                "PW": "11",
                 "PL": "10",
                 "MOV": "9",
                 "SOS": "12",
                 "SRS": "10",
-                "ORtg": "22",
+                "ORtg": "21",
                 "DRtg": "4",
                 "Pace": "20",
-                "FTr": "15",
+                "FTr": "14",
                 "3PAr": "23",
                 "eFG%": "11",
                 "TOV%": "5",
@@ -286,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAC-2025.png",
-        "last_update": "Mar 03 2025 22:32:22"
+        "last_update": "Mar 04 2025 22:32:17"
     }
 }

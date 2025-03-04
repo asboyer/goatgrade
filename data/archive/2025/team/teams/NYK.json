@@ -19,8 +19,6 @@
             "Tyler Kolek",
             "Landry Shamet",
             "Ariel Hukporti",
-            "Matt Ryan",
-            "Jacob Toppin",
             "Pacome Dadiet",
             "Delon Wright",
             "Mitchell Robinson",
@@ -32,6 +30,12 @@
                 "Team": "New York Knicks",
                 "Update": "Thu, Feb 27, 2025",
                 "Description": "Out (Knee) - Hukporti will miss the next four to six weeks for the Knicks after suffering a torn meniscus in his left knee, according to Shams Charania of ESPN."
+            },
+            {
+                "Player": "Karl-Anthony Towns",
+                "Team": "New York Knicks",
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Day To Day (Personal) - The Knicks listed Towns as questionable for Tuesday's (Mar. 4) game against Golden State."
             }
         ],
         "team_stats": {
@@ -87,7 +91,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "20",
                 "FG": "5",
                 "FGA": "17",
                 "FG%": "3",
@@ -104,7 +108,7 @@
                 "DRB": "24",
                 "TRB": "24",
                 "AST": "11",
-                "STL": "21",
+                "STL": "20",
                 "BLK": "29",
                 "TOV": "3",
                 "PF": "5",
@@ -187,26 +191,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "20",
                 "FG": "20",
                 "FGA": "13",
                 "FG%": "24",
                 "3P": "15",
                 "3PA": "6",
-                "3P%": "29",
+                "3P%": "30",
                 "2P": "20",
                 "2PA": "19",
-                "2P%": "16",
+                "2P%": "17",
                 "FT": "4",
                 "FTA": "4",
                 "FT%": "27",
-                "ORB": "10",
+                "ORB": "9",
                 "DRB": "2",
                 "TRB": "2",
                 "AST": "12",
                 "STL": "3",
                 "BLK": "16",
-                "TOV": "19",
+                "TOV": "18",
                 "PF": "12",
                 "PTS": "14"
             },
@@ -265,20 +269,20 @@
                 "SOS": "28",
                 "SRS": "8",
                 "ORtg": "3",
-                "DRtg": "20",
+                "DRtg": "19",
                 "Pace": "25",
-                "FTr": "21",
+                "FTr": "22",
                 "3PAr": "27",
                 "eFG%": "25",
                 "TOV%": "16",
-                "ORB%": "11",
+                "ORB%": "12",
                 "FT/FGA": "4",
-                "DRB%": "16",
+                "DRB%": "17",
                 "Arena": "",
                 "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NYK-2025.png",
-        "last_update": "Mar 03 2025 22:32:22"
+        "last_update": "Mar 04 2025 22:32:17"
     }
 }

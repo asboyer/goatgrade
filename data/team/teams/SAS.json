@@ -31,14 +31,14 @@
             {
                 "Player": "Charles Bassey",
                 "Team": "San Antonio Spurs",
-                "Update": "Sun, Mar 2, 2025",
-                "Description": "Out (Knee) - The Spurs list Bassey as OUT for Sunday's (Mar. 2) game against Oklahoma City."
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Out (Knee) - The Spurs listed Bassey as OUT for Tuesday's (Mar. 4) game against Brooklyn."
             },
             {
-                "Player": "Jeremy Sochan",
+                "Player": "Stephon Castle",
                 "Team": "San Antonio Spurs",
-                "Update": "Wed, Feb 26, 2025",
-                "Description": "Day To Day (Head) - Sochan sustained a hit to the head and has precautionarily been ruled out for the remainder of Wednesday's (Feb. 26) game against the Rockets, as per Michael C. Wright of ESPN.com"
+                "Update": "Mon, Mar 3, 2025",
+                "Description": "Out (Thumb) - The Spurs listed Castle as Questionable for Tuesday's (Mar. 4) game against Brooklyn."
             },
             {
                 "Player": "Victor Wembanyama",
@@ -100,28 +100,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "16",
-                "FGA": "13",
+                "FGA": "12",
                 "FG%": "18",
                 "3P": "12",
                 "3PA": "6",
-                "3P%": "24",
+                "3P%": "23",
                 "2P": "17",
                 "2PA": "19",
-                "2P%": "12",
+                "2P%": "13",
                 "FT": "22",
                 "FTA": "21",
                 "FT%": "15",
                 "ORB": "17",
                 "DRB": "12",
                 "TRB": "14",
-                "AST": "5",
-                "STL": "13",
+                "AST": "6",
+                "STL": "14",
                 "BLK": "1",
                 "TOV": "14",
                 "PF": "3",
-                "PTS": "15"
+                "PTS": "16"
             },
             "Year/Year": {
                 "G": "",
@@ -200,28 +200,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "25",
                 "FGA": "29",
                 "FG%": "18",
                 "3P": "17",
-                "3PA": "17",
+                "3PA": "18",
                 "3P%": "12",
                 "2P": "29",
                 "2PA": "28",
-                "2P%": "19",
+                "2P%": "20",
                 "FT": "2",
                 "FTA": "3",
                 "FT%": "20",
-                "ORB": "29",
+                "ORB": "30",
                 "DRB": "26",
                 "TRB": "28",
-                "AST": "18",
+                "AST": "17",
                 "STL": "16",
                 "BLK": "10",
                 "TOV": "22",
                 "PF": "27",
-                "PTS": "19"
+                "PTS": "20"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -272,7 +272,7 @@
             "Misc Lg Rank": {
                 "W": "22",
                 "L": "9",
-                "PW": "20",
+                "PW": "21",
                 "PL": "18",
                 "MOV": "20",
                 "SOS": "9",
@@ -280,18 +280,18 @@
                 "ORtg": "17",
                 "DRtg": "23",
                 "Pace": "11",
-                "FTr": "22",
+                "FTr": "23",
                 "3PAr": "9",
-                "eFG%": "13",
+                "eFG%": "14",
                 "TOV%": "23",
                 "ORB%": "22",
                 "FT/FGA": "1",
-                "DRB%": "27",
+                "DRB%": "26",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/SAS-2025.png",
-        "last_update": "Mar 03 2025 22:32:22"
+        "last_update": "Mar 04 2025 22:32:17"
     }
 }
