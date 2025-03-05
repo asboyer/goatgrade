@@ -23,6 +23,7 @@
             "Dante Exum",
             "Max Christie",
             "Anthony Davis",
+            "Kai Jones",
             "Caleb Martin"
         ],
         "injuries": [
@@ -41,14 +42,14 @@
             {
                 "Player": "Jaden Hardy",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Ankle) - Jaden Hardy (right ankle sprain) will not return to tonight's game against the Kings."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Out (Ankle) - Hardy will be out for a period of time after he sustained an ankle sprain during Monday's (Mar. 3) loss to the Kings, league sources told Senior NBA Insider Chris Haynes."
             },
             {
                 "Player": "Kyrie Irving",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Knee) - Irving won't return to Monday's matchup against the Kings due to a sprained left knee"
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Out For Season (Knee) - Irving suffered a torn ACL during Monday's (Mar. 3) game against the Kings and will miss the rest of the season, per Shams Charania of ESPN."
             },
             {
                 "Player": "Dereck Lively II",
@@ -59,14 +60,14 @@
             {
                 "Player": "Caleb Martin",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Hip) - Martin did not play in Monday's (Mar. 3) game against Sacramento."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Day To Day (Hip) - Martin did not play in Monday's (Mar. 3) game against the Kings."
             },
             {
                 "Player": "P.J. Washington",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Ankle) - Washington Jr. did not play in Monday's (Mar. 3) game against Sacramento."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Day To Day (Ankle) - Washington Jr. did not play in Monday's (Mar. 3) game against the Kings."
             }
         ],
         "team_stats": {
@@ -122,11 +123,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "10",
                 "FG": "11",
                 "FGA": "20",
                 "FG%": "12",
-                "3P": "16",
+                "3P": "17",
                 "3PA": "22",
                 "3P%": "9",
                 "2P": "11",
@@ -136,9 +137,9 @@
                 "FTA": "6",
                 "FT%": "22",
                 "ORB": "20",
-                "DRB": "17",
+                "DRB": "16",
                 "TRB": "16",
-                "AST": "21",
+                "AST": "22",
                 "STL": "19",
                 "BLK": "4",
                 "TOV": "13",
@@ -222,27 +223,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "10",
                 "FG": "19",
                 "FGA": "24",
                 "FG%": "8",
                 "3P": "6",
                 "3PA": "5",
-                "3P%": "15",
+                "3P%": "17",
                 "2P": "24",
                 "2PA": "30",
                 "2P%": "4",
                 "FT": "12",
                 "FTA": "12",
-                "FT%": "13",
+                "FT%": "14",
                 "ORB": "29",
-                "DRB": "13",
-                "TRB": "22",
-                "AST": "18",
+                "DRB": "14",
+                "TRB": "23",
+                "AST": "16",
                 "STL": "11",
                 "BLK": "11",
                 "TOV": "24",
-                "PF": "14",
+                "PF": "15",
                 "PTS": "16"
             },
             "Opp Year/Year": {
@@ -276,8 +277,8 @@
                 "PW": "33",
                 "PL": "29",
                 "MOV": "1.10",
-                "SOS": "0.62",
-                "SRS": "1.72",
+                "SOS": "0.63",
+                "SRS": "1.73",
                 "ORtg": "115.6",
                 "DRtg": "114.5",
                 "Pace": "98.9",
@@ -294,26 +295,26 @@
             "Misc Lg Rank": {
                 "W": "14",
                 "L": "15",
-                "PW": "13",
+                "PW": "15",
                 "PL": "16",
                 "MOV": "16",
                 "SOS": "7",
                 "SRS": "11",
-                "ORtg": "9",
+                "ORtg": "10",
                 "DRtg": "14",
                 "Pace": "17",
-                "FTr": "6",
+                "FTr": "5",
                 "3PAr": "22",
                 "eFG%": "6",
                 "TOV%": "24",
                 "ORB%": "20",
-                "FT/FGA": "11",
+                "FT/FGA": "12",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "1"
+                "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DAL-2025.png",
-        "last_update": "Mar 04 2025 22:32:17"
+        "last_update": "Mar 05 2025 22:32:14"
     }
 }

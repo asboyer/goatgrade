@@ -32,19 +32,13 @@
                 "Player": "Alex Caruso",
                 "Team": "Oklahoma City Thunder",
                 "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day () - Caruso (undisclosed) briefly exited to the locker room during Monday's game against Houston he did not return."
-            },
-            {
-                "Player": "Chet Holmgren",
-                "Team": "Oklahoma City Thunder",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Ankle) - Holmgren did not play in Sunday's game (Mar. 2) against the Spurs."
+                "Description": "Day To Day (Undisclosed) - Caruso briefly exited to the locker room during Monday's (Mar. 3) game against the Rockets and did not return."
             },
             {
                 "Player": "Isaiah Joe",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Back) - Joe did not play in Monday's (Mar. 3) game against Houston."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Day To Day (Back) - The Thunder have listed Joe as Questionable for Wednesday's (Mar. 5) game against the Grizzlies."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -112,17 +106,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "20",
                 "FG": "4",
                 "FGA": "3",
                 "FG%": "8",
-                "3P": "7",
+                "3P": "6",
                 "3PA": "9",
                 "3P%": "12",
                 "2P": "6",
                 "2PA": "9",
                 "2P%": "9",
-                "FT": "24",
+                "FT": "23",
                 "FTA": "28",
                 "FT%": "1",
                 "ORB": "13",
@@ -212,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "20",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
@@ -224,8 +218,8 @@
                 "2P%": "1",
                 "FT": "28",
                 "FTA": "28",
-                "FT%": "5",
-                "ORB": "24",
+                "FT%": "4",
+                "ORB": "23",
                 "DRB": "19",
                 "TRB": "25",
                 "AST": "5",
@@ -267,7 +261,7 @@
                 "PL": "11",
                 "MOV": "12.66",
                 "SOS": "-0.27",
-                "SRS": "12.39",
+                "SRS": "12.38",
                 "ORtg": "119.6",
                 "DRtg": "107.0",
                 "Pace": "99.8",
@@ -282,7 +276,7 @@
                 "Attendance": "554,891"
             },
             "Misc Lg Rank": {
-                "W": "1",
+                "W": "2",
                 "L": "29",
                 "PW": "1",
                 "PL": "1",
@@ -291,12 +285,12 @@
                 "SRS": "1",
                 "ORtg": "5",
                 "DRtg": "1",
-                "Pace": "8",
+                "Pace": "9",
                 "FTr": "29",
                 "3PAr": "15",
                 "eFG%": "1",
                 "TOV%": "1",
-                "ORB%": "19",
+                "ORB%": "18",
                 "FT/FGA": "28",
                 "DRB%": "23",
                 "Arena": "",
@@ -304,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/OKC-2025.png",
-        "last_update": "Mar 04 2025 22:32:17"
+        "last_update": "Mar 05 2025 22:32:14"
     }
 }

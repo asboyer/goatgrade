@@ -31,20 +31,20 @@
             {
                 "Player": "Jaime Jaquez Jr.",
                 "Team": "Miami Heat",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Ankle) - Jaquez Jr. did not play in Monday's game (Mar. 3) against the Wizards."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Out (Ankle) - The Heat listed Jaquez Jr. as Out for Wednesday's (Mar. 5) game against the Cavaliers."
             },
             {
                 "Player": "Nikola Jović",
                 "Team": "Miami Heat",
-                "Update": "Tue, Feb 25, 2025",
-                "Description": "Out (Hand) - The Heat announced Jovic suffered a fracture in the second metacarpal of his right hand. He will be in a splint and re-evaluated in four weeks."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Out (Hand) - Jovic won't require surgery to repair the fractured second metacarpal on his right hand, but his status for the rest of the season remains in question, as per Barry Jackson and Anthony Chiang of the Miami Herald."
             },
             {
                 "Player": "Davion Mitchell",
                 "Team": "Miami Heat",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Quadriceps) - Mitchell did not play in Monday's game (Mar. 3) against the Wizards."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Day To Day (Quadriceps) - The Heat listed Mitchell as Questionable for Wednesday's (Mar. 5) game against the Cavaliers."
             },
             {
                 "Player": "Dru Smith",
@@ -55,14 +55,14 @@
             {
                 "Player": "Kel'el Ware",
                 "Team": "Miami Heat",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Knee) - Ware did not play in Monday's game (Mar. 3) against the Wizards."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Out (Knee) - The Heat listed Ware as Out for Wednesday's (Mar. 5) game against the Cavaliers."
             },
             {
                 "Player": "Andrew Wiggins",
                 "Team": "Miami Heat",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Ankle) - Wiggins did not play in Monday's game (Mar. 3) against the Wizards."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Out (Ankle) - The Heat listed Wiggins as Out for Wednesday's (Mar. 5) game against the Cavaliers."
             }
         ],
         "team_stats": {
@@ -118,24 +118,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "23",
                 "FG": "25",
                 "FGA": "24",
-                "FG%": "20",
+                "FG%": "21",
                 "3P": "10",
                 "3PA": "11",
                 "3P%": "13",
                 "2P": "25",
-                "2PA": "27",
+                "2PA": "26",
                 "2P%": "19",
-                "FT": "18",
-                "FTA": "22",
+                "FT": "19",
+                "FTA": "21",
                 "FT%": "10",
                 "ORB": "26",
                 "DRB": "6",
                 "TRB": "22",
-                "AST": "15",
-                "STL": "21",
+                "AST": "16",
+                "STL": "20",
                 "BLK": "30",
                 "TOV": "10",
                 "PF": "1",
@@ -218,24 +218,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "23",
                 "FG": "14",
                 "FGA": "16",
                 "FG%": "13",
                 "3P": "21",
-                "3PA": "19",
+                "3PA": "18",
                 "3P%": "14",
-                "2P": "11",
-                "2PA": "11",
+                "2P": "10",
+                "2PA": "12",
                 "2P%": "15",
                 "FT": "1",
                 "FTA": "1",
                 "FT%": "16",
-                "ORB": "11",
+                "ORB": "12",
                 "DRB": "25",
-                "TRB": "21",
+                "TRB": "22",
                 "AST": "20",
-                "STL": "6",
+                "STL": "7",
                 "BLK": "12",
                 "TOV": "21",
                 "PF": "29",
@@ -272,8 +272,8 @@
                 "PW": "29",
                 "PL": "31",
                 "MOV": "-0.28",
-                "SOS": "-0.51",
-                "SRS": "-0.80",
+                "SOS": "-0.50",
+                "SRS": "-0.78",
                 "ORtg": "112.7",
                 "DRtg": "113.0",
                 "Pace": "96.3",
@@ -310,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MIA-2025.png",
-        "last_update": "Mar 04 2025 22:32:17"
+        "last_update": "Mar 05 2025 22:32:14"
     }
 }

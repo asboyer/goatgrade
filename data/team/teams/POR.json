@@ -37,8 +37,8 @@
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Calf) - Grant did not play in Monday's (Mar. 3) game against Philadelphia."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Calf) - The Trail Blazers listed Grant as Questionable on Wednesday's (Mar. 5) game against the Celtics."
             },
             {
                 "Player": "Matisse Thybulle",
@@ -49,8 +49,8 @@
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Knee) - Williams III did not play in Monday's (Mar. 3) game against Philadelphia."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Out (Knee) - The Trail Blazers listed Williams III as Out on Wednesday's (Mar. 5) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -106,28 +106,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "10",
                 "FG": "22",
                 "FGA": "18",
-                "FG%": "22",
+                "FG%": "23",
                 "3P": "23",
                 "3PA": "18",
                 "3P%": "24",
                 "2P": "16",
                 "2PA": "12",
-                "2P%": "23",
-                "FT": "13",
+                "2P%": "24",
+                "FT": "12",
                 "FTA": "10",
                 "FT%": "23",
                 "ORB": "5",
-                "DRB": "27",
+                "DRB": "26",
                 "TRB": "17",
                 "AST": "26",
                 "STL": "16",
                 "BLK": "7",
                 "TOV": "27",
                 "PF": "23",
-                "PTS": "22"
+                "PTS": "23"
             },
             "Year/Year": {
                 "G": "",
@@ -206,22 +206,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
-                "FG": "18",
+                "MP": "10",
+                "FG": "17",
                 "FGA": "10",
                 "FG%": "19",
                 "3P": "5",
                 "3PA": "3",
-                "3P%": "17",
+                "3P%": "19",
                 "2P": "21",
                 "2PA": "20",
                 "2P%": "19",
-                "FT": "26",
-                "FTA": "23",
+                "FT": "25",
+                "FTA": "24",
                 "FT%": "28",
-                "ORB": "26",
+                "ORB": "25",
                 "DRB": "8",
-                "TRB": "14",
+                "TRB": "15",
                 "AST": "13",
                 "STL": "29",
                 "BLK": "23",
@@ -261,7 +261,7 @@
                 "PL": "38",
                 "MOV": "-3.58",
                 "SOS": "0.09",
-                "SRS": "-3.50",
+                "SRS": "-3.49",
                 "ORtg": "111.6",
                 "DRtg": "115.2",
                 "Pace": "98.8",
@@ -276,15 +276,15 @@
                 "Attendance": "516,110"
             },
             "Misc Lg Rank": {
-                "W": "19",
+                "W": "20",
                 "L": "9",
                 "PW": "22",
-                "PL": "23",
+                "PL": "22",
                 "MOV": "22",
-                "SOS": "13",
+                "SOS": "12",
                 "SRS": "22",
                 "ORtg": "24",
-                "DRtg": "21",
+                "DRtg": "20",
                 "Pace": "18",
                 "FTr": "11",
                 "3PAr": "18",
@@ -292,12 +292,12 @@
                 "TOV%": "9",
                 "ORB%": "3",
                 "FT/FGA": "26",
-                "DRB%": "30",
+                "DRB%": "29",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/POR-2025.png",
-        "last_update": "Mar 04 2025 22:32:17"
+        "last_update": "Mar 05 2025 22:32:14"
     }
 }

@@ -31,14 +31,14 @@
             {
                 "Player": "Vlatko Čančar",
                 "Team": "Denver Nuggets",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Knee) - Cancar did not play in Sunday's game (Mar. 2) against the Celtics."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Day To Day (Knee) - The Nuggets have listed Cancar as Questionable for Wednesday's (Mar. 5) game against the Kings."
             },
             {
                 "Player": "Aaron Gordon",
                 "Team": "Denver Nuggets",
-                "Update": "Sun, Mar 2, 2025",
-                "Description": "Day To Day (Ankle) - Gordon did not play in Sunday's game (Mar. 2) against the Celtics."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets have listed Gordon as Questionable for Wednesday's (Mar. 5) game against the Kings."
             },
             {
                 "Player": "DaRon Holmes",
@@ -47,10 +47,28 @@
                 "Description": "Out For Season (Achilles) - Nuggets HC Michael Malone said that Holmes was able to participate in portions of Wednesday's (Feb. 19) practice, as per Brendan Vogt of TheDNVR.com reports."
             },
             {
+                "Player": "Nikola Jokić",
+                "Team": "Denver Nuggets",
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets have listed Jokic as Questionable for Wednesday's (Mar. 5) game against the Kings."
+            },
+            {
+                "Player": "Zeke Nnaji",
+                "Team": "Denver Nuggets",
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets have listed Nnaji as Questionable for Wednesday's (Mar. 5) game against the Kings."
+            },
+            {
+                "Player": "Julian Strawther",
+                "Team": "Denver Nuggets",
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Out (Knee) - The Nuggets have listed Strawther as Out for Wednesday's (Mar. 5) game against the Kings."
+            },
+            {
                 "Player": "Peyton Watson",
                 "Team": "Denver Nuggets",
                 "Update": "Tue, Feb 4, 2025",
-                "Description": "Out (Knee) - The Nuggets announced on Monday (Feb. 3) that Watson will be re-evaluated in four weeks due to a right knee sprain he sustained in Friday's (Jan. 30) 137-134 win over the 76ers, per Bennett Durando of The Denver Post."
+                "Description": "Day To Day (Knee) - The Nuggets have listed Watson as Questionable for Wednesday's (Mar. 5) game against the Kings."
             }
         ],
         "team_stats": {
@@ -106,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "15",
                 "FG": "1",
                 "FGA": "10",
                 "FG%": "1",
@@ -116,14 +134,14 @@
                 "2P": "1",
                 "2PA": "1",
                 "2P%": "2",
-                "FT": "8",
+                "FT": "9",
                 "FTA": "9",
                 "FT%": "21",
                 "ORB": "12",
                 "DRB": "3",
                 "TRB": "4",
                 "AST": "1",
-                "STL": "12",
+                "STL": "11",
                 "BLK": "20",
                 "TOV": "17",
                 "PF": "6",
@@ -206,13 +224,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "15",
                 "FG": "24",
                 "FGA": "28",
                 "FG%": "14",
                 "3P": "24",
-                "3PA": "21",
-                "3P%": "20",
+                "3PA": "20",
+                "3P%": "21",
                 "2P": "22",
                 "2PA": "27",
                 "2P%": "10",
@@ -284,20 +302,20 @@
                 "SOS": "20",
                 "SRS": "5",
                 "ORtg": "2",
-                "DRtg": "17",
+                "DRtg": "18",
                 "Pace": "5",
                 "FTr": "10",
                 "3PAr": "30",
-                "eFG%": "10",
+                "eFG%": "11",
                 "TOV%": "26",
                 "ORB%": "7",
                 "FT/FGA": "6",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DEN-2025.png",
-        "last_update": "Mar 04 2025 22:32:17"
+        "last_update": "Mar 05 2025 22:32:14"
     }
 }

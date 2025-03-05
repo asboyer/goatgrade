@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Malik Monk",
+                "Team": "Sacramento Kings",
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Day To Day (Toe) - The Kings have listed Monk as Questionable for Wednesday's (Mar. 5) game against the Nuggets."
+            },
+            {
                 "Player": "Domantas Sabonis",
                 "Team": "Sacramento Kings",
                 "Update": "Mon, Mar 3, 2025",
@@ -87,15 +93,15 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "24",
                 "FG": "7",
                 "FGA": "7",
                 "FG%": "9",
-                "3P": "22",
+                "3P": "21",
                 "3PA": "20",
                 "3P%": "20",
                 "2P": "4",
-                "2PA": "6",
+                "2PA": "7",
                 "2P%": "8",
                 "FT": "10",
                 "FTA": "15",
@@ -104,11 +110,11 @@
                 "DRB": "9",
                 "TRB": "10",
                 "AST": "12",
-                "STL": "22",
+                "STL": "21",
                 "BLK": "21",
                 "TOV": "7",
                 "PF": "17",
-                "PTS": "6"
+                "PTS": "7"
             },
             "Year/Year": {
                 "G": "",
@@ -187,12 +193,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "24",
                 "FG": "15",
                 "FGA": "14",
                 "FG%": "17",
                 "3P": "28",
-                "3PA": "20",
+                "3PA": "19",
                 "3P%": "29",
                 "2P": "5",
                 "2PA": "9",
@@ -203,9 +209,9 @@
                 "ORB": "4",
                 "DRB": "12",
                 "TRB": "7",
-                "AST": "19",
+                "AST": "18",
                 "STL": "13",
-                "BLK": "7",
+                "BLK": "6",
                 "TOV": "17",
                 "PF": "16",
                 "PTS": "19"
@@ -241,8 +247,8 @@
                 "PW": "33",
                 "PL": "27",
                 "MOV": "1.85",
-                "SOS": "-0.44",
-                "SRS": "1.41",
+                "SOS": "-0.43",
+                "SRS": "1.42",
                 "ORtg": "116.5",
                 "DRtg": "114.7",
                 "Pace": "99.1",
@@ -258,18 +264,18 @@
             },
             "Misc Lg Rank": {
                 "W": "14",
-                "L": "17",
-                "PW": "12",
-                "PL": "12",
-                "MOV": "12",
-                "SOS": "21",
+                "L": "18",
+                "PW": "14",
+                "PL": "11",
+                "MOV": "13",
+                "SOS": "22",
                 "SRS": "13",
                 "ORtg": "7",
                 "DRtg": "15",
                 "Pace": "15",
-                "FTr": "19",
+                "FTr": "20",
                 "3PAr": "25",
-                "eFG%": "22",
+                "eFG%": "23",
                 "TOV%": "18",
                 "ORB%": "16",
                 "FT/FGA": "22",
@@ -279,6 +285,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/SAC-2025.png",
-        "last_update": "Mar 04 2025 22:32:17"
+        "last_update": "Mar 05 2025 22:32:14"
     }
 }

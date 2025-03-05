@@ -27,16 +27,40 @@
         ],
         "injuries": [
             {
+                "Player": "Jaylen Brown",
+                "Team": "Boston Celtics",
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Illness) - The Celtics listed Brown as Questionable on Wednesday's game (Mar. 5) against the Trail Blazers."
+            },
+            {
                 "Player": "Jrue Holiday",
                 "Team": "Boston Celtics",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Finger) - Holiday did not play in Sunday's game (Mar. 2) against the Nuggets."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Finger) - The Celtics listed Holiday as Doubtful on Wednesday's game (Mar. 5) against the Trail Blazers."
             },
             {
                 "Player": "Kristaps Porziņģis",
                 "Team": "Boston Celtics",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Illness) - Porzingis did not play in Sunday's game (Mar. 2) against the Nuggets."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Illness) - The Celtics listed Porzingis as Doubtful on Wednesday's game (Mar. 5) against the Trail Blazers."
+            },
+            {
+                "Player": "Payton Pritchard",
+                "Team": "Boston Celtics",
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Hip) - The Celtics listed Pritchard as Probable on Wednesday's game (Mar. 5) against the Trail Blazers."
+            },
+            {
+                "Player": "Jayson Tatum",
+                "Team": "Boston Celtics",
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Shoulder) - The Celtics listed Tatum as Questionable on Wednesday's game (Mar. 5) against the Trail Blazers."
+            },
+            {
+                "Player": "Derrick White",
+                "Team": "Boston Celtics",
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Back) - The Celtics listed White as Probable on Wednesday's game (Mar. 5) against the Trail Blazers."
             }
         ],
         "team_stats": {
@@ -92,24 +116,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
-                "FG": "14",
+                "MP": "13",
+                "FG": "15",
                 "FGA": "11",
-                "FG%": "17",
+                "FG%": "18",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "8",
+                "3P%": "7",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "6",
-                "FT": "26",
+                "FT": "27",
                 "FTA": "28",
-                "FT%": "7",
+                "FT%": "8",
                 "ORB": "19",
                 "DRB": "7",
                 "TRB": "11",
                 "AST": "18",
-                "STL": "29",
+                "STL": "28",
                 "BLK": "6",
                 "TOV": "2",
                 "PF": "2",
@@ -192,22 +216,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "13",
                 "FG": "9",
                 "FGA": "18",
                 "FG%": "3",
                 "3P": "3",
                 "3PA": "9",
-                "3P%": "3",
+                "3P%": "2",
                 "2P": "15",
                 "2PA": "23",
                 "2P%": "5",
-                "FT": "3",
+                "FT": "2",
                 "FTA": "2",
                 "FT%": "24",
                 "ORB": "7",
                 "DRB": "20",
-                "TRB": "15",
+                "TRB": "16",
                 "AST": "3",
                 "STL": "2",
                 "BLK": "1",
@@ -246,8 +270,8 @@
                 "PW": "45",
                 "PL": "16",
                 "MOV": "8.56",
-                "SOS": "-0.28",
-                "SRS": "8.28",
+                "SOS": "-0.29",
+                "SRS": "8.27",
                 "ORtg": "119.7",
                 "DRtg": "110.9",
                 "Pace": "96.7",
@@ -269,7 +293,7 @@
                 "MOV": "3",
                 "SOS": "18",
                 "SRS": "3",
-                "ORtg": "4",
+                "ORtg": "3",
                 "DRtg": "5",
                 "Pace": "26",
                 "FTr": "28",
@@ -280,10 +304,10 @@
                 "FT/FGA": "3",
                 "DRB%": "5",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/BOS-2025.png",
-        "last_update": "Mar 04 2025 22:32:17"
+        "last_update": "Mar 05 2025 22:32:14"
     }
 }

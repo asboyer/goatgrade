@@ -31,14 +31,14 @@
             {
                 "Player": "Jordan Clarkson",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Out (Foot) - The Jazz listed Clarkson as OUT for Monday's (Mar. 3) game against Detroit."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Out (Foot) - The Jazz have listed Clarkson as Out for Wednesday's (Mar. 5) game against the Wizards."
             },
             {
                 "Player": "John Collins",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Out (Back) - The Jazz listed Collins as OUT for Monday's (Mar. 3) game against Detroit."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Out (Back) - The Jazz have listed Collins as Out for Wednesday's (Mar. 5) game against the Wizards."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -47,10 +47,16 @@
                 "Description": "Out For Season (Fibula) - Hendricks underwent surgery on Wednesday (Nov. 6) to repair a fractured right fibula and dislocated right ankle, per Andy Larsen of The Salt Lake Tribune."
             },
             {
+                "Player": "Walker Kessler",
+                "Team": "Utah Jazz",
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Out (Rest) - The Jazz have listed Kessler as Out for Wednesday's (Mar. 5) game against the Wizards."
+            },
+            {
                 "Player": "Lauri Markkanen",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Out (Back) - The Jazz listed Markkanen as OUT for Monday's (Mar. 3) game against Detroit."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Out (Back) - The Jazz have listed Markkanen as Out for Wednesday's (Mar. 5) game against the Wizards."
             }
         ],
         "team_stats": {
@@ -106,19 +112,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "15",
                 "FG": "23",
                 "FGA": "21",
-                "FG%": "19",
+                "FG%": "20",
                 "3P": "9",
                 "3PA": "8",
                 "3P%": "17",
                 "2P": "24",
                 "2PA": "25",
-                "2P%": "18",
+                "2P%": "17",
                 "FT": "7",
                 "FTA": "8",
-                "FT%": "18",
+                "FT%": "17",
                 "ORB": "7",
                 "DRB": "14",
                 "TRB": "6",
@@ -206,28 +212,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "15",
                 "FG": "29",
                 "FGA": "25",
                 "FG%": "26",
                 "3P": "29",
                 "3PA": "30",
-                "3P%": "16",
+                "3P%": "18",
                 "2P": "25",
                 "2PA": "13",
-                "2P%": "29",
+                "2P%": "28",
                 "FT": "17",
                 "FTA": "21",
                 "FT%": "3",
-                "ORB": "19",
-                "DRB": "5",
-                "TRB": "8",
+                "ORB": "18",
+                "DRB": "4",
+                "TRB": "10",
                 "AST": "28",
                 "STL": "30",
                 "BLK": "30",
                 "TOV": "30",
-                "PF": "5",
-                "PTS": "28"
+                "PF": "4",
+                "PTS": "27"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -260,8 +266,8 @@
                 "PW": "18",
                 "PL": "43",
                 "MOV": "-7.36",
-                "SOS": "0.71",
-                "SRS": "-6.65",
+                "SOS": "0.73",
+                "SRS": "-6.63",
                 "ORtg": "112.2",
                 "DRtg": "119.5",
                 "Pace": "99.5",
@@ -292,12 +298,12 @@
                 "TOV%": "30",
                 "ORB%": "4",
                 "FT/FGA": "13",
-                "DRB%": "16",
+                "DRB%": "17",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/UTA-2025.png",
-        "last_update": "Mar 04 2025 22:32:17"
+        "last_update": "Mar 05 2025 22:32:14"
     }
 }

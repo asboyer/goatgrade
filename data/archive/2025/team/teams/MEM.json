@@ -24,38 +24,51 @@
             "Vince Williams Jr.",
             "Cam Spencer",
             "Zyon Pullin",
+            "Lamar Stevens",
             "Marvin Bagley III"
         ],
         "injuries": [
             {
                 "Player": "Santi Aldama",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Calf) - Aldama did not play in Monday's (Mar. 3) game against Atlanta."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Day To Day (Calf) - The Grizzlies have listed Aldama as Questionable for Wednesday's (Mar 5.) game against the Thunder."
             },
             {
                 "Player": "Jaren Jackson Jr.",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Ankle) - Jackson is doubtful to return during Monday's matchup against the Hawks due to a left ankle injury."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Out (Ankle) - The Grizzlies have listed Jackson Jr. as Out for Wednesday's (Mar 5.) game against the Thunder."
             },
             {
                 "Player": "Yuki Kawamura",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Hamstring) - Kawamura did not play in Monday's (Mar. 3) game against Atlanta."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Out (Hamstring) - The Grizzlies have listed Kawamura as Out for Wednesday's (Mar 5.) game against the Thunder."
+            },
+            {
+                "Player": "John Konchar",
+                "Team": "Memphis Grizzlies",
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Day To Day (Knee) - The Grizzlies have listed Konchar as Questionable for Wednesday's (Mar 5.) game against the Thunder."
             },
             {
                 "Player": "Ja Morant",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Shoulder) - Morant did not play in Monday's (Mar. 3) game against Atlanta."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Day To Day (Shoulder) - The Grizzlies have listed Morant as Questionable for Wednesday's (Mar 5.) game against the Thunder."
+            },
+            {
+                "Player": "Scotty Pippen Jr.",
+                "Team": "Memphis Grizzlies",
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Day To Day (Toe) - The Grizzlies have listed Pippen Jr. as Questionable for Wednesday's (Mar 5.) game against the Thunder."
             },
             {
                 "Player": "Zyon Pullin",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Knee) - Pullin did not play in Monday's (Mar. 3) game against Atlanta."
+                "Update": "Tue, Mar 4, 2025",
+                "Description": "Out (Knee) - The Grizzlies have listed Pullin as Out for Wednesday's (Mar 5.) game against the Thunder."
             }
         ],
         "team_stats": {
@@ -111,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "20",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "5",
@@ -127,12 +140,12 @@
                 "ORB": "2",
                 "DRB": "5",
                 "TRB": "2",
-                "AST": "3",
+                "AST": "5",
                 "STL": "8",
                 "BLK": "3",
                 "TOV": "29",
                 "PF": "29",
-                "PTS": "1"
+                "PTS": "2"
             },
             "Year/Year": {
                 "G": "",
@@ -211,20 +224,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "20",
                 "FG": "22",
                 "FGA": "27",
                 "FG%": "6",
                 "3P": "23",
                 "3PA": "26",
-                "3P%": "10",
+                "3P%": "9",
                 "2P": "19",
                 "2PA": "24",
                 "2P%": "8",
                 "FT": "27",
                 "FTA": "29",
                 "FT%": "2",
-                "ORB": "24",
+                "ORB": "23",
                 "DRB": "3",
                 "TRB": "12",
                 "AST": "22",
@@ -265,7 +278,7 @@
                 "PW": "41",
                 "PL": "20",
                 "MOV": "6.30",
-                "SOS": "-0.49",
+                "SOS": "-0.48",
                 "SRS": "5.81",
                 "ORtg": "118.4",
                 "DRtg": "112.3",
@@ -281,7 +294,7 @@
                 "Attendance": "511,173"
             },
             "Misc Lg Rank": {
-                "W": "6",
+                "W": "7",
                 "L": "24",
                 "PW": "4",
                 "PL": "4",
@@ -303,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MEM-2025.png",
-        "last_update": "Mar 04 2025 22:32:17"
+        "last_update": "Mar 05 2025 22:32:14"
     }
 }

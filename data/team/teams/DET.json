@@ -31,8 +31,8 @@
             {
                 "Player": "Tobias Harris",
                 "Team": "Detroit Pistons",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Out (Personal) - The Pistons listed Harris as Out for Monday's (Mar. 3) game against Utah."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Out (Personal) - The Pistons listed Harris as Out on Wednesday's (Mar. 5) game against the Clippers."
             },
             {
                 "Player": "Jaden Ivey",
@@ -43,8 +43,8 @@
             {
                 "Player": "Isaiah Stewart",
                 "Team": "Detroit Pistons",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Out (Back) - The Pistons listed Stewart as Out for Monday's (Mar. 3) game against Utah."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Back) - The Pistons listed Stewart as Probable on Wednesday's (Mar. 5) game against the Clippers."
             }
         ],
         "team_stats": {
@@ -100,26 +100,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "5",
                 "FG": "10",
                 "FGA": "15",
                 "FG%": "11",
-                "3P": "17",
+                "3P": "18",
                 "3PA": "19",
                 "3P%": "14",
                 "2P": "9",
                 "2PA": "10",
-                "2P%": "11",
-                "FT": "23",
+                "2P%": "13",
+                "FT": "22",
                 "FTA": "19",
-                "FT%": "17",
+                "FT%": "16",
                 "ORB": "10",
                 "DRB": "8",
-                "TRB": "7",
+                "TRB": "8",
                 "AST": "14",
                 "STL": "13",
                 "BLK": "9",
-                "TOV": "21",
+                "TOV": "22",
                 "PF": "25",
                 "PTS": "11"
             },
@@ -200,28 +200,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "5",
                 "FG": "7",
                 "FGA": "6",
-                "FG%": "11",
+                "FG%": "12",
                 "3P": "22",
                 "3PA": "13",
-                "3P%": "27",
+                "3P%": "25",
                 "2P": "3",
-                "2PA": "7",
+                "2PA": "8",
                 "2P%": "7",
                 "FT": "24",
                 "FTA": "25",
-                "FT%": "8",
+                "FT%": "10",
                 "ORB": "5",
-                "DRB": "6",
+                "DRB": "5",
                 "TRB": "3",
-                "AST": "7",
-                "STL": "25",
-                "BLK": "14",
+                "AST": "6",
+                "STL": "26",
+                "BLK": "15",
                 "TOV": "9",
                 "PF": "22",
-                "PTS": "15"
+                "PTS": "14"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -272,26 +272,26 @@
             "Misc Lg Rank": {
                 "W": "9",
                 "L": "20",
-                "PW": "9",
+                "PW": "10",
                 "PL": "15",
-                "MOV": "13",
-                "SOS": "22",
+                "MOV": "14",
+                "SOS": "23",
                 "SRS": "14",
                 "ORtg": "14",
                 "DRtg": "9",
                 "Pace": "7",
-                "FTr": "21",
+                "FTr": "22",
                 "3PAr": "21",
                 "eFG%": "15",
                 "TOV%": "8",
-                "ORB%": "8",
+                "ORB%": "9",
                 "FT/FGA": "25",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DET-2025.png",
-        "last_update": "Mar 04 2025 22:32:17"
+        "last_update": "Mar 05 2025 22:32:14"
     }
 }
