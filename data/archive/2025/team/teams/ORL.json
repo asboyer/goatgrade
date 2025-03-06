@@ -31,8 +31,8 @@
             {
                 "Player": "Cole Anthony",
                 "Team": "Orlando Magic",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Toe) - Anthony did not play on Tuesday's (Mar. 4) game against the Raptors."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Toe) - The Magic listed Anthony as Questionable for Thursday's (Mar. 6) game against the Bulls."
             },
             {
                 "Player": "Jalen Suggs",
@@ -100,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "29",
                 "FGA": "28",
                 "FG%": "27",
@@ -113,13 +113,13 @@
                 "FT": "5",
                 "FTA": "3",
                 "FT%": "25",
-                "ORB": "11",
+                "ORB": "10",
                 "DRB": "28",
                 "TRB": "27",
                 "AST": "29",
                 "STL": "7",
                 "BLK": "2",
-                "TOV": "18",
+                "TOV": "19",
                 "PF": "28",
                 "PTS": "30"
             },
@@ -200,24 +200,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "3",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "21",
                 "3P": "1",
                 "3PA": "1",
                 "3P%": "24",
-                "2P": "4",
+                "2P": "3",
                 "2PA": "6",
-                "2P%": "9",
+                "2P%": "10",
                 "FT": "26",
                 "FTA": "27",
-                "FT%": "6",
+                "FT%": "5",
                 "ORB": "1",
-                "DRB": "16",
+                "DRB": "15",
                 "TRB": "2",
                 "AST": "1",
-                "STL": "10",
+                "STL": "11",
                 "BLK": "7",
                 "TOV": "4",
                 "PF": "2",
@@ -254,7 +254,7 @@
                 "PW": "28",
                 "PL": "35",
                 "MOV": "-1.67",
-                "SOS": "-0.58",
+                "SOS": "-0.57",
                 "SRS": "-2.24",
                 "ORtg": "107.9",
                 "DRtg": "109.6",
@@ -271,7 +271,7 @@
             },
             "Misc Lg Rank": {
                 "W": "17",
-                "L": "9",
+                "L": "10",
                 "PW": "18",
                 "PL": "20",
                 "MOV": "18",
@@ -282,9 +282,9 @@
                 "Pace": "29",
                 "FTr": "2",
                 "3PAr": "17",
-                "eFG%": "17",
+                "eFG%": "16",
                 "TOV%": "2",
-                "ORB%": "14",
+                "ORB%": "13",
                 "FT/FGA": "30",
                 "DRB%": "1",
                 "Arena": "",
@@ -292,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/ORL-2025.png",
-        "last_update": "Mar 05 2025 22:32:14"
+        "last_update": "Mar 06 2025 22:32:16"
     }
 }

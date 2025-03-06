@@ -24,14 +24,15 @@
             "Jeff Green",
             "Jeenathan Williams",
             "Jack McVeigh",
-            "N'Faly Dante"
+            "N'Faly Dante",
+            "David Roddy"
         ],
         "injuries": [
             {
                 "Player": "Fred VanVleet",
                 "Team": "Houston Rockets",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Ankle) - VanVleet did not play on Tuesday's (Mar. 4) game against the Pacers."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Out (Ankle) - The Rockets have listed VanVleet as OUT for Thursday's (Mar. 6) game against the Pelicans."
             }
         ],
         "team_stats": {
@@ -87,12 +88,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "12",
                 "FG": "13",
                 "FGA": "2",
                 "FG%": "26",
                 "3P": "26",
-                "3PA": "21",
+                "3PA": "22",
                 "3P%": "26",
                 "2P": "10",
                 "2PA": "2",
@@ -101,7 +102,7 @@
                 "FTA": "5",
                 "FT%": "30",
                 "ORB": "1",
-                "DRB": "13",
+                "DRB": "14",
                 "TRB": "1",
                 "AST": "30",
                 "STL": "10",
@@ -187,14 +188,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "12",
                 "FG": "4",
-                "FGA": "11",
+                "FGA": "10",
                 "FG%": "5",
                 "3P": "2",
                 "3PA": "2",
                 "3P%": "8",
-                "2P": "16",
+                "2P": "15",
                 "2PA": "25",
                 "2P%": "3",
                 "FT": "13",
@@ -204,9 +205,9 @@
                 "DRB": "9",
                 "TRB": "9",
                 "AST": "2",
-                "STL": "11",
+                "STL": "13",
                 "BLK": "29",
-                "TOV": "14",
+                "TOV": "13",
                 "PF": "3",
                 "PTS": "6"
             },
@@ -241,8 +242,8 @@
                 "PW": "37",
                 "PL": "25",
                 "MOV": "3.31",
-                "SOS": "0.95",
-                "SRS": "4.26",
+                "SOS": "0.93",
+                "SRS": "4.24",
                 "ORtg": "113.6",
                 "DRtg": "110.2",
                 "Pace": "98.7",
@@ -261,8 +262,8 @@
                 "L": "21",
                 "PW": "8",
                 "PL": "7",
-                "MOV": "7",
-                "SOS": "3",
+                "MOV": "8",
+                "SOS": "2",
                 "SRS": "6",
                 "ORtg": "16",
                 "DRtg": "3",
@@ -275,10 +276,10 @@
                 "FT/FGA": "14",
                 "DRB%": "11",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/HOU-2025.png",
-        "last_update": "Mar 05 2025 22:32:14"
+        "last_update": "Mar 06 2025 22:32:16"
     }
 }

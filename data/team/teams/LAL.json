@@ -29,16 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Luka Dončić",
+                "Team": "Los Angeles Lakers",
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Knee) - The Lakers listed Doncic as Probable on Thursday's (Mar. 6) game against the Knicks."
+            },
+            {
                 "Player": "Jordan Goodwin",
                 "Team": "Los Angeles Lakers",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Ankle) - Goodwin did not play on Tuesday's (Mar. 4) game against the New Orleans."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Ankle) - The Lakers listed Goodwin as Questionable on Thursday's (Mar. 6) game against the Knicks."
             },
             {
                 "Player": "Rui Hachimura",
                 "Team": "Los Angeles Lakers",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Knee) - Hachimura did not play on Tuesday's (Mar. 4) game against New Orleans."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Knee) - The Lakers listed Hachimura as Out on Thursday's (Mar. 6) game against the Knicks."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Foot) - The Lakers listed James as Probable on Thursday's (Mar. 6) game against the Knicks."
             },
             {
                 "Player": "Maxi Kleber",
@@ -47,10 +59,16 @@
                 "Description": "Out (Foot) - Kleber will have his surgically repaired right foot re-evaluated in eight weeks, according to Jovan Buha of The Athletic."
             },
             {
+                "Player": "Markieff Morris",
+                "Team": "Los Angeles Lakers",
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Out (Illness) - The Lakers listed Morris as Out on Thursday's (Mar. 6) game against the Knicks."
+            },
+            {
                 "Player": "Austin Reaves",
                 "Team": "Los Angeles Lakers",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Calf) - Reaves did not play on Tuesday's (Mar. 4) game against the New Orleans."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Calf) - The Lakers listed Reaves as Probable on Thursday's (Mar. 6) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -106,14 +124,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "29",
+                "MP": "30",
                 "FG": "17",
                 "FGA": "30",
                 "FG%": "6",
                 "3P": "24",
                 "3PA": "25",
                 "3P%": "18",
-                "2P": "14",
+                "2P": "15",
                 "2PA": "20",
                 "2P%": "3",
                 "FT": "2",
@@ -122,7 +140,7 @@
                 "ORB": "26",
                 "DRB": "19",
                 "TRB": "26",
-                "AST": "15",
+                "AST": "16",
                 "STL": "24",
                 "BLK": "17",
                 "TOV": "11",
@@ -206,22 +224,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "29",
-                "FG": "13",
+                "MP": "30",
+                "FG": "12",
                 "FGA": "17",
-                "FG%": "10",
+                "FG%": "8",
                 "3P": "12",
                 "3PA": "16",
-                "3P%": "6",
+                "3P%": "7",
                 "2P": "14",
                 "2PA": "14",
                 "2P%": "16",
                 "FT": "5",
                 "FTA": "5",
-                "FT%": "20",
-                "ORB": "13",
+                "FT%": "21",
+                "ORB": "14",
                 "DRB": "6",
-                "TRB": "8",
+                "TRB": "7",
                 "AST": "23",
                 "STL": "16",
                 "BLK": "4",
@@ -260,8 +278,8 @@
                 "PW": "34",
                 "PL": "26",
                 "MOV": "1.95",
-                "SOS": "-0.26",
-                "SRS": "1.70",
+                "SOS": "-0.29",
+                "SRS": "1.66",
                 "ORtg": "115.5",
                 "DRtg": "113.5",
                 "Pace": "97.8",
@@ -276,16 +294,16 @@
                 "Attendance": "580,218"
             },
             "Misc Lg Rank": {
-                "W": "5",
+                "W": "6",
                 "L": "26",
-                "PW": "12",
-                "PL": "9",
-                "MOV": "11",
-                "SOS": "16",
-                "SRS": "12",
-                "ORtg": "11",
+                "PW": "14",
+                "PL": "10",
+                "MOV": "12",
+                "SOS": "19",
+                "SRS": "11",
+                "ORtg": "10",
                 "DRtg": "13",
-                "Pace": "22",
+                "Pace": "21",
                 "FTr": "1",
                 "3PAr": "16",
                 "eFG%": "9",
@@ -294,10 +312,10 @@
                 "FT/FGA": "5",
                 "DRB%": "14",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAL-2025.png",
-        "last_update": "Mar 05 2025 22:32:14"
+        "last_update": "Mar 06 2025 22:32:16"
     }
 }

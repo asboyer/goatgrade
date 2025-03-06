@@ -25,7 +25,7 @@
             "Kobe Bufkin",
             "Georges Niang",
             "Daeqwon Plowden",
-            "Kevon Harris"
+            "Jacob Toppin"
         ],
         "injuries": [
             {
@@ -51,6 +51,12 @@
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Feb 12, 2025",
                 "Description": "Out (Knee) - The Hawks announced on Wednesday (Feb. 12) that Nance Jr. will be re-evaluated in approximately six weeks, and an update will be provided at that time."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Ankle) - The Hawks listed Young as Probable on Thursday's (Mar. 6) game against the Pacers."
             }
         ],
         "team_stats": {
@@ -106,14 +112,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "9",
                 "FG": "8",
                 "FGA": "5",
                 "FG%": "14",
                 "3P": "15",
                 "3PA": "16",
                 "3P%": "19",
-                "2P": "8",
+                "2P": "9",
                 "2PA": "8",
                 "2P%": "18",
                 "FT": "3",
@@ -121,13 +127,13 @@
                 "FT%": "24",
                 "ORB": "8",
                 "DRB": "22",
-                "TRB": "13",
+                "TRB": "12",
                 "AST": "2",
                 "STL": "2",
-                "BLK": "11",
+                "BLK": "10",
                 "TOV": "26",
                 "PF": "15",
-                "PTS": "6"
+                "PTS": "7"
             },
             "Year/Year": {
                 "G": "",
@@ -206,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "9",
                 "FG": "27",
                 "FGA": "20",
                 "FG%": "29",
@@ -216,18 +222,18 @@
                 "2P": "28",
                 "2PA": "18",
                 "2P%": "26",
-                "FT": "23",
+                "FT": "22",
                 "FTA": "17",
                 "FT%": "30",
                 "ORB": "6",
-                "DRB": "23",
+                "DRB": "24",
                 "TRB": "17",
-                "AST": "25",
-                "STL": "27",
+                "AST": "26",
+                "STL": "28",
                 "BLK": "16",
                 "TOV": "2",
                 "PF": "5",
-                "PTS": "28"
+                "PTS": "27"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -260,8 +266,8 @@
                 "PW": "26",
                 "PL": "36",
                 "MOV": "-2.81",
-                "SOS": "0.22",
-                "SRS": "-2.59",
+                "SOS": "0.23",
+                "SRS": "-2.58",
                 "ORtg": "112.5",
                 "DRtg": "115.2",
                 "Pace": "103.2",
@@ -277,27 +283,27 @@
             },
             "Misc Lg Rank": {
                 "W": "20",
-                "L": "9",
+                "L": "10",
                 "PW": "21",
                 "PL": "21",
                 "MOV": "21",
                 "SOS": "9",
                 "SRS": "21",
-                "ORtg": "20",
-                "DRtg": "21",
+                "ORtg": "21",
+                "DRtg": "20",
                 "Pace": "2",
-                "FTr": "6",
+                "FTr": "5",
                 "3PAr": "19",
                 "eFG%": "28",
-                "TOV%": "6",
+                "TOV%": "5",
                 "ORB%": "12",
                 "FT/FGA": "20",
                 "DRB%": "8",
                 "Arena": "",
-                "Attendance": "29"
+                "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/ATL-2025.png",
-        "last_update": "Mar 05 2025 22:32:14"
+        "last_update": "Mar 06 2025 22:32:16"
     }
 }

@@ -31,8 +31,8 @@
             {
                 "Player": "Justin Edwards",
                 "Team": "Philadelphia 76ers",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Ankle) - Edwards did not play on Tuesday's (Mar. 4) game against the Timberwolves."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Ankle) - Edwards did not play in Tuesday's (Mar. 4) game against the Timberwolves."
             },
             {
                 "Player": "Joel Embiid",
@@ -44,7 +44,7 @@
                 "Player": "Paul George",
                 "Team": "Philadelphia 76ers",
                 "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Groin) - George did not return to Tuesday's (Mar. 4) game against the Timberwolves due to groin soreness, as per Sam DiGiovanni of ClutchPoints.com"
+                "Description": "Day To Day (Groin) - George did not return to Tuesday's (Mar. 4) game against the Timberwolves due to groin soreness, as per Sam DiGiovanni of ClutchPoints.com."
             },
             {
                 "Player": "Eric Gordon",
@@ -124,10 +124,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "23",
                 "FG": "27",
                 "FGA": "26",
-                "FG%": "22",
+                "FG%": "23",
                 "3P": "22",
                 "3PA": "17",
                 "3P%": "25",
@@ -135,7 +135,7 @@
                 "2PA": "19",
                 "2P%": "20",
                 "FT": "4",
-                "FTA": "7",
+                "FTA": "6",
                 "FT%": "13",
                 "ORB": "24",
                 "DRB": "30",
@@ -224,14 +224,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
-                "FG": "18",
+                "MP": "23",
+                "FG": "17",
                 "FGA": "3",
                 "FG%": "30",
                 "3P": "16",
                 "3PA": "12",
-                "3P%": "27",
-                "2P": "12",
+                "3P%": "26",
+                "2P": "13",
                 "2PA": "3",
                 "2P%": "30",
                 "FT": "17",
@@ -245,7 +245,7 @@
                 "BLK": "20",
                 "TOV": "3",
                 "PF": "10",
-                "PTS": "17"
+                "PTS": "16"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -299,7 +299,7 @@
                 "PW": "24",
                 "PL": "24",
                 "MOV": "24",
-                "SOS": "11",
+                "SOS": "12",
                 "SRS": "25",
                 "ORtg": "23",
                 "DRtg": "26",
@@ -309,13 +309,13 @@
                 "eFG%": "30",
                 "TOV%": "3",
                 "ORB%": "24",
-                "FT/FGA": "23",
+                "FT/FGA": "22",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHI-2025.png",
-        "last_update": "Mar 05 2025 22:32:14"
+        "last_update": "Mar 06 2025 22:32:16"
     }
 }

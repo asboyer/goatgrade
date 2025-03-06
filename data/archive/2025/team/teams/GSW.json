@@ -23,20 +23,21 @@
             "Jimmy Butler",
             "Kevin Knox",
             "Jackson Rowe",
-            "Taran Armstrong"
+            "Taran Armstrong",
+            "Braxton Key"
         ],
         "injuries": [
             {
                 "Player": "Jonathan Kuminga",
                 "Team": "Golden State Warriors",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Ankle) - Kuminga did not play on Tuesday's (Mar. 4) game against the Knicks."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Out (Ankle) - The Warriors listed Kuminga as Out on Thursday's (Mar. 6) game against the Nets."
             },
             {
                 "Player": "Gary Payton II",
                 "Team": "Golden State Warriors",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Nose) - Payton II did not play on Tuesday's (Mar. 4) game against the Knicks."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Nose) - The Warriors listed Payton II as Probable on Thursday's (Mar. 6) game against the Nets."
             }
         ],
         "team_stats": {
@@ -92,23 +93,23 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "16",
                 "FG": "18",
                 "FGA": "6",
                 "FG%": "25",
                 "3P": "4",
                 "3PA": "3",
                 "3P%": "15",
-                "2P": "26",
+                "2P": "25",
                 "2PA": "23",
                 "2P%": "25",
                 "FT": "28",
-                "FTA": "25",
+                "FTA": "26",
                 "FT%": "29",
                 "ORB": "3",
-                "DRB": "18",
+                "DRB": "16",
                 "TRB": "3",
-                "AST": "6",
+                "AST": "5",
                 "STL": "6",
                 "BLK": "14",
                 "TOV": "9",
@@ -192,8 +193,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
-                "FG": "8",
+                "MP": "16",
+                "FG": "7",
                 "FGA": "7",
                 "FG%": "11",
                 "3P": "11",
@@ -204,7 +205,7 @@
                 "2P%": "13",
                 "FT": "14",
                 "FTA": "16",
-                "FT%": "7",
+                "FT%": "6",
                 "ORB": "8",
                 "DRB": "22",
                 "TRB": "18",
@@ -246,8 +247,8 @@
                 "PW": "35",
                 "PL": "27",
                 "MOV": "2.10",
-                "SOS": "0.49",
-                "SRS": "2.59",
+                "SOS": "0.46",
+                "SRS": "2.55",
                 "ORtg": "113.9",
                 "DRtg": "111.8",
                 "Pace": "99.1",
@@ -262,11 +263,11 @@
                 "Attendance": "541,920"
             },
             "Misc Lg Rank": {
-                "W": "12",
-                "L": "18",
+                "W": "13",
+                "L": "19",
                 "PW": "9",
-                "PL": "13",
-                "MOV": "9",
+                "PL": "11",
+                "MOV": "10",
                 "SOS": "8",
                 "SRS": "9",
                 "ORtg": "15",
@@ -277,13 +278,13 @@
                 "eFG%": "10",
                 "TOV%": "7",
                 "ORB%": "5",
-                "FT/FGA": "16",
+                "FT/FGA": "17",
                 "DRB%": "9",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/GSW-2025.png",
-        "last_update": "Mar 05 2025 22:32:14"
+        "last_update": "Mar 06 2025 22:32:16"
     }
 }

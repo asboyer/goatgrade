@@ -22,9 +22,23 @@
             "Pacome Dadiet",
             "Mitchell Robinson",
             "Delon Wright",
-            "Kevin McCullar Jr."
+            "Kevin McCullar Jr.",
+            "Anton Watson",
+            "MarJon Beauchamp"
         ],
         "injuries": [
+            {
+                "Player": "Precious Achiuwa",
+                "Team": "New York Knicks",
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Hamstring) - The Knicks listed Achiuwa as Questionable on Thursday's (Mar. 6) game against the Lakers."
+            },
+            {
+                "Player": "OG Anunoby",
+                "Team": "New York Knicks",
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Thumb) - The Knicks listed Anunoby as Questionable on Thursday's (Mar. 6) game against the Lakers."
+            },
             {
                 "Player": "Ariel Hukporti",
                 "Team": "New York Knicks",
@@ -32,10 +46,10 @@
                 "Description": "Out (Knee) - Hukporti will miss the next four to six weeks for the Knicks after suffering a torn meniscus in his left knee, according to Shams Charania of ESPN."
             },
             {
-                "Player": "Karl-Anthony Towns",
+                "Player": "Mitchell Robinson",
                 "Team": "New York Knicks",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Personal) - Towns did not play on Tuesday's (Mar. 4) game against Golden State."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Ankle) - The Knicks listed Robinson as Questionable on Thursday's (Mar. 6) game against the Lakers."
             }
         ],
         "team_stats": {
@@ -91,20 +105,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "22",
                 "FG": "5",
                 "FGA": "16",
                 "FG%": "3",
                 "3P": "20",
-                "3PA": "28",
+                "3PA": "27",
                 "3P%": "8",
                 "2P": "3",
-                "2PA": "6",
+                "2PA": "7",
                 "2P%": "5",
-                "FT": "18",
-                "FTA": "24",
+                "FT": "19",
+                "FTA": "25",
                 "FT%": "5",
-                "ORB": "21",
+                "ORB": "20",
                 "DRB": "25",
                 "TRB": "24",
                 "AST": "11",
@@ -191,8 +205,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
-                "FG": "20",
+                "MP": "22",
+                "FG": "19",
                 "FGA": "13",
                 "FG%": "25",
                 "3P": "15",
@@ -212,7 +226,7 @@
                 "BLK": "17",
                 "TOV": "18",
                 "PF": "12",
-                "PTS": "15"
+                "PTS": "13"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -245,7 +259,7 @@
                 "PW": "39",
                 "PL": "22",
                 "MOV": "4.44",
-                "SOS": "-0.70",
+                "SOS": "-0.71",
                 "SRS": "3.74",
                 "ORtg": "119.6",
                 "DRtg": "115.1",
@@ -263,7 +277,7 @@
             "Misc Lg Rank": {
                 "W": "4",
                 "L": "26",
-                "PW": "6",
+                "PW": "7",
                 "PL": "6",
                 "MOV": "6",
                 "SOS": "28",
@@ -277,12 +291,12 @@
                 "TOV%": "16",
                 "ORB%": "11",
                 "FT/FGA": "4",
-                "DRB%": "16",
+                "DRB%": "17",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NYK-2025.png",
-        "last_update": "Mar 05 2025 22:32:14"
+        "last_update": "Mar 06 2025 22:32:16"
     }
 }

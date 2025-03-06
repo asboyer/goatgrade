@@ -31,8 +31,8 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Wrist) - Ball did not play on Tuesday's (Mar. 4) game against Cleveland."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Wrist) - The Bulls listed Ball as Questionable for Thursday's (Mar. 6) game against the Magic."
             },
             {
                 "Player": "Ayo Dosunmu",
@@ -43,26 +43,26 @@
             {
                 "Player": "Josh Giddey",
                 "Team": "Chicago Bulls",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Quadricep) - Giddey did not play on Tuesday's (Mar. 4) game against Cleveland."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Quadricep) - The Bulls listed Giddey as Questionable for Thursday's (Mar. 6) game against the Magic."
             },
             {
                 "Player": "Kevin Huerter",
                 "Team": "Chicago Bulls",
                 "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Knee) - Huerter did not play on Tuesday's (Mar. 4) game against Cleveland."
+                "Description": "Day To Day (Knee) - The Bulls listed Huerter as Questionable for Thursday's (Mar. 6) game against the Magic."
             },
             {
                 "Player": "Nikola Vučević",
                 "Team": "Chicago Bulls",
                 "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Calf) - Vucevic did not play on Tuesday's (Mar. 4) game against Cleveland."
+                "Description": "Day To Day (Calf) - The Bulls listed Vucevic as Doubtful for Thursday's (Mar. 6) game against the Magic."
             },
             {
                 "Player": "Patrick Williams",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Feb 20, 2025",
-                "Description": "Out (Knee) - The Bulls announced Thursday (Feb. 20) that Williams received a platelet-rich plasma injection to address tendinosis in his right knee and will be re-evaluated in two weeks."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Knee) - The Bulls listed Williams as Questionable for Thursday's (Mar. 6) game against the Magic."
             }
         ],
         "team_stats": {
@@ -118,13 +118,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "12",
                 "FG": "9",
                 "FGA": "4",
                 "FG%": "16",
                 "3P": "3",
                 "3PA": "2",
-                "3P%": "11",
+                "3P%": "12",
                 "2P": "19",
                 "2PA": "24",
                 "2P%": "14",
@@ -218,20 +218,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "12",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "22",
-                "3P": "20",
+                "3P": "19",
                 "3PA": "28",
-                "3P%": "3",
+                "3P%": "2",
                 "2P": "30",
                 "2PA": "29",
                 "2P%": "25",
                 "FT": "16",
                 "FTA": "15",
-                "FT%": "22",
-                "ORB": "14",
+                "FT%": "23",
+                "ORB": "15",
                 "DRB": "30",
                 "TRB": "29",
                 "AST": "29",
@@ -272,8 +272,8 @@
                 "PW": "23",
                 "PL": "39",
                 "MOV": "-4.26",
-                "SOS": "-0.06",
-                "SRS": "-4.31",
+                "SOS": "-0.05",
+                "SRS": "-4.30",
                 "ORtg": "112.6",
                 "DRtg": "116.7",
                 "Pace": "102.9",
@@ -303,13 +303,13 @@
                 "eFG%": "20",
                 "TOV%": "29",
                 "ORB%": "27",
-                "FT/FGA": "8",
+                "FT/FGA": "9",
                 "DRB%": "7",
                 "Arena": "",
                 "Attendance": "1"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CHI-2025.png",
-        "last_update": "Mar 05 2025 22:32:14"
+        "last_update": "Mar 06 2025 22:32:16"
     }
 }

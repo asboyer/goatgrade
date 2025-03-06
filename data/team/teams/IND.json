@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Tyrese Haliburton",
+                "Team": "Indiana Pacers",
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Hip) - The Pacers listed Haliburton as Questionable on Thursday's (Mar. 6) game against the Hawks."
+            },
+            {
                 "Player": "Isaiah Jackson",
                 "Team": "Indiana Pacers",
                 "Update": "Sat, Nov 2, 2024",
@@ -37,8 +43,8 @@
             {
                 "Player": "Bennedict Mathurin",
                 "Team": "Indiana Pacers",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Wrist) - Mathurin did not play on Tuesday's (Mar. 4) game against Houston."
+                "Update": "Wed, Mar 5, 2025",
+                "Description": "Day To Day (Wrist) - The Pacers listed Mathurin as Questionable on Thursday's (Mar. 6) game against the Hawks."
             }
         ],
         "team_stats": {
@@ -94,9 +100,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "28",
                 "FG": "6",
-                "FGA": "19",
+                "FGA": "20",
                 "FG%": "4",
                 "3P": "16",
                 "3PA": "26",
@@ -112,7 +118,7 @@
                 "TRB": "29",
                 "AST": "4",
                 "STL": "9",
-                "BLK": "10",
+                "BLK": "9",
                 "TOV": "6",
                 "PF": "16",
                 "PTS": "9"
@@ -194,19 +200,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "28",
                 "FG": "23",
                 "FGA": "15",
                 "FG%": "24",
-                "3P": "7",
+                "3P": "5",
                 "3PA": "7",
                 "3P%": "13",
                 "2P": "27",
-                "2PA": "22",
+                "2PA": "21",
                 "2P%": "22",
                 "FT": "19",
-                "FTA": "22",
-                "FT%": "11",
+                "FTA": "20",
+                "FT%": "10",
                 "ORB": "21",
                 "DRB": "18",
                 "TRB": "19",
@@ -264,7 +270,7 @@
                 "Attendance": "488,687"
             },
             "Misc Lg Rank": {
-                "W": "9",
+                "W": "10",
                 "L": "21",
                 "PW": "16",
                 "PL": "14",
@@ -272,7 +278,7 @@
                 "SOS": "26",
                 "SRS": "16",
                 "ORtg": "8",
-                "DRtg": "17",
+                "DRtg": "16",
                 "Pace": "10",
                 "FTr": "19",
                 "3PAr": "23",
@@ -286,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/IND-2025.png",
-        "last_update": "Mar 05 2025 22:32:14"
+        "last_update": "Mar 06 2025 22:32:16"
     }
 }
