@@ -31,20 +31,20 @@
             {
                 "Player": "Jordan Clarkson",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Foot) - Clarksondid not play on Wednesday's (Mar. 5) game against the Wizards."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Foot) - The Jazz listed Clarkson as OUT for Friday's (Mar. 7) game against Toronto."
             },
             {
                 "Player": "John Collins",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Back) - Collins did not play on Wednesday's (Mar. 5) game against the Wizards."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Back) - The Jazz listed Collins as OUT for Friday's (Mar. 7) game against Toronto."
             },
             {
                 "Player": "Keyonte George",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Illness) - George did not play on Wednesday's (Mar. 5) game against the Wizards."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Illness) - The Jazz listed George as questionable for Friday's (Mar. 7) game against Toronto."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -61,20 +61,14 @@
             {
                 "Player": "Lauri Markkanen",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Back) - Markkanen did not play on Wednesday's (Mar. 5) game against the Wizards."
-            },
-            {
-                "Player": "Collin Sexton",
-                "Team": "Utah Jazz",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Ankle) - Sexton did not play on Wednesday's (Mar. 5) game against the Wizards."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Back) - The Jazz listed Markkanen as OUT for Friday's (Mar. 7) game against Toronto."
             },
             {
                 "Player": "Jaden Springer",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Back) - Springer did not play on Wednesday's (Mar. 5) game against the Wizards."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Back) - The Jazz listed Springer as Questionable for Friday's (Mar. 7) game against Toronto."
             }
         ],
         "team_stats": {
@@ -130,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "15",
                 "FG": "23",
                 "FGA": "21",
                 "FG%": "20",
@@ -139,14 +133,14 @@
                 "3P%": "17",
                 "2P": "24",
                 "2PA": "25",
-                "2P%": "17",
+                "2P%": "18",
                 "FT": "8",
-                "FTA": "9",
+                "FTA": "8",
                 "FT%": "19",
-                "ORB": "6",
+                "ORB": "7",
                 "DRB": "12",
                 "TRB": "6",
-                "AST": "17",
+                "AST": "18",
                 "STL": "30",
                 "BLK": "22",
                 "TOV": "30",
@@ -230,17 +224,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "15",
                 "FG": "28",
                 "FGA": "25",
                 "FG%": "26",
-                "3P": "29",
+                "3P": "30",
                 "3PA": "30",
-                "3P%": "17",
-                "2P": "24",
+                "3P%": "16",
+                "2P": "23",
                 "2PA": "13",
                 "2P%": "28",
-                "FT": "18",
+                "FT": "17",
                 "FTA": "22",
                 "FT%": "3",
                 "ORB": "17",
@@ -297,12 +291,12 @@
                 "FT/FGA": ".187",
                 "DRB%": "74.9",
                 "Arena": "Delta Center",
-                "Attendance": "581,600"
+                "Attend.": "581,600"
             },
             "Misc Lg Rank": {
                 "W": "28",
                 "L": "2",
-                "PW": "26",
+                "PW": "27",
                 "PL": "27",
                 "MOV": "27",
                 "SOS": "7",
@@ -316,12 +310,12 @@
                 "TOV%": "30",
                 "ORB%": "4",
                 "FT/FGA": "13",
-                "DRB%": "15",
+                "DRB%": "13",
                 "Arena": "",
-                "Attendance": "12"
+                "Attend.": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/UTA-2025.png",
-        "last_update": "Mar 06 2025 22:32:16"
+        "last_update": "Mar 07 2025 22:32:18"
     }
 }

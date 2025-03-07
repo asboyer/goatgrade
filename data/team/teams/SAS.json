@@ -31,8 +31,8 @@
             {
                 "Player": "Charles Bassey",
                 "Team": "San Antonio Spurs",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Knee) - Bassey did not play on Tuesday's (Mar. 4) game against the Nets."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Knee) - The Spurs have listed Bassey as OUT for Friday's (Mar. 7) game against the Kings."
             },
             {
                 "Player": "Victor Wembanyama",
@@ -94,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "29",
+                "MP": "30",
                 "FG": "15",
                 "FGA": "12",
                 "FG%": "17",
@@ -105,7 +105,7 @@
                 "2PA": "18",
                 "2P%": "13",
                 "FT": "25",
-                "FTA": "24",
+                "FTA": "26",
                 "FT%": "18",
                 "ORB": "18",
                 "DRB": "13",
@@ -194,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "29",
+                "MP": "30",
                 "FG": "25",
                 "FGA": "29",
                 "FG%": "18",
@@ -210,12 +210,12 @@
                 "ORB": "30",
                 "DRB": "25",
                 "TRB": "28",
-                "AST": "17",
-                "STL": "15",
+                "AST": "16",
+                "STL": "16",
                 "BLK": "9",
                 "TOV": "22",
                 "PF": "27",
-                "PTS": "21"
+                "PTS": "20"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -248,7 +248,7 @@
                 "PW": "26",
                 "PL": "34",
                 "MOV": "-1.92",
-                "SOS": "0.11",
+                "SOS": "0.12",
                 "SRS": "-1.80",
                 "ORtg": "113.5",
                 "DRtg": "115.4",
@@ -261,18 +261,18 @@
                 "FT/FGA": ".156",
                 "DRB%": "73.0",
                 "Arena": "Frost Bank Center",
-                "Attendance": "530,509"
+                "Attend.": "530,509"
             },
             "Misc Lg Rank": {
                 "W": "22",
-                "L": "10",
-                "PW": "20",
+                "L": "11",
+                "PW": "21",
                 "PL": "18",
                 "MOV": "19",
-                "SOS": "11",
+                "SOS": "13",
                 "SRS": "18",
                 "ORtg": "17",
-                "DRtg": "22",
+                "DRtg": "21",
                 "Pace": "12",
                 "FTr": "25",
                 "3PAr": "9",
@@ -282,10 +282,10 @@
                 "FT/FGA": "1",
                 "DRB%": "26",
                 "Arena": "",
-                "Attendance": "20"
+                "Attend.": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/SAS-2025.png",
-        "last_update": "Mar 06 2025 22:32:16"
+        "last_update": "Mar 07 2025 22:32:18"
     }
 }

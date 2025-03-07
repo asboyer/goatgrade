@@ -29,18 +29,6 @@
         ],
         "injuries": [
             {
-                "Player": "Derrick Jones Jr.",
-                "Team": "Los Angeles Clippers",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Knee) - Jones Jr. did not play on Wednesday's (Mar. 5) game against the Pistons."
-            },
-            {
-                "Player": "Kawhi Leonard",
-                "Team": "Los Angeles Clippers",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Rest) - Leonard did not play on Wednesday's (Mar. 5) game against the Pistons."
-            },
-            {
                 "Player": "Norman Powell",
                 "Team": "Los Angeles Clippers",
                 "Update": "Tue, Mar 4, 2025",
@@ -49,8 +37,8 @@
             {
                 "Player": "Ben Simmons",
                 "Team": "Los Angeles Clippers",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Knee) - Simmons did not play on Wednesday's (Mar. 5) game against the Pistons."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Knee) - The Clippers listed Simmons as OUT for Friday's (Mar. 7) game against New York."
             }
         ],
         "team_stats": {
@@ -106,14 +94,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "18",
                 "FG": "21",
-                "FGA": "25",
+                "FGA": "26",
                 "FG%": "13",
-                "3P": "27",
+                "3P": "26",
                 "3PA": "28",
                 "3P%": "16",
-                "2P": "14",
+                "2P": "13",
                 "2PA": "14",
                 "2P%": "16",
                 "FT": "12",
@@ -122,12 +110,12 @@
                 "ORB": "22",
                 "DRB": "17",
                 "TRB": "22",
-                "AST": "24",
+                "AST": "25",
                 "STL": "3",
                 "BLK": "24",
                 "TOV": "24",
                 "PF": "14",
-                "PTS": "22"
+                "PTS": "21"
             },
             "Year/Year": {
                 "G": "",
@@ -206,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "18",
                 "FG": "3",
                 "FGA": "4",
                 "FG%": "10",
@@ -261,7 +249,7 @@
                 "PL": "27",
                 "MOV": "2.05",
                 "SOS": "0.10",
-                "SRS": "2.14",
+                "SRS": "2.15",
                 "ORtg": "112.6",
                 "DRtg": "110.5",
                 "Pace": "98.0",
@@ -273,31 +261,31 @@
                 "FT/FGA": ".193",
                 "DRB%": "76.9",
                 "Arena": "Intuit Dome",
-                "Attendance": "483,214"
+                "Attend.": "483,214"
             },
             "Misc Lg Rank": {
                 "W": "14",
                 "L": "16",
                 "PW": "10",
-                "PL": "12",
+                "PL": "11",
                 "MOV": "11",
                 "SOS": "14",
                 "SRS": "10",
-                "ORtg": "20",
+                "ORtg": "21",
                 "DRtg": "4",
                 "Pace": "20",
                 "FTr": "12",
                 "3PAr": "24",
                 "eFG%": "12",
-                "TOV%": "6",
-                "ORB%": "18",
+                "TOV%": "5",
+                "ORB%": "19",
                 "FT/FGA": "18",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "29"
+                "Attend.": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAC-2025.png",
-        "last_update": "Mar 06 2025 22:32:16"
+        "last_update": "Mar 07 2025 22:32:18"
     }
 }

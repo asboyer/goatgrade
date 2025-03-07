@@ -30,8 +30,8 @@
             {
                 "Player": "Malik Monk",
                 "Team": "Sacramento Kings",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Toe) - Monk did not play on Wednesday's (Mar. 5) game against the Nuggets, per Chris Biderman of The Sacramento Bee."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Toe) - The Kings listed Monk as OUT for Friday's (Mar. 7) game against San Antonio."
             },
             {
                 "Player": "Domantas Sabonis",
@@ -93,11 +93,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "24",
                 "FG": "7",
                 "FGA": "7",
                 "FG%": "9",
-                "3P": "23",
+                "3P": "24",
                 "3PA": "20",
                 "3P%": "20",
                 "2P": "4",
@@ -110,7 +110,7 @@
                 "DRB": "9",
                 "TRB": "11",
                 "AST": "12",
-                "STL": "20",
+                "STL": "21",
                 "BLK": "21",
                 "TOV": "7",
                 "PF": "17",
@@ -193,7 +193,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "24",
                 "FG": "15",
                 "FGA": "14",
                 "FG%": "17",
@@ -203,13 +203,13 @@
                 "2P": "5",
                 "2PA": "9",
                 "2P%": "12",
-                "FT": "23",
+                "FT": "22",
                 "FTA": "21",
                 "FT%": "25",
                 "ORB": "5",
                 "DRB": "12",
-                "TRB": "8",
-                "AST": "19",
+                "TRB": "7",
+                "AST": "18",
                 "STL": "12",
                 "BLK": "8",
                 "TOV": "17",
@@ -247,8 +247,8 @@
                 "PW": "34",
                 "PL": "27",
                 "MOV": "1.72",
-                "SOS": "-0.38",
-                "SRS": "1.34",
+                "SOS": "-0.37",
+                "SRS": "1.35",
                 "ORtg": "116.5",
                 "DRtg": "114.7",
                 "Pace": "99.1",
@@ -260,20 +260,20 @@
                 "FT/FGA": ".202",
                 "DRB%": "76.9",
                 "Arena": "Golden 1 Center",
-                "Attendance": "496,529"
+                "Attend.": "496,529"
             },
             "Misc Lg Rank": {
                 "W": "15",
                 "L": "16",
-                "PW": "13",
-                "PL": "13",
+                "PW": "14",
+                "PL": "12",
                 "MOV": "13",
-                "SOS": "23",
+                "SOS": "22",
                 "SRS": "13",
                 "ORtg": "7",
                 "DRtg": "14",
-                "Pace": "16",
-                "FTr": "22",
+                "Pace": "15",
+                "FTr": "23",
                 "3PAr": "25",
                 "eFG%": "23",
                 "TOV%": "18",
@@ -281,10 +281,10 @@
                 "FT/FGA": "23",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "27"
+                "Attend.": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/SAC-2025.png",
-        "last_update": "Mar 06 2025 22:32:16"
+        "last_update": "Mar 07 2025 22:32:18"
     }
 }

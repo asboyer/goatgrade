@@ -29,16 +29,22 @@
         ],
         "injuries": [
             {
+                "Player": "Alec Burks",
+                "Team": "Miami Heat",
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Back) - The Heat listed Burks as Questionable for Friday's (Mar. 7) game against the Timberwolves."
+            },
+            {
                 "Player": "Tyler Herro",
                 "Team": "Miami Heat",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Illness) - Herro did not play on Wednesday's (Mar. 5) game against the Cavaliers with a head cold, per Ira Winderman of the South Florida Sun Sentinel."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Illness) - The Heat listed Herro as Questionable for Friday's (Mar. 7) game against the Timberwolves."
             },
             {
                 "Player": "Jaime Jaquez Jr.",
                 "Team": "Miami Heat",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Ankle) - Jaquez Jr. did not play on Wednesday's (Mar. 5) game against the Cavaliers."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Ankle) - The Heat listed Jaquez Jr. as Questionable for Friday's (Mar. 7) game against the Timberwolves."
             },
             {
                 "Player": "Nikola Jović",
@@ -55,14 +61,14 @@
             {
                 "Player": "Kel'el Ware",
                 "Team": "Miami Heat",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Knee) - Ware did not play on Wednesday's (Mar. 5) game against the Cavaliers."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Knee) - The Heat listed Ware as Out for Friday's (Mar. 7) game against the Timberwolves."
             },
             {
                 "Player": "Andrew Wiggins",
                 "Team": "Miami Heat",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Ankle) - Wiggins did not play on Wednesday's (Mar. 5) game against the Cavaliers."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Ankle) - The Heat listed Wiggins as Questionable for Friday's (Mar. 7) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -118,26 +124,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "23",
                 "FG": "25",
                 "FGA": "24",
                 "FG%": "21",
                 "3P": "10",
-                "3PA": "12",
+                "3PA": "11",
                 "3P%": "13",
                 "2P": "26",
                 "2PA": "27",
                 "2P%": "19",
-                "FT": "17",
+                "FT": "19",
                 "FTA": "19",
                 "FT%": "10",
                 "ORB": "27",
                 "DRB": "6",
                 "TRB": "21",
                 "AST": "15",
-                "STL": "20",
+                "STL": "21",
                 "BLK": "30",
-                "TOV": "10",
+                "TOV": "9",
                 "PF": "1",
                 "PTS": "25"
             },
@@ -218,9 +224,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "23",
                 "FG": "14",
-                "FGA": "16",
+                "FGA": "15",
                 "FG%": "13",
                 "3P": "20",
                 "3PA": "20",
@@ -231,7 +237,7 @@
                 "FT": "1",
                 "FTA": "1",
                 "FT%": "16",
-                "ORB": "12",
+                "ORB": "11",
                 "DRB": "26",
                 "TRB": "22",
                 "AST": "20",
@@ -285,7 +291,7 @@
                 "FT/FGA": ".158",
                 "DRB%": "75.7",
                 "Arena": "Kaseya Center",
-                "Attendance": "532,219"
+                "Attend.": "532,219"
             },
             "Misc Lg Rank": {
                 "W": "17",
@@ -295,10 +301,10 @@
                 "MOV": "17",
                 "SOS": "20",
                 "SRS": "17",
-                "ORtg": "18",
+                "ORtg": "20",
                 "DRtg": "12",
-                "Pace": "28",
-                "FTr": "16",
+                "Pace": "29",
+                "FTr": "17",
                 "3PAr": "8",
                 "eFG%": "13",
                 "TOV%": "21",
@@ -306,10 +312,10 @@
                 "FT/FGA": "2",
                 "DRB%": "10",
                 "Arena": "",
-                "Attendance": "19"
+                "Attend.": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MIA-2025.png",
-        "last_update": "Mar 06 2025 22:32:16"
+        "last_update": "Mar 07 2025 22:32:18"
     }
 }

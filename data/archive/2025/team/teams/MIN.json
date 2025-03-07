@@ -37,8 +37,8 @@
             {
                 "Player": "Rudy Gobert",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Back) - Gobert did not play on Wednesday's (Mar. 5) game against the Hornets."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Back) - The Timberwolves listed Gobert as questionable for Friday's (Mar. 7) game against Miami."
             }
         ],
         "team_stats": {
@@ -107,13 +107,13 @@
                 "FT": "11",
                 "FTA": "14",
                 "FT%": "9",
-                "ORB": "15",
+                "ORB": "16",
                 "DRB": "21",
                 "TRB": "16",
-                "AST": "20",
+                "AST": "19",
                 "STL": "14",
                 "BLK": "16",
-                "TOV": "18",
+                "TOV": "19",
                 "PF": "11",
                 "PTS": "19"
             },
@@ -203,7 +203,7 @@
                 "3P%": "4",
                 "2P": "11",
                 "2PA": "15",
-                "2P%": "11",
+                "2P%": "10",
                 "FT": "6",
                 "FTA": "7",
                 "FT%": "8",
@@ -213,7 +213,7 @@
                 "AST": "5",
                 "STL": "20",
                 "BLK": "14",
-                "TOV": "12",
+                "TOV": "11",
                 "PF": "11",
                 "PTS": "5"
             },
@@ -248,8 +248,8 @@
                 "PW": "39",
                 "PL": "25",
                 "MOV": "3.41",
-                "SOS": "0.79",
-                "SRS": "4.20",
+                "SOS": "0.80",
+                "SRS": "4.21",
                 "ORtg": "114.9",
                 "DRtg": "111.4",
                 "Pace": "97.4",
@@ -261,15 +261,15 @@
                 "FT/FGA": ".181",
                 "DRB%": "74.4",
                 "Arena": "Target Center",
-                "Attendance": "586,637"
+                "Attend.": "586,637"
             },
             "Misc Lg Rank": {
                 "W": "10",
                 "L": "16",
-                "PW": "6",
+                "PW": "7",
                 "PL": "8",
-                "MOV": "7",
-                "SOS": "3",
+                "MOV": "8",
+                "SOS": "2",
                 "SRS": "7",
                 "ORtg": "12",
                 "DRtg": "7",
@@ -279,13 +279,13 @@
                 "eFG%": "6",
                 "TOV%": "10",
                 "ORB%": "16",
-                "FT/FGA": "10",
+                "FT/FGA": "9",
                 "DRB%": "19",
                 "Arena": "",
-                "Attendance": "10"
+                "Attend.": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MIN-2025.png",
-        "last_update": "Mar 06 2025 22:32:16"
+        "last_update": "Mar 07 2025 22:32:18"
     }
 }

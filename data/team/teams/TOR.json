@@ -31,13 +31,19 @@
                 "Player": "Ochai Agbaji",
                 "Team": "Toronto Raptors",
                 "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Ankle) - Agbaji did not play on Tuesday's (Mar. 4) game against the Magic."
+                "Description": "Out (Ankle) - The Raptors listed Agbaji as Out for Friday's (Mar. 7) game against Utah."
             },
             {
-                "Player": "Jamison Battle",
+                "Player": "RJ Barrett",
                 "Team": "Toronto Raptors",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Nose) - Battle did not play on Tuesday's (Mar. 4) game against the Magic."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Ankle) - The Raptors listed Barrett as Out for Friday's (Mar. 7) game against Utah."
+            },
+            {
+                "Player": "Chris Boucher",
+                "Team": "Toronto Raptors",
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Tooth) - The Raptors listed Boucher as Probable for Friday's (Mar. 7) game against Utah."
             },
             {
                 "Player": "Ulrich Chomche",
@@ -60,14 +66,14 @@
             {
                 "Player": "Jonathan Mogbo",
                 "Team": "Toronto Raptors",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Face) - Mogbo won't return to Tuesday's (Mar. 4) game against the Magic due to a facial contusion, according to Keith Langlois of the Pistons' official site."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Face) - The Raptors listed Mogbo as OUT for Friday's (Mar. 7) game against Utah."
             },
             {
-                "Player": "Garrett Temple",
+                "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Personal) - Temple did not play on Tuesday's (Mar. 4) game against the Magic."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Rest) - The Raptors listed Poeltl as Out for Friday's (Mar. 7) game against Utah."
             }
         ],
         "team_stats": {
@@ -123,7 +129,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "13",
                 "FG": "16",
                 "FGA": "17",
                 "FG%": "15",
@@ -135,7 +141,7 @@
                 "2P%": "22",
                 "FT": "26",
                 "FTA": "18",
-                "FT%": "28",
+                "FT%": "29",
                 "ORB": "9",
                 "DRB": "24",
                 "TRB": "18",
@@ -223,7 +229,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "13",
                 "FG": "16",
                 "FGA": "8",
                 "FG%": "20",
@@ -235,7 +241,7 @@
                 "2P%": "23",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "12",
+                "FT%": "11",
                 "ORB": "19",
                 "DRB": "13",
                 "TRB": "14",
@@ -290,7 +296,7 @@
                 "FT/FGA": ".227",
                 "DRB%": "74.1",
                 "Arena": "Scotiabank Arena",
-                "Attendance": "598,279"
+                "Attend.": "598,279"
             },
             "Misc Lg Rank": {
                 "W": "26",
@@ -302,19 +308,19 @@
                 "SRS": "24",
                 "ORtg": "26",
                 "DRtg": "24",
-                "Pace": "15",
+                "Pace": "14",
                 "FTr": "18",
                 "3PAr": "29",
-                "eFG%": "22",
+                "eFG%": "21",
                 "TOV%": "14",
                 "ORB%": "8",
                 "FT/FGA": "29",
                 "DRB%": "21",
                 "Arena": "",
-                "Attendance": "7"
+                "Attend.": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/TOR-2025.png",
-        "last_update": "Mar 06 2025 22:32:16"
+        "last_update": "Mar 07 2025 22:32:18"
     }
 }

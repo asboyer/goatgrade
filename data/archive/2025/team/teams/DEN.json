@@ -31,14 +31,26 @@
             {
                 "Player": "Aaron Gordon",
                 "Team": "Denver Nuggets",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Ankle) - Gordon did not play on Wednesday's (Mar. 5) game against the Kings."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets have listed Gordon as Questionable for Friday's (Mar. 7) game against the Suns."
             },
             {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sun, Feb 23, 2025",
                 "Description": "Out For Season (Achilles) - Nuggets HC Michael Malone said that Holmes was able to participate in portions of Wednesday's (Feb. 19) practice, as per Brendan Vogt of TheDNVR.com reports."
+            },
+            {
+                "Player": "Nikola Jokić",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets have listed Jokic as Questionable for Friday's (Mar. 7) game against the Suns."
+            },
+            {
+                "Player": "Zeke Nnaji",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets have listed Nnaji as Probable for Friday's (Mar. 7) game against the Suns."
             },
             {
                 "Player": "Julian Strawther",
@@ -100,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "15",
                 "FG": "1",
                 "FGA": "11",
                 "FG%": "1",
@@ -111,14 +123,14 @@
                 "2PA": "1",
                 "2P%": "2",
                 "FT": "6",
-                "FTA": "8",
+                "FTA": "7",
                 "FT%": "21",
-                "ORB": "11",
+                "ORB": "10",
                 "DRB": "3",
                 "TRB": "4",
                 "AST": "1",
                 "STL": "12",
-                "BLK": "19",
+                "BLK": "20",
                 "TOV": "17",
                 "PF": "6",
                 "PTS": "3"
@@ -200,14 +212,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "15",
                 "FG": "24",
                 "FGA": "28",
                 "FG%": "12",
                 "3P": "23",
                 "3PA": "18",
                 "3P%": "21",
-                "2P": "23",
+                "2P": "22",
                 "2PA": "27",
                 "2P%": "9",
                 "FT": "7",
@@ -255,7 +267,7 @@
                 "PL": "22",
                 "MOV": "5.11",
                 "SOS": "-0.37",
-                "SRS": "4.74",
+                "SRS": "4.75",
                 "ORtg": "120.0",
                 "DRtg": "114.9",
                 "Pace": "100.2",
@@ -267,7 +279,7 @@
                 "FT/FGA": ".173",
                 "DRB%": "74.8",
                 "Arena": "Ball Arena",
-                "Attendance": "593,032"
+                "Attend.": "593,032"
             },
             "Misc Lg Rank": {
                 "W": "4",
@@ -275,23 +287,23 @@
                 "PW": "5",
                 "PL": "5",
                 "MOV": "5",
-                "SOS": "22",
+                "SOS": "21",
                 "SRS": "5",
-                "ORtg": "2",
-                "DRtg": "17",
+                "ORtg": "3",
+                "DRtg": "16",
                 "Pace": "5",
                 "FTr": "10",
                 "3PAr": "30",
-                "eFG%": "11",
+                "eFG%": "10",
                 "TOV%": "26",
                 "ORB%": "7",
-                "FT/FGA": "6",
+                "FT/FGA": "4",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "9"
+                "Attend.": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DEN-2025.png",
-        "last_update": "Mar 06 2025 22:32:16"
+        "last_update": "Mar 07 2025 22:32:18"
     }
 }

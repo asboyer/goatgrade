@@ -36,8 +36,8 @@
             {
                 "Player": "Dante Exum",
                 "Team": "Dallas Mavericks",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Foot) - Exum did not play on Wednesday's (Mar. 5) game against the Bucks."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Foot) - The Mavericks have listed Exum as Questionable for Friday's (Mar. 7) game against the Grizzlies."
             },
             {
                 "Player": "Daniel Gafford",
@@ -60,8 +60,8 @@
             {
                 "Player": "Kai Jones",
                 "Team": "Dallas Mavericks",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Quadriceps) - Jones did not play on Wednesday's (Mar. 5) game against the Bucks."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Quadriceps) - The Mavericks have listed Jones as OUT for Friday's (Mar. 7) game against the Grizzlies."
             },
             {
                 "Player": "Dereck Lively II",
@@ -72,14 +72,20 @@
             {
                 "Player": "Caleb Martin",
                 "Team": "Dallas Mavericks",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Hip) - Martin did not play on Wednesday's (Mar. 5) game against the Bucks."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Hip) - The Mavericks have listed Martin as Questionable for Friday's (Mar. 7) game against the Grizzlies."
+            },
+            {
+                "Player": "Olivier-Maxence Prosper",
+                "Team": "Dallas Mavericks",
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Wrist) - The Mavericks have listed Prosper as OUT for Friday's (Mar. 7) game against the Grizzlies."
             },
             {
                 "Player": "P.J. Washington",
                 "Team": "Dallas Mavericks",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Ankle) - Washington Jr. did not play on Wednesday's (Mar. 5) game against the Bucks."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Ankle) - The Mavericks have listed Washington Jr. as OUT for Friday's (Mar. 7) game against the Grizzlies."
             }
         ],
         "team_stats": {
@@ -135,18 +141,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "9",
                 "FG": "12",
                 "FGA": "19",
                 "FG%": "12",
                 "3P": "17",
                 "3PA": "21",
-                "3P%": "9",
+                "3P%": "8",
                 "2P": "11",
                 "2PA": "12",
                 "2P%": "15",
                 "FT": "9",
-                "FTA": "7",
+                "FTA": "6",
                 "FT%": "22",
                 "ORB": "21",
                 "DRB": "18",
@@ -154,7 +160,7 @@
                 "AST": "22",
                 "STL": "17",
                 "BLK": "4",
-                "TOV": "13",
+                "TOV": "12",
                 "PF": "12",
                 "PTS": "13"
             },
@@ -235,7 +241,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "9",
                 "FG": "20",
                 "FGA": "24",
                 "FG%": "9",
@@ -251,12 +257,12 @@
                 "ORB": "29",
                 "DRB": "15",
                 "TRB": "24",
-                "AST": "18",
-                "STL": "10",
+                "AST": "17",
+                "STL": "11",
                 "BLK": "12",
                 "TOV": "24",
                 "PF": "18",
-                "PTS": "17"
+                "PTS": "16"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -302,31 +308,31 @@
                 "FT/FGA": ".182",
                 "DRB%": "72.9",
                 "Arena": "American Airlines Center",
-                "Attendance": "642,470"
+                "Attend.": "642,470"
             },
             "Misc Lg Rank": {
                 "W": "15",
                 "L": "15",
-                "PW": "15",
+                "PW": "16",
                 "PL": "16",
                 "MOV": "16",
                 "SOS": "6",
                 "SRS": "14",
-                "ORtg": "11",
+                "ORtg": "10",
                 "DRtg": "15",
                 "Pace": "17",
                 "FTr": "6",
                 "3PAr": "22",
                 "eFG%": "7",
-                "TOV%": "23",
+                "TOV%": "24",
                 "ORB%": "21",
-                "FT/FGA": "12",
+                "FT/FGA": "11",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "2"
+                "Attend.": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DAL-2025.png",
-        "last_update": "Mar 06 2025 22:32:16"
+        "last_update": "Mar 07 2025 22:32:18"
     }
 }

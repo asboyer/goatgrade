@@ -29,16 +29,28 @@
         ],
         "injuries": [
             {
-                "Player": "Alex Caruso",
+                "Player": "Luguentz Dort",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Ankle) - Caruso did not play on Wednesday's (Mar. 5) game against the Grizzlies."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Patellofemoral) - The Thunder listed Dort as OUT for Friday's (Mar. 7) game against Portland."
+            },
+            {
+                "Player": "Shai Gilgeous-Alexander",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Rest) - The Thunder listed Gilgeous-Alexander as OUT for Friday's (Mar. 7) game against Portland."
+            },
+            {
+                "Player": "Isaiah Hartenstein",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Nasal) - The Thunder listed Hartenstein as OUT for Friday's (Mar. 7) game against Portland."
             },
             {
                 "Player": "Chet Holmgren",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Leg) - Holmgren did not play on Wednesday's (Mar. 5) game against the Grizzlies."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Leg) - The Thunder listed Caruso as questionable for Friday's (Mar. 7) game against Portland."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -51,6 +63,18 @@
                 "Team": "Oklahoma City Thunder",
                 "Update": "Sun, Jan 12, 2025",
                 "Description": "Out For Season (ACL) - Topic was spotted taking part in light shooting drills on the court prior to the Thunder's 105-92 win over the Celtics last Sunday (Jan. 12), as per Clemente Almanza of USA Today."
+            },
+            {
+                "Player": "Cason Wallace",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Knee) - The Thunder listed Wallace as OUT for Friday's (Mar. 7) game against Portland."
+            },
+            {
+                "Player": "Jalen Williams",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Wrist) - The Thunder listed Williams as OUT for Friday's (Mar. 7) game against Portland."
             }
         ],
         "team_stats": {
@@ -106,7 +130,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "20",
                 "FG": "4",
                 "FGA": "3",
                 "FG%": "8",
@@ -119,7 +143,7 @@
                 "FT": "23",
                 "FTA": "28",
                 "FT%": "1",
-                "ORB": "16",
+                "ORB": "17",
                 "DRB": "10",
                 "TRB": "13",
                 "AST": "13",
@@ -206,7 +230,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "20",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
@@ -218,15 +242,15 @@
                 "2P%": "1",
                 "FT": "28",
                 "FTA": "29",
-                "FT%": "7",
+                "FT%": "6",
                 "ORB": "24",
-                "DRB": "19",
+                "DRB": "20",
                 "TRB": "25",
                 "AST": "4",
                 "STL": "1",
                 "BLK": "11",
                 "TOV": "1",
-                "PF": "24",
+                "PF": "23",
                 "PTS": "2"
             },
             "Opp Year/Year": {
@@ -261,7 +285,7 @@
                 "PL": "11",
                 "MOV": "12.73",
                 "SOS": "-0.21",
-                "SRS": "12.51",
+                "SRS": "12.52",
                 "ORtg": "119.6",
                 "DRtg": "106.9",
                 "Pace": "99.9",
@@ -273,7 +297,7 @@
                 "FT/FGA": ".219",
                 "DRB%": "73.7",
                 "Arena": "Paycom Center",
-                "Attendance": "554,891"
+                "Attend.": "554,891"
             },
             "Misc Lg Rank": {
                 "W": "2",
@@ -283,21 +307,21 @@
                 "MOV": "1",
                 "SOS": "16",
                 "SRS": "1",
-                "ORtg": "5",
+                "ORtg": "4",
                 "DRtg": "1",
                 "Pace": "8",
                 "FTr": "29",
                 "3PAr": "15",
                 "eFG%": "1",
                 "TOV%": "1",
-                "ORB%": "19",
+                "ORB%": "20",
                 "FT/FGA": "28",
                 "DRB%": "23",
                 "Arena": "",
-                "Attendance": "14"
+                "Attend.": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/OKC-2025.png",
-        "last_update": "Mar 06 2025 22:32:16"
+        "last_update": "Mar 07 2025 22:32:18"
     }
 }

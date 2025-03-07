@@ -31,14 +31,14 @@
             {
                 "Player": "Bradley Beal",
                 "Team": "Phoenix Suns",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Day To Day (Calf) - Beal did not return to Tuesday's (Mar. 4) game against the Clippers, per independent NBA writer Justin Russo."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Calf) - The Suns listed Beal as questionable for Friday's (Mar. 7) game against Denver."
             },
             {
                 "Player": "Cody Martin",
                 "Team": "Phoenix Suns",
-                "Update": "Mon, Mar 3, 2025",
-                "Description": "Day To Day (Abdomen) - The team announced Martin hasn't taken the court since Friday (Jan. 24) while recovering from a sports hernia, and the team has yet to comment on a timetable for his return. His next opportunity to play will arrive Friday (Mar. 7) i"
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Abdomen) - The Suns listed Martin as OUT for Friday's (Mar. 7) game against Denver."
             }
         ],
         "team_stats": {
@@ -94,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "13",
                 "FG": "19",
                 "FGA": "27",
                 "FG%": "10",
@@ -109,7 +109,7 @@
                 "FT%": "3",
                 "ORB": "28",
                 "DRB": "11",
-                "TRB": "25",
+                "TRB": "26",
                 "AST": "10",
                 "STL": "28",
                 "BLK": "13",
@@ -194,9 +194,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "13",
                 "FG": "21",
-                "FGA": "21",
+                "FGA": "22",
                 "FG%": "15",
                 "3P": "25",
                 "3PA": "23",
@@ -204,15 +204,15 @@
                 "2P": "18",
                 "2PA": "17",
                 "2P%": "14",
-                "FT": "19",
-                "FTA": "19",
-                "FT%": "18",
+                "FT": "20",
+                "FTA": "18",
+                "FT%": "19",
                 "ORB": "26",
-                "DRB": "17",
+                "DRB": "16",
                 "TRB": "21",
-                "AST": "16",
+                "AST": "15",
                 "STL": "18",
-                "BLK": "3",
+                "BLK": "4",
                 "TOV": "29",
                 "PF": "9",
                 "PTS": "23"
@@ -261,7 +261,7 @@
                 "FT/FGA": ".192",
                 "DRB%": "73.5",
                 "Arena": "Footprint Center",
-                "Attendance": "529,201"
+                "Attend.": "529,201"
             },
             "Misc Lg Rank": {
                 "W": "17",
@@ -270,7 +270,7 @@
                 "PL": "19",
                 "MOV": "20",
                 "SOS": "25",
-                "SRS": "20",
+                "SRS": "21",
                 "ORtg": "9",
                 "DRtg": "27",
                 "Pace": "23",
@@ -282,10 +282,10 @@
                 "FT/FGA": "15",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "21"
+                "Attend.": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHO-2025.png",
-        "last_update": "Mar 06 2025 22:32:16"
+        "last_update": "Mar 07 2025 22:32:18"
     }
 }

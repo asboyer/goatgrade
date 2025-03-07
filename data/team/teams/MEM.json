@@ -31,8 +31,8 @@
             {
                 "Player": "Santi Aldama",
                 "Team": "Memphis Grizzlies",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Calf) - Aldama did not play on Wednesday's (Mar. 5) game against the Thunder."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Calf) - The Grizzlies listed Aldama as questionable for Friday's (Mar. 7) game against Dallas."
             },
             {
                 "Player": "Jaren Jackson Jr.",
@@ -43,20 +43,20 @@
             {
                 "Player": "Yuki Kawamura",
                 "Team": "Memphis Grizzlies",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Hamstring) - Kawamura did not play on Wednesday's (Mar. 5) game against the Thunder."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Hamstring) - The Grizzlies listed Kawamura as OUT for Friday's (Mar. 7) game against Dallas."
             },
             {
                 "Player": "John Konchar",
                 "Team": "Memphis Grizzlies",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Knee) - Konchar did not play on Wednesday's (Mar. 5) game against the Thunder."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Day To Day (Knee) - The Grizzlies listed Konchar as questionable for Friday's (Mar. 7) game against Dallas."
             },
             {
                 "Player": "Zyon Pullin",
                 "Team": "Memphis Grizzlies",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Knee) - Pullin did not play on Wednesday's (Mar. 5) game against the Thunder."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Knee) - The Grizzlies listed Pullin as OUT for Friday's (Mar. 7) game against Dallas."
             }
         ],
         "team_stats": {
@@ -112,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "20",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "5",
@@ -212,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "20",
                 "FG": "22",
                 "FGA": "27",
                 "FG%": "6",
@@ -222,7 +222,7 @@
                 "2P": "19",
                 "2PA": "24",
                 "2P%": "8",
-                "FT": "27",
+                "FT": "26",
                 "FTA": "28",
                 "FT%": "2",
                 "ORB": "23",
@@ -279,7 +279,7 @@
                 "FT/FGA": ".200",
                 "DRB%": "74.3",
                 "Arena": "FedEx Forum",
-                "Attendance": "527,896"
+                "Attend.": "527,896"
             },
             "Misc Lg Rank": {
                 "W": "7",
@@ -287,7 +287,7 @@
                 "PW": "4",
                 "PL": "4",
                 "MOV": "4",
-                "SOS": "18",
+                "SOS": "19",
                 "SRS": "4",
                 "ORtg": "6",
                 "DRtg": "10",
@@ -300,10 +300,10 @@
                 "FT/FGA": "21",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "22"
+                "Attend.": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MEM-2025.png",
-        "last_update": "Mar 06 2025 22:32:16"
+        "last_update": "Mar 07 2025 22:32:18"
     }
 }
