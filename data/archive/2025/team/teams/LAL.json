@@ -29,28 +29,34 @@
         ],
         "injuries": [
             {
-                "Player": "Jordan Goodwin",
+                "Player": "Luka Dončić",
                 "Team": "Los Angeles Lakers",
-                "Update": "Thu, Mar 6, 2025",
-                "Description": "Day To Day (Ankle) - Goodwin did not play on Thursday's (Mar. 6) game against the Knicks."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Knee) - The Lakers have listed Doncic as Probable for Saturday's (Mar. 8) game against the Celtics."
             },
             {
                 "Player": "Rui Hachimura",
                 "Team": "Los Angeles Lakers",
-                "Update": "Thu, Mar 6, 2025",
-                "Description": "Day To Day (Knee) - Hachimura did not play on Thursday's (Mar. 6) game against the Knicks."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Out (Knee) - The Lakers have listed Hachimura as OUT for Saturday's (Mar. 8) game against the Celtics."
+            },
+            {
+                "Player": "Jaxson Hayes",
+                "Team": "Los Angeles Lakers",
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Knee) - The Lakers have listed Hayes as Questionable for Saturday's (Mar. 8) game against the Celtics."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Foot) - The Lakers have listed James as Probable for Saturday's (Mar. 8) game against the Celtics."
             },
             {
                 "Player": "Maxi Kleber",
                 "Team": "Los Angeles Lakers",
                 "Update": "Tue, Feb 4, 2025",
                 "Description": "Out (Foot) - Kleber will have his surgically repaired right foot re-evaluated in eight weeks, according to Jovan Buha of The Athletic."
-            },
-            {
-                "Player": "Markieff Morris",
-                "Team": "Los Angeles Lakers",
-                "Update": "Thu, Mar 6, 2025",
-                "Description": "Day To Day (Illness) - Morris did not play on Thursday's (Mar. 6) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -107,13 +113,13 @@
             "Lg Rank": {
                 "G": "",
                 "MP": "27",
-                "FG": "18",
+                "FG": "19",
                 "FGA": "30",
                 "FG%": "7",
-                "3P": "23",
+                "3P": "22",
                 "3PA": "22",
-                "3P%": "18",
-                "2P": "15",
+                "3P%": "17",
+                "2P": "14",
                 "2PA": "20",
                 "2P%": "3",
                 "FT": "2",
@@ -215,17 +221,17 @@
                 "3P%": "3",
                 "2P": "15",
                 "2PA": "14",
-                "2P%": "16",
+                "2P%": "17",
                 "FT": "5",
                 "FTA": "5",
-                "FT%": "21",
-                "ORB": "15",
+                "FT%": "22",
+                "ORB": "16",
                 "DRB": "6",
                 "TRB": "9",
                 "AST": "23",
                 "STL": "17",
-                "BLK": "3",
-                "TOV": "19",
+                "BLK": "4",
+                "TOV": "20",
                 "PF": "6",
                 "PTS": "8"
             },
@@ -261,7 +267,7 @@
                 "PL": "27",
                 "MOV": "1.98",
                 "SOS": "-0.23",
-                "SRS": "1.76",
+                "SRS": "1.75",
                 "ORtg": "115.4",
                 "DRtg": "113.3",
                 "Pace": "97.7",
@@ -273,17 +279,17 @@
                 "FT/FGA": ".174",
                 "DRB%": "74.9",
                 "Arena": "Crypto.com Arena",
-                "Attend.": "599,215"
+                "Attendance": "599,215"
             },
             "Misc Lg Rank": {
-                "W": "4",
+                "W": "5",
                 "L": "27",
-                "PW": "13",
+                "PW": "14",
                 "PL": "10",
-                "MOV": "12",
+                "MOV": "13",
                 "SOS": "17",
                 "SRS": "11",
-                "ORtg": "11",
+                "ORtg": "10",
                 "DRtg": "13",
                 "Pace": "22",
                 "FTr": "2",
@@ -291,13 +297,13 @@
                 "eFG%": "9",
                 "TOV%": "20",
                 "ORB%": "23",
-                "FT/FGA": "6",
-                "DRB%": "14",
+                "FT/FGA": "5",
+                "DRB%": "15",
                 "Arena": "",
-                "Attend.": "8"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAL-2025.png",
-        "last_update": "Mar 07 2025 22:32:18"
+        "last_update": "Mar 08 2025 22:32:18"
     }
 }

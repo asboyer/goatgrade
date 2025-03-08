@@ -43,14 +43,32 @@
             {
                 "Player": "Vit Krejci",
                 "Team": "Atlanta Hawks",
-                "Update": "Wed, Feb 12, 2025",
-                "Description": "Out (Back) - The Hawks announced on Wednesday (Feb. 12) that Krejci will be re-evaluated in three to four weeks, and an update will be provided at that time."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Back) - The Hawks have listed Krejci as Questionable for Saturday's (Mar. 8) game against the Pacers."
+            },
+            {
+                "Player": "Caris LeVert",
+                "Team": "Atlanta Hawks",
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Knee) - The Hawks have listed LeVert as Questionable for Saturday's (Mar. 8) game against the Pacers."
+            },
+            {
+                "Player": "Terance Mann",
+                "Team": "Atlanta Hawks",
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Quad) - The Hawks have listed Mann as Questionable for Saturday's (Mar. 8) game against the Pacers."
             },
             {
                 "Player": "Larry Nance Jr.",
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Feb 12, 2025",
                 "Description": "Out (Knee) - The Hawks announced on Wednesday (Feb. 12) that Nance Jr. will be re-evaluated in approximately six weeks, and an update will be provided at that time."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks have listed Young as Probable for Saturday's (Mar. 8) game against the Pacers."
             }
         ],
         "team_stats": {
@@ -106,20 +124,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "10",
                 "FG": "8",
                 "FGA": "5",
                 "FG%": "14",
                 "3P": "15",
-                "3PA": "16",
-                "3P%": "19",
+                "3PA": "15",
+                "3P%": "20",
                 "2P": "8",
                 "2PA": "8",
-                "2P%": "17",
+                "2P%": "15",
                 "FT": "3",
                 "FTA": "2",
                 "FT%": "25",
-                "ORB": "8",
+                "ORB": "9",
                 "DRB": "22",
                 "TRB": "12",
                 "AST": "2",
@@ -127,7 +145,7 @@
                 "BLK": "11",
                 "TOV": "26",
                 "PF": "15",
-                "PTS": "6"
+                "PTS": "5"
             },
             "Year/Year": {
                 "G": "",
@@ -206,7 +224,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "10",
                 "FG": "27",
                 "FGA": "20",
                 "FG%": "29",
@@ -260,8 +278,8 @@
                 "PW": "27",
                 "PL": "36",
                 "MOV": "-2.67",
-                "SOS": "0.24",
-                "SRS": "-2.43",
+                "SOS": "0.23",
+                "SRS": "-2.44",
                 "ORtg": "112.8",
                 "DRtg": "115.3",
                 "Pace": "103.1",
@@ -273,31 +291,31 @@
                 "FT/FGA": ".197",
                 "DRB%": "76.0",
                 "Arena": "State Farm Arena",
-                "Attend.": "491,432"
+                "Attendance": "491,432"
             },
             "Misc Lg Rank": {
                 "W": "17",
-                "L": "11",
+                "L": "12",
                 "PW": "20",
                 "PL": "21",
                 "MOV": "21",
-                "SOS": "10",
+                "SOS": "11",
                 "SRS": "20",
                 "ORtg": "19",
                 "DRtg": "20",
                 "Pace": "2",
-                "FTr": "5",
+                "FTr": "6",
                 "3PAr": "19",
                 "eFG%": "28",
                 "TOV%": "6",
                 "ORB%": "12",
-                "FT/FGA": "20",
+                "FT/FGA": "19",
                 "DRB%": "8",
                 "Arena": "",
-                "Attend.": "28"
+                "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/ATL-2025.png",
-        "last_update": "Mar 07 2025 22:32:18"
+        "last_update": "Mar 08 2025 22:32:18"
     }
 }

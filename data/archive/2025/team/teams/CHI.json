@@ -31,8 +31,8 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Mar 6, 2025",
-                "Description": "Day To Day (Wrist) - Ball did not play on Thursday's (Mar. 6) game against the Magic."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Wrist) - The Bulls have listed Ball as Doubtful for Saturday's (Mar. 8) game against the Heat."
             },
             {
                 "Player": "Ayo Dosunmu",
@@ -41,16 +41,28 @@
                 "Description": "Out For Season (Shoulder) - The Bulls announced Dosunmu will undergo surgery and be out for the remainder of the season."
             },
             {
+                "Player": "Talen Horton-Tucker",
+                "Team": "Chicago Bulls",
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Ankle) - The Bulls have listed Horton-Tucker as Probable for Saturday's (Mar. 8) game against the Heat."
+            },
+            {
                 "Player": "Nikola Vučević",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Mar 6, 2025",
-                "Description": "Day To Day (Calf) - Vucevic did not play on Thursday's (Mar. 6) game against the Magic."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Calf) - The Bulls have listed Vucevic as Doubtful for Saturday's (Mar. 8) game against the Heat."
+            },
+            {
+                "Player": "Coby White",
+                "Team": "Chicago Bulls",
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Toe) - The Bulls have listed White as Probable for Saturday's (Mar. 8) game against the Heat."
             },
             {
                 "Player": "Patrick Williams",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Mar 6, 2025",
-                "Description": "Day To Day (Knee) - Williams did not play on Thursday's (Mar. 6) game against the Magic."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Knee) - The Bulls have listed Williams as Doubtful for Saturday's (Mar. 8) game against the Heat."
             }
         ],
         "team_stats": {
@@ -106,19 +118,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "13",
                 "FG": "9",
                 "FGA": "4",
                 "FG%": "16",
                 "3P": "3",
                 "3PA": "2",
-                "3P%": "12",
+                "3P%": "11",
                 "2P": "20",
                 "2PA": "24",
                 "2P%": "14",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "4",
+                "FT%": "5",
                 "ORB": "25",
                 "DRB": "2",
                 "TRB": "8",
@@ -206,23 +218,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "13",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "22",
                 "3P": "17",
-                "3PA": "27",
+                "3PA": "28",
                 "3P%": "2",
                 "2P": "30",
                 "2PA": "29",
                 "2P%": "25",
                 "FT": "18",
-                "FTA": "16",
-                "FT%": "24",
+                "FTA": "15",
+                "FT%": "25",
                 "ORB": "14",
                 "DRB": "30",
                 "TRB": "29",
-                "AST": "29",
+                "AST": "28",
                 "STL": "15",
                 "BLK": "18",
                 "TOV": "28",
@@ -260,8 +272,8 @@
                 "PW": "24",
                 "PL": "39",
                 "MOV": "-4.16",
-                "SOS": "-0.08",
-                "SRS": "-4.24",
+                "SOS": "-0.09",
+                "SRS": "-4.25",
                 "ORtg": "112.8",
                 "DRtg": "116.8",
                 "Pace": "102.9",
@@ -273,31 +285,31 @@
                 "FT/FGA": ".183",
                 "DRB%": "76.2",
                 "Arena": "United Center",
-                "Attend.": "656,827"
+                "Attendance": "656,827"
             },
             "Misc Lg Rank": {
                 "W": "23",
                 "L": "8",
                 "PW": "23",
-                "PL": "23",
+                "PL": "22",
                 "MOV": "23",
                 "SOS": "15",
-                "SRS": "23",
+                "SRS": "24",
                 "ORtg": "18",
                 "DRtg": "25",
                 "Pace": "3",
                 "FTr": "30",
                 "3PAr": "2",
                 "eFG%": "20",
-                "TOV%": "29",
-                "ORB%": "27",
+                "TOV%": "28",
+                "ORB%": "26",
                 "FT/FGA": "12",
                 "DRB%": "7",
                 "Arena": "",
-                "Attend.": "1"
+                "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CHI-2025.png",
-        "last_update": "Mar 07 2025 22:32:18"
+        "last_update": "Mar 08 2025 22:32:18"
     }
 }

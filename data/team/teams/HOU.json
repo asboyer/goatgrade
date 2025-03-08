@@ -31,8 +31,8 @@
             {
                 "Player": "Fred VanVleet",
                 "Team": "Houston Rockets",
-                "Update": "Thu, Mar 6, 2025",
-                "Description": "Day To Day (Ankle) - VanVleet did not play on Thursday's (Mar. 6) game against the Pelicans."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Out (Ankle) - The Rockets have listed VanVleet as OUT for Saturday's (Mar. 8) game against the Pelicans."
             }
         ],
         "team_stats": {
@@ -88,26 +88,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "13",
                 "FG": "13",
                 "FGA": "2",
                 "FG%": "26",
-                "3P": "27",
+                "3P": "28",
                 "3PA": "23",
                 "3P%": "27",
                 "2P": "10",
                 "2PA": "2",
                 "2P%": "29",
-                "FT": "14",
+                "FT": "15",
                 "FTA": "5",
                 "FT%": "30",
                 "ORB": "1",
-                "DRB": "14",
+                "DRB": "13",
                 "TRB": "1",
                 "AST": "30",
                 "STL": "9",
                 "BLK": "14",
-                "TOV": "13",
+                "TOV": "14",
                 "PF": "23",
                 "PTS": "18"
             },
@@ -188,9 +188,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "13",
                 "FG": "4",
-                "FGA": "10",
+                "FGA": "11",
                 "FG%": "5",
                 "3P": "2",
                 "3PA": "2",
@@ -207,8 +207,8 @@
                 "AST": "1",
                 "STL": "13",
                 "BLK": "29",
-                "TOV": "14",
-                "PF": "3",
+                "TOV": "15",
+                "PF": "4",
                 "PTS": "6"
             },
             "Opp Year/Year": {
@@ -242,8 +242,8 @@
                 "PW": "38",
                 "PL": "25",
                 "MOV": "3.44",
-                "SOS": "0.80",
-                "SRS": "4.24",
+                "SOS": "0.79",
+                "SRS": "4.23",
                 "ORtg": "113.6",
                 "DRtg": "110.1",
                 "Pace": "98.7",
@@ -255,10 +255,10 @@
                 "FT/FGA": ".191",
                 "DRB%": "75.5",
                 "Arena": "Toyota Center",
-                "Attend.": "523,726"
+                "Attendance": "523,726"
             },
             "Misc Lg Rank": {
-                "W": "7",
+                "W": "8",
                 "L": "22",
                 "PW": "8",
                 "PL": "7",
@@ -276,10 +276,10 @@
                 "FT/FGA": "14",
                 "DRB%": "11",
                 "Arena": "",
-                "Attend.": "23"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/HOU-2025.png",
-        "last_update": "Mar 07 2025 22:32:18"
+        "last_update": "Mar 08 2025 22:32:18"
     }
 }

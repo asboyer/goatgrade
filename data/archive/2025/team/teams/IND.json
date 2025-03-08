@@ -31,8 +31,8 @@
             {
                 "Player": "Tyrese Haliburton",
                 "Team": "Indiana Pacers",
-                "Update": "Thu, Mar 6, 2025",
-                "Description": "Day To Day (Hip) - Haliburton did not play on Thursday's (Mar. 6) game against the Hawks."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Hip) - The Pacers have listed Haliburton as Questionable for Saturday's (Mar. 8) game against the Hawks."
             },
             {
                 "Player": "Isaiah Jackson",
@@ -43,8 +43,14 @@
             {
                 "Player": "Bennedict Mathurin",
                 "Team": "Indiana Pacers",
-                "Update": "Thu, Mar 6, 2025",
-                "Description": "Day To Day (Wrist) - Mathurin did not play on Thursday's (Mar. 6) game against the Hawks."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Wrist) - The Pacers have listed Mathurin as Questionable for Saturday's (Mar. 8) game against the Hawks."
+            },
+            {
+                "Player": "Aaron Nesmith",
+                "Team": "Indiana Pacers",
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Hip) - The Pacers have listed Nesmith as Probable for Saturday's (Mar. 8) game against the Hawks."
             }
         ],
         "team_stats": {
@@ -100,26 +106,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
-                "FG": "6",
+                "MP": "26",
+                "FG": "7",
                 "FGA": "20",
                 "FG%": "3",
-                "3P": "16",
+                "3P": "17",
                 "3PA": "26",
                 "3P%": "6",
                 "2P": "5",
                 "2PA": "11",
                 "2P%": "4",
                 "FT": "21",
-                "FTA": "24",
+                "FTA": "25",
                 "FT%": "14",
                 "ORB": "29",
-                "DRB": "23",
+                "DRB": "24",
                 "TRB": "28",
                 "AST": "5",
                 "STL": "10",
                 "BLK": "9",
-                "TOV": "5",
+                "TOV": "6",
                 "PF": "16",
                 "PTS": "10"
             },
@@ -200,11 +206,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
-                "FG": "23",
+                "MP": "26",
+                "FG": "22",
                 "FGA": "16",
-                "FG%": "25",
-                "3P": "5",
+                "FG%": "26",
+                "3P": "6",
                 "3PA": "6",
                 "3P%": "13",
                 "2P": "28",
@@ -212,16 +218,16 @@
                 "2P%": "22",
                 "FT": "19",
                 "FTA": "20",
-                "FT%": "9",
+                "FT%": "10",
                 "ORB": "21",
                 "DRB": "18",
                 "TRB": "19",
                 "AST": "14",
                 "STL": "5",
                 "BLK": "5",
-                "TOV": "12",
+                "TOV": "11",
                 "PF": "21",
-                "PTS": "21"
+                "PTS": "20"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -254,8 +260,8 @@
                 "PW": "33",
                 "PL": "28",
                 "MOV": "1.34",
-                "SOS": "-0.58",
-                "SRS": "0.76",
+                "SOS": "-0.59",
+                "SRS": "0.75",
                 "ORtg": "116.4",
                 "DRtg": "115.1",
                 "Pace": "99.6",
@@ -267,10 +273,10 @@
                 "FT/FGA": ".195",
                 "DRB%": "73.8",
                 "Arena": "Gainbridge Fieldhouse",
-                "Attend.": "488,687"
+                "Attendance": "488,687"
             },
             "Misc Lg Rank": {
-                "W": "10",
+                "W": "11",
                 "L": "21",
                 "PW": "15",
                 "PL": "14",
@@ -278,20 +284,20 @@
                 "SOS": "26",
                 "SRS": "16",
                 "ORtg": "8",
-                "DRtg": "19",
+                "DRtg": "18",
                 "Pace": "10",
-                "FTr": "19",
+                "FTr": "20",
                 "3PAr": "23",
                 "eFG%": "22",
                 "TOV%": "11",
                 "ORB%": "29",
-                "FT/FGA": "19",
-                "DRB%": "22",
+                "FT/FGA": "18",
+                "DRB%": "21",
                 "Arena": "",
-                "Attend.": "29"
+                "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/IND-2025.png",
-        "last_update": "Mar 07 2025 22:32:18"
+        "last_update": "Mar 08 2025 22:32:18"
     }
 }

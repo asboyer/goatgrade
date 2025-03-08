@@ -31,8 +31,8 @@
             {
                 "Player": "Tobias Harris",
                 "Team": "Detroit Pistons",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Personal) - Harris did not play on Wednesday's (Mar. 5) game against the Clippers."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Personal) - The Pistons have listed Harris as Probable for Saturday's (Mar. 8) game against the Warriors."
             },
             {
                 "Player": "Jaden Ivey",
@@ -94,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "10",
                 "FG": "10",
                 "FGA": "15",
                 "FG%": "11",
@@ -105,16 +105,16 @@
                 "2PA": "10",
                 "2P%": "12",
                 "FT": "22",
-                "FTA": "20",
+                "FTA": "19",
                 "FT%": "17",
-                "ORB": "11",
-                "DRB": "8",
+                "ORB": "10",
+                "DRB": "9",
                 "TRB": "9",
                 "AST": "14",
-                "STL": "15",
+                "STL": "14",
                 "BLK": "10",
-                "TOV": "22",
-                "PF": "25",
+                "TOV": "23",
+                "PF": "26",
                 "PTS": "12"
             },
             "Year/Year": {
@@ -194,28 +194,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "10",
                 "FG": "7",
                 "FGA": "6",
-                "FG%": "14",
+                "FG%": "12",
                 "3P": "21",
                 "3PA": "12",
                 "3P%": "27",
                 "2P": "3",
-                "2PA": "8",
-                "2P%": "7",
+                "2PA": "9",
+                "2P%": "8",
                 "FT": "24",
                 "FTA": "25",
-                "FT%": "10",
+                "FT%": "11",
                 "ORB": "4",
-                "DRB": "4",
+                "DRB": "5",
                 "TRB": "1",
                 "AST": "6",
                 "STL": "26",
                 "BLK": "15",
                 "TOV": "9",
                 "PF": "22",
-                "PTS": "15"
+                "PTS": "14"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -248,7 +248,7 @@
                 "PW": "35",
                 "PL": "28",
                 "MOV": "1.60",
-                "SOS": "-0.43",
+                "SOS": "-0.44",
                 "SRS": "1.17",
                 "ORtg": "114.2",
                 "DRtg": "112.6",
@@ -261,31 +261,31 @@
                 "FT/FGA": ".209",
                 "DRB%": "77.0",
                 "Arena": "Little Caesars Arena",
-                "Attend.": "585,077"
+                "Attendance": "585,077"
             },
             "Misc Lg Rank": {
-                "W": "10",
+                "W": "11",
                 "L": "19",
-                "PW": "12",
+                "PW": "13",
                 "PL": "15",
                 "MOV": "14",
-                "SOS": "24",
-                "SRS": "15",
+                "SOS": "25",
+                "SRS": "14",
                 "ORtg": "14",
                 "DRtg": "11",
                 "Pace": "9",
-                "FTr": "22",
+                "FTr": "21",
                 "3PAr": "20",
-                "eFG%": "16",
+                "eFG%": "15",
                 "TOV%": "8",
                 "ORB%": "9",
                 "FT/FGA": "26",
                 "DRB%": "2",
                 "Arena": "",
-                "Attend.": "12"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DET-2025.png",
-        "last_update": "Mar 07 2025 22:32:18"
+        "last_update": "Mar 08 2025 22:32:18"
     }
 }

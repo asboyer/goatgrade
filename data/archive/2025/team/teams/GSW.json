@@ -30,14 +30,14 @@
             {
                 "Player": "Jonathan Kuminga",
                 "Team": "Golden State Warriors",
-                "Update": "Thu, Mar 6, 2025",
-                "Description": "Day To Day (Ankle) - Kuminga did not play on Thursday's (Mar. 6) game against the Nets."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Out (Ankle) - The Warriors have listed Kuminga as OUT for Saturday's (Mar. 8) game against the Pistons."
             },
             {
                 "Player": "Brandin Podziemski",
                 "Team": "Golden State Warriors",
-                "Update": "Thu, Mar 6, 2025",
-                "Description": "Day To Day (Back) - Podziemski did not return for the rest of Thursday's game against the Nets."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Back) - The Warriors have listed Podziemski as Questionable for Saturday's (Mar. 8) game against the Pistons."
             }
         ],
         "team_stats": {
@@ -93,8 +93,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
-                "FG": "17",
+                "MP": "17",
+                "FG": "18",
                 "FGA": "6",
                 "FG%": "25",
                 "3P": "4",
@@ -104,17 +104,17 @@
                 "2PA": "23",
                 "2P%": "25",
                 "FT": "27",
-                "FTA": "23",
-                "FT%": "27",
+                "FTA": "22",
+                "FT%": "28",
                 "ORB": "3",
-                "DRB": "16",
+                "DRB": "17",
                 "TRB": "3",
-                "AST": "4",
+                "AST": "3",
                 "STL": "7",
                 "BLK": "15",
                 "TOV": "10",
-                "PF": "21",
-                "PTS": "16"
+                "PF": "22",
+                "PTS": "15"
             },
             "Year/Year": {
                 "G": "",
@@ -193,19 +193,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "17",
                 "FG": "8",
                 "FGA": "7",
                 "FG%": "11",
                 "3P": "12",
                 "3PA": "11",
                 "3P%": "17",
-                "2P": "7",
-                "2PA": "10",
+                "2P": "8",
+                "2PA": "11",
                 "2P%": "13",
                 "FT": "13",
-                "FTA": "15",
-                "FT%": "7",
+                "FTA": "14",
+                "FT%": "8",
                 "ORB": "7",
                 "DRB": "22",
                 "TRB": "17",
@@ -248,7 +248,7 @@
                 "PL": "27",
                 "MOV": "2.10",
                 "SOS": "0.35",
-                "SRS": "2.45",
+                "SRS": "2.44",
                 "ORtg": "114.1",
                 "DRtg": "112.0",
                 "Pace": "99.1",
@@ -260,31 +260,31 @@
                 "FT/FGA": ".192",
                 "DRB%": "75.9",
                 "Arena": "Chase Center",
-                "Attend.": "541,920"
+                "Attendance": "541,920"
             },
             "Misc Lg Rank": {
-                "W": "10",
+                "W": "11",
                 "L": "19",
-                "PW": "9",
+                "PW": "10",
                 "PL": "13",
-                "MOV": "10",
-                "SOS": "8",
+                "MOV": "11",
+                "SOS": "9",
                 "SRS": "9",
                 "ORtg": "15",
                 "DRtg": "8",
-                "Pace": "16",
+                "Pace": "15",
                 "FTr": "26",
                 "3PAr": "3",
                 "eFG%": "11",
                 "TOV%": "7",
                 "ORB%": "5",
-                "FT/FGA": "17",
+                "FT/FGA": "16",
                 "DRB%": "9",
                 "Arena": "",
-                "Attend.": "16"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/GSW-2025.png",
-        "last_update": "Mar 07 2025 22:32:18"
+        "last_update": "Mar 08 2025 22:32:18"
     }
 }

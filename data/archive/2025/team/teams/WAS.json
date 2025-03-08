@@ -37,26 +37,26 @@
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Ankle) - Brogdon did not play on Wednesday's (Mar. 5) game against the Jazz."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Out (Ankle) - The Wizards have listed Brogdon as OUT for Saturday's (Mar. 8) game against the Raptors."
             },
             {
                 "Player": "Richaun Holmes",
                 "Team": "Washington Wizards",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Knee) - Holmes did not play on Wednesday's (Mar. 5) game against the Jazz."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Knee) - The Wizards have listed Holmes as Questionable for Saturday's (Mar. 8) game against the Raptors."
             },
             {
                 "Player": "Colby Jones",
                 "Team": "Washington Wizards",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Achilles) - Jones did not play on Wednesday's (Mar. 5) game against the Jazz."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Out (Achilles) - The Wizards have listed Jones as OUT for Saturday's (Mar. 8) game against the Raptors."
             },
             {
                 "Player": "Jordan Poole",
                 "Team": "Washington Wizards",
-                "Update": "Wed, Mar 5, 2025",
-                "Description": "Day To Day (Elbow) - Poole did not play on Wednesday's (Mar. 5) game against the Jazz."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Day To Day (Elbow) - The Wizards have listed Poole as Questionable for Saturday's (Mar. 8) game against the Raptors."
             }
         ],
         "team_stats": {
@@ -119,11 +119,11 @@
                 "3P": "18",
                 "3PA": "10",
                 "3P%": "29",
-                "2P": "23",
+                "2P": "24",
                 "2PA": "15",
                 "2P%": "26",
-                "FT": "24",
-                "FTA": "24",
+                "FT": "23",
+                "FTA": "25",
                 "FT%": "15",
                 "ORB": "23",
                 "DRB": "15",
@@ -219,7 +219,7 @@
                 "3P": "27",
                 "3PA": "24",
                 "3P%": "22",
-                "2P": "26",
+                "2P": "25",
                 "2PA": "21",
                 "2P%": "21",
                 "FT": "29",
@@ -231,8 +231,8 @@
                 "AST": "26",
                 "STL": "28",
                 "BLK": "21",
-                "TOV": "23",
-                "PF": "15",
+                "TOV": "22",
+                "PF": "16",
                 "PTS": "29"
             },
             "Opp Year/Year": {
@@ -266,8 +266,8 @@
                 "PW": "11",
                 "PL": "50",
                 "MOV": "-12.26",
-                "SOS": "0.72",
-                "SRS": "-11.55",
+                "SOS": "0.70",
+                "SRS": "-11.56",
                 "ORtg": "106.5",
                 "DRtg": "118.6",
                 "Pace": "101.3",
@@ -279,7 +279,7 @@
                 "FT/FGA": ".205",
                 "DRB%": "73.2",
                 "Arena": "Capital One Arena",
-                "Attend.": "534,994"
+                "Attendance": "534,994"
             },
             "Misc Lg Rank": {
                 "W": "30",
@@ -287,23 +287,23 @@
                 "PW": "30",
                 "PL": "30",
                 "MOV": "30",
-                "SOS": "5",
+                "SOS": "6",
                 "SRS": "30",
                 "ORtg": "30",
                 "DRtg": "28",
                 "Pace": "4",
                 "FTr": "24",
                 "3PAr": "12",
-                "eFG%": "24",
+                "eFG%": "25",
                 "TOV%": "25",
                 "ORB%": "25",
                 "FT/FGA": "24",
                 "DRB%": "25",
                 "Arena": "",
-                "Attend.": "18"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/WAS-2025.png",
-        "last_update": "Mar 07 2025 22:32:18"
+        "last_update": "Mar 08 2025 22:32:18"
     }
 }
