@@ -29,16 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Santi Aldama",
+                "Team": "Memphis Grizzlies",
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Out (Calf) - The Grizzlies listed Aldama as OUT for Sunday's (Mar. 9) game against New Orleans."
+            },
+            {
                 "Player": "Jaren Jackson Jr.",
                 "Team": "Memphis Grizzlies",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Out (Ankle) - Jackson who has already been ruled Out for Friday's (Mar. 7) game against Dallas, was on the floor for Friday's morning shootaround, as per Chris Herrington of The Daily Memphian."
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Out (Ankle) - The Grizzlies listed Jackson Jr. as OUT for Sunday's (Mar. 9) game against New Orleans."
+            },
+            {
+                "Player": "Luke Kennard",
+                "Team": "Memphis Grizzlies",
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Day To Day (Back) - The Grizzlies listed Kennard as Doubtful for Sunday's (Mar. 9) game against New Orleans."
             },
             {
                 "Player": "Zyon Pullin",
                 "Team": "Memphis Grizzlies",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Knee) - Pullin did not play on Friday's (Mar. 7) game against the Mavericks."
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Out (Knee) - The Grizzlies listed Pullin as OUT for Sunday's (Mar. 9) game against New Orleans."
             }
         ],
         "team_stats": {
@@ -94,19 +106,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "21",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "5",
                 "3P": "12",
-                "3PA": "15",
+                "3PA": "14",
                 "3P%": "9",
                 "2P": "2",
                 "2PA": "4",
                 "2P%": "8",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "16",
+                "FT%": "15",
                 "ORB": "2",
                 "DRB": "5",
                 "TRB": "2",
@@ -194,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "21",
                 "FG": "20",
                 "FGA": "27",
                 "FG%": "6",
@@ -202,7 +214,7 @@
                 "3PA": "26",
                 "3P%": "11",
                 "2P": "18",
-                "2PA": "24",
+                "2PA": "22",
                 "2P%": "7",
                 "FT": "27",
                 "FTA": "29",
@@ -212,8 +224,8 @@
                 "TRB": "12",
                 "AST": "21",
                 "STL": "24",
-                "BLK": "27",
-                "TOV": "7",
+                "BLK": "28",
+                "TOV": "6",
                 "PF": "2",
                 "PTS": "25"
             },
@@ -248,8 +260,8 @@
                 "PW": "42",
                 "PL": "21",
                 "MOV": "6.00",
-                "SOS": "-0.28",
-                "SRS": "5.72",
+                "SOS": "-0.26",
+                "SRS": "5.74",
                 "ORtg": "118.1",
                 "DRtg": "112.3",
                 "Pace": "103.9",
@@ -269,7 +281,7 @@
                 "PW": "4",
                 "PL": "4",
                 "MOV": "4",
-                "SOS": "19",
+                "SOS": "18",
                 "SRS": "4",
                 "ORtg": "6",
                 "DRtg": "9",
@@ -282,10 +294,10 @@
                 "FT/FGA": "22",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MEM-2025.png",
-        "last_update": "Mar 08 2025 22:32:18"
+        "last_update": "Mar 09 2025 22:32:18"
     }
 }

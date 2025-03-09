@@ -2,7 +2,7 @@
     "DEN": {
         "info": {
             "record": "41-22",
-            "standing": "3rd in West",
+            "standing": "2nd in West",
             "coach": "Michael Malone (41-22)",
             "gm": "Calvin Booth",
             "preseason_odds": "+750"
@@ -29,10 +29,22 @@
         ],
         "injuries": [
             {
+                "Player": "Aaron Gordon",
+                "Team": "Denver Nuggets",
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets listed Gordon as Probable for Sunday's (Mar. 9) game against the Thunder."
+            },
+            {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sun, Feb 23, 2025",
                 "Description": "Out For Season (Achilles) - Nuggets HC Michael Malone said that Holmes was able to participate in portions of Wednesday's (Feb. 19) practice, as per Brendan Vogt of TheDNVR.com reports."
+            },
+            {
+                "Player": "Nikola Jokić",
+                "Team": "Denver Nuggets",
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets listed Jokic as Probable for Sunday's (Mar. 9) game against the Thunder."
             },
             {
                 "Player": "Julian Strawther",
@@ -94,11 +106,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "16",
                 "FG": "1",
-                "FGA": "11",
+                "FGA": "10",
                 "FG%": "1",
-                "3P": "27",
+                "3P": "28",
                 "3PA": "30",
                 "3P%": "3",
                 "2P": "1",
@@ -107,11 +119,11 @@
                 "FT": "9",
                 "FTA": "8",
                 "FT%": "19",
-                "ORB": "12",
+                "ORB": "11",
                 "DRB": "3",
                 "TRB": "5",
                 "AST": "1",
-                "STL": "12",
+                "STL": "13",
                 "BLK": "21",
                 "TOV": "17",
                 "PF": "6",
@@ -194,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "16",
                 "FG": "24",
                 "FGA": "28",
                 "FG%": "14",
@@ -212,7 +224,7 @@
                 "TRB": "4",
                 "AST": "30",
                 "STL": "22",
-                "BLK": "18",
+                "BLK": "19",
                 "TOV": "25",
                 "PF": "13",
                 "PTS": "23"
@@ -269,7 +281,7 @@
                 "PW": "5",
                 "PL": "5",
                 "MOV": "5",
-                "SOS": "22",
+                "SOS": "24",
                 "SRS": "5",
                 "ORtg": "2",
                 "DRtg": "19",
@@ -278,14 +290,14 @@
                 "3PAr": "30",
                 "eFG%": "12",
                 "TOV%": "26",
-                "ORB%": "7",
-                "FT/FGA": "6",
-                "DRB%": "13",
+                "ORB%": "8",
+                "FT/FGA": "5",
+                "DRB%": "14",
                 "Arena": "",
                 "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DEN-2025.png",
-        "last_update": "Mar 08 2025 22:32:18"
+        "last_update": "Mar 09 2025 22:32:18"
     }
 }

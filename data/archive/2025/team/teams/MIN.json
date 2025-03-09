@@ -29,10 +29,16 @@
         ],
         "injuries": [
             {
+                "Player": "Luka Garza",
+                "Team": "Minnesota Timberwolves",
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Day To Day (Ankle) - The Timberwolves have listed Garza as Questionable for Sunday's (Mar. 9) game against the Spurs."
+            },
+            {
                 "Player": "Rudy Gobert",
                 "Team": "Minnesota Timberwolves",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Back) - Gobert did not play on Friday's (Mar. 7) game against the Heat."
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Day To Day (Back) - The Timberwolves have listed Gobert as Questionable for Sunday's (Mar. 9) game against the Spurs."
             }
         ],
         "team_stats": {
@@ -90,20 +96,20 @@
                 "G": "",
                 "MP": "1",
                 "FG": "24",
-                "FGA": "23",
+                "FGA": "22",
                 "FG%": "19",
                 "3P": "5",
                 "3PA": "5",
                 "3P%": "5",
-                "2P": "27",
-                "2PA": "29",
+                "2P": "28",
+                "2PA": "28",
                 "2P%": "22",
                 "FT": "13",
-                "FTA": "16",
+                "FTA": "17",
                 "FT%": "10",
                 "ORB": "17",
                 "DRB": "20",
-                "TRB": "18",
+                "TRB": "19",
                 "AST": "19",
                 "STL": "15",
                 "BLK": "16",
@@ -190,7 +196,7 @@
                 "G": "",
                 "MP": "1",
                 "FG": "6",
-                "FGA": "9",
+                "FGA": "8",
                 "FG%": "7",
                 "3P": "3",
                 "3PA": "8",
@@ -242,8 +248,8 @@
                 "PW": "39",
                 "PL": "26",
                 "MOV": "3.38",
-                "SOS": "0.77",
-                "SRS": "4.16",
+                "SOS": "0.80",
+                "SRS": "4.19",
                 "ORtg": "114.9",
                 "DRtg": "111.4",
                 "Pace": "97.4",
@@ -260,7 +266,7 @@
             "Misc Lg Rank": {
                 "W": "9",
                 "L": "16",
-                "PW": "6",
+                "PW": "7",
                 "PL": "8",
                 "MOV": "8",
                 "SOS": "3",
@@ -274,12 +280,12 @@
                 "TOV%": "10",
                 "ORB%": "16",
                 "FT/FGA": "9",
-                "DRB%": "19",
+                "DRB%": "18",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MIN-2025.png",
-        "last_update": "Mar 08 2025 22:32:18"
+        "last_update": "Mar 09 2025 22:32:18"
     }
 }

@@ -2,7 +2,7 @@
     "PHI": {
         "info": {
             "record": "21-41",
-            "standing": "12th in East",
+            "standing": "11th in East",
             "coach": "Nick Nurse (21-41)",
             "gm": "Daryl Morey",
             "preseason_odds": "+1400"
@@ -37,8 +37,8 @@
             {
                 "Player": "Paul George",
                 "Team": "Philadelphia 76ers",
-                "Update": "Thu, Mar 6, 2025",
-                "Description": "Day To Day (Groin) - George did not play on Thursday's (Mar. 6) game against the Celtics."
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Out (Groin) - The 76ers listed George as OUT for Sunday's (Mar. 9) game against Utah."
             },
             {
                 "Player": "Eric Gordon",
@@ -49,14 +49,14 @@
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Thu, Mar 6, 2025",
-                "Description": "Day To Day (Hip) - Lowry did not play on Thursday's (Mar. 6) game against the Celtics."
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Out (Hip) - The 76ers listed Lowry as OUT for Sunday's (Mar. 9) game against Utah."
             },
             {
                 "Player": "Tyrese Maxey",
                 "Team": "Philadelphia 76ers",
-                "Update": "Thu, Mar 6, 2025",
-                "Description": "Day To Day (Back) - Maxey did not play on Thursday's (Mar. 6) game against the Celtics."
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Out (Back) - The 76ers listed Maxey as OUT for Sunday's (Mar. 9) game against Utah."
             },
             {
                 "Player": "Jared McCain",
@@ -118,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "27",
                 "FGA": "25",
                 "FG%": "22",
@@ -137,7 +137,7 @@
                 "AST": "28",
                 "STL": "4",
                 "BLK": "28",
-                "TOV": "7",
+                "TOV": "6",
                 "PF": "20",
                 "PTS": "26"
             },
@@ -218,20 +218,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "18",
                 "FGA": "3",
                 "FG%": "30",
-                "3P": "19",
-                "3PA": "13",
-                "3P%": "26",
+                "3P": "20",
+                "3PA": "12",
+                "3P%": "27",
                 "2P": "12",
                 "2PA": "3",
                 "2P%": "30",
                 "FT": "15",
                 "FTA": "11",
                 "FT%": "29",
-                "ORB": "12",
+                "ORB": "14",
                 "DRB": "21",
                 "TRB": "20",
                 "AST": "24",
@@ -272,8 +272,8 @@
                 "PW": "22",
                 "PL": "40",
                 "MOV": "-4.95",
-                "SOS": "0.24",
-                "SRS": "-4.71",
+                "SOS": "0.26",
+                "SRS": "-4.70",
                 "ORtg": "112.1",
                 "DRtg": "117.2",
                 "Pace": "96.6",
@@ -289,27 +289,27 @@
             },
             "Misc Lg Rank": {
                 "W": "24",
-                "L": "6",
-                "PW": "24",
+                "L": "7",
+                "PW": "25",
                 "PL": "24",
                 "MOV": "24",
                 "SOS": "10",
                 "SRS": "25",
                 "ORtg": "23",
                 "DRtg": "26",
-                "Pace": "27",
+                "Pace": "26",
                 "FTr": "3",
                 "3PAr": "15",
                 "eFG%": "30",
                 "TOV%": "3",
-                "ORB%": "24",
+                "ORB%": "23",
                 "FT/FGA": "21",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHI-2025.png",
-        "last_update": "Mar 08 2025 22:32:18"
+        "last_update": "Mar 09 2025 22:32:18"
     }
 }

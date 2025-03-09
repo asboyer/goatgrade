@@ -28,16 +28,22 @@
         ],
         "injuries": [
             {
+                "Player": "Jae Crowder",
+                "Team": "Sacramento Kings",
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Day To Day (Back) - The Kings have listed Crowder as Questionable for Sunday's (Mar. 9) game against the Clippers."
+            },
+            {
                 "Player": "Malik Monk",
                 "Team": "Sacramento Kings",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Toe) - Monk did not play in Friday's (Mar. 7) game against the Spurs."
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Out (Toe) - The Kings listed Monk as OUT for Sunday's (Mar. 9) game against Los Angeles."
             },
             {
                 "Player": "Domantas Sabonis",
                 "Team": "Sacramento Kings",
-                "Update": "Sun, Mar 2, 2025",
-                "Description": "Out (Hamstring) - The Kings announced ton Sunday (Mar. 2) that Sabonis has a grade 1 left hamstring strain. He will be re-evaluated in a week."
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Out (Hamstring) - The Kings announced on Saturday (Mar. 8) that Sabonis has been cleared for on0court activites. He will be OUT for the next two games and re-evaluated on Tuesday (Mar. 11)."
             }
         ],
         "team_stats": {
@@ -93,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "24",
                 "FG": "6",
                 "FGA": "7",
                 "FG%": "10",
@@ -106,7 +112,7 @@
                 "FT": "11",
                 "FTA": "18",
                 "FT%": "2",
-                "ORB": "13",
+                "ORB": "12",
                 "DRB": "8",
                 "TRB": "10",
                 "AST": "12",
@@ -193,7 +199,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "24",
                 "FG": "15",
                 "FGA": "14",
                 "FG%": "16",
@@ -203,13 +209,13 @@
                 "2P": "5",
                 "2PA": "8",
                 "2P%": "12",
-                "FT": "22",
+                "FT": "21",
                 "FTA": "21",
-                "FT%": "23",
-                "ORB": "5",
+                "FT%": "24",
+                "ORB": "4",
                 "DRB": "12",
                 "TRB": "6",
-                "AST": "16",
+                "AST": "17",
                 "STL": "11",
                 "BLK": "8",
                 "TOV": "17",
@@ -247,7 +253,7 @@
                 "PW": "35",
                 "PL": "27",
                 "MOV": "1.98",
-                "SOS": "-0.42",
+                "SOS": "-0.41",
                 "SRS": "1.57",
                 "ORtg": "116.8",
                 "DRtg": "114.8",
@@ -265,10 +271,10 @@
             "Misc Lg Rank": {
                 "W": "15",
                 "L": "16",
-                "PW": "12",
-                "PL": "12",
+                "PW": "13",
+                "PL": "11",
                 "MOV": "12",
-                "SOS": "23",
+                "SOS": "25",
                 "SRS": "12",
                 "ORtg": "7",
                 "DRtg": "14",
@@ -285,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/SAC-2025.png",
-        "last_update": "Mar 08 2025 22:32:18"
+        "last_update": "Mar 09 2025 22:32:18"
     }
 }

@@ -34,6 +34,12 @@
                 "Description": "Out (Groin) - Shams Charania said Tuesday (Mar. 4) on the Pat McAfee Show that the Mavericks could shut down Davis for the rest of the 2024-25 season."
             },
             {
+                "Player": "Dante Exum",
+                "Team": "Dallas Mavericks",
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Day To Day (Foot) - The Mavericks listed Exum as questionable for Sunday's (Mar. 9) game against Phoenix."
+            },
+            {
                 "Player": "Daniel Gafford",
                 "Team": "Dallas Mavericks",
                 "Update": "Fri, Mar 7, 2025",
@@ -54,14 +60,20 @@
             {
                 "Player": "Kai Jones",
                 "Team": "Dallas Mavericks",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Quadriceps) - Jones did not play on Friday's (Mar. 7) game against the Grizzlies."
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Out (Quadriceps) - The Mavericks listed Jones as OUT for Sunday's (Mar. 8) game against Phoenix."
             },
             {
                 "Player": "Dereck Lively II",
                 "Team": "Dallas Mavericks",
                 "Update": "Fri, Mar 7, 2025",
                 "Description": "Out (Ankle) - The Mavericks announced Friday (Mar. 7) that Lively has progressed to individual court week after a recent re-evaluation, as per Mike Curtis of The Dallas Morning News."
+            },
+            {
+                "Player": "Caleb Martin",
+                "Team": "Dallas Mavericks",
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Day To Day (Hip) - The Mavericks listed Martin as questionable for Sunday's (Mar. 9) game against Phoenix."
             },
             {
                 "Player": "Olivier-Maxence Prosper",
@@ -72,8 +84,8 @@
             {
                 "Player": "P.J. Washington",
                 "Team": "Dallas Mavericks",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Ankle) - Washington Jr. did not play on Friday's (Mar. 7) game against the Grizzlies."
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Out (Ankle) - The Mavericks listed Washington Jr. as OUT for Sunday's (Mar. 9) game against Phoenix."
             }
         ],
         "team_stats": {
@@ -129,11 +141,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
-                "FG": "12",
+                "MP": "10",
+                "FG": "13",
                 "FGA": "19",
                 "FG%": "12",
-                "3P": "16",
+                "3P": "15",
                 "3PA": "21",
                 "3P%": "8",
                 "2P": "11",
@@ -143,7 +155,7 @@
                 "FTA": "7",
                 "FT%": "20",
                 "ORB": "21",
-                "DRB": "18",
+                "DRB": "19",
                 "TRB": "20",
                 "AST": "22",
                 "STL": "17",
@@ -229,11 +241,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "10",
                 "FG": "21",
                 "FGA": "24",
                 "FG%": "10",
-                "3P": "5",
+                "3P": "6",
                 "3PA": "4",
                 "3P%": "18",
                 "2P": "26",
@@ -241,7 +253,7 @@
                 "2P%": "5",
                 "FT": "12",
                 "FTA": "12",
-                "FT%": "15",
+                "FT%": "14",
                 "ORB": "29",
                 "DRB": "17",
                 "TRB": "24",
@@ -283,8 +295,8 @@
                 "PW": "33",
                 "PL": "31",
                 "MOV": "0.42",
-                "SOS": "0.72",
-                "SRS": "1.14",
+                "SOS": "0.73",
+                "SRS": "1.15",
                 "ORtg": "115.2",
                 "DRtg": "114.8",
                 "Pace": "99.0",
@@ -304,13 +316,13 @@
                 "PW": "16",
                 "PL": "16",
                 "MOV": "16",
-                "SOS": "5",
-                "SRS": "15",
+                "SOS": "4",
+                "SRS": "14",
                 "ORtg": "11",
                 "DRtg": "15",
                 "Pace": "16",
                 "FTr": "7",
-                "3PAr": "21",
+                "3PAr": "20",
                 "eFG%": "8",
                 "TOV%": "24",
                 "ORB%": "21",
@@ -321,6 +333,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DAL-2025.png",
-        "last_update": "Mar 08 2025 22:32:18"
+        "last_update": "Mar 09 2025 22:32:18"
     }
 }

@@ -29,30 +29,6 @@
         ],
         "injuries": [
             {
-                "Player": "Luguentz Dort",
-                "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Patellofemoral) - Dort did not play on Friday's (Mar. 7) game against the Trail Blazers."
-            },
-            {
-                "Player": "Shai Gilgeous-Alexander",
-                "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Rest) - Gilgeous-Alexander did not play on Friday's (Mar. 7) game against the Trail Blazers."
-            },
-            {
-                "Player": "Isaiah Hartenstein",
-                "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Nose) - Hartenstein did not play on Friday's (Mar. 7) game against the Trail Blazers."
-            },
-            {
-                "Player": "Chet Holmgren",
-                "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Leg) - Holmgren did not play on Friday's (Mar. 7) game against the Trail Blazers."
-            },
-            {
                 "Player": "Ajay Mitchell",
                 "Team": "Oklahoma City Thunder",
                 "Update": "Thu, Feb 6, 2025",
@@ -63,18 +39,6 @@
                 "Team": "Oklahoma City Thunder",
                 "Update": "Sun, Jan 12, 2025",
                 "Description": "Out For Season (ACL) - Topic was spotted taking part in light shooting drills on the court prior to the Thunder's 105-92 win over the Celtics last Sunday (Jan. 12), as per Clemente Almanza of USA Today."
-            },
-            {
-                "Player": "Cason Wallace",
-                "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Knee) - Wallace did not play on Friday's (Mar. 7) game against the Trail Blazers."
-            },
-            {
-                "Player": "Jalen Williams",
-                "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Wrist) - Williams did not play on Friday's (Mar. 7) game against the Trail Blazers."
             }
         ],
         "team_stats": {
@@ -130,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "21",
                 "FG": "4",
                 "FGA": "3",
                 "FG%": "9",
@@ -138,7 +102,7 @@
                 "3PA": "9",
                 "3P%": "10",
                 "2P": "6",
-                "2PA": "9",
+                "2PA": "10",
                 "2P%": "7",
                 "FT": "24",
                 "FTA": "28",
@@ -230,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "21",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
@@ -242,15 +206,15 @@
                 "2P%": "1",
                 "FT": "28",
                 "FTA": "28",
-                "FT%": "7",
-                "ORB": "27",
+                "FT%": "8",
+                "ORB": "26",
                 "DRB": "20",
-                "TRB": "25",
+                "TRB": "26",
                 "AST": "4",
                 "STL": "1",
                 "BLK": "11",
                 "TOV": "1",
-                "PF": "23",
+                "PF": "24",
                 "PTS": "2"
             },
             "Opp Year/Year": {
@@ -284,8 +248,8 @@
                 "PW": "52",
                 "PL": "11",
                 "MOV": "12.81",
-                "SOS": "-0.28",
-                "SRS": "12.53",
+                "SOS": "-0.26",
+                "SRS": "12.55",
                 "ORtg": "119.4",
                 "DRtg": "106.6",
                 "Pace": "99.9",
@@ -305,7 +269,7 @@
                 "PW": "1",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "20",
+                "SOS": "19",
                 "SRS": "1",
                 "ORtg": "4",
                 "DRtg": "1",
@@ -316,12 +280,12 @@
                 "TOV%": "1",
                 "ORB%": "20",
                 "FT/FGA": "28",
-                "DRB%": "23",
+                "DRB%": "21",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "15"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/OKC-2025.png",
-        "last_update": "Mar 08 2025 22:32:18"
+        "last_update": "Mar 09 2025 22:32:18"
     }
 }

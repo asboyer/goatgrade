@@ -31,14 +31,14 @@
             {
                 "Player": "Jordan Clarkson",
                 "Team": "Utah Jazz",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Foot) - Clarkson did not play on Friday's (Mar. 7) game against the Raptors."
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Out (Foot) - The Jazz listed Clarkson is OUT for Sunday's (Mar. 9) game against Philadelphia."
             },
             {
                 "Player": "John Collins",
                 "Team": "Utah Jazz",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Back) - Collins did not play on Friday's (Mar. 7) game against the Raptors."
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Out (Back) - The Jazz listed Collins is OUT for Sunday's (Mar. 9) game against Philadelphia."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -47,16 +47,22 @@
                 "Description": "Out For Season (Fibula) - Hendricks underwent surgery on Wednesday (Nov. 6) to repair a fractured right fibula and dislocated right ankle, per Andy Larsen of The Salt Lake Tribune."
             },
             {
+                "Player": "Walker Kessler",
+                "Team": "Utah Jazz",
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Out (Rest) - The Jazz listed Kessler is OUT for Sunday's (Mar. 9) game against Philadelphia."
+            },
+            {
                 "Player": "Lauri Markkanen",
                 "Team": "Utah Jazz",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Back) - Markkanen did not play on Friday's (Mar. 7) game against the Raptors."
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Out (Back) - The Jazz listed Markkanen is OUT for Sunday's (Mar. 9) game against Philadelphia."
             },
             {
                 "Player": "Jaden Springer",
                 "Team": "Utah Jazz",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Day To Day (Back) - Springer did not play on Friday's (Mar. 7) game against the Raptors."
+                "Update": "Sat, Mar 8, 2025",
+                "Description": "Day To Day (Back) - The Jazz listed Springer is questionable for Sunday's (Mar. 9) game against Philadelphia."
             }
         ],
         "team_stats": {
@@ -112,14 +118,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "17",
                 "FG": "23",
                 "FGA": "21",
                 "FG%": "20",
                 "3P": "10",
                 "3PA": "8",
                 "3P%": "18",
-                "2P": "23",
+                "2P": "24",
                 "2PA": "25",
                 "2P%": "17",
                 "FT": "7",
@@ -212,17 +218,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "17",
                 "FG": "28",
                 "FGA": "25",
                 "FG%": "25",
                 "3P": "29",
                 "3PA": "30",
-                "3P%": "14",
+                "3P%": "15",
                 "2P": "22",
                 "2PA": "13",
                 "2P%": "28",
-                "FT": "16",
+                "FT": "18",
                 "FTA": "22",
                 "FT%": "3",
                 "ORB": "19",
@@ -298,12 +304,12 @@
                 "TOV%": "30",
                 "ORB%": "4",
                 "FT/FGA": "13",
-                "DRB%": "18",
+                "DRB%": "17",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/UTA-2025.png",
-        "last_update": "Mar 08 2025 22:32:18"
+        "last_update": "Mar 09 2025 22:32:18"
     }
 }
