@@ -43,14 +43,20 @@
             {
                 "Player": "Vit Krejci",
                 "Team": "Atlanta Hawks",
-                "Update": "Sat, Mar 8, 2025",
-                "Description": "Day To Day (Back) - Krejci did not play in Saturday's (Mar. 8) game against the Pacers."
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Day To Day (Back) - The Hawks listed Krejci as questionable for Monday's (Mar. 10) game against Philadelphia."
             },
             {
                 "Player": "Larry Nance Jr.",
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Feb 12, 2025",
                 "Description": "Out (Knee) - The Hawks announced on Wednesday (Feb. 12) that Nance Jr. will be re-evaluated in approximately six weeks, and an update will be provided at that time."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Day To Day (Quadricep) - The Hawks listed Young as questionable for Monday's (Mar. 10) game against Philadelphia."
             }
         ],
         "team_stats": {
@@ -106,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "11",
                 "FG": "8",
                 "FGA": "4",
                 "FG%": "14",
@@ -115,13 +121,13 @@
                 "3P%": "20",
                 "2P": "8",
                 "2PA": "8",
-                "2P%": "15",
+                "2P%": "16",
                 "FT": "3",
                 "FTA": "2",
                 "FT%": "24",
                 "ORB": "9",
                 "DRB": "22",
-                "TRB": "12",
+                "TRB": "13",
                 "AST": "2",
                 "STL": "2",
                 "BLK": "9",
@@ -206,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "11",
                 "FG": "27",
                 "FGA": "20",
                 "FG%": "28",
@@ -225,7 +231,7 @@
                 "AST": "26",
                 "STL": "28",
                 "BLK": "16",
-                "TOV": "3",
+                "TOV": "4",
                 "PF": "5",
                 "PTS": "27"
             },
@@ -260,8 +266,8 @@
                 "PW": "27",
                 "PL": "37",
                 "MOV": "-2.59",
-                "SOS": "0.24",
-                "SRS": "-2.35",
+                "SOS": "0.23",
+                "SRS": "-2.36",
                 "ORtg": "112.8",
                 "DRtg": "115.3",
                 "Pace": "103.1",
@@ -281,23 +287,23 @@
                 "PW": "20",
                 "PL": "21",
                 "MOV": "21",
-                "SOS": "11",
+                "SOS": "10",
                 "SRS": "20",
                 "ORtg": "18",
-                "DRtg": "20",
+                "DRtg": "19",
                 "Pace": "2",
                 "FTr": "6",
                 "3PAr": "19",
                 "eFG%": "28",
-                "TOV%": "6",
+                "TOV%": "5",
                 "ORB%": "11",
                 "FT/FGA": "20",
                 "DRB%": "9",
                 "Arena": "",
-                "Attendance": "28"
+                "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/ATL-2025.png",
-        "last_update": "Mar 09 2025 22:32:18"
+        "last_update": "Mar 10 2025 22:32:20"
     }
 }

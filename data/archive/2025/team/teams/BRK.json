@@ -28,16 +28,22 @@
         ],
         "injuries": [
             {
-                "Player": "Cameron Johnson",
-                "Team": "Brooklyn Nets",
-                "Update": "Sat, Mar 8, 2025",
-                "Description": "Day To Day (Knee) - Johnson did not play in Saturday's (Mar. 8) game against the Hornets."
-            },
-            {
                 "Player": "De'Anthony Melton",
                 "Team": "Brooklyn Nets",
                 "Update": "Wed, Nov 20, 2024",
                 "Description": "Out For Season (ACL) - Melton will undergo season-ending surgery on his left ACL, the team announced Wednesday (Nov. 20)."
+            },
+            {
+                "Player": "Cam Thomas",
+                "Team": "Brooklyn Nets",
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Out (Hamstring) - The Nets listed Thomas as Out for Monday's (Mar. 10) game against the Lakers."
+            },
+            {
+                "Player": "Trendon Watford",
+                "Team": "Brooklyn Nets",
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Out (Hamstring) - The Nets listed Watford as Out for Monday's (Mar. 10) game against the Lakers."
             }
         ],
         "team_stats": {
@@ -93,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "24",
                 "FG": "30",
                 "FGA": "29",
                 "FG%": "29",
@@ -104,15 +110,15 @@
                 "2PA": "29",
                 "2P%": "27",
                 "FT": "18",
-                "FTA": "24",
+                "FTA": "25",
                 "FT%": "6",
-                "ORB": "15",
+                "ORB": "16",
                 "DRB": "29",
                 "TRB": "29",
                 "AST": "24",
                 "STL": "19",
                 "BLK": "25",
-                "TOV": "22",
+                "TOV": "23",
                 "PF": "27",
                 "PTS": "29"
             },
@@ -193,13 +199,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "24",
                 "FG": "5",
                 "FGA": "2",
                 "FG%": "27",
                 "3P": "9",
                 "3PA": "3",
-                "3P%": "24",
+                "3P%": "25",
                 "2P": "7",
                 "2PA": "5",
                 "2P%": "25",
@@ -209,12 +215,12 @@
                 "ORB": "5",
                 "DRB": "13",
                 "TRB": "9",
-                "AST": "16",
+                "AST": "17",
                 "STL": "14",
                 "BLK": "26",
                 "TOV": "6",
                 "PF": "7",
-                "PTS": "10"
+                "PTS": "11"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +253,8 @@
                 "PW": "19",
                 "PL": "44",
                 "MOV": "-6.49",
-                "SOS": "0.02",
-                "SRS": "-6.48",
+                "SOS": "0.00",
+                "SRS": "-6.49",
                 "ORtg": "108.8",
                 "DRtg": "115.6",
                 "Pace": "96.1",
@@ -263,7 +269,7 @@
                 "Attendance": "521,182"
             },
             "Misc Lg Rank": {
-                "W": "24",
+                "W": "25",
                 "L": "6",
                 "PW": "26",
                 "PL": "26",
@@ -281,10 +287,10 @@
                 "FT/FGA": "27",
                 "DRB%": "19",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/BRK-2025.png",
-        "last_update": "Mar 09 2025 22:32:18"
+        "last_update": "Mar 10 2025 22:32:20"
     }
 }

@@ -28,10 +28,22 @@
         ],
         "injuries": [
             {
+                "Player": "Al Horford",
+                "Team": "Boston Celtics",
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Day To Day (Toe) - The Celtics listed Horford as Questionable for Monday's (Mar. 10) game against the Jazz."
+            },
+            {
                 "Player": "Kristaps Porziņģis",
                 "Team": "Boston Celtics",
-                "Update": "Sat, Mar 8, 2025",
-                "Description": "Day To Day (Illness) - Porzingis did not play in Saturday's (Mar. 8) game against the Lakers."
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Day To Day (Illness) - The Celtics listed Porzingis as Doubtful for Monday's (Mar. 10) game against the Jazz."
+            },
+            {
+                "Player": "Jayson Tatum",
+                "Team": "Boston Celtics",
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Day To Day (Knee) - The Celtics listed Tatum as Questionable for Monday's (Mar. 10) game against the Jazz."
             }
         ],
         "team_stats": {
@@ -87,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "8",
                 "FG": "14",
                 "FGA": "11",
                 "FG%": "18",
@@ -99,9 +111,9 @@
                 "2P%": "5",
                 "FT": "28",
                 "FTA": "29",
-                "FT%": "8",
+                "FT%": "7",
                 "ORB": "14",
-                "DRB": "7",
+                "DRB": "8",
                 "TRB": "11",
                 "AST": "17",
                 "STL": "28",
@@ -187,10 +199,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "8",
                 "FG": "9",
                 "FGA": "18",
-                "FG%": "2",
+                "FG%": "3",
                 "3P": "4",
                 "3PA": "9",
                 "3P%": "5",
@@ -199,7 +211,7 @@
                 "2P%": "4",
                 "FT": "2",
                 "FTA": "1",
-                "FT%": "23",
+                "FT%": "24",
                 "ORB": "7",
                 "DRB": "19",
                 "TRB": "14",
@@ -241,8 +253,8 @@
                 "PW": "48",
                 "PL": "16",
                 "MOV": "8.75",
-                "SOS": "-0.38",
-                "SRS": "8.37",
+                "SOS": "-0.39",
+                "SRS": "8.36",
                 "ORtg": "120.1",
                 "DRtg": "111.1",
                 "Pace": "96.6",
@@ -262,9 +274,9 @@
                 "PW": "3",
                 "PL": "3",
                 "MOV": "3",
-                "SOS": "22",
+                "SOS": "24",
                 "SRS": "3",
-                "ORtg": "3",
+                "ORtg": "2",
                 "DRtg": "5",
                 "Pace": "27",
                 "FTr": "28",
@@ -279,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/BOS-2025.png",
-        "last_update": "Mar 09 2025 22:32:18"
+        "last_update": "Mar 10 2025 22:32:20"
     }
 }

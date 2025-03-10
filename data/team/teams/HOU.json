@@ -37,14 +37,14 @@
             {
                 "Player": "Amen Thompson",
                 "Team": "Houston Rockets",
-                "Update": "Sat, Mar 8, 2025",
-                "Description": "Day To Day (Foot) - Thompson did not return Saturday's (Mar. 8) game against the Pelicans after landing awkwardly, according to Kelly Iko of The Athletic."
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Out (Foot) - The Rockets listed Thompson as Out for Monday's (Mar. 10) game against the Magic."
             },
             {
                 "Player": "Fred VanVleet",
                 "Team": "Houston Rockets",
-                "Update": "Sat, Mar 8, 2025",
-                "Description": "Day To Day (Ankle) - VanVleet did not play in Saturday's (Mar. 8) game against the Pelicans."
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Day To Day (Ankle) - The Rockets listed VanVleet as Questionable for Monday's (Mar. 10) game against the Magic."
             }
         ],
         "team_stats": {
@@ -100,27 +100,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "14",
                 "FG": "11",
                 "FGA": "2",
-                "FG%": "25",
-                "3P": "26",
+                "FG%": "24",
+                "3P": "25",
                 "3PA": "23",
                 "3P%": "25",
-                "2P": "9",
+                "2P": "10",
                 "2PA": "2",
                 "2P%": "29",
-                "FT": "15",
-                "FTA": "5",
+                "FT": "14",
+                "FTA": "6",
                 "FT%": "30",
                 "ORB": "1",
                 "DRB": "13",
                 "TRB": "1",
                 "AST": "30",
                 "STL": "10",
-                "BLK": "14",
+                "BLK": "13",
                 "TOV": "14",
-                "PF": "21",
+                "PF": "20",
                 "PTS": "17"
             },
             "Year/Year": {
@@ -200,15 +200,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "14",
                 "FG": "4",
                 "FGA": "12",
                 "FG%": "5",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "8",
+                "3P%": "9",
                 "2P": "16",
-                "2PA": "26",
+                "2PA": "25",
                 "2P%": "3",
                 "FT": "13",
                 "FTA": "19",
@@ -219,7 +219,7 @@
                 "AST": "2",
                 "STL": "13",
                 "BLK": "29",
-                "TOV": "15",
+                "TOV": "16",
                 "PF": "4",
                 "PTS": "6"
             },
@@ -255,7 +255,7 @@
                 "PL": "24",
                 "MOV": "3.84",
                 "SOS": "0.66",
-                "SRS": "4.51",
+                "SRS": "4.50",
                 "ORtg": "114.1",
                 "DRtg": "110.2",
                 "Pace": "98.7",
@@ -270,9 +270,9 @@
                 "Attendance": "541,781"
             },
             "Misc Lg Rank": {
-                "W": "7",
+                "W": "8",
                 "L": "23",
-                "PW": "6",
+                "PW": "7",
                 "PL": "7",
                 "MOV": "7",
                 "SOS": "5",
@@ -280,7 +280,7 @@
                 "ORtg": "14",
                 "DRtg": "3",
                 "Pace": "19",
-                "FTr": "14",
+                "FTr": "13",
                 "3PAr": "28",
                 "eFG%": "3",
                 "TOV%": "13",
@@ -292,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/HOU-2025.png",
-        "last_update": "Mar 09 2025 22:32:18"
+        "last_update": "Mar 10 2025 22:32:20"
     }
 }

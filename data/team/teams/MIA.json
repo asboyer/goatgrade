@@ -31,8 +31,20 @@
             {
                 "Player": "Alec Burks",
                 "Team": "Miami Heat",
-                "Update": "Sat, Mar 8, 2025",
-                "Description": "Day To Day (Back) - Burks did not play in Saturday's (Mar. 8) game against the Bulls."
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Day To Day (Back) - The Heat listed Burks as Questionable for Monday's (Mar. 10) game against the Hornets."
+            },
+            {
+                "Player": "Tyler Herro",
+                "Team": "Miami Heat",
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Day To Day (Illness) - The Heat listed Herro as Probable for Monday's (Mar. 10) game against the Hornets."
+            },
+            {
+                "Player": "Haywood Highsmith",
+                "Team": "Miami Heat",
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Day To Day (Knee) - The Heat listed Highsmith as Questionable for Monday's (Mar. 10) game against the Hornets."
             },
             {
                 "Player": "Nikola Jović",
@@ -41,10 +53,22 @@
                 "Description": "Out (Hand) - Jovic won't require surgery to repair the fractured second metacarpal on his right hand, but his status for the rest of the season remains in question, as per Barry Jackson and Anthony Chiang of the Miami Herald."
             },
             {
+                "Player": "Duncan Robinson",
+                "Team": "Miami Heat",
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Day To Day (Back) - The Heat listed Robinson as Questionable for Monday's (Mar. 10) game against the Hornets."
+            },
+            {
                 "Player": "Dru Smith",
                 "Team": "Miami Heat",
                 "Update": "Fri, Dec 27, 2024",
                 "Description": "Out For Season (Achilles) - The Heat announced on Friday (Dec. 27) that Smith underwent successful surgery to repair a ruptured left achilles tendon. He will miss the remainder of the season."
+            },
+            {
+                "Player": "Andrew Wiggins",
+                "Team": "Miami Heat",
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Day To Day (Ankle) - The Heat listed Wiggins as Probable for Monday's (Mar. 10) game against the Hornets."
             }
         ],
         "team_stats": {
@@ -100,22 +124,22 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "20",
                 "FG": "25",
                 "FGA": "24",
                 "FG%": "21",
-                "3P": "9",
+                "3P": "10",
                 "3PA": "12",
                 "3P%": "13",
                 "2P": "25",
-                "2PA": "26",
+                "2PA": "27",
                 "2P%": "20",
-                "FT": "19",
+                "FT": "20",
                 "FTA": "26",
                 "FT%": "9",
                 "ORB": "27",
                 "DRB": "6",
-                "TRB": "22",
+                "TRB": "20",
                 "AST": "14",
                 "STL": "20",
                 "BLK": "30",
@@ -200,23 +224,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "20",
                 "FG": "14",
                 "FGA": "15",
                 "FG%": "13",
-                "3P": "22",
-                "3PA": "21",
-                "3P%": "14",
+                "3P": "20",
+                "3PA": "20",
+                "3P%": "13",
                 "2P": "9",
                 "2PA": "10",
                 "2P%": "17",
                 "FT": "1",
                 "FTA": "2",
-                "FT%": "15",
+                "FT%": "14",
                 "ORB": "9",
                 "DRB": "27",
                 "TRB": "23",
-                "AST": "20",
+                "AST": "18",
                 "STL": "6",
                 "BLK": "13",
                 "TOV": "21",
@@ -270,7 +294,7 @@
                 "Attendance": "571,619"
             },
             "Misc Lg Rank": {
-                "W": "19",
+                "W": "20",
                 "L": "12",
                 "PW": "17",
                 "PL": "17",
@@ -282,16 +306,16 @@
                 "Pace": "28",
                 "FTr": "18",
                 "3PAr": "8",
-                "eFG%": "13",
+                "eFG%": "14",
                 "TOV%": "21",
                 "ORB%": "27",
                 "FT/FGA": "3",
                 "DRB%": "8",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MIA-2025.png",
-        "last_update": "Mar 09 2025 22:32:18"
+        "last_update": "Mar 10 2025 22:32:20"
     }
 }

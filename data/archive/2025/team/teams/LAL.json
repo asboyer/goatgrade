@@ -2,7 +2,7 @@
     "LAL": {
         "info": {
             "record": "40-22",
-            "standing": "3rd in West",
+            "standing": "2nd in West",
             "coach": "JJ Redick (40-22)",
             "gm": "Rob Pelinka",
             "preseason_odds": "+3000"
@@ -29,22 +29,34 @@
         ],
         "injuries": [
             {
+                "Player": "Luka Dončić",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Day To Day (Back) - The Lakers listed Doncic as questionable for Monday's (Mar. 10) game against Brooklyn."
+            },
+            {
+                "Player": "Dorian Finney-Smith",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Out (Ankle) - The Lakers listed Finney-Smith as questionable for Monday's (Mar. 10) game against Brooklyn."
+            },
+            {
                 "Player": "Rui Hachimura",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sat, Mar 8, 2025",
-                "Description": "Day To Day (Knee) - Hachimura did not play in Saturday's (Mar. 8) game against the Celtics."
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Out (Knee) - Hachimura will miss at least the next four games, head coach JJ Redick said, per Mike Trudell of Spectrum SportsNet."
             },
             {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sat, Mar 8, 2025",
-                "Description": "Day To Day (Knee) - Hayes did not play in Saturday's (Mar. 8) game against the Celtics."
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Day To Day (Knee) - The Lakers listed Hayes as questionable for Monday's (Mar. 10) game against Brooklyn."
             },
             {
                 "Player": "LeBron James",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sat, Mar 8, 2025",
-                "Description": "Out (Leg) - James could be sidelined for weeks, not days due to the injury sustained against the Celtics on Saturday, according to Dave McMenamin of ESPN.com."
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Out (Leg) - James is expected to miss at least 1-to-2 weeks due to a groin strain, per Shams Charania of ESPN."
             },
             {
                 "Player": "Maxi Kleber",
@@ -106,15 +118,15 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "18",
                 "FGA": "30",
                 "FG%": "7",
-                "3P": "22",
+                "3P": "21",
                 "3PA": "22",
-                "3P%": "17",
+                "3P%": "18",
                 "2P": "15",
-                "2PA": "20",
+                "2PA": "21",
                 "2P%": "3",
                 "FT": "2",
                 "FTA": "4",
@@ -125,7 +137,7 @@
                 "AST": "16",
                 "STL": "24",
                 "BLK": "18",
-                "TOV": "11",
+                "TOV": "12",
                 "PF": "4",
                 "PTS": "18"
             },
@@ -206,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "28",
                 "FG": "12",
                 "FGA": "17",
                 "FG%": "8",
@@ -222,7 +234,7 @@
                 "ORB": "16",
                 "DRB": "6",
                 "TRB": "7",
-                "AST": "22",
+                "AST": "21",
                 "STL": "17",
                 "BLK": "4",
                 "TOV": "20",
@@ -260,8 +272,8 @@
                 "PW": "34",
                 "PL": "28",
                 "MOV": "1.79",
-                "SOS": "-0.08",
-                "SRS": "1.71",
+                "SOS": "-0.09",
+                "SRS": "1.70",
                 "ORtg": "115.2",
                 "DRtg": "113.4",
                 "Pace": "97.7",
@@ -277,13 +289,13 @@
             },
             "Misc Lg Rank": {
                 "W": "5",
-                "L": "26",
+                "L": "27",
                 "PW": "14",
-                "PL": "12",
+                "PL": "10",
                 "MOV": "13",
                 "SOS": "15",
                 "SRS": "11",
-                "ORtg": "10",
+                "ORtg": "12",
                 "DRtg": "13",
                 "Pace": "22",
                 "FTr": "2",
@@ -291,13 +303,13 @@
                 "eFG%": "9",
                 "TOV%": "20",
                 "ORB%": "24",
-                "FT/FGA": "6",
-                "DRB%": "13",
+                "FT/FGA": "5",
+                "DRB%": "14",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAL-2025.png",
-        "last_update": "Mar 09 2025 22:32:18"
+        "last_update": "Mar 10 2025 22:32:20"
     }
 }
