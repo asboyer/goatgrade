@@ -2,7 +2,7 @@
     "PHI": {
         "info": {
             "record": "22-42",
-            "standing": "12th in East",
+            "standing": "11th in East",
             "coach": "Nick Nurse (22-42)",
             "gm": "Daryl Morey",
             "preseason_odds": "+1400"
@@ -31,8 +31,8 @@
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Illness) - Drummond did not play in Monday's (Mar. 10) game against the Hawks."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Illness) - The 76ers listed Drummond as Questionable on Wednesday's (Mar. 12) game against the Raptors."
             },
             {
                 "Player": "Joel Embiid",
@@ -43,8 +43,8 @@
             {
                 "Player": "Paul George",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Groin) - George did not play in Monday's (Mar. 10) game against the Hawks."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Out (Groin) - The 76ers listed George as Out on Wednesday's (Mar. 12) game against the Raptors."
             },
             {
                 "Player": "Eric Gordon",
@@ -55,14 +55,14 @@
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Hip) - Lowry did not play in Monday's (Mar. 10) game against the Hawks."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Out (Hip) - The 76ers listed Lowry as Out on Wednesday's (Mar. 12) game against the Raptors."
             },
             {
                 "Player": "Tyrese Maxey",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Back) - Maxey did not play in Monday's (Mar. 10) game against the Hawks."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Out (Back) - The 76ers listed Maxey as Out on Wednesday's (Mar. 12) game against the Raptors."
             },
             {
                 "Player": "Jared McCain",
@@ -73,8 +73,8 @@
             {
                 "Player": "Kelly Oubre Jr.",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Ankle) - Oubre Jr. did not play in Monday's (Mar. 10) game against the Hawks."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Ankle) - The 76ers listed Oubre Jr. as Questionable on Wednesday's (Mar. 12) game against the Raptors."
             }
         ],
         "team_stats": {
@@ -130,8 +130,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
-                "FG": "27",
+                "MP": "24",
+                "FG": "26",
                 "FGA": "25",
                 "FG%": "22",
                 "3P": "20",
@@ -230,14 +230,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "24",
                 "FG": "18",
                 "FGA": "3",
                 "FG%": "30",
                 "3P": "22",
                 "3PA": "12",
                 "3P%": "27",
-                "2P": "13",
+                "2P": "14",
                 "2PA": "3",
                 "2P%": "30",
                 "FT": "15",
@@ -250,7 +250,7 @@
                 "STL": "4",
                 "BLK": "19",
                 "TOV": "3",
-                "PF": "11",
+                "PF": "10",
                 "PTS": "16"
             },
             "Opp Year/Year": {
@@ -285,7 +285,7 @@
                 "PL": "41",
                 "MOV": "-4.88",
                 "SOS": "0.12",
-                "SRS": "-4.76",
+                "SRS": "-4.75",
                 "ORtg": "112.3",
                 "DRtg": "117.3",
                 "Pace": "96.9",
@@ -301,7 +301,7 @@
             },
             "Misc Lg Rank": {
                 "W": "24",
-                "L": "6",
+                "L": "7",
                 "PW": "25",
                 "PL": "24",
                 "MOV": "24",
@@ -316,12 +316,12 @@
                 "TOV%": "3",
                 "ORB%": "23",
                 "FT/FGA": "21",
-                "DRB%": "28",
+                "DRB%": "27",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHI-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }

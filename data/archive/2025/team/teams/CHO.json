@@ -25,8 +25,7 @@
             "Damion Baugh",
             "Jusuf Nurkić",
             "Josh Okogie",
-            "Wendell Moore Jr.",
-            "Malachi Flynn"
+            "Wendell Moore Jr."
         ],
         "injuries": [
             {
@@ -40,6 +39,12 @@
                 "Team": "Charlotte Hornets",
                 "Update": "Thu, Jan 23, 2025",
                 "Description": "Out For Season (Wrist) - The Hornets announced Friday (Jan. 23) that Miller underwent surgery to repair a torn scapholunate ligament in his right wrist and will miss the remainder of the 2024-25 season."
+            },
+            {
+                "Player": "Jusuf Nurkić",
+                "Team": "Charlotte Hornets",
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Lower Leg) - The Hornets listed Nurkic as Questionable on Wednesday's (Mar. 12) game against the Hawks."
             },
             {
                 "Player": "Josh Okogie",
@@ -107,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "28",
                 "FGA": "13",
                 "FG%": "30",
@@ -125,7 +130,7 @@
                 "TRB": "6",
                 "AST": "26",
                 "STL": "20",
-                "BLK": "23",
+                "BLK": "24",
                 "TOV": "22",
                 "PF": "19",
                 "PTS": "28"
@@ -207,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "10",
                 "FGA": "9",
                 "FG%": "15",
@@ -225,7 +230,7 @@
                 "TRB": "23",
                 "AST": "14",
                 "STL": "18",
-                "BLK": "23",
+                "BLK": "22",
                 "TOV": "19",
                 "PF": "20",
                 "PTS": "14"
@@ -262,7 +267,7 @@
                 "PL": "46",
                 "MOV": "-7.45",
                 "SOS": "-0.21",
-                "SRS": "-7.67",
+                "SRS": "-7.66",
                 "ORtg": "107.4",
                 "DRtg": "115.0",
                 "Pace": "97.6",
@@ -279,7 +284,7 @@
             "Misc Lg Rank": {
                 "W": "28",
                 "L": "3",
-                "PW": "28",
+                "PW": "29",
                 "PL": "28",
                 "MOV": "28",
                 "SOS": "19",
@@ -295,10 +300,10 @@
                 "FT/FGA": "19",
                 "DRB%": "14",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "15"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CHO-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }

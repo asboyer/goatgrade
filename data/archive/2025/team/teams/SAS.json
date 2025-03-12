@@ -31,14 +31,20 @@
             {
                 "Player": "Charles Bassey",
                 "Team": "San Antonio Spurs",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Out (Knee) - The Spurs listed Bassey as Out for Monday's (Mar. 10) game against the Mavericks."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Out (Knee) - The Spurs have listed Bassey as OUT for Wednesday's (Mar. 12) game againt the Mavericks."
             },
             {
                 "Player": "Jeremy Sochan",
                 "Team": "San Antonio Spurs",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Out (Calf) - The Spurs listed Sochan as OUT for Monday's (Mar. 10) game against the Mavericks."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Calf) - The Spurs have listed Sochan as Questionable for Wednesday's (Mar. 12) game againt the Mavericks."
+            },
+            {
+                "Player": "Devin Vassell",
+                "Team": "San Antonio Spurs",
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Wrist) - The Spurs have listed Vassell as Questionable for Wednesday's (Mar. 12) game againt the Mavericks."
             },
             {
                 "Player": "Victor Wembanyama",
@@ -100,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "14",
                 "FGA": "14",
                 "FG%": "15",
@@ -109,13 +115,13 @@
                 "3P%": "21",
                 "2P": "16",
                 "2PA": "18",
-                "2P%": "11",
+                "2P%": "12",
                 "FT": "25",
-                "FTA": "23",
+                "FTA": "22",
                 "FT%": "22",
                 "ORB": "17",
-                "DRB": "16",
-                "TRB": "16",
+                "DRB": "15",
+                "TRB": "17",
                 "AST": "5",
                 "STL": "13",
                 "BLK": "1",
@@ -200,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "27",
                 "FGA": "29",
                 "FG%": "19",
@@ -215,10 +221,10 @@
                 "FT%": "25",
                 "ORB": "29",
                 "DRB": "24",
-                "TRB": "27",
+                "TRB": "28",
                 "AST": "22",
                 "STL": "15",
-                "BLK": "7",
+                "BLK": "9",
                 "TOV": "23",
                 "PF": "27",
                 "PTS": "22"
@@ -254,7 +260,7 @@
                 "PW": "27",
                 "PL": "36",
                 "MOV": "-2.44",
-                "SOS": "0.22",
+                "SOS": "0.23",
                 "SRS": "-2.22",
                 "ORtg": "114.1",
                 "DRtg": "116.5",
@@ -277,7 +283,7 @@
                 "MOV": "21",
                 "SOS": "10",
                 "SRS": "18",
-                "ORtg": "15",
+                "ORtg": "16",
                 "DRtg": "25",
                 "Pace": "13",
                 "FTr": "24",
@@ -288,10 +294,10 @@
                 "FT/FGA": "1",
                 "DRB%": "26",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/SAS-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }

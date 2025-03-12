@@ -31,8 +31,8 @@
             {
                 "Player": "Dorian Finney-Smith",
                 "Team": "Los Angeles Lakers",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Ankle) - Finney-Smith did not play in Monday's (Mar. 10) game against Brooklyn."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Ankle) - Finney-Smith did not play in Monday's (Mar. 10) game against the Nets."
             },
             {
                 "Player": "Rui Hachimura",
@@ -43,8 +43,8 @@
             {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Knee) - Hayes did not play in Monday's (Mar. 10) game against Brooklyn."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Knee) - Hayes did not play in Monday's (Mar. 10) game against the Nets."
             },
             {
                 "Player": "LeBron James",
@@ -112,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "19",
                 "FGA": "30",
                 "FG%": "8",
@@ -126,11 +126,11 @@
                 "FTA": "4",
                 "FT%": "14",
                 "ORB": "26",
-                "DRB": "17",
+                "DRB": "16",
                 "TRB": "25",
-                "AST": "15",
+                "AST": "16",
                 "STL": "24",
-                "BLK": "19",
+                "BLK": "18",
                 "TOV": "13",
                 "PF": "4",
                 "PTS": "18"
@@ -212,11 +212,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "12",
                 "FGA": "16",
                 "FG%": "7",
-                "3P": "13",
+                "3P": "12",
                 "3PA": "16",
                 "3P%": "4",
                 "2P": "12",
@@ -226,7 +226,7 @@
                 "FTA": "5",
                 "FT%": "16",
                 "ORB": "16",
-                "DRB": "6",
+                "DRB": "5",
                 "TRB": "8",
                 "AST": "19",
                 "STL": "17",
@@ -285,8 +285,8 @@
                 "W": "7",
                 "L": "25",
                 "PW": "13",
-                "PL": "12",
-                "MOV": "12",
+                "PL": "11",
+                "MOV": "13",
                 "SOS": "18",
                 "SRS": "11",
                 "ORtg": "12",
@@ -300,10 +300,10 @@
                 "FT/FGA": "6",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAL-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }

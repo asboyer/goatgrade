@@ -2,7 +2,7 @@
     "TOR": {
         "info": {
             "record": "22-43",
-            "standing": "13th in East",
+            "standing": "12th in East",
             "coach": "Darko Rajakovic (22-43)",
             "gm": "Masai Ujiri",
             "preseason_odds": "+50000"
@@ -31,8 +31,26 @@
             {
                 "Player": "Ochai Agbaji",
                 "Team": "Toronto Raptors",
-                "Update": "Sun, Mar 9, 2025",
-                "Description": "Out (Ankle) - The Raptors listed Agbaji as OUT for Monday's (Mar. 10) game against Washington."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Ankle) - The Raptors listed Agbaji as Doubtful for Wednesday's (Mar. 12) game against the 76ers."
+            },
+            {
+                "Player": "Scottie Barnes",
+                "Team": "Toronto Raptors",
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Hand) - The Raptors listed Barnes as Questionable for Wednesday's (Mar. 12) game against the 76ers."
+            },
+            {
+                "Player": "RJ Barrett",
+                "Team": "Toronto Raptors",
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Out (Personal) - The Raptors listed Barrett as Out for Wednesday's (Mar. 12) game against the 76ers."
+            },
+            {
+                "Player": "Jamison Battle",
+                "Team": "Toronto Raptors",
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Nose) - The Raptors listed Battle as Questionable for Wednesday's (Mar. 12) game against the 76ers."
             },
             {
                 "Player": "Ulrich Chomche",
@@ -49,32 +67,32 @@
             {
                 "Player": "Brandon Ingram",
                 "Team": "Toronto Raptors",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Out (Ankle) - Raptors' head coach Darko Rajakovic said on Tuesday (Feb. 25) that Ingram is still rehabbing his sprained left ankle and remains without a clear timeline to make his Raptors debut, per Adam Laskaris of BlogTO.com."
+                "Update": "Thu, Mar 6, 2025",
+                "Description": "Out (Ankle) - The Raptors announced Thursday (Mar. 6) that Ingram is progressing as expected, but he remains limited to individual work on the court and will be re-evaluated in two weeks, per Josh Lewenberg of TSN.ca."
             },
             {
                 "Player": "Jonathan Mogbo",
                 "Team": "Toronto Raptors",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Face) - Mogbo did not play in Monday's (Mar. 10) game against Washington."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Out (Face) - The Raptors listed Mogbo as Out for Wednesday's (Mar. 12) game against the 76ers."
             },
             {
                 "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Rest) - Poeltl did not play in Monday's (Mar. 10) game against Washington."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Rest) - Poeltl did not play in Monday's (Mar. 10) game against the Wizards."
             },
             {
                 "Player": "Immanuel Quickley",
                 "Team": "Toronto Raptors",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Rest) - Quickley did not play in Monday's (Mar. 10) game against Washington."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Out (Rest) - The Raptors listed Quickley as Out for Wednesday's (Mar. 12) game against the 76ers."
             },
             {
                 "Player": "Ja'Kobe Walter",
                 "Team": "Toronto Raptors",
-                "Update": "Sun, Mar 9, 2025",
-                "Description": "Out (Quadriceps) - The Raptors listed Walter as OUT for Monday's (Mar. 10) game against Washington."
+                "Update": "Wed, Mar 12, 2025",
+                "Description": "Out (Quadriceps) - The Raptors listed Walter as Out for Wednesday's (Mar. 12) game against the 76ers."
             }
         ],
         "team_stats": {
@@ -130,13 +148,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "16",
                 "FGA": "15",
                 "FG%": "19",
                 "3P": "29",
                 "3PA": "29",
-                "3P%": "22",
+                "3P%": "23",
                 "2P": "8",
                 "2PA": "3",
                 "2P%": "23",
@@ -230,16 +248,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "15",
                 "FGA": "11",
                 "FG%": "17",
                 "3P": "14",
                 "3PA": "15",
-                "3P%": "10",
+                "3P%": "9",
                 "2P": "17",
                 "2PA": "9",
-                "2P%": "23",
+                "2P%": "22",
                 "FT": "30",
                 "FTA": "30",
                 "FT%": "6",
@@ -318,10 +336,10 @@
                 "FT/FGA": "29",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/TOR-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }

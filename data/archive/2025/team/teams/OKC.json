@@ -39,6 +39,12 @@
                 "Team": "Oklahoma City Thunder",
                 "Update": "Sun, Jan 12, 2025",
                 "Description": "Out For Season (ACL) - Topic was spotted taking part in light shooting drills on the court prior to the Thunder's 105-92 win over the Celtics last Sunday (Jan. 12), as per Clemente Almanza of USA Today."
+            },
+            {
+                "Player": "Jalen Williams",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Hip) - The Thunder listed Williams as Out on Wednesday's (Mar. 12) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -94,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "17",
                 "FG": "4",
                 "FGA": "3",
                 "FG%": "9",
@@ -107,14 +113,14 @@
                 "FT": "23",
                 "FTA": "28",
                 "FT%": "1",
-                "ORB": "18",
+                "ORB": "19",
                 "DRB": "9",
                 "TRB": "13",
                 "AST": "12",
                 "STL": "1",
                 "BLK": "4",
                 "TOV": "1",
-                "PF": "24",
+                "PF": "25",
                 "PTS": "4"
             },
             "Year/Year": {
@@ -194,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "17",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
@@ -202,7 +208,7 @@
                 "3PA": "20",
                 "3P%": "1",
                 "2P": "1",
-                "2PA": "2",
+                "2PA": "1",
                 "2P%": "1",
                 "FT": "28",
                 "FTA": "28",
@@ -280,12 +286,12 @@
                 "TOV%": "1",
                 "ORB%": "19",
                 "FT/FGA": "28",
-                "DRB%": "22",
+                "DRB%": "23",
                 "Arena": "",
                 "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/OKC-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }

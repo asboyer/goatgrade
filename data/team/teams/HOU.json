@@ -37,14 +37,14 @@
             {
                 "Player": "Amen Thompson",
                 "Team": "Houston Rockets",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Foot) - Thompson did not play in Monday's (Mar. 10) game against the Magic."
+                "Update": "Sun, Mar 9, 2025",
+                "Description": "Out (Foot) - The Rockets announced on Sunday (Mar. 9) that Thompson will be out 10 to 14 days due to a left ankle sprain, per Shams Charania of ESPN."
             },
             {
                 "Player": "Fred VanVleet",
                 "Team": "Houston Rockets",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Ankle) - VanVleet did not play in Monday's (Mar. 10) game against the Magic."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Ankle) - The Rockets listed VanVleet as Probable on Wednesday's (Mar. 12) game against the Suns."
             }
         ],
         "team_stats": {
@@ -100,11 +100,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "14",
                 "FG": "13",
                 "FGA": "2",
                 "FG%": "25",
-                "3P": "25",
+                "3P": "26",
                 "3PA": "22",
                 "3P%": "25",
                 "2P": "10",
@@ -200,28 +200,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "14",
                 "FG": "4",
                 "FGA": "11",
-                "FG%": "5",
+                "FG%": "3",
                 "3P": "2",
                 "3PA": "2",
                 "3P%": "7",
                 "2P": "15",
-                "2PA": "25",
+                "2PA": "26",
                 "2P%": "3",
                 "FT": "13",
                 "FTA": "19",
                 "FT%": "1",
                 "ORB": "13",
-                "DRB": "7",
+                "DRB": "8",
                 "TRB": "7",
                 "AST": "2",
                 "STL": "13",
                 "BLK": "29",
                 "TOV": "16",
                 "PF": "4",
-                "PTS": "5"
+                "PTS": "4"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -254,8 +254,8 @@
                 "PW": "41",
                 "PL": "24",
                 "MOV": "3.98",
-                "SOS": "0.59",
-                "SRS": "4.57",
+                "SOS": "0.60",
+                "SRS": "4.58",
                 "ORtg": "114.0",
                 "DRtg": "110.0",
                 "Pace": "98.6",
@@ -275,7 +275,7 @@
                 "PW": "6",
                 "PL": "7",
                 "MOV": "7",
-                "SOS": "5",
+                "SOS": "6",
                 "SRS": "6",
                 "ORtg": "17",
                 "DRtg": "3",
@@ -292,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/HOU-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }

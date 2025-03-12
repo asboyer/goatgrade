@@ -41,16 +41,10 @@
                 "Description": "Out For Season (Shoulder) - Johnson was diagnosed on Wednesday (Jan. 29) with a torn labrum in his left shoulder and will miss the rest of the season, league sources tell NBA reporter Chris Haynes."
             },
             {
-                "Player": "Vit Krejci",
-                "Team": "Atlanta Hawks",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Back) - Krejci did not play in Monday's (Mar. 10) game against Philadelphia."
-            },
-            {
                 "Player": "Caris LeVert",
                 "Team": "Atlanta Hawks",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Finger) - LeVert did not play in Monday's (Mar. 10) game against the 76ers."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Finger) - The Hawks listed LeVert as Questionable on Wednesday's (Mar. 12) game against the Hornets."
             },
             {
                 "Player": "Larry Nance Jr.",
@@ -61,8 +55,8 @@
             {
                 "Player": "Trae Young",
                 "Team": "Atlanta Hawks",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Quadricep) - Young did not play in Monday's (Mar. 10) game against Philadelphia."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Quadricep) - The Hawks listed Young as Questionable on Wednesday's (Mar. 12) game against the Hornets."
             }
         ],
         "team_stats": {
@@ -118,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "11",
                 "FG": "8",
                 "FGA": "4",
                 "FG%": "14",
@@ -127,7 +121,7 @@
                 "3P%": "19",
                 "2P": "7",
                 "2PA": "7",
-                "2P%": "16",
+                "2P%": "17",
                 "FT": "4",
                 "FTA": "3",
                 "FT%": "24",
@@ -218,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "11",
                 "FG": "28",
                 "FGA": "20",
                 "FG%": "28",
@@ -272,7 +266,7 @@
                 "PW": "28",
                 "PL": "37",
                 "MOV": "-2.42",
-                "SOS": "0.17",
+                "SOS": "0.18",
                 "SRS": "-2.24",
                 "ORtg": "113.1",
                 "DRtg": "115.4",
@@ -293,7 +287,7 @@
                 "PW": "20",
                 "PL": "21",
                 "MOV": "20",
-                "SOS": "11",
+                "SOS": "12",
                 "SRS": "19",
                 "ORtg": "18",
                 "DRtg": "19",
@@ -301,7 +295,7 @@
                 "FTr": "7",
                 "3PAr": "19",
                 "eFG%": "28",
-                "TOV%": "5",
+                "TOV%": "6",
                 "ORB%": "11",
                 "FT/FGA": "20",
                 "DRB%": "9",
@@ -310,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/ATL-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }

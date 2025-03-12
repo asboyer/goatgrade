@@ -27,7 +27,14 @@
             "Jesse Edwards",
             "Bones Hyland"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Rudy Gobert",
+                "Team": "Minnesota Timberwolves",
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Back) - The Timberwolves listed Gobert as Questionable on Wednesday's (Mar. 12) game against the Nuggets."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "66",
@@ -81,7 +88,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "24",
                 "FGA": "22",
                 "FG%": "17",
@@ -93,7 +100,7 @@
                 "2P%": "22",
                 "FT": "15",
                 "FTA": "19",
-                "FT%": "8",
+                "FT%": "7",
                 "ORB": "16",
                 "DRB": "20",
                 "TRB": "19",
@@ -181,7 +188,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "7",
                 "FGA": "8",
                 "FG%": "8",
@@ -193,8 +200,8 @@
                 "2P%": "11",
                 "FT": "6",
                 "FTA": "6",
-                "FT%": "9",
-                "ORB": "17",
+                "FT%": "8",
+                "ORB": "18",
                 "DRB": "10",
                 "TRB": "13",
                 "AST": "5",
@@ -235,8 +242,8 @@
                 "PW": "40",
                 "PL": "26",
                 "MOV": "3.59",
-                "SOS": "0.73",
-                "SRS": "4.32",
+                "SOS": "0.72",
+                "SRS": "4.31",
                 "ORtg": "115.4",
                 "DRtg": "111.7",
                 "Pace": "97.3",
@@ -252,7 +259,7 @@
             },
             "Misc Lg Rank": {
                 "W": "9",
-                "L": "17",
+                "L": "18",
                 "PW": "8",
                 "PL": "8",
                 "MOV": "8",
@@ -273,6 +280,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MIN-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }

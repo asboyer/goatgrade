@@ -37,20 +37,20 @@
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Out (Calf) - The Trail Blazers listed Grant as OUT for Monday's (Mar. 10) game against the Warriors."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Calf) - The Trailblazers listed Grant as Doubtful on Wednesday's (Mar. 12) game against the Knicks."
             },
             {
                 "Player": "Matisse Thybulle",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Out (Ankle) - The Trail Blazers listed Thybulle as Out for Monday's (Mar. 10) game against the Warriors."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Ankle) - The Trailblazers listed Thybulle as Questionable on Wednesday's (Mar. 12) game against the Knicks."
             },
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Out (Knee) - The Trail Blazers listed Williams III as Out for Monday's (Mar. 10) game against the Warriors."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Knee) - The Trailblazers listed Williams III as Questionable on Wednesday's (Mar. 12) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "4",
                 "FG": "23",
                 "FGA": "18",
                 "FG%": "23",
@@ -206,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "4",
                 "FG": "17",
                 "FGA": "10",
                 "FG%": "22",
@@ -217,7 +217,7 @@
                 "2PA": "19",
                 "2P%": "18",
                 "FT": "25",
-                "FTA": "24",
+                "FTA": "23",
                 "FT%": "28",
                 "ORB": "25",
                 "DRB": "9",
@@ -226,7 +226,7 @@
                 "STL": "29",
                 "BLK": "24",
                 "TOV": "10",
-                "PF": "10",
+                "PF": "9",
                 "PTS": "18"
             },
             "Opp Year/Year": {
@@ -260,8 +260,8 @@
                 "PW": "25",
                 "PL": "41",
                 "MOV": "-4.05",
-                "SOS": "0.42",
-                "SRS": "-3.63",
+                "SOS": "0.43",
+                "SRS": "-3.62",
                 "ORtg": "111.5",
                 "DRtg": "115.6",
                 "Pace": "98.9",
@@ -286,7 +286,7 @@
                 "ORtg": "24",
                 "DRtg": "21",
                 "Pace": "17",
-                "FTr": "12",
+                "FTr": "11",
                 "3PAr": "18",
                 "eFG%": "21",
                 "TOV%": "9",
@@ -294,10 +294,10 @@
                 "FT/FGA": "25",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/POR-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }

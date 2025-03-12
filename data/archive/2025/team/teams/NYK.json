@@ -24,7 +24,8 @@
             "Delon Wright",
             "MarJon Beauchamp",
             "Anton Watson",
-            "Kevin McCullar Jr."
+            "Kevin McCullar Jr.",
+            "P.J. Tucker"
         ],
         "injuries": [
             {
@@ -93,10 +94,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "23",
                 "FG": "5",
                 "FGA": "17",
-                "FG%": "3",
+                "FG%": "4",
                 "3P": "20",
                 "3PA": "27",
                 "3P%": "7",
@@ -106,7 +107,7 @@
                 "FT": "14",
                 "FTA": "21",
                 "FT%": "5",
-                "ORB": "20",
+                "ORB": "21",
                 "DRB": "23",
                 "TRB": "24",
                 "AST": "11",
@@ -193,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "23",
                 "FG": "19",
                 "FGA": "14",
                 "FG%": "24",
@@ -213,7 +214,7 @@
                 "STL": "3",
                 "BLK": "17",
                 "TOV": "17",
-                "PF": "9",
+                "PF": "8",
                 "PTS": "13"
             },
             "Opp Year/Year": {
@@ -247,8 +248,8 @@
                 "PW": "41",
                 "PL": "23",
                 "MOV": "4.47",
-                "SOS": "-0.57",
-                "SRS": "3.90",
+                "SOS": "-0.56",
+                "SRS": "3.91",
                 "ORtg": "119.3",
                 "DRtg": "114.7",
                 "Pace": "97.3",
@@ -268,7 +269,7 @@
                 "PW": "7",
                 "PL": "5",
                 "MOV": "6",
-                "SOS": "27",
+                "SOS": "26",
                 "SRS": "8",
                 "ORtg": "5",
                 "DRtg": "14",
@@ -285,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NYK-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }

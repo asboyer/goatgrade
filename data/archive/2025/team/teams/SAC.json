@@ -30,14 +30,14 @@
             {
                 "Player": "Jae Crowder",
                 "Team": "Sacramento Kings",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Out (Back) - The Kings listed Crowder as OUT for Monday's (Mar. 10) game against the Knicks."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Back) - Crowder did not play in Monday's (Mar. 10) game against the Knicks."
             },
             {
                 "Player": "Jake LaRavia",
                 "Team": "Sacramento Kings",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Out (Knee) - The Kings listed LaRavia as OUT for Monday's (Mar. 10) game against the Knicks."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Knee) - LaRavia did not play in Monday's (Mar. 10) game against the Knicks."
             },
             {
                 "Player": "Domantas Sabonis",
@@ -99,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "7",
                 "FGA": "7",
                 "FG%": "10",
@@ -110,7 +110,7 @@
                 "2PA": "6",
                 "2P%": "9",
                 "FT": "10",
-                "FTA": "18",
+                "FTA": "16",
                 "FT%": "2",
                 "ORB": "13",
                 "DRB": "10",
@@ -118,7 +118,7 @@
                 "AST": "13",
                 "STL": "23",
                 "BLK": "22",
-                "TOV": "5",
+                "TOV": "6",
                 "PF": "18",
                 "PTS": "8"
             },
@@ -199,7 +199,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "16",
                 "FGA": "13",
                 "FG%": "18",
@@ -217,7 +217,7 @@
                 "TRB": "6",
                 "AST": "17",
                 "STL": "12",
-                "BLK": "6",
+                "BLK": "8",
                 "TOV": "18",
                 "PF": "16",
                 "PTS": "19"
@@ -253,8 +253,8 @@
                 "PW": "35",
                 "PL": "29",
                 "MOV": "1.45",
-                "SOS": "-0.30",
-                "SRS": "1.15",
+                "SOS": "-0.29",
+                "SRS": "1.16",
                 "ORtg": "116.5",
                 "DRtg": "115.0",
                 "Pace": "98.8",
@@ -283,7 +283,7 @@
                 "3PAr": "25",
                 "eFG%": "25",
                 "TOV%": "18",
-                "ORB%": "13",
+                "ORB%": "14",
                 "FT/FGA": "23",
                 "DRB%": "2",
                 "Arena": "",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/SAC-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }

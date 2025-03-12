@@ -31,44 +31,44 @@
             {
                 "Player": "Santi Aldama",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Out (Calf) - The Grizzlies listed Aldama as Out for Monday's (Mar. 10) game against the Suns."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Out (Calf) - The Grizzlies listed Aldama as Out on Wednesday's (Mar. 12) game against the Jazz."
             },
             {
                 "Player": "Brandon Clarke",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Out (Knee) - The Grizzlies listed Clarke as OUT for Monday's (Mar. 10) game against the Suns."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Knee) - The Grizzlies listed Clarke as Questionable on Wednesday's (Mar. 12) game against the Jazz."
             },
             {
                 "Player": "Zach Edey",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Out (Ankle) - The Grizzlies listed Edey as OUT for Monday's (Mar. 10) game against the Suns."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Ankle) - The Grizzlies listed Edey as Questionable on Wednesday's (Mar. 12) game against the Jazz."
             },
             {
                 "Player": "Jaren Jackson Jr.",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Out (Ankle) - The Grizzlies listed Jackson Jr. as Out for Monday's (Mar. 10) game against the Suns."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Out (Ankle) - The Grizzlies listed Jackson Jr. as Out on Wednesday's (Mar. 12) game against the Jazz."
             },
             {
                 "Player": "Luke Kennard",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Out (Back) - The Grizzlies listed Kennard as Out for Monday's (Mar. 10) game against the Suns."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Back) - Kennard did not play in Monday's (Mar. 10) game against the Suns."
             },
             {
                 "Player": "Zyon Pullin",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Out (Knee) - The Grizzlies listed Pullin as Out for Monday's (Mar. 10) game against the Suns."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Out (Knee) - The Grizzlies listed Pullin as Out on Wednesday's (Mar. 12) game against the Jazz."
             },
             {
                 "Player": "Vince Williams Jr.",
                 "Team": "Memphis Grizzlies",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Out (Foot) - The Grizzlies listed Williams Jr. as OUT for Monday's (Mar. 10) game against the Suns."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Foot) - Williams Jr. did not play in Monday's (Mar. 10) game against the Suns."
             }
         ],
         "team_stats": {
@@ -124,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "17",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "6",
@@ -224,7 +224,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "17",
                 "FG": "20",
                 "FGA": "26",
                 "FG%": "6",
@@ -241,9 +241,9 @@
                 "DRB": "3",
                 "TRB": "11",
                 "AST": "21",
-                "STL": "23",
-                "BLK": "26",
-                "TOV": "7",
+                "STL": "24",
+                "BLK": "27",
+                "TOV": "6",
                 "PF": "2",
                 "PTS": "25"
             },
@@ -278,8 +278,8 @@
                 "PW": "43",
                 "PL": "22",
                 "MOV": "5.89",
-                "SOS": "-0.39",
-                "SRS": "5.50",
+                "SOS": "-0.38",
+                "SRS": "5.51",
                 "ORtg": "118.1",
                 "DRtg": "112.4",
                 "Pace": "103.7",
@@ -302,7 +302,7 @@
                 "SOS": "22",
                 "SRS": "4",
                 "ORtg": "6",
-                "DRtg": "9",
+                "DRtg": "10",
                 "Pace": "1",
                 "FTr": "5",
                 "3PAr": "21",
@@ -312,10 +312,10 @@
                 "FT/FGA": "22",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MEM-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }

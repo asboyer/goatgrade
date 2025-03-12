@@ -31,14 +31,20 @@
             {
                 "Player": "Alec Burks",
                 "Team": "Miami Heat",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Back) - Burks did not play in Monday's (Mar. 10) game against the Hornets."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Back) - The Heat listed Burks as Questionable for Wednesday's (Mar. 12) game against the Clippers."
             },
             {
                 "Player": "Nikola Jović",
                 "Team": "Miami Heat",
                 "Update": "Tue, Mar 4, 2025",
                 "Description": "Out (Hand) - Jovic won't require surgery to repair the fractured second metacarpal on his right hand, but his status for the rest of the season remains in question, as per Barry Jackson and Anthony Chiang of the Miami Herald."
+            },
+            {
+                "Player": "Terry Rozier",
+                "Team": "Miami Heat",
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Chest) - The Heat listed Rozier as Probable for Wednesday's (Mar. 12) game against the Clippers."
             },
             {
                 "Player": "Dru Smith",
@@ -100,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "25",
                 "FGA": "24",
                 "FG%": "21",
@@ -200,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "13",
                 "FGA": "15",
                 "FG%": "11",
@@ -214,7 +220,7 @@
                 "FTA": "2",
                 "FT%": "18",
                 "ORB": "9",
-                "DRB": "26",
+                "DRB": "27",
                 "TRB": "22",
                 "AST": "17",
                 "STL": "6",
@@ -254,8 +260,8 @@
                 "PW": "31",
                 "PL": "33",
                 "MOV": "-0.50",
-                "SOS": "-0.43",
-                "SRS": "-0.93",
+                "SOS": "-0.42",
+                "SRS": "-0.92",
                 "ORtg": "112.5",
                 "DRtg": "113.0",
                 "Pace": "96.4",
@@ -275,23 +281,23 @@
                 "PW": "17",
                 "PL": "17",
                 "MOV": "17",
-                "SOS": "24",
+                "SOS": "23",
                 "SRS": "17",
                 "ORtg": "21",
                 "DRtg": "12",
                 "Pace": "28",
                 "FTr": "18",
                 "3PAr": "8",
-                "eFG%": "12",
+                "eFG%": "13",
                 "TOV%": "21",
                 "ORB%": "27",
                 "FT/FGA": "3",
                 "DRB%": "8",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MIA-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }

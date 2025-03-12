@@ -29,22 +29,16 @@
         ],
         "injuries": [
             {
-                "Player": "Bradley Beal",
-                "Team": "Phoenix Suns",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Calf) - Beal did not play in Monday's (Mar. 10) game against the Grizzlies."
-            },
-            {
                 "Player": "Cody Martin",
                 "Team": "Phoenix Suns",
-                "Update": "Mon, Mar 10, 2025",
+                "Update": "Tue, Mar 11, 2025",
                 "Description": "Day To Day (Abdomen) - Martin did not play in Monday's (Mar. 10) game against the Grizzlies."
             },
             {
                 "Player": "Monte Morris",
                 "Team": "Phoenix Suns",
-                "Update": "Mon, Mar 10, 2025",
-                "Description": "Day To Day (Back) - Morris did not play in Monday's (Mar. 10) game against the Grizzlies."
+                "Update": "Tue, Mar 11, 2025",
+                "Description": "Day To Day (Back) - The Suns listed Morris as Doubtful on Wednesday's (Mar. 12) game against the Rockets."
             }
         ],
         "team_stats": {
@@ -100,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "7",
                 "FG": "17",
                 "FGA": "27",
                 "FG%": "7",
@@ -111,7 +105,7 @@
                 "2PA": "27",
                 "2P%": "10",
                 "FT": "8",
-                "FTA": "13",
+                "FTA": "14",
                 "FT%": "3",
                 "ORB": "28",
                 "DRB": "12",
@@ -200,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "7",
                 "FG": "21",
                 "FGA": "21",
                 "FG%": "16",
@@ -220,7 +214,7 @@
                 "STL": "19",
                 "BLK": "3",
                 "TOV": "29",
-                "PF": "8",
+                "PF": "7",
                 "PTS": "23"
             },
             "Opp Year/Year": {
@@ -280,7 +274,7 @@
                 "ORtg": "8",
                 "DRtg": "27",
                 "Pace": "23",
-                "FTr": "9",
+                "FTr": "8",
                 "3PAr": "10",
                 "eFG%": "20",
                 "TOV%": "28",
@@ -292,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHO-2025.png",
-        "last_update": "Mar 11 2025 22:32:17"
+        "last_update": "Mar 12 2025 22:32:21"
     }
 }
