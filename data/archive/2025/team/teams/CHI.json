@@ -31,14 +31,20 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Tue, Mar 11, 2025",
-                "Description": "Day To Day (Wrist) - Ball did not play in Monday's (Mar. 10) game against the Pacers."
+                "Update": "Wed, Mar 12, 2025",
+                "Description": "Day To Day (Wrist) - The Bulls listed Ball as Doubtful on Thursday's (Mar. 13) game against the Nets."
             },
             {
                 "Player": "Ayo Dosunmu",
                 "Team": "Chicago Bulls",
                 "Update": "Sun, Mar 2, 2025",
                 "Description": "Out For Season (Shoulder) - The Bulls announced Dosunmu will undergo surgery and be out for the remainder of the season."
+            },
+            {
+                "Player": "Josh Giddey",
+                "Team": "Chicago Bulls",
+                "Update": "Wed, Mar 12, 2025",
+                "Description": "Day To Day (Ankle) - The Bulls listed Giddey as Doubtful on Thursday's (Mar. 13) game against the Nets."
             }
         ],
         "team_stats": {
@@ -94,9 +100,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "20",
                 "FG": "9",
-                "FGA": "5",
+                "FGA": "4",
                 "FG%": "16",
                 "3P": "3",
                 "3PA": "2",
@@ -194,17 +200,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "20",
                 "FG": "30",
                 "FGA": "30",
-                "FG%": "20",
+                "FG%": "19",
                 "3P": "16",
                 "3PA": "28",
                 "3P%": "2",
                 "2P": "30",
                 "2PA": "29",
-                "2P%": "24",
-                "FT": "17",
+                "2P%": "25",
+                "FT": "16",
                 "FTA": "14",
                 "FT%": "24",
                 "ORB": "12",
@@ -248,8 +254,8 @@
                 "PW": "26",
                 "PL": "39",
                 "MOV": "-3.68",
-                "SOS": "-0.08",
-                "SRS": "-3.76",
+                "SOS": "-0.09",
+                "SRS": "-3.77",
                 "ORtg": "112.7",
                 "DRtg": "116.2",
                 "Pace": "103.0",
@@ -265,11 +271,11 @@
             },
             "Misc Lg Rank": {
                 "W": "22",
-                "L": "8",
+                "L": "9",
                 "PW": "22",
                 "PL": "22",
                 "MOV": "22",
-                "SOS": "16",
+                "SOS": "17",
                 "SRS": "23",
                 "ORtg": "20",
                 "DRtg": "24",
@@ -278,7 +284,7 @@
                 "3PAr": "2",
                 "eFG%": "15",
                 "TOV%": "29",
-                "ORB%": "28",
+                "ORB%": "26",
                 "FT/FGA": "12",
                 "DRB%": "6",
                 "Arena": "",
@@ -286,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CHI-2025.png",
-        "last_update": "Mar 12 2025 22:32:21"
+        "last_update": "Mar 13 2025 22:32:20"
     }
 }

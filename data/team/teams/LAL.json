@@ -2,7 +2,7 @@
     "LAL": {
         "info": {
             "record": "40-23",
-            "standing": "3rd in West",
+            "standing": "4th in West",
             "coach": "JJ Redick (40-23)",
             "gm": "Rob Pelinka",
             "preseason_odds": "+3000"
@@ -29,22 +29,22 @@
         ],
         "injuries": [
             {
-                "Player": "Dorian Finney-Smith",
+                "Player": "Luka Dončić",
                 "Team": "Los Angeles Lakers",
-                "Update": "Tue, Mar 11, 2025",
-                "Description": "Day To Day (Ankle) - Finney-Smith did not play in Monday's (Mar. 10) game against the Nets."
+                "Update": "Wed, Mar 12, 2025",
+                "Description": "Day To Day (Ankle) - The Lakers listed Doncic as Questionable on Thursday's (Mar. 13) game against the Bucks."
             },
             {
                 "Player": "Rui Hachimura",
                 "Team": "Los Angeles Lakers",
                 "Update": "Sun, Mar 9, 2025",
-                "Description": "Out (Knee) - Hachimura will miss at least the next four games, head coach JJ Redick said, per Mike Trudell of Spectrum SportsNet."
+                "Description": "Out (Knee) - Hachimura will miss at least the next four games as said by Lakers' head coach JJ Redick, per Mike Trudell of Spectrum SportsNet."
             },
             {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
-                "Update": "Tue, Mar 11, 2025",
-                "Description": "Day To Day (Knee) - Hayes did not play in Monday's (Mar. 10) game against the Nets."
+                "Update": "Wed, Mar 12, 2025",
+                "Description": "Out (Knee) - The Lakers listed Hayes as Out on Thursday's (Mar. 13) game against the Bucks."
             },
             {
                 "Player": "LeBron James",
@@ -56,7 +56,7 @@
                 "Player": "Maxi Kleber",
                 "Team": "Los Angeles Lakers",
                 "Update": "Tue, Feb 4, 2025",
-                "Description": "Out (Foot) - Kleber will have his surgically repaired right foot re-evaluated in eight weeks, according to Jovan Buha of The Athletic."
+                "Description": "Out (Foot) - Kleber said on Tuesday (Feb. 4) that he will have his surgically repaired right foot re-evaluated in eight weeks, according to Jovan Buha of The Athletic."
             }
         ],
         "team_stats": {
@@ -112,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "29",
+                "MP": "30",
                 "FG": "19",
                 "FGA": "30",
                 "FG%": "8",
@@ -122,7 +122,7 @@
                 "2P": "15",
                 "2PA": "21",
                 "2P%": "4",
-                "FT": "2",
+                "FT": "3",
                 "FTA": "4",
                 "FT%": "14",
                 "ORB": "26",
@@ -212,23 +212,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "29",
+                "MP": "30",
                 "FG": "12",
                 "FGA": "16",
-                "FG%": "7",
-                "3P": "12",
+                "FG%": "8",
+                "3P": "13",
                 "3PA": "16",
-                "3P%": "4",
+                "3P%": "5",
                 "2P": "12",
                 "2PA": "14",
                 "2P%": "15",
                 "FT": "5",
                 "FTA": "5",
-                "FT%": "16",
+                "FT%": "18",
                 "ORB": "16",
                 "DRB": "5",
                 "TRB": "8",
-                "AST": "19",
+                "AST": "20",
                 "STL": "17",
                 "BLK": "4",
                 "TOV": "20",
@@ -266,8 +266,8 @@
                 "PW": "35",
                 "PL": "28",
                 "MOV": "1.71",
-                "SOS": "-0.20",
-                "SRS": "1.52",
+                "SOS": "-0.18",
+                "SRS": "1.53",
                 "ORtg": "115.2",
                 "DRtg": "113.5",
                 "Pace": "97.6",
@@ -282,8 +282,8 @@
                 "Attendance": "599,215"
             },
             "Misc Lg Rank": {
-                "W": "7",
-                "L": "25",
+                "W": "8",
+                "L": "26",
                 "PW": "13",
                 "PL": "11",
                 "MOV": "13",
@@ -296,14 +296,14 @@
                 "3PAr": "16",
                 "eFG%": "8",
                 "TOV%": "20",
-                "ORB%": "24",
+                "ORB%": "23",
                 "FT/FGA": "6",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAL-2025.png",
-        "last_update": "Mar 12 2025 22:32:21"
+        "last_update": "Mar 13 2025 22:32:20"
     }
 }

@@ -31,19 +31,19 @@
                 "Player": "De'Andre Hunter",
                 "Team": "Cleveland Cavaliers",
                 "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Illness) - Hunter did not play on Tuesday's (Mar. 11) game against the Nets."
+                "Description": "Day To Day (Illness) - Hunter did not play in Tuesday's (Mar. 11) game against the Nets."
             },
             {
                 "Player": "Ty Jerome",
                 "Team": "Cleveland Cavaliers",
                 "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Rest) - Jerome did not play on Tuesday's (Mar. 11) game against the Nets."
+                "Description": "Day To Day (Rest) - Jerome did not play in Tuesday's (Mar. 11) game against the Nets."
             },
             {
                 "Player": "Donovan Mitchell",
                 "Team": "Cleveland Cavaliers",
                 "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Groin) - Mitchell did not play on Tuesday's (Mar. 11) game against the Nets."
+                "Description": "Day To Day (Groin) - Mitchell did not play in Tuesday's (Mar. 11) game against the Nets."
             }
         ],
         "team_stats": {
@@ -99,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "23",
                 "FG": "3",
                 "FGA": "9",
                 "FG%": "2",
@@ -199,13 +199,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "23",
                 "FG": "11",
                 "FGA": "19",
-                "FG%": "4",
+                "FG%": "3",
                 "3P": "10",
                 "3PA": "11",
-                "3P%": "15",
+                "3P%": "14",
                 "2P": "13",
                 "2PA": "24",
                 "2P%": "2",
@@ -217,9 +217,9 @@
                 "TRB": "10",
                 "AST": "8",
                 "STL": "8",
-                "BLK": "7",
-                "TOV": "14",
-                "PF": "14",
+                "BLK": "8",
+                "TOV": "13",
+                "PF": "13",
                 "PTS": "10"
             },
             "Opp Year/Year": {
@@ -253,8 +253,8 @@
                 "PW": "52",
                 "PL": "13",
                 "MOV": "11.28",
-                "SOS": "-1.02",
-                "SRS": "10.26",
+                "SOS": "-1.04",
+                "SRS": "10.24",
                 "ORtg": "122.5",
                 "DRtg": "111.3",
                 "Pace": "100.0",
@@ -277,20 +277,20 @@
                 "SOS": "30",
                 "SRS": "2",
                 "ORtg": "1",
-                "DRtg": "6",
+                "DRtg": "5",
                 "Pace": "6",
                 "FTr": "17",
                 "3PAr": "5",
                 "eFG%": "4",
-                "TOV%": "16",
+                "TOV%": "15",
                 "ORB%": "13",
                 "FT/FGA": "10",
                 "DRB%": "11",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CLE-2025.png",
-        "last_update": "Mar 12 2025 22:32:21"
+        "last_update": "Mar 13 2025 22:32:20"
     }
 }

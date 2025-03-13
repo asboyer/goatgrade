@@ -32,25 +32,25 @@
                 "Player": "Saddiq Bey",
                 "Team": "Washington Wizards",
                 "Update": "Sun, Mar 2, 2025",
-                "Description": "Out (Knee) - The team announced Bey will remain sidelined indefinitely."
+                "Description": "Out (Knee) - The Wizards announced on Sunday (Mar. 2) that Bey will be sidelined indefinitely."
             },
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
                 "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Ankle) - Brogdon did not play on Tuesday's (Mar. 11) game against the Pistons."
+                "Description": "Out (Ankle) - The Wizards listed Brogdon as Out on Thursday's (Mar. 13) game against the Pistons."
             },
             {
                 "Player": "Bilal Coulibaly",
                 "Team": "Washington Wizards",
                 "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Hamstring) - Coulibaly did not play on Tuesday's (Mar. 11) game against the Pistons."
+                "Description": "Out (Hamstring) - The Wizards listed Coulibaly as Out on Thursday's (Mar. 13) game against the Pistons."
             },
             {
-                "Player": "AJ Johnson",
+                "Player": "Colby Jones",
                 "Team": "Washington Wizards",
                 "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Coach's Decision) - Johnson did not play on Tuesday's (Mar. 11) game against the Pistons."
+                "Description": "Day To Day (Achilles) - The Wizards listed Jones as Questionable on Thursday's (Mar. 13) game against the Pistons."
             }
         ],
         "team_stats": {
@@ -107,7 +107,7 @@
             "Lg Rank": {
                 "G": "",
                 "MP": "27",
-                "FG": "26",
+                "FG": "27",
                 "FGA": "11",
                 "FG%": "29",
                 "3P": "17",
@@ -117,16 +117,16 @@
                 "2PA": "15",
                 "2P%": "26",
                 "FT": "24",
-                "FTA": "26",
+                "FTA": "25",
                 "FT%": "16",
                 "ORB": "20",
                 "DRB": "14",
-                "TRB": "16",
+                "TRB": "17",
                 "AST": "22",
                 "STL": "25",
-                "BLK": "9",
+                "BLK": "10",
                 "TOV": "27",
-                "PF": "24",
+                "PF": "25",
                 "PTS": "27"
             },
             "Year/Year": {
@@ -209,12 +209,12 @@
                 "MP": "27",
                 "FG": "25",
                 "FGA": "27",
-                "FG%": "21",
+                "FG%": "20",
                 "3P": "27",
                 "3PA": "24",
                 "3P%": "23",
                 "2P": "24",
-                "2PA": "25",
+                "2PA": "26",
                 "2P%": "20",
                 "FT": "29",
                 "FTA": "25",
@@ -223,9 +223,9 @@
                 "DRB": "30",
                 "TRB": "30",
                 "AST": "25",
-                "STL": "26",
+                "STL": "25",
                 "BLK": "21",
-                "TOV": "22",
+                "TOV": "23",
                 "PF": "18",
                 "PTS": "30"
             },
@@ -290,14 +290,14 @@
                 "3PAr": "12",
                 "eFG%": "23",
                 "TOV%": "25",
-                "ORB%": "25",
+                "ORB%": "24",
                 "FT/FGA": "24",
-                "DRB%": "28",
+                "DRB%": "27",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/WAS-2025.png",
-        "last_update": "Mar 12 2025 22:32:21"
+        "last_update": "Mar 13 2025 22:32:20"
     }
 }

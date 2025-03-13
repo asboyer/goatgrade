@@ -23,8 +23,7 @@
             "Markelle Fultz",
             "Mason Jones",
             "Isaiah Crawford",
-            "Jae Crowder",
-            "Skal Labissière"
+            "Jae Crowder"
         ],
         "injuries": [
             {
@@ -36,14 +35,14 @@
             {
                 "Player": "Jake LaRavia",
                 "Team": "Sacramento Kings",
-                "Update": "Tue, Mar 11, 2025",
-                "Description": "Day To Day (Knee) - LaRavia did not play in Monday's (Mar. 10) game against the Knicks."
+                "Update": "Wed, Mar 12, 2025",
+                "Description": "Day To Day (Knee) - The Kings listed LaRavia as Questionable on Thursday's (Mar. 13) game against the Warriors."
             },
             {
                 "Player": "Domantas Sabonis",
                 "Team": "Sacramento Kings",
-                "Update": "Sat, Mar 8, 2025",
-                "Description": "Out (Hamstring) - The Kings announced on Saturday (Mar. 8) that Sabonis has been cleared for on court activates. He will be OUT for the next two games and re-evaluated on Tuesday (Mar. 11)."
+                "Update": "Wed, Mar 12, 2025",
+                "Description": "Day To Day (Hamstring) - The Kings listed Sabonis as Questionable on Thursday's (Mar. 13) game against the Warriors."
             }
         ],
         "team_stats": {
@@ -99,7 +98,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "25",
                 "FG": "7",
                 "FGA": "7",
                 "FG%": "10",
@@ -108,16 +107,16 @@
                 "3P%": "20",
                 "2P": "4",
                 "2PA": "6",
-                "2P%": "9",
+                "2P%": "10",
                 "FT": "10",
-                "FTA": "16",
+                "FTA": "17",
                 "FT%": "2",
                 "ORB": "13",
-                "DRB": "10",
+                "DRB": "11",
                 "TRB": "11",
-                "AST": "13",
+                "AST": "12",
                 "STL": "23",
-                "BLK": "22",
+                "BLK": "23",
                 "TOV": "6",
                 "PF": "18",
                 "PTS": "8"
@@ -199,7 +198,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "25",
                 "FG": "16",
                 "FGA": "13",
                 "FG%": "18",
@@ -211,13 +210,13 @@
                 "2P%": "13",
                 "FT": "21",
                 "FTA": "22",
-                "FT%": "20",
+                "FT%": "19",
                 "ORB": "2",
                 "DRB": "12",
                 "TRB": "6",
-                "AST": "17",
+                "AST": "18",
                 "STL": "12",
-                "BLK": "8",
+                "BLK": "9",
                 "TOV": "18",
                 "PF": "16",
                 "PTS": "19"
@@ -253,8 +252,8 @@
                 "PW": "35",
                 "PL": "29",
                 "MOV": "1.45",
-                "SOS": "-0.29",
-                "SRS": "1.16",
+                "SOS": "-0.28",
+                "SRS": "1.18",
                 "ORtg": "116.5",
                 "DRtg": "115.0",
                 "Pace": "98.8",
@@ -274,12 +273,12 @@
                 "PW": "14",
                 "PL": "13",
                 "MOV": "14",
-                "SOS": "21",
+                "SOS": "22",
                 "SRS": "14",
                 "ORtg": "7",
                 "DRtg": "17",
-                "Pace": "18",
-                "FTr": "23",
+                "Pace": "17",
+                "FTr": "22",
                 "3PAr": "25",
                 "eFG%": "25",
                 "TOV%": "18",
@@ -287,10 +286,10 @@
                 "FT/FGA": "23",
                 "DRB%": "2",
                 "Arena": "",
-                "Attendance": "26"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/SAC-2025.png",
-        "last_update": "Mar 12 2025 22:32:21"
+        "last_update": "Mar 13 2025 22:32:20"
     }
 }

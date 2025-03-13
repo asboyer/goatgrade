@@ -31,8 +31,8 @@
             {
                 "Player": "Brandon Boston Jr.",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sat, Mar 8, 2025",
-                "Description": "Out (Ankle) - The Team announced Boston Jr. was diagnosed with a left ankle stress reaction and will be re-evaluated in two weeks."
+                "Update": "Fri, Mar 7, 2025",
+                "Description": "Out (Ankle) - The Pelicans announced on Friday (Mar. 7) that Boston Jr. was diagnosed with a left ankle stress reaction and will be re-evaluated in two weeks."
             },
             {
                 "Player": "Herbert Jones",
@@ -41,10 +41,10 @@
                 "Description": "Out For Season (Shoulder) - New Orleans VP Griffin said Tuesday (Feb. 11) that he expects Jones to miss the remainder of the season, according to Will Guillory of The Athletic."
             },
             {
-                "Player": "CJ McCollum",
+                "Player": "Yves Missi",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sun, Mar 9, 2025",
-                "Description": "Out (Rest) - The Pelicans listed McCollum as Out for Sunday's (Mar. 9) game against the Grizzlies."
+                "Update": "Wed, Mar 12, 2025",
+                "Description": "Day To Day (Ankle) - The Pelicans listed Missi as Questionable for Thursday's (Mar. 13) game versus the Magic."
             },
             {
                 "Player": "Dejounte Murray",
@@ -56,13 +56,7 @@
                 "Player": "Kelly Olynyk",
                 "Team": "New Orleans Pelicans",
                 "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Rest) - Olynyk did not play on Tuesday's (Mar. 11) game against the Clippers."
-            },
-            {
-                "Player": "Zion Williamson",
-                "Team": "New Orleans Pelicans",
-                "Update": "Sun, Mar 9, 2025",
-                "Description": "Out (Rest) - The Pelicans listed Williamson as Out for Sunday's (Mar. 9) game against the Grizzlies."
+                "Description": "Out (Personal) - The Pelicans listed Olynyk as Out for Thursday's (Mar. 13) game versus the Magic."
             }
         ],
         "team_stats": {
@@ -118,28 +112,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "12",
                 "FG": "20",
                 "FGA": "8",
                 "FG%": "24",
                 "3P": "25",
                 "3PA": "26",
                 "3P%": "22",
-                "2P": "12",
+                "2P": "13",
                 "2PA": "5",
                 "2P%": "28",
                 "FT": "17",
-                "FTA": "10",
+                "FTA": "11",
                 "FT%": "26",
                 "ORB": "8",
                 "DRB": "27",
-                "TRB": "23",
+                "TRB": "22",
                 "AST": "20",
-                "STL": "6",
+                "STL": "7",
                 "BLK": "7",
                 "TOV": "17",
                 "PF": "8",
-                "PTS": "21"
+                "PTS": "22"
             },
             "Year/Year": {
                 "G": "",
@@ -218,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "12",
                 "FG": "29",
                 "FGA": "23",
                 "FG%": "29",
@@ -228,12 +222,12 @@
                 "2P": "25",
                 "2PA": "11",
                 "2P%": "29",
-                "FT": "7",
+                "FT": "8",
                 "FTA": "9",
-                "FT%": "15",
+                "FT%": "16",
                 "ORB": "27",
                 "DRB": "26",
-                "TRB": "27",
+                "TRB": "28",
                 "AST": "28",
                 "STL": "21",
                 "BLK": "23",
@@ -272,8 +266,8 @@
                 "PW": "18",
                 "PL": "48",
                 "MOV": "-8.05",
-                "SOS": "0.86",
-                "SRS": "-7.18",
+                "SOS": "0.85",
+                "SRS": "-7.19",
                 "ORtg": "111.3",
                 "DRtg": "119.3",
                 "Pace": "99.3",
@@ -289,16 +283,16 @@
             },
             "Misc Lg Rank": {
                 "W": "27",
-                "L": "3",
+                "L": "4",
                 "PW": "28",
                 "PL": "29",
                 "MOV": "29",
-                "SOS": "2",
+                "SOS": "1",
                 "SRS": "28",
                 "ORtg": "25",
                 "DRtg": "29",
-                "Pace": "12",
-                "FTr": "14",
+                "Pace": "13",
+                "FTr": "15",
                 "3PAr": "26",
                 "eFG%": "29",
                 "TOV%": "17",
@@ -306,10 +300,10 @@
                 "FT/FGA": "7",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NOP-2025.png",
-        "last_update": "Mar 12 2025 22:32:21"
+        "last_update": "Mar 13 2025 22:32:20"
     }
 }

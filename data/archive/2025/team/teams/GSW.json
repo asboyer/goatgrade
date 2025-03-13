@@ -29,14 +29,14 @@
             {
                 "Player": "Jonathan Kuminga",
                 "Team": "Golden State Warriors",
-                "Update": "Tue, Mar 11, 2025",
-                "Description": "Day To Day (Ankle) - Kuminga did not play in Monday's (Mar. 10) game against the Trail Blazers."
+                "Update": "Wed, Mar 12, 2025",
+                "Description": "Day To Day (Ankle) - The Warriors listed Kuminga as Probable on Thursday's (Mar. 13) game against the Kings."
             },
             {
                 "Player": "Brandin Podziemski",
                 "Team": "Golden State Warriors",
-                "Update": "Tue, Mar 11, 2025",
-                "Description": "Day To Day (Back) - Podziemski did not play in Monday's (Mar. 10) game against the Trail Blazers."
+                "Update": "Wed, Mar 12, 2025",
+                "Description": "Out (Back) - The Warriors listed Podziemski as Out on Thursday's (Mar. 13) game against the Kings."
             }
         ],
         "team_stats": {
@@ -92,7 +92,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "23",
                 "FG": "18",
                 "FGA": "6",
                 "FG%": "26",
@@ -103,11 +103,11 @@
                 "2PA": "24",
                 "2P%": "25",
                 "FT": "27",
-                "FTA": "20",
+                "FTA": "19",
                 "FT%": "27",
-                "ORB": "4",
+                "ORB": "3",
                 "DRB": "17",
-                "TRB": "3",
+                "TRB": "4",
                 "AST": "3",
                 "STL": "5",
                 "BLK": "15",
@@ -192,10 +192,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "23",
                 "FG": "8",
                 "FGA": "7",
-                "FG%": "12",
+                "FG%": "11",
                 "3P": "11",
                 "3PA": "10",
                 "3P%": "17",
@@ -203,16 +203,16 @@
                 "2PA": "12",
                 "2P%": "12",
                 "FT": "14",
-                "FTA": "16",
+                "FTA": "15",
                 "FT%": "7",
                 "ORB": "8",
-                "DRB": "22",
-                "TRB": "17",
-                "AST": "9",
+                "DRB": "21",
+                "TRB": "18",
+                "AST": "10",
                 "STL": "7",
                 "BLK": "25",
                 "TOV": "8",
-                "PF": "23",
+                "PF": "24",
                 "PTS": "9"
             },
             "Opp Year/Year": {
@@ -262,16 +262,16 @@
                 "Attendance": "578,048"
             },
             "Misc Lg Rank": {
-                "W": "9",
+                "W": "10",
                 "L": "20",
-                "PW": "9",
+                "PW": "10",
                 "PL": "9",
                 "MOV": "9",
                 "SOS": "9",
                 "SRS": "9",
                 "ORtg": "14",
                 "DRtg": "8",
-                "Pace": "14",
+                "Pace": "15",
                 "FTr": "25",
                 "3PAr": "3",
                 "eFG%": "10",
@@ -284,6 +284,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/GSW-2025.png",
-        "last_update": "Mar 12 2025 22:32:21"
+        "last_update": "Mar 13 2025 22:32:20"
     }
 }

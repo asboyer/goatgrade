@@ -2,7 +2,7 @@
     "BRK": {
         "info": {
             "record": "22-43",
-            "standing": "13th in East",
+            "standing": "12th in East",
             "coach": "Jordi Fernández Torres (22-43)",
             "gm": "Sean Marks",
             "preseason_odds": "+100000"
@@ -28,16 +28,16 @@
         ],
         "injuries": [
             {
+                "Player": "Noah Clowney",
+                "Team": "Brooklyn Nets",
+                "Update": "Wed, Mar 12, 2025",
+                "Description": "Day To Day (Ankle) - The Nets listed Clowney as Questionable on Thursday's (Mar. 13) game against the Bulls."
+            },
+            {
                 "Player": "De'Anthony Melton",
                 "Team": "Brooklyn Nets",
                 "Update": "Wed, Nov 20, 2024",
                 "Description": "Out For Season (ACL) - Melton will undergo season-ending surgery on his left ACL, the team announced Wednesday (Nov. 20)."
-            },
-            {
-                "Player": "D'Angelo Russell",
-                "Team": "Brooklyn Nets",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Ankle) - Russell did not play on Tuesday's (Mar. 11) game against the Cavaliers."
             }
         ],
         "team_stats": {
@@ -93,24 +93,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "20",
                 "FG": "30",
                 "FGA": "29",
                 "FG%": "28",
                 "3P": "13",
                 "3PA": "11",
-                "3P%": "27",
+                "3P%": "26",
                 "2P": "29",
                 "2PA": "29",
                 "2P%": "27",
                 "FT": "18",
-                "FTA": "24",
+                "FTA": "23",
                 "FT%": "8",
                 "ORB": "15",
                 "DRB": "29",
                 "TRB": "28",
                 "AST": "25",
-                "STL": "17",
+                "STL": "18",
                 "BLK": "25",
                 "TOV": "21",
                 "PF": "27",
@@ -193,7 +193,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "20",
                 "FG": "5",
                 "FGA": "2",
                 "FG%": "27",
@@ -201,19 +201,19 @@
                 "3PA": "4",
                 "3P%": "25",
                 "2P": "6",
-                "2PA": "4",
-                "2P%": "25",
+                "2PA": "3",
+                "2P%": "26",
                 "FT": "23",
                 "FTA": "24",
                 "FT%": "13",
                 "ORB": "5",
-                "DRB": "13",
+                "DRB": "14",
                 "TRB": "9",
                 "AST": "16",
                 "STL": "14",
                 "BLK": "26",
-                "TOV": "6",
-                "PF": "11",
+                "TOV": "7",
+                "PF": "10",
                 "PTS": "11"
             },
             "Opp Year/Year": {
@@ -247,8 +247,8 @@
                 "PW": "20",
                 "PL": "45",
                 "MOV": "-6.32",
-                "SOS": "0.19",
-                "SRS": "-6.13",
+                "SOS": "0.16",
+                "SRS": "-6.16",
                 "ORtg": "108.9",
                 "DRtg": "115.5",
                 "Pace": "96.1",
@@ -263,7 +263,7 @@
                 "Attendance": "539,397"
             },
             "Misc Lg Rank": {
-                "W": "24",
+                "W": "25",
                 "L": "5",
                 "PW": "26",
                 "PL": "26",
@@ -278,13 +278,13 @@
                 "eFG%": "27",
                 "TOV%": "4",
                 "ORB%": "17",
-                "FT/FGA": "27",
+                "FT/FGA": "28",
                 "DRB%": "18",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/BRK-2025.png",
-        "last_update": "Mar 12 2025 22:32:21"
+        "last_update": "Mar 13 2025 22:32:20"
     }
 }
