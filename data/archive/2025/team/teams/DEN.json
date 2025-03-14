@@ -29,16 +29,40 @@
         ],
         "injuries": [
             {
+                "Player": "Christian Braun",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Foot) - The Nuggets listed Gordon as probable for Friday's (Mar. 14) game against Los Angeles."
+            },
+            {
                 "Player": "Aaron Gordon",
                 "Team": "Denver Nuggets",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Calf) - Gordon did not play on Wednesday's (Mar. 12) game against the Timberwolves."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Calf) - The Nuggets listed Gordon as questionable for Friday's (Mar. 14) game against Los Angeles."
             },
             {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sun, Feb 23, 2025",
                 "Description": "Out For Season (Achilles) - Nuggets HC Michael Malone said that Holmes was able to participate in portions of Wednesday's (Feb. 19) practice, as per Brendan Vogt of TheDNVR.com reports."
+            },
+            {
+                "Player": "Nikola Jokić",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Elbow) - The Nuggets listed Gordon as probable for Friday's (Mar. 14) game against Los Angeles."
+            },
+            {
+                "Player": "Jamal Murray",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Knee) - The Nuggets listed Gordon as questionable for Friday's (Mar. 14) game against Los Angeles."
+            },
+            {
+                "Player": "Zeke Nnaji",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets listed Nnaji as probable for Friday's (Mar. 14) game against Los Angeles."
             },
             {
                 "Player": "Julian Strawther",
@@ -100,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "1",
                 "FGA": "12",
                 "FG%": "1",
@@ -200,7 +224,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "24",
                 "FGA": "28",
                 "FG%": "14",
@@ -211,16 +235,16 @@
                 "2PA": "27",
                 "2P%": "11",
                 "FT": "7",
-                "FTA": "7",
+                "FTA": "8",
                 "FT%": "17",
                 "ORB": "21",
                 "DRB": "1",
                 "TRB": "5",
                 "AST": "30",
-                "STL": "21",
+                "STL": "22",
                 "BLK": "20",
                 "TOV": "25",
-                "PF": "14",
+                "PF": "15",
                 "PTS": "24"
             },
             "Opp Year/Year": {
@@ -254,8 +278,8 @@
                 "PW": "41",
                 "PL": "25",
                 "MOV": "4.45",
-                "SOS": "0.06",
-                "SRS": "4.52",
+                "SOS": "0.05",
+                "SRS": "4.50",
                 "ORtg": "120.1",
                 "DRtg": "115.7",
                 "Pace": "100.0",
@@ -275,23 +299,23 @@
                 "PW": "5",
                 "PL": "6",
                 "MOV": "5",
-                "SOS": "12",
+                "SOS": "14",
                 "SRS": "7",
                 "ORtg": "2",
                 "DRtg": "23",
-                "Pace": "5",
+                "Pace": "6",
                 "FTr": "10",
                 "3PAr": "30",
                 "eFG%": "13",
                 "TOV%": "26",
                 "ORB%": "8",
                 "FT/FGA": "4",
-                "DRB%": "13",
+                "DRB%": "14",
                 "Arena": "",
                 "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DEN-2025.png",
-        "last_update": "Mar 13 2025 22:32:20"
+        "last_update": "Mar 14 2025 22:32:18"
     }
 }

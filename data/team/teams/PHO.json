@@ -31,20 +31,26 @@
             {
                 "Player": "Grayson Allen",
                 "Team": "Phoenix Suns",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Foot) - Allen did not play on Wednesday's (Mar. 12) game versus the Rockets."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Foot) - The Suns listed Allen as doubtful for Friday's (Mar. 14) game against Sacramento."
+            },
+            {
+                "Player": "Cody Martin",
+                "Team": "Phoenix Suns",
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Hernia) - The Suns listed Martin as questionable for Friday's (Mar. 14) game against Sacramento."
             },
             {
                 "Player": "Monte Morris",
                 "Team": "Phoenix Suns",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Back) - Morris did not play on Wednesday's (Mar. 12) game against the Rockets."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Back) - The Suns listed Morris as doubtful for Friday's (Mar. 14) game against Sacramento."
             },
             {
                 "Player": "Nick Richards",
                 "Team": "Phoenix Suns",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Ankle) - Richards did not play on Wednesday's (Mar. 12) game versus the Rockets."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Ankle) - The Suns listed Richards as questionable for Friday's (Mar. 14) game against Sacramento."
             }
         ],
         "team_stats": {
@@ -100,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "7",
                 "FG": "17",
                 "FGA": "27",
                 "FG%": "7",
@@ -112,7 +118,7 @@
                 "2P%": "8",
                 "FT": "8",
                 "FTA": "14",
-                "FT%": "3",
+                "FT%": "4",
                 "ORB": "28",
                 "DRB": "12",
                 "TRB": "26",
@@ -200,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "7",
                 "FG": "21",
                 "FGA": "21",
                 "FG%": "16",
@@ -214,7 +220,7 @@
                 "FTA": "17",
                 "FT%": "21",
                 "ORB": "23",
-                "DRB": "13",
+                "DRB": "12",
                 "TRB": "19",
                 "AST": "22",
                 "STL": "19",
@@ -254,7 +260,7 @@
                 "PW": "29",
                 "PL": "37",
                 "MOV": "-2.11",
-                "SOS": "-0.22",
+                "SOS": "-0.23",
                 "SRS": "-2.33",
                 "ORtg": "116.3",
                 "DRtg": "118.4",
@@ -270,17 +276,17 @@
                 "Attendance": "529,201"
             },
             "Misc Lg Rank": {
-                "W": "18",
+                "W": "19",
                 "L": "11",
                 "PW": "19",
                 "PL": "20",
                 "MOV": "19",
-                "SOS": "19",
+                "SOS": "20",
                 "SRS": "21",
                 "ORtg": "8",
                 "DRtg": "27",
                 "Pace": "23",
-                "FTr": "8",
+                "FTr": "9",
                 "3PAr": "11",
                 "eFG%": "19",
                 "TOV%": "28",
@@ -292,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHO-2025.png",
-        "last_update": "Mar 13 2025 22:32:20"
+        "last_update": "Mar 14 2025 22:32:18"
     }
 }

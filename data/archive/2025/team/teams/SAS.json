@@ -31,8 +31,14 @@
             {
                 "Player": "Charles Bassey",
                 "Team": "San Antonio Spurs",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Knee) - Bassey did not play on Wednesday's (Mar. 12) game against the Mavericks."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Out (Knee) - The Spurs listed Bassey as OUT for Friday's (Mar. 14) game against Charlotte."
+            },
+            {
+                "Player": "De'Aaron Fox",
+                "Team": "San Antonio Spurs",
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Out For Season (Hand) - The Spurs announced Fox will undergo season-ending surgery on Tuesday for tendon damage in his left pinkie."
             },
             {
                 "Player": "Victor Wembanyama",
@@ -94,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "13",
                 "FGA": "15",
                 "FG%": "15",
@@ -105,11 +111,11 @@
                 "2PA": "17",
                 "2P%": "11",
                 "FT": "25",
-                "FTA": "24",
+                "FTA": "23",
                 "FT%": "21",
                 "ORB": "17",
                 "DRB": "15",
-                "TRB": "16",
+                "TRB": "17",
                 "AST": "5",
                 "STL": "12",
                 "BLK": "2",
@@ -194,11 +200,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "28",
                 "FGA": "29",
-                "FG%": "21",
-                "3P": "21",
+                "FG%": "22",
+                "3P": "20",
                 "3PA": "20",
                 "3P%": "16",
                 "2P": "29",
@@ -248,8 +254,8 @@
                 "PW": "28",
                 "PL": "36",
                 "MOV": "-2.25",
-                "SOS": "0.24",
-                "SRS": "-2.01",
+                "SOS": "0.22",
+                "SRS": "-2.03",
                 "ORtg": "114.2",
                 "DRtg": "116.5",
                 "Pace": "99.4",
@@ -264,7 +270,7 @@
                 "Attendance": "566,598"
             },
             "Misc Lg Rank": {
-                "W": "22",
+                "W": "23",
                 "L": "10",
                 "PW": "21",
                 "PL": "18",
@@ -274,7 +280,7 @@
                 "ORtg": "15",
                 "DRtg": "25",
                 "Pace": "12",
-                "FTr": "24",
+                "FTr": "25",
                 "3PAr": "9",
                 "eFG%": "21",
                 "TOV%": "23",
@@ -282,10 +288,10 @@
                 "FT/FGA": "1",
                 "DRB%": "25",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/SAS-2025.png",
-        "last_update": "Mar 13 2025 22:32:20"
+        "last_update": "Mar 14 2025 22:32:18"
     }
 }

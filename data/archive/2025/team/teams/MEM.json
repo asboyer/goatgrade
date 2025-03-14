@@ -30,20 +30,20 @@
             {
                 "Player": "Santi Aldama",
                 "Team": "Memphis Grizzlies",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Calf) - Aldama did not play on Wednesday's (Mar. 12) game against the Jazz."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Out (Calf) - The Grizzlies listed Aldama as OUT for Friday's (Mar. 14) game against Cleveland."
             },
             {
                 "Player": "Jaren Jackson Jr.",
                 "Team": "Memphis Grizzlies",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Ankle) - Jackson Jr. did not play on Wednesday's (Mar. 12) game against the Jazz."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Ankle) - The Grizzlies listed Jackson Jr. as questionable for Friday's (Mar. 14) game against Cleveland."
             },
             {
                 "Player": "Zyon Pullin",
                 "Team": "Memphis Grizzlies",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Knee) - Pullin did not play on Wednesday's (Mar. 12) game against the Jazz."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Out (Knee) - The Grizzlies listed Pullin as OUT for Friday's (Mar. 14) game against Cleveland."
             }
         ],
         "team_stats": {
@@ -99,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "17",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "6",
@@ -199,7 +199,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "17",
                 "FG": "20",
                 "FGA": "26",
                 "FG%": "6",
@@ -215,7 +215,7 @@
                 "ORB": "24",
                 "DRB": "3",
                 "TRB": "12",
-                "AST": "19",
+                "AST": "18",
                 "STL": "23",
                 "BLK": "27",
                 "TOV": "5",
@@ -253,8 +253,8 @@
                 "PW": "44",
                 "PL": "22",
                 "MOV": "5.91",
-                "SOS": "-0.47",
-                "SRS": "5.44",
+                "SOS": "-0.46",
+                "SRS": "5.45",
                 "ORtg": "118.0",
                 "DRtg": "112.3",
                 "Pace": "103.7",
@@ -277,7 +277,7 @@
                 "SOS": "24",
                 "SRS": "4",
                 "ORtg": "6",
-                "DRtg": "10",
+                "DRtg": "9",
                 "Pace": "1",
                 "FTr": "6",
                 "3PAr": "21",
@@ -287,10 +287,10 @@
                 "FT/FGA": "22",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MEM-2025.png",
-        "last_update": "Mar 13 2025 22:32:20"
+        "last_update": "Mar 14 2025 22:32:18"
     }
 }

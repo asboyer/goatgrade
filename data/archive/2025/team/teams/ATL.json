@@ -37,8 +37,8 @@
             {
                 "Player": "Clint Capela",
                 "Team": "Atlanta Hawks",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Personal) - Capela did not play on Wednesday's (Mar. 12) game against the Hornets."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Personal) - The Hawks listed Capela as questionable for Friday's (Mar. 14) game against Los Angeles."
             },
             {
                 "Player": "Jalen Johnson",
@@ -51,6 +51,12 @@
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Feb 12, 2025",
                 "Description": "Out (Knee) - The Hawks announced on Wednesday (Feb. 12) that Nance Jr. will be re-evaluated in approximately six weeks, and an update will be provided at that time."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as probable for Friday's (Mar. 14) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -106,11 +112,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "11",
                 "FG": "8",
                 "FGA": "5",
                 "FG%": "14",
-                "3P": "16",
+                "3P": "17",
                 "3PA": "15",
                 "3P%": "19",
                 "2P": "8",
@@ -121,7 +127,7 @@
                 "FT%": "22",
                 "ORB": "9",
                 "DRB": "22",
-                "TRB": "12",
+                "TRB": "11",
                 "AST": "2",
                 "STL": "2",
                 "BLK": "9",
@@ -206,12 +212,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "11",
                 "FG": "26",
                 "FGA": "20",
                 "FG%": "28",
                 "3P": "26",
-                "3PA": "17",
+                "3PA": "16",
                 "3P%": "28",
                 "2P": "26",
                 "2PA": "19",
@@ -221,7 +227,7 @@
                 "FT%": "30",
                 "ORB": "6",
                 "DRB": "23",
-                "TRB": "16",
+                "TRB": "17",
                 "AST": "26",
                 "STL": "28",
                 "BLK": "16",
@@ -260,8 +266,8 @@
                 "PW": "29",
                 "PL": "37",
                 "MOV": "-2.18",
-                "SOS": "0.04",
-                "SRS": "-2.14",
+                "SOS": "0.06",
+                "SRS": "-2.12",
                 "ORtg": "113.2",
                 "DRtg": "115.3",
                 "Pace": "103.1",
@@ -281,15 +287,15 @@
                 "PW": "20",
                 "PL": "21",
                 "MOV": "20",
-                "SOS": "15",
-                "SRS": "19",
+                "SOS": "13",
+                "SRS": "20",
                 "ORtg": "18",
-                "DRtg": "18",
+                "DRtg": "17",
                 "Pace": "2",
                 "FTr": "5",
                 "3PAr": "19",
                 "eFG%": "28",
-                "TOV%": "5",
+                "TOV%": "4",
                 "ORB%": "11",
                 "FT/FGA": "19",
                 "DRB%": "8",
@@ -298,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/ATL-2025.png",
-        "last_update": "Mar 13 2025 22:32:20"
+        "last_update": "Mar 14 2025 22:32:18"
     }
 }

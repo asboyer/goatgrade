@@ -34,6 +34,12 @@
                 "Description": "Out (Adductor) - The Mavericks announced on Friday (Mar. 7) that Davis is improving daily and is week-to-week, per Tim MacMahon of ESPN.com."
             },
             {
+                "Player": "Dante Exum",
+                "Team": "Dallas Mavericks",
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Hamstring) - The Mavericks listed Exum as questionable for Friday's (Mar. 14) game against Houston."
+            },
+            {
                 "Player": "Daniel Gafford",
                 "Team": "Dallas Mavericks",
                 "Update": "Fri, Mar 7, 2025",
@@ -42,8 +48,8 @@
             {
                 "Player": "Jaden Hardy",
                 "Team": "Dallas Mavericks",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Ankle) - Hardy did not play on Wednesday's (Mar. 12) game versus the Spurs."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Out (Ankle) - The Mavericks listed Hardy as OUT for Friday's (Mar. 14) game against Houston."
             },
             {
                 "Player": "Kyrie Irving",
@@ -54,8 +60,8 @@
             {
                 "Player": "Kai Jones",
                 "Team": "Dallas Mavericks",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Quadriceps) - Jones did not play on Wednesday's (Mar. 12) game against the Spurs."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Quadriceps) - The Mavericks listed Jones as questionable for Friday's (Mar. 14) game against Houston."
             },
             {
                 "Player": "Dereck Lively II",
@@ -66,14 +72,20 @@
             {
                 "Player": "Olivier-Maxence Prosper",
                 "Team": "Dallas Mavericks",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Out For Season (Wrist) - The Mavericks suffer another blow to their frontcourt with Prosper expected to undergo season-ending surgery on his right wrist Friday (Mar. 7), as per Shams Charania of ESPN."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Out For Season (Wrist) - Prosper has been ruled out for the remainder of the 2024-25 season after undergoing surgery to repair a right wrist injury."
             },
             {
                 "Player": "P.J. Washington",
                 "Team": "Dallas Mavericks",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Ankle) - Washington Jr. did not play on Wednesday's (Mar. 12) game against the Spurs."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Ankle) - The Mavericks listed Washington Jr. as questionable for Friday's (Mar. 14) game against Houston."
+            },
+            {
+                "Player": "Brandon Williams",
+                "Team": "Dallas Mavericks",
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Hamstring) - The Mavericks listed Williams as questionable for Friday's (Mar. 14) game against Houston."
             }
         ],
         "team_stats": {
@@ -129,11 +141,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "5",
                 "FG": "11",
                 "FGA": "20",
                 "FG%": "12",
-                "3P": "15",
+                "3P": "16",
                 "3PA": "20",
                 "3P%": "9",
                 "2P": "11",
@@ -141,16 +153,16 @@
                 "2P%": "16",
                 "FT": "7",
                 "FTA": "7",
-                "FT%": "18",
+                "FT%": "19",
                 "ORB": "22",
                 "DRB": "20",
-                "TRB": "23",
+                "TRB": "22",
                 "AST": "21",
-                "STL": "19",
+                "STL": "18",
                 "BLK": "5",
                 "TOV": "10",
                 "PF": "11",
-                "PTS": "11"
+                "PTS": "12"
             },
             "Year/Year": {
                 "G": "",
@@ -229,7 +241,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "5",
                 "FG": "22",
                 "FGA": "24",
                 "FG%": "15",
@@ -243,13 +255,13 @@
                 "FTA": "11",
                 "FT%": "14",
                 "ORB": "28",
-                "DRB": "16",
+                "DRB": "17",
                 "TRB": "25",
                 "AST": "21",
                 "STL": "11",
                 "BLK": "14",
                 "TOV": "24",
-                "PF": "19",
+                "PF": "20",
                 "PTS": "17"
             },
             "Opp Year/Year": {
@@ -304,7 +316,7 @@
                 "PW": "16",
                 "PL": "16",
                 "MOV": "16",
-                "SOS": "4",
+                "SOS": "5",
                 "SRS": "15",
                 "ORtg": "10",
                 "DRtg": "19",
@@ -317,10 +329,10 @@
                 "FT/FGA": "11",
                 "DRB%": "26",
                 "Arena": "",
-                "Attendance": "1"
+                "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DAL-2025.png",
-        "last_update": "Mar 13 2025 22:32:20"
+        "last_update": "Mar 14 2025 22:32:18"
     }
 }

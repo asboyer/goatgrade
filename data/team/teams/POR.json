@@ -39,6 +39,12 @@
                 "Team": "Portland Trail Blazers",
                 "Update": "Wed, Mar 12, 2025",
                 "Description": "Day To Day (Knee) - Grant did not play on Wednesday's (Mar. 12) game against the Knicks."
+            },
+            {
+                "Player": "Jabari Walker",
+                "Team": "Portland Trail Blazers",
+                "Update": "Wed, Mar 12, 2025",
+                "Description": "Day To Day (Concussion) - The Trail Blazers said that Walker is being evaluated for a concussion and has been ruled out for the remainder of Wednesday's (Mar. 12) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -94,18 +100,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "23",
                 "FGA": "18",
                 "FG%": "23",
-                "3P": "20",
+                "3P": "21",
                 "3PA": "17",
                 "3P%": "24",
                 "2P": "18",
                 "2PA": "13",
                 "2P%": "24",
                 "FT": "12",
-                "FTA": "10",
+                "FTA": "11",
                 "FT%": "25",
                 "ORB": "5",
                 "DRB": "26",
@@ -194,22 +200,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "17",
-                "FGA": "11",
-                "FG%": "22",
+                "FGA": "12",
+                "FG%": "23",
                 "3P": "7",
                 "3PA": "5",
                 "3P%": "20",
                 "2P": "21",
                 "2PA": "20",
                 "2P%": "17",
-                "FT": "24",
+                "FT": "25",
                 "FTA": "23",
                 "FT%": "28",
                 "ORB": "25",
                 "DRB": "9",
-                "TRB": "15",
+                "TRB": "16",
                 "AST": "13",
                 "STL": "29",
                 "BLK": "24",
@@ -248,8 +254,8 @@
                 "PW": "25",
                 "PL": "42",
                 "MOV": "-4.00",
-                "SOS": "0.48",
-                "SRS": "-3.53",
+                "SOS": "0.46",
+                "SRS": "-3.54",
                 "ORtg": "111.5",
                 "DRtg": "115.5",
                 "Pace": "98.8",
@@ -272,7 +278,7 @@
                 "SOS": "8",
                 "SRS": "22",
                 "ORtg": "24",
-                "DRtg": "21",
+                "DRtg": "20",
                 "Pace": "18",
                 "FTr": "11",
                 "3PAr": "18",
@@ -282,10 +288,10 @@
                 "FT/FGA": "25",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/POR-2025.png",
-        "last_update": "Mar 13 2025 22:32:20"
+        "last_update": "Mar 14 2025 22:32:18"
     }
 }

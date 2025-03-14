@@ -29,12 +29,6 @@
         ],
         "injuries": [
             {
-                "Player": "Kawhi Leonard",
-                "Team": "Los Angeles Clippers",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Knee) - Leonard did not play on Wednesday's (Mar. 12) game against the Heat."
-            },
-            {
                 "Player": "Norman Powell",
                 "Team": "Los Angeles Clippers",
                 "Update": "Tue, Mar 4, 2025",
@@ -43,8 +37,8 @@
             {
                 "Player": "Ben Simmons",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sun, Mar 9, 2025",
-                "Description": "Out (Knee) - Simmons won't travel with the Clippers for their upcoming three-game road trip, per Tomer Azarly of ClutchPoints.com."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Knee) - The Clippers listed Simmons as questionable for Friday's (Mar. 14) game against Atlanta."
             }
         ],
         "team_stats": {
@@ -100,25 +94,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
-                "FG": "21",
+                "MP": "11",
+                "FG": "20",
                 "FGA": "26",
                 "FG%": "13",
-                "3P": "27",
+                "3P": "26",
                 "3PA": "28",
                 "3P%": "16",
                 "2P": "12",
                 "2PA": "14",
                 "2P%": "15",
                 "FT": "13",
-                "FTA": "16",
+                "FTA": "17",
                 "FT%": "10",
                 "ORB": "23",
                 "DRB": "18",
                 "TRB": "20",
-                "AST": "24",
+                "AST": "25",
                 "STL": "3",
-                "BLK": "24",
+                "BLK": "25",
                 "TOV": "22",
                 "PF": "14",
                 "PTS": "21"
@@ -200,11 +194,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "11",
                 "FG": "3",
                 "FGA": "3",
                 "FG%": "10",
-                "3P": "14",
+                "3P": "13",
                 "3PA": "14",
                 "3P%": "10",
                 "2P": "2",
@@ -255,7 +249,7 @@
                 "PL": "28",
                 "MOV": "2.21",
                 "SOS": "0.04",
-                "SRS": "2.26",
+                "SRS": "2.25",
                 "ORtg": "113.0",
                 "DRtg": "110.7",
                 "Pace": "97.7",
@@ -270,12 +264,12 @@
                 "Attendance": "519,068"
             },
             "Misc Lg Rank": {
-                "W": "12",
+                "W": "13",
                 "L": "17",
-                "PW": "9",
-                "PL": "12",
-                "MOV": "10",
-                "SOS": "13",
+                "PW": "10",
+                "PL": "11",
+                "MOV": "11",
+                "SOS": "15",
                 "SRS": "10",
                 "ORtg": "19",
                 "DRtg": "4",
@@ -283,15 +277,15 @@
                 "FTr": "12",
                 "3PAr": "24",
                 "eFG%": "12",
-                "TOV%": "6",
+                "TOV%": "5",
                 "ORB%": "20",
                 "FT/FGA": "15",
-                "DRB%": "4",
+                "DRB%": "5",
                 "Arena": "",
                 "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAC-2025.png",
-        "last_update": "Mar 13 2025 22:32:20"
+        "last_update": "Mar 14 2025 22:32:18"
     }
 }

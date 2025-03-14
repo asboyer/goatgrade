@@ -28,10 +28,34 @@
         ],
         "injuries": [
             {
+                "Player": "Jaylen Brown",
+                "Team": "Boston Celtics",
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Knee) - The Celtics listed Brown as questionable for Friday's (Mar. 14) game against Miami."
+            },
+            {
+                "Player": "Al Horford",
+                "Team": "Boston Celtics",
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Toe) - The Celtics listed Horford as probable for Friday's (Mar. 14) game against Miami."
+            },
+            {
                 "Player": "Kristaps Porziņģis",
                 "Team": "Boston Celtics",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Illness) - Porzingis did not play on Wednesday's (Mar. 12) game against the Thunder."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Illness) - The Celtics listed Porzingis as questionable for Friday's (Mar. 14) game against Miami."
+            },
+            {
+                "Player": "Jayson Tatum",
+                "Team": "Boston Celtics",
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Knee) - The Celtics listed Tatum as questionable for Friday's (Mar. 14) game against Miami."
+            },
+            {
+                "Player": "Derrick White",
+                "Team": "Boston Celtics",
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Knee) - The Celtics listed White as questionable for Friday's (Mar. 14) game against Miami."
             }
         ],
         "team_stats": {
@@ -87,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "15",
                 "FGA": "10",
                 "FG%": "18",
@@ -96,11 +120,11 @@
                 "3P%": "6",
                 "2P": "30",
                 "2PA": "30",
-                "2P%": "5",
+                "2P%": "4",
                 "FT": "28",
                 "FTA": "29",
                 "FT%": "6",
-                "ORB": "14",
+                "ORB": "13",
                 "DRB": "8",
                 "TRB": "10",
                 "AST": "18",
@@ -187,20 +211,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "9",
                 "FGA": "18",
-                "FG%": "2",
+                "FG%": "3",
                 "3P": "4",
                 "3PA": "9",
-                "3P%": "6",
+                "3P%": "5",
                 "2P": "15",
                 "2PA": "21",
                 "2P%": "4",
                 "FT": "2",
                 "FTA": "1",
                 "FT%": "20",
-                "ORB": "7",
+                "ORB": "8",
                 "DRB": "20",
                 "TRB": "14",
                 "AST": "3",
@@ -241,8 +265,8 @@
                 "PW": "49",
                 "PL": "17",
                 "MOV": "8.48",
-                "SOS": "-0.27",
-                "SRS": "8.22",
+                "SOS": "-0.24",
+                "SRS": "8.24",
                 "ORtg": "120.1",
                 "DRtg": "111.4",
                 "Pace": "96.5",
@@ -262,7 +286,7 @@
                 "PW": "3",
                 "PL": "3",
                 "MOV": "3",
-                "SOS": "21",
+                "SOS": "22",
                 "SRS": "3",
                 "ORtg": "3",
                 "DRtg": "6",
@@ -279,6 +303,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/BOS-2025.png",
-        "last_update": "Mar 13 2025 22:32:20"
+        "last_update": "Mar 14 2025 22:32:18"
     }
 }

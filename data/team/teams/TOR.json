@@ -31,20 +31,14 @@
             {
                 "Player": "Ochai Agbaji",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Ankle) - Agbaji did not play on Wednesday's (Mar. 12) game against the 76ers."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Ankle) - The Raptors listed Agbaji as questionable for Friday's (Mar. 14) game against Utah."
             },
             {
                 "Player": "Scottie Barnes",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Hand) - Barnes did not play on Wednesday's (Mar. 12) game against the 76ers."
-            },
-            {
-                "Player": "RJ Barrett",
-                "Team": "Toronto Raptors",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Personal) - Barrett did not play on Wednesday's (Mar. 12) game against the 76ers."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Hand) - The Raptors listed Barnes as questionable for Friday's (Mar. 14) game against Utah."
             },
             {
                 "Player": "Ulrich Chomche",
@@ -67,20 +61,20 @@
             {
                 "Player": "Jonathan Mogbo",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Face) - Mogbo did not play on Wednesday's (Mar. 12) game against the 76ers."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Out (Face) - The Raptors listed Mogbo as OUT for Friday's (Mar. 14) game against Utah."
             },
             {
-                "Player": "Immanuel Quickley",
+                "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Rest) - Quickley did not play on Wednesday's (Mar. 12) game against the 76ers."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Out (Rest) - The Raptors listed Walter as OUT for Friday's (Mar. 14) game against Utah."
             },
             {
                 "Player": "Ja'Kobe Walter",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Hip) - Walter did not play on Wednesday's (Mar. 12) game against the 76ers."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Out (Hip) - The Raptors listed Walter as OUT for Friday's (Mar. 14) game against Utah."
             }
         ],
         "team_stats": {
@@ -136,7 +130,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "16",
                 "FGA": "13",
                 "FG%": "19",
@@ -147,17 +141,17 @@
                 "2PA": "3",
                 "2P%": "23",
                 "FT": "26",
-                "FTA": "15",
+                "FTA": "16",
                 "FT%": "28",
                 "ORB": "6",
                 "DRB": "23",
-                "TRB": "13",
+                "TRB": "12",
                 "AST": "9",
                 "STL": "22",
                 "BLK": "26",
                 "TOV": "25",
                 "PF": "30",
-                "PTS": "23"
+                "PTS": "22"
             },
             "Year/Year": {
                 "G": "",
@@ -236,9 +230,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "8",
                 "FG": "15",
-                "FGA": "12",
+                "FGA": "13",
                 "FG%": "17",
                 "3P": "12",
                 "3PA": "15",
@@ -250,13 +244,13 @@
                 "FTA": "30",
                 "FT%": "5",
                 "ORB": "21",
-                "DRB": "15",
-                "TRB": "17",
-                "AST": "11",
+                "DRB": "14",
+                "TRB": "18",
+                "AST": "12",
                 "STL": "26",
                 "BLK": "28",
                 "TOV": "14",
-                "PF": "17",
+                "PF": "18",
                 "PTS": "21"
             },
             "Opp Year/Year": {
@@ -290,8 +284,8 @@
                 "PW": "23",
                 "PL": "43",
                 "MOV": "-4.83",
-                "SOS": "0.76",
-                "SRS": "-4.07",
+                "SOS": "0.79",
+                "SRS": "-4.05",
                 "ORtg": "110.8",
                 "DRtg": "115.7",
                 "Pace": "99.2",
@@ -307,16 +301,16 @@
             },
             "Misc Lg Rank": {
                 "W": "24",
-                "L": "5",
+                "L": "6",
                 "PW": "24",
                 "PL": "25",
                 "MOV": "24",
-                "SOS": "3",
+                "SOS": "2",
                 "SRS": "24",
                 "ORtg": "26",
                 "DRtg": "22",
-                "Pace": "14",
-                "FTr": "19",
+                "Pace": "13",
+                "FTr": "20",
                 "3PAr": "29",
                 "eFG%": "17",
                 "TOV%": "16",
@@ -328,6 +322,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/TOR-2025.png",
-        "last_update": "Mar 13 2025 22:32:20"
+        "last_update": "Mar 14 2025 22:32:18"
     }
 }

@@ -29,10 +29,16 @@
         ],
         "injuries": [
             {
+                "Player": "John Collins",
+                "Team": "Utah Jazz",
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Out (Ankle) - The Jazz listed Collins as OUT for Friday's (Mar. 14) game against Toronto."
+            },
+            {
                 "Player": "Keyonte George",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Foot) - George did not play on Wednesday's (Mar. 12) game against the Grizzlies."
+                "Update": "Thu, Mar 13, 2025",
+                "Description": "Day To Day (Foot) - The Jazz listed George as questionable for Friday's (Mar. 14) game against Toronto."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -94,15 +100,15 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "11",
                 "FG": "22",
                 "FGA": "21",
                 "FG%": "20",
                 "3P": "9",
-                "3PA": "8",
+                "3PA": "9",
                 "3P%": "18",
                 "2P": "23",
-                "2PA": "25",
+                "2PA": "24",
                 "2P%": "18",
                 "FT": "6",
                 "FTA": "5",
@@ -194,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "11",
                 "FG": "26",
                 "FGA": "25",
                 "FG%": "25",
@@ -248,8 +254,8 @@
                 "PW": "19",
                 "PL": "47",
                 "MOV": "-7.24",
-                "SOS": "0.53",
-                "SRS": "-6.71",
+                "SOS": "0.51",
+                "SRS": "-6.73",
                 "ORtg": "112.1",
                 "DRtg": "119.3",
                 "Pace": "99.7",
@@ -272,7 +278,7 @@
                 "SOS": "7",
                 "SRS": "27",
                 "ORtg": "22",
-                "DRtg": "30",
+                "DRtg": "29",
                 "Pace": "11",
                 "FTr": "4",
                 "3PAr": "7",
@@ -280,12 +286,12 @@
                 "TOV%": "30",
                 "ORB%": "4",
                 "FT/FGA": "13",
-                "DRB%": "14",
+                "DRB%": "15",
                 "Arena": "",
-                "Attendance": "16"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/UTA-2025.png",
-        "last_update": "Mar 13 2025 22:32:20"
+        "last_update": "Mar 14 2025 22:32:18"
     }
 }
