@@ -39,6 +39,12 @@
                 "Team": "New York Knicks",
                 "Update": "Thu, Feb 27, 2025",
                 "Description": "Out (Knee) - The Knicks announced on Thursday (Feb. 27) that Hukporti will miss the next four to six weeks for the Knicks after suffering a torn meniscus in his left knee, according to Shams Charania of ESPN."
+            },
+            {
+                "Player": "Delon Wright",
+                "Team": "New York Knicks",
+                "Update": "Fri, Mar 14, 2025",
+                "Description": "Day To Day (Illness) - The Knicks have listed Wright as Questionable for Saturday's (Mar. 15) game against the Warriors."
             }
         ],
         "team_stats": {
@@ -94,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "25",
                 "FG": "5",
                 "FGA": "17",
                 "FG%": "4",
@@ -102,9 +108,9 @@
                 "3PA": "27",
                 "3P%": "7",
                 "2P": "3",
-                "2PA": "7",
+                "2PA": "6",
                 "2P%": "6",
-                "FT": "14",
+                "FT": "15",
                 "FTA": "21",
                 "FT%": "5",
                 "ORB": "20",
@@ -194,10 +200,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "25",
                 "FG": "19",
                 "FGA": "14",
-                "FG%": "24",
+                "FG%": "23",
                 "3P": "15",
                 "3PA": "8",
                 "3P%": "29",
@@ -248,7 +254,7 @@
                 "PW": "41",
                 "PL": "24",
                 "MOV": "4.42",
-                "SOS": "-0.59",
+                "SOS": "-0.60",
                 "SRS": "3.82",
                 "ORtg": "119.1",
                 "DRtg": "114.6",
@@ -264,12 +270,12 @@
                 "Attendance": "633,984"
             },
             "Misc Lg Rank": {
-                "W": "4",
+                "W": "5",
                 "L": "27",
                 "PW": "8",
                 "PL": "5",
-                "MOV": "6",
-                "SOS": "27",
+                "MOV": "7",
+                "SOS": "26",
                 "SRS": "8",
                 "ORtg": "5",
                 "DRtg": "14",
@@ -277,15 +283,15 @@
                 "FTr": "23",
                 "3PAr": "27",
                 "eFG%": "24",
-                "TOV%": "14",
+                "TOV%": "13",
                 "ORB%": "12",
                 "FT/FGA": "5",
                 "DRB%": "18",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NYK-2025.png",
-        "last_update": "Mar 14 2025 22:32:18"
+        "last_update": "Mar 15 2025 22:32:18"
     }
 }

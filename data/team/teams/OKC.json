@@ -29,10 +29,10 @@
         ],
         "injuries": [
             {
-                "Player": "Alex Caruso",
+                "Player": "Chet Holmgren",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Illness) - Caruso did not play on Wednesday's (Mar. 12) game versus the Celtics. "
+                "Update": "Fri, Mar 14, 2025",
+                "Description": "Out (Rest) - The Thunder listed Holmgren as Out on Saturday's (Mar. 15) game against the Pistons."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -47,10 +47,16 @@
                 "Description": "Out For Season (ACL) - Topic was spotted taking part in light shooting drills on the court prior to the Thunder's 105-92 win over the Celtics last Sunday (Jan. 12), as per Clemente Almanza of USA Today."
             },
             {
+                "Player": "Aaron Wiggins",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Fri, Mar 14, 2025",
+                "Description": "Day To Day (Illness) - The Thunder listed Wiggins as Questionable on Saturday's (Mar. 15) game against the Pistons."
+            },
+            {
                 "Player": "Jalen Williams",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Out (Hip) - The Thunder announced on Wednesday (Mar. 12) that Williams does not have a timetable to return, per Tim Bontemps of ESPN.com."
+                "Update": "Fri, Mar 14, 2025",
+                "Description": "Out (Hip) - Williams has been ruled out for Saturday's (Mar. 15) game against the Pistons, as per Clemente Almanza of USA Today."
             }
         ],
         "team_stats": {
@@ -106,22 +112,22 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "22",
                 "FG": "4",
                 "FGA": "3",
                 "FG%": "9",
-                "3P": "6",
+                "3P": "7",
                 "3PA": "10",
                 "3P%": "10",
                 "2P": "6",
                 "2PA": "10",
                 "2P%": "7",
-                "FT": "22",
+                "FT": "21",
                 "FTA": "27",
                 "FT%": "1",
-                "ORB": "19",
-                "DRB": "9",
-                "TRB": "14",
+                "ORB": "18",
+                "DRB": "10",
+                "TRB": "13",
                 "AST": "13",
                 "STL": "1",
                 "BLK": "4",
@@ -206,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "22",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
@@ -221,7 +227,7 @@
                 "FT%": "6",
                 "ORB": "26",
                 "DRB": "19",
-                "TRB": "26",
+                "TRB": "25",
                 "AST": "4",
                 "STL": "1",
                 "BLK": "13",
@@ -260,8 +266,8 @@
                 "PW": "54",
                 "PL": "12",
                 "MOV": "12.48",
-                "SOS": "0.03",
-                "SRS": "12.52",
+                "SOS": "0.02",
+                "SRS": "12.51",
                 "ORtg": "119.7",
                 "DRtg": "107.2",
                 "Pace": "99.8",
@@ -281,23 +287,23 @@
                 "PW": "1",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "16",
+                "SOS": "15",
                 "SRS": "1",
                 "ORtg": "4",
                 "DRtg": "1",
                 "Pace": "10",
                 "FTr": "29",
-                "3PAr": "14",
+                "3PAr": "15",
                 "eFG%": "1",
                 "TOV%": "2",
-                "ORB%": "19",
+                "ORB%": "20",
                 "FT/FGA": "27",
-                "DRB%": "23",
+                "DRB%": "24",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/OKC-2025.png",
-        "last_update": "Mar 14 2025 22:32:18"
+        "last_update": "Mar 15 2025 22:32:18"
     }
 }

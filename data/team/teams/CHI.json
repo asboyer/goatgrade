@@ -31,8 +31,8 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Mar 13, 2025",
-                "Description": "Day To Day (Wrist) - Ball did not play on Thursday's (Mar. 13) game against the Nets."
+                "Update": "Fri, Mar 14, 2025",
+                "Description": "Out (Wrist) - The Bulls have listed Ball as OUT for Saturday's (Mar. 15) game against the Rockets."
             },
             {
                 "Player": "Ayo Dosunmu",
@@ -43,8 +43,14 @@
             {
                 "Player": "Josh Giddey",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Mar 13, 2025",
-                "Description": "Day To Day (Ankle) - Giddey did not play on Thursday's (Mar. 13) game against the Nets."
+                "Update": "Fri, Mar 14, 2025",
+                "Description": "Day To Day (Ankle) - The Bulls have listed Giddey as Doubtful for Saturday's (Mar. 15) game against the Rockets."
+            },
+            {
+                "Player": "Coby White",
+                "Team": "Chicago Bulls",
+                "Update": "Fri, Mar 14, 2025",
+                "Description": "Day To Day (Toe) - The Bulls have listed White as Probable for Saturday's (Mar. 15) game against the Rockets."
             }
         ],
         "team_stats": {
@@ -100,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "19",
                 "FG": "9",
                 "FGA": "4",
                 "FG%": "16",
@@ -115,7 +121,7 @@
                 "FT%": "3",
                 "ORB": "25",
                 "DRB": "2",
-                "TRB": "7",
+                "TRB": "6",
                 "AST": "7",
                 "STL": "26",
                 "BLK": "18",
@@ -200,12 +206,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "19",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "18",
                 "3P": "16",
-                "3PA": "28",
+                "3PA": "27",
                 "3P%": "2",
                 "2P": "30",
                 "2PA": "29",
@@ -216,7 +222,7 @@
                 "ORB": "12",
                 "DRB": "29",
                 "TRB": "29",
-                "AST": "28",
+                "AST": "29",
                 "STL": "16",
                 "BLK": "18",
                 "TOV": "28",
@@ -275,7 +281,7 @@
                 "PW": "22",
                 "PL": "22",
                 "MOV": "22",
-                "SOS": "17",
+                "SOS": "18",
                 "SRS": "23",
                 "ORtg": "20",
                 "DRtg": "24",
@@ -292,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CHI-2025.png",
-        "last_update": "Mar 14 2025 22:32:18"
+        "last_update": "Mar 15 2025 22:32:18"
     }
 }

@@ -2,7 +2,7 @@
     "BRK": {
         "info": {
             "record": "22-44",
-            "standing": "13th in East",
+            "standing": "12th in East",
             "coach": "Jordi Fernández Torres (22-44)",
             "gm": "Sean Marks",
             "preseason_odds": "+100000"
@@ -28,16 +28,34 @@
         ],
         "injuries": [
             {
+                "Player": "Nic Claxton",
+                "Team": "Brooklyn Nets",
+                "Update": "Fri, Mar 14, 2025",
+                "Description": "Out (Rest) - The Nets have listed Claxton as OUT for Saturday's (Mar. 15) game against the Celtics."
+            },
+            {
                 "Player": "Noah Clowney",
                 "Team": "Brooklyn Nets",
-                "Update": "Thu, Mar 13, 2025",
-                "Description": "Day To Day (Ankle) - Clowney did not play on Thursday's (Mar. 13) game against the Bulls."
+                "Update": "Fri, Mar 14, 2025",
+                "Description": "Out (Ankle) - The Nets have listed Clowney as OUT for Saturday's (Mar. 15) game against the Celtics."
             },
             {
                 "Player": "De'Anthony Melton",
                 "Team": "Brooklyn Nets",
                 "Update": "Wed, Nov 20, 2024",
                 "Description": "Out For Season (ACL) - Melton will undergo season-ending surgery on his left ACL, the team announced Wednesday (Nov. 20)."
+            },
+            {
+                "Player": "Cam Thomas",
+                "Team": "Brooklyn Nets",
+                "Update": "Fri, Mar 14, 2025",
+                "Description": "Out (Hamstring) - The Nets have listed Thomas as OUT for Saturday's (Mar. 15) game against the Celtics."
+            },
+            {
+                "Player": "Trendon Watford",
+                "Team": "Brooklyn Nets",
+                "Update": "Fri, Mar 14, 2025",
+                "Description": "Out (Hamstring) - The Nets have listed Watford as OUT for Saturday's (Mar. 15) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -93,25 +111,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "19",
                 "FG": "30",
                 "FGA": "27",
                 "FG%": "28",
-                "3P": "13",
+                "3P": "14",
                 "3PA": "11",
-                "3P%": "27",
+                "3P%": "26",
                 "2P": "29",
                 "2PA": "29",
                 "2P%": "27",
                 "FT": "20",
                 "FTA": "25",
-                "FT%": "8",
-                "ORB": "15",
+                "FT%": "7",
+                "ORB": "16",
                 "DRB": "29",
                 "TRB": "28",
                 "AST": "24",
                 "STL": "19",
-                "BLK": "24",
+                "BLK": "23",
                 "TOV": "21",
                 "PF": "27",
                 "PTS": "29"
@@ -193,7 +211,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "19",
                 "FG": "5",
                 "FGA": "2",
                 "FG%": "27",
@@ -201,20 +219,20 @@
                 "3PA": "4",
                 "3P%": "24",
                 "2P": "6",
-                "2PA": "4",
+                "2PA": "3",
                 "2P%": "26",
                 "FT": "23",
                 "FTA": "24",
                 "FT%": "13",
                 "ORB": "5",
                 "DRB": "15",
-                "TRB": "10",
-                "AST": "16",
-                "STL": "14",
+                "TRB": "9",
+                "AST": "17",
+                "STL": "13",
                 "BLK": "26",
                 "TOV": "8",
-                "PF": "11",
-                "PTS": "11"
+                "PF": "10",
+                "PTS": "9"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +265,8 @@
                 "PW": "20",
                 "PL": "46",
                 "MOV": "-6.32",
-                "SOS": "0.14",
-                "SRS": "-6.18",
+                "SOS": "0.15",
+                "SRS": "-6.17",
                 "ORtg": "109.1",
                 "DRtg": "115.6",
                 "Pace": "96.1",
@@ -268,7 +286,7 @@
                 "PW": "26",
                 "PL": "26",
                 "MOV": "26",
-                "SOS": "11",
+                "SOS": "10",
                 "SRS": "26",
                 "ORtg": "27",
                 "DRtg": "21",
@@ -281,10 +299,10 @@
                 "FT/FGA": "28",
                 "DRB%": "19",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/BRK-2025.png",
-        "last_update": "Mar 14 2025 22:32:18"
+        "last_update": "Mar 15 2025 22:32:18"
     }
 }

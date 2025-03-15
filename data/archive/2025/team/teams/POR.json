@@ -2,7 +2,7 @@
     "POR": {
         "info": {
             "record": "28-39",
-            "standing": "13th in West",
+            "standing": "12th in West",
             "coach": "Chauncey Billups (28-39)",
             "gm": "Joe Cronin",
             "preseason_odds": "+100000"
@@ -43,8 +43,8 @@
             {
                 "Player": "Jabari Walker",
                 "Team": "Portland Trail Blazers",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Concussion) - The Trail Blazers said that Walker is being evaluated for a concussion and has been ruled out for the remainder of Wednesday's (Mar. 12) game against the Knicks."
+                "Update": "Fri, Mar 14, 2025",
+                "Description": "Day To Day (Concussion) - HC Billups said Friday (Mar. 14) that Walker is in the concussion protocol, as per Sean Highkin of Rip City Radio 620 Portland."
             }
         ],
         "team_stats": {
@@ -100,13 +100,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "12",
                 "FG": "23",
                 "FGA": "18",
                 "FG%": "23",
                 "3P": "21",
                 "3PA": "17",
-                "3P%": "24",
+                "3P%": "25",
                 "2P": "18",
                 "2PA": "13",
                 "2P%": "24",
@@ -115,7 +115,7 @@
                 "FT%": "25",
                 "ORB": "5",
                 "DRB": "26",
-                "TRB": "18",
+                "TRB": "17",
                 "AST": "27",
                 "STL": "16",
                 "BLK": "8",
@@ -200,21 +200,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "12",
                 "FG": "17",
                 "FGA": "12",
-                "FG%": "23",
+                "FG%": "21",
                 "3P": "7",
                 "3PA": "5",
                 "3P%": "20",
                 "2P": "21",
-                "2PA": "20",
-                "2P%": "17",
-                "FT": "25",
+                "2PA": "19",
+                "2P%": "16",
+                "FT": "24",
                 "FTA": "23",
                 "FT%": "28",
                 "ORB": "25",
-                "DRB": "9",
+                "DRB": "10",
                 "TRB": "16",
                 "AST": "13",
                 "STL": "29",
@@ -254,8 +254,8 @@
                 "PW": "25",
                 "PL": "42",
                 "MOV": "-4.00",
-                "SOS": "0.46",
-                "SRS": "-3.54",
+                "SOS": "0.45",
+                "SRS": "-3.55",
                 "ORtg": "111.5",
                 "DRtg": "115.5",
                 "Pace": "98.8",
@@ -275,23 +275,23 @@
                 "PW": "23",
                 "PL": "23",
                 "MOV": "23",
-                "SOS": "8",
+                "SOS": "7",
                 "SRS": "22",
                 "ORtg": "24",
-                "DRtg": "20",
-                "Pace": "18",
+                "DRtg": "18",
+                "Pace": "17",
                 "FTr": "11",
-                "3PAr": "18",
+                "3PAr": "17",
                 "eFG%": "20",
                 "TOV%": "9",
                 "ORB%": "3",
                 "FT/FGA": "25",
-                "DRB%": "28",
+                "DRB%": "29",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/POR-2025.png",
-        "last_update": "Mar 14 2025 22:32:18"
+        "last_update": "Mar 15 2025 22:32:18"
     }
 }

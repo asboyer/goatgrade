@@ -29,8 +29,8 @@
             {
                 "Player": "Brandin Podziemski",
                 "Team": "Golden State Warriors",
-                "Update": "Thu, Mar 13, 2025",
-                "Description": "Day To Day (Back) - Podziemski did not playo on Thursday's (Mar. 13) game against the Kings."
+                "Update": "Fri, Mar 14, 2025",
+                "Description": "Out (Back) - The Warriors have listed Podziemski as OUT for Saturday's (Mar. 15) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -86,7 +86,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "22",
                 "FG": "18",
                 "FGA": "6",
                 "FG%": "25",
@@ -94,18 +94,18 @@
                 "3PA": "3",
                 "3P%": "13",
                 "2P": "26",
-                "2PA": "25",
+                "2PA": "24",
                 "2P%": "25",
                 "FT": "27",
-                "FTA": "19",
+                "FTA": "20",
                 "FT%": "27",
-                "ORB": "4",
-                "DRB": "16",
+                "ORB": "3",
+                "DRB": "15",
                 "TRB": "4",
-                "AST": "3",
+                "AST": "2",
                 "STL": "5",
                 "BLK": "15",
-                "TOV": "12",
+                "TOV": "13",
                 "PF": "23",
                 "PTS": "16"
             },
@@ -186,23 +186,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "22",
                 "FG": "8",
                 "FGA": "6",
                 "FG%": "11",
                 "3P": "11",
                 "3PA": "10",
-                "3P%": "17",
+                "3P%": "16",
                 "2P": "8",
                 "2PA": "11",
                 "2P%": "12",
                 "FT": "14",
                 "FTA": "15",
                 "FT%": "7",
-                "ORB": "7",
+                "ORB": "8",
                 "DRB": "21",
                 "TRB": "15",
-                "AST": "11",
+                "AST": "12",
                 "STL": "7",
                 "BLK": "25",
                 "TOV": "7",
@@ -256,9 +256,9 @@
                 "Attendance": "596,112"
             },
             "Misc Lg Rank": {
-                "W": "9",
+                "W": "10",
                 "L": "20",
-                "PW": "9",
+                "PW": "10",
                 "PL": "9",
                 "MOV": "9",
                 "SOS": "9",
@@ -274,10 +274,10 @@
                 "FT/FGA": "18",
                 "DRB%": "10",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/GSW-2025.png",
-        "last_update": "Mar 14 2025 22:32:18"
+        "last_update": "Mar 15 2025 22:32:18"
     }
 }
