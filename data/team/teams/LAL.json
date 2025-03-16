@@ -31,14 +31,14 @@
             {
                 "Player": "Luka Dončić",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Calf) - Doncic did not play on Friday's (Mar. 14) game versus the Nuggets due to left calf management and a right ankle sprain, according to Brett Siegel of ClutchPoints.com."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Calf) - The Lakers listed Doncic as probable for Sunday's (Mar. 16) game against Phoenix."
             },
             {
                 "Player": "Dorian Finney-Smith",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Ankle) - Finney-Smith did not play on Friday's (Mar. 14) game against the Nuggets due to left ankle injury management, according to Dave McMenamin of ESPN.com."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Ankle) - The Lakers listed Finney-Smith as questionable for Sunday's (Mar. 16) game against Phoenix."
             },
             {
                 "Player": "Rui Hachimura",
@@ -49,8 +49,8 @@
             {
                 "Player": "Jaxson Hayes",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Knee) - Hayes did not play on Friday's (Mar. 14) game against the Nuggets."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Knee) - The Lakers listed Hayes as probable for Sunday's (Mar. 16) game against Phoenix."
             },
             {
                 "Player": "LeBron James",
@@ -59,22 +59,22 @@
                 "Description": "Out (Leg) - James is expected to miss at least 1-to-2 weeks due to a groin strain, per Shams Charania of ESPN."
             },
             {
-                "Player": "Trey Jemison",
-                "Team": "Los Angeles Lakers",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Illness) - Jemison did not play on Friday's (Mar. 14) game versus the Nuggets due to an illness, according to Dave McMenamin of ESPN.com."
-            },
-            {
                 "Player": "Maxi Kleber",
                 "Team": "Los Angeles Lakers",
                 "Update": "Tue, Feb 4, 2025",
                 "Description": "Out (Foot) - Kleber said on Tuesday (Feb. 4) that he will have his surgically repaired right foot re-evaluated in eight weeks, according to Jovan Buha of The Athletic."
             },
             {
+                "Player": "Dalton Knecht",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Back) - The Lakers listed Knecht as probable for Sunday's (Mar. 16) game against Phoenix."
+            },
+            {
                 "Player": "Gabe Vincent",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Knee) - Vincent did not play on Friday's (Mar. 14) game versus the Nuggets due to left knee injury management, according to Dave McMenamin of ESPN.com."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Knee) - The Lakers listed Vincent as questionable for Sunday's (Mar. 16) game against Phoenix."
             }
         ],
         "team_stats": {
@@ -130,8 +130,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
-                "FG": "19",
+                "MP": "30",
+                "FG": "18",
                 "FGA": "28",
                 "FG%": "8",
                 "3P": "20",
@@ -146,10 +146,10 @@
                 "ORB": "26",
                 "DRB": "17",
                 "TRB": "25",
-                "AST": "16",
+                "AST": "15",
                 "STL": "25",
                 "BLK": "21",
-                "TOV": "11",
+                "TOV": "12",
                 "PF": "4",
                 "PTS": "18"
             },
@@ -230,21 +230,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "30",
                 "FG": "12",
-                "FGA": "16",
+                "FGA": "17",
                 "FG%": "8",
                 "3P": "14",
                 "3PA": "17",
-                "3P%": "6",
-                "2P": "11",
+                "3P%": "5",
+                "2P": "12",
                 "2PA": "14",
                 "2P%": "15",
                 "FT": "6",
                 "FTA": "5",
-                "FT%": "19",
-                "ORB": "14",
-                "DRB": "6",
+                "FT%": "17",
+                "ORB": "13",
+                "DRB": "5",
                 "TRB": "8",
                 "AST": "21",
                 "STL": "17",
@@ -284,7 +284,7 @@
                 "PW": "35",
                 "PL": "30",
                 "MOV": "1.28",
-                "SOS": "-0.10",
+                "SOS": "-0.11",
                 "SRS": "1.17",
                 "ORtg": "115.2",
                 "DRtg": "113.9",
@@ -303,7 +303,7 @@
                 "W": "8",
                 "L": "23",
                 "PW": "13",
-                "PL": "13",
+                "PL": "12",
                 "MOV": "13",
                 "SOS": "17",
                 "SRS": "12",
@@ -318,10 +318,10 @@
                 "FT/FGA": "9",
                 "DRB%": "13",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAL-2025.png",
-        "last_update": "Mar 15 2025 22:32:18"
+        "last_update": "Mar 16 2025 22:32:21"
     }
 }

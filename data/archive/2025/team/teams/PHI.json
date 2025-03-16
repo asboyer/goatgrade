@@ -2,7 +2,7 @@
     "PHI": {
         "info": {
             "record": "22-44",
-            "standing": "13th in East",
+            "standing": "12th in East",
             "coach": "Nick Nurse (22-44)",
             "gm": "Daryl Morey",
             "preseason_odds": "+1400"
@@ -29,16 +29,16 @@
         ],
         "injuries": [
             {
-                "Player": "Andre Drummond",
+                "Player": "Adem Bona",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Toe) - Drummond did not play on Friday's (Mar. 14) game against the Pacers."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Ankle) - The 76ers listed Bona as OUT for Sunday's (Mar. 16) game against Dallas."
             },
             {
-                "Player": "Justin Edwards",
+                "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Ankle) - Edwards did not play on Friday's (Mar. 14) game against the Pacers."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Toe) - The 76ers listed Drummond as OUT for Sunday's (Mar. 16) game against Dallas."
             },
             {
                 "Player": "Joel Embiid",
@@ -59,22 +59,16 @@
                 "Description": "Out (Wrist) - The 76ers announced on Thursday (Feb. 27) that Gordon will be re-evaluated in three months after undergoing successful wrist surgery, as per Keith Pompey of The Philadelphia Inquirer."
             },
             {
-                "Player": "Quentin Grimes",
-                "Team": "Philadelphia 76ers",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Illness) - Grimes did not play on Friday's (Mar. 14) game against the Pacers."
-            },
-            {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Hip) - Lowry did not play on Friday's (Mar. 14) game against the Pacers."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Hip) - The 76ers listed Lowry as OUT for Sunday's (Mar. 16) game against Dallas."
             },
             {
                 "Player": "Tyrese Maxey",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Back) - Maxey did not play on Friday's (Mar. 14) game against the Pacers."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Back) - The 76ers listed Maxey as OUT for Sunday's (Mar. 16) game against Dallas."
             },
             {
                 "Player": "Jared McCain",
@@ -85,14 +79,14 @@
             {
                 "Player": "Kelly Oubre Jr.",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Knee) - Oubre Jr. did not play on Friday's (Mar. 14) game against the Pacers."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Knee) - The 76ers listed Oubre Jr. as OUT for Sunday's (Mar. 16) game against Dallas."
             },
             {
                 "Player": "Lonnie Walker IV",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Head) - Walker IV did not play on Friday's (Mar. 14) game against the Pacers."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Head) - The 76ers listed Walker IV as OUT for Sunday's (Mar. 16) game against Dallas."
             }
         ],
         "team_stats": {
@@ -148,7 +142,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "23",
                 "FG": "27",
                 "FGA": "24",
                 "FG%": "22",
@@ -160,7 +154,7 @@
                 "2P%": "19",
                 "FT": "6",
                 "FTA": "8",
-                "FT%": "14",
+                "FT%": "13",
                 "ORB": "24",
                 "DRB": "30",
                 "TRB": "30",
@@ -248,11 +242,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
-                "FG": "18",
+                "MP": "23",
+                "FG": "19",
                 "FGA": "4",
                 "FG%": "30",
-                "3P": "18",
+                "3P": "20",
                 "3PA": "12",
                 "3P%": "27",
                 "2P": "15",
@@ -262,13 +256,13 @@
                 "FTA": "13",
                 "FT%": "29",
                 "ORB": "15",
-                "DRB": "24",
+                "DRB": "23",
                 "TRB": "22",
                 "AST": "24",
                 "STL": "4",
                 "BLK": "20",
                 "TOV": "3",
-                "PF": "10",
+                "PF": "9",
                 "PTS": "16"
             },
             "Opp Year/Year": {
@@ -302,7 +296,7 @@
                 "PW": "23",
                 "PL": "43",
                 "MOV": "-5.11",
-                "SOS": "0.09",
+                "SOS": "0.08",
                 "SRS": "-5.02",
                 "ORtg": "112.0",
                 "DRtg": "117.2",
@@ -319,7 +313,7 @@
             },
             "Misc Lg Rank": {
                 "W": "25",
-                "L": "5",
+                "L": "6",
                 "PW": "25",
                 "PL": "25",
                 "MOV": "25",
@@ -332,7 +326,7 @@
                 "3PAr": "14",
                 "eFG%": "30",
                 "TOV%": "3",
-                "ORB%": "24",
+                "ORB%": "25",
                 "FT/FGA": "20",
                 "DRB%": "28",
                 "Arena": "",
@@ -340,6 +334,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHI-2025.png",
-        "last_update": "Mar 15 2025 22:32:18"
+        "last_update": "Mar 16 2025 22:32:21"
     }
 }

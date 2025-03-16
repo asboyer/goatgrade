@@ -31,20 +31,20 @@
             {
                 "Player": "Grayson Allen",
                 "Team": "Phoenix Suns",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Foot) - Allen did not play on Friday's (Mar. 14) game against the Kings."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Foot) - The Suns listed Allen as OUT for Sunday's (Mar. 16) game against Los Angeles."
             },
             {
                 "Player": "Monte Morris",
                 "Team": "Phoenix Suns",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Back) - Morris did not play on Friday's (Mar. 14) game against the Kings."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Back) - The Suns listed Morris as questionable for Sunday's (Mar. 16) game against Los Angeles."
             },
             {
                 "Player": "Nick Richards",
                 "Team": "Phoenix Suns",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Ankle) - Richards did not play on Friday's (Mar. 14) game against the Kings."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Ankle) - The Suns listed Richards as probable for Sunday's (Mar. 16) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -100,12 +100,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "11",
                 "FG": "17",
                 "FGA": "29",
                 "FG%": "7",
                 "3P": "6",
-                "3PA": "14",
+                "3PA": "13",
                 "3P%": "3",
                 "2P": "22",
                 "2PA": "27",
@@ -200,11 +200,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "11",
                 "FG": "21",
                 "FGA": "21",
                 "FG%": "16",
-                "3P": "23",
+                "3P": "24",
                 "3PA": "22",
                 "3P%": "18",
                 "2P": "20",
@@ -212,8 +212,8 @@
                 "2P%": "17",
                 "FT": "18",
                 "FTA": "18",
-                "FT%": "22",
-                "ORB": "23",
+                "FT%": "24",
+                "ORB": "24",
                 "DRB": "13",
                 "TRB": "19",
                 "AST": "19",
@@ -254,7 +254,7 @@
                 "PW": "30",
                 "PL": "37",
                 "MOV": "-1.84",
-                "SOS": "-0.24",
+                "SOS": "-0.25",
                 "SRS": "-2.08",
                 "ORtg": "116.5",
                 "DRtg": "118.3",
@@ -273,7 +273,7 @@
                 "W": "18",
                 "L": "13",
                 "PW": "19",
-                "PL": "19",
+                "PL": "18",
                 "MOV": "19",
                 "SOS": "20",
                 "SRS": "19",
@@ -284,14 +284,14 @@
                 "3PAr": "11",
                 "eFG%": "19",
                 "TOV%": "28",
-                "ORB%": "28",
+                "ORB%": "27",
                 "FT/FGA": "16",
-                "DRB%": "21",
+                "DRB%": "23",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHO-2025.png",
-        "last_update": "Mar 15 2025 22:32:18"
+        "last_update": "Mar 16 2025 22:32:21"
     }
 }

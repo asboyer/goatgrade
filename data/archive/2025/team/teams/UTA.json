@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Jordan Clarkson",
+                "Team": "Utah Jazz",
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Plantar) - The Jazz listed Clarkson as OUT for Sunday's (Mar. 16) game against Minnesota."
+            },
+            {
                 "Player": "John Collins",
                 "Team": "Utah Jazz",
                 "Update": "Fri, Mar 14, 2025",
@@ -37,8 +43,8 @@
             {
                 "Player": "Keyonte George",
                 "Team": "Utah Jazz",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Foot) - George did not play on Friday's (Mar. 14) game against the Raptors."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Foot) - The Jazz listed George as OUT for Sunday's (Mar. 16) game against Minnesota."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -100,11 +106,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "22",
                 "FGA": "21",
                 "FG%": "20",
-                "3P": "9",
+                "3P": "10",
                 "3PA": "9",
                 "3P%": "18",
                 "2P": "23",
@@ -114,9 +120,9 @@
                 "FTA": "4",
                 "FT%": "23",
                 "ORB": "7",
-                "DRB": "11",
+                "DRB": "10",
                 "TRB": "3",
-                "AST": "18",
+                "AST": "19",
                 "STL": "30",
                 "BLK": "20",
                 "TOV": "30",
@@ -200,9 +206,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "26",
-                "FGA": "25",
+                "FGA": "26",
                 "FG%": "25",
                 "3P": "30",
                 "3PA": "30",
@@ -213,10 +219,10 @@
                 "FT": "20",
                 "FTA": "22",
                 "FT%": "4",
-                "ORB": "19",
+                "ORB": "20",
                 "DRB": "8",
                 "TRB": "11",
-                "AST": "28",
+                "AST": "29",
                 "STL": "30",
                 "BLK": "30",
                 "TOV": "30",
@@ -255,7 +261,7 @@
                 "PL": "47",
                 "MOV": "-7.25",
                 "SOS": "0.42",
-                "SRS": "-6.83",
+                "SRS": "-6.84",
                 "ORtg": "112.1",
                 "DRtg": "119.3",
                 "Pace": "99.9",
@@ -277,7 +283,7 @@
                 "MOV": "27",
                 "SOS": "8",
                 "SRS": "27",
-                "ORtg": "22",
+                "ORtg": "21",
                 "DRtg": "29",
                 "Pace": "8",
                 "FTr": "3",
@@ -288,10 +294,10 @@
                 "FT/FGA": "14",
                 "DRB%": "14",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/UTA-2025.png",
-        "last_update": "Mar 15 2025 22:32:18"
+        "last_update": "Mar 16 2025 22:32:21"
     }
 }

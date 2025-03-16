@@ -29,10 +29,22 @@
         ],
         "injuries": [
             {
+                "Player": "Kris Dunn",
+                "Team": "Los Angeles Clippers",
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Knee) - The Clippers listed Dunn as OUT for Sunday's (Mar. 16) game against Charlotte."
+            },
+            {
+                "Player": "Jordan Miller",
+                "Team": "Los Angeles Clippers",
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Hip) - The Clippers listed Miller as OUT for Sunday's (Mar. 16) game against Charlotte."
+            },
+            {
                 "Player": "Norman Powell",
                 "Team": "Los Angeles Clippers",
-                "Update": "Tue, Mar 4, 2025",
-                "Description": "Out (Hamstring) - The Clippers announced on Tuesday (Mar. 4) that Powell has a right hamstring strain and will be re-evaluated in 10 days, per Joey Linn of SI.com."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Hamstring) - The Clippers listed Powell as questionable for Sunday's (Mar. 16) game against Charlotte."
             }
         ],
         "team_stats": {
@@ -88,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "20",
                 "FGA": "26",
                 "FG%": "12",
@@ -103,10 +115,10 @@
                 "FT%": "9",
                 "ORB": "23",
                 "DRB": "16",
-                "TRB": "20",
+                "TRB": "21",
                 "AST": "25",
                 "STL": "3",
-                "BLK": "25",
+                "BLK": "24",
                 "TOV": "22",
                 "PF": "14",
                 "PTS": "21"
@@ -188,12 +200,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "3",
                 "FGA": "3",
                 "FG%": "10",
                 "3P": "12",
-                "3PA": "13",
+                "3PA": "14",
                 "3P%": "10",
                 "2P": "2",
                 "2PA": "2",
@@ -209,7 +221,7 @@
                 "BLK": "6",
                 "TOV": "6",
                 "PF": "28",
-                "PTS": "5"
+                "PTS": "4"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -242,8 +254,8 @@
                 "PW": "39",
                 "PL": "28",
                 "MOV": "2.52",
-                "SOS": "-0.01",
-                "SRS": "2.51",
+                "SOS": "-0.03",
+                "SRS": "2.49",
                 "ORtg": "113.1",
                 "DRtg": "110.6",
                 "Pace": "97.7",
@@ -258,12 +270,12 @@
                 "Attendance": "519,068"
             },
             "Misc Lg Rank": {
-                "W": "11",
-                "L": "17",
-                "PW": "9",
+                "W": "12",
+                "L": "18",
+                "PW": "10",
                 "PL": "11",
                 "MOV": "10",
-                "SOS": "16",
+                "SOS": "15",
                 "SRS": "10",
                 "ORtg": "18",
                 "DRtg": "4",
@@ -280,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAC-2025.png",
-        "last_update": "Mar 15 2025 22:32:18"
+        "last_update": "Mar 16 2025 22:32:21"
     }
 }

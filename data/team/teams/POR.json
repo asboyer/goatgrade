@@ -2,7 +2,7 @@
     "POR": {
         "info": {
             "record": "28-39",
-            "standing": "12th in West",
+            "standing": "13th in West",
             "coach": "Chauncey Billups (28-39)",
             "gm": "Joe Cronin",
             "preseason_odds": "+100000"
@@ -37,14 +37,26 @@
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Wed, Mar 12, 2025",
-                "Description": "Day To Day (Knee) - Grant did not play on Wednesday's (Mar. 12) game against the Knicks."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Knee) - The Blazers listed Walker as doubtful for Sunday's (Mar. 16) game against Toronto."
+            },
+            {
+                "Player": "Anfernee Simons",
+                "Team": "Portland Trail Blazers",
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Hand) - The Blazers listed Simons as questionable for Sunday's (Mar. 16) game against Toronto."
             },
             {
                 "Player": "Jabari Walker",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Concussion) - HC Billups said Friday (Mar. 14) that Walker is in the concussion protocol, as per Sean Highkin of Rip City Radio 620 Portland."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Concussion) - The Blazers listed Walker as OUT for Sunday's (Mar. 16) game against Toronto."
+            },
+            {
+                "Player": "Robert Williams",
+                "Team": "Portland Trail Blazers",
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Knee) - The Blazers listed Wuilliams III as OUT for Sunday's (Mar. 16) game against Toronto."
             }
         ],
         "team_stats": {
@@ -100,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "16",
                 "FG": "23",
                 "FGA": "18",
                 "FG%": "23",
@@ -113,13 +125,13 @@
                 "FT": "12",
                 "FTA": "11",
                 "FT%": "25",
-                "ORB": "5",
+                "ORB": "4",
                 "DRB": "26",
                 "TRB": "17",
                 "AST": "27",
                 "STL": "16",
-                "BLK": "8",
-                "TOV": "28",
+                "BLK": "7",
+                "TOV": "29",
                 "PF": "22",
                 "PTS": "24"
             },
@@ -200,10 +212,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "16",
                 "FG": "17",
                 "FGA": "12",
-                "FG%": "21",
+                "FG%": "22",
                 "3P": "7",
                 "3PA": "5",
                 "3P%": "20",
@@ -213,9 +225,9 @@
                 "FT": "24",
                 "FTA": "23",
                 "FT%": "28",
-                "ORB": "25",
+                "ORB": "26",
                 "DRB": "10",
-                "TRB": "16",
+                "TRB": "15",
                 "AST": "13",
                 "STL": "29",
                 "BLK": "24",
@@ -254,8 +266,8 @@
                 "PW": "25",
                 "PL": "42",
                 "MOV": "-4.00",
-                "SOS": "0.45",
-                "SRS": "-3.55",
+                "SOS": "0.43",
+                "SRS": "-3.57",
                 "ORtg": "111.5",
                 "DRtg": "115.5",
                 "Pace": "98.8",
@@ -288,10 +300,10 @@
                 "FT/FGA": "25",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/POR-2025.png",
-        "last_update": "Mar 15 2025 22:32:18"
+        "last_update": "Mar 16 2025 22:32:21"
     }
 }

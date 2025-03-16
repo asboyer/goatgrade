@@ -31,8 +31,14 @@
             {
                 "Player": "Ochai Agbaji",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Ankle) - Agbaji did not play on Friday's (Mar. 14) game against the Jazz."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Ankle) - The Raptors listed Agbaji as questionable for Sunday's (Mar. 16) game against Portland."
+            },
+            {
+                "Player": "RJ Barrett",
+                "Team": "Toronto Raptors",
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Illness) - The Raptors listed Barrett as questionable for Sunday's (Mar. 16) game against Portland."
             },
             {
                 "Player": "Ulrich Chomche",
@@ -55,20 +61,26 @@
             {
                 "Player": "Jonathan Mogbo",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Face) - Mogbo did not play on Friday's (Mar. 14) game against the Jazz."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Face) - The Raptors listed Mogbo as questionable for Sunday's (Mar. 16) game against Portland."
             },
             {
-                "Player": "Jakob Poeltl",
+                "Player": "Immanuel Quickley",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Rest) - Poeltl did not play on Friday's (Mar. 14) game against the Jazz."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Rest) - The Raptors listed Quickley as OUT for Sunday's (Mar. 16) game against Portland."
+            },
+            {
+                "Player": "Jamal Shead",
+                "Team": "Toronto Raptors",
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Shoulder) - The Raptors listed Shead as probable for Sunday's (Mar. 16) game against Portland."
             },
             {
                 "Player": "Ja'Kobe Walter",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Hip) - Walter did not play on Friday's (Mar. 14) game against the Jazz."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Hip) - The Raptors listed Walter as OUT for Sunday's (Mar. 16) game against Portland."
             }
         ],
         "team_stats": {
@@ -124,10 +136,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
-                "FG": "15",
+                "MP": "12",
+                "FG": "16",
                 "FGA": "13",
-                "FG%": "18",
+                "FG%": "19",
                 "3P": "29",
                 "3PA": "29",
                 "3P%": "22",
@@ -136,10 +148,10 @@
                 "2P%": "23",
                 "FT": "25",
                 "FTA": "14",
-                "FT%": "28",
+                "FT%": "29",
                 "ORB": "6",
                 "DRB": "23",
-                "TRB": "11",
+                "TRB": "10",
                 "AST": "9",
                 "STL": "22",
                 "BLK": "26",
@@ -224,8 +236,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
-                "FG": "15",
+                "MP": "12",
+                "FG": "14",
                 "FGA": "13",
                 "FG%": "17",
                 "3P": "13",
@@ -236,15 +248,15 @@
                 "2P%": "22",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "5",
+                "FT%": "6",
                 "ORB": "21",
-                "DRB": "14",
-                "TRB": "18",
-                "AST": "10",
-                "STL": "27",
+                "DRB": "15",
+                "TRB": "17",
+                "AST": "11",
+                "STL": "26",
                 "BLK": "28",
                 "TOV": "13",
-                "PF": "16",
+                "PF": "15",
                 "PTS": "21"
             },
             "Opp Year/Year": {
@@ -278,8 +290,8 @@
                 "PW": "24",
                 "PL": "43",
                 "MOV": "-4.64",
-                "SOS": "0.67",
-                "SRS": "-3.97",
+                "SOS": "0.65",
+                "SRS": "-3.99",
                 "ORtg": "110.9",
                 "DRtg": "115.6",
                 "Pace": "99.4",
@@ -299,23 +311,23 @@
                 "PW": "24",
                 "PL": "24",
                 "MOV": "24",
-                "SOS": "4",
+                "SOS": "5",
                 "SRS": "24",
                 "ORtg": "26",
                 "DRtg": "20",
                 "Pace": "13",
-                "FTr": "19",
+                "FTr": "18",
                 "3PAr": "29",
-                "eFG%": "16",
+                "eFG%": "15",
                 "TOV%": "15",
-                "ORB%": "6",
+                "ORB%": "5",
                 "FT/FGA": "29",
-                "DRB%": "23",
+                "DRB%": "24",
                 "Arena": "",
                 "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/TOR-2025.png",
-        "last_update": "Mar 15 2025 22:32:18"
+        "last_update": "Mar 16 2025 22:32:21"
     }
 }

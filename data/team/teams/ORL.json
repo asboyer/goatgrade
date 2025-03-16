@@ -31,14 +31,8 @@
             {
                 "Player": "Cole Anthony",
                 "Team": "Orlando Magic",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Toe) - Anthony did not play on Friday's (Mar. 14) game against the Timberwolves."
-            },
-            {
-                "Player": "Kentavious Caldwell-Pope",
-                "Team": "Orlando Magic",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Rest) - Caldwell-Pope did not play on Friday's (Mar. 14) game against the Timberwolves."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Toe) - The Magic listed Anthony as questionable for Sunday's (Mar. 16) game against Cleveland."
             },
             {
                 "Player": "Jalen Suggs",
@@ -106,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "7",
                 "FG": "29",
                 "FGA": "30",
                 "FG%": "27",
@@ -206,18 +200,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "7",
                 "FG": "2",
                 "FGA": "1",
-                "FG%": "22",
+                "FG%": "23",
                 "3P": "1",
                 "3PA": "1",
                 "3P%": "26",
                 "2P": "4",
                 "2PA": "7",
                 "2P%": "10",
-                "FT": "25",
-                "FTA": "26",
+                "FT": "26",
+                "FTA": "27",
                 "FT%": "3",
                 "ORB": "1",
                 "DRB": "16",
@@ -260,8 +254,8 @@
                 "PW": "31",
                 "PL": "37",
                 "MOV": "-1.54",
-                "SOS": "-0.51",
-                "SRS": "-2.05",
+                "SOS": "-0.52",
+                "SRS": "-2.06",
                 "ORtg": "108.3",
                 "DRtg": "109.9",
                 "Pace": "96.2",
@@ -277,27 +271,27 @@
             },
             "Misc Lg Rank": {
                 "W": "18",
-                "L": "11",
+                "L": "12",
                 "PW": "18",
-                "PL": "20",
+                "PL": "19",
                 "MOV": "18",
-                "SOS": "25",
+                "SOS": "26",
                 "SRS": "18",
                 "ORtg": "28",
                 "DRtg": "3",
-                "Pace": "29",
+                "Pace": "28",
                 "FTr": "1",
                 "3PAr": "18",
-                "eFG%": "17",
+                "eFG%": "16",
                 "TOV%": "1",
                 "ORB%": "17",
                 "FT/FGA": "30",
                 "DRB%": "1",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/ORL-2025.png",
-        "last_update": "Mar 15 2025 22:32:18"
+        "last_update": "Mar 16 2025 22:32:21"
     }
 }

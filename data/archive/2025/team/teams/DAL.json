@@ -36,8 +36,8 @@
             {
                 "Player": "Dante Exum",
                 "Team": "Dallas Mavericks",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Out (Hand) - Exum suffered a broken bone in his left hand in the second quarter of Friday's (Mar. 14) game against the Rockets and is out indefinitely, as per Shams Charania of ESPN."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Hand) - The Mavericks announced on Saturday (Mar. 15) that Exum suffered a broken bone in his left hand in Friday's (Mar. 14) game against the Rockets and will be re-evaluated in four weeks."
             },
             {
                 "Player": "Daniel Gafford",
@@ -48,8 +48,8 @@
             {
                 "Player": "Jaden Hardy",
                 "Team": "Dallas Mavericks",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Ankle) - Hardy did not play on Friday's (Mar. 14) game against the Rockets."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Ankle) - The Mavericks listed Hardy as doubtful for Sunday's (Mar. 16) game against Philadelphia."
             },
             {
                 "Player": "Kyrie Irving",
@@ -60,8 +60,8 @@
             {
                 "Player": "Kai Jones",
                 "Team": "Dallas Mavericks",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Quadriceps) - Jones did not play on Friday's (Mar. 14) game against the Rockets."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Quadriceps) - The Mavericks listed Jones as questionable for Sunday's (Mar. 16) game against Philadelphia."
             },
             {
                 "Player": "Dereck Lively II",
@@ -70,16 +70,22 @@
                 "Description": "Out (Ankle) - The Mavericks announced on Friday (Mar. 7) that Lively has progressed to individual court week after a recent re-evaluation, per Mike Curtis of The Dallas Morning News."
             },
             {
+                "Player": "Caleb Martin",
+                "Team": "Dallas Mavericks",
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Hip) - The Mavericks listed Martin as questionable for Sunday's (Mar. 16) game against Philadelphia."
+            },
+            {
                 "Player": "Olivier-Maxence Prosper",
                 "Team": "Dallas Mavericks",
                 "Update": "Thu, Mar 13, 2025",
                 "Description": "Out For Season (Wrist) - The Mavericks announced on Thursday (Mar. 13) that Prosper has been ruled out for the remainder of the 2024-25 season after undergoing surgery to repair a right wrist injury."
             },
             {
-                "Player": "P.J. Washington",
+                "Player": "Brandon Williams",
                 "Team": "Dallas Mavericks",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Ankle) - Washington Jr. did not play on Friday's (Mar. 14) game against the Rockets."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Hamstring) - The Mavericks listed Williams as probable for Sunday's (Mar. 16) game against Philadelphia."
             }
         ],
         "team_stats": {
@@ -135,7 +141,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "7",
                 "FG": "12",
                 "FGA": "20",
                 "FG%": "13",
@@ -151,10 +157,10 @@
                 "ORB": "22",
                 "DRB": "20",
                 "TRB": "23",
-                "AST": "22",
-                "STL": "20",
+                "AST": "23",
+                "STL": "19",
                 "BLK": "5",
-                "TOV": "10",
+                "TOV": "9",
                 "PF": "9",
                 "PTS": "13"
             },
@@ -235,7 +241,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "7",
                 "FG": "23",
                 "FGA": "24",
                 "FG%": "15",
@@ -289,8 +295,8 @@
                 "PW": "33",
                 "PL": "35",
                 "MOV": "-0.37",
-                "SOS": "0.68",
-                "SRS": "0.31",
+                "SOS": "0.66",
+                "SRS": "0.29",
                 "ORtg": "115.2",
                 "DRtg": "115.6",
                 "Pace": "99.1",
@@ -310,11 +316,11 @@
                 "PW": "16",
                 "PL": "16",
                 "MOV": "16",
-                "SOS": "3",
+                "SOS": "4",
                 "SRS": "16",
                 "ORtg": "11",
-                "DRtg": "22",
-                "Pace": "16",
+                "DRtg": "21",
+                "Pace": "15",
                 "FTr": "9",
                 "3PAr": "21",
                 "eFG%": "9",
@@ -327,6 +333,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DAL-2025.png",
-        "last_update": "Mar 15 2025 22:32:18"
+        "last_update": "Mar 16 2025 22:32:21"
     }
 }

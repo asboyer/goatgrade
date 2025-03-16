@@ -37,8 +37,8 @@
             {
                 "Player": "Clint Capela",
                 "Team": "Atlanta Hawks",
-                "Update": "Fri, Mar 14, 2025",
-                "Description": "Day To Day (Personal) - Capela did not play on Friday's (Mar. 14) game against the Clippers."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Personal) - The Hawks listed Capela as OUT for Sunday's (Mar. 16) game against Brooklyn."
             },
             {
                 "Player": "Jalen Johnson",
@@ -47,10 +47,22 @@
                 "Description": "Out For Season (Shoulder) - Johnson was diagnosed on Wednesday (Jan. 29) with a torn labrum in his left shoulder and will miss the rest of the season, league sources tell NBA reporter Chris Haynes."
             },
             {
+                "Player": "Caris LeVert",
+                "Team": "Atlanta Hawks",
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Knee) - The Hawks listed LeVert as questionable for Sunday's (Mar. 16) game against Brooklyn."
+            },
+            {
                 "Player": "Larry Nance Jr.",
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Feb 12, 2025",
                 "Description": "Out (Knee) - The Hawks announced on Wednesday (Feb. 12) that Nance Jr. will be re-evaluated in approximately six weeks, and an update will be provided at that time."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as probable for Sunday's (Mar. 16) game against Brooklyn."
             }
         ],
         "team_stats": {
@@ -106,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "8",
                 "FGA": "5",
                 "FG%": "15",
@@ -122,7 +134,7 @@
                 "ORB": "9",
                 "DRB": "21",
                 "TRB": "12",
-                "AST": "3",
+                "AST": "2",
                 "STL": "2",
                 "BLK": "9",
                 "TOV": "26",
@@ -206,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "27",
                 "FGA": "20",
                 "FG%": "28",
@@ -217,12 +229,12 @@
                 "2PA": "20",
                 "2P%": "27",
                 "FT": "22",
-                "FTA": "16",
+                "FTA": "17",
                 "FT%": "30",
-                "ORB": "6",
-                "DRB": "25",
-                "TRB": "17",
-                "AST": "26",
+                "ORB": "5",
+                "DRB": "24",
+                "TRB": "16",
+                "AST": "25",
                 "STL": "28",
                 "BLK": "16",
                 "TOV": "4",
@@ -261,7 +273,7 @@
                 "PL": "38",
                 "MOV": "-2.49",
                 "SOS": "0.11",
-                "SRS": "-2.38",
+                "SRS": "-2.39",
                 "ORtg": "112.9",
                 "DRtg": "115.4",
                 "Pace": "103.1",
@@ -292,12 +304,12 @@
                 "TOV%": "4",
                 "ORB%": "11",
                 "FT/FGA": "19",
-                "DRB%": "8",
+                "DRB%": "7",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/ATL-2025.png",
-        "last_update": "Mar 15 2025 22:32:18"
+        "last_update": "Mar 16 2025 22:32:21"
     }
 }
