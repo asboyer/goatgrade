@@ -31,8 +31,8 @@
             {
                 "Player": "Jalen Brunson",
                 "Team": "New York Knicks",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Out (Ankle) - The Knicks announced that Brunson's injury will be given an update in two weeks."
+                "Update": "Sat, Mar 15, 2025",
+                "Description": "Out (Ankle) - Brunson is likely to remain out for another 1-to-2 weeks, per Shams Charania of ESPN."
             },
             {
                 "Player": "Ariel Hukporti",
@@ -94,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "26",
                 "FG": "5",
                 "FGA": "17",
                 "FG%": "4",
@@ -104,7 +104,7 @@
                 "2P": "3",
                 "2PA": "6",
                 "2P%": "6",
-                "FT": "15",
+                "FT": "16",
                 "FTA": "22",
                 "FT%": "5",
                 "ORB": "20",
@@ -114,7 +114,7 @@
                 "STL": "17",
                 "BLK": "29",
                 "TOV": "4",
-                "PF": "5",
+                "PF": "4",
                 "PTS": "6"
             },
             "Year/Year": {
@@ -194,13 +194,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "26",
                 "FG": "18",
                 "FGA": "14",
-                "FG%": "21",
+                "FG%": "23",
                 "3P": "15",
                 "3PA": "8",
-                "3P%": "29",
+                "3P%": "28",
                 "2P": "19",
                 "2PA": "18",
                 "2P%": "14",
@@ -210,7 +210,7 @@
                 "ORB": "12",
                 "DRB": "2",
                 "TRB": "2",
-                "AST": "10",
+                "AST": "11",
                 "STL": "3",
                 "BLK": "17",
                 "TOV": "17",
@@ -248,7 +248,7 @@
                 "PW": "41",
                 "PL": "25",
                 "MOV": "4.30",
-                "SOS": "-0.55",
+                "SOS": "-0.54",
                 "SRS": "3.76",
                 "ORtg": "118.9",
                 "DRtg": "114.5",
@@ -269,7 +269,7 @@
                 "PW": "8",
                 "PL": "5",
                 "MOV": "7",
-                "SOS": "27",
+                "SOS": "28",
                 "SRS": "8",
                 "ORtg": "5",
                 "DRtg": "14",
@@ -280,12 +280,12 @@
                 "TOV%": "13",
                 "ORB%": "12",
                 "FT/FGA": "5",
-                "DRB%": "18",
+                "DRB%": "17",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NYK-2025.png",
-        "last_update": "Mar 16 2025 22:32:21"
+        "last_update": "Mar 17 2025 22:32:20"
     }
 }

@@ -31,14 +31,38 @@
             {
                 "Player": "Johnny Furphy",
                 "Team": "Indiana Pacers",
-                "Update": "Sat, Mar 15, 2025",
-                "Description": "Day To Day (Illness) - Furphy did not play on Saturday's (Mar. 15) game versus the Bucks."
+                "Update": "Sun, Mar 16, 2025",
+                "Description": "Day To Day (Illness) - The Pacers listed Furphy as questionable for Monday's (Mar. 17) game against Minnesota."
+            },
+            {
+                "Player": "Tyrese Haliburton",
+                "Team": "Indiana Pacers",
+                "Update": "Sun, Mar 16, 2025",
+                "Description": "Day To Day (Back) - The Pacers listed Haliburton as questionable for Monday's (Mar. 17) game against Minnesota."
             },
             {
                 "Player": "Isaiah Jackson",
                 "Team": "Indiana Pacers",
                 "Update": "Sat, Nov 2, 2024",
                 "Description": "Out For Season (Calf) - The Indiana Pacers announced C Isaiah Jackson has sustained a torn right Achilles tendon in Friday's (Nov. 1) game versus the Pelicans and will be out for the remainder of the season, per Shams Charania of ESPN."
+            },
+            {
+                "Player": "Aaron Nesmith",
+                "Team": "Indiana Pacers",
+                "Update": "Sun, Mar 16, 2025",
+                "Description": "Day To Day (Ankle) - The Pacers listed Nesmith as Questionable for Monday's (Mar. 17) game against the Timberwolves."
+            },
+            {
+                "Player": "Pascal Siakam",
+                "Team": "Indiana Pacers",
+                "Update": "Sun, Mar 16, 2025",
+                "Description": "Out (Personal) - The Pacers listed Siakam as OUT for Monday's (Mar. 17) game against Minnesota."
+            },
+            {
+                "Player": "Myles Turner",
+                "Team": "Indiana Pacers",
+                "Update": "Sun, Mar 16, 2025",
+                "Description": "Day To Day (Hip) - The Pacers listed Turner as Questionable for Monday's (Mar. 17) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -94,19 +118,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "27",
                 "FG": "6",
                 "FGA": "19",
                 "FG%": "3",
                 "3P": "18",
                 "3PA": "24",
-                "3P%": "9",
+                "3P%": "8",
                 "2P": "5",
                 "2PA": "11",
                 "2P%": "3",
                 "FT": "22",
                 "FTA": "25",
-                "FT%": "14",
+                "FT%": "13",
                 "ORB": "29",
                 "DRB": "25",
                 "TRB": "29",
@@ -194,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "27",
                 "FG": "22",
                 "FGA": "16",
                 "FG%": "26",
@@ -208,7 +232,7 @@
                 "FTA": "20",
                 "FT%": "12",
                 "ORB": "19",
-                "DRB": "19",
+                "DRB": "20",
                 "TRB": "20",
                 "AST": "14",
                 "STL": "5",
@@ -264,7 +288,7 @@
                 "Attendance": "503,695"
             },
             "Misc Lg Rank": {
-                "W": "12",
+                "W": "13",
                 "L": "19",
                 "PW": "14",
                 "PL": "14",
@@ -277,15 +301,15 @@
                 "FTr": "24",
                 "3PAr": "22",
                 "eFG%": "23",
-                "TOV%": "10",
+                "TOV%": "11",
                 "ORB%": "29",
                 "FT/FGA": "18",
-                "DRB%": "22",
+                "DRB%": "23",
                 "Arena": "",
                 "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/IND-2025.png",
-        "last_update": "Mar 16 2025 22:32:21"
+        "last_update": "Mar 17 2025 22:32:20"
     }
 }

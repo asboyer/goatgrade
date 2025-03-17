@@ -43,8 +43,8 @@
             {
                 "Player": "Yves Missi",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sat, Mar 15, 2025",
-                "Description": "Day To Day (Ankle) - Missi did not play on Saturday's (Mar. 15) game against the Spurs."
+                "Update": "Sun, Mar 16, 2025",
+                "Description": "Day To Day (Ankle) - The Pelicans listed Missi as Questionable for Monday's (Mar. 17) game against the Pistons."
             },
             {
                 "Player": "Dejounte Murray",
@@ -53,10 +53,16 @@
                 "Description": "Out For Season (Leg) - Murray suffered a torn right Achilles tendon during Friday's (Jan. 31) game against the Celtics and will now miss the rest of the season, per Shams Charania of ESPN.com."
             },
             {
+                "Player": "Kelly Olynyk",
+                "Team": "New Orleans Pelicans",
+                "Update": "Sun, Mar 16, 2025",
+                "Description": "Day To Day (Finger) - The Pelicans listed Olynyk as Questionable for Monday's (Mar. 17) game against the Pistons."
+            },
+            {
                 "Player": "Zion Williamson",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sat, Mar 15, 2025",
-                "Description": "Day To Day (Personal) - Williamson did not play on Saturday's (Mar. 15) game against the Spurs."
+                "Update": "Sun, Mar 16, 2025",
+                "Description": "Day To Day (Personal) - The Pelicans listed Williamson as Questionable for Monday's (Mar. 17) game against the Pistons."
             }
         ],
         "team_stats": {
@@ -112,10 +118,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "12",
                 "FG": "21",
                 "FGA": "8",
-                "FG%": "24",
+                "FG%": "23",
                 "3P": "27",
                 "3PA": "26",
                 "3P%": "23",
@@ -125,9 +131,9 @@
                 "FT": "19",
                 "FTA": "13",
                 "FT%": "26",
-                "ORB": "8",
+                "ORB": "7",
                 "DRB": "27",
-                "TRB": "20",
+                "TRB": "21",
                 "AST": "20",
                 "STL": "8",
                 "BLK": "8",
@@ -212,20 +218,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "12",
                 "FG": "29",
                 "FGA": "22",
                 "FG%": "29",
                 "3P": "28",
                 "3PA": "29",
-                "3P%": "22",
+                "3P%": "23",
                 "2P": "24",
                 "2PA": "11",
                 "2P%": "29",
                 "FT": "9",
                 "FTA": "9",
                 "FT%": "15",
-                "ORB": "27",
+                "ORB": "26",
                 "DRB": "26",
                 "TRB": "28",
                 "AST": "27",
@@ -284,7 +290,7 @@
             "Misc Lg Rank": {
                 "W": "27",
                 "L": "3",
-                "PW": "29",
+                "PW": "28",
                 "PL": "29",
                 "MOV": "29",
                 "SOS": "1",
@@ -300,10 +306,10 @@
                 "FT/FGA": "7",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NOP-2025.png",
-        "last_update": "Mar 16 2025 22:32:21"
+        "last_update": "Mar 17 2025 22:32:20"
     }
 }
