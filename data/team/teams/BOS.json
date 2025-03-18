@@ -30,20 +30,14 @@
             {
                 "Player": "Jaylen Brown",
                 "Team": "Boston Celtics",
-                "Update": "Sat, Mar 15, 2025",
-                "Description": "Day To Day (Back) - Brown did not return to Saturday's (Mar. 15) game against the Nets due to low back spasms."
+                "Update": "Mon, Mar 17, 2025",
+                "Description": "Out (Back) - The Celtics listed Brown as OUT for Tuesday's (Mar. 18) game against Brooklyn."
             },
             {
-                "Player": "Al Horford",
+                "Player": "Jayson Tatum",
                 "Team": "Boston Celtics",
-                "Update": "Sat, Mar 15, 2025",
-                "Description": "Day To Day (Toe) - Horford did not play on Saturday's (Mar. 15) game against the Nets."
-            },
-            {
-                "Player": "Derrick White",
-                "Team": "Boston Celtics",
-                "Update": "Sat, Mar 15, 2025",
-                "Description": "Day To Day (Knee) - White did not play on Saturday's (Mar. 15) game against the Nets."
+                "Update": "Mon, Mar 17, 2025",
+                "Description": "Day To Day (Knee) - The Celtics listed Tatum as Questionable for Tuesday's (Mar. 18) game against Brooklyn."
             }
         ],
         "team_stats": {
@@ -99,13 +93,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "14",
                 "FG": "15",
-                "FGA": "13",
+                "FGA": "12",
                 "FG%": "18",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "6",
+                "3P%": "7",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "4",
@@ -199,20 +193,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "14",
                 "FG": "9",
                 "FGA": "18",
                 "FG%": "2",
                 "3P": "5",
                 "3PA": "10",
                 "3P%": "5",
-                "2P": "11",
+                "2P": "12",
                 "2PA": "21",
                 "2P%": "4",
-                "FT": "1",
-                "FTA": "1",
-                "FT%": "16",
-                "ORB": "8",
+                "FT": "2",
+                "FTA": "2",
+                "FT%": "17",
+                "ORB": "7",
                 "DRB": "19",
                 "TRB": "14",
                 "AST": "3",
@@ -253,8 +247,8 @@
                 "PW": "50",
                 "PL": "18",
                 "MOV": "8.44",
-                "SOS": "-0.35",
-                "SRS": "8.09",
+                "SOS": "-0.34",
+                "SRS": "8.10",
                 "ORtg": "120.2",
                 "DRtg": "111.5",
                 "Pace": "96.3",
@@ -276,7 +270,7 @@
                 "MOV": "3",
                 "SOS": "24",
                 "SRS": "3",
-                "ORtg": "3",
+                "ORtg": "2",
                 "DRtg": "7",
                 "Pace": "27",
                 "FTr": "29",
@@ -284,13 +278,13 @@
                 "eFG%": "3",
                 "TOV%": "23",
                 "ORB%": "18",
-                "FT/FGA": "2",
+                "FT/FGA": "3",
                 "DRB%": "7",
                 "Arena": "",
                 "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/BOS-2025.png",
-        "last_update": "Mar 17 2025 22:32:20"
+        "last_update": "Mar 18 2025 22:32:19"
     }
 }

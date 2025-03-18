@@ -37,8 +37,8 @@
             {
                 "Player": "Clint Capela",
                 "Team": "Atlanta Hawks",
-                "Update": "Sat, Mar 15, 2025",
-                "Description": "Out (Personal) - The Hawks listed Capela as OUT for Sunday's (Mar. 16) game against Brooklyn."
+                "Update": "Mon, Mar 17, 2025",
+                "Description": "Out (Personal) - The Hawks listed Capela as OUT for Tuesday's (Mar. 18) game against Charlotte."
             },
             {
                 "Player": "Jalen Johnson",
@@ -49,14 +49,20 @@
             {
                 "Player": "Caris LeVert",
                 "Team": "Atlanta Hawks",
-                "Update": "Sun, Mar 16, 2025",
-                "Description": "Out (Knee) - The Hawks listed LeVert as OUT for Sunday's (Mar. 16) game against Brooklyn."
+                "Update": "Mon, Mar 17, 2025",
+                "Description": "Out (Knee) - The Hawks listed LeVert as OUT for Tuesday's (Mar. 18) game against Charlotte."
             },
             {
                 "Player": "Larry Nance Jr.",
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Feb 12, 2025",
                 "Description": "Out (Knee) - The Hawks announced on Wednesday (Feb. 12) that Nance Jr. will be re-evaluated in approximately six weeks, and an update will be provided at that time."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Mon, Mar 17, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as Probable for Tuesday's (Mar. 18) game against Charlotte."
             }
         ],
         "team_stats": {
@@ -112,15 +118,15 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "16",
                 "FG": "8",
                 "FGA": "5",
                 "FG%": "15",
-                "3P": "17",
+                "3P": "18",
                 "3PA": "15",
-                "3P%": "20",
-                "2P": "8",
-                "2PA": "8",
+                "3P%": "21",
+                "2P": "7",
+                "2PA": "7",
                 "2P%": "17",
                 "FT": "2",
                 "FTA": "2",
@@ -132,7 +138,7 @@
                 "STL": "2",
                 "BLK": "9",
                 "TOV": "26",
-                "PF": "16",
+                "PF": "15",
                 "PTS": "5"
             },
             "Year/Year": {
@@ -212,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "16",
                 "FG": "26",
                 "FGA": "21",
                 "FG%": "28",
@@ -222,7 +228,7 @@
                 "2P": "26",
                 "2PA": "19",
                 "2P%": "26",
-                "FT": "22",
+                "FT": "21",
                 "FTA": "17",
                 "FT%": "30",
                 "ORB": "6",
@@ -231,7 +237,7 @@
                 "AST": "26",
                 "STL": "28",
                 "BLK": "16",
-                "TOV": "4",
+                "TOV": "3",
                 "PF": "4",
                 "PTS": "27"
             },
@@ -266,8 +272,8 @@
                 "PW": "29",
                 "PL": "39",
                 "MOV": "-2.57",
-                "SOS": "0.01",
-                "SRS": "-2.56",
+                "SOS": "0.04",
+                "SRS": "-2.54",
                 "ORtg": "113.0",
                 "DRtg": "115.4",
                 "Pace": "103.0",
@@ -298,12 +304,12 @@
                 "TOV%": "4",
                 "ORB%": "11",
                 "FT/FGA": "19",
-                "DRB%": "8",
+                "DRB%": "9",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/ATL-2025.png",
-        "last_update": "Mar 17 2025 22:32:20"
+        "last_update": "Mar 18 2025 22:32:19"
     }
 }

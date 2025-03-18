@@ -30,8 +30,8 @@
             {
                 "Player": "Evan Mobley",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Sun, Mar 16, 2025",
-                "Description": "Day To Day (Foot) - Mobley did not play in Sunday's (Mar. 16) game against the Magic."
+                "Update": "Mon, Mar 17, 2025",
+                "Description": "Day To Day (Foot) - The Cavaliers listed Mobley as Questionable for Tuesday's (Mar. 18) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -87,7 +87,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "29",
                 "FG": "3",
                 "FGA": "9",
                 "FG%": "2",
@@ -95,15 +95,15 @@
                 "3PA": "4",
                 "3P%": "1",
                 "2P": "14",
-                "2PA": "24",
+                "2PA": "23",
                 "2P%": "1",
                 "FT": "10",
-                "FTA": "12",
+                "FTA": "13",
                 "FT%": "11",
                 "ORB": "18",
                 "DRB": "3",
                 "TRB": "8",
-                "AST": "9",
+                "AST": "8",
                 "STL": "12",
                 "BLK": "27",
                 "TOV": "3",
@@ -187,27 +187,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "29",
                 "FG": "10",
                 "FGA": "19",
                 "FG%": "3",
                 "3P": "10",
                 "3PA": "11",
-                "3P%": "14",
+                "3P%": "12",
                 "2P": "14",
                 "2PA": "24",
                 "2P%": "2",
                 "FT": "11",
                 "FTA": "12",
-                "FT%": "10",
-                "ORB": "17",
+                "FT%": "11",
+                "ORB": "16",
                 "DRB": "6",
                 "TRB": "10",
                 "AST": "7",
                 "STL": "9",
                 "BLK": "6",
-                "TOV": "14",
-                "PF": "12",
+                "TOV": "13",
+                "PF": "11",
                 "PTS": "10"
             },
             "Opp Year/Year": {
@@ -241,7 +241,7 @@
                 "PW": "53",
                 "PL": "14",
                 "MOV": "11.00",
-                "SOS": "-0.92",
+                "SOS": "-0.93",
                 "SRS": "10.08",
                 "ORtg": "122.3",
                 "DRtg": "111.3",
@@ -266,9 +266,9 @@
                 "SRS": "2",
                 "ORtg": "1",
                 "DRtg": "5",
-                "Pace": "7",
-                "FTr": "14",
-                "3PAr": "5",
+                "Pace": "6",
+                "FTr": "15",
+                "3PAr": "4",
                 "eFG%": "4",
                 "TOV%": "15",
                 "ORB%": "14",
@@ -279,6 +279,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CLE-2025.png",
-        "last_update": "Mar 17 2025 22:32:20"
+        "last_update": "Mar 18 2025 22:32:19"
     }
 }

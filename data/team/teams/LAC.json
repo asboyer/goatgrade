@@ -29,16 +29,10 @@
         ],
         "injuries": [
             {
-                "Player": "Kris Dunn",
-                "Team": "Los Angeles Clippers",
-                "Update": "Sat, Mar 15, 2025",
-                "Description": "Out (Knee) - The Clippers listed Dunn as OUT for Sunday's (Mar. 16) game against Charlotte."
-            },
-            {
                 "Player": "Jordan Miller",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sat, Mar 15, 2025",
-                "Description": "Out (Hip) - The Clippers listed Miller as OUT for Sunday's (Mar. 16) game against Charlotte."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Hip) - The Clipper listed Miller as OUT for Tuesday's (Mar. 18) game against Cleveland."
             }
         ],
         "team_stats": {
@@ -94,7 +88,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "16",
                 "FG": "18",
                 "FGA": "26",
                 "FG%": "13",
@@ -105,7 +99,7 @@
                 "2PA": "13",
                 "2P%": "15",
                 "FT": "13",
-                "FTA": "17",
+                "FTA": "19",
                 "FT%": "8",
                 "ORB": "22",
                 "DRB": "15",
@@ -194,13 +188,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "16",
                 "FG": "3",
-                "FGA": "4",
-                "FG%": "9",
+                "FGA": "3",
+                "FG%": "10",
                 "3P": "11",
                 "3PA": "13",
-                "3P%": "9",
+                "3P%": "7",
                 "2P": "2",
                 "2PA": "2",
                 "2P%": "18",
@@ -208,13 +202,13 @@
                 "FTA": "10",
                 "FT%": "9",
                 "ORB": "3",
-                "DRB": "11",
+                "DRB": "10",
                 "TRB": "4",
                 "AST": "8",
                 "STL": "24",
                 "BLK": "7",
-                "TOV": "6",
-                "PF": "28",
+                "TOV": "7",
+                "PF": "27",
                 "PTS": "4"
             },
             "Opp Year/Year": {
@@ -248,8 +242,8 @@
                 "PW": "40",
                 "PL": "28",
                 "MOV": "3.00",
-                "SOS": "-0.15",
-                "SRS": "2.85",
+                "SOS": "-0.12",
+                "SRS": "2.88",
                 "ORtg": "113.3",
                 "DRtg": "110.3",
                 "Pace": "97.7",
@@ -269,7 +263,7 @@
                 "PW": "9",
                 "PL": "9",
                 "MOV": "9",
-                "SOS": "18",
+                "SOS": "17",
                 "SRS": "10",
                 "ORtg": "18",
                 "DRtg": "4",
@@ -279,13 +273,13 @@
                 "eFG%": "9",
                 "TOV%": "5",
                 "ORB%": "19",
-                "FT/FGA": "14",
+                "FT/FGA": "15",
                 "DRB%": "5",
                 "Arena": "",
-                "Attendance": "27"
+                "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAC-2025.png",
-        "last_update": "Mar 17 2025 22:32:20"
+        "last_update": "Mar 18 2025 22:32:19"
     }
 }
