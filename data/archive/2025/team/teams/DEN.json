@@ -31,8 +31,14 @@
             {
                 "Player": "Christian Braun",
                 "Team": "Denver Nuggets",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Foot) - The Nuggets listed Braun as OUT for Monday's (Mar. 17) game against the Warriors."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Foot) - The Nuggets have listed Braun as Questionable for Wednesday's (Mar. 19) game against the Lakers."
+            },
+            {
+                "Player": "Aaron Gordon",
+                "Team": "Denver Nuggets",
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Calf) - The Nuggets have listed Gordon as Probable for Wednesday's (Mar. 19) game against the Lakers."
             },
             {
                 "Player": "DaRon Holmes",
@@ -43,14 +49,14 @@
             {
                 "Player": "Nikola Jokić",
                 "Team": "Denver Nuggets",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Elbow) - The Nuggets listed Jokic as OUT for Monday's (Mar. 17) game against the Warriors."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Elbow) - The Nuggets have listed Jokic as Questionable for Wednesday's (Mar. 19) game against the Lakers."
             },
             {
                 "Player": "Jamal Murray",
                 "Team": "Denver Nuggets",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Ankle) - The Nuggets listed Murray as OUT for Monday's (Mar. 17) game against the Warriors."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets have listed Murray as Questionable for Wednesday's (Mar. 19) game against the Lakers."
             },
             {
                 "Player": "Julian Strawther",
@@ -126,11 +132,11 @@
                 "FTA": "7",
                 "FT%": "20",
                 "ORB": "10",
-                "DRB": "4",
+                "DRB": "3",
                 "TRB": "5",
                 "AST": "1",
                 "STL": "14",
-                "BLK": "18",
+                "BLK": "17",
                 "TOV": "16",
                 "PF": "6",
                 "PTS": "3"
@@ -215,7 +221,7 @@
                 "MP": "3",
                 "FG": "24",
                 "FGA": "29",
-                "FG%": "14",
+                "FG%": "13",
                 "3P": "23",
                 "3PA": "20",
                 "3P%": "21",
@@ -223,7 +229,7 @@
                 "2PA": "28",
                 "2P%": "12",
                 "FT": "7",
-                "FTA": "8",
+                "FTA": "7",
                 "FT%": "14",
                 "ORB": "22",
                 "DRB": "1",
@@ -232,7 +238,7 @@
                 "STL": "22",
                 "BLK": "20",
                 "TOV": "25",
-                "PF": "13",
+                "PF": "12",
                 "PTS": "24"
             },
             "Opp Year/Year": {
@@ -267,7 +273,7 @@
                 "PL": "26",
                 "MOV": "4.42",
                 "SOS": "-0.06",
-                "SRS": "4.36",
+                "SRS": "4.37",
                 "ORtg": "120.1",
                 "DRtg": "115.7",
                 "Pace": "100.1",
@@ -289,8 +295,8 @@
                 "MOV": "7",
                 "SOS": "15",
                 "SRS": "7",
-                "ORtg": "3",
-                "DRtg": "20",
+                "ORtg": "2",
+                "DRtg": "19",
                 "Pace": "5",
                 "FTr": "10",
                 "3PAr": "30",
@@ -300,10 +306,10 @@
                 "FT/FGA": "4",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "6"
+                "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DEN-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

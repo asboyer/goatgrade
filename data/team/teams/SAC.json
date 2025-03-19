@@ -25,7 +25,14 @@
             "Mason Jones",
             "Jae Crowder"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Domantas Sabonis",
+                "Team": "Sacramento Kings",
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Ankle) - Sabonis will miss at least 10 days due to a sprained right ankle, according to Shams Charania of ESPN."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "67",
@@ -79,20 +86,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "25",
                 "FG": "7",
                 "FGA": "7",
                 "FG%": "10",
                 "3P": "24",
                 "3PA": "21",
-                "3P%": "20",
+                "3P%": "21",
                 "2P": "4",
-                "2PA": "8",
+                "2PA": "7",
                 "2P%": "9",
                 "FT": "10",
                 "FTA": "18",
                 "FT%": "4",
-                "ORB": "15",
+                "ORB": "14",
                 "DRB": "13",
                 "TRB": "14",
                 "AST": "12",
@@ -100,7 +107,7 @@
                 "BLK": "23",
                 "TOV": "7",
                 "PF": "17",
-                "PTS": "9"
+                "PTS": "8"
             },
             "Year/Year": {
                 "G": "",
@@ -179,9 +186,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "25",
                 "FG": "17",
-                "FGA": "10",
+                "FGA": "9",
                 "FG%": "21",
                 "3P": "29",
                 "3PA": "18",
@@ -193,7 +200,7 @@
                 "FTA": "21",
                 "FT%": "23",
                 "ORB": "2",
-                "DRB": "14",
+                "DRB": "13",
                 "TRB": "7",
                 "AST": "20",
                 "STL": "14",
@@ -233,8 +240,8 @@
                 "PW": "35",
                 "PL": "32",
                 "MOV": "0.91",
-                "SOS": "-0.20",
-                "SRS": "0.71",
+                "SOS": "-0.18",
+                "SRS": "0.74",
                 "ORtg": "116.5",
                 "DRtg": "115.6",
                 "Pace": "98.8",
@@ -254,10 +261,10 @@
                 "PW": "15",
                 "PL": "15",
                 "MOV": "15",
-                "SOS": "21",
+                "SOS": "19",
                 "SRS": "14",
                 "ORtg": "7",
-                "DRtg": "19",
+                "DRtg": "18",
                 "Pace": "17",
                 "FTr": "20",
                 "3PAr": "24",
@@ -267,10 +274,10 @@
                 "FT/FGA": "23",
                 "DRB%": "2",
                 "Arena": "",
-                "Attendance": "27"
+                "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/SAC-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

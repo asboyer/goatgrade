@@ -41,16 +41,16 @@
                 "Description": "Out For Season (Shoulder) - New Orleans VP Griffin said Tuesday (Feb. 11) that he expects Jones to miss the remainder of the season, according to Will Guillory of The Athletic."
             },
             {
+                "Player": "Trey Murphy III",
+                "Team": "New Orleans Pelicans",
+                "Update": "Mon, Mar 17, 2025",
+                "Description": "Out For Season (Shoulder) - The Pelicans announced on Monday (Mar. 17) that Murphy III has been diagnosed with a torn labrum and partial tear of the rotator cuff in his right shoulder and will miss the remainder of the 2024-25 season."
+            },
+            {
                 "Player": "Dejounte Murray",
                 "Team": "New Orleans Pelicans",
                 "Update": "Fri, Jan 31, 2025",
                 "Description": "Out For Season (Leg) - Murray suffered a torn right Achilles tendon during Friday's (Jan. 31) game against the Celtics and will now miss the rest of the season, per Shams Charania of ESPN.com."
-            },
-            {
-                "Player": "Zion Williamson",
-                "Team": "New Orleans Pelicans",
-                "Update": "Sun, Mar 16, 2025",
-                "Description": "Day To Day (Personal) - The Pelicans listed Williamson as Questionable for Monday's (Mar. 17) game against the Pistons."
             }
         ],
         "team_stats": {
@@ -106,10 +106,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "11",
                 "FG": "21",
                 "FGA": "8",
-                "FG%": "26",
+                "FG%": "25",
                 "3P": "28",
                 "3PA": "26",
                 "3P%": "26",
@@ -206,9 +206,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "11",
                 "FG": "29",
-                "FGA": "22",
+                "FGA": "23",
                 "FG%": "29",
                 "3P": "28",
                 "3PA": "29",
@@ -224,7 +224,7 @@
                 "TRB": "28",
                 "AST": "28",
                 "STL": "21",
-                "BLK": "23",
+                "BLK": "22",
                 "TOV": "16",
                 "PF": "26",
                 "PTS": "26"
@@ -260,8 +260,8 @@
                 "PW": "18",
                 "PL": "51",
                 "MOV": "-8.71",
-                "SOS": "0.77",
-                "SRS": "-7.94",
+                "SOS": "0.78",
+                "SRS": "-7.93",
                 "ORtg": "110.8",
                 "DRtg": "119.5",
                 "Pace": "99.2",
@@ -282,7 +282,7 @@
                 "PL": "29",
                 "MOV": "29",
                 "SOS": "1",
-                "SRS": "29",
+                "SRS": "28",
                 "ORtg": "25",
                 "DRtg": "30",
                 "Pace": "14",
@@ -298,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NOP-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

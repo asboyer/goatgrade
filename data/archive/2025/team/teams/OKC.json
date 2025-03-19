@@ -32,13 +32,25 @@
                 "Player": "Ousmane Dieng",
                 "Team": "Oklahoma City Thunder",
                 "Update": "Tue, Mar 18, 2025",
-                "Description": "Day To Day (Calf) - Dieng did not play in Sunday's (Mar. 16) game against the Bucks."
+                "Description": "Out (Calf) - The Thunder have listed Dieng as OUT for Wednesday's (Mar. 19) game against the 76ers."
             },
             {
                 "Player": "Luguentz Dort",
                 "Team": "Oklahoma City Thunder",
                 "Update": "Tue, Mar 18, 2025",
-                "Description": "Day To Day (Groin) - Dort did not play in Sunday's (Mar. 16) game against the Bucks."
+                "Description": "Out (Groin) - The Thunder have listed Dort as OUT for Wednesday's (Mar. 19) game against the 76ers."
+            },
+            {
+                "Player": "Shai Gilgeous-Alexander",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Rest) - The Thunder have listed Gilgeous-Alexander as OUT for Wednesday's (Mar. 19) game against the 76ers."
+            },
+            {
+                "Player": "Isaiah Hartenstein",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Back) - The Thunder have listed Hartenstein as Questionable for Wednesday's (Mar. 19) game against the 76ers."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -53,10 +65,16 @@
                 "Description": "Out For Season (ACL) - Topic was spotted taking part in light shooting drills on the court prior to the Thunder's 105-92 win over the Celtics last Sunday (Jan. 12), as per Clemente Almanza of USA Today."
             },
             {
+                "Player": "Cason Wallace",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Shoulder) - The Thunder have listed Wallace as Questionable for Wednesday's (Mar. 19) game against the 76ers."
+            },
+            {
                 "Player": "Jalen Williams",
                 "Team": "Oklahoma City Thunder",
                 "Update": "Tue, Mar 18, 2025",
-                "Description": "Day To Day (Hip) - Williams did not play in Sunday's (Mar. 16) game against the Bucks."
+                "Description": "Out (Hip) - The Thunder have listed Williams as OUT for Wednesday's (Mar. 19) game against the 76ers."
             }
         ],
         "team_stats": {
@@ -112,12 +130,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "22",
                 "FG": "4",
                 "FGA": "3",
                 "FG%": "8",
                 "3P": "7",
-                "3PA": "10",
+                "3PA": "11",
                 "3P%": "11",
                 "2P": "6",
                 "2PA": "10",
@@ -212,11 +230,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "22",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
-                "3P": "9",
+                "3P": "8",
                 "3PA": "23",
                 "3P%": "1",
                 "2P": "1",
@@ -232,7 +250,7 @@
                 "STL": "1",
                 "BLK": "14",
                 "TOV": "1",
-                "PF": "23",
+                "PF": "22",
                 "PTS": "2"
             },
             "Opp Year/Year": {
@@ -266,8 +284,8 @@
                 "PW": "56",
                 "PL": "12",
                 "MOV": "12.44",
-                "SOS": "0.04",
-                "SRS": "12.48",
+                "SOS": "0.05",
+                "SRS": "12.49",
                 "ORtg": "119.7",
                 "DRtg": "107.2",
                 "Pace": "99.8",
@@ -291,8 +309,8 @@
                 "SRS": "1",
                 "ORtg": "4",
                 "DRtg": "1",
-                "Pace": "10",
-                "FTr": "28",
+                "Pace": "9",
+                "FTr": "29",
                 "3PAr": "15",
                 "eFG%": "1",
                 "TOV%": "2",
@@ -304,6 +322,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/OKC-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

@@ -29,10 +29,16 @@
         ],
         "injuries": [
             {
+                "Player": "Luka Dončić",
+                "Team": "Los Angeles Lakers",
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Ankle) - The Lakers have listed Doncic as Probable for Wednesday's (Mar. 19) game against the Nuggets."
+            },
+            {
                 "Player": "Rui Hachimura",
                 "Team": "Los Angeles Lakers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Knee) - The Lakers listed Hachimura as Out for Monday's (Mar. 17) game against the Spurs."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Knee) - The Lakers have listed Hachimura as OUT for Wednesday's (Mar. 19) game against the Nuggets."
             },
             {
                 "Player": "LeBron James",
@@ -43,8 +49,8 @@
             {
                 "Player": "Trey Jemison",
                 "Team": "Los Angeles Lakers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Illness) - The Lakers listed Jemison III as Out for Monday's (Mar. 17) game against the Spurs."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Illness) - The Lakers have listed Jemison III as Questionable for Wednesday's (Mar. 19) game against the Nuggets."
             },
             {
                 "Player": "Maxi Kleber",
@@ -106,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "28",
                 "FG": "19",
                 "FGA": "29",
                 "FG%": "9",
@@ -206,14 +212,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "26",
-                "FG": "12",
+                "MP": "28",
+                "FG": "11",
                 "FGA": "16",
                 "FG%": "9",
                 "3P": "13",
                 "3PA": "17",
                 "3P%": "3",
-                "2P": "11",
+                "2P": "12",
                 "2PA": "14",
                 "2P%": "15",
                 "FT": "6",
@@ -260,8 +266,8 @@
                 "PW": "37",
                 "PL": "30",
                 "MOV": "1.64",
-                "SOS": "-0.16",
-                "SRS": "1.49",
+                "SOS": "-0.15",
+                "SRS": "1.50",
                 "ORtg": "115.3",
                 "DRtg": "113.7",
                 "Pace": "97.7",
@@ -291,13 +297,13 @@
                 "eFG%": "8",
                 "TOV%": "20",
                 "ORB%": "24",
-                "FT/FGA": "7",
+                "FT/FGA": "6",
                 "DRB%": "13",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAL-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

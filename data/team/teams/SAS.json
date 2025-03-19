@@ -31,8 +31,8 @@
             {
                 "Player": "Charles Bassey",
                 "Team": "San Antonio Spurs",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Knee) - The Spurs listed Bassey as Out for Monday's (Mar. 17) game against the Lakers."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Knee) - The Spurs listed Bassey as Out for Wednesday's (Mar. 19) game against the Knicks,"
             },
             {
                 "Player": "De'Aaron Fox",
@@ -43,8 +43,8 @@
             {
                 "Player": "Jordan McLaughlin",
                 "Team": "San Antonio Spurs",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Achilles) - The Spurs listed McLaughlin as OUT for Monday's (Mar. 17) game against the Lakers."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Achilles) - The Spurs listed McLaughlin as Questionable for Wednesday's (Mar. 19) game against the Knicks,"
             },
             {
                 "Player": "Victor Wembanyama",
@@ -106,10 +106,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "28",
                 "FG": "13",
-                "FGA": "15",
-                "FG%": "14",
+                "FGA": "14",
+                "FG%": "15",
                 "3P": "9",
                 "3PA": "6",
                 "3P%": "18",
@@ -206,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "28",
                 "FG": "28",
                 "FGA": "28",
                 "FG%": "25",
@@ -220,7 +220,7 @@
                 "FTA": "3",
                 "FT%": "26",
                 "ORB": "28",
-                "DRB": "25",
+                "DRB": "24",
                 "TRB": "27",
                 "AST": "23",
                 "STL": "15",
@@ -260,8 +260,8 @@
                 "PW": "28",
                 "PL": "39",
                 "MOV": "-2.49",
-                "SOS": "0.01",
-                "SRS": "-2.48",
+                "SOS": "0.02",
+                "SRS": "-2.47",
                 "ORtg": "114.5",
                 "DRtg": "117.0",
                 "Pace": "99.4",
@@ -280,9 +280,9 @@
                 "L": "8",
                 "PW": "21",
                 "PL": "20",
-                "MOV": "20",
-                "SOS": "14",
-                "SRS": "20",
+                "MOV": "21",
+                "SOS": "13",
+                "SRS": "21",
                 "ORtg": "15",
                 "DRtg": "25",
                 "Pace": "12",
@@ -294,10 +294,10 @@
                 "FT/FGA": "1",
                 "DRB%": "25",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/SAS-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

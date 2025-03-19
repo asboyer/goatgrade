@@ -48,8 +48,8 @@
             {
                 "Player": "Jaden Hardy",
                 "Team": "Dallas Mavericks",
-                "Update": "Sun, Mar 16, 2025",
-                "Description": "Day To Day (Ankle) - Hardy did not play in Sunday's (Mar. 16) game against the 76ers."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Ankle) - The Mavericks listed Hardy as Questionable on Wednesday's (Mar. 19) game against the Pacers."
             },
             {
                 "Player": "Kyrie Irving",
@@ -60,8 +60,8 @@
             {
                 "Player": "Kai Jones",
                 "Team": "Dallas Mavericks",
-                "Update": "Sun, Mar 16, 2025",
-                "Description": "Day To Day (Quadriceps) - Jones did not play in Sunday's (Mar. 16) game against the 76ers."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Quadriceps) - The Mavericks listed Jones as Questionable on Wednesday's (Mar. 19) game against the Pacers."
             },
             {
                 "Player": "Dereck Lively II",
@@ -72,14 +72,20 @@
             {
                 "Player": "Caleb Martin",
                 "Team": "Dallas Mavericks",
-                "Update": "Sun, Mar 16, 2025",
-                "Description": "Day To Day (Hip) - Martin did not play in Sunday's (Mar. 16) game against the 76ers."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Hip) - The Mavericks listed Martin as Out on Wednesday's (Mar. 19) game against the Pacers."
             },
             {
                 "Player": "Olivier-Maxence Prosper",
                 "Team": "Dallas Mavericks",
                 "Update": "Thu, Mar 13, 2025",
                 "Description": "Out For Season (Wrist) - The Mavericks announced on Thursday (Mar. 13) that Prosper has been ruled out for the remainder of the 2024-25 season after undergoing surgery to repair a right wrist injury."
+            },
+            {
+                "Player": "Brandon Williams",
+                "Team": "Dallas Mavericks",
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Hamstring) - The Mavericks listed Williams as Questionable on Wednesday's (Mar. 19) game against the Pacers."
             }
         ],
         "team_stats": {
@@ -135,11 +141,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "14",
                 "FG": "12",
                 "FGA": "20",
-                "FG%": "12",
-                "3P": "17",
+                "FG%": "13",
+                "3P": "18",
                 "3PA": "23",
                 "3P%": "9",
                 "2P": "11",
@@ -152,11 +158,11 @@
                 "DRB": "20",
                 "TRB": "22",
                 "AST": "22",
-                "STL": "22",
+                "STL": "21",
                 "BLK": "5",
                 "TOV": "11",
                 "PF": "9",
-                "PTS": "13"
+                "PTS": "12"
             },
             "Year/Year": {
                 "G": "",
@@ -235,7 +241,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "14",
                 "FG": "23",
                 "FGA": "24",
                 "FG%": "16",
@@ -245,7 +251,7 @@
                 "2P": "29",
                 "2PA": "30",
                 "2P%": "8",
-                "FT": "12",
+                "FT": "11",
                 "FTA": "11",
                 "FT%": "16",
                 "ORB": "29",
@@ -289,7 +295,7 @@
                 "PW": "34",
                 "PL": "35",
                 "MOV": "-0.43",
-                "SOS": "0.58",
+                "SOS": "0.57",
                 "SRS": "0.14",
                 "ORtg": "115.3",
                 "DRtg": "115.8",
@@ -327,6 +333,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DAL-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

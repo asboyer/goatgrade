@@ -2,7 +2,7 @@
     "IND": {
         "info": {
             "record": "38-29",
-            "standing": "5th in East",
+            "standing": "4th in East",
             "coach": "Rick Carlisle (38-29)",
             "gm": "Kevin Pritchard",
             "preseason_odds": "+5000"
@@ -31,14 +31,14 @@
             {
                 "Player": "Johnny Furphy",
                 "Team": "Indiana Pacers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Illness) - The Pacers listed Furphy as OUT for Monday's (Mar. 17) game against Minnesota."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Illness) - The Pacers listed Furphy as Questionable on Wednesday's (Mar. 19) game against the Timberwolves."
             },
             {
                 "Player": "Tyrese Haliburton",
                 "Team": "Indiana Pacers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Back) - The Pacers listed Haliburton as OUT for Monday's (Mar. 17) game against Minnesota."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Back) - The Pacers listed Haliburton as Questionable on Wednesday's (Mar. 19) game against the Timberwolves."
             },
             {
                 "Player": "Isaiah Jackson",
@@ -49,20 +49,20 @@
             {
                 "Player": "Aaron Nesmith",
                 "Team": "Indiana Pacers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Ankle) - The Pacers listed Nesmith as OUT for Monday's (Mar. 17) game against the Timberwolves."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Ankle) - Nesmith did not play in Monday's (Mar. 17) game against the Timberwolves."
             },
             {
                 "Player": "Pascal Siakam",
                 "Team": "Indiana Pacers",
-                "Update": "Sun, Mar 16, 2025",
-                "Description": "Out (Personal) - The Pacers listed Siakam as OUT for Monday's (Mar. 17) game against Minnesota."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Personal) - The Pacers listed Siakam as Questionable on Wednesday's (Mar. 19) game against the Timberwolves."
             },
             {
-                "Player": "Myles Turner",
+                "Player": "Jarace Walker",
                 "Team": "Indiana Pacers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Hip) - The Pacers listed Turner as OUT for Monday's (Mar. 17) game against the Timberwolves."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Ankle) - The Pacers listed Walker as Questionable on Wednesday's (Mar. 19) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -118,19 +118,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "27",
                 "FG": "6",
                 "FGA": "19",
                 "FG%": "3",
-                "3P": "16",
+                "3P": "17",
                 "3PA": "24",
-                "3P%": "8",
+                "3P%": "7",
                 "2P": "5",
                 "2PA": "11",
                 "2P%": "3",
                 "FT": "22",
-                "FTA": "23",
-                "FT%": "12",
+                "FTA": "22",
+                "FT%": "11",
                 "ORB": "29",
                 "DRB": "25",
                 "TRB": "29",
@@ -139,7 +139,7 @@
                 "BLK": "12",
                 "TOV": "5",
                 "PF": "16",
-                "PTS": "8"
+                "PTS": "7"
             },
             "Year/Year": {
                 "G": "",
@@ -218,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "27",
                 "FG": "22",
                 "FGA": "16",
                 "FG%": "26",
@@ -227,7 +227,7 @@
                 "3P%": "11",
                 "2P": "27",
                 "2PA": "23",
-                "2P%": "24",
+                "2P%": "23",
                 "FT": "20",
                 "FTA": "20",
                 "FT%": "12",
@@ -272,8 +272,8 @@
                 "PW": "36",
                 "PL": "31",
                 "MOV": "1.04",
-                "SOS": "-0.53",
-                "SRS": "0.51",
+                "SOS": "-0.54",
+                "SRS": "0.50",
                 "ORtg": "116.1",
                 "DRtg": "115.1",
                 "Pace": "99.8",
@@ -288,8 +288,8 @@
                 "Attendance": "503,695"
             },
             "Misc Lg Rank": {
-                "W": "11",
-                "L": "20",
+                "W": "12",
+                "L": "21",
                 "PW": "14",
                 "PL": "14",
                 "MOV": "14",
@@ -297,7 +297,7 @@
                 "SRS": "15",
                 "ORtg": "9",
                 "DRtg": "15",
-                "Pace": "11",
+                "Pace": "10",
                 "FTr": "23",
                 "3PAr": "22",
                 "eFG%": "23",
@@ -310,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/IND-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

@@ -37,26 +37,26 @@
             {
                 "Player": "Toumani Camara",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Calf) - The Trail Blazers listed Camara as OUT for Monday's (Mar. 17) game against the Wizards."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Calf) - The Trail Blazers have listed Camara as Questionable for Wednesday's (Mar. 19) game against the Grizzlies."
             },
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Knee) - The Trail Blazers listed Grant as OUT for Monday's (Mar. 17) game against the Wizards."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Knee) - The Trail Blazers have listed Grant as Doubtful for Wednesday's (Mar. 19) game against the Grizzlies."
             },
             {
                 "Player": "Jabari Walker",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Concussion) - The Trail Blazers listed Walker as Out for Monday's (Mar. 17) game against the Wizards."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Concussion) - The Trail Blazers have listed Walker as OUT for Wednesday's (Mar. 19) game against the Grizzlies."
             },
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Knee) - The Trail Blazers listed Williams III as Out for Monday's (Mar. 17) game against the Wizards."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Knee) - The Trail Blazers have listed Williams III as OUT for Wednesday's (Mar. 19) game against the Grizzlies."
             }
         ],
         "team_stats": {
@@ -112,17 +112,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "11",
                 "FG": "23",
                 "FGA": "18",
                 "FG%": "23",
                 "3P": "20",
                 "3PA": "16",
                 "3P%": "27",
-                "2P": "18",
+                "2P": "17",
                 "2PA": "14",
                 "2P%": "24",
-                "FT": "14",
+                "FT": "15",
                 "FTA": "12",
                 "FT%": "25",
                 "ORB": "3",
@@ -130,7 +130,7 @@
                 "TRB": "15",
                 "AST": "27",
                 "STL": "16",
-                "BLK": "8",
+                "BLK": "9",
                 "TOV": "28",
                 "PF": "20",
                 "PTS": "23"
@@ -212,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "11",
                 "FG": "16",
                 "FGA": "13",
                 "FG%": "19",
@@ -220,17 +220,17 @@
                 "3PA": "4",
                 "3P%": "18",
                 "2P": "21",
-                "2PA": "20",
+                "2PA": "21",
                 "2P%": "16",
                 "FT": "24",
                 "FTA": "23",
                 "FT%": "28",
                 "ORB": "27",
-                "DRB": "9",
-                "TRB": "16",
+                "DRB": "10",
+                "TRB": "17",
                 "AST": "13",
                 "STL": "29",
-                "BLK": "23",
+                "BLK": "22",
                 "TOV": "9",
                 "PF": "8",
                 "PTS": "16"
@@ -266,7 +266,7 @@
                 "PW": "27",
                 "PL": "42",
                 "MOV": "-3.62",
-                "SOS": "0.22",
+                "SOS": "0.23",
                 "SRS": "-3.40",
                 "ORtg": "111.5",
                 "DRtg": "115.1",
@@ -304,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/POR-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

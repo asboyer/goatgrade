@@ -37,8 +37,8 @@
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Sun, Mar 16, 2025",
-                "Description": "Out (Ankle) - The Wizards listed Brogdon as OUT for Monday's (Mar. 17) game against Portland."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Ankle) - The Wizards have listed Brogdon as OUT for Wednesday's (Mar. 19) game against the Jazz."
             },
             {
                 "Player": "Bilal Coulibaly",
@@ -47,16 +47,34 @@
                 "Description": "Out (Hamstring) - The Wizards said on Thursday (Mar. 13) that Coulibaly will be out approximately four-to-six weeks following a right hamstring injury sustained in the first quarter of Monday's (Mar. 10) game against Toronto."
             },
             {
+                "Player": "Kyshawn George",
+                "Team": "Washington Wizards",
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Knee) - The Wizards have listed George as Questionable for Wednesday's (Mar. 19) game against the Jazz."
+            },
+            {
                 "Player": "Corey Kispert",
                 "Team": "Washington Wizards",
-                "Update": "Sun, Mar 16, 2025",
-                "Description": "Out (Thumb) - The Wizards listed Kispert as OUT for Monday's (Mar. 17) game against Portland."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out For Season (Thumb) - Kispert underwent successful surgery on his left thumb Tuesday (Mar. 18) and is expected to make a full recovery and be ready for the start of next season."
+            },
+            {
+                "Player": "Khris Middleton",
+                "Team": "Washington Wizards",
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Ankle) - The Wizards have listed Middleton as OUT for Wednesday's (Mar. 19) game against the Jazz."
+            },
+            {
+                "Player": "Jordan Poole",
+                "Team": "Washington Wizards",
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Elbow) - The Wizards have listed Poole as Doubtful for Wednesday's (Mar. 19) game against the Jazz."
             },
             {
                 "Player": "Marcus Smart",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Illness) - The Wizards listed Smart as OUT for Monday's (Mar. 17) game against Portland."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Illness) - The Wizards have listed Smart as OUT for Wednesday's (Mar. 19) game against the Jazz."
             }
         ],
         "team_stats": {
@@ -112,7 +130,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "28",
                 "FG": "26",
                 "FGA": "10",
                 "FG%": "29",
@@ -212,13 +230,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "28",
                 "FG": "25",
                 "FGA": "27",
                 "FG%": "20",
                 "3P": "27",
                 "3PA": "24",
-                "3P%": "23",
+                "3P%": "24",
                 "2P": "25",
                 "2PA": "26",
                 "2P%": "19",
@@ -266,8 +284,8 @@
                 "PW": "13",
                 "PL": "54",
                 "MOV": "-11.79",
-                "SOS": "0.60",
-                "SRS": "-11.19",
+                "SOS": "0.59",
+                "SRS": "-11.21",
                 "ORtg": "107.0",
                 "DRtg": "118.6",
                 "Pace": "101.3",
@@ -287,13 +305,13 @@
                 "PW": "30",
                 "PL": "30",
                 "MOV": "30",
-                "SOS": "3",
+                "SOS": "4",
                 "SRS": "30",
                 "ORtg": "30",
                 "DRtg": "28",
                 "Pace": "4",
                 "FTr": "26",
-                "3PAr": "12",
+                "3PAr": "11",
                 "eFG%": "21",
                 "TOV%": "25",
                 "ORB%": "23",
@@ -304,6 +322,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/WAS-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

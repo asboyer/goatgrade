@@ -31,26 +31,32 @@
             {
                 "Player": "Santi Aldama",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Mar 15, 2025",
-                "Description": "Day To Day (Calf) - Aldama did not play on Saturday's (Mar. 15) game against the Heat."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Calf) - The Grizzlies have listed Aldama as Questionable for Wednesday's (Mar. 19) game against the Trail Blazers."
             },
             {
                 "Player": "Ja Morant",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Mar 15, 2025",
-                "Description": "Day To Day (Shoulder) - Morant did not play on Saturday's (Mar. 15) game against the Heat."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Shoulder) - The Grizzlies have listed Morant as OUT for Wednesday's (Mar. 19) game against the Trail Blazers."
+            },
+            {
+                "Player": "Scotty Pippen Jr.",
+                "Team": "Memphis Grizzlies",
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Wrist) - The Grizzlies have listed Pippen Jr. as Questionable for Wednesday's (Mar. 19) game against the Trail Blazers."
             },
             {
                 "Player": "Zyon Pullin",
                 "Team": "Memphis Grizzlies",
-                "Update": "Tue, Mar 11, 2025",
-                "Description": "Out (Knee) - The Grizzlies announced on Tuesday (Mar. 11) that Pullin's timetable for returning after surgery is unclear due to lingering right knee patellar tendinopathy and is considered week-to-week."
+                "Update": "Sun, Mar 16, 2025",
+                "Description": "Out (Knee) - The Team announced that Pullin will remain out of the lineup Monday (Mar. 17) as he recovers from right patellar tendon surgery. It is unclear when he is expected to return to action."
             },
             {
-                "Player": "Vince Williams Jr.",
+                "Player": "Lamar Stevens",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sat, Mar 15, 2025",
-                "Description": "Day To Day (Ankle) - Williams Jr. did not play on Saturday's (Mar. 15) game against the Heat."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Shoulder) - The Grizzlies have listed Stevens as OUT for Wednesday's (Mar. 19) game against the Trail Blazers."
             }
         ],
         "team_stats": {
@@ -106,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "16",
                 "FG": "2",
                 "FGA": "2",
                 "FG%": "5",
@@ -120,7 +126,7 @@
                 "FTA": "1",
                 "FT%": "16",
                 "ORB": "2",
-                "DRB": "5",
+                "DRB": "4",
                 "TRB": "2",
                 "AST": "6",
                 "STL": "6",
@@ -206,13 +212,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "16",
                 "FG": "20",
                 "FGA": "25",
                 "FG%": "6",
                 "3P": "24",
                 "3PA": "26",
-                "3P%": "14",
+                "3P%": "13",
                 "2P": "17",
                 "2PA": "22",
                 "2P%": "5",
@@ -221,7 +227,7 @@
                 "FT%": "2",
                 "ORB": "24",
                 "DRB": "3",
-                "TRB": "11",
+                "TRB": "10",
                 "AST": "22",
                 "STL": "23",
                 "BLK": "26",
@@ -261,7 +267,7 @@
                 "PL": "23",
                 "MOV": "5.87",
                 "SOS": "-0.30",
-                "SRS": "5.57",
+                "SRS": "5.58",
                 "ORtg": "118.2",
                 "DRtg": "112.5",
                 "Pace": "103.7",
@@ -294,10 +300,10 @@
                 "FT/FGA": "22",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MEM-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

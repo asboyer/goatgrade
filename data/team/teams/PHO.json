@@ -31,14 +31,20 @@
             {
                 "Player": "Grayson Allen",
                 "Team": "Phoenix Suns",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Foot) - The Suns listed Allen as Out for Monday's (Mar. 17) game against the Raptors."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Foot) - The Suns have listed Allen as OUT for Wednesday's (Mar. 19) game against the Bulls."
             },
             {
                 "Player": "Bradley Beal",
                 "Team": "Phoenix Suns",
                 "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Hamstring) - The Suns listed Beal as Out for Monday's (Mar. 17) game against the Raptors."
+                "Description": "Out (Hamstring) - Beal will be re-evaluated in one week, per Duane Rankin of The Arizona Republic."
+            },
+            {
+                "Player": "Mason Plumlee",
+                "Team": "Phoenix Suns",
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Quadriceps) - The Suns have listed Plumlee as OUT for Wednesday's (Mar. 19) game against the Bulls."
             }
         ],
         "team_stats": {
@@ -113,8 +119,8 @@
                 "AST": "10",
                 "STL": "29",
                 "BLK": "15",
-                "TOV": "15",
-                "PF": "11",
+                "TOV": "14",
+                "PF": "12",
                 "PTS": "14"
             },
             "Year/Year": {
@@ -196,20 +202,20 @@
                 "G": "",
                 "MP": "2",
                 "FG": "21",
-                "FGA": "20",
+                "FGA": "21",
                 "FG%": "12",
                 "3P": "22",
                 "3PA": "21",
                 "3P%": "17",
                 "2P": "19",
-                "2PA": "15",
+                "2PA": "16",
                 "2P%": "17",
-                "FT": "18",
+                "FT": "19",
                 "FTA": "19",
                 "FT%": "21",
                 "ORB": "23",
                 "DRB": "12",
-                "TRB": "17",
+                "TRB": "18",
                 "AST": "18",
                 "STL": "18",
                 "BLK": "3",
@@ -248,8 +254,8 @@
                 "PW": "32",
                 "PL": "37",
                 "MOV": "-1.36",
-                "SOS": "-0.28",
-                "SRS": "-1.64",
+                "SOS": "-0.26",
+                "SRS": "-1.62",
                 "ORtg": "116.5",
                 "DRtg": "117.9",
                 "Pace": "97.3",
@@ -264,7 +270,7 @@
                 "Attendance": "563,343"
             },
             "Misc Lg Rank": {
-                "W": "17",
+                "W": "18",
                 "L": "12",
                 "PW": "17",
                 "PL": "17",
@@ -286,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHO-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

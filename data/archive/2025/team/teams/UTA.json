@@ -41,22 +41,28 @@
                 "Description": "Out For Season (Fibula) - Hendricks underwent surgery on Wednesday (Nov. 6) to repair a fractured right fibula and dislocated right ankle, per Andy Larsen of The Salt Lake Tribune."
             },
             {
-                "Player": "KJ Martin",
+                "Player": "Walker Kessler",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Elbow) - The Jazz listed Martin as Out for Monday's (Mar. 17) game against the Bulls."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Rest) - The Jazz listed Kessler as Out on Wednesday's (Mar. 19) game against the Wizards."
             },
             {
-                "Player": "Collin Sexton",
+                "Player": "KJ Martin",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Rest) - The Jazz listed Sexton as Out for Monday's (Mar. 17) game against the Bulls."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Elbow) - The Jazz listed Martin as Out on Wednesday's (Mar. 19) game against the Wizards."
+            },
+            {
+                "Player": "Svi Mykhailiuk",
+                "Team": "Utah Jazz",
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Foot) - The Jazz listed Mykhailiuk as Out on Wednesday's (Mar. 19) game against the Wizards."
             },
             {
                 "Player": "Jaden Springer",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Back) - The Jazz listed Springer as Out for Monday's (Mar. 17) game against the Bulls."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Back) - The Jazz listed Springer as Out on Wednesday's (Mar. 19) game against the Wizards."
             }
         ],
         "team_stats": {
@@ -112,13 +118,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "24",
                 "FGA": "21",
                 "FG%": "21",
                 "3P": "10",
-                "3PA": "9",
-                "3P%": "19",
+                "3PA": "8",
+                "3P%": "20",
                 "2P": "23",
                 "2PA": "24",
                 "2P%": "18",
@@ -130,7 +136,7 @@
                 "TRB": "3",
                 "AST": "19",
                 "STL": "30",
-                "BLK": "21",
+                "BLK": "22",
                 "TOV": "30",
                 "PF": "18",
                 "PTS": "20"
@@ -212,17 +218,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "6",
                 "FG": "27",
                 "FGA": "26",
                 "FG%": "24",
                 "3P": "30",
                 "3PA": "30",
-                "3P%": "13",
+                "3P%": "12",
                 "2P": "22",
                 "2PA": "13",
                 "2P%": "28",
-                "FT": "17",
+                "FT": "18",
                 "FTA": "22",
                 "FT%": "4",
                 "ORB": "20",
@@ -266,8 +272,8 @@
                 "PW": "20",
                 "PL": "49",
                 "MOV": "-7.62",
-                "SOS": "0.48",
-                "SRS": "-7.15",
+                "SOS": "0.49",
+                "SRS": "-7.13",
                 "ORtg": "111.6",
                 "DRtg": "119.1",
                 "Pace": "100.0",
@@ -285,14 +291,14 @@
                 "W": "29",
                 "L": "1",
                 "PW": "27",
-                "PL": "28",
+                "PL": "27",
                 "MOV": "27",
                 "SOS": "6",
                 "SRS": "27",
                 "ORtg": "23",
                 "DRtg": "29",
-                "Pace": "8",
-                "FTr": "4",
+                "Pace": "7",
+                "FTr": "5",
                 "3PAr": "7",
                 "eFG%": "25",
                 "TOV%": "30",
@@ -304,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/UTA-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

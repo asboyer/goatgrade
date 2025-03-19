@@ -39,6 +39,12 @@
                 "Team": "New York Knicks",
                 "Update": "Thu, Feb 27, 2025",
                 "Description": "Out (Knee) - The Knicks announced on Thursday (Feb. 27) that Hukporti will miss the next four to six weeks for the Knicks after suffering a torn meniscus in his left knee, according to Shams Charania of ESPN."
+            },
+            {
+                "Player": "Mitchell Robinson",
+                "Team": "New York Knicks",
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Ankle) - The Knicks listed Robinson as Questionable for Wednesday's (Mar. 19) game against the Spurs."
             }
         ],
         "team_stats": {
@@ -94,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "26",
                 "FG": "5",
                 "FGA": "17",
                 "FG%": "4",
@@ -194,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "26",
                 "FG": "18",
                 "FGA": "12",
                 "FG%": "23",
@@ -214,7 +220,7 @@
                 "STL": "3",
                 "BLK": "17",
                 "TOV": "15",
-                "PF": "14",
+                "PF": "13",
                 "PTS": "12"
             },
             "Opp Year/Year": {
@@ -249,7 +255,7 @@
                 "PL": "24",
                 "MOV": "4.55",
                 "SOS": "-0.57",
-                "SRS": "3.99",
+                "SRS": "3.98",
                 "ORtg": "119.0",
                 "DRtg": "114.3",
                 "Pace": "97.1",
@@ -286,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/NYK-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

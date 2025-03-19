@@ -2,7 +2,7 @@
     "PHI": {
         "info": {
             "record": "23-45",
-            "standing": "13th in East",
+            "standing": "12th in East",
             "coach": "Nick Nurse (23-45)",
             "gm": "Daryl Morey",
             "preseason_odds": "+1400"
@@ -33,14 +33,14 @@
             {
                 "Player": "Adem Bona",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Day To Day (Ankle) - Bona did not play in Monday's (Mar. 17) game against Houston."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Ankle) - The 76ers listed Bona as Out on Wednesday's (Mar. 19) game against the Thunder."
             },
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Day To Day (Toe) - Drummond did not play in Monday's (Mar. 17) game against Houston."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Toe) - The 76ers listed Drummond as Out on Wednesday's (Mar. 19) game against the Thunder."
             },
             {
                 "Player": "Joel Embiid",
@@ -58,19 +58,19 @@
                 "Player": "Eric Gordon",
                 "Team": "Philadelphia 76ers",
                 "Update": "Thu, Feb 27, 2025",
-                "Description": "Out (Wrist) - The 76ers announced on Thursday (Feb. 27) that Gordon will be re-evaluated in three months after undergoing successful wrist surgery, as per Keith Pompey of The Philadelphia Inquirer."
+                "Description": "Out For Season (Wrist) - The 76ers announced on Thursday (Feb. 27) that Gordon will be re-evaluated in three months after undergoing successful wrist surgery, as per Keith Pompey of The Philadelphia Inquirer."
             },
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Day To Day (Hip) - Lowry did not play in Monday's (Mar. 17) game against Houston."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Hip) - The 76ers listed Lowry as Out on Wednesday's (Mar. 19) game against the Thunder."
             },
             {
                 "Player": "Tyrese Maxey",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Day To Day (Back) - Maxey did not play in Monday's (Mar. 17) game against Houston."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Back) - The 76ers listed Maxey as Out on Wednesday's (Mar. 19) game against the Thunder."
             },
             {
                 "Player": "Jared McCain",
@@ -81,20 +81,20 @@
             {
                 "Player": "Kelly Oubre Jr.",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Day To Day (Knee) - Oubre Jr. did not play in Monday's (Mar. 17) game against Houston."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Knee) - The 76ers listed Oubre Jr. as Doubtful on Wednesday's (Mar. 19) game against the Thunder."
             },
             {
                 "Player": "Lonnie Walker IV",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Day To Day (Head) - Walker IV did not play in Monday's (Mar. 17) game against Houston."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Out (Head) - The 76ers listed Walker IV as Out on Wednesday's (Mar. 19) game against the Thunder."
             },
             {
                 "Player": "Guerschon Yabusele",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Knee) - Yabusele did not play in Monday's (Mar. 17) game against Houston."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Knee) - The 76ers listed Yabusele as Questionable on Wednesday's (Mar. 19) game against the Thunder."
             }
         ],
         "team_stats": {
@@ -150,13 +150,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "19",
                 "FG": "25",
                 "FGA": "23",
                 "FG%": "22",
                 "3P": "22",
                 "3PA": "18",
-                "3P%": "25",
+                "3P%": "24",
                 "2P": "20",
                 "2PA": "19",
                 "2P%": "19",
@@ -168,7 +168,7 @@
                 "TRB": "30",
                 "AST": "29",
                 "STL": "4",
-                "BLK": "28",
+                "BLK": "27",
                 "TOV": "6",
                 "PF": "22",
                 "PTS": "25"
@@ -250,12 +250,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "19",
                 "FG": "19",
                 "FGA": "4",
                 "FG%": "30",
-                "3P": "21",
-                "3PA": "14",
+                "3P": "20",
+                "3PA": "13",
                 "3P%": "27",
                 "2P": "18",
                 "2PA": "4",
@@ -265,11 +265,11 @@
                 "FT%": "29",
                 "ORB": "19",
                 "DRB": "23",
-                "TRB": "24",
+                "TRB": "23",
                 "AST": "24",
                 "STL": "4",
                 "BLK": "19",
-                "TOV": "3",
+                "TOV": "4",
                 "PF": "7",
                 "PTS": "17"
             },
@@ -304,8 +304,8 @@
                 "PW": "24",
                 "PL": "44",
                 "MOV": "-4.99",
-                "SOS": "0.18",
-                "SRS": "-4.81",
+                "SOS": "0.15",
+                "SRS": "-4.84",
                 "ORtg": "112.4",
                 "DRtg": "117.5",
                 "Pace": "97.1",
@@ -321,7 +321,7 @@
             },
             "Misc Lg Rank": {
                 "W": "25",
-                "L": "5",
+                "L": "6",
                 "PW": "25",
                 "PL": "24",
                 "MOV": "24",
@@ -330,18 +330,18 @@
                 "ORtg": "21",
                 "DRtg": "26",
                 "Pace": "25",
-                "FTr": "3",
+                "FTr": "4",
                 "3PAr": "14",
                 "eFG%": "30",
                 "TOV%": "3",
                 "ORB%": "25",
-                "FT/FGA": "20",
+                "FT/FGA": "21",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHI-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }

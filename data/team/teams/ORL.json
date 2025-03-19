@@ -31,14 +31,8 @@
             {
                 "Player": "Cole Anthony",
                 "Team": "Orlando Magic",
-                "Update": "Sun, Mar 16, 2025",
-                "Description": "Day To Day (Toe) - Anthony did not return to Sunday's (Mar. 16) game against the Cavaliers due to a left big toe strain, per Mason Williams of SI.com."
-            },
-            {
-                "Player": "Cole Anthony",
-                "Team": "Orlando Magic",
-                "Update": "Sun, Mar 16, 2025",
-                "Description": "Day To Day (Toe) - Anthony won't return to Sunday's (Mar. 16) game against the Cavaliers due to a left big toe strain."
+                "Update": "Tue, Mar 18, 2025",
+                "Description": "Day To Day (Toe) - The Magic listed Anthony as Questionable on Wednesday's (Mar. 19) game against the Rockets."
             },
             {
                 "Player": "Jalen Suggs",
@@ -106,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "14",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "27",
@@ -117,9 +111,9 @@
                 "2PA": "17",
                 "2P%": "22",
                 "FT": "3",
-                "FTA": "3",
+                "FTA": "2",
                 "FT%": "24",
-                "ORB": "14",
+                "ORB": "13",
                 "DRB": "28",
                 "TRB": "27",
                 "AST": "30",
@@ -206,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "14",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "22",
@@ -215,13 +209,13 @@
                 "3P%": "26",
                 "2P": "4",
                 "2PA": "7",
-                "2P%": "10",
+                "2P%": "11",
                 "FT": "25",
                 "FTA": "26",
                 "FT%": "3",
                 "ORB": "1",
                 "DRB": "16",
-                "TRB": "3",
+                "TRB": "4",
                 "AST": "2",
                 "STL": "10",
                 "BLK": "8",
@@ -260,8 +254,8 @@
                 "PW": "31",
                 "PL": "38",
                 "MOV": "-1.45",
-                "SOS": "-0.37",
-                "SRS": "-1.82",
+                "SOS": "-0.39",
+                "SRS": "-1.84",
                 "ORtg": "108.3",
                 "DRtg": "109.8",
                 "Pace": "96.2",
@@ -276,7 +270,7 @@
                 "Attendance": "631,303"
             },
             "Misc Lg Rank": {
-                "W": "17",
+                "W": "18",
                 "L": "12",
                 "PW": "18",
                 "PL": "19",
@@ -298,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/ORL-2025.png",
-        "last_update": "Mar 18 2025 22:32:19"
+        "last_update": "Mar 19 2025 22:32:20"
     }
 }
