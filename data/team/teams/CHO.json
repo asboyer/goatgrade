@@ -32,20 +32,26 @@
             {
                 "Player": "LaMelo Ball",
                 "Team": "Charlotte Hornets",
-                "Update": "Tue, Mar 18, 2025",
-                "Description": "Day To Day (Wrist) - Ball did not play on Tuesday's (Mar. 18) game against the Hawks."
+                "Update": "Wed, Mar 19, 2025",
+                "Description": "Day To Day (Wrist) - The Hornets listed Ball as probable for Thursday's (Mar. 20) game against New York."
             },
             {
                 "Player": "Miles Bridges",
                 "Team": "Charlotte Hornets",
-                "Update": "Tue, Mar 18, 2025",
-                "Description": "Day To Day (Rest) - Bridges did not play on Tuesday's (Mar. 18) game against the Hawks."
+                "Update": "Wed, Mar 19, 2025",
+                "Description": "Day To Day (Rest) - The Hornets listed Ball as probable for Thursday's (Mar. 20) game against New York."
             },
             {
                 "Player": "Moussa Diabaté",
                 "Team": "Charlotte Hornets",
-                "Update": "Tue, Mar 18, 2025",
-                "Description": "Day To Day (Knee) - Diabate sustained an apparent right knee injury and did not return on Tuesday's (Mar. 18) game against the Hawks."
+                "Update": "Wed, Mar 19, 2025",
+                "Description": "Day To Day (Knee) - The Hornets listed Diabate as questionable for Thursday's (Mar. 20) game against New York."
+            },
+            {
+                "Player": "Marcus Garrett",
+                "Team": "Charlotte Hornets",
+                "Update": "Wed, Mar 19, 2025",
+                "Description": "Day To Day (Back) - The Hornets listed Garrett as questionable for Thursday's (Mar. 20) game against New York."
             },
             {
                 "Player": "Tre Mann",
@@ -64,6 +70,12 @@
                 "Team": "Charlotte Hornets",
                 "Update": "Mon, Mar 3, 2025",
                 "Description": "Out (Hamstring) - The Hornets announced on Monday (Mar. 3) that Okogie has continued the rehabilitation for his left hamstring strain. He has begun individual on court workouts and will be reevaluated in two weeks."
+            },
+            {
+                "Player": "Tidjane Salaün",
+                "Team": "Charlotte Hornets",
+                "Update": "Wed, Mar 19, 2025",
+                "Description": "Out (Ankle) - The Hornets listed Salaun as questionable for Thursday's (Mar. 20) game against New York."
             },
             {
                 "Player": "Grant Williams",
@@ -125,7 +137,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "26",
                 "FG": "28",
                 "FGA": "15",
                 "FG%": "30",
@@ -143,8 +155,8 @@
                 "TRB": "7",
                 "AST": "26",
                 "STL": "22",
-                "BLK": "21",
-                "TOV": "23",
+                "BLK": "20",
+                "TOV": "24",
                 "PF": "19",
                 "PTS": "28"
             },
@@ -225,25 +237,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "26",
                 "FG": "12",
                 "FGA": "10",
                 "FG%": "15",
-                "3P": "21",
+                "3P": "20",
                 "3PA": "27",
-                "3P%": "8",
+                "3P%": "9",
                 "2P": "8",
                 "2PA": "5",
-                "2P%": "24",
-                "FT": "17",
+                "2P%": "23",
+                "FT": "19",
                 "FTA": "18",
                 "FT%": "24",
-                "ORB": "16",
-                "DRB": "25",
+                "ORB": "17",
+                "DRB": "24",
                 "TRB": "22",
                 "AST": "15",
                 "STL": "20",
-                "BLK": "24",
+                "BLK": "23",
                 "TOV": "19",
                 "PF": "22",
                 "PTS": "15"
@@ -279,8 +291,8 @@
                 "PW": "18",
                 "PL": "50",
                 "MOV": "-8.03",
-                "SOS": "-0.20",
-                "SRS": "-8.23",
+                "SOS": "-0.24",
+                "SRS": "-8.27",
                 "ORtg": "107.6",
                 "DRtg": "115.8",
                 "Pace": "97.7",
@@ -297,26 +309,26 @@
             "Misc Lg Rank": {
                 "W": "28",
                 "L": "3",
-                "PW": "28",
+                "PW": "29",
                 "PL": "28",
                 "MOV": "28",
-                "SOS": "21",
+                "SOS": "20",
                 "SRS": "29",
                 "ORtg": "29",
-                "DRtg": "23",
-                "Pace": "20",
+                "DRtg": "22",
+                "Pace": "21",
                 "FTr": "27",
                 "3PAr": "12",
                 "eFG%": "20",
                 "TOV%": "19",
                 "ORB%": "7",
                 "FT/FGA": "20",
-                "DRB%": "19",
+                "DRB%": "18",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CHO-2025.png",
-        "last_update": "Mar 19 2025 22:32:20"
+        "last_update": "Mar 20 2025 22:32:19"
     }
 }
