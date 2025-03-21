@@ -31,26 +31,26 @@
             {
                 "Player": "Brandon Clarke",
                 "Team": "Memphis Grizzlies",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Knee) - Clarke did not return to Wednesday's (Mar. 19) game against the Trail Blazers."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Out (Knee) - The Grizzlies have listed Clarke as OUT for Friday's (Mar. 21) game against the Clippers."
             },
             {
                 "Player": "Ja Morant",
                 "Team": "Memphis Grizzlies",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Shoulder) - Morant did not play on Wednesday's (Mar. 19) game against the Trail Blazers."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Out (Shoulder) - The Grizzlies have listed Morant as OUT for Friday's (Mar. 21) game against the Clippers."
             },
             {
                 "Player": "Zyon Pullin",
                 "Team": "Memphis Grizzlies",
-                "Update": "Sun, Mar 16, 2025",
-                "Description": "Out (Knee) - The Team announced that Pullin will remain out of the lineup Monday (Mar. 17) as he recovers from right patellar tendon surgery. It is unclear when he is expected to return to action."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Out (Knee) - The Grizzlies have listed Pullin as OUT for Friday's (Mar. 21) game against the Clippers."
             },
             {
                 "Player": "Lamar Stevens",
                 "Team": "Memphis Grizzlies",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Shoulder) - Stevens did not play on Wednesday's (Mar. 19) game against the Trail Blazers."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Out (Shoulder) - The Grizzlies have listed Stevens as OUT for Friday's (Mar. 21) game against the Clippers."
             }
         ],
         "team_stats": {
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "14",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "5",
@@ -118,7 +118,7 @@
                 "2P%": "9",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "14",
+                "FT%": "15",
                 "ORB": "2",
                 "DRB": "4",
                 "TRB": "2",
@@ -206,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "14",
                 "FG": "19",
                 "FGA": "25",
                 "FG%": "6",
@@ -222,7 +222,7 @@
                 "ORB": "25",
                 "DRB": "3",
                 "TRB": "13",
-                "AST": "22",
+                "AST": "21",
                 "STL": "22",
                 "BLK": "26",
                 "TOV": "5",
@@ -260,8 +260,8 @@
                 "PW": "46",
                 "PL": "24",
                 "MOV": "5.56",
-                "SOS": "-0.29",
-                "SRS": "5.26",
+                "SOS": "-0.31",
+                "SRS": "5.25",
                 "ORtg": "117.9",
                 "DRtg": "112.6",
                 "Pace": "103.6",
@@ -284,7 +284,7 @@
                 "SOS": "23",
                 "SRS": "4",
                 "ORtg": "6",
-                "DRtg": "10",
+                "DRtg": "11",
                 "Pace": "1",
                 "FTr": "8",
                 "3PAr": "21",
@@ -297,7 +297,7 @@
                 "Attendance": "22"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MEM-2025.png",
-        "last_update": "Mar 20 2025 22:32:19"
+        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/MEM-2025.png",
+        "last_update": "Mar 21 2025 22:32:21"
     }
 }

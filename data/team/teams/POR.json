@@ -37,20 +37,20 @@
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Knee) - Grant did not play on Wednesday's (Mar. 19) game against the Grizzlies."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Day To Day (Knee) - The Trail Blazers have listed Grant as Doubtful for Friday's (Mar. 21) game against the Nuggets."
             },
             {
                 "Player": "Jabari Walker",
                 "Team": "Portland Trail Blazers",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Concussion) - Walker did not play on Wednesday's (Mar. 19) game against the Grizzlies."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Out (Concussion) - The Trail Blazers have listed Walker as OUT for Friday's (Mar. 21) game against the Nuggets."
             },
             {
                 "Player": "Robert Williams",
                 "Team": "Portland Trail Blazers",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Knee) - Williams III did not play on Wednesday's (Mar. 19) game against the Grizzlies."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Out (Knee) - Williams underwent an arthroscopic procedure Thursday (Mar. 20) to address inflammation in his left knee and will miss 4-6 weeks."
             }
         ],
         "team_stats": {
@@ -106,16 +106,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "9",
                 "FG": "24",
                 "FGA": "17",
                 "FG%": "25",
-                "3P": "20",
+                "3P": "19",
                 "3PA": "15",
                 "3P%": "25",
-                "2P": "17",
+                "2P": "18",
                 "2PA": "14",
-                "2P%": "24",
+                "2P%": "25",
                 "FT": "16",
                 "FTA": "12",
                 "FT%": "25",
@@ -127,7 +127,7 @@
                 "BLK": "9",
                 "TOV": "29",
                 "PF": "20",
-                "PTS": "22"
+                "PTS": "23"
             },
             "Year/Year": {
                 "G": "",
@@ -206,9 +206,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "9",
                 "FG": "15",
-                "FGA": "14",
+                "FGA": "13",
                 "FG%": "18",
                 "3P": "6",
                 "3PA": "4",
@@ -224,7 +224,7 @@
                 "TRB": "17",
                 "AST": "13",
                 "STL": "29",
-                "BLK": "22",
+                "BLK": "23",
                 "TOV": "10",
                 "PF": "8",
                 "PTS": "16"
@@ -260,8 +260,8 @@
                 "PW": "28",
                 "PL": "42",
                 "MOV": "-3.34",
-                "SOS": "0.32",
-                "SRS": "-3.02",
+                "SOS": "0.31",
+                "SRS": "-3.03",
                 "ORtg": "111.6",
                 "DRtg": "114.9",
                 "Pace": "98.7",
@@ -281,10 +281,10 @@
                 "PW": "23",
                 "PL": "23",
                 "MOV": "23",
-                "SOS": "9",
+                "SOS": "11",
                 "SRS": "22",
                 "ORtg": "24",
-                "DRtg": "15",
+                "DRtg": "16",
                 "Pace": "17",
                 "FTr": "13",
                 "3PAr": "17",
@@ -294,10 +294,10 @@
                 "FT/FGA": "25",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/POR-2025.png",
-        "last_update": "Mar 20 2025 22:32:19"
+        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/POR-2025.png",
+        "last_update": "Mar 21 2025 22:32:21"
     }
 }

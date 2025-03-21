@@ -37,8 +37,8 @@
             {
                 "Player": "Amen Thompson",
                 "Team": "Houston Rockets",
-                "Update": "Mon, Mar 17, 2025",
-                "Description": "Out (Foot) - Head coach Ime Udoka said that Thompson has yet to go through contact drills, though he is progressing well and could return as soon as Friday's (Mar. 21) game against Miami, per Danielle Lerner of the Houston Chronicle."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Day To Day (Foot) - The Rockets listed Thompson as Probable for Friday's (Mar. 21) game against the Heat."
             }
         ],
         "team_stats": {
@@ -94,17 +94,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "5",
                 "FG": "12",
                 "FGA": "2",
                 "FG%": "24",
                 "3P": "25",
-                "3PA": "20",
+                "3PA": "19",
                 "3P%": "24",
                 "2P": "10",
                 "2PA": "2",
-                "2P%": "29",
-                "FT": "14",
+                "2P%": "28",
+                "FT": "15",
                 "FTA": "5",
                 "FT%": "30",
                 "ORB": "1",
@@ -194,13 +194,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "5",
                 "FG": "4",
                 "FGA": "12",
                 "FG%": "4",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "8",
+                "3P%": "9",
                 "2P": "17",
                 "2PA": "26",
                 "2P%": "2",
@@ -265,13 +265,13 @@
             },
             "Misc Lg Rank": {
                 "W": "4",
-                "L": "25",
+                "L": "27",
                 "PW": "5",
                 "PL": "5",
                 "MOV": "5",
-                "SOS": "7",
+                "SOS": "6",
                 "SRS": "5",
-                "ORtg": "13",
+                "ORtg": "14",
                 "DRtg": "3",
                 "Pace": "19",
                 "FTr": "14",
@@ -285,7 +285,7 @@
                 "Attendance": "16"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/HOU-2025.png",
-        "last_update": "Mar 20 2025 22:32:19"
+        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/HOU-2025.png",
+        "last_update": "Mar 21 2025 22:32:21"
     }
 }

@@ -31,8 +31,8 @@
             {
                 "Player": "Grayson Allen",
                 "Team": "Phoenix Suns",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Foot) - Allen did not play on Wednesday's (Mar. 19) game against the Bulls."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Day To Day (Foot) - The Suns have listed Allen as Questionable for Friday's (Mar. 21) game against the Cavaliers."
             },
             {
                 "Player": "Bradley Beal",
@@ -43,8 +43,8 @@
             {
                 "Player": "Mason Plumlee",
                 "Team": "Phoenix Suns",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Quadriceps) - Plumlee did not play on Wednesday's (Mar. 19) game against the Bulls."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Out (Quadriceps) - The Suns have listed Plumlee as OUT for Friday's (Mar. 21) game against the Cavaliers."
             }
         ],
         "team_stats": {
@@ -102,11 +102,11 @@
                 "G": "",
                 "MP": "2",
                 "FG": "17",
-                "FGA": "27",
+                "FGA": "28",
                 "FG%": "6",
                 "3P": "6",
                 "3PA": "13",
-                "3P%": "3",
+                "3P%": "2",
                 "2P": "21",
                 "2PA": "27",
                 "2P%": "10",
@@ -203,7 +203,7 @@
                 "MP": "2",
                 "FG": "21",
                 "FGA": "21",
-                "FG%": "13",
+                "FG%": "14",
                 "3P": "21",
                 "3PA": "21",
                 "3P%": "18",
@@ -214,14 +214,14 @@
                 "FTA": "19",
                 "FT%": "19",
                 "ORB": "23",
-                "DRB": "12",
+                "DRB": "13",
                 "TRB": "18",
                 "AST": "18",
                 "STL": "18",
                 "BLK": "3",
                 "TOV": "29",
                 "PF": "9",
-                "PTS": "22"
+                "PTS": "21"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -254,8 +254,8 @@
                 "PW": "32",
                 "PL": "38",
                 "MOV": "-1.26",
-                "SOS": "-0.28",
-                "SRS": "-1.54",
+                "SOS": "-0.31",
+                "SRS": "-1.56",
                 "ORtg": "116.7",
                 "DRtg": "118.0",
                 "Pace": "97.3",
@@ -288,10 +288,10 @@
                 "FT/FGA": "16",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "25"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/PHO-2025.png",
-        "last_update": "Mar 20 2025 22:32:19"
+        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/PHO-2025.png",
+        "last_update": "Mar 21 2025 22:32:21"
     }
 }

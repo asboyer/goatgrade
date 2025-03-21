@@ -30,14 +30,14 @@
             {
                 "Player": "Jaylen Brown",
                 "Team": "Boston Celtics",
-                "Update": "Tue, Mar 18, 2025",
-                "Description": "Day To Day (Back) - Brown did not play on Tuesday's (Mar. 18) game against the Nets."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Out (Back) - The Celtics have listed Brown as OUT for Friday's (Mar. 21) game against the Jazz."
             },
             {
-                "Player": "Jayson Tatum",
+                "Player": "Xavier Tillman Sr.",
                 "Team": "Boston Celtics",
-                "Update": "Tue, Mar 18, 2025",
-                "Description": "Day To Day (Knee) - Tatum did not play on Tuesday's (Mar. 18) game against the Nets."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Out (Knee) - The Celtics have listed Tillman Sr. as OUT for Friday's (Mar. 21) game against the Jazz."
             }
         ],
         "team_stats": {
@@ -93,13 +93,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "19",
                 "FG": "15",
-                "FGA": "13",
+                "FGA": "12",
                 "FG%": "18",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "8",
+                "3P%": "7",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "4",
@@ -114,7 +114,7 @@
                 "BLK": "5",
                 "TOV": "2",
                 "PF": "2",
-                "PTS": "10"
+                "PTS": "9"
             },
             "Year/Year": {
                 "G": "",
@@ -193,9 +193,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "19",
                 "FG": "9",
-                "FGA": "18",
+                "FGA": "17",
                 "FG%": "2",
                 "3P": "5",
                 "3PA": "11",
@@ -206,13 +206,13 @@
                 "FT": "2",
                 "FTA": "2",
                 "FT%": "16",
-                "ORB": "7",
+                "ORB": "8",
                 "DRB": "19",
                 "TRB": "14",
                 "AST": "3",
                 "STL": "2",
                 "BLK": "1",
-                "TOV": "26",
+                "TOV": "27",
                 "PF": "25",
                 "PTS": "3"
             },
@@ -247,8 +247,8 @@
                 "PW": "51",
                 "PL": "18",
                 "MOV": "8.43",
-                "SOS": "-0.48",
-                "SRS": "7.96",
+                "SOS": "-0.45",
+                "SRS": "7.99",
                 "ORtg": "120.0",
                 "DRtg": "111.3",
                 "Pace": "96.3",
@@ -284,7 +284,7 @@
                 "Attendance": "3"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/BOS-2025.png",
-        "last_update": "Mar 20 2025 22:32:19"
+        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/BOS-2025.png",
+        "last_update": "Mar 21 2025 22:32:21"
     }
 }

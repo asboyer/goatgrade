@@ -31,8 +31,8 @@
             {
                 "Player": "Jordan Miller",
                 "Team": "Los Angeles Clippers",
-                "Update": "Tue, Mar 18, 2025",
-                "Description": "Day To Day (Hip) - Miller did not play on Tuesday's (Mar. 18) game against Cleveland."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Out (Hip) - The Clippers have listed Miller as OUT for Friday's (Mar. 21) game against the Grizzlies."
             }
         ],
         "team_stats": {
@@ -88,7 +88,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "22",
                 "FG": "18",
                 "FGA": "26",
                 "FG%": "13",
@@ -99,10 +99,10 @@
                 "2PA": "13",
                 "2P%": "15",
                 "FT": "13",
-                "FTA": "18",
+                "FTA": "19",
                 "FT%": "7",
                 "ORB": "22",
-                "DRB": "16",
+                "DRB": "15",
                 "TRB": "20",
                 "AST": "25",
                 "STL": "3",
@@ -188,7 +188,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "22",
                 "FG": "3",
                 "FGA": "3",
                 "FG%": "10",
@@ -242,8 +242,8 @@
                 "PW": "41",
                 "PL": "28",
                 "MOV": "3.14",
-                "SOS": "0.05",
-                "SRS": "3.20",
+                "SOS": "0.04",
+                "SRS": "3.19",
                 "ORtg": "113.7",
                 "DRtg": "110.5",
                 "Pace": "97.6",
@@ -258,7 +258,7 @@
                 "Attendance": "554,922"
             },
             "Misc Lg Rank": {
-                "W": "11",
+                "W": "12",
                 "L": "19",
                 "PW": "9",
                 "PL": "9",
@@ -270,8 +270,8 @@
                 "Pace": "22",
                 "FTr": "12",
                 "3PAr": "25",
-                "eFG%": "11",
-                "TOV%": "5",
+                "eFG%": "10",
+                "TOV%": "6",
                 "ORB%": "19",
                 "FT/FGA": "15",
                 "DRB%": "5",
@@ -279,7 +279,7 @@
                 "Attendance": "28"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/LAC-2025.png",
-        "last_update": "Mar 20 2025 22:32:19"
+        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/LAC-2025.png",
+        "last_update": "Mar 21 2025 22:32:21"
     }
 }

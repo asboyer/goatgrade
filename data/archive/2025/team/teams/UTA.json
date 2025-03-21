@@ -43,26 +43,26 @@
             {
                 "Player": "Lauri Markkanen",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Personal) - Markkanen did not play on Wednesday's (Mar. 19) game versus the Wizards."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Out (Personal) - The Jazz have listed Markkanen as OUT for Friday's (Mar. 21) game against the Celtics."
             },
             {
                 "Player": "KJ Martin",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Elbow) - Martin did not play on Wednesday's (Mar. 19) game against the Wizards."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Out (Elbow) - The Jazz have listed Martin as OUT for Friday's (Mar. 21) game against the Celtics."
             },
             {
                 "Player": "Svi Mykhailiuk",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Foot) - Mykhailiuk did not play on Wednesday's (Mar. 19) game against the Wizards."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Day To Day (Foot) - The Jazz have listed Mykhailiuk as Questionable for Friday's (Mar. 21) game against the Celtics."
             },
             {
                 "Player": "Jaden Springer",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Back) - Springer did not play on Wednesday's (Mar. 19) game against the Wizards."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Day To Day (Back) - The Jazz have listed Springer as Questionable for Friday's (Mar. 21) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -118,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "5",
                 "FG": "22",
                 "FGA": "21",
                 "FG%": "20",
@@ -138,7 +138,7 @@
                 "STL": "30",
                 "BLK": "22",
                 "TOV": "30",
-                "PF": "17",
+                "PF": "16",
                 "PTS": "20"
             },
             "Year/Year": {
@@ -218,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "5",
                 "FG": "27",
                 "FGA": "26",
                 "FG%": "25",
@@ -272,8 +272,8 @@
                 "PW": "21",
                 "PL": "49",
                 "MOV": "-7.29",
-                "SOS": "0.35",
-                "SRS": "-6.94",
+                "SOS": "0.32",
+                "SRS": "-6.96",
                 "ORtg": "111.8",
                 "DRtg": "119.0",
                 "Pace": "100.0",
@@ -293,7 +293,7 @@
                 "PW": "27",
                 "PL": "27",
                 "MOV": "27",
-                "SOS": "8",
+                "SOS": "9",
                 "SRS": "27",
                 "ORtg": "23",
                 "DRtg": "29",
@@ -302,14 +302,14 @@
                 "3PAr": "7",
                 "eFG%": "25",
                 "TOV%": "30",
-                "ORB%": "5",
+                "ORB%": "4",
                 "FT/FGA": "14",
                 "DRB%": "14",
                 "Arena": "",
                 "Attendance": "15"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/UTA-2025.png",
-        "last_update": "Mar 20 2025 22:32:19"
+        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/UTA-2025.png",
+        "last_update": "Mar 21 2025 22:32:21"
     }
 }

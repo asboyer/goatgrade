@@ -2,7 +2,7 @@
     "DEN": {
         "info": {
             "record": "44-26",
-            "standing": "4th in West",
+            "standing": "3rd in West",
             "coach": "Michael Malone (44-26)",
             "gm": "Calvin Booth",
             "preseason_odds": "+750"
@@ -29,6 +29,18 @@
         ],
         "injuries": [
             {
+                "Player": "Christian Braun",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Day To Day (Foot) - The Nuggets have listed Braun as Probable for Friday's (Mar. 21) game against the Trail Blazers."
+            },
+            {
+                "Player": "Aaron Gordon",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Day To Day (Calf) - The Nuggets have listed Gordon as Probable for Friday's (Mar. 21) game against the Trail Blazers."
+            },
+            {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sun, Feb 23, 2025",
@@ -37,14 +49,14 @@
             {
                 "Player": "Nikola Jokić",
                 "Team": "Denver Nuggets",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Elbow) - Jokic did not play on Wednesday's (Mar. 19) game against the Lakers."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Out (Elbow) - The Nuggets have listed Jokic as OUT for Friday's (Mar. 21) game against the Trail Blazers."
             },
             {
                 "Player": "Jamal Murray",
                 "Team": "Denver Nuggets",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Ankle) - Murray did not play on Wednesday's (Mar. 19) game against the Lakers."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets have listed Murray as Questionable for Friday's (Mar. 21) game against the Trail Blazers."
             },
             {
                 "Player": "Julian Strawther",
@@ -117,14 +129,14 @@
                 "2PA": "1",
                 "2P%": "2",
                 "FT": "9",
-                "FTA": "8",
+                "FTA": "9",
                 "FT%": "21",
                 "ORB": "10",
                 "DRB": "3",
-                "TRB": "5",
+                "TRB": "4",
                 "AST": "1",
                 "STL": "13",
-                "BLK": "18",
+                "BLK": "17",
                 "TOV": "17",
                 "PF": "6",
                 "PTS": "3"
@@ -209,14 +221,14 @@
                 "MP": "3",
                 "FG": "24",
                 "FGA": "29",
-                "FG%": "12",
+                "FG%": "13",
                 "3P": "24",
                 "3PA": "20",
-                "3P%": "22",
+                "3P%": "23",
                 "2P": "24",
                 "2PA": "28",
                 "2P%": "12",
-                "FT": "7",
+                "FT": "6",
                 "FTA": "8",
                 "FT%": "13",
                 "ORB": "22",
@@ -226,7 +238,7 @@
                 "STL": "24",
                 "BLK": "20",
                 "TOV": "25",
-                "PF": "13",
+                "PF": "15",
                 "PTS": "24"
             },
             "Opp Year/Year": {
@@ -260,8 +272,8 @@
                 "PW": "43",
                 "PL": "27",
                 "MOV": "4.19",
-                "SOS": "0.00",
-                "SRS": "4.19",
+                "SOS": "-0.02",
+                "SRS": "4.16",
                 "ORtg": "119.9",
                 "DRtg": "115.8",
                 "Pace": "100.1",
@@ -280,7 +292,7 @@
                 "L": "24",
                 "PW": "7",
                 "PL": "7",
-                "MOV": "7",
+                "MOV": "6",
                 "SOS": "14",
                 "SRS": "7",
                 "ORtg": "3",
@@ -289,15 +301,15 @@
                 "FTr": "10",
                 "3PAr": "30",
                 "eFG%": "16",
-                "TOV%": "26",
+                "TOV%": "27",
                 "ORB%": "8",
                 "FT/FGA": "4",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "9"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/DEN-2025.png",
-        "last_update": "Mar 20 2025 22:32:19"
+        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/DEN-2025.png",
+        "last_update": "Mar 21 2025 22:32:21"
     }
 }

@@ -26,14 +26,7 @@
             "Javonte Green",
             "Nae'Qwan Tomlin"
         ],
-        "injuries": [
-            {
-                "Player": "Darius Garland",
-                "Team": "Cleveland Cavaliers",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Rest) - Garland did not play on Wednesday's (Mar. 19) game versus the Kings."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "69",
@@ -87,7 +80,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "26",
                 "FG": "3",
                 "FGA": "10",
                 "FG%": "2",
@@ -187,8 +180,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
-                "FG": "11",
+                "MP": "26",
+                "FG": "12",
                 "FGA": "19",
                 "FG%": "5",
                 "3P": "12",
@@ -241,8 +234,8 @@
                 "PW": "54",
                 "PL": "15",
                 "MOV": "10.43",
-                "SOS": "-0.90",
-                "SRS": "9.54",
+                "SOS": "-0.85",
+                "SRS": "9.58",
                 "ORtg": "122.4",
                 "DRtg": "111.9",
                 "Pace": "99.9",
@@ -278,7 +271,7 @@
                 "Attendance": "4"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/CLE-2025.png",
-        "last_update": "Mar 20 2025 22:32:19"
+        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/CLE-2025.png",
+        "last_update": "Mar 21 2025 22:32:21"
     }
 }

@@ -43,8 +43,8 @@
             {
                 "Player": "Andrew Wiggins",
                 "Team": "Miami Heat",
-                "Update": "Wed, Mar 19, 2025",
-                "Description": "Day To Day (Leg) - Wiggins did not play on Wednesday's (Mar. 19) game versus the Pistons."
+                "Update": "Thu, Mar 20, 2025",
+                "Description": "Day To Day (Leg) - The Heat listed Wiggins as Questionable for Friday's (Mar. 21) game against the Rockets."
             }
         ],
         "team_stats": {
@@ -100,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "16",
                 "FG": "27",
                 "FGA": "25",
                 "FG%": "21",
@@ -108,18 +108,18 @@
                 "3PA": "12",
                 "3P%": "17",
                 "2P": "25",
-                "2PA": "26",
+                "2PA": "25",
                 "2P%": "19",
-                "FT": "25",
+                "FT": "26",
                 "FTA": "26",
-                "FT%": "10",
+                "FT%": "9",
                 "ORB": "27",
                 "DRB": "11",
                 "TRB": "23",
                 "AST": "16",
                 "STL": "18",
                 "BLK": "30",
-                "TOV": "10",
+                "TOV": "9",
                 "PF": "1",
                 "PTS": "26"
             },
@@ -200,14 +200,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "16",
                 "FG": "16",
                 "FGA": "15",
-                "FG%": "14",
-                "3P": "18",
+                "FG%": "15",
+                "3P": "19",
                 "3PA": "19",
                 "3P%": "14",
-                "2P": "12",
+                "2P": "11",
                 "2PA": "11",
                 "2P%": "19",
                 "FT": "1",
@@ -215,7 +215,7 @@
                 "FT%": "20",
                 "ORB": "11",
                 "DRB": "27",
-                "TRB": "21",
+                "TRB": "22",
                 "AST": "17",
                 "STL": "6",
                 "BLK": "14",
@@ -254,8 +254,8 @@
                 "PW": "31",
                 "PL": "38",
                 "MOV": "-1.70",
-                "SOS": "-0.07",
-                "SRS": "-1.77",
+                "SOS": "-0.05",
+                "SRS": "-1.75",
                 "ORtg": "111.9",
                 "DRtg": "113.7",
                 "Pace": "96.2",
@@ -270,17 +270,17 @@
                 "Attendance": "650,238"
             },
             "Misc Lg Rank": {
-                "W": "21",
+                "W": "22",
                 "L": "8",
                 "PW": "19",
                 "PL": "18",
                 "MOV": "19",
-                "SOS": "17",
+                "SOS": "16",
                 "SRS": "18",
                 "ORtg": "22",
-                "DRtg": "13",
+                "DRtg": "12",
                 "Pace": "29",
-                "FTr": "22",
+                "FTr": "23",
                 "3PAr": "9",
                 "eFG%": "19",
                 "TOV%": "21",
@@ -291,7 +291,7 @@
                 "Attendance": "13"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202502211/tlogo/bbr/MIA-2025.png",
-        "last_update": "Mar 20 2025 22:32:19"
+        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/MIA-2025.png",
+        "last_update": "Mar 21 2025 22:32:21"
     }
 }
