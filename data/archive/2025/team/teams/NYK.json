@@ -40,10 +40,10 @@
                 "Description": "Out (Knee) - The Knicks announced on Thursday (Feb. 27) that Hukporti will miss the next four to six weeks for the Knicks after suffering a torn meniscus in his left knee, according to Shams Charania of ESPN."
             },
             {
-                "Player": "Mitchell Robinson",
+                "Player": "Miles McBride",
                 "Team": "New York Knicks",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Day To Day (Ankle) - Robinson did not play on Thursday's (Mar. 20) game against the Hornets."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Groin) - The Knicks listed McBride is listed as Questionable for Saturday's (Mar. 22) game against the Wizards."
             }
         ],
         "team_stats": {
@@ -65,12 +65,12 @@
                 "ORB": "752",
                 "DRB": "2211",
                 "TRB": "2963",
-                "AST": "1878",
+                "AST": "1879",
                 "STL": "552",
                 "BLK": "274",
                 "TOV": "908",
                 "PF": "1176",
-                "PTS": "8021"
+                "PTS": "8024"
             },
             "Team/G": {
                 "G": "",
@@ -95,24 +95,24 @@
                 "BLK": "4.0",
                 "TOV": "13.2",
                 "PF": "17.0",
-                "PTS": "116.2"
+                "PTS": "116.3"
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "24",
                 "FG": "5",
-                "FGA": "18",
+                "FGA": "17",
                 "FG%": "4",
                 "3P": "24",
                 "3PA": "27",
-                "3P%": "8",
+                "3P%": "9",
                 "2P": "3",
                 "2PA": "6",
                 "2P%": "7",
                 "FT": "20",
                 "FTA": "24",
                 "FT%": "5",
-                "ORB": "18",
+                "ORB": "19",
                 "DRB": "25",
                 "TRB": "24",
                 "AST": "11",
@@ -140,7 +140,7 @@
                 "ORB": "-14.0%",
                 "DRB": "-1.4%",
                 "TRB": "-4.9%",
-                "AST": "11.7%",
+                "AST": "11.8%",
                 "STL": "7.2%",
                 "BLK": "-3.1%",
                 "TOV": "-0.5%",
@@ -199,16 +199,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "24",
                 "FG": "18",
-                "FGA": "11",
+                "FGA": "13",
                 "FG%": "22",
                 "3P": "14",
                 "3PA": "7",
                 "3P%": "29",
-                "2P": "19",
+                "2P": "20",
                 "2PA": "18",
-                "2P%": "13",
+                "2P%": "12",
                 "FT": "4",
                 "FTA": "4",
                 "FT%": "27",
@@ -218,7 +218,7 @@
                 "AST": "9",
                 "STL": "3",
                 "BLK": "16",
-                "TOV": "15",
+                "TOV": "16",
                 "PF": "12",
                 "PTS": "13"
             },
@@ -252,9 +252,9 @@
                 "L": "26",
                 "PW": "43",
                 "PL": "26",
-                "MOV": "3.91",
-                "SOS": "-0.69",
-                "SRS": "3.27",
+                "MOV": "3.96",
+                "SOS": "-0.71",
+                "SRS": "3.25",
                 "ORtg": "118.6",
                 "DRtg": "114.6",
                 "Pace": "97.0",
@@ -270,12 +270,12 @@
             },
             "Misc Lg Rank": {
                 "W": "6",
-                "L": "24",
+                "L": "25",
                 "PW": "8",
-                "PL": "6",
-                "MOV": "8",
+                "PL": "7",
+                "MOV": "7",
                 "SOS": "29",
-                "SRS": "8",
+                "SRS": "9",
                 "ORtg": "5",
                 "DRtg": "14",
                 "Pace": "26",
@@ -287,10 +287,10 @@
                 "FT/FGA": "5",
                 "DRB%": "19",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "13"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/NYK-2025.png",
-        "last_update": "Mar 21 2025 22:32:21"
+        "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/NYK-2025.png",
+        "last_update": "Mar 22 2025 22:32:19"
     }
 }

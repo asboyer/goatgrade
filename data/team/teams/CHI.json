@@ -41,10 +41,16 @@
                 "Description": "Out For Season (Shoulder) - The Bulls announced Dosunmu will undergo surgery and be out for the remainder of the season."
             },
             {
-                "Player": "Josh Giddey",
+                "Player": "Kevin Huerter",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Day To Day (Ankle) - Giddey did not play on Thursday's (Mar. 20) game against the Kings."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Illness) - The Bulls have listed Huerter as Probable for Saturday's (Mar. 22) game against the Lakers."
+            },
+            {
+                "Player": "Tre Jones",
+                "Team": "Chicago Bulls",
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Foot) - The Bulls have listed Jones as Questionable for Saturday's (Mar. 22) game against the Lakers."
             }
         ],
         "team_stats": {
@@ -100,22 +106,22 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "18",
                 "FG": "9",
                 "FGA": "4",
                 "FG%": "16",
                 "3P": "3",
                 "3PA": "2",
-                "3P%": "12",
+                "3P%": "13",
                 "2P": "19",
                 "2PA": "22",
-                "2P%": "14",
+                "2P%": "13",
                 "FT": "29",
                 "FTA": "30",
                 "FT%": "3",
                 "ORB": "25",
                 "DRB": "2",
-                "TRB": "8",
+                "TRB": "6",
                 "AST": "6",
                 "STL": "26",
                 "BLK": "19",
@@ -200,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "18",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "19",
@@ -214,7 +220,7 @@
                 "FTA": "15",
                 "FT%": "22",
                 "ORB": "12",
-                "DRB": "30",
+                "DRB": "29",
                 "TRB": "29",
                 "AST": "27",
                 "STL": "15",
@@ -254,8 +260,8 @@
                 "PW": "29",
                 "PL": "41",
                 "MOV": "-3.09",
-                "SOS": "-0.20",
-                "SRS": "-3.28",
+                "SOS": "-0.22",
+                "SRS": "-3.30",
                 "ORtg": "113.1",
                 "DRtg": "116.1",
                 "Pace": "102.8",
@@ -271,27 +277,27 @@
             },
             "Misc Lg Rank": {
                 "W": "21",
-                "L": "8",
-                "PW": "22",
+                "L": "9",
+                "PW": "23",
                 "PL": "22",
-                "MOV": "22",
-                "SOS": "21",
+                "MOV": "23",
+                "SOS": "22",
                 "SRS": "23",
                 "ORtg": "20",
-                "DRtg": "24",
+                "DRtg": "23",
                 "Pace": "3",
                 "FTr": "30",
                 "3PAr": "3",
                 "eFG%": "13",
                 "TOV%": "29",
-                "ORB%": "28",
+                "ORB%": "27",
                 "FT/FGA": "9",
                 "DRB%": "6",
                 "Arena": "",
                 "Attendance": "2"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/CHI-2025.png",
-        "last_update": "Mar 21 2025 22:32:21"
+        "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/CHI-2025.png",
+        "last_update": "Mar 22 2025 22:32:19"
     }
 }

@@ -31,8 +31,8 @@
             {
                 "Player": "Tyrese Haliburton",
                 "Team": "Indiana Pacers",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Day To Day (Back) - Haliburton did not play on Thursday's (Mar. 20) game against the Nets."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Back) - The Pacers listed Haliburton as Questionable on Saturday's (Mar. 22) game against the Nets."
             },
             {
                 "Player": "Isaiah Jackson",
@@ -94,16 +94,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "25",
                 "FG": "6",
                 "FGA": "19",
                 "FG%": "3",
                 "3P": "17",
-                "3PA": "24",
-                "3P%": "6",
+                "3PA": "23",
+                "3P%": "7",
                 "2P": "5",
                 "2PA": "11",
-                "2P%": "3",
+                "2P%": "4",
                 "FT": "18",
                 "FTA": "21",
                 "FT%": "11",
@@ -194,18 +194,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "25",
                 "FG": "22",
                 "FGA": "18",
                 "FG%": "26",
-                "3P": "4",
+                "3P": "5",
                 "3PA": "8",
                 "3P%": "11",
                 "2P": "27",
                 "2PA": "23",
                 "2P%": "23",
                 "FT": "20",
-                "FTA": "21",
+                "FTA": "22",
                 "FT%": "11",
                 "ORB": "17",
                 "DRB": "20",
@@ -248,8 +248,8 @@
                 "PW": "37",
                 "PL": "32",
                 "MOV": "1.16",
-                "SOS": "-0.60",
-                "SRS": "0.56",
+                "SOS": "-0.62",
+                "SRS": "0.54",
                 "ORtg": "116.0",
                 "DRtg": "114.9",
                 "Pace": "99.8",
@@ -264,7 +264,7 @@
                 "Attendance": "533,781"
             },
             "Misc Lg Rank": {
-                "W": "10",
+                "W": "11",
                 "L": "21",
                 "PW": "14",
                 "PL": "14",
@@ -285,7 +285,7 @@
                 "Attendance": "30"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/IND-2025.png",
-        "last_update": "Mar 21 2025 22:32:21"
+        "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/IND-2025.png",
+        "last_update": "Mar 22 2025 22:32:19"
     }
 }

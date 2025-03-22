@@ -2,7 +2,7 @@
     "LAL": {
         "info": {
             "record": "43-26",
-            "standing": "4th in West",
+            "standing": "3rd in West",
             "coach": "JJ Redick (43-26)",
             "gm": "Rob Pelinka",
             "preseason_odds": "+3000"
@@ -31,26 +31,26 @@
             {
                 "Player": "Luka Dončić",
                 "Team": "Los Angeles Lakers",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Day To Day (Ankle) - Doncic did not play on for Thursday's (Mar. 20) game against the Bucks."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Ankle) - The Lakers have listed Doncic as Probable for Saturday's (Mar. 22) game against the Chicago."
             },
             {
                 "Player": "Dorian Finney-Smith",
                 "Team": "Los Angeles Lakers",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Day To Day (Ankle) - Finney-Smith did not play on Thursday's (Mar. 20) game against the Bucks."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Ankle) - The Lakers have listed Finney-Smith as Probable for Saturday's (Mar. 22) game against the Chicago."
             },
             {
                 "Player": "Rui Hachimura",
                 "Team": "Los Angeles Lakers",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Day To Day (Knee) - Hachimura did not play on Thursday's (Mar. 20) game against the Bucks."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Knee) - The Lakers have listed Hachimura as Questionable for Saturday's (Mar. 22) game against the Chicago."
             },
             {
                 "Player": "LeBron James",
                 "Team": "Los Angeles Lakers",
-                "Update": "Sun, Mar 16, 2025",
-                "Description": "Out (Leg) - James is scheduled to go through an on-court workout in Los Angeles on Sunday (Mar. 16) and is expected to remain held out for at least one more week of game action, per Shams Charania of ESPN."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Leg) - The Lakers have listed James as Questionable for Saturday's (Mar. 22) game against the Chicago."
             },
             {
                 "Player": "Maxi Kleber",
@@ -61,14 +61,20 @@
             {
                 "Player": "Austin Reaves",
                 "Team": "Los Angeles Lakers",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Day To Day (Ankle) - Reaves did not play on Thursday's (Mar. 20) game against the Bucks."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Ankle) - The Lakers have listed Reaves as Probable for Saturday's (Mar. 22) game against the Chicago."
             },
             {
                 "Player": "Jarred Vanderbilt",
                 "Team": "Los Angeles Lakers",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Day To Day (Groin) - Vanderbilt did not play on Thursday's (Mar. 20) game against the Bucks."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Groin) - The Lakers have listed Vanderbilt as Probable for Saturday's (Mar. 22) game against the Chicago."
+            },
+            {
+                "Player": "Gabe Vincent",
+                "Team": "Los Angeles Lakers",
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Knee) - The Lakers have listed Vincent as Questionable for Saturday's (Mar. 22) game against the Chicago."
             }
         ],
         "team_stats": {
@@ -124,17 +130,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "19",
                 "FGA": "30",
                 "FG%": "10",
                 "3P": "20",
-                "3PA": "20",
+                "3PA": "19",
                 "3P%": "16",
                 "2P": "15",
                 "2PA": "20",
                 "2P%": "5",
-                "FT": "4",
+                "FT": "3",
                 "FTA": "4",
                 "FT%": "17",
                 "ORB": "26",
@@ -143,7 +149,7 @@
                 "AST": "15",
                 "STL": "24",
                 "BLK": "20",
-                "TOV": "11",
+                "TOV": "10",
                 "PF": "5",
                 "PTS": "19"
             },
@@ -224,17 +230,17 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "10",
                 "FGA": "16",
-                "FG%": "9",
-                "3P": "13",
-                "3PA": "16",
+                "FG%": "7",
+                "3P": "12",
+                "3PA": "17",
                 "3P%": "3",
                 "2P": "13",
                 "2PA": "14",
                 "2P%": "16",
-                "FT": "7",
+                "FT": "6",
                 "FTA": "7",
                 "FT%": "18",
                 "ORB": "14",
@@ -278,8 +284,8 @@
                 "PW": "37",
                 "PL": "32",
                 "MOV": "1.35",
-                "SOS": "-0.05",
-                "SRS": "1.30",
+                "SOS": "-0.04",
+                "SRS": "1.31",
                 "ORtg": "115.1",
                 "DRtg": "113.7",
                 "Pace": "97.7",
@@ -295,7 +301,7 @@
             },
             "Misc Lg Rank": {
                 "W": "6",
-                "L": "24",
+                "L": "25",
                 "PW": "13",
                 "PL": "13",
                 "MOV": "13",
@@ -307,7 +313,7 @@
                 "FTr": "2",
                 "3PAr": "16",
                 "eFG%": "8",
-                "TOV%": "20",
+                "TOV%": "19",
                 "ORB%": "24",
                 "FT/FGA": "8",
                 "DRB%": "13",
@@ -315,7 +321,7 @@
                 "Attendance": "8"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/LAL-2025.png",
-        "last_update": "Mar 21 2025 22:32:21"
+        "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/LAL-2025.png",
+        "last_update": "Mar 22 2025 22:32:19"
     }
 }

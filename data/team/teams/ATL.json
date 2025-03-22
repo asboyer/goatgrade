@@ -37,8 +37,8 @@
             {
                 "Player": "Clint Capela",
                 "Team": "Atlanta Hawks",
-                "Update": "Tue, Mar 18, 2025",
-                "Description": "Day To Day (Personal) - Capela did not play on Tuesday's (Mar. 18) game against the Hornets."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Out (Hand) - The Hawks announced on Friday (Mar. 21) that Capela has been diagnosed with a ligament injury in the fourth metacarpal of his left hand. He will be re-evaluated in approximately three-to-four weeks."
             },
             {
                 "Player": "Jalen Johnson",
@@ -49,14 +49,20 @@
             {
                 "Player": "Caris LeVert",
                 "Team": "Atlanta Hawks",
-                "Update": "Tue, Mar 18, 2025",
-                "Description": "Day To Day (Knee) - LeVert did not play on Tuesday's (Mar. 18) game against the Hornets."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Knee) - The Hawks listed LeVert as Probable for Saturday's (Mar. 22) game against the Warriors."
             },
             {
                 "Player": "Larry Nance Jr.",
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Feb 12, 2025",
                 "Description": "Out (Knee) - The Hawks announced on Wednesday (Feb. 12) that Nance Jr. will be re-evaluated in approximately six weeks, and an update will be provided at that time."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as Probable for Saturday's (Mar. 22) game against the Warriors."
             }
         ],
         "team_stats": {
@@ -112,21 +118,21 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "26",
                 "FG": "8",
                 "FGA": "5",
-                "FG%": "14",
+                "FG%": "15",
                 "3P": "16",
-                "3PA": "16",
+                "3PA": "15",
                 "3P%": "21",
                 "2P": "8",
                 "2PA": "7",
                 "2P%": "17",
                 "FT": "2",
-                "FTA": "3",
-                "FT%": "20",
+                "FTA": "2",
+                "FT%": "21",
                 "ORB": "9",
-                "DRB": "22",
+                "DRB": "21",
                 "TRB": "13",
                 "AST": "2",
                 "STL": "2",
@@ -212,27 +218,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "26",
                 "FG": "25",
                 "FGA": "20",
                 "FG%": "28",
-                "3P": "26",
+                "3P": "25",
                 "3PA": "15",
-                "3P%": "28",
+                "3P%": "27",
                 "2P": "26",
-                "2PA": "19",
+                "2PA": "20",
                 "2P%": "26",
                 "FT": "21",
-                "FTA": "18",
+                "FTA": "19",
                 "FT%": "30",
                 "ORB": "6",
                 "DRB": "22",
-                "TRB": "15",
+                "TRB": "16",
                 "AST": "26",
                 "STL": "28",
                 "BLK": "16",
                 "TOV": "2",
-                "PF": "5",
+                "PF": "4",
                 "PTS": "27"
             },
             "Opp Year/Year": {
@@ -266,8 +272,8 @@
                 "PW": "30",
                 "PL": "39",
                 "MOV": "-2.07",
-                "SOS": "-0.12",
-                "SRS": "-2.19",
+                "SOS": "-0.14",
+                "SRS": "-2.21",
                 "ORtg": "113.3",
                 "DRtg": "115.3",
                 "Pace": "102.9",
@@ -282,12 +288,12 @@
                 "Attendance": "556,220"
             },
             "Misc Lg Rank": {
-                "W": "16",
+                "W": "18",
                 "L": "15",
                 "PW": "20",
-                "PL": "21",
+                "PL": "19",
                 "MOV": "20",
-                "SOS": "19",
+                "SOS": "20",
                 "SRS": "21",
                 "ORtg": "19",
                 "DRtg": "17",
@@ -297,13 +303,13 @@
                 "eFG%": "28",
                 "TOV%": "4",
                 "ORB%": "11",
-                "FT/FGA": "19",
-                "DRB%": "8",
+                "FT/FGA": "20",
+                "DRB%": "9",
                 "Arena": "",
-                "Attendance": "27"
+                "Attendance": "28"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/ATL-2025.png",
-        "last_update": "Mar 21 2025 22:32:21"
+        "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/ATL-2025.png",
+        "last_update": "Mar 22 2025 22:32:19"
     }
 }

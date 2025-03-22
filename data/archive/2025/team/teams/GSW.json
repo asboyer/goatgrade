@@ -29,14 +29,14 @@
             {
                 "Player": "Stephen Curry",
                 "Team": "Golden State Warriors",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Day To Day (Back) - Curry hit the floor hard following a fall and went straight to the locker room to be analyzed for an apparent back injury, Sam Gordon of the San Francisco Chronicle reports."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Out (Pelvis) - The Warriors announced that Curry suffered a pelvic contusion and is OUT for Saturday's (Mar. 22) game against the Hawks."
             },
             {
                 "Player": "Gary Payton II",
                 "Team": "Golden State Warriors",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Day To Day (Knee) - Payton II did not play on Thursday's (Mar. 20) game against the Raptors."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Knee) - The Warriors listed Payton II as Questionable on Saturday's (Mar. 22) game against the Hawks."
             }
         ],
         "team_stats": {
@@ -92,7 +92,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "20",
                 "FG": "20",
                 "FGA": "6",
                 "FG%": "26",
@@ -101,14 +101,14 @@
                 "3P%": "14",
                 "2P": "26",
                 "2PA": "26",
-                "2P%": "24",
+                "2P%": "25",
                 "FT": "24",
-                "FTA": "18",
+                "FTA": "17",
                 "FT%": "28",
-                "ORB": "5",
+                "ORB": "4",
                 "DRB": "16",
                 "TRB": "4",
-                "AST": "3",
+                "AST": "4",
                 "STL": "5",
                 "BLK": "13",
                 "TOV": "15",
@@ -192,14 +192,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "20",
                 "FG": "7",
                 "FGA": "6",
                 "FG%": "11",
                 "3P": "9",
                 "3PA": "9",
-                "3P%": "15",
-                "2P": "8",
+                "3P%": "13",
+                "2P": "7",
                 "2PA": "12",
                 "2P%": "11",
                 "FT": "14",
@@ -207,13 +207,13 @@
                 "FT%": "6",
                 "ORB": "7",
                 "DRB": "21",
-                "TRB": "16",
+                "TRB": "17",
                 "AST": "10",
-                "STL": "7",
+                "STL": "6",
                 "BLK": "25",
                 "TOV": "6",
-                "PF": "24",
-                "PTS": "7"
+                "PF": "23",
+                "PTS": "8"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -246,8 +246,8 @@
                 "PW": "41",
                 "PL": "29",
                 "MOV": "2.59",
-                "SOS": "0.38",
-                "SRS": "2.97",
+                "SOS": "0.40",
+                "SRS": "2.98",
                 "ORtg": "114.3",
                 "DRtg": "111.7",
                 "Pace": "99.0",
@@ -280,10 +280,10 @@
                 "FT/FGA": "17",
                 "DRB%": "10",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "11"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503201/tlogo/bbr/GSW-2025.png",
-        "last_update": "Mar 21 2025 22:32:21"
+        "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/GSW-2025.png",
+        "last_update": "Mar 22 2025 22:32:19"
     }
 }
