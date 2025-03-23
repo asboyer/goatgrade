@@ -31,26 +31,26 @@
             {
                 "Player": "Brandon Clarke",
                 "Team": "Memphis Grizzlies",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Out (Knee) - The Grizzlies listed Clarke as OUT for Friday's (Mar. 21) game against the Clippers."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Out For Season (Knee) - The Grizzlies annonced Clarke will mis the reaminder of the of the 2024-25 season with a PCL strain in his right knee."
             },
             {
                 "Player": "Ja Morant",
                 "Team": "Memphis Grizzlies",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Out (Hamstring) - The Grizzlies listed Morant as OUT for Friday's (Mar. 21) game against the Clippers."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Hamstring) - Morant Clarke did not play on Friday's (Mar. 21) game against the Clippers. Friday's (Mar. 21) game against the Clippers."
             },
             {
                 "Player": "Zyon Pullin",
                 "Team": "Memphis Grizzlies",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Out (Knee) - The Grizzlies listed Pullin as OUT for Friday's (Mar. 21) game against the Clippers."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Knee) - Pullin Clarke did not play on Friday's (Mar. 21) game against the Clippers. Friday's (Mar. 21) game against the Clippers."
             },
             {
                 "Player": "Lamar Stevens",
                 "Team": "Memphis Grizzlies",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Out (Shoulder) - The Grizzlies listed Stevens as OUT for Friday's (Mar. 21) game against the Clippers."
+                "Update": "Fri, Mar 21, 2025",
+                "Description": "Day To Day (Shoulder) - Stevens Clarke did not play on Friday's (Mar. 21) game against the Clippers. Friday's (Mar. 21) game against the Clippers."
             }
         ],
         "team_stats": {
@@ -106,10 +106,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "13",
                 "FG": "2",
                 "FGA": "1",
-                "FG%": "7",
+                "FG%": "8",
                 "3P": "11",
                 "3PA": "14",
                 "3P%": "11",
@@ -206,13 +206,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "13",
                 "FG": "19",
                 "FGA": "25",
                 "FG%": "6",
-                "3P": "26",
+                "3P": "25",
                 "3PA": "26",
-                "3P%": "14",
+                "3P%": "13",
                 "2P": "16",
                 "2PA": "21",
                 "2P%": "5",
@@ -260,8 +260,8 @@
                 "PW": "46",
                 "PL": "25",
                 "MOV": "5.20",
-                "SOS": "-0.24",
-                "SRS": "4.96",
+                "SOS": "-0.25",
+                "SRS": "4.95",
                 "ORtg": "117.8",
                 "DRtg": "112.8",
                 "Pace": "103.5",
@@ -276,13 +276,13 @@
                 "Attendance": "595,518"
             },
             "Misc Lg Rank": {
-                "W": "6",
+                "W": "7",
                 "L": "23",
                 "PW": "4",
                 "PL": "4",
                 "MOV": "4",
                 "SOS": "23",
-                "SRS": "4",
+                "SRS": "5",
                 "ORtg": "6",
                 "DRtg": "11",
                 "Pace": "1",
@@ -294,10 +294,10 @@
                 "FT/FGA": "22",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/MEM-2025.png",
-        "last_update": "Mar 22 2025 22:32:19"
+        "last_update": "Mar 23 2025 22:32:19"
     }
 }

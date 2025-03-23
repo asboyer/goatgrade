@@ -29,12 +29,6 @@
         ],
         "injuries": [
             {
-                "Player": "RJ Barrett",
-                "Team": "Toronto Raptors",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Day To Day (Illness) - Barrett did not play on Thursday's (Mar. 20) game against the Warriors."
-            },
-            {
                 "Player": "Ulrich Chomche",
                 "Team": "Toronto Raptors",
                 "Update": "Wed, Feb 19, 2025",
@@ -53,10 +47,22 @@
                 "Description": "Out (Ankle) - The Raptors announced on Thursday (Mar. 6) that Ingram is progressing as expected, but he remains limited to individual work on the court and will be re-evaluated in two weeks, per Josh Lewenberg of TSN.ca."
             },
             {
+                "Player": "Jakob Poeltl",
+                "Team": "Toronto Raptors",
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Out (Rest) - The Raptors listed Poeltl as OUT for Sunday's (Mar. 23) game against San Antonio."
+            },
+            {
+                "Player": "Immanuel Quickley",
+                "Team": "Toronto Raptors",
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Out (Rest) - The Raptors listed Quickley as OUT for Sunday's (Mar. 23) game against San Antonio."
+            },
+            {
                 "Player": "Ja'Kobe Walter",
                 "Team": "Toronto Raptors",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Day To Day (Hip) - Walter did not play on Thursday's (Mar. 20) game against the Warriors."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Hip) - The Raptors listed Walter as Questionable for Sunday's (Mar. 23) game against San Antonio."
             }
         ],
         "team_stats": {
@@ -112,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "17",
                 "FGA": "14",
                 "FG%": "19",
@@ -122,7 +128,7 @@
                 "2P": "9",
                 "2PA": "3",
                 "2P%": "24",
-                "FT": "23",
+                "FT": "24",
                 "FTA": "15",
                 "FT%": "29",
                 "ORB": "6",
@@ -212,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "13",
                 "FGA": "14",
                 "FG%": "14",
@@ -266,8 +272,8 @@
                 "PW": "24",
                 "PL": "46",
                 "MOV": "-5.10",
-                "SOS": "0.56",
-                "SRS": "-4.54",
+                "SOS": "0.58",
+                "SRS": "-4.52",
                 "ORtg": "110.6",
                 "DRtg": "115.7",
                 "Pace": "99.3",
@@ -300,10 +306,10 @@
                 "FT/FGA": "29",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/TOR-2025.png",
-        "last_update": "Mar 22 2025 22:32:19"
+        "last_update": "Mar 23 2025 22:32:19"
     }
 }

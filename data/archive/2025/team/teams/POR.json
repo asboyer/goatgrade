@@ -37,26 +37,26 @@
             {
                 "Player": "Donovan Clingan",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Out (Illness) - The Trail Blazers listed Clingan as OUT for Friday's (Mar. 21) game against the Nuggets."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Illness) - The Blazers listed Clingan as Questionable for Sunday's (Mar. 23) game against Boston."
             },
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Out (Knee) - The Trail Blazers listed Grant as OUT for Friday's (Mar. 21) game against the Nuggets."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Knee) - The Blazers listed Grant as Doubtful for Sunday's (Mar. 23) game against Boston."
             },
             {
                 "Player": "Anfernee Simons",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Out (Illness) - The Trail Blazers have listed Simons as Out for Friday's (Mar. 21) game against the Nuggets."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Illness) - The Blazers listed Simons as Questionable for Sunday's (Mar. 23) game against Boston."
             },
             {
                 "Player": "Jabari Walker",
                 "Team": "Portland Trail Blazers",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Out (Concussion) - The Trail Blazers listed Walker as OUT for Friday's (Mar. 21) game against the Nuggets."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Concussion) - The Blazers listed Walker as Questionable for Sunday's (Mar. 23) game against Boston."
             },
             {
                 "Player": "Robert Williams",
@@ -118,11 +118,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "8",
                 "FG": "23",
                 "FGA": "18",
                 "FG%": "23",
-                "3P": "19",
+                "3P": "20",
                 "3PA": "16",
                 "3P%": "25",
                 "2P": "17",
@@ -218,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "8",
                 "FG": "15",
                 "FGA": "12",
                 "FG%": "18",
@@ -233,7 +233,7 @@
                 "FT%": "28",
                 "ORB": "27",
                 "DRB": "9",
-                "TRB": "15",
+                "TRB": "16",
                 "AST": "13",
                 "STL": "29",
                 "BLK": "22",
@@ -272,8 +272,8 @@
                 "PW": "29",
                 "PL": "42",
                 "MOV": "-3.03",
-                "SOS": "0.37",
-                "SRS": "-2.66",
+                "SOS": "0.35",
+                "SRS": "-2.68",
                 "ORtg": "111.9",
                 "DRtg": "114.9",
                 "Pace": "98.7",
@@ -290,9 +290,9 @@
             "Misc Lg Rank": {
                 "W": "20",
                 "L": "10",
-                "PW": "22",
+                "PW": "23",
                 "PL": "23",
-                "MOV": "22",
+                "MOV": "23",
                 "SOS": "9",
                 "SRS": "22",
                 "ORtg": "22",
@@ -310,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/POR-2025.png",
-        "last_update": "Mar 22 2025 22:32:19"
+        "last_update": "Mar 23 2025 22:32:19"
     }
 }

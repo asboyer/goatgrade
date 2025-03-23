@@ -31,14 +31,14 @@
             {
                 "Player": "Ousmane Dieng",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Calf) - Dieng did not play on Friday's (Mar. 21) game against the Hornets."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Calf) - The Thunder listed Dieng as OUT for Sunday's (Mar. 23) game against Los Angeles."
             },
             {
                 "Player": "Luguentz Dort",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Hip) - Dort did not play on Friday's (Mar. 21) game against the Hornets."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Hip) - The Thunder listed Dort as Questionable for Sunday's (Mar. 23) game against Los Angeles."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -55,8 +55,8 @@
             {
                 "Player": "Jalen Williams",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Hip) - Williams did not play on Friday's (Mar. 21) game against the Hornets."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Out (Hip) - The Thunder listed Williams as OUT for Sunday's (Mar. 23) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -112,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "27",
                 "FG": "3",
                 "FGA": "3",
                 "FG%": "5",
@@ -212,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "27",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
@@ -223,7 +223,7 @@
                 "2PA": "1",
                 "2P%": "1",
                 "FT": "25",
-                "FTA": "26",
+                "FTA": "25",
                 "FT%": "8",
                 "ORB": "24",
                 "DRB": "16",
@@ -287,7 +287,7 @@
                 "PW": "1",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "19",
+                "SOS": "20",
                 "SRS": "1",
                 "ORtg": "2",
                 "DRtg": "1",
@@ -304,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/OKC-2025.png",
-        "last_update": "Mar 22 2025 22:32:19"
+        "last_update": "Mar 23 2025 22:32:19"
     }
 }

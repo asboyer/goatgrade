@@ -2,7 +2,7 @@
     "PHI": {
         "info": {
             "record": "23-47",
-            "standing": "13th in East",
+            "standing": "12th in East",
             "coach": "Nick Nurse (23-47)",
             "gm": "Daryl Morey",
             "preseason_odds": "+1400"
@@ -33,14 +33,14 @@
             {
                 "Player": "Adem Bona",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Ankle) - Bona did not play on Friday's (Mar. 21) game against the Spurs."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Out (Ankle) - The 76ers listed Bona as OUT for Sunday's (Mar. 23) game against Atlanta."
             },
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Toe) - Drummond did not play on Friday's (Mar. 21) game against the Spurs."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Out (Toe) - The 76ers listed Drummond as OUT for Sunday's (Mar. 23) game against Atlanta."
             },
             {
                 "Player": "Joel Embiid",
@@ -63,8 +63,8 @@
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Hip) - Lowry did not play on Friday's (Mar. 21) game against the Spurs."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Out (Hip) - The 76ers listed Lowry as OUT for Sunday's (Mar. 23) game against Atlanta."
             },
             {
                 "Player": "Tyrese Maxey",
@@ -81,14 +81,14 @@
             {
                 "Player": "Kelly Oubre Jr.",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Knee) - Oubre Jr. did not play on Friday's (Mar. 21) game against the Spurs."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Out (Knee) - The 76ers listed Oubre Jr. as OUT for Sunday's (Mar. 23) game against Atlanta."
             },
             {
                 "Player": "Lonnie Walker IV",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Head) - Walker did not return to Friday's (Mar. 21) game against the Spurs."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Out (Head) - The 76ers listed Walker IV as OUT for Sunday's (Mar. 23) game against Atlanta."
             }
         ],
         "team_stats": {
@@ -144,7 +144,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "25",
                 "FGA": "23",
                 "FG%": "22",
@@ -244,13 +244,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "20",
                 "FGA": "4",
                 "FG%": "30",
                 "3P": "24",
                 "3PA": "14",
-                "3P%": "28",
+                "3P%": "27",
                 "2P": "18",
                 "2PA": "4",
                 "2P%": "30",
@@ -263,9 +263,9 @@
                 "AST": "24",
                 "STL": "4",
                 "BLK": "19",
-                "TOV": "4",
-                "PF": "11",
-                "PTS": "17"
+                "TOV": "3",
+                "PF": "12",
+                "PTS": "18"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -298,8 +298,8 @@
                 "PW": "24",
                 "PL": "46",
                 "MOV": "-5.43",
-                "SOS": "0.30",
-                "SRS": "-5.13",
+                "SOS": "0.31",
+                "SRS": "-5.12",
                 "ORtg": "112.3",
                 "DRtg": "117.9",
                 "Pace": "97.2",
@@ -315,7 +315,7 @@
             },
             "Misc Lg Rank": {
                 "W": "25",
-                "L": "5",
+                "L": "6",
                 "PW": "25",
                 "PL": "25",
                 "MOV": "25",
@@ -325,17 +325,17 @@
                 "DRtg": "26",
                 "Pace": "25",
                 "FTr": "5",
-                "3PAr": "14",
+                "3PAr": "13",
                 "eFG%": "30",
                 "TOV%": "3",
                 "ORB%": "25",
                 "FT/FGA": "21",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "6"
+                "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/PHI-2025.png",
-        "last_update": "Mar 22 2025 22:32:19"
+        "last_update": "Mar 23 2025 22:32:19"
     }
 }

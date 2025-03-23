@@ -31,8 +31,8 @@
             {
                 "Player": "Tim Hardaway Jr.",
                 "Team": "Detroit Pistons",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Ankle) - Hardaway did not return to Friday's (Mar. 21) game against the Mavericks."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Out (Ankle) - The Pistons listed Hardaway Jr. as OUT for Sunday's (Mar. 23) game against New Orleans."
             },
             {
                 "Player": "Jaden Ivey",
@@ -109,7 +109,7 @@
                 "FT%": "18",
                 "ORB": "10",
                 "DRB": "7",
-                "TRB": "7",
+                "TRB": "6",
                 "AST": "14",
                 "STL": "14",
                 "BLK": "10",
@@ -197,8 +197,8 @@
                 "MP": "4",
                 "FG": "6",
                 "FGA": "7",
-                "FG%": "10",
-                "3P": "17",
+                "FG%": "9",
+                "3P": "16",
                 "3PA": "12",
                 "3P%": "22",
                 "2P": "4",
@@ -213,8 +213,8 @@
                 "AST": "6",
                 "STL": "25",
                 "BLK": "15",
-                "TOV": "8",
-                "PF": "21",
+                "TOV": "7",
+                "PF": "20",
                 "PTS": "14"
             },
             "Opp Year/Year": {
@@ -248,8 +248,8 @@
                 "PW": "40",
                 "PL": "31",
                 "MOV": "2.20",
-                "SOS": "-0.65",
-                "SRS": "1.54",
+                "SOS": "-0.62",
+                "SRS": "1.58",
                 "ORtg": "114.3",
                 "DRtg": "112.1",
                 "Pace": "100.1",
@@ -264,28 +264,28 @@
                 "Attendance": "642,900"
             },
             "Misc Lg Rank": {
-                "W": "13",
+                "W": "14",
                 "L": "17",
                 "PW": "11",
                 "PL": "12",
                 "MOV": "12",
-                "SOS": "28",
+                "SOS": "27",
                 "SRS": "12",
                 "ORtg": "16",
                 "DRtg": "8",
                 "Pace": "5",
-                "FTr": "19",
+                "FTr": "18",
                 "3PAr": "24",
                 "eFG%": "10",
                 "TOV%": "8",
                 "ORB%": "10",
                 "FT/FGA": "27",
-                "DRB%": "3",
+                "DRB%": "2",
                 "Arena": "",
                 "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/DET-2025.png",
-        "last_update": "Mar 22 2025 22:32:19"
+        "last_update": "Mar 23 2025 22:32:19"
     }
 }

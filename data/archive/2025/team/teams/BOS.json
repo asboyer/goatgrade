@@ -34,10 +34,28 @@
                 "Description": "Day To Day (Knee) - Brown has been diagnosed with a bone bruise with posterior impingement in his right knee. Heâll miss the next two games and will be reevaluated on Monday (Mar. 24)."
             },
             {
+                "Player": "Jrue Holiday",
+                "Team": "Boston Celtics",
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Shoulder) - The Celtics listed Holiday as questionable for Sunday's (Mar. 23) game against Portland."
+            },
+            {
+                "Player": "Kristaps Porziņģis",
+                "Team": "Boston Celtics",
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Illness) - The Celtics listed Porzingis as questionable for Sunday's (Mar. 23) game against Portland."
+            },
+            {
+                "Player": "Jayson Tatum",
+                "Team": "Boston Celtics",
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Knee) - The Celtics listed Tatum as questionable for Sunday's (Mar. 23) game against Portland."
+            },
+            {
                 "Player": "Xavier Tillman Sr.",
                 "Team": "Boston Celtics",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Knee) - Tillman Sr. did not play on Friday's (Mar. 21) game against the Jazz."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Out (Knee) - The Celtics listed Tillman Sr. as OUT for Sunday's (Mar. 23) game against Portland."
             }
         ],
         "team_stats": {
@@ -93,28 +111,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "18",
                 "FG": "15",
                 "FGA": "12",
                 "FG%": "18",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "8",
+                "3P%": "7",
                 "2P": "30",
                 "2PA": "30",
-                "2P%": "3",
+                "2P%": "4",
                 "FT": "28",
                 "FTA": "29",
                 "FT%": "6",
-                "ORB": "14",
+                "ORB": "15",
                 "DRB": "9",
                 "TRB": "10",
                 "AST": "18",
-                "STL": "28",
+                "STL": "27",
                 "BLK": "5",
                 "TOV": "2",
                 "PF": "2",
-                "PTS": "9"
+                "PTS": "8"
             },
             "Year/Year": {
                 "G": "",
@@ -193,15 +211,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
-                "FG": "9",
+                "MP": "18",
+                "FG": "8",
                 "FGA": "17",
                 "FG%": "2",
-                "3P": "6",
+                "3P": "5",
                 "3PA": "10",
-                "3P%": "4",
+                "3P%": "3",
                 "2P": "10",
-                "2PA": "19",
+                "2PA": "20",
                 "2P%": "4",
                 "FT": "2",
                 "FTA": "2",
@@ -247,8 +265,8 @@
                 "PW": "52",
                 "PL": "18",
                 "MOV": "8.63",
-                "SOS": "-0.58",
-                "SRS": "8.05",
+                "SOS": "-0.55",
+                "SRS": "8.08",
                 "ORtg": "120.1",
                 "DRtg": "111.2",
                 "Pace": "96.2",
@@ -281,10 +299,10 @@
                 "FT/FGA": "1",
                 "DRB%": "7",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/BOS-2025.png",
-        "last_update": "Mar 22 2025 22:32:19"
+        "last_update": "Mar 23 2025 22:32:19"
     }
 }

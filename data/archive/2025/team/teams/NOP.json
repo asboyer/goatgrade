@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Jose Alvarado",
+                "Team": "New Orleans Pelicans",
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Illness) - The Pelicans listed Alvarado as Questionable for Sunday's (Mar. 23) game against Detroit."
+            },
+            {
                 "Player": "Brandon Boston Jr.",
                 "Team": "New Orleans Pelicans",
                 "Update": "Fri, Mar 7, 2025",
@@ -38,6 +44,12 @@
                 "Team": "New Orleans Pelicans",
                 "Update": "Tue, Feb 11, 2025",
                 "Description": "Out For Season (Shoulder) - New Orleans VP Griffin said Tuesday (Feb. 11) that he expects Jones to miss the remainder of the season, according to Will Guillory of The Athletic."
+            },
+            {
+                "Player": "Yves Missi",
+                "Team": "New Orleans Pelicans",
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Hip) - The Pelicans listed Missi as Questionable fro Sunday's (Mar. 23) game against Detroit."
             },
             {
                 "Player": "Trey Murphy III",
@@ -54,8 +66,8 @@
             {
                 "Player": "Zion Williamson",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Back) - Williamson did not play on Friday's (Mar. 21) game versus the Timberwolves."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Back) - The Pelicans listed Williamson as Questionable fro Sunday's (Mar. 23) game against Detroit."
             }
         ],
         "team_stats": {
@@ -111,7 +123,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "8",
                 "FG": "21",
                 "FGA": "10",
                 "FG%": "24",
@@ -121,15 +133,15 @@
                 "2P": "13",
                 "2PA": "5",
                 "2P%": "27",
-                "FT": "19",
+                "FT": "20",
                 "FTA": "12",
                 "FT%": "26",
                 "ORB": "7",
                 "DRB": "27",
                 "TRB": "21",
-                "AST": "21",
+                "AST": "20",
                 "STL": "8",
-                "BLK": "9",
+                "BLK": "8",
                 "TOV": "18",
                 "PF": "8",
                 "PTS": "24"
@@ -211,7 +223,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "8",
                 "FG": "29",
                 "FGA": "22",
                 "FG%": "29",
@@ -265,8 +277,8 @@
                 "PW": "18",
                 "PL": "53",
                 "MOV": "-8.99",
-                "SOS": "0.90",
-                "SRS": "-8.08",
+                "SOS": "0.89",
+                "SRS": "-8.09",
                 "ORtg": "110.7",
                 "DRtg": "119.7",
                 "Pace": "99.2",
@@ -299,10 +311,10 @@
                 "FT/FGA": "12",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/NOP-2025.png",
-        "last_update": "Mar 22 2025 22:32:19"
+        "last_update": "Mar 23 2025 22:32:19"
     }
 }

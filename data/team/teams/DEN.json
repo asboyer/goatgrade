@@ -2,7 +2,7 @@
     "DEN": {
         "info": {
             "record": "44-27",
-            "standing": "4th in West",
+            "standing": "3rd in West",
             "coach": "Michael Malone (44-27)",
             "gm": "Calvin Booth",
             "preseason_odds": "+750"
@@ -29,6 +29,18 @@
         ],
         "injuries": [
             {
+                "Player": "Christian Braun",
+                "Team": "Denver Nuggets",
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Foot) - The Nuggets listed Murray as Probable for Sunday's (Mar. 23) game against Houston."
+            },
+            {
+                "Player": "Aaron Gordon",
+                "Team": "Denver Nuggets",
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets listed Gordon as Probable for Sunday's (Mar. 23) game agaisnt Houston."
+            },
+            {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sun, Feb 23, 2025",
@@ -37,8 +49,14 @@
             {
                 "Player": "Nikola Jokić",
                 "Team": "Denver Nuggets",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Out (Ankle) - The Nuggets listed Jokic as OUT for Friday's (Mar. 21) game against the Trail Blazers."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Out (Ankle) - The Nuggets listed Jokic as OUT for Sunday's (Mar. 23) game agaisnt Houston."
+            },
+            {
+                "Player": "Jamal Murray",
+                "Team": "Denver Nuggets",
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets listed Murray as Probable for Sunday's (Mar. 23) game agaisnt Houston."
             },
             {
                 "Player": "Julian Strawther",
@@ -254,8 +272,8 @@
                 "PW": "43",
                 "PL": "28",
                 "MOV": "3.86",
-                "SOS": "-0.02",
-                "SRS": "3.84",
+                "SOS": "-0.05",
+                "SRS": "3.81",
                 "ORtg": "119.9",
                 "DRtg": "116.0",
                 "Pace": "100.0",
@@ -272,7 +290,7 @@
             "Misc Lg Rank": {
                 "W": "5",
                 "L": "24",
-                "PW": "7",
+                "PW": "8",
                 "PL": "8",
                 "MOV": "8",
                 "SOS": "16",
@@ -283,15 +301,15 @@
                 "FTr": "9",
                 "3PAr": "30",
                 "eFG%": "16",
-                "TOV%": "27",
+                "TOV%": "26",
                 "ORB%": "8",
-                "FT/FGA": "4",
+                "FT/FGA": "5",
                 "DRB%": "18",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/DEN-2025.png",
-        "last_update": "Mar 22 2025 22:32:19"
+        "last_update": "Mar 23 2025 22:32:19"
     }
 }

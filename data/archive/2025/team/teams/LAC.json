@@ -31,8 +31,8 @@
             {
                 "Player": "Jordan Miller",
                 "Team": "Los Angeles Clippers",
-                "Update": "Thu, Mar 20, 2025",
-                "Description": "Out (Hamstring) - The Clippers listed Miller as OUT for Friday's (Mar. 21) game against the Grizzlies."
+                "Update": "Sat, Mar 22, 2025",
+                "Description": "Out (Hamstring) - The Clippers listed Miller as OUT for Sunday's (Mar. 23) game against Oklahoma City."
             }
         ],
         "team_stats": {
@@ -88,25 +88,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "22",
                 "FG": "18",
                 "FGA": "26",
                 "FG%": "11",
                 "3P": "26",
                 "3PA": "28",
-                "3P%": "12",
+                "3P%": "13",
                 "2P": "12",
                 "2PA": "13",
                 "2P%": "15",
                 "FT": "13",
-                "FTA": "16",
+                "FTA": "17",
                 "FT%": "8",
                 "ORB": "22",
                 "DRB": "13",
                 "TRB": "20",
                 "AST": "24",
                 "STL": "3",
-                "BLK": "22",
+                "BLK": "21",
                 "TOV": "22",
                 "PF": "14",
                 "PTS": "21"
@@ -188,16 +188,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "22",
                 "FG": "3",
                 "FGA": "3",
-                "FG%": "8",
+                "FG%": "7",
                 "3P": "11",
                 "3PA": "13",
-                "3P%": "6",
+                "3P%": "7",
                 "2P": "2",
                 "2PA": "3",
-                "2P%": "18",
+                "2P%": "17",
                 "FT": "8",
                 "FTA": "9",
                 "FT%": "7",
@@ -242,8 +242,8 @@
                 "PW": "42",
                 "PL": "28",
                 "MOV": "3.39",
-                "SOS": "0.12",
-                "SRS": "3.50",
+                "SOS": "0.10",
+                "SRS": "3.48",
                 "ORtg": "113.9",
                 "DRtg": "110.5",
                 "Pace": "97.7",
@@ -258,7 +258,7 @@
                 "Attendance": "572,849"
             },
             "Misc Lg Rank": {
-                "W": "11",
+                "W": "12",
                 "L": "19",
                 "PW": "9",
                 "PL": "9",
@@ -276,10 +276,10 @@
                 "FT/FGA": "15",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "27"
+                "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/LAC-2025.png",
-        "last_update": "Mar 22 2025 22:32:19"
+        "last_update": "Mar 23 2025 22:32:19"
     }
 }
