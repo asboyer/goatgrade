@@ -30,14 +30,8 @@
             {
                 "Player": "Anthony Davis",
                 "Team": "Dallas Mavericks",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Out (Adductor) - The Mavericks announced on Friday (Mar. 7) that Davis is improving daily and is week-to-week, per Tim MacMahon of ESPN.com."
-            },
-            {
-                "Player": "Kessler Edwards",
-                "Team": "Dallas Mavericks",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Not Injury Related) - Edwards did not play on Friday's (Mar. 21) game against the Pistons."
+                "Update": "Sun, Mar 23, 2025",
+                "Description": "Day To Day (Adductor) - The Mavericks listed Davis as Doubtful for Monday's (Mar. 24) game against Brooklyn."
             },
             {
                 "Player": "Dante Exum",
@@ -66,14 +60,20 @@
             {
                 "Player": "Caleb Martin",
                 "Team": "Dallas Mavericks",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Hip) - Martin did not play on Friday's (Mar. 21) game against the Pistons."
+                "Update": "Sun, Mar 23, 2025",
+                "Description": "Out (Hip) - The Mavericks listed Davis as Doubtful for Monday's (Mar. 24) game against Brooklyn."
             },
             {
                 "Player": "Olivier-Maxence Prosper",
                 "Team": "Dallas Mavericks",
                 "Update": "Thu, Mar 13, 2025",
                 "Description": "Out For Season (Wrist) - The Mavericks announced on Thursday (Mar. 13) that Prosper has been ruled out for the remainder of the 2024-25 season after undergoing surgery to repair a right wrist injury."
+            },
+            {
+                "Player": "Brandon Williams",
+                "Team": "Dallas Mavericks",
+                "Update": "Sun, Mar 23, 2025",
+                "Description": "Day To Day (Back) - The Mavericks listed Williams as Probable for Monday's (Mar. 24) game against Brooklyn."
             }
         ],
         "team_stats": {
@@ -129,27 +129,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "18",
                 "FG": "11",
                 "FGA": "20",
-                "FG%": "13",
-                "3P": "18",
-                "3PA": "24",
+                "FG%": "12",
+                "3P": "19",
+                "3PA": "23",
                 "3P%": "10",
                 "2P": "11",
                 "2PA": "12",
-                "2P%": "16",
+                "2P%": "15",
                 "FT": "5",
-                "FTA": "5",
+                "FTA": "6",
                 "FT%": "19",
                 "ORB": "23",
                 "DRB": "19",
-                "TRB": "22",
+                "TRB": "21",
                 "AST": "22",
                 "STL": "21",
                 "BLK": "6",
                 "TOV": "10",
-                "PF": "10",
+                "PF": "9",
                 "PTS": "12"
             },
             "Year/Year": {
@@ -229,28 +229,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "18",
                 "FG": "23",
                 "FGA": "24",
-                "FG%": "17",
-                "3P": "7",
+                "FG%": "16",
+                "3P": "5",
                 "3PA": "3",
                 "3P%": "21",
                 "2P": "29",
                 "2PA": "30",
                 "2P%": "8",
-                "FT": "13",
-                "FTA": "13",
-                "FT%": "14",
+                "FT": "12",
+                "FTA": "12",
+                "FT%": "15",
                 "ORB": "29",
                 "DRB": "18",
                 "TRB": "26",
                 "AST": "19",
                 "STL": "12",
-                "BLK": "13",
+                "BLK": "12",
                 "TOV": "24",
-                "PF": "17",
-                "PTS": "19"
+                "PF": "16",
+                "PTS": "18"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -283,8 +283,8 @@
                 "PW": "35",
                 "PL": "36",
                 "MOV": "-0.39",
-                "SOS": "0.61",
-                "SRS": "0.21",
+                "SOS": "0.62",
+                "SRS": "0.22",
                 "ORtg": "115.5",
                 "DRtg": "115.9",
                 "Pace": "99.3",
@@ -299,7 +299,7 @@
                 "Attendance": "722,389"
             },
             "Misc Lg Rank": {
-                "W": "16",
+                "W": "17",
                 "L": "13",
                 "PW": "16",
                 "PL": "16",
@@ -309,18 +309,18 @@
                 "ORtg": "11",
                 "DRtg": "20",
                 "Pace": "14",
-                "FTr": "4",
+                "FTr": "5",
                 "3PAr": "21",
-                "eFG%": "11",
+                "eFG%": "10",
                 "TOV%": "24",
                 "ORB%": "22",
-                "FT/FGA": "9",
+                "FT/FGA": "10",
                 "DRB%": "26",
                 "Arena": "",
                 "Attendance": "1"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/DAL-2025.png",
-        "last_update": "Mar 23 2025 22:32:19"
+        "last_update": "Mar 24 2025 22:32:18"
     }
 }

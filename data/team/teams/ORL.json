@@ -31,14 +31,14 @@
             {
                 "Player": "Cole Anthony",
                 "Team": "Orlando Magic",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Toe) - Anthony did not play on Friday's (Mar. 21) game against the Wizards."
+                "Update": "Sun, Mar 23, 2025",
+                "Description": "Day To Day (Toe) - The Magic listed Anthony as Questionable for Monday's (Mar. 24) game against Los Angeles."
             },
             {
                 "Player": "Trevelin Queen",
                 "Team": "Orlando Magic",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Ankle) - Queen did not play on Friday's (Mar. 21) game against the Wizards."
+                "Update": "Sun, Mar 23, 2025",
+                "Description": "Day To Day (Ankle) - The Magic listed Queen as Questionable for Monday's (Mar. 24) game against Los Angeles."
             },
             {
                 "Player": "Jalen Suggs",
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "18",
                 "FG": "29",
                 "FGA": "29",
                 "FG%": "27",
@@ -206,13 +206,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "18",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "20",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "26",
+                "3P%": "25",
                 "2P": "3",
                 "2PA": "6",
                 "2P%": "9",
@@ -220,9 +220,9 @@
                 "FTA": "27",
                 "FT%": "3",
                 "ORB": "1",
-                "DRB": "17",
+                "DRB": "16",
                 "TRB": "3",
-                "AST": "2",
+                "AST": "1",
                 "STL": "10",
                 "BLK": "10",
                 "TOV": "2",
@@ -260,8 +260,8 @@
                 "PW": "32",
                 "PL": "39",
                 "MOV": "-1.31",
-                "SOS": "-0.48",
-                "SRS": "-1.79",
+                "SOS": "-0.50",
+                "SRS": "-1.81",
                 "ORtg": "108.5",
                 "DRtg": "109.9",
                 "Pace": "96.3",
@@ -279,10 +279,10 @@
                 "W": "19",
                 "L": "12",
                 "PW": "18",
-                "PL": "18",
+                "PL": "19",
                 "MOV": "18",
                 "SOS": "25",
-                "SRS": "19",
+                "SRS": "20",
                 "ORtg": "28",
                 "DRtg": "2",
                 "Pace": "27",
@@ -294,10 +294,10 @@
                 "FT/FGA": "30",
                 "DRB%": "1",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "15"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/ORL-2025.png",
-        "last_update": "Mar 23 2025 22:32:19"
+        "last_update": "Mar 24 2025 22:32:18"
     }
 }

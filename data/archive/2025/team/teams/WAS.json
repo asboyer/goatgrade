@@ -37,8 +37,8 @@
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Sat, Mar 22, 2025",
-                "Description": "Day To Day (Ankle) - Brogdon did not play on Saturday's (Mar. 22) game against the Knicks."
+                "Update": "Sun, Mar 23, 2025",
+                "Description": "Out (Ankle) - The Wizards listed Brogdon as OUT for Monday's (Mar. 24) game against Toronto."
             },
             {
                 "Player": "Bilal Coulibaly",
@@ -51,12 +51,6 @@
                 "Team": "Washington Wizards",
                 "Update": "Tue, Mar 18, 2025",
                 "Description": "Out For Season (Thumb) - Kispert underwent successful surgery on his left thumb on Tuesday (Mar. 18) and is expected to make a full recovery and be ready for the start of next season."
-            },
-            {
-                "Player": "Khris Middleton",
-                "Team": "Washington Wizards",
-                "Update": "Sat, Mar 22, 2025",
-                "Description": "Day To Day (Ankle) - Middleton did not play on Saturday's (Mar. 22) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -112,8 +106,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
-                "FG": "26",
+                "MP": "27",
+                "FG": "27",
                 "FGA": "9",
                 "FG%": "28",
                 "3P": "15",
@@ -121,7 +115,7 @@
                 "3P%": "29",
                 "2P": "24",
                 "2PA": "15",
-                "2P%": "26",
+                "2P%": "27",
                 "FT": "27",
                 "FTA": "25",
                 "FT%": "16",
@@ -212,15 +206,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "26",
                 "FGA": "28",
                 "FG%": "22",
                 "3P": "27",
-                "3PA": "23",
+                "3PA": "24",
                 "3P%": "24",
                 "2P": "26",
-                "2PA": "26",
+                "2PA": "25",
                 "2P%": "20",
                 "FT": "29",
                 "FTA": "25",
@@ -229,8 +223,8 @@
                 "DRB": "30",
                 "TRB": "30",
                 "AST": "25",
-                "STL": "28",
-                "BLK": "21",
+                "STL": "27",
+                "BLK": "20",
                 "TOV": "23",
                 "PF": "21",
                 "PTS": "30"
@@ -283,18 +277,18 @@
             },
             "Misc Lg Rank": {
                 "W": "30",
-                "L": "1",
+                "L": "2",
                 "PW": "30",
                 "PL": "30",
                 "MOV": "30",
-                "SOS": "4",
+                "SOS": "5",
                 "SRS": "30",
                 "ORtg": "30",
                 "DRtg": "28",
                 "Pace": "4",
                 "FTr": "26",
                 "3PAr": "11",
-                "eFG%": "23",
+                "eFG%": "24",
                 "TOV%": "25",
                 "ORB%": "23",
                 "FT/FGA": "24",
@@ -304,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/WAS-2025.png",
-        "last_update": "Mar 23 2025 22:32:19"
+        "last_update": "Mar 24 2025 22:32:18"
     }
 }

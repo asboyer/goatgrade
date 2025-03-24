@@ -36,8 +36,8 @@
             {
                 "Player": "Domantas Sabonis",
                 "Team": "Sacramento Kings",
-                "Update": "Tue, Mar 18, 2025",
-                "Description": "Out (Ankle) - Sabonis will miss at least 10 days due to a sprained right ankle, according to Shams Charania of ESPN."
+                "Update": "Sun, Mar 23, 2025",
+                "Description": "Day To Day (Ankle) - The Kings listed Sabonis as Questionable for Monday's (Mar. 24) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -93,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "24",
                 "FG": "7",
                 "FGA": "7",
                 "FG%": "10",
@@ -109,12 +109,12 @@
                 "ORB": "14",
                 "DRB": "15",
                 "TRB": "15",
-                "AST": "12",
+                "AST": "13",
                 "STL": "24",
                 "BLK": "24",
                 "TOV": "5",
-                "PF": "17",
-                "PTS": "8"
+                "PF": "16",
+                "PTS": "9"
             },
             "Year/Year": {
                 "G": "",
@@ -193,12 +193,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "24",
                 "FG": "17",
                 "FGA": "9",
-                "FG%": "24",
+                "FG%": "25",
                 "3P": "28",
-                "3PA": "16",
+                "3PA": "17",
                 "3P%": "30",
                 "2P": "5",
                 "2PA": "7",
@@ -211,10 +211,10 @@
                 "TRB": "7",
                 "AST": "20",
                 "STL": "14",
-                "BLK": "8",
+                "BLK": "7",
                 "TOV": "18",
-                "PF": "18",
-                "PTS": "22"
+                "PF": "19",
+                "PTS": "21"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -247,8 +247,8 @@
                 "PW": "36",
                 "PL": "34",
                 "MOV": "0.67",
-                "SOS": "-0.05",
-                "SRS": "0.62",
+                "SOS": "-0.04",
+                "SRS": "0.63",
                 "ORtg": "116.8",
                 "DRtg": "116.1",
                 "Pace": "98.6",
@@ -268,10 +268,10 @@
                 "PW": "15",
                 "PL": "15",
                 "MOV": "15",
-                "SOS": "17",
+                "SOS": "15",
                 "SRS": "14",
                 "ORtg": "8",
-                "DRtg": "24",
+                "DRtg": "23",
                 "Pace": "18",
                 "FTr": "22",
                 "3PAr": "23",
@@ -279,12 +279,12 @@
                 "TOV%": "17",
                 "ORB%": "14",
                 "FT/FGA": "23",
-                "DRB%": "3",
+                "DRB%": "2",
                 "Arena": "",
                 "Attendance": "23"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/SAC-2025.png",
-        "last_update": "Mar 23 2025 22:32:19"
+        "last_update": "Mar 24 2025 22:32:18"
     }
 }

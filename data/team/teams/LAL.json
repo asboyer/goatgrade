@@ -29,6 +29,18 @@
         ],
         "injuries": [
             {
+                "Player": "Rui Hachimura",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sun, Mar 23, 2025",
+                "Description": "Day To Day (Patellar) - The Lakers listed Hachimura as Questionable for Monday's (Mar. 24) game against the Magic."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sun, Mar 23, 2025",
+                "Description": "Day To Day (Groin) - The Lakers listed James as Probable for Monday's (Mar. 24) game against the Magic."
+            },
+            {
                 "Player": "Maxi Kleber",
                 "Team": "Los Angeles Lakers",
                 "Update": "Tue, Feb 4, 2025",
@@ -88,11 +100,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "19",
                 "FGA": "30",
                 "FG%": "9",
-                "3P": "19",
+                "3P": "20",
                 "3PA": "19",
                 "3P%": "16",
                 "2P": "15",
@@ -106,8 +118,8 @@
                 "TRB": "26",
                 "AST": "15",
                 "STL": "23",
-                "BLK": "21",
-                "TOV": "12",
+                "BLK": "22",
+                "TOV": "13",
                 "PF": "5",
                 "PTS": "19"
             },
@@ -188,28 +200,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "12",
                 "FGA": "16",
-                "FG%": "10",
+                "FG%": "9",
                 "3P": "13",
                 "3PA": "18",
-                "3P%": "4",
-                "2P": "14",
+                "3P%": "3",
+                "2P": "15",
                 "2PA": "14",
                 "2P%": "18",
                 "FT": "6",
                 "FTA": "6",
-                "FT%": "18",
+                "FT%": "19",
                 "ORB": "14",
                 "DRB": "8",
                 "TRB": "8",
                 "AST": "22",
                 "STL": "17",
                 "BLK": "4",
-                "TOV": "19",
+                "TOV": "20",
                 "PF": "6",
-                "PTS": "10"
+                "PTS": "11"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -242,8 +254,8 @@
                 "PW": "37",
                 "PL": "33",
                 "MOV": "0.89",
-                "SOS": "-0.08",
-                "SRS": "0.81",
+                "SOS": "-0.07",
+                "SRS": "0.82",
                 "ORtg": "115.0",
                 "DRtg": "114.1",
                 "Pace": "97.8",
@@ -263,14 +275,14 @@
                 "PW": "14",
                 "PL": "14",
                 "MOV": "14",
-                "SOS": "19",
+                "SOS": "16",
                 "SRS": "13",
                 "ORtg": "12",
                 "DRtg": "13",
                 "Pace": "20",
                 "FTr": "2",
                 "3PAr": "16",
-                "eFG%": "8",
+                "eFG%": "9",
                 "TOV%": "21",
                 "ORB%": "24",
                 "FT/FGA": "8",
@@ -280,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/LAL-2025.png",
-        "last_update": "Mar 23 2025 22:32:19"
+        "last_update": "Mar 24 2025 22:32:18"
     }
 }

@@ -2,7 +2,7 @@
     "BRK": {
         "info": {
             "record": "23-48",
-            "standing": "13th in East",
+            "standing": "12th in East",
             "coach": "Jordi Fernández Torres (23-48)",
             "gm": "Sean Marks",
             "preseason_odds": "+100000"
@@ -36,8 +36,8 @@
             {
                 "Player": "D'Angelo Russell",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Mar 22, 2025",
-                "Description": "Day To Day (Ankle) - Russell did not play on Saturday's (Mar. 22) game versus the Pacers."
+                "Update": "Sun, Mar 23, 2025",
+                "Description": "Day To Day (Ankle) - The Nets listed Russell as Questionable for Monday's (Mar. 24) game against the Mavericks."
             },
             {
                 "Player": "Cam Thomas",
@@ -48,8 +48,8 @@
             {
                 "Player": "Ziaire Williams",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Mar 22, 2025",
-                "Description": "Day To Day (Hamstring) - Williams did not play on Saturday's (Mar. 22) game versus the Pacers."
+                "Update": "Sun, Mar 23, 2025",
+                "Description": "Day To Day (Hamstring) - The Nets listed Williams as Questionable for Monday's (Mar. 24) game against the Mavericks."
             }
         ],
         "team_stats": {
@@ -105,7 +105,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "13",
                 "FG": "30",
                 "FGA": "27",
                 "FG%": "29",
@@ -114,8 +114,8 @@
                 "3P%": "27",
                 "2P": "29",
                 "2PA": "29",
-                "2P%": "29",
-                "FT": "23",
+                "2P%": "28",
+                "FT": "24",
                 "FTA": "24",
                 "FT%": "11",
                 "ORB": "12",
@@ -205,26 +205,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "5",
+                "MP": "13",
+                "FG": "4",
                 "FGA": "2",
                 "FG%": "27",
                 "3P": "8",
                 "3PA": "5",
-                "3P%": "20",
+                "3P%": "19",
                 "2P": "6",
                 "2PA": "2",
                 "2P%": "27",
                 "FT": "23",
                 "FTA": "24",
-                "FT%": "17",
+                "FT%": "16",
                 "ORB": "5",
                 "DRB": "15",
                 "TRB": "9",
-                "AST": "17",
+                "AST": "16",
                 "STL": "13",
                 "BLK": "27",
-                "TOV": "7",
+                "TOV": "8",
                 "PF": "13",
                 "PTS": "9"
             },
@@ -259,7 +259,7 @@
                 "PW": "22",
                 "PL": "49",
                 "MOV": "-6.06",
-                "SOS": "0.30",
+                "SOS": "0.29",
                 "SRS": "-5.76",
                 "ORtg": "109.1",
                 "DRtg": "115.4",
@@ -280,7 +280,7 @@
                 "PW": "26",
                 "PL": "26",
                 "MOV": "26",
-                "SOS": "11",
+                "SOS": "10",
                 "SRS": "26",
                 "ORtg": "27",
                 "DRtg": "18",
@@ -288,15 +288,15 @@
                 "FTr": "19",
                 "3PAr": "6",
                 "eFG%": "26",
-                "TOV%": "5",
+                "TOV%": "4",
                 "ORB%": "16",
                 "FT/FGA": "28",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "26"
+                "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/BRK-2025.png",
-        "last_update": "Mar 23 2025 22:32:19"
+        "last_update": "Mar 24 2025 22:32:18"
     }
 }

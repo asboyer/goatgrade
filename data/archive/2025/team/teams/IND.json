@@ -33,6 +33,12 @@
                 "Team": "Indiana Pacers",
                 "Update": "Sat, Nov 2, 2024",
                 "Description": "Out For Season (Calf) - The Indiana Pacers announced C Isaiah Jackson has sustained a torn right Achilles tendon in Friday's (Nov. 1) game versus the Pelicans and will be out for the remainder of the season, per Shams Charania of ESPN."
+            },
+            {
+                "Player": "Bennedict Mathurin",
+                "Team": "Indiana Pacers",
+                "Update": "Sun, Mar 23, 2025",
+                "Description": "Day To Day (Illness) - The Pacers listed Mathurin as Questionable for Monday's (Mar. 24) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -88,16 +94,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "26",
                 "FG": "6",
                 "FGA": "19",
                 "FG%": "3",
-                "3P": "17",
-                "3PA": "23",
+                "3P": "18",
+                "3PA": "22",
                 "3P%": "8",
                 "2P": "5",
                 "2PA": "11",
-                "2P%": "3",
+                "2P%": "4",
                 "FT": "18",
                 "FTA": "21",
                 "FT%": "10",
@@ -105,11 +111,11 @@
                 "DRB": "24",
                 "TRB": "29",
                 "AST": "5",
-                "STL": "10",
+                "STL": "9",
                 "BLK": "12",
                 "TOV": "7",
-                "PF": "18",
-                "PTS": "7"
+                "PF": "19",
+                "PTS": "8"
             },
             "Year/Year": {
                 "G": "",
@@ -188,11 +194,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "26",
                 "FG": "22",
                 "FGA": "18",
                 "FG%": "26",
-                "3P": "5",
+                "3P": "4",
                 "3PA": "8",
                 "3P%": "11",
                 "2P": "27",
@@ -201,14 +207,14 @@
                 "FT": "20",
                 "FTA": "20",
                 "FT%": "11",
-                "ORB": "17",
+                "ORB": "18",
                 "DRB": "20",
                 "TRB": "20",
                 "AST": "14",
                 "STL": "5",
                 "BLK": "9",
                 "TOV": "11",
-                "PF": "19",
+                "PF": "20",
                 "PTS": "17"
             },
             "Opp Year/Year": {
@@ -242,7 +248,7 @@
                 "PW": "38",
                 "PL": "32",
                 "MOV": "1.21",
-                "SOS": "-0.65",
+                "SOS": "-0.66",
                 "SRS": "0.56",
                 "ORtg": "115.9",
                 "DRtg": "114.7",
@@ -263,14 +269,14 @@
                 "PW": "13",
                 "PL": "13",
                 "MOV": "13",
-                "SOS": "28",
+                "SOS": "27",
                 "SRS": "15",
                 "ORtg": "10",
                 "DRtg": "15",
                 "Pace": "9",
                 "FTr": "20",
                 "3PAr": "22",
-                "eFG%": "21",
+                "eFG%": "20",
                 "TOV%": "11",
                 "ORB%": "29",
                 "FT/FGA": "18",
@@ -280,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/IND-2025.png",
-        "last_update": "Mar 23 2025 22:32:19"
+        "last_update": "Mar 24 2025 22:32:18"
     }
 }

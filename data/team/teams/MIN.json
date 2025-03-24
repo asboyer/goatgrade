@@ -2,7 +2,7 @@
     "MIN": {
         "info": {
             "record": "41-31",
-            "standing": "8th in West",
+            "standing": "7th in West",
             "coach": "Chris Finch (41-31)",
             "gm": "Tim Connelly",
             "preseason_odds": "+850"
@@ -27,7 +27,14 @@
             "Bones Hyland",
             "Jesse Edwards"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Anthony Edwards",
+                "Team": "Minnesota Timberwolves",
+                "Update": "Sun, Mar 23, 2025",
+                "Description": "Day To Day (Thumb) - The Timberwolves listed Edwards as Questionable for Monday's (Mar. 24) game against the Pacers."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "72",
@@ -81,7 +88,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "22",
                 "FGA": "22",
                 "FG%": "17",
@@ -90,18 +97,18 @@
                 "3P%": "5",
                 "2P": "27",
                 "2PA": "28",
-                "2P%": "20",
+                "2P%": "21",
                 "FT": "11",
-                "FTA": "14",
-                "FT%": "7",
+                "FTA": "15",
+                "FT%": "8",
                 "ORB": "19",
                 "DRB": "18",
                 "TRB": "19",
                 "AST": "17",
-                "STL": "11",
+                "STL": "12",
                 "BLK": "16",
-                "TOV": "19",
-                "PF": "12",
+                "TOV": "18",
+                "PF": "11",
                 "PTS": "16"
             },
             "Year/Year": {
@@ -181,27 +188,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "2",
                 "FG": "7",
                 "FGA": "8",
                 "FG%": "8",
                 "3P": "3",
                 "3PA": "6",
-                "3P%": "6",
-                "2P": "13",
+                "3P%": "5",
+                "2P": "14",
                 "2PA": "17",
                 "2P%": "10",
                 "FT": "5",
                 "FTA": "5",
                 "FT%": "6",
-                "ORB": "15",
+                "ORB": "16",
                 "DRB": "11",
-                "TRB": "11",
-                "AST": "4",
+                "TRB": "10",
+                "AST": "5",
                 "STL": "19",
                 "BLK": "11",
                 "TOV": "12",
-                "PF": "8",
+                "PF": "7",
                 "PTS": "6"
             },
             "Opp Year/Year": {
@@ -235,8 +242,8 @@
                 "PW": "46",
                 "PL": "26",
                 "MOV": "4.51",
-                "SOS": "0.39",
-                "SRS": "4.91",
+                "SOS": "0.40",
+                "SRS": "4.92",
                 "ORtg": "115.9",
                 "DRtg": "111.3",
                 "Pace": "97.5",
@@ -254,12 +261,12 @@
                 "W": "9",
                 "L": "18",
                 "PW": "5",
-                "PL": "6",
-                "MOV": "6",
-                "SOS": "6",
-                "SRS": "6",
+                "PL": "5",
+                "MOV": "5",
+                "SOS": "8",
+                "SRS": "5",
                 "ORtg": "9",
-                "DRtg": "6",
+                "DRtg": "5",
                 "Pace": "23",
                 "FTr": "11",
                 "3PAr": "4",
@@ -273,6 +280,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/MIN-2025.png",
-        "last_update": "Mar 23 2025 22:32:19"
+        "last_update": "Mar 24 2025 22:32:18"
     }
 }
