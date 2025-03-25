@@ -29,8 +29,8 @@
             {
                 "Player": "Stephen Curry",
                 "Team": "Golden State Warriors",
-                "Update": "Sun, Mar 23, 2025",
-                "Description": "Day To Day (Pelvis) - Curry will join the Warriors for Tuesday's (Mar. 25) game in Miami, and his status will be determined based on his response to treatment over the next two days, Shams Charania of ESPN reports."
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Day To Day (Pelvis) - The Warriors listed Curry as Questionable for Tuesday's (Mar. 25) game against the Heat."
             }
         ],
         "team_stats": {
@@ -86,14 +86,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "21",
                 "FGA": "6",
                 "FG%": "26",
                 "3P": "4",
                 "3PA": "3",
                 "3P%": "14",
-                "2P": "26",
+                "2P": "27",
                 "2PA": "26",
                 "2P%": "24",
                 "FT": "23",
@@ -186,7 +186,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "9",
                 "FGA": "6",
                 "FG%": "11",
@@ -199,11 +199,11 @@
                 "FT": "13",
                 "FTA": "14",
                 "FT%": "5",
-                "ORB": "7",
-                "DRB": "23",
-                "TRB": "17",
+                "ORB": "8",
+                "DRB": "24",
+                "TRB": "18",
                 "AST": "12",
-                "STL": "6",
+                "STL": "7",
                 "BLK": "25",
                 "TOV": "6",
                 "PF": "22",
@@ -256,28 +256,28 @@
                 "Attendance": "668,368"
             },
             "Misc Lg Rank": {
-                "W": "9",
-                "L": "20",
+                "W": "10",
+                "L": "21",
                 "PW": "11",
-                "PL": "11",
+                "PL": "10",
                 "MOV": "10",
                 "SOS": "9",
                 "SRS": "10",
                 "ORtg": "17",
                 "DRtg": "7",
                 "Pace": "16",
-                "FTr": "21",
+                "FTr": "20",
                 "3PAr": "2",
                 "eFG%": "11",
                 "TOV%": "6",
-                "ORB%": "7",
-                "FT/FGA": "17",
+                "ORB%": "8",
+                "FT/FGA": "16",
                 "DRB%": "10",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/GSW-2025.png",
-        "last_update": "Mar 24 2025 22:32:18"
+        "last_update": "Mar 25 2025 22:32:18"
     }
 }

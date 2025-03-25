@@ -31,14 +31,20 @@
             {
                 "Player": "Ousmane Dieng",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Sat, Mar 22, 2025",
-                "Description": "Day To Day (Calf) - The Thunder listed Dieng as OUT for Sunday's (Mar. 23) game against Los Angeles."
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Out (Calf) - The Thunder listed Dieng as OUT for Tuesday's (Mar. 25) game against Sacaramento."
+            },
+            {
+                "Player": "Alex Ducas",
+                "Team": "Oklahoma City Thunder",
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Out (Quadriceps) - The Thunder listed Ducas as OUT for Tuesday's (Mar. 25) game against Sacaramento."
             },
             {
                 "Player": "Chet Holmgren",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Sun, Mar 23, 2025",
-                "Description": "Out (Hip) - The Thunder listed Holmgren as OUT for Sunday's (Mar. 23) game against Los Angeles."
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Day To Day (Hip) - The Thunder listed Holmgren as Questionable for Tuesday's (Mar. 25) game against Sacaramento."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -55,8 +61,8 @@
             {
                 "Player": "Jalen Williams",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Sat, Mar 22, 2025",
-                "Description": "Out (Hip) - The Thunder listed Williams as OUT for Sunday's (Mar. 23) game against Los Angeles."
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Day To Day (Hip) - The Thunder listed Williams as Questionable for Tuesday's (Mar. 25) game against Sacaramento."
             }
         ],
         "team_stats": {
@@ -80,7 +86,7 @@
                 "TRB": "3182",
                 "AST": "1903",
                 "STL": "743",
-                "BLK": "409",
+                "BLK": "410",
                 "TOV": "837",
                 "PF": "1421",
                 "PTS": "8508"
@@ -112,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "4",
                 "FGA": "3",
                 "FG%": "8",
@@ -127,7 +133,7 @@
                 "FT%": "1",
                 "ORB": "20",
                 "DRB": "6",
-                "TRB": "10",
+                "TRB": "11",
                 "AST": "12",
                 "STL": "1",
                 "BLK": "4",
@@ -155,7 +161,7 @@
                 "TRB": "6.6%",
                 "AST": "-1.1%",
                 "STL": "23.6%",
-                "BLK": "-12.2%",
+                "BLK": "-12.0%",
                 "TOV": "-7.0%",
                 "PF": "6.2%",
                 "PTS": "-0.2%"
@@ -164,13 +170,13 @@
                 "G": "71",
                 "MP": "17065",
                 "FG": "2676",
-                "FGA": "6148",
+                "FGA": "6149",
                 "FG%": ".435",
                 "3P": "933",
                 "3PA": "2758",
                 "3P%": ".338",
                 "2P": "1743",
-                "2PA": "3390",
+                "2PA": "3391",
                 "2P%": ".514",
                 "FT": "1307",
                 "FTA": "1691",
@@ -195,7 +201,7 @@
                 "3PA": "38.8",
                 "3P%": ".338",
                 "2P": "24.5",
-                "2PA": "47.7",
+                "2PA": "47.8",
                 "2P%": ".514",
                 "FT": "18.4",
                 "FTA": "23.8",
@@ -212,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
@@ -224,9 +230,9 @@
                 "2P%": "1",
                 "FT": "25",
                 "FTA": "26",
-                "FT%": "7",
+                "FT%": "8",
                 "ORB": "24",
-                "DRB": "16",
+                "DRB": "18",
                 "TRB": "23",
                 "AST": "4",
                 "STL": "1",
@@ -246,7 +252,7 @@
                 "3P%": "-.022",
                 "2P": "-9.6%",
                 "2PA": "-8.3%",
-                "2P%": "-.007",
+                "2P%": "-.008",
                 "FT": "1.9%",
                 "FTA": "4.0%",
                 "FT%": "-.016",
@@ -267,10 +273,10 @@
                 "PL": "12",
                 "MOV": "12.90",
                 "SOS": "-0.08",
-                "SRS": "12.83",
+                "SRS": "12.82",
                 "ORtg": "120.1",
                 "DRtg": "107.1",
-                "Pace": "99.6",
+                "Pace": "99.7",
                 "FTr": ".218",
                 "3PAr": ".421",
                 "eFG%": ".511",
@@ -287,7 +293,7 @@
                 "PW": "1",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "18",
+                "SOS": "16",
                 "SRS": "1",
                 "ORtg": "3",
                 "DRtg": "1",
@@ -298,12 +304,12 @@
                 "TOV%": "2",
                 "ORB%": "21",
                 "FT/FGA": "26",
-                "DRB%": "21",
+                "DRB%": "22",
                 "Arena": "",
                 "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/OKC-2025.png",
-        "last_update": "Mar 24 2025 22:32:18"
+        "last_update": "Mar 25 2025 22:32:18"
     }
 }

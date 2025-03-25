@@ -2,7 +2,7 @@
     "LAC": {
         "info": {
             "record": "40-31",
-            "standing": "8th in West",
+            "standing": "7th in West",
             "coach": "Tyronn Lue (40-31)",
             "gm": "Lawrence Frank",
             "preseason_odds": "+3000"
@@ -31,8 +31,8 @@
             {
                 "Player": "Jordan Miller",
                 "Team": "Los Angeles Clippers",
-                "Update": "Sat, Mar 22, 2025",
-                "Description": "Out (Hamstring) - The Clippers listed Miller as OUT for Sunday's (Mar. 23) game against Oklahoma City."
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Day To Day (Hamstring) - Miller did not play in Sunday's (Mar. 23) game against the Thunder."
             }
         ],
         "team_stats": {
@@ -40,13 +40,13 @@
                 "G": "71",
                 "MP": "17140",
                 "FG": "2917",
-                "FGA": "6123",
+                "FGA": "6124",
                 "FG%": ".476",
                 "3P": "871",
                 "3PA": "2391",
                 "3P%": ".364",
                 "2P": "2046",
-                "2PA": "3732",
+                "2PA": "3733",
                 "2P%": ".548",
                 "FT": "1231",
                 "FTA": "1550",
@@ -65,7 +65,7 @@
                 "G": "",
                 "MP": "241.4",
                 "FG": "41.1",
-                "FGA": "86.2",
+                "FGA": "86.3",
                 "FG%": ".476",
                 "3P": "12.3",
                 "3PA": "33.7",
@@ -88,7 +88,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "19",
                 "FG": "18",
                 "FGA": "26",
                 "FG%": "13",
@@ -98,13 +98,13 @@
                 "2P": "12",
                 "2PA": "13",
                 "2P%": "16",
-                "FT": "13",
-                "FTA": "16",
+                "FT": "11",
+                "FTA": "15",
                 "FT%": "7",
                 "ORB": "22",
                 "DRB": "13",
                 "TRB": "20",
-                "AST": "24",
+                "AST": "25",
                 "STL": "3",
                 "BLK": "20",
                 "TOV": "22",
@@ -156,7 +156,7 @@
                 "TRB": "2988",
                 "AST": "1819",
                 "STL": "636",
-                "BLK": "313",
+                "BLK": "314",
                 "TOV": "1074",
                 "PF": "1268",
                 "PTS": "7701"
@@ -188,7 +188,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "13",
+                "MP": "19",
                 "FG": "3",
                 "FGA": "3",
                 "FG%": "7",
@@ -199,13 +199,13 @@
                 "2PA": "3",
                 "2P%": "16",
                 "FT": "7",
-                "FTA": "9",
-                "FT%": "8",
+                "FTA": "8",
+                "FT%": "9",
                 "ORB": "3",
                 "DRB": "9",
                 "TRB": "2",
                 "AST": "8",
-                "STL": "23",
+                "STL": "24",
                 "BLK": "8",
                 "TOV": "9",
                 "PF": "27",
@@ -231,7 +231,7 @@
                 "TRB": "-0.3%",
                 "AST": "-3.0%",
                 "STL": "23.0%",
-                "BLK": "-5.9%",
+                "BLK": "-5.6%",
                 "TOV": "16.0%",
                 "PF": "-4.7%",
                 "PTS": "-3.5%"
@@ -242,8 +242,8 @@
                 "PW": "43",
                 "PL": "28",
                 "MOV": "3.31",
-                "SOS": "0.28",
-                "SRS": "3.59",
+                "SOS": "0.27",
+                "SRS": "3.58",
                 "ORtg": "113.8",
                 "DRtg": "110.4",
                 "Pace": "97.6",
@@ -259,9 +259,9 @@
             },
             "Misc Lg Rank": {
                 "W": "12",
-                "L": "18",
+                "L": "19",
                 "PW": "9",
-                "PL": "9",
+                "PL": "8",
                 "MOV": "9",
                 "SOS": "11",
                 "SRS": "8",
@@ -276,10 +276,10 @@
                 "FT/FGA": "13",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/LAC-2025.png",
-        "last_update": "Mar 24 2025 22:32:18"
+        "last_update": "Mar 25 2025 22:32:18"
     }
 }

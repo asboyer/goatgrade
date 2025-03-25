@@ -24,6 +24,7 @@
             "Delon Wright",
             "Anton Watson",
             "MarJon Beauchamp",
+            "P.J. Tucker",
             "Kevin McCullar Jr."
         ],
         "injuries": [
@@ -42,8 +43,14 @@
             {
                 "Player": "Miles McBride",
                 "Team": "New York Knicks",
-                "Update": "Sat, Mar 22, 2025",
-                "Description": "Day To Day (Groin) - McBride did not play on Saturday's (Mar. 22) game against the Wizards."
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Out (Groin) - The Knicks listed McBride as Out for Tuesday's (Mar. 25) game against the Mavericks."
+            },
+            {
+                "Player": "Mitchell Robinson",
+                "Team": "New York Knicks",
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Day To Day (Ankle) - The Knicks listed Robinson as Questionable for Tuesday's (Mar. 25) game against the Mavericks."
             }
         ],
         "team_stats": {
@@ -99,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "29",
                 "FG": "5",
                 "FGA": "17",
                 "FG%": "4",
@@ -108,9 +115,9 @@
                 "3P%": "9",
                 "2P": "3",
                 "2PA": "5",
-                "2P%": "8",
+                "2P%": "7",
                 "FT": "19",
-                "FTA": "23",
+                "FTA": "24",
                 "FT%": "5",
                 "ORB": "18",
                 "DRB": "25",
@@ -120,7 +127,7 @@
                 "BLK": "29",
                 "TOV": "4",
                 "PF": "4",
-                "PTS": "10"
+                "PTS": "9"
             },
             "Year/Year": {
                 "G": "",
@@ -199,10 +206,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
-                "FG": "17",
+                "MP": "29",
+                "FG": "18",
                 "FGA": "13",
-                "FG%": "21",
+                "FG%": "22",
                 "3P": "14",
                 "3PA": "7",
                 "3P%": "28",
@@ -212,7 +219,7 @@
                 "FT": "4",
                 "FTA": "4",
                 "FT%": "27",
-                "ORB": "13",
+                "ORB": "12",
                 "DRB": "2",
                 "TRB": "4",
                 "AST": "9",
@@ -253,8 +260,8 @@
                 "PW": "44",
                 "PL": "26",
                 "MOV": "4.17",
-                "SOS": "-0.86",
-                "SRS": "3.31",
+                "SOS": "-0.84",
+                "SRS": "3.33",
                 "ORtg": "118.6",
                 "DRtg": "114.4",
                 "Pace": "97.1",
@@ -272,7 +279,7 @@
                 "W": "6",
                 "L": "26",
                 "PW": "8",
-                "PL": "7",
+                "PL": "6",
                 "MOV": "7",
                 "SOS": "29",
                 "SRS": "9",
@@ -281,16 +288,16 @@
                 "Pace": "26",
                 "FTr": "25",
                 "3PAr": "28",
-                "eFG%": "22",
+                "eFG%": "23",
                 "TOV%": "13",
                 "ORB%": "12",
                 "FT/FGA": "4",
                 "DRB%": "18",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/NYK-2025.png",
-        "last_update": "Mar 24 2025 22:32:18"
+        "last_update": "Mar 25 2025 22:32:18"
     }
 }

@@ -25,16 +25,9 @@
             "Tre Mann",
             "Wendell Moore Jr.",
             "Damion Baugh",
-            "Josh Okogie",
-            "Marcus Garrett"
+            "Josh Okogie"
         ],
         "injuries": [
-            {
-                "Player": "Josh Green",
-                "Team": "Charlotte Hornets",
-                "Update": "Sun, Mar 23, 2025",
-                "Description": "Out (Shoulder) - The Hornets listed Green as Out for Sunday's (Mar. 23) game against the Heat."
-            },
             {
                 "Player": "Tre Mann",
                 "Team": "Charlotte Hornets",
@@ -50,8 +43,8 @@
             {
                 "Player": "Josh Okogie",
                 "Team": "Charlotte Hornets",
-                "Update": "Sat, Mar 22, 2025",
-                "Description": "Out (Hamstring) - The Hornets listed Okogie as OUT for Sunday's (Mar. 23) game against Miami."
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Day To Day (Hamstring) - The Hornets listed Okogie as Questionable for Tuesday's (Mar. 25) game against the Magic."
             },
             {
                 "Player": "Grant Williams",
@@ -113,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "21",
                 "FG": "28",
                 "FGA": "15",
                 "FG%": "30",
@@ -121,19 +114,19 @@
                 "3PA": "10",
                 "3P%": "28",
                 "2P": "28",
-                "2PA": "17",
+                "2PA": "16",
                 "2P%": "30",
                 "FT": "30",
                 "FTA": "28",
-                "FT%": "12",
+                "FT%": "11",
                 "ORB": "4",
                 "DRB": "22",
                 "TRB": "7",
                 "AST": "26",
-                "STL": "25",
+                "STL": "26",
                 "BLK": "21",
                 "TOV": "24",
-                "PF": "18",
+                "PF": "19",
                 "PTS": "28"
             },
             "Year/Year": {
@@ -213,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "16",
+                "MP": "21",
                 "FG": "14",
                 "FGA": "11",
                 "FG%": "17",
@@ -222,17 +215,17 @@
                 "3P%": "12",
                 "2P": "8",
                 "2PA": "5",
-                "2P%": "26",
+                "2P%": "25",
                 "FT": "18",
                 "FTA": "16",
-                "FT%": "23",
-                "ORB": "15",
-                "DRB": "24",
+                "FT%": "24",
+                "ORB": "16",
+                "DRB": "25",
                 "TRB": "21",
                 "AST": "16",
                 "STL": "20",
                 "BLK": "24",
-                "TOV": "21",
+                "TOV": "20",
                 "PF": "24",
                 "PTS": "15"
             },
@@ -267,7 +260,7 @@
                 "PW": "19",
                 "PL": "52",
                 "MOV": "-8.18",
-                "SOS": "0.02",
+                "SOS": "0.03",
                 "SRS": "-8.16",
                 "ORtg": "107.9",
                 "DRtg": "116.3",
@@ -285,19 +278,19 @@
             "Misc Lg Rank": {
                 "W": "28",
                 "L": "3",
-                "PW": "28",
+                "PW": "29",
                 "PL": "28",
                 "MOV": "28",
-                "SOS": "13",
+                "SOS": "14",
                 "SRS": "29",
                 "ORtg": "29",
                 "DRtg": "24",
                 "Pace": "22",
                 "FTr": "27",
                 "3PAr": "12",
-                "eFG%": "21",
+                "eFG%": "22",
                 "TOV%": "20",
-                "ORB%": "6",
+                "ORB%": "7",
                 "FT/FGA": "19",
                 "DRB%": "17",
                 "Arena": "",
@@ -305,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/CHO-2025.png",
-        "last_update": "Mar 24 2025 22:32:18"
+        "last_update": "Mar 25 2025 22:32:18"
     }
 }

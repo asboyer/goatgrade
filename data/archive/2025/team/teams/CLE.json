@@ -28,10 +28,16 @@
         ],
         "injuries": [
             {
+                "Player": "Donovan Mitchell",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Out (Groin) - The Cavaliers listed Mitchell as OUT for Tuesday's (Mar. 25) game against Portland."
+            },
+            {
                 "Player": "Jaylon Tyson",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Sun, Mar 23, 2025",
-                "Description": "Day To Day (Knee) - Tyson did not play in Sunday's (Mar. 23) game against the Jazz."
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Out (Knee) - The Cavaliers listed Tyson as OUT for Tuesday's (Mar. 25) game against Portland."
             }
         ],
         "team_stats": {
@@ -87,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "3",
                 "FGA": "8",
                 "FG%": "2",
@@ -97,17 +103,17 @@
                 "2P": "14",
                 "2PA": "23",
                 "2P%": "1",
-                "FT": "12",
+                "FT": "10",
                 "FTA": "12",
-                "FT%": "13",
+                "FT%": "14",
                 "ORB": "17",
                 "DRB": "5",
                 "TRB": "8",
                 "AST": "9",
                 "STL": "13",
-                "BLK": "27",
+                "BLK": "28",
                 "TOV": "3",
-                "PF": "12",
+                "PF": "13",
                 "PTS": "1"
             },
             "Year/Year": {
@@ -187,7 +193,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "10",
                 "FGA": "19",
                 "FG%": "4",
@@ -202,12 +208,12 @@
                 "FT%": "13",
                 "ORB": "19",
                 "DRB": "9",
-                "TRB": "11",
+                "TRB": "10",
                 "AST": "7",
                 "STL": "9",
                 "BLK": "6",
                 "TOV": "13",
-                "PF": "9",
+                "PF": "8",
                 "PTS": "10"
             },
             "Opp Year/Year": {
@@ -241,8 +247,8 @@
                 "PW": "55",
                 "PL": "16",
                 "MOV": "10.39",
-                "SOS": "-0.98",
-                "SRS": "9.42",
+                "SOS": "-0.96",
+                "SRS": "9.43",
                 "ORtg": "122.3",
                 "DRtg": "111.9",
                 "Pace": "99.9",
@@ -267,18 +273,18 @@
                 "ORtg": "1",
                 "DRtg": "8",
                 "Pace": "8",
-                "FTr": "17",
-                "3PAr": "5",
-                "eFG%": "5",
+                "FTr": "16",
+                "3PAr": "4",
+                "eFG%": "4",
                 "TOV%": "14",
                 "ORB%": "13",
-                "FT/FGA": "9",
+                "FT/FGA": "10",
                 "DRB%": "12",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/CLE-2025.png",
-        "last_update": "Mar 24 2025 22:32:18"
+        "last_update": "Mar 25 2025 22:32:18"
     }
 }

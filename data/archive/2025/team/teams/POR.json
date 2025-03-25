@@ -35,10 +35,16 @@
                 "Description": "Out (Calf) - The Trail Blazers announced on Wednesday (Feb. 12) that Ayton has been diagnosed with a left calf strain and that he will be re-evaluated in four weeks."
             },
             {
+                "Player": "Dalano Banton",
+                "Team": "Portland Trail Blazers",
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Day To Day (Illness) - The Trail Blazers listed Grant as Doubtful for Tuesday's (Mar. 25) game against Cleveland."
+            },
+            {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sun, Mar 23, 2025",
-                "Description": "Out (Knee) - The Blazers listed Grant as Out for Sunday's (Mar. 23) game against Boston."
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Day To Day (Knee) - The Trail Blazers listed Grant as Doubtful for Tuesday's (Mar. 25) game against Cleveland."
             },
             {
                 "Player": "Robert Williams",
@@ -100,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "12",
                 "FG": "23",
                 "FGA": "18",
                 "FG%": "24",
@@ -200,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "12",
                 "FG": "16",
                 "FGA": "12",
                 "FG%": "19",
@@ -208,7 +214,7 @@
                 "3PA": "4",
                 "3P%": "20",
                 "2P": "21",
-                "2PA": "20",
+                "2PA": "19",
                 "2P%": "15",
                 "FT": "24",
                 "FTA": "23",
@@ -220,7 +226,7 @@
                 "STL": "29",
                 "BLK": "23",
                 "TOV": "10",
-                "PF": "8",
+                "PF": "7",
                 "PTS": "16"
             },
             "Opp Year/Year": {
@@ -255,7 +261,7 @@
                 "PL": "43",
                 "MOV": "-3.17",
                 "SOS": "0.46",
-                "SRS": "-2.70",
+                "SRS": "-2.71",
                 "ORtg": "112.1",
                 "DRtg": "115.3",
                 "Pace": "98.6",
@@ -275,14 +281,14 @@
                 "PW": "23",
                 "PL": "23",
                 "MOV": "23",
-                "SOS": "6",
-                "SRS": "22",
+                "SOS": "4",
+                "SRS": "23",
                 "ORtg": "22",
                 "DRtg": "16",
                 "Pace": "17",
                 "FTr": "14",
                 "3PAr": "17",
-                "eFG%": "17",
+                "eFG%": "18",
                 "TOV%": "10",
                 "ORB%": "3",
                 "FT/FGA": "25",
@@ -292,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/POR-2025.png",
-        "last_update": "Mar 24 2025 22:32:18"
+        "last_update": "Mar 25 2025 22:32:18"
     }
 }

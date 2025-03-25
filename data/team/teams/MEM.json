@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Marvin Bagley III",
+                "Team": "Memphis Grizzlies",
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Out (Concussion Protocol) - The Grizzlies listed Bagley III as OUT for Tuesday's (Mar. 25) game against Philadelphia."
+            },
+            {
                 "Player": "Brandon Clarke",
                 "Team": "Memphis Grizzlies",
                 "Update": "Sat, Mar 22, 2025",
@@ -37,20 +43,20 @@
             {
                 "Player": "Ja Morant",
                 "Team": "Memphis Grizzlies",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Hamstring) - Morant Clarke did not play on Friday's (Mar. 21) game against the Clippers. Friday's (Mar. 21) game against the Clippers."
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Out (Hamstring) - The Grizzlies listed Morant as OUT for Tuesday's (Mar. 25) game against Philadelphia."
             },
             {
                 "Player": "Zyon Pullin",
                 "Team": "Memphis Grizzlies",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Knee) - Pullin Clarke did not play on Friday's (Mar. 21) game against the Clippers. Friday's (Mar. 21) game against the Clippers."
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Out (Knee) - The Grizzlies listed Pullin as OUT for Tuesday's (Mar. 25) game against Philadelphia."
             },
             {
                 "Player": "Lamar Stevens",
                 "Team": "Memphis Grizzlies",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Day To Day (Shoulder) - Stevens Clarke did not play on Friday's (Mar. 21) game against the Clippers. Friday's (Mar. 21) game against the Clippers."
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Day To Day (Shoulder) - The Grizzlies listed Stevens as Doubtful for Tuesday's (Mar. 25) game against Philadelphia."
             }
         ],
         "team_stats": {
@@ -106,19 +112,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "2",
                 "FGA": "1",
-                "FG%": "7",
+                "FG%": "6",
                 "3P": "11",
                 "3PA": "14",
-                "3P%": "11",
+                "3P%": "12",
                 "2P": "2",
                 "2PA": "4",
                 "2P%": "10",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "14",
+                "FT%": "15",
                 "ORB": "2",
                 "DRB": "3",
                 "TRB": "2",
@@ -206,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "19",
                 "FGA": "25",
                 "FG%": "6",
@@ -224,10 +230,10 @@
                 "TRB": "13",
                 "AST": "21",
                 "STL": "22",
-                "BLK": "26",
+                "BLK": "27",
                 "TOV": "5",
                 "PF": "2",
-                "PTS": "25"
+                "PTS": "24"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -260,8 +266,8 @@
                 "PW": "46",
                 "PL": "25",
                 "MOV": "5.20",
-                "SOS": "-0.24",
-                "SRS": "4.96",
+                "SOS": "-0.23",
+                "SRS": "4.97",
                 "ORtg": "117.8",
                 "DRtg": "112.8",
                 "Pace": "103.5",
@@ -278,7 +284,7 @@
             "Misc Lg Rank": {
                 "W": "7",
                 "L": "23",
-                "PW": "4",
+                "PW": "5",
                 "PL": "4",
                 "MOV": "4",
                 "SOS": "23",
@@ -286,18 +292,18 @@
                 "ORtg": "6",
                 "DRtg": "11",
                 "Pace": "1",
-                "FTr": "9",
+                "FTr": "8",
                 "3PAr": "20",
                 "eFG%": "7",
                 "TOV%": "12",
                 "ORB%": "2",
-                "FT/FGA": "22",
+                "FT/FGA": "23",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/MEM-2025.png",
-        "last_update": "Mar 24 2025 22:32:18"
+        "last_update": "Mar 25 2025 22:32:18"
     }
 }

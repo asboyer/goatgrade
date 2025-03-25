@@ -29,10 +29,16 @@
         ],
         "injuries": [
             {
+                "Player": "Cade Cunningham",
+                "Team": "Detroit Pistons",
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Day To Day (Calf) - The Pistons listed Cunningham as Questionable for Tuesday's (Mar. 25) game against the Spurs."
+            },
+            {
                 "Player": "Tim Hardaway Jr.",
                 "Team": "Detroit Pistons",
-                "Update": "Sun, Mar 23, 2025",
-                "Description": "Day To Day (Ankle) - Hardaway Jr. did not play in Sunday's (Mar. 23) game against the Pelicans."
+                "Update": "Mon, Mar 24, 2025",
+                "Description": "Day To Day (Ankle) - The Pistons listed Hardaway Jr. as Questionable for Tuesday's (Mar. 25) game against the Spurs."
             },
             {
                 "Player": "Jaden Ivey",
@@ -94,12 +100,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "8",
                 "FG": "10",
                 "FGA": "16",
                 "FG%": "11",
                 "3P": "22",
-                "3PA": "24",
+                "3PA": "25",
                 "3P%": "15",
                 "2P": "6",
                 "2PA": "9",
@@ -107,14 +113,14 @@
                 "FT": "15",
                 "FTA": "14",
                 "FT%": "18",
-                "ORB": "10",
+                "ORB": "11",
                 "DRB": "8",
                 "TRB": "9",
                 "AST": "14",
                 "STL": "14",
-                "BLK": "10",
+                "BLK": "11",
                 "TOV": "23",
-                "PF": "26",
+                "PF": "28",
                 "PTS": "11"
             },
             "Year/Year": {
@@ -194,19 +200,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "8",
                 "FG": "6",
                 "FGA": "7",
-                "FG%": "10",
+                "FG%": "9",
                 "3P": "18",
                 "3PA": "12",
-                "3P%": "23",
+                "3P%": "24",
                 "2P": "4",
                 "2PA": "8",
                 "2P%": "7",
                 "FT": "27",
-                "FTA": "28",
-                "FT%": "10",
+                "FTA": "27",
+                "FT%": "11",
                 "ORB": "4",
                 "DRB": "5",
                 "TRB": "1",
@@ -214,7 +220,7 @@
                 "STL": "25",
                 "BLK": "15",
                 "TOV": "7",
-                "PF": "18",
+                "PF": "17",
                 "PTS": "14"
             },
             "Opp Year/Year": {
@@ -248,8 +254,8 @@
                 "PW": "41",
                 "PL": "31",
                 "MOV": "2.25",
-                "SOS": "-0.73",
-                "SRS": "1.52",
+                "SOS": "-0.70",
+                "SRS": "1.55",
                 "ORtg": "114.7",
                 "DRtg": "112.4",
                 "Pace": "100.0",
@@ -274,7 +280,7 @@
                 "ORtg": "16",
                 "DRtg": "9",
                 "Pace": "5",
-                "FTr": "16",
+                "FTr": "15",
                 "3PAr": "24",
                 "eFG%": "12",
                 "TOV%": "8",
@@ -282,10 +288,10 @@
                 "FT/FGA": "27",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "15"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/DET-2025.png",
-        "last_update": "Mar 24 2025 22:32:18"
+        "last_update": "Mar 25 2025 22:32:18"
     }
 }
