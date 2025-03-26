@@ -29,10 +29,16 @@
         ],
         "injuries": [
             {
+                "Player": "Christian Braun",
+                "Team": "Denver Nuggets",
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Day To Day (Foot) - The Nuggets listed Braun as Probable for Wednesday's (Mar. 26) game against Milwaukee."
+            },
+            {
                 "Player": "Aaron Gordon",
                 "Team": "Denver Nuggets",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Out (Calf) - The Nuggets listed Gordon as OUT for Monday's (Mar. 24) game against the Bulls."
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Day To Day (Calf) - The Nuggets listed Gordon as Questionable for Wednesday's (Mar. 26) game against Milwaukee."
             },
             {
                 "Player": "DaRon Holmes",
@@ -43,8 +49,8 @@
             {
                 "Player": "Nikola Jokić",
                 "Team": "Denver Nuggets",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Out (Ankle) - The Nuggets listed Jokic as Out for Monday's (Mar. 24) game against the Bulls."
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets listed Jokic as Doubtful for Wednesday's (Mar. 26) game against Milwaukee."
             },
             {
                 "Player": "Julian Strawther",
@@ -121,7 +127,7 @@
                 "FT%": "23",
                 "ORB": "10",
                 "DRB": "4",
-                "TRB": "5",
+                "TRB": "4",
                 "AST": "1",
                 "STL": "15",
                 "BLK": "17",
@@ -212,17 +218,17 @@
                 "FG%": "15",
                 "3P": "23",
                 "3PA": "20",
-                "3P%": "23",
+                "3P%": "24",
                 "2P": "24",
                 "2PA": "28",
                 "2P%": "12",
-                "FT": "9",
+                "FT": "10",
                 "FTA": "9",
-                "FT%": "12",
-                "ORB": "23",
+                "FT%": "13",
+                "ORB": "25",
                 "DRB": "1",
                 "TRB": "6",
-                "AST": "30",
+                "AST": "29",
                 "STL": "23",
                 "BLK": "21",
                 "TOV": "25",
@@ -260,8 +266,8 @@
                 "PW": "44",
                 "PL": "29",
                 "MOV": "3.68",
-                "SOS": "-0.01",
-                "SRS": "3.68",
+                "SOS": "-0.03",
+                "SRS": "3.66",
                 "ORtg": "119.9",
                 "DRtg": "116.3",
                 "Pace": "99.9",
@@ -278,26 +284,26 @@
             "Misc Lg Rank": {
                 "W": "5",
                 "L": "23",
-                "PW": "7",
+                "PW": "8",
                 "PL": "9",
                 "MOV": "8",
                 "SOS": "15",
                 "SRS": "7",
                 "ORtg": "4",
                 "DRtg": "23",
-                "Pace": "7",
-                "FTr": "9",
+                "Pace": "5",
+                "FTr": "8",
                 "3PAr": "30",
-                "eFG%": "16",
+                "eFG%": "17",
                 "TOV%": "27",
                 "ORB%": "6",
                 "FT/FGA": "5",
-                "DRB%": "19",
+                "DRB%": "21",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "6"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/DEN-2025.png",
-        "last_update": "Mar 25 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/DEN-2025.png",
+        "last_update": "Mar 26 2025 22:32:19"
     }
 }

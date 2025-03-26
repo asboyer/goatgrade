@@ -29,16 +29,10 @@
         ],
         "injuries": [
             {
-                "Player": "RJ Barrett",
-                "Team": "Toronto Raptors",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Day To Day (Rest) - Barrett did not play in Monday's (Mar. 24) game against the Wizards."
-            },
-            {
                 "Player": "Chris Boucher",
                 "Team": "Toronto Raptors",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Day To Day (Illness) - Boucher did not play in Monday's (Mar. 24) game against the Wizards."
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Out (Illness) - The Raptors have listed Boucher as OUT for Wednesday's (Mar. 26) game against the Nets."
             },
             {
                 "Player": "Ulrich Chomche",
@@ -55,8 +49,20 @@
             {
                 "Player": "Brandon Ingram",
                 "Team": "Toronto Raptors",
-                "Update": "Mon, Mar 24, 2025",
+                "Update": "Sun, Mar 23, 2025",
                 "Description": "Out (Ankle) - The Raptors announced Sunday (Mar. 23) that Ingram is progressing and will be re-evaluated in approximately 10 days, per Michael Grange of Sportsnet.ca."
+            },
+            {
+                "Player": "Jakob Poeltl",
+                "Team": "Toronto Raptors",
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Out (Rest) - The Raptors have listed Poeltl as OUT for Wednesday's (Mar. 26) game against the Nets."
+            },
+            {
+                "Player": "Immanuel Quickley",
+                "Team": "Toronto Raptors",
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Out (Rest) - The Raptors have listed Quickley as OUT for Wednesday's (Mar. 26) game against the Nets."
             }
         ],
         "team_stats": {
@@ -112,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "13",
                 "FG": "17",
                 "FGA": "10",
                 "FG%": "20",
@@ -125,7 +131,7 @@
                 "FT": "24",
                 "FTA": "16",
                 "FT%": "29",
-                "ORB": "6",
+                "ORB": "5",
                 "DRB": "23",
                 "TRB": "10",
                 "AST": "8",
@@ -212,10 +218,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "13",
                 "FG": "12",
                 "FGA": "14",
-                "FG%": "12",
+                "FG%": "13",
                 "3P": "15",
                 "3PA": "19",
                 "3P%": "8",
@@ -224,14 +230,14 @@
                 "2P%": "21",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "7",
+                "FT%": "8",
                 "ORB": "21",
                 "DRB": "14",
                 "TRB": "19",
                 "AST": "11",
                 "STL": "28",
-                "BLK": "28",
-                "TOV": "14",
+                "BLK": "29",
+                "TOV": "13",
                 "PF": "16",
                 "PTS": "21"
             },
@@ -266,8 +272,8 @@
                 "PW": "25",
                 "PL": "47",
                 "MOV": "-5.32",
-                "SOS": "0.41",
-                "SRS": "-4.91",
+                "SOS": "0.44",
+                "SRS": "-4.88",
                 "ORtg": "110.3",
                 "DRtg": "115.6",
                 "Pace": "99.4",
@@ -287,7 +293,7 @@
                 "PW": "24",
                 "PL": "24",
                 "MOV": "24",
-                "SOS": "8",
+                "SOS": "6",
                 "SRS": "24",
                 "ORtg": "26",
                 "DRtg": "19",
@@ -295,15 +301,15 @@
                 "FTr": "18",
                 "3PAr": "29",
                 "eFG%": "15",
-                "TOV%": "16",
+                "TOV%": "14",
                 "ORB%": "4",
                 "FT/FGA": "29",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "6"
+                "Attendance": "8"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/TOR-2025.png",
-        "last_update": "Mar 25 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/TOR-2025.png",
+        "last_update": "Mar 26 2025 22:32:19"
     }
 }

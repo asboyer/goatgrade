@@ -29,10 +29,16 @@
         ],
         "injuries": [
             {
+                "Player": "Giannis Antetokounmpo",
+                "Team": "Milwaukee Bucks",
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Day To Day (Foot) - The Bucks listed Antetokounmpo as Questionable for Wednesday's (Mar. 26) game against Denver."
+            },
+            {
                 "Player": "Damian Lillard",
                 "Team": "Milwaukee Bucks",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Out (Groin) - The Bucks listed Lillard as Out for Monday's (Mar. 24) game against the Suns."
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Out (Groin) - Lillard has been diagnosed with deep vein thrombosis in his right calf and will be sidelined indefinitely, as per Eric Nehm of The Athletic."
             },
             {
                 "Player": "Jericho Sims",
@@ -94,16 +100,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "30",
                 "FG": "15",
                 "FGA": "24",
-                "FG%": "7",
-                "3P": "9",
+                "FG%": "8",
+                "3P": "8",
                 "3PA": "18",
                 "3P%": "3",
                 "2P": "17",
                 "2PA": "20",
-                "2P%": "12",
+                "2P%": "11",
                 "FT": "14",
                 "FTA": "7",
                 "FT%": "28",
@@ -115,7 +121,7 @@
                 "BLK": "19",
                 "TOV": "7",
                 "PF": "10",
-                "PTS": "15"
+                "PTS": "14"
             },
             "Year/Year": {
                 "G": "",
@@ -194,12 +200,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "30",
                 "FG": "11",
                 "FGA": "23",
                 "FG%": "3",
-                "3P": "17",
-                "3PA": "25",
+                "3P": "18",
+                "3PA": "24",
                 "3P%": "5",
                 "2P": "9",
                 "2PA": "15",
@@ -249,7 +255,7 @@
                 "PL": "30",
                 "MOV": "2.32",
                 "SOS": "-0.30",
-                "SRS": "2.02",
+                "SRS": "2.03",
                 "ORtg": "114.9",
                 "DRtg": "112.6",
                 "Pace": "99.4",
@@ -264,14 +270,14 @@
                 "Attendance": "627,249"
             },
             "Misc Lg Rank": {
-                "W": "12",
+                "W": "13",
                 "L": "19",
-                "PW": "12",
-                "PL": "11",
+                "PW": "11",
+                "PL": "10",
                 "MOV": "11",
-                "SOS": "24",
+                "SOS": "23",
                 "SRS": "11",
-                "ORtg": "14",
+                "ORtg": "13",
                 "DRtg": "10",
                 "Pace": "11",
                 "FTr": "3",
@@ -282,10 +288,10 @@
                 "FT/FGA": "6",
                 "DRB%": "5",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "22"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/MIL-2025.png",
-        "last_update": "Mar 25 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/MIL-2025.png",
+        "last_update": "Mar 26 2025 22:32:19"
     }
 }

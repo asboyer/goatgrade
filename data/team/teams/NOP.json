@@ -35,12 +35,6 @@
                 "Description": "Out (Ankle) - The Pelicans announced on Friday (Mar. 7) that Boston Jr. was diagnosed with a left ankle stress reaction and will be re-evaluated in two weeks."
             },
             {
-                "Player": "Bruce Brown",
-                "Team": "New Orleans Pelicans",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Day To Day (Rest) - Brown did not play in Monday's (Mar. 24) game against the 76ers."
-            },
-            {
                 "Player": "Jordan Hawkins",
                 "Team": "New Orleans Pelicans",
                 "Update": "Mon, Mar 24, 2025",
@@ -51,12 +45,6 @@
                 "Team": "New Orleans Pelicans",
                 "Update": "Tue, Feb 11, 2025",
                 "Description": "Out For Season (Shoulder) - New Orleans VP Griffin said Tuesday (Feb. 11) that he expects Jones to miss the remainder of the season, according to Will Guillory of The Athletic."
-            },
-            {
-                "Player": "CJ McCollum",
-                "Team": "New Orleans Pelicans",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Day To Day (Rest) - McCollum did not play in Monday's (Mar. 24) game against the 76ers."
             },
             {
                 "Player": "Trey Murphy III",
@@ -130,14 +118,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "6",
                 "FG": "20",
                 "FGA": "12",
                 "FG%": "23",
                 "3P": "27",
                 "3PA": "26",
                 "3P%": "22",
-                "2P": "13",
+                "2P": "14",
                 "2PA": "6",
                 "2P%": "26",
                 "FT": "20",
@@ -230,11 +218,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
-                "FG": "29",
+                "MP": "6",
+                "FG": "28",
                 "FGA": "22",
                 "FG%": "29",
-                "3P": "29",
+                "3P": "28",
                 "3PA": "29",
                 "3P%": "26",
                 "2P": "23",
@@ -244,10 +232,10 @@
                 "FTA": "13",
                 "FT%": "19",
                 "ORB": "26",
-                "DRB": "23",
+                "DRB": "22",
                 "TRB": "27",
                 "AST": "27",
-                "STL": "21",
+                "STL": "22",
                 "BLK": "22",
                 "TOV": "17",
                 "PF": "25",
@@ -284,8 +272,8 @@
                 "PW": "19",
                 "PL": "54",
                 "MOV": "-8.64",
-                "SOS": "0.83",
-                "SRS": "-7.82",
+                "SOS": "0.80",
+                "SRS": "-7.85",
                 "ORtg": "111.1",
                 "DRtg": "119.8",
                 "Pace": "99.0",
@@ -301,7 +289,7 @@
             },
             "Misc Lg Rank": {
                 "W": "27",
-                "L": "3",
+                "L": "4",
                 "PW": "28",
                 "PL": "29",
                 "MOV": "29",
@@ -310,7 +298,7 @@
                 "ORtg": "25",
                 "DRtg": "30",
                 "Pace": "15",
-                "FTr": "17",
+                "FTr": "16",
                 "3PAr": "26",
                 "eFG%": "29",
                 "TOV%": "18",
@@ -321,7 +309,7 @@
                 "Attendance": "24"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/NOP-2025.png",
-        "last_update": "Mar 25 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/NOP-2025.png",
+        "last_update": "Mar 26 2025 22:32:19"
     }
 }

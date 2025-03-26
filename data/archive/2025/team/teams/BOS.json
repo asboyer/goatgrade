@@ -28,22 +28,16 @@
         ],
         "injuries": [
             {
-                "Player": "Sam Hauser",
+                "Player": "Jayson Tatum",
                 "Team": "Boston Celtics",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Out (Back) - The Celtics listed Hauser as OUT for Monday's (Mar. 24) game against the Kings."
-            },
-            {
-                "Player": "Al Horford",
-                "Team": "Boston Celtics",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Out (Rest) - The Celtics listed Horford as Out for Monday's (Mar. 24) game against the Kings."
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Day To Day (Ankle) - The Celtics have listed Tatum as Doubtful for Wednesday's (Mar. 26) game against the Suns."
             },
             {
                 "Player": "Xavier Tillman Sr.",
                 "Team": "Boston Celtics",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Out (Knee) - The Celtics listed Tillman Sr. as Out for Monday's (Mar. 24) game against the Kings."
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Out (Knee) - The Celtics have listed Tillman Sr. as OUT for Wednesday's (Mar. 26) game against the Suns."
             }
         ],
         "team_stats": {
@@ -99,13 +93,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "13",
                 "FG": "14",
                 "FGA": "13",
                 "FG%": "18",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "6",
+                "3P%": "7",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "3",
@@ -118,7 +112,7 @@
                 "AST": "18",
                 "STL": "28",
                 "BLK": "5",
-                "TOV": "2",
+                "TOV": "1",
                 "PF": "2",
                 "PTS": "7"
             },
@@ -199,20 +193,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "13",
                 "FG": "7",
                 "FGA": "17",
                 "FG%": "2",
-                "3P": "5",
+                "3P": "6",
                 "3PA": "10",
                 "3P%": "4",
                 "2P": "10",
-                "2PA": "19",
+                "2PA": "20",
                 "2P%": "4",
                 "FT": "1",
                 "FTA": "1",
                 "FT%": "15",
-                "ORB": "7",
+                "ORB": "8",
                 "DRB": "19",
                 "TRB": "14",
                 "AST": "3",
@@ -253,8 +247,8 @@
                 "PW": "54",
                 "PL": "18",
                 "MOV": "8.82",
-                "SOS": "-0.57",
-                "SRS": "8.25",
+                "SOS": "-0.56",
+                "SRS": "8.26",
                 "ORtg": "120.4",
                 "DRtg": "111.3",
                 "Pace": "96.2",
@@ -278,7 +272,7 @@
                 "SRS": "3",
                 "ORtg": "2",
                 "DRtg": "5",
-                "Pace": "29",
+                "Pace": "28",
                 "FTr": "29",
                 "3PAr": "1",
                 "eFG%": "3",
@@ -287,10 +281,10 @@
                 "FT/FGA": "1",
                 "DRB%": "7",
                 "Arena": "",
-                "Attendance": "8"
+                "Attendance": "10"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/BOS-2025.png",
-        "last_update": "Mar 25 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/BOS-2025.png",
+        "last_update": "Mar 26 2025 22:32:19"
     }
 }

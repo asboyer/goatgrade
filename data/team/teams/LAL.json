@@ -2,7 +2,7 @@
     "LAL": {
         "info": {
             "record": "43-28",
-            "standing": "4th in West",
+            "standing": "5th in West",
             "coach": "JJ Redick (43-28)",
             "gm": "Rob Pelinka",
             "preseason_odds": "+3000"
@@ -28,6 +28,18 @@
             "Maxi Kleber"
         ],
         "injuries": [
+            {
+                "Player": "Rui Hachimura",
+                "Team": "Los Angeles Lakers",
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Day To Day (Knee) - The Lakers have listed Hachimura as Probable for Wednesday's (Mar. 26) game against the Pacers."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Day To Day (Groin) - The Lakers have listed James as Probable for Wednesday's (Mar. 26) game against the Pacers."
+            },
             {
                 "Player": "Maxi Kleber",
                 "Team": "Los Angeles Lakers",
@@ -88,24 +100,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "27",
                 "FG": "19",
                 "FGA": "30",
-                "FG%": "9",
-                "3P": "20",
+                "FG%": "11",
+                "3P": "19",
                 "3PA": "19",
-                "3P%": "16",
+                "3P%": "17",
                 "2P": "15",
                 "2PA": "20",
                 "2P%": "5",
-                "FT": "3",
+                "FT": "2",
                 "FTA": "4",
                 "FT%": "16",
                 "ORB": "26",
                 "DRB": "18",
                 "TRB": "26",
                 "AST": "16",
-                "STL": "23",
+                "STL": "24",
                 "BLK": "22",
                 "TOV": "12",
                 "PF": "5",
@@ -188,14 +200,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "27",
                 "FG": "13",
                 "FGA": "16",
                 "FG%": "10",
                 "3P": "13",
-                "3PA": "17",
+                "3PA": "18",
                 "3P%": "3",
-                "2P": "14",
+                "2P": "15",
                 "2PA": "14",
                 "2P%": "19",
                 "FT": "6",
@@ -242,8 +254,8 @@
                 "PW": "37",
                 "PL": "34",
                 "MOV": "0.70",
-                "SOS": "-0.10",
-                "SRS": "0.60",
+                "SOS": "-0.13",
+                "SRS": "0.57",
                 "ORtg": "115.1",
                 "DRtg": "114.3",
                 "Pace": "97.7",
@@ -258,28 +270,28 @@
                 "Attendance": "691,638"
             },
             "Misc Lg Rank": {
-                "W": "7",
+                "W": "8",
                 "L": "23",
                 "PW": "14",
                 "PL": "14",
                 "MOV": "14",
-                "SOS": "19",
+                "SOS": "21",
                 "SRS": "14",
                 "ORtg": "12",
-                "DRtg": "13",
+                "DRtg": "14",
                 "Pace": "20",
                 "FTr": "2",
                 "3PAr": "16",
                 "eFG%": "9",
                 "TOV%": "21",
                 "ORB%": "23",
-                "FT/FGA": "8",
+                "FT/FGA": "10",
                 "DRB%": "13",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "7"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/LAL-2025.png",
-        "last_update": "Mar 25 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/LAL-2025.png",
+        "last_update": "Mar 26 2025 22:32:19"
     }
 }

@@ -37,8 +37,8 @@
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Day To Day (Ankle) - Brogdon did not play in Monday's (Mar. 24) game against Toronto."
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Day To Day (Ankle) - The Wizards listed Brogdon as Out for Wednesday's (Mar. 26) game against the 76ers."
             },
             {
                 "Player": "Bilal Coulibaly",
@@ -49,14 +49,32 @@
             {
                 "Player": "Kyshawn George",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Day To Day (Ankle) - George has been ruled out for the rest of Monday's (Mar. 24) game against the Raptors due to a left ankle sprain."
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Out (Ankle) - The Wizards listed George as Out for Wednesday's (Mar. 26) game against the 76ers."
+            },
+            {
+                "Player": "Anthony Gill",
+                "Team": "Washington Wizards",
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Day To Day (Hip) - The Wizards listed Gill as Questionable for Wednesday's (Mar. 26) game against the 76ers."
             },
             {
                 "Player": "Corey Kispert",
                 "Team": "Washington Wizards",
                 "Update": "Tue, Mar 18, 2025",
                 "Description": "Out For Season (Thumb) - Kispert underwent successful surgery on his left thumb on Tuesday (Mar. 18) and is expected to make a full recovery and be ready for the start of next season."
+            },
+            {
+                "Player": "Khris Middleton",
+                "Team": "Washington Wizards",
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Out (Ankle) - The Wizards listed Middleton as Out for Wednesday's (Mar. 26) game against the 76ers."
+            },
+            {
+                "Player": "Marcus Smart",
+                "Team": "Washington Wizards",
+                "Update": "Tue, Mar 25, 2025",
+                "Description": "Out (Finger) - The Wizards listed Smart as Out for Wednesday's (Mar. 26) game against the 76ers."
             }
         ],
         "team_stats": {
@@ -112,26 +130,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "27",
                 "FG": "27",
                 "FGA": "9",
                 "FG%": "29",
                 "3P": "16",
-                "3PA": "7",
+                "3PA": "8",
                 "3P%": "29",
-                "2P": "24",
+                "2P": "23",
                 "2PA": "15",
                 "2P%": "27",
                 "FT": "25",
                 "FTA": "23",
                 "FT%": "17",
-                "ORB": "21",
+                "ORB": "20",
                 "DRB": "14",
                 "TRB": "16",
                 "AST": "21",
                 "STL": "22",
                 "BLK": "10",
-                "TOV": "27",
+                "TOV": "28",
                 "PF": "25",
                 "PTS": "27"
             },
@@ -212,23 +230,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "27",
                 "FG": "26",
                 "FGA": "29",
                 "FG%": "21",
                 "3P": "27",
-                "3PA": "24",
+                "3PA": "23",
                 "3P%": "22",
                 "2P": "26",
-                "2PA": "25",
+                "2PA": "26",
                 "2P%": "20",
                 "FT": "29",
-                "FTA": "25",
+                "FTA": "26",
                 "FT%": "26",
                 "ORB": "30",
                 "DRB": "30",
                 "TRB": "30",
-                "AST": "25",
+                "AST": "26",
                 "STL": "27",
                 "BLK": "20",
                 "TOV": "23",
@@ -266,8 +284,8 @@
                 "PW": "13",
                 "PL": "58",
                 "MOV": "-11.94",
-                "SOS": "0.45",
-                "SRS": "-11.50",
+                "SOS": "0.46",
+                "SRS": "-11.49",
                 "ORtg": "106.8",
                 "DRtg": "118.5",
                 "Pace": "101.4",
@@ -283,18 +301,18 @@
             },
             "Misc Lg Rank": {
                 "W": "30",
-                "L": "1",
+                "L": "2",
                 "PW": "30",
                 "PL": "30",
                 "MOV": "30",
-                "SOS": "6",
+                "SOS": "5",
                 "SRS": "30",
                 "ORtg": "30",
                 "DRtg": "28",
                 "Pace": "4",
                 "FTr": "26",
-                "3PAr": "11",
-                "eFG%": "21",
+                "3PAr": "10",
+                "eFG%": "22",
                 "TOV%": "26",
                 "ORB%": "24",
                 "FT/FGA": "24",
@@ -303,7 +321,7 @@
                 "Attendance": "30"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503211/tlogo/bbr/WAS-2025.png",
-        "last_update": "Mar 25 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/WAS-2025.png",
+        "last_update": "Mar 26 2025 22:32:19"
     }
 }
