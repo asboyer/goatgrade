@@ -30,8 +30,8 @@
             {
                 "Player": "Anthony Davis",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Thigh) - Davis did not play in Tuesday's (March. 25) game against the Knicks."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Thigh) - The Mavericks listed Davis as Questionable on Thursday's (March. 26) game against the Magic."
             },
             {
                 "Player": "Dante Exum",
@@ -60,8 +60,8 @@
             {
                 "Player": "Caleb Martin",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Hip) - Martin did not play in Tuesday's (March. 25) game against the Knicks."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Hip) - The Mavericks listed Martin as Questionable on Thursday's (March. 26) game against the Magic."
             },
             {
                 "Player": "Olivier-Maxence Prosper",
@@ -72,8 +72,14 @@
             {
                 "Player": "P.J. Washington",
                 "Team": "Dallas Mavericks",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Ankle) - Washington Jr. did not play in Tuesday's (March. 25) game against the Knicks."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Out (Ankle) - The Mavericks listed Martin as Out on Thursday's (March. 26) game against the Magic."
+            },
+            {
+                "Player": "Brandon Williams",
+                "Team": "Dallas Mavericks",
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Back) - The Mavericks listed Martin as Questionable on Thursday's (March. 26) game against the Magic."
             }
         ],
         "team_stats": {
@@ -129,7 +135,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "11",
                 "FGA": "20",
                 "FG%": "10",
@@ -141,15 +147,15 @@
                 "2P%": "15",
                 "FT": "5",
                 "FTA": "6",
-                "FT%": "18",
+                "FT%": "17",
                 "ORB": "23",
                 "DRB": "19",
                 "TRB": "22",
                 "AST": "22",
-                "STL": "20",
+                "STL": "19",
                 "BLK": "6",
                 "TOV": "9",
-                "PF": "8",
+                "PF": "9",
                 "PTS": "12"
             },
             "Year/Year": {
@@ -229,28 +235,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "23",
                 "FGA": "24",
                 "FG%": "19",
-                "3P": "5",
+                "3P": "4",
                 "3PA": "3",
                 "3P%": "19",
                 "2P": "29",
                 "2PA": "30",
                 "2P%": "10",
                 "FT": "11",
-                "FTA": "11",
+                "FTA": "12",
                 "FT%": "14",
                 "ORB": "29",
-                "DRB": "17",
+                "DRB": "16",
                 "TRB": "25",
                 "AST": "21",
                 "STL": "12",
                 "BLK": "12",
-                "TOV": "24",
+                "TOV": "23",
                 "PF": "18",
-                "PTS": "18"
+                "PTS": "19"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -284,7 +290,7 @@
                 "PL": "37",
                 "MOV": "-0.33",
                 "SOS": "0.53",
-                "SRS": "0.21",
+                "SRS": "0.20",
                 "ORtg": "115.6",
                 "DRtg": "116.0",
                 "Pace": "99.2",
@@ -309,9 +315,9 @@
                 "ORtg": "11",
                 "DRtg": "20",
                 "Pace": "13",
-                "FTr": "5",
+                "FTr": "4",
                 "3PAr": "22",
-                "eFG%": "12",
+                "eFG%": "13",
                 "TOV%": "24",
                 "ORB%": "22",
                 "FT/FGA": "8",
@@ -321,6 +327,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/DAL-2025.png",
-        "last_update": "Mar 26 2025 22:32:19"
+        "last_update": "Mar 27 2025 22:32:18"
     }
 }

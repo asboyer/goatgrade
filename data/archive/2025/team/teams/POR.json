@@ -35,10 +35,16 @@
                 "Description": "Out (Calf) - The Team announced on Wednesday (Feb. 12) that Ayton has been diagnosed with a left calf strain. The big man was expected to be re-evaluated after four weeks. He can be considered week-to-week until the club offers a new update."
             },
             {
+                "Player": "Toumani Camara",
+                "Team": "Portland Trail Blazers",
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Foot) - The Trail Blazers have listed Camara as Questionable for Thursday's (Mar. 27) game against the Kings."
+            },
+            {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Knee) - Grant did not play in Tuesday's (Mar. 25) game against the Cavaliers."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Knee) - The Trail Blazers have listed Grant as Doubtful for Thursday's (Mar. 27) game against the Kings."
             },
             {
                 "Player": "Robert Williams",
@@ -100,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "11",
                 "FG": "23",
                 "FGA": "16",
                 "FG%": "24",
@@ -117,7 +123,7 @@
                 "DRB": "26",
                 "TRB": "14",
                 "AST": "27",
-                "STL": "17",
+                "STL": "15",
                 "BLK": "8",
                 "TOV": "29",
                 "PF": "20",
@@ -200,26 +206,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "11",
                 "FG": "16",
                 "FGA": "12",
-                "FG%": "20",
-                "3P": "7",
+                "FG%": "21",
+                "3P": "8",
                 "3PA": "4",
                 "3P%": "20",
                 "2P": "21",
                 "2PA": "22",
-                "2P%": "16",
+                "2P%": "15",
                 "FT": "23",
                 "FTA": "23",
                 "FT%": "28",
                 "ORB": "26",
-                "DRB": "7",
+                "DRB": "8",
                 "TRB": "15",
                 "AST": "13",
                 "STL": "29",
                 "BLK": "24",
-                "TOV": "10",
+                "TOV": "9",
                 "PF": "7",
                 "PTS": "16"
             },
@@ -278,7 +284,7 @@
                 "SOS": "3",
                 "SRS": "23",
                 "ORtg": "23",
-                "DRtg": "17",
+                "DRtg": "18",
                 "Pace": "18",
                 "FTr": "14",
                 "3PAr": "17",
@@ -292,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/POR-2025.png",
-        "last_update": "Mar 26 2025 22:32:19"
+        "last_update": "Mar 27 2025 22:32:18"
     }
 }

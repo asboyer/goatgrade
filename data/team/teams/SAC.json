@@ -28,10 +28,22 @@
         ],
         "injuries": [
             {
+                "Player": "Devin Carter",
+                "Team": "Sacramento Kings",
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Illness) - The Kings have listed Carter as Questionable for Thursday's (Mar. 27) game against the Trail Blazers."
+            },
+            {
+                "Player": "Jake LaRavia",
+                "Team": "Sacramento Kings",
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Thumb) - The Kings have listed LaRavia as Questionable for Thursday's (Mar. 27) game against the Trail Blazers."
+            },
+            {
                 "Player": "Malik Monk",
                 "Team": "Sacramento Kings",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Illness) - Monk did not play in Tuesday's (Mar. 25) game against the Thunder."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Illness) - The Kings have listed Monk as Questionable for Thursday's (Mar. 27) game against the Trail Blazers."
             }
         ],
         "team_stats": {
@@ -87,14 +99,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "16",
                 "FG": "8",
                 "FGA": "7",
                 "FG%": "13",
                 "3P": "23",
                 "3PA": "21",
                 "3P%": "19",
-                "2P": "5",
+                "2P": "4",
                 "2PA": "7",
                 "2P%": "10",
                 "FT": "13",
@@ -106,7 +118,7 @@
                 "AST": "13",
                 "STL": "23",
                 "BLK": "24",
-                "TOV": "5",
+                "TOV": "6",
                 "PF": "15",
                 "PTS": "10"
             },
@@ -187,7 +199,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "16",
                 "FG": "17",
                 "FGA": "9",
                 "FG%": "23",
@@ -199,16 +211,16 @@
                 "2P%": "14",
                 "FT": "21",
                 "FTA": "21",
-                "FT%": "22",
+                "FT%": "23",
                 "ORB": "2",
                 "DRB": "13",
                 "TRB": "7",
                 "AST": "20",
-                "STL": "13",
-                "BLK": "8",
+                "STL": "14",
+                "BLK": "10",
                 "TOV": "18",
-                "PF": "19",
-                "PTS": "22"
+                "PF": "20",
+                "PTS": "21"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -258,7 +270,7 @@
             },
             "Misc Lg Rank": {
                 "W": "15",
-                "L": "14",
+                "L": "15",
                 "PW": "15",
                 "PL": "15",
                 "MOV": "15",
@@ -271,14 +283,14 @@
                 "3PAr": "23",
                 "eFG%": "27",
                 "TOV%": "17",
-                "ORB%": "17",
+                "ORB%": "16",
                 "FT/FGA": "22",
                 "DRB%": "2",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/SAC-2025.png",
-        "last_update": "Mar 26 2025 22:32:19"
+        "last_update": "Mar 27 2025 22:32:18"
     }
 }

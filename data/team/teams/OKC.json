@@ -31,14 +31,14 @@
             {
                 "Player": "Ousmane Dieng",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Calf) - Dieng did not play in Tuesday's (Mar. 25) game against the Kings."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Out (Calf) - The Thunder have listed Dieng as OUT for Thursday's (Mar. 27) game against the Grizzlies."
             },
             {
                 "Player": "Alex Ducas",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Quadriceps) - Ducas did not play in Tuesday's (Mar. 25) game against the Kings."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Out (Quadriceps) - The Thunder have listed Ducas as OUT for Thursday's (Mar. 27) game against the Grizzlies."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -55,20 +55,20 @@
             {
                 "Player": "Cason Wallace",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Knee) - Wallace did not play in Tuesday's (Mar. 25) game against the Kings."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Knee) - The Thunder have listed Wallace as Questionable for Thursday's (Mar. 27) game against the Grizzlies."
             },
             {
                 "Player": "Aaron Wiggins",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Achilles) - Wiggins did not play in Tuesday's (Mar. 25) game against the Kings."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Out (Achilles) - The Thunder have listed Wiggins as OUT for Thursday's (Mar. 27) game against the Grizzlies."
             },
             {
                 "Player": "Jalen Williams",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Hip) - Williams did not play in Tuesday's (Mar. 25) game against the Kings."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Hip) - The Thunder have listed Williams as Questionable for Thursday's (Mar. 27) game against the Grizzlies."
             }
         ],
         "team_stats": {
@@ -124,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "25",
                 "FG": "4",
                 "FGA": "3",
                 "FG%": "7",
@@ -144,7 +144,7 @@
                 "STL": "1",
                 "BLK": "4",
                 "TOV": "2",
-                "PF": "24",
+                "PF": "25",
                 "PTS": "4"
             },
             "Year/Year": {
@@ -224,12 +224,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "25",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
                 "3P": "11",
-                "3PA": "25",
+                "3PA": "24",
                 "3P%": "1",
                 "2P": "1",
                 "2PA": "1",
@@ -237,7 +237,7 @@
                 "FT": "25",
                 "FTA": "25",
                 "FT%": "7",
-                "ORB": "22",
+                "ORB": "23",
                 "DRB": "18",
                 "TRB": "21",
                 "AST": "5",
@@ -278,8 +278,8 @@
                 "PW": "60",
                 "PL": "12",
                 "MOV": "12.94",
-                "SOS": "-0.10",
-                "SRS": "12.84",
+                "SOS": "-0.09",
+                "SRS": "12.85",
                 "ORtg": "120.1",
                 "DRtg": "107.1",
                 "Pace": "99.7",
@@ -299,7 +299,7 @@
                 "PW": "1",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "19",
+                "SOS": "20",
                 "SRS": "1",
                 "ORtg": "3",
                 "DRtg": "1",
@@ -310,12 +310,12 @@
                 "TOV%": "2",
                 "ORB%": "21",
                 "FT/FGA": "26",
-                "DRB%": "20",
+                "DRB%": "21",
                 "Arena": "",
                 "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/OKC-2025.png",
-        "last_update": "Mar 26 2025 22:32:19"
+        "last_update": "Mar 27 2025 22:32:18"
     }
 }

@@ -28,16 +28,22 @@
         ],
         "injuries": [
             {
-                "Player": "Donovan Mitchell",
+                "Player": "Ty Jerome",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Groin) - Mitchell did not play in Tuesday's (Mar. 25) game against the Trail Blazers."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Knee) - The Cavaliers have listed Jerome as Questionable for Thursday's (Mar. 27) game against the Spurs."
+            },
+            {
+                "Player": "Evan Mobley",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Out (Rest) - The Cavaliers have listed Mobley as OUT for Thursday's (Mar. 27) game against the Spurs."
             },
             {
                 "Player": "Jaylon Tyson",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Knee) - Tyson did not play in Tuesday's (Mar. 25) game against the Trail Blazers."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Out (Knee) - The Cavaliers have listed Tyson as OUT for Thursday's (Mar. 27) game against the Spurs."
             }
         ],
         "team_stats": {
@@ -93,7 +99,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "25",
                 "FG": "3",
                 "FGA": "8",
                 "FG%": "2",
@@ -108,7 +114,7 @@
                 "FT%": "15",
                 "ORB": "17",
                 "DRB": "6",
-                "TRB": "9",
+                "TRB": "10",
                 "AST": "9",
                 "STL": "13",
                 "BLK": "27",
@@ -193,27 +199,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
-                "FG": "10",
+                "MP": "25",
+                "FG": "11",
                 "FGA": "19",
-                "FG%": "4",
-                "3P": "14",
+                "FG%": "3",
+                "3P": "12",
                 "3PA": "11",
                 "3P%": "14",
-                "2P": "11",
-                "2PA": "23",
+                "2P": "12",
+                "2PA": "24",
                 "2P%": "2",
-                "FT": "9",
+                "FT": "10",
                 "FTA": "10",
                 "FT%": "12",
                 "ORB": "19",
                 "DRB": "6",
-                "TRB": "11",
-                "AST": "9",
+                "TRB": "10",
+                "AST": "7",
                 "STL": "9",
                 "BLK": "5",
                 "TOV": "14",
-                "PF": "10",
+                "PF": "9",
                 "PTS": "10"
             },
             "Opp Year/Year": {
@@ -247,7 +253,7 @@
                 "PW": "56",
                 "PL": "16",
                 "MOV": "10.40",
-                "SOS": "-0.97",
+                "SOS": "-0.96",
                 "SRS": "9.44",
                 "ORtg": "122.3",
                 "DRtg": "111.9",
@@ -272,19 +278,19 @@
                 "SRS": "2",
                 "ORtg": "1",
                 "DRtg": "7",
-                "Pace": "9",
+                "Pace": "8",
                 "FTr": "17",
                 "3PAr": "5",
                 "eFG%": "4",
                 "TOV%": "16",
                 "ORB%": "13",
                 "FT/FGA": "9",
-                "DRB%": "12",
+                "DRB%": "13",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/CLE-2025.png",
-        "last_update": "Mar 26 2025 22:32:19"
+        "last_update": "Mar 27 2025 22:32:18"
     }
 }

@@ -31,8 +31,8 @@
             {
                 "Player": "Jordan Clarkson",
                 "Team": "Utah Jazz",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Out (Foot) - The Jazz listed Clarkson as OUT for Tuesday's (Mar. 25) game against the Grizzlies."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Out (Foot) - The Jazz listed Clarkson as OUT for Thursday's (Mar. 27) game against the Rockets"
             },
             {
                 "Player": "John Collins",
@@ -49,8 +49,8 @@
             {
                 "Player": "Lauri Markkanen",
                 "Team": "Utah Jazz",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Out (Illness) - The Jazz listed Markkanen as Out for Tuesday's (Mar. 25) game against the Grizzlies."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Out (Illness) - The Jazz listed Clarkson as OUT for Thursday's (Mar. 27) game against the Rockets"
             }
         ],
         "team_stats": {
@@ -106,19 +106,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "6",
                 "FG": "24",
                 "FGA": "21",
                 "FG%": "21",
                 "3P": "10",
-                "3PA": "7",
+                "3PA": "8",
                 "3P%": "21",
                 "2P": "24",
                 "2PA": "25",
                 "2P%": "18",
-                "FT": "9",
+                "FT": "8",
                 "FTA": "10",
-                "FT%": "24",
+                "FT%": "23",
                 "ORB": "9",
                 "DRB": "10",
                 "TRB": "3",
@@ -126,8 +126,8 @@
                 "STL": "30",
                 "BLK": "23",
                 "TOV": "30",
-                "PF": "16",
-                "PTS": "20"
+                "PF": "17",
+                "PTS": "21"
             },
             "Year/Year": {
                 "G": "",
@@ -206,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "6",
                 "FG": "29",
                 "FGA": "27",
                 "FG%": "24",
@@ -260,7 +260,7 @@
                 "PW": "20",
                 "PL": "53",
                 "MOV": "-8.19",
-                "SOS": "0.62",
+                "SOS": "0.63",
                 "SRS": "-7.57",
                 "ORtg": "111.3",
                 "DRtg": "119.5",
@@ -292,12 +292,12 @@
                 "TOV%": "30",
                 "ORB%": "5",
                 "FT/FGA": "14",
-                "DRB%": "19",
+                "DRB%": "20",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/UTA-2025.png",
-        "last_update": "Mar 26 2025 22:32:19"
+        "last_update": "Mar 27 2025 22:32:18"
     }
 }

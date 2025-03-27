@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Steven Adams",
+                "Team": "Houston Rockets",
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Wrist) - The Rockets listed Adams as Questionable for Thursday's (Mar. 27) game against the Jazz."
+            },
+            {
                 "Player": "Reed Sheppard",
                 "Team": "Houston Rockets",
                 "Update": "Sat, Mar 8, 2025",
@@ -38,7 +44,7 @@
                 "Player": "Amen Thompson",
                 "Team": "Houston Rockets",
                 "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Ankle) - Thompson did not play in Tuesday's (Mar. 25) game against the Hawks."
+                "Description": "Day To Day (Ankle) - The Rockets listed Thompson as Questionable for Thursday's (Mar. 27) game against the Jazz."
             }
         ],
         "team_stats": {
@@ -94,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "6",
                 "FG": "12",
                 "FGA": "2",
                 "FG%": "25",
@@ -104,7 +110,7 @@
                 "2P": "10",
                 "2PA": "2",
                 "2P%": "29",
-                "FT": "15",
+                "FT": "14",
                 "FTA": "5",
                 "FT%": "30",
                 "ORB": "1",
@@ -114,7 +120,7 @@
                 "STL": "10",
                 "BLK": "13",
                 "TOV": "13",
-                "PF": "21",
+                "PF": "22",
                 "PTS": "16"
             },
             "Year/Year": {
@@ -194,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "6",
                 "FG": "4",
                 "FGA": "13",
                 "FG%": "5",
@@ -213,7 +219,7 @@
                 "AST": "2",
                 "STL": "11",
                 "BLK": "28",
-                "TOV": "16",
+                "TOV": "15",
                 "PF": "3",
                 "PTS": "5"
             },
@@ -248,8 +254,8 @@
                 "PW": "47",
                 "PL": "26",
                 "MOV": "4.48",
-                "SOS": "0.40",
-                "SRS": "4.88",
+                "SOS": "0.41",
+                "SRS": "4.89",
                 "ORtg": "114.7",
                 "DRtg": "110.2",
                 "Pace": "98.5",
@@ -265,11 +271,11 @@
             },
             "Misc Lg Rank": {
                 "W": "4",
-                "L": "26",
+                "L": "27",
                 "PW": "5",
-                "PL": "6",
+                "PL": "5",
                 "MOV": "5",
-                "SOS": "7",
+                "SOS": "5",
                 "SRS": "5",
                 "ORtg": "16",
                 "DRtg": "3",
@@ -286,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/HOU-2025.png",
-        "last_update": "Mar 26 2025 22:32:19"
+        "last_update": "Mar 27 2025 22:32:18"
     }
 }

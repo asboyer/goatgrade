@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Alec Burks",
+                "Team": "Miami Heat",
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Back) - The Heat listed Burks as Questionable for Thursday's (Mar. 27) game against the Hawks."
+            },
+            {
                 "Player": "Nikola Jović",
                 "Team": "Miami Heat",
                 "Update": "Tue, Mar 25, 2025",
@@ -37,8 +43,8 @@
             {
                 "Player": "Duncan Robinson",
                 "Team": "Miami Heat",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Back) - Robinson did not play in Tuesday's (Mar. 25) game against the Warriors."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Back) - The Heat listed Robinson as Questionable for Thursday's (Mar. 27) game against the Hawks."
             },
             {
                 "Player": "Dru Smith",
@@ -100,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "15",
                 "FG": "25",
                 "FGA": "26",
                 "FG%": "19",
@@ -112,10 +118,10 @@
                 "2P%": "20",
                 "FT": "27",
                 "FTA": "26",
-                "FT%": "9",
+                "FT%": "10",
                 "ORB": "27",
                 "DRB": "12",
-                "TRB": "25",
+                "TRB": "24",
                 "AST": "15",
                 "STL": "18",
                 "BLK": "30",
@@ -200,20 +206,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "15",
                 "FG": "14",
                 "FGA": "15",
-                "FG%": "11",
+                "FG%": "12",
                 "3P": "17",
                 "3PA": "16",
                 "3P%": "13",
-                "2P": "11",
+                "2P": "12",
                 "2PA": "11",
                 "2P%": "18",
-                "FT": "2",
-                "FTA": "2",
+                "FT": "1",
+                "FTA": "1",
                 "FT%": "16",
-                "ORB": "12",
+                "ORB": "11",
                 "DRB": "27",
                 "TRB": "21",
                 "AST": "15",
@@ -254,8 +260,8 @@
                 "PW": "34",
                 "PL": "38",
                 "MOV": "-1.08",
-                "SOS": "-0.05",
-                "SRS": "-1.13",
+                "SOS": "-0.04",
+                "SRS": "-1.12",
                 "ORtg": "112.2",
                 "DRtg": "113.3",
                 "Pace": "96.1",
@@ -272,9 +278,9 @@
             "Misc Lg Rank": {
                 "W": "22",
                 "L": "8",
-                "PW": "19",
-                "PL": "18",
-                "MOV": "19",
+                "PW": "18",
+                "PL": "17",
+                "MOV": "18",
                 "SOS": "17",
                 "SRS": "17",
                 "ORtg": "22",
@@ -288,10 +294,10 @@
                 "FT/FGA": "2",
                 "DRB%": "11",
                 "Arena": "",
-                "Attendance": "2"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/MIA-2025.png",
-        "last_update": "Mar 26 2025 22:32:19"
+        "last_update": "Mar 27 2025 22:32:18"
     }
 }

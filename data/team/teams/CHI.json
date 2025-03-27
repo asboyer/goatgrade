@@ -31,8 +31,8 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Out (Wrist) - Ball (wrist), who has already been ruled out for Monday's game against Denver, is almost pain-free and will likely return to game action during the club's upcoming two-game homestand that starts Thursday against the Lakers,."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Wrist) - The Bulls have listed Ball as Questionable for Thursday's (Mar. 27) game against the Lakers."
             },
             {
                 "Player": "Ayo Dosunmu",
@@ -41,10 +41,28 @@
                 "Description": "Out For Season (Shoulder) - The Bulls announced Dosunmu will undergo surgery and be out for the remainder of the season."
             },
             {
+                "Player": "Josh Giddey",
+                "Team": "Chicago Bulls",
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Forearm) - The Bulls have listed Giddey as Questionable for Thursday's (Mar. 27) game against the Lakers."
+            },
+            {
                 "Player": "Tre Jones",
                 "Team": "Chicago Bulls",
                 "Update": "Sat, Mar 22, 2025",
                 "Description": "Out (Foot) - The Bulls announced on Saturday (Mar. 22) that Jones has been diagnosed with a left foot sprain and will be re-evaluated in two weeks."
+            },
+            {
+                "Player": "Nikola Vučević",
+                "Team": "Chicago Bulls",
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Back) - The Bulls have listed Vucevic as Questionable for Thursday's (Mar. 27) game against the Lakers."
+            },
+            {
+                "Player": "Coby White",
+                "Team": "Chicago Bulls",
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Toe) - The Bulls have listed White as Probable for Thursday's (Mar. 27) game against the Lakers."
             }
         ],
         "team_stats": {
@@ -100,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "9",
                 "FGA": "4",
                 "FG%": "15",
@@ -108,13 +126,13 @@
                 "3PA": "2",
                 "3P%": "11",
                 "2P": "18",
-                "2PA": "22",
+                "2PA": "21",
                 "2P%": "12",
                 "FT": "28",
                 "FTA": "30",
                 "FT%": "3",
                 "ORB": "25",
-                "DRB": "2",
+                "DRB": "1",
                 "TRB": "6",
                 "AST": "6",
                 "STL": "25",
@@ -200,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "17",
@@ -213,11 +231,11 @@
                 "FT": "16",
                 "FTA": "15",
                 "FT%": "21",
-                "ORB": "13",
+                "ORB": "14",
                 "DRB": "29",
                 "TRB": "29",
                 "AST": "28",
-                "STL": "13",
+                "STL": "14",
                 "BLK": "18",
                 "TOV": "28",
                 "PF": "30",
@@ -275,23 +293,23 @@
                 "PW": "22",
                 "PL": "22",
                 "MOV": "22",
-                "SOS": "20",
+                "SOS": "21",
                 "SRS": "22",
                 "ORtg": "19",
                 "DRtg": "21",
                 "Pace": "3",
                 "FTr": "30",
                 "3PAr": "3",
-                "eFG%": "13",
+                "eFG%": "14",
                 "TOV%": "28",
                 "ORB%": "27",
                 "FT/FGA": "11",
                 "DRB%": "6",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/CHI-2025.png",
-        "last_update": "Mar 26 2025 22:32:19"
+        "last_update": "Mar 27 2025 22:32:18"
     }
 }

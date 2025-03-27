@@ -31,8 +31,8 @@
             {
                 "Player": "Cole Anthony",
                 "Team": "Orlando Magic",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Toe) - Anthony did not play in Tuesday's (Mar. 25) game against the Hornets."
+                "Update": "Wed, Mar 26, 2025",
+                "Description": "Day To Day (Toe) - The Magic listed Anthony as Doubtful for Thursday's (Mar. 27) game against the Mavericks."
             },
             {
                 "Player": "Jalen Suggs",
@@ -100,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "29",
                 "FGA": "29",
                 "FG%": "27",
@@ -121,7 +121,7 @@
                 "BLK": "1",
                 "TOV": "16",
                 "PF": "28",
-                "PTS": "30"
+                "PTS": "29"
             },
             "Year/Year": {
                 "G": "",
@@ -200,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "13",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "18",
@@ -214,11 +214,11 @@
                 "FTA": "28",
                 "FT%": "3",
                 "ORB": "1",
-                "DRB": "16",
-                "TRB": "4",
+                "DRB": "15",
+                "TRB": "3",
                 "AST": "1",
                 "STL": "10",
-                "BLK": "7",
+                "BLK": "9",
                 "TOV": "4",
                 "PF": "1",
                 "PTS": "1"
@@ -254,8 +254,8 @@
                 "PW": "34",
                 "PL": "39",
                 "MOV": "-1.01",
-                "SOS": "-0.56",
-                "SRS": "-1.57",
+                "SOS": "-0.57",
+                "SRS": "-1.58",
                 "ORtg": "108.9",
                 "DRtg": "110.0",
                 "Pace": "96.2",
@@ -273,16 +273,16 @@
                 "W": "15",
                 "L": "12",
                 "PW": "17",
-                "PL": "19",
+                "PL": "18",
                 "MOV": "17",
                 "SOS": "26",
                 "SRS": "19",
-                "ORtg": "28",
+                "ORtg": "27",
                 "DRtg": "2",
                 "Pace": "27",
                 "FTr": "1",
                 "3PAr": "18",
-                "eFG%": "11",
+                "eFG%": "12",
                 "TOV%": "1",
                 "ORB%": "14",
                 "FT/FGA": "30",
@@ -292,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/ORL-2025.png",
-        "last_update": "Mar 26 2025 22:32:19"
+        "last_update": "Mar 27 2025 22:32:18"
     }
 }
