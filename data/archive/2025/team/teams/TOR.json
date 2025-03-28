@@ -24,14 +24,27 @@
             "A.J. Lawson",
             "Ulrich Chomche",
             "Jared Rhoden",
+            "Cole Swider",
             "Brandon Ingram"
         ],
         "injuries": [
             {
+                "Player": "Ochai Agbaji",
+                "Team": "Toronto Raptors",
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Out (Rest) - The Raptors listed Agbaji as OUT for Friday's (Mar. 28) game against Charlotte."
+            },
+            {
+                "Player": "RJ Barrett",
+                "Team": "Toronto Raptors",
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Out (Rest) - The Raptors listed Barrett as OUT for Friday's (Mar. 28) game against Charlotte."
+            },
+            {
                 "Player": "Chris Boucher",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Mar 26, 2025",
-                "Description": "Day To Day (Illness) - Boucher did not play in Wednesday's (Mar. 26) game against the Nets."
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Day To Day (Illness) - The Raptors listed Boucher as Questionable for Friday's (Mar. 28) game against Charlotte."
             },
             {
                 "Player": "Ulrich Chomche",
@@ -42,26 +55,14 @@
             {
                 "Player": "Gradey Dick",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Mar 26, 2025",
-                "Description": "Day To Day (Knee) - Dick did not play in Wednesday's (Mar. 26) game against the Nets."
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Out (Knee) - The Raptors listed Dick as OUT for Friday's (Mar. 28) game against Charlotte."
             },
             {
                 "Player": "Brandon Ingram",
                 "Team": "Toronto Raptors",
                 "Update": "Sun, Mar 23, 2025",
                 "Description": "Out (Ankle) - The Raptors announced on Sunday (Mar. 23) that Ingram is progressing and will be re-evaluated in approximately 10 days, per Michael Grange of Sportsnet.ca."
-            },
-            {
-                "Player": "Jakob Poeltl",
-                "Team": "Toronto Raptors",
-                "Update": "Wed, Mar 26, 2025",
-                "Description": "Day To Day (Rest) - Poeltl did not play in Wednesday's (Mar. 26) game against the Nets."
-            },
-            {
-                "Player": "Immanuel Quickley",
-                "Team": "Toronto Raptors",
-                "Update": "Wed, Mar 26, 2025",
-                "Description": "Day To Day (Rest) - Quickley did not play in Wednesday's (Mar. 26) game against the Nets."
             }
         ],
         "team_stats": {
@@ -117,14 +118,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "10",
                 "FG": "16",
                 "FGA": "10",
-                "FG%": "20",
+                "FG%": "21",
                 "3P": "29",
                 "3PA": "29",
                 "3P%": "25",
-                "2P": "9",
+                "2P": "8",
                 "2PA": "3",
                 "2P%": "25",
                 "FT": "23",
@@ -136,7 +137,7 @@
                 "AST": "8",
                 "STL": "20",
                 "BLK": "26",
-                "TOV": "26",
+                "TOV": "25",
                 "PF": "30",
                 "PTS": "24"
             },
@@ -217,20 +218,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "10",
                 "FG": "10",
                 "FGA": "14",
                 "FG%": "11",
-                "3P": "15",
-                "3PA": "19",
+                "3P": "14",
+                "3PA": "18",
                 "3P%": "4",
                 "2P": "11",
                 "2PA": "9",
                 "2P%": "21",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "9",
-                "ORB": "21",
+                "FT%": "8",
+                "ORB": "20",
                 "DRB": "14",
                 "TRB": "19",
                 "AST": "10",
@@ -238,7 +239,7 @@
                 "BLK": "29",
                 "TOV": "13",
                 "PF": "16",
-                "PTS": "18"
+                "PTS": "19"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -271,7 +272,7 @@
                 "PW": "26",
                 "PL": "47",
                 "MOV": "-4.84",
-                "SOS": "0.34",
+                "SOS": "0.33",
                 "SRS": "-4.50",
                 "ORtg": "110.3",
                 "DRtg": "115.1",
@@ -292,23 +293,23 @@
                 "PW": "24",
                 "PL": "24",
                 "MOV": "24",
-                "SOS": "8",
+                "SOS": "7",
                 "SRS": "24",
                 "ORtg": "26",
                 "DRtg": "16",
                 "Pace": "11",
                 "FTr": "18",
                 "3PAr": "29",
-                "eFG%": "11",
+                "eFG%": "12",
                 "TOV%": "14",
                 "ORB%": "4",
                 "FT/FGA": "29",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/TOR-2025.png",
-        "last_update": "Mar 27 2025 22:32:18"
+        "last_update": "Mar 28 2025 22:32:18"
     }
 }

@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "LaMelo Ball",
+                "Team": "Charlotte Hornets",
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Out (Ankle) - The Hornets listed Ball as OUT for Friday's (Mar. 28) game against Toronto."
+            },
+            {
                 "Player": "Tre Mann",
                 "Team": "Charlotte Hornets",
                 "Update": "Thu, Jan 30, 2025",
@@ -39,6 +45,12 @@
                 "Team": "Charlotte Hornets",
                 "Update": "Thu, Jan 23, 2025",
                 "Description": "Out For Season (Wrist) - The Hornets announced Friday (Jan. 23) that Miller underwent surgery to repair a torn scapholunate ligament in his right wrist and will miss the remainder of the 2024-25 season."
+            },
+            {
+                "Player": "Josh Okogie",
+                "Team": "Charlotte Hornets",
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Out (Hamstring) - The Hornets listed Okogie as OUT for Friday's (Mar. 28) game against Toronto."
             },
             {
                 "Player": "Grant Williams",
@@ -100,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "27",
                 "FG": "28",
                 "FGA": "15",
                 "FG%": "30",
@@ -114,8 +126,8 @@
                 "FTA": "28",
                 "FT%": "12",
                 "ORB": "6",
-                "DRB": "23",
-                "TRB": "9",
+                "DRB": "22",
+                "TRB": "10",
                 "AST": "26",
                 "STL": "26",
                 "BLK": "21",
@@ -200,25 +212,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
-                "FG": "15",
-                "FGA": "11",
+                "MP": "27",
+                "FG": "14",
+                "FGA": "13",
                 "FG%": "16",
                 "3P": "20",
                 "3PA": "27",
-                "3P%": "10",
+                "3P%": "9",
                 "2P": "8",
                 "2PA": "5",
-                "2P%": "26",
+                "2P%": "25",
                 "FT": "17",
                 "FTA": "17",
-                "FT%": "25",
+                "FT%": "24",
                 "ORB": "16",
-                "DRB": "25",
-                "TRB": "21",
+                "DRB": "24",
+                "TRB": "23",
                 "AST": "16",
                 "STL": "20",
-                "BLK": "23",
+                "BLK": "24",
                 "TOV": "21",
                 "PF": "23",
                 "PTS": "15"
@@ -254,8 +266,8 @@
                 "PW": "19",
                 "PL": "53",
                 "MOV": "-8.17",
-                "SOS": "0.01",
-                "SRS": "-8.16",
+                "SOS": "-0.01",
+                "SRS": "-8.18",
                 "ORtg": "107.9",
                 "DRtg": "116.3",
                 "Pace": "97.6",
@@ -275,23 +287,23 @@
                 "PW": "29",
                 "PL": "27",
                 "MOV": "27",
-                "SOS": "14",
+                "SOS": "16",
                 "SRS": "29",
                 "ORtg": "29",
                 "DRtg": "23",
                 "Pace": "21",
-                "FTr": "27",
+                "FTr": "28",
                 "3PAr": "12",
                 "eFG%": "21",
                 "TOV%": "20",
-                "ORB%": "8",
+                "ORB%": "7",
                 "FT/FGA": "20",
-                "DRB%": "17",
+                "DRB%": "19",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/CHO-2025.png",
-        "last_update": "Mar 27 2025 22:32:18"
+        "last_update": "Mar 28 2025 22:32:18"
     }
 }

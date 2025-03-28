@@ -35,16 +35,16 @@
                 "Description": "Out (Ankle) - The Pelicans announced on Friday (Mar. 7) that Boston Jr. was diagnosed with a left ankle stress reaction and will be re-evaluated in two weeks."
             },
             {
-                "Player": "Jordan Hawkins",
-                "Team": "New Orleans Pelicans",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Day To Day (Ankle) - Hawkins won't return during Monday's game against the 76ers due to a left ankle injury."
-            },
-            {
                 "Player": "Herbert Jones",
                 "Team": "New Orleans Pelicans",
-                "Update": "Tue, Feb 11, 2025",
-                "Description": "Out For Season (Shoulder) - New Orleans VP Griffin said Tuesday (Feb. 11) that he expects Jones to miss the remainder of the season, according to Will Guillory of The Athletic."
+                "Update": "Wed, Feb 26, 2025",
+                "Description": "Out For Season (Shoulder) - The Pelicans announced that Jones underwent successful surgery Wednesday's (Feb. 12) to repair a torn rotator cuff in his right shoulder."
+            },
+            {
+                "Player": "CJ McCollum",
+                "Team": "New Orleans Pelicans",
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Out (Foot) - The Pelicans listed McCollum as OUT for Friday's (Mar. 28) game against Golden State."
             },
             {
                 "Player": "Trey Murphy III",
@@ -61,8 +61,8 @@
             {
                 "Player": "Zion Williamson",
                 "Team": "New Orleans Pelicans",
-                "Update": "Mon, Mar 24, 2025",
-                "Description": "Day To Day (Back) - Williamson did not play in Monday's (Mar. 24) game against the 76ers."
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Out (Back) - The Pelicans listed Williamson as OUT for Friday's (Mar. 28) game against Golden State."
             }
         ],
         "team_stats": {
@@ -118,18 +118,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "18",
                 "FG": "20",
-                "FGA": "12",
+                "FGA": "13",
                 "FG%": "23",
                 "3P": "27",
-                "3PA": "26",
+                "3PA": "25",
                 "3P%": "22",
                 "2P": "14",
                 "2PA": "6",
                 "2P%": "26",
-                "FT": "20",
-                "FTA": "13",
+                "FT": "21",
+                "FTA": "12",
                 "FT%": "26",
                 "ORB": "7",
                 "DRB": "27",
@@ -138,7 +138,7 @@
                 "STL": "8",
                 "BLK": "7",
                 "TOV": "19",
-                "PF": "12",
+                "PF": "13",
                 "PTS": "23"
             },
             "Year/Year": {
@@ -218,24 +218,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
-                "FG": "28",
-                "FGA": "23",
+                "MP": "18",
+                "FG": "27",
+                "FGA": "22",
                 "FG%": "29",
                 "3P": "28",
                 "3PA": "29",
-                "3P%": "26",
-                "2P": "23",
+                "3P%": "25",
+                "2P": "22",
                 "2PA": "10",
                 "2P%": "29",
                 "FT": "14",
                 "FTA": "13",
-                "FT%": "18",
-                "ORB": "26",
+                "FT%": "19",
+                "ORB": "27",
                 "DRB": "22",
                 "TRB": "27",
                 "AST": "27",
-                "STL": "22",
+                "STL": "21",
                 "BLK": "22",
                 "TOV": "17",
                 "PF": "25",
@@ -273,7 +273,7 @@
                 "PL": "54",
                 "MOV": "-8.64",
                 "SOS": "0.81",
-                "SRS": "-7.84",
+                "SRS": "-7.83",
                 "ORtg": "111.1",
                 "DRtg": "119.8",
                 "Pace": "99.0",
@@ -310,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/NOP-2025.png",
-        "last_update": "Mar 27 2025 22:32:18"
+        "last_update": "Mar 28 2025 22:32:18"
     }
 }

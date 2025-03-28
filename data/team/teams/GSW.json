@@ -30,8 +30,14 @@
             {
                 "Player": "Stephen Curry",
                 "Team": "Golden State Warriors",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Day To Day (Pelvis) - Curry did not play in Tuesday's (Mar. 25) game against the Heat."
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Day To Day (Pelvis) - The Warriors listed Curry as Questionable for Friday's (Mar. 28) game against New Orleans."
+            },
+            {
+                "Player": "Gary Payton II",
+                "Team": "Golden State Warriors",
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Out (Thumb) - The Warriors announced on Thursday (Mar. 27) that Payton II suffered a torn ligament in his left thumb and will miss time, per ESPN's Shams Charania."
             }
         ],
         "team_stats": {
@@ -87,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "29",
                 "FG": "21",
                 "FGA": "6",
                 "FG%": "26",
@@ -102,8 +108,8 @@
                 "FT%": "27",
                 "ORB": "5",
                 "DRB": "16",
-                "TRB": "5",
-                "AST": "5",
+                "TRB": "4",
+                "AST": "6",
                 "STL": "5",
                 "BLK": "14",
                 "TOV": "15",
@@ -187,12 +193,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "29",
                 "FG": "9",
                 "FGA": "6",
-                "FG%": "13",
+                "FG%": "12",
                 "3P": "9",
-                "3PA": "8",
+                "3PA": "9",
                 "3P%": "21",
                 "2P": "6",
                 "2PA": "12",
@@ -241,8 +247,8 @@
                 "PW": "41",
                 "PL": "31",
                 "MOV": "2.03",
-                "SOS": "0.32",
-                "SRS": "2.35",
+                "SOS": "0.33",
+                "SRS": "2.36",
                 "ORtg": "114.1",
                 "DRtg": "112.0",
                 "Pace": "98.9",
@@ -259,10 +265,10 @@
             "Misc Lg Rank": {
                 "W": "10",
                 "L": "20",
-                "PW": "12",
+                "PW": "13",
                 "PL": "12",
-                "MOV": "12",
-                "SOS": "9",
+                "MOV": "13",
+                "SOS": "8",
                 "SRS": "10",
                 "ORtg": "18",
                 "DRtg": "8",
@@ -271,7 +277,7 @@
                 "3PAr": "2",
                 "eFG%": "15",
                 "TOV%": "6",
-                "ORB%": "6",
+                "ORB%": "5",
                 "FT/FGA": "16",
                 "DRB%": "10",
                 "Arena": "",
@@ -279,6 +285,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/GSW-2025.png",
-        "last_update": "Mar 27 2025 22:32:18"
+        "last_update": "Mar 28 2025 22:32:18"
     }
 }

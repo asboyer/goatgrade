@@ -31,8 +31,8 @@
             {
                 "Player": "Giannis Antetokounmpo",
                 "Team": "Milwaukee Bucks",
-                "Update": "Wed, Mar 26, 2025",
-                "Description": "Day To Day (Foot) - Antetokounmpo did not play in Wednesday's (Mar. 26) game against the Nuggets."
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Day To Day (Foot) - The Bucks listed Antetokounmpo as Questionable for Friday's (Mar. 28) game against the Knicks."
             },
             {
                 "Player": "Damian Lillard",
@@ -100,10 +100,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "29",
                 "FG": "15",
                 "FGA": "24",
-                "FG%": "6",
+                "FG%": "5",
                 "3P": "8",
                 "3PA": "18",
                 "3P%": "3",
@@ -119,8 +119,8 @@
                 "AST": "23",
                 "STL": "27",
                 "BLK": "19",
-                "TOV": "7",
-                "PF": "8",
+                "TOV": "6",
+                "PF": "9",
                 "PTS": "13"
             },
             "Year/Year": {
@@ -200,19 +200,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "29",
                 "FG": "12",
-                "FGA": "22",
+                "FGA": "21",
                 "FG%": "4",
-                "3P": "19",
+                "3P": "18",
                 "3PA": "23",
-                "3P%": "8",
+                "3P%": "7",
                 "2P": "9",
                 "2PA": "16",
-                "2P%": "7",
+                "2P%": "8",
                 "FT": "7",
                 "FTA": "6",
-                "FT%": "22",
+                "FT%": "21",
                 "ORB": "10",
                 "DRB": "28",
                 "TRB": "26",
@@ -272,13 +272,13 @@
             "Misc Lg Rank": {
                 "W": "14",
                 "L": "17",
-                "PW": "11",
+                "PW": "12",
                 "PL": "11",
                 "MOV": "11",
-                "SOS": "23",
+                "SOS": "24",
                 "SRS": "11",
                 "ORtg": "13",
-                "DRtg": "11",
+                "DRtg": "10",
                 "Pace": "12",
                 "FTr": "3",
                 "3PAr": "14",
@@ -292,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/MIL-2025.png",
-        "last_update": "Mar 27 2025 22:32:18"
+        "last_update": "Mar 28 2025 22:32:18"
     }
 }

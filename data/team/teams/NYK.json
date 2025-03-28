@@ -43,14 +43,14 @@
             {
                 "Player": "Miles McBride",
                 "Team": "New York Knicks",
-                "Update": "Wed, Mar 26, 2025",
-                "Description": "Day To Day (Groin) - McBride did not play in Wednesday's (Mar. 26) game against the Clippers."
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Out (Groin) - The Knicks listed McBride as OUT for Friday's (Mar. 28) game against Milwaukee."
             },
             {
                 "Player": "Cameron Payne",
                 "Team": "New York Knicks",
-                "Update": "Wed, Mar 26, 2025",
-                "Description": "Day To Day (Ankle) - Payne has been ruled out for the remainder of Wednesday's (Mar. 26) game against the Clippers due to a right ankle sprain."
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Out (Ankle) - The Knicks listed Payne as OUT for Friday's (Mar. 28) game against Milwaukee."
             }
         ],
         "team_stats": {
@@ -106,8 +106,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
-                "FG": "5",
+                "MP": "25",
+                "FG": "6",
                 "FGA": "18",
                 "FG%": "4",
                 "3P": "24",
@@ -117,11 +117,11 @@
                 "2PA": "5",
                 "2P%": "6",
                 "FT": "19",
-                "FTA": "23",
+                "FTA": "24",
                 "FT%": "5",
-                "ORB": "19",
+                "ORB": "20",
                 "DRB": "25",
-                "TRB": "25",
+                "TRB": "24",
                 "AST": "11",
                 "STL": "17",
                 "BLK": "29",
@@ -206,10 +206,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "25",
                 "FG": "18",
-                "FGA": "10",
-                "FG%": "22",
+                "FGA": "12",
+                "FG%": "23",
                 "3P": "13",
                 "3PA": "5",
                 "3P%": "28",
@@ -222,7 +222,7 @@
                 "ORB": "12",
                 "DRB": "2",
                 "TRB": "4",
-                "AST": "8",
+                "AST": "7",
                 "STL": "3",
                 "BLK": "17",
                 "TOV": "16",
@@ -260,8 +260,8 @@
                 "PW": "45",
                 "PL": "27",
                 "MOV": "4.08",
-                "SOS": "-0.74",
-                "SRS": "3.35",
+                "SOS": "-0.75",
+                "SRS": "3.34",
                 "ORtg": "118.8",
                 "DRtg": "114.6",
                 "Pace": "97.1",
@@ -284,20 +284,20 @@
                 "SOS": "29",
                 "SRS": "9",
                 "ORtg": "5",
-                "DRtg": "14",
+                "DRtg": "15",
                 "Pace": "26",
                 "FTr": "25",
                 "3PAr": "28",
-                "eFG%": "23",
+                "eFG%": "22",
                 "TOV%": "13",
                 "ORB%": "12",
                 "FT/FGA": "5",
-                "DRB%": "15",
+                "DRB%": "17",
                 "Arena": "",
-                "Attendance": "2"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/NYK-2025.png",
-        "last_update": "Mar 27 2025 22:32:18"
+        "last_update": "Mar 28 2025 22:32:18"
     }
 }

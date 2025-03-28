@@ -29,10 +29,40 @@
         ],
         "injuries": [
             {
+                "Player": "Christian Braun",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Day To Day (Foot) - The Nuggets listed Braun as Probable for Friday's (Mar. 28) game against Utah."
+            },
+            {
+                "Player": "Aaron Gordon",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Day To Day (Calf) - The Nuggets listed Gordon as Probable for Friday's (Mar. 28) game against Utah."
+            },
+            {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sun, Feb 23, 2025",
                 "Description": "Out For Season (Achilles) - Nuggets HC Michael Malone said that Holmes was able to participate in portions of Wednesday's (Feb. 19) practice, as per Brendan Vogt of TheDNVR.com reports."
+            },
+            {
+                "Player": "Nikola Jokić",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets listed Jokic as Probable for Friday's (Mar. 28) game against Utah."
+            },
+            {
+                "Player": "Jamal Murray",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Day To Day (Hamstring) - The Nuggets Murray Jokic as Probable for Friday's (Mar. 28) game against Utah."
+            },
+            {
+                "Player": "Michael Porter Jr.",
+                "Team": "Denver Nuggets",
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Day To Day (Back) - The Nuggets listed Porter Jr. as Probable for Friday's (Mar. 28) game against Utah."
             },
             {
                 "Player": "Julian Strawther",
@@ -96,7 +126,7 @@
                 "G": "",
                 "MP": "1",
                 "FG": "1",
-                "FGA": "11",
+                "FGA": "12",
                 "FG%": "1",
                 "3P": "28",
                 "3PA": "30",
@@ -109,7 +139,7 @@
                 "FT%": "24",
                 "ORB": "10",
                 "DRB": "3",
-                "TRB": "4",
+                "TRB": "3",
                 "AST": "1",
                 "STL": "16",
                 "BLK": "17",
@@ -196,18 +226,18 @@
                 "G": "",
                 "MP": "1",
                 "FG": "24",
-                "FGA": "28",
+                "FGA": "27",
                 "FG%": "15",
                 "3P": "22",
                 "3PA": "20",
-                "3P%": "24",
+                "3P%": "23",
                 "2P": "24",
                 "2PA": "28",
                 "2P%": "12",
                 "FT": "9",
                 "FTA": "8",
                 "FT%": "13",
-                "ORB": "22",
+                "ORB": "24",
                 "DRB": "1",
                 "TRB": "6",
                 "AST": "29",
@@ -248,8 +278,8 @@
                 "PW": "45",
                 "PL": "29",
                 "MOV": "3.77",
-                "SOS": "0.00",
-                "SRS": "3.77",
+                "SOS": "-0.01",
+                "SRS": "3.76",
                 "ORtg": "120.0",
                 "DRtg": "116.3",
                 "Pace": "99.9",
@@ -265,7 +295,7 @@
             },
             "Misc Lg Rank": {
                 "W": "5",
-                "L": "23",
+                "L": "25",
                 "PW": "7",
                 "PL": "9",
                 "MOV": "8",
@@ -274,18 +304,18 @@
                 "ORtg": "4",
                 "DRtg": "24",
                 "Pace": "6",
-                "FTr": "9",
+                "FTr": "8",
                 "3PAr": "30",
                 "eFG%": "17",
                 "TOV%": "27",
-                "ORB%": "7",
+                "ORB%": "6",
                 "FT/FGA": "4",
-                "DRB%": "18",
+                "DRB%": "20",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/DEN-2025.png",
-        "last_update": "Mar 27 2025 22:32:18"
+        "last_update": "Mar 28 2025 22:32:18"
     }
 }

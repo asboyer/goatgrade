@@ -2,7 +2,7 @@
     "PHO": {
         "info": {
             "record": "35-38",
-            "standing": "10th in West",
+            "standing": "11th in West",
             "coach": "Mike Budenholzer (35-38)",
             "gm": "James Jones",
             "preseason_odds": "+3500"
@@ -31,8 +31,8 @@
             {
                 "Player": "Bradley Beal",
                 "Team": "Phoenix Suns",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Out (Hamstring) - The Suns listed Beal as OUT for Wednesday's (Mar. 26) game against the Celtics."
+                "Update": "Thu, Mar 27, 2025",
+                "Description": "Out (Hamstring) - The Suns listed Beal as OUT for Friday's (Mar. 28) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -88,7 +88,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "9",
                 "FG": "17",
                 "FGA": "28",
                 "FG%": "8",
@@ -97,7 +97,7 @@
                 "3P%": "2",
                 "2P": "21",
                 "2PA": "27",
-                "2P%": "9",
+                "2P%": "10",
                 "FT": "8",
                 "FTA": "19",
                 "FT%": "2",
@@ -188,16 +188,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "9",
                 "FG": "20",
                 "FGA": "20",
                 "FG%": "14",
-                "3P": "24",
+                "3P": "23",
                 "3PA": "22",
-                "3P%": "17",
+                "3P%": "19",
                 "2P": "17",
                 "2PA": "15",
-                "2P%": "17",
+                "2P%": "16",
                 "FT": "19",
                 "FTA": "18",
                 "FT%": "20",
@@ -242,8 +242,8 @@
                 "PW": "33",
                 "PL": "40",
                 "MOV": "-1.44",
-                "SOS": "-0.06",
-                "SRS": "-1.50",
+                "SOS": "-0.07",
+                "SRS": "-1.51",
                 "ORtg": "116.7",
                 "DRtg": "118.2",
                 "Pace": "97.2",
@@ -258,12 +258,12 @@
                 "Attendance": "631,627"
             },
             "Misc Lg Rank": {
-                "W": "15",
-                "L": "12",
+                "W": "17",
+                "L": "13",
                 "PW": "19",
-                "PL": "20",
+                "PL": "18",
                 "MOV": "19",
-                "SOS": "18",
+                "SOS": "20",
                 "SRS": "18",
                 "ORtg": "7",
                 "DRtg": "27",
@@ -276,10 +276,10 @@
                 "FT/FGA": "17",
                 "DRB%": "23",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/PHO-2025.png",
-        "last_update": "Mar 27 2025 22:32:18"
+        "last_update": "Mar 28 2025 22:32:18"
     }
 }
