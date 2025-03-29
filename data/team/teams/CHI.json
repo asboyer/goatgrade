@@ -31,8 +31,8 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Wrist) - Ball did not play in Thursday's (Mar. 27) game against the Lakers."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Wrist) - The Bulls listed Ball as Doubtful on Saturday's (Mar. 29) game against the Mavericks."
             },
             {
                 "Player": "Ayo Dosunmu",
@@ -45,6 +45,12 @@
                 "Team": "Chicago Bulls",
                 "Update": "Sat, Mar 22, 2025",
                 "Description": "Out (Foot) - The Bulls announced on Saturday (Mar. 22) that Jones has been diagnosed with a left foot sprain and will be re-evaluated in two weeks."
+            },
+            {
+                "Player": "E.J. Liddell",
+                "Team": "Chicago Bulls",
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Illness) - The Bulls listed Liddell as Out on Saturday's (Mar. 29) game against the Mavericks."
             }
         ],
         "team_stats": {
@@ -100,13 +106,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "22",
                 "FG": "9",
                 "FGA": "4",
                 "FG%": "15",
                 "3P": "3",
                 "3PA": "2",
-                "3P%": "12",
+                "3P%": "13",
                 "2P": "18",
                 "2PA": "22",
                 "2P%": "12",
@@ -200,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "22",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "19",
@@ -212,12 +218,12 @@
                 "2P%": "26",
                 "FT": "16",
                 "FTA": "16",
-                "FT%": "22",
+                "FT%": "21",
                 "ORB": "13",
                 "DRB": "29",
                 "TRB": "29",
                 "AST": "28",
-                "STL": "14",
+                "STL": "13",
                 "BLK": "18",
                 "TOV": "28",
                 "PF": "30",
@@ -275,23 +281,23 @@
                 "PW": "22",
                 "PL": "22",
                 "MOV": "22",
-                "SOS": "21",
+                "SOS": "20",
                 "SRS": "22",
                 "ORtg": "19",
-                "DRtg": "21",
+                "DRtg": "22",
                 "Pace": "3",
                 "FTr": "30",
                 "3PAr": "3",
-                "eFG%": "14",
+                "eFG%": "15",
                 "TOV%": "28",
                 "ORB%": "27",
-                "FT/FGA": "11",
+                "FT/FGA": "10",
                 "DRB%": "6",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/CHI-2025.png",
-        "last_update": "Mar 28 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/CHI-2025.png",
+        "last_update": "Mar 29 2025 22:32:17"
     }
 }

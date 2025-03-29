@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Dallas Mavericks",
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Groin) - The Mavericks listed Davis as Probable on Saturday's (Mar. 29) game against the Bulls."
+            },
+            {
                 "Player": "Dante Exum",
                 "Team": "Dallas Mavericks",
                 "Update": "Sat, Mar 15, 2025",
@@ -36,8 +42,8 @@
             {
                 "Player": "Daniel Gafford",
                 "Team": "Dallas Mavericks",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Out (Knee) - The Mavericks assigned Gafford to the G League's Texas Legends on Friday (Mar. 21) to participate in a 3-on-3 practice and will recall him after, per NBA reporter Marc Stein. There is no clear timetable yet for his return."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Knee) - The Mavericks listed Gafford as Doubtful on Saturday's (Mar. 29) game against the Bulls."
             },
             {
                 "Player": "Kyrie Irving",
@@ -48,14 +54,20 @@
             {
                 "Player": "Kai Jones",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Back) - Jones exited to the locker room after sustaining an apparent back injury during the first quarter of Thursday's (Mar. 27) game against the Magic, as per Christian Clark of The Athletic."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Back) - The Mavericks listed Jones as Questionable on Saturday's (Mar. 29) game against the Bulls."
             },
             {
                 "Player": "Dereck Lively II",
                 "Team": "Dallas Mavericks",
-                "Update": "Fri, Mar 21, 2025",
-                "Description": "Out (Ankle) - The Mavericks assigned Lively to the G League's Texas Legends on Friday (Mar. 21) to participate in a 3-on-3 practice and will recall him after, per NBA reporter Marc Stein. There is no clear timetable yet for his return."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Ankle) - The Mavericks listed Lively II as Doubtful on Saturday's (Mar. 29) game against the Bulls."
+            },
+            {
+                "Player": "Caleb Martin",
+                "Team": "Dallas Mavericks",
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Hip) - The Mavericks listed Martin as Probable on Saturday's (Mar. 29) game against the Bulls."
             },
             {
                 "Player": "Olivier-Maxence Prosper",
@@ -66,8 +78,14 @@
             {
                 "Player": "P.J. Washington",
                 "Team": "Dallas Mavericks",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Ankle) - Washington Jr. did not play in Thursday's (Mar. 27) game against the Magic."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Ankle) - The Mavericks listed Washington Jr. as Questionable on Saturday's (Mar. 29) game against the Bulls."
+            },
+            {
+                "Player": "Brandon Williams",
+                "Team": "Dallas Mavericks",
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Back) - The Mavericks listed Williams as Probable on Saturday's (Mar. 29) game against the Bulls."
             }
         ],
         "team_stats": {
@@ -78,17 +96,17 @@
                 "FGA": "6521",
                 "FG%": ".478",
                 "3P": "946",
-                "3PA": "2574",
+                "3PA": "2573",
                 "3P%": ".368",
                 "2P": "2173",
-                "2PA": "3947",
-                "2P%": ".551",
+                "2PA": "3948",
+                "2P%": ".550",
                 "FT": "1318",
                 "FTA": "1697",
                 "FT%": ".777",
-                "ORB": "756",
+                "ORB": "757",
                 "DRB": "2429",
-                "TRB": "3185",
+                "TRB": "3186",
                 "AST": "1865",
                 "STL": "584",
                 "BLK": "399",
@@ -106,14 +124,14 @@
                 "3PA": "34.8",
                 "3P%": ".368",
                 "2P": "29.4",
-                "2PA": "53.3",
-                "2P%": ".551",
+                "2PA": "53.4",
+                "2P%": ".550",
                 "FT": "17.8",
                 "FTA": "22.9",
                 "FT%": ".777",
                 "ORB": "10.2",
                 "DRB": "32.8",
-                "TRB": "43.0",
+                "TRB": "43.1",
                 "AST": "25.2",
                 "STL": "7.9",
                 "BLK": "5.4",
@@ -123,19 +141,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "11",
                 "FG": "11",
                 "FGA": "20",
                 "FG%": "11",
                 "3P": "21",
-                "3PA": "26",
+                "3PA": "25",
                 "3P%": "11",
                 "2P": "11",
                 "2PA": "12",
                 "2P%": "15",
                 "FT": "5",
                 "FTA": "6",
-                "FT%": "18",
+                "FT%": "19",
                 "ORB": "24",
                 "DRB": "19",
                 "TRB": "22",
@@ -143,7 +161,7 @@
                 "STL": "19",
                 "BLK": "6",
                 "TOV": "10",
-                "PF": "8",
+                "PF": "9",
                 "PTS": "12"
             },
             "Year/Year": {
@@ -153,7 +171,7 @@
                 "FGA": "-1.7%",
                 "FG%": "-.003",
                 "3P": "-12.4%",
-                "3PA": "-12.0%",
+                "3PA": "-12.1%",
                 "3P%": "-.002",
                 "2P": "3.0%",
                 "2PA": "6.4%",
@@ -161,9 +179,9 @@
                 "FT": "4.5%",
                 "FTA": "2.1%",
                 "FT%": "+.018",
-                "ORB": "5.1%",
+                "ORB": "5.2%",
                 "DRB": "-1.2%",
-                "TRB": "0.2%",
+                "TRB": "0.3%",
                 "AST": "-1.9%",
                 "STL": "14.9%",
                 "BLK": "8.9%",
@@ -223,7 +241,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "11",
                 "FG": "23",
                 "FGA": "24",
                 "FG%": "18",
@@ -232,7 +250,7 @@
                 "3P%": "15",
                 "2P": "29",
                 "2PA": "30",
-                "2P%": "10",
+                "2P%": "11",
                 "FT": "12",
                 "FTA": "12",
                 "FT%": "14",
@@ -243,8 +261,8 @@
                 "STL": "12",
                 "BLK": "13",
                 "TOV": "23",
-                "PF": "18",
-                "PTS": "17"
+                "PF": "17",
+                "PTS": "18"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -277,8 +295,8 @@
                 "PW": "37",
                 "PL": "37",
                 "MOV": "-0.20",
-                "SOS": "0.50",
-                "SRS": "0.30",
+                "SOS": "0.51",
+                "SRS": "0.31",
                 "ORtg": "115.5",
                 "DRtg": "115.7",
                 "Pace": "99.2",
@@ -294,7 +312,7 @@
             },
             "Misc Lg Rank": {
                 "W": "15",
-                "L": "13",
+                "L": "14",
                 "PW": "16",
                 "PL": "16",
                 "MOV": "16",
@@ -305,16 +323,16 @@
                 "Pace": "14",
                 "FTr": "4",
                 "3PAr": "22",
-                "eFG%": "11",
+                "eFG%": "12",
                 "TOV%": "24",
                 "ORB%": "22",
-                "FT/FGA": "10",
+                "FT/FGA": "9",
                 "DRB%": "25",
                 "Arena": "",
-                "Attendance": "2"
+                "Attendance": "3"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/DAL-2025.png",
-        "last_update": "Mar 28 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/DAL-2025.png",
+        "last_update": "Mar 29 2025 22:32:17"
     }
 }

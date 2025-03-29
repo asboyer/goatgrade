@@ -31,20 +31,20 @@
             {
                 "Player": "Alex Caruso",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Back) - Caruso did not return to Thursday's (Mar. 27) game against Memphis."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Back) - The Thunder listed Caruso as Questionable on Saturday's (Mar. 29) game against the Pacers."
             },
             {
                 "Player": "Ousmane Dieng",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Calf) - Dieng did not play in Thursday's (Mar. 27) game against the Grizzlies."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Calf) - The Thunder listed Dieng as Out on Saturday's (Mar. 29) game against the Pacers."
             },
             {
                 "Player": "Alex Ducas",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Quadriceps) - Ducas did not play in Thursday's (Mar. 27) game against the Grizzlies."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Quadriceps) - The Thunder listed Ducas as Out on Saturday's (Mar. 29) game against the Pacers."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -61,14 +61,14 @@
             {
                 "Player": "Aaron Wiggins",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Achilles) - Wiggins did not play in Thursday's (Mar. 27) game against the Grizzlies."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Achilles) - The Thunder listed Wiggins as Out on Saturday's (Mar. 29) game against the Pacers."
             },
             {
                 "Player": "Jaylin Williams",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Hip) - Williams did not return to Thursday's (Mar. 27) game against Memphis."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Hip) - The Thunder listed Williams as Questionable on Saturday's (Mar. 29) game against the Pacers."
             }
         ],
         "team_stats": {
@@ -124,17 +124,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "26",
                 "FG": "4",
                 "FGA": "3",
                 "FG%": "6",
-                "3P": "6",
+                "3P": "7",
                 "3PA": "11",
                 "3P%": "6",
                 "2P": "7",
                 "2PA": "10",
                 "2P%": "7",
-                "FT": "20",
+                "FT": "21",
                 "FTA": "27",
                 "FT%": "1",
                 "ORB": "21",
@@ -224,7 +224,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "26",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
@@ -237,14 +237,14 @@
                 "FT": "25",
                 "FTA": "25",
                 "FT%": "9",
-                "ORB": "21",
-                "DRB": "18",
+                "ORB": "22",
+                "DRB": "17",
                 "TRB": "21",
                 "AST": "5",
                 "STL": "1",
                 "BLK": "14",
                 "TOV": "1",
-                "PF": "24",
+                "PF": "23",
                 "PTS": "2"
             },
             "Opp Year/Year": {
@@ -278,8 +278,8 @@
                 "PW": "61",
                 "PL": "12",
                 "MOV": "13.05",
-                "SOS": "-0.04",
-                "SRS": "13.02",
+                "SOS": "-0.02",
+                "SRS": "13.03",
                 "ORtg": "120.1",
                 "DRtg": "107.0",
                 "Pace": "99.7",
@@ -299,9 +299,9 @@
                 "PW": "1",
                 "PL": "1",
                 "MOV": "1",
-                "SOS": "17",
+                "SOS": "16",
                 "SRS": "1",
-                "ORtg": "3",
+                "ORtg": "4",
                 "DRtg": "1",
                 "Pace": "10",
                 "FTr": "27",
@@ -310,12 +310,12 @@
                 "TOV%": "1",
                 "ORB%": "21",
                 "FT/FGA": "26",
-                "DRB%": "15",
+                "DRB%": "17",
                 "Arena": "",
                 "Attendance": "16"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/OKC-2025.png",
-        "last_update": "Mar 28 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/OKC-2025.png",
+        "last_update": "Mar 29 2025 22:32:17"
     }
 }

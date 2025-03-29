@@ -33,6 +33,12 @@
                 "Team": "Indiana Pacers",
                 "Update": "Sat, Nov 2, 2024",
                 "Description": "Out For Season (Calf) - The Indiana Pacers announced C Isaiah Jackson has sustained a torn right Achilles tendon in Friday's (Nov. 1) game versus the Pelicans and will be out for the remainder of the season, per Shams Charania of ESPN."
+            },
+            {
+                "Player": "Bennedict Mathurin",
+                "Team": "Indiana Pacers",
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Calf) - The Pacers listed Mathurin as Out on Saturday's (Mar. 29) game against the Thunder."
             }
         ],
         "team_stats": {
@@ -88,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "17",
                 "FG": "5",
                 "FGA": "19",
                 "FG%": "3",
@@ -100,7 +106,7 @@
                 "2P%": "3",
                 "FT": "18",
                 "FTA": "22",
-                "FT%": "8",
+                "FT%": "9",
                 "ORB": "29",
                 "DRB": "24",
                 "TRB": "28",
@@ -188,28 +194,28 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "17",
                 "FG": "22",
                 "FGA": "18",
                 "FG%": "26",
                 "3P": "5",
-                "3PA": "8",
+                "3PA": "9",
                 "3P%": "11",
                 "2P": "27",
                 "2PA": "23",
                 "2P%": "23",
-                "FT": "20",
+                "FT": "19",
                 "FTA": "20",
-                "FT%": "12",
+                "FT%": "11",
                 "ORB": "17",
                 "DRB": "20",
                 "TRB": "20",
                 "AST": "14",
                 "STL": "5",
-                "BLK": "7",
+                "BLK": "8",
                 "TOV": "11",
                 "PF": "20",
-                "PTS": "18"
+                "PTS": "19"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -260,8 +266,8 @@
             "Misc Lg Rank": {
                 "W": "9",
                 "L": "22",
-                "PW": "11",
-                "PL": "13",
+                "PW": "12",
+                "PL": "12",
                 "MOV": "12",
                 "SOS": "28",
                 "SRS": "13",
@@ -270,16 +276,16 @@
                 "Pace": "9",
                 "FTr": "21",
                 "3PAr": "21",
-                "eFG%": "20",
+                "eFG%": "21",
                 "TOV%": "11",
                 "ORB%": "29",
-                "FT/FGA": "18",
+                "FT/FGA": "19",
                 "DRB%": "21",
                 "Arena": "",
                 "Attendance": "29"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/IND-2025.png",
-        "last_update": "Mar 28 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/IND-2025.png",
+        "last_update": "Mar 29 2025 22:32:17"
     }
 }

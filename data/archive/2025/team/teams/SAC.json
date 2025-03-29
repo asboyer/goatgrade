@@ -23,15 +23,14 @@
             "Markelle Fultz",
             "Isaiah Crawford",
             "Mason Jones",
-            "Jae Crowder",
-            "Terry Taylor"
+            "Jae Crowder"
         ],
         "injuries": [
             {
                 "Player": "Jake LaRavia",
                 "Team": "Sacramento Kings",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Thumb) - LaRavia did not play in Thursday's (Mar. 27) game against the Trail Blazers."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Thumb) - LaRavia was diagnosed with a bone contusion in his left thumb Friday (Mar. 28) and will be re-evaluated in 7-to-10 days, James Ham of ESPN 1320 Sacramento reports."
             }
         ],
         "team_stats": {
@@ -87,18 +86,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "15",
                 "FG": "7",
-                "FGA": "8",
+                "FGA": "9",
                 "FG%": "12",
                 "3P": "23",
                 "3PA": "21",
-                "3P%": "20",
+                "3P%": "19",
                 "2P": "4",
                 "2PA": "7",
                 "2P%": "8",
                 "FT": "12",
-                "FTA": "20",
+                "FTA": "19",
                 "FT%": "3",
                 "ORB": "17",
                 "DRB": "14",
@@ -106,7 +105,7 @@
                 "AST": "13",
                 "STL": "23",
                 "BLK": "24",
-                "TOV": "7",
+                "TOV": "6",
                 "PF": "17",
                 "PTS": "10"
             },
@@ -187,7 +186,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "8",
+                "MP": "15",
                 "FG": "16",
                 "FGA": "9",
                 "FG%": "20",
@@ -196,7 +195,7 @@
                 "3P%": "30",
                 "2P": "5",
                 "2PA": "6",
-                "2P%": "14",
+                "2P%": "13",
                 "FT": "21",
                 "FTA": "21",
                 "FT%": "23",
@@ -241,7 +240,7 @@
                 "PW": "38",
                 "PL": "35",
                 "MOV": "0.47",
-                "SOS": "0.16",
+                "SOS": "0.17",
                 "SRS": "0.63",
                 "ORtg": "116.6",
                 "DRtg": "116.2",
@@ -265,20 +264,20 @@
                 "SOS": "12",
                 "SRS": "14",
                 "ORtg": "9",
-                "DRtg": "22",
+                "DRtg": "23",
                 "Pace": "17",
                 "FTr": "22",
                 "3PAr": "23",
                 "eFG%": "27",
                 "TOV%": "17",
-                "ORB%": "14",
+                "ORB%": "15",
                 "FT/FGA": "23",
-                "DRB%": "2",
+                "DRB%": "3",
                 "Arena": "",
                 "Attendance": "19"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/SAC-2025.png",
-        "last_update": "Mar 28 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/SAC-2025.png",
+        "last_update": "Mar 29 2025 22:32:17"
     }
 }

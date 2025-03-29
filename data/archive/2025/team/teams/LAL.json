@@ -16,7 +16,6 @@
             "Jaxson Hayes",
             "Dorian Finney-Smith",
             "Christian Koloko",
-            "Cam Reddish",
             "Jarred Vanderbilt",
             "Shake Milton",
             "Bronny James",
@@ -29,16 +28,16 @@
         ],
         "injuries": [
             {
-                "Player": "Rui Hachimura",
-                "Team": "Los Angeles Lakers",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Knee) - Hachimura did not play in Thursday's (Mar. 27) game against the Bulls."
-            },
-            {
                 "Player": "Maxi Kleber",
                 "Team": "Los Angeles Lakers",
                 "Update": "Tue, Feb 4, 2025",
                 "Description": "Out (Foot) - Kleber said on Tuesday (Feb. 4) that he will have his surgically repaired right foot re-evaluated in eight weeks, according to Jovan Buha of The Athletic."
+            },
+            {
+                "Player": "Austin Reaves",
+                "Team": "Los Angeles Lakers",
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Ankle) - The Lakers listed Reaves as Questionable for Saturday's (Mar. 29) game against the Grizzlies."
             }
         ],
         "team_stats": {
@@ -94,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "19",
                 "FGA": "30",
                 "FG%": "10",
@@ -194,13 +193,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "13",
                 "FGA": "16",
                 "FG%": "10",
                 "3P": "15",
-                "3PA": "17",
-                "3P%": "8",
+                "3PA": "18",
+                "3P%": "7",
                 "2P": "15",
                 "2PA": "13",
                 "2P%": "17",
@@ -208,13 +207,13 @@
                 "FTA": "7",
                 "FT%": "17",
                 "ORB": "14",
-                "DRB": "9",
+                "DRB": "8",
                 "TRB": "8",
                 "AST": "22",
                 "STL": "17",
                 "BLK": "4",
-                "TOV": "22",
-                "PF": "7",
+                "TOV": "21",
+                "PF": "8",
                 "PTS": "11"
             },
             "Opp Year/Year": {
@@ -248,8 +247,8 @@
                 "PW": "38",
                 "PL": "35",
                 "MOV": "0.67",
-                "SOS": "-0.15",
-                "SRS": "0.52",
+                "SOS": "-0.14",
+                "SRS": "0.54",
                 "ORtg": "115.2",
                 "DRtg": "114.5",
                 "Pace": "97.7",
@@ -277,15 +276,15 @@
                 "FTr": "2",
                 "3PAr": "15",
                 "eFG%": "9",
-                "TOV%": "21",
+                "TOV%": "20",
                 "ORB%": "25",
-                "FT/FGA": "9",
+                "FT/FGA": "8",
                 "DRB%": "12",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "12"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/LAL-2025.png",
-        "last_update": "Mar 28 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/LAL-2025.png",
+        "last_update": "Mar 29 2025 22:32:17"
     }
 }

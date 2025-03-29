@@ -31,8 +31,8 @@
             {
                 "Player": "Charles Bassey",
                 "Team": "San Antonio Spurs",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Knee) - Bassey did not play in Thursday's (Mar. 27) game against the Cavaliers."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Knee) - The Spurs listed Bassey as Out on Saturday's (Mar. 29) game against the Celtics."
             },
             {
                 "Player": "De'Aaron Fox",
@@ -100,13 +100,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "28",
+                "MP": "30",
                 "FG": "13",
                 "FGA": "11",
-                "FG%": "16",
+                "FG%": "17",
                 "3P": "9",
                 "3PA": "6",
-                "3P%": "21",
+                "3P%": "20",
                 "2P": "16",
                 "2PA": "18",
                 "2P%": "14",
@@ -114,7 +114,7 @@
                 "FTA": "21",
                 "FT%": "20",
                 "ORB": "12",
-                "DRB": "20",
+                "DRB": "21",
                 "TRB": "17",
                 "AST": "5",
                 "STL": "11",
@@ -200,13 +200,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "28",
-                "FG": "26",
+                "MP": "30",
+                "FG": "27",
                 "FGA": "26",
-                "FG%": "25",
-                "3P": "21",
+                "FG%": "23",
+                "3P": "22",
                 "3PA": "21",
-                "3P%": "18",
+                "3P%": "17",
                 "2P": "28",
                 "2PA": "26",
                 "2P%": "22",
@@ -273,7 +273,7 @@
                 "W": "23",
                 "L": "9",
                 "PW": "21",
-                "PL": "20",
+                "PL": "19",
                 "MOV": "21",
                 "SOS": "13",
                 "SRS": "20",
@@ -282,16 +282,16 @@
                 "Pace": "13",
                 "FTr": "24",
                 "3PAr": "8",
-                "eFG%": "23",
+                "eFG%": "22",
                 "TOV%": "22",
                 "ORB%": "19",
                 "FT/FGA": "3",
                 "DRB%": "26",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/SAS-2025.png",
-        "last_update": "Mar 28 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/SAS-2025.png",
+        "last_update": "Mar 29 2025 22:32:17"
     }
 }

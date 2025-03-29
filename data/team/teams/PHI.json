@@ -33,8 +33,8 @@
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Mar 26, 2025",
-                "Description": "Day To Day (Toe) - Drummond did not play in Wednesday's (Mar. 26) game against the Wizards."
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Out (Toe) - The 76ers listed Drummond as Out for Saturday's (Mar. 29) game against the Heat."
             },
             {
                 "Player": "Joel Embiid",
@@ -55,16 +55,22 @@
                 "Description": "Out For Season (Wrist) - The 76ers announced on Thursday (Feb. 27) that Gordon will be re-evaluated in three months after undergoing successful wrist surgery, as per Keith Pompey of The Philadelphia Inquirer."
             },
             {
+                "Player": "Jalen Hood-Schifino",
+                "Team": "Philadelphia 76ers",
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Illness) - The 76ers listed Hood-Schifino as Questionable for Saturday's (Mar. 29) game against the Heat."
+            },
+            {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Mar 26, 2025",
-                "Description": "Day To Day (Hip) - Lowry did not play in Wednesday's (Mar. 26) game against the Wizards."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Hip) - The Team announced Lowry remains without an official timetable to return, per Ky Carlin of USA Today."
             },
             {
                 "Player": "Tyrese Maxey",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Mar 26, 2025",
-                "Description": "Day To Day (Back) - Maxey did not play in Wednesday's (Mar. 26) game against the Wizards."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Back) - The Team announced Lowry remains without an official timetable to return, per Ky Carlin of USA Today."
             },
             {
                 "Player": "Jared McCain",
@@ -75,14 +81,14 @@
             {
                 "Player": "Kelly Oubre Jr.",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Mar 26, 2025",
-                "Description": "Day To Day (Knee) - Oubre Jr. did not play in Wednesday's (Mar. 26) game against the Wizards."
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Out (Knee) - The 76ers listed Oubre Jr. as Out for Saturday's (Mar. 29) game against the Heat."
             },
             {
                 "Player": "Lonnie Walker IV",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Mar 26, 2025",
-                "Description": "Day To Day (Head) - Walker IV did not play in Wednesday's (Mar. 26) game against the Wizards."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Head) - The 76ers listed Walker IV as Probable for Saturday's (Mar. 29) game against the Heat."
             }
         ],
         "team_stats": {
@@ -138,25 +144,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "17",
                 "FG": "26",
                 "FGA": "23",
                 "FG%": "22",
                 "3P": "20",
                 "3PA": "17",
-                "3P%": "26",
-                "2P": "22",
+                "3P%": "25",
+                "2P": "21",
                 "2PA": "19",
                 "2P%": "21",
                 "FT": "6",
-                "FTA": "9",
-                "FT%": "15",
+                "FTA": "8",
+                "FT%": "14",
                 "ORB": "23",
                 "DRB": "30",
                 "TRB": "30",
                 "AST": "28",
                 "STL": "4",
-                "BLK": "28",
+                "BLK": "27",
                 "TOV": "5",
                 "PF": "22",
                 "PTS": "25"
@@ -238,7 +244,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "17",
                 "FG": "21",
                 "FGA": "4",
                 "FG%": "30",
@@ -246,10 +252,10 @@
                 "3PA": "14",
                 "3P%": "29",
                 "2P": "18",
-                "2PA": "3",
+                "2PA": "4",
                 "2P%": "30",
                 "FT": "15",
-                "FTA": "11",
+                "FTA": "10",
                 "FT%": "29",
                 "ORB": "18",
                 "DRB": "26",
@@ -292,8 +298,8 @@
                 "PW": "24",
                 "PL": "49",
                 "MOV": "-5.63",
-                "SOS": "0.05",
-                "SRS": "-5.58",
+                "SOS": "0.04",
+                "SRS": "-5.59",
                 "ORtg": "112.4",
                 "DRtg": "118.2",
                 "Pace": "97.2",
@@ -309,7 +315,7 @@
             },
             "Misc Lg Rank": {
                 "W": "25",
-                "L": "5",
+                "L": "6",
                 "PW": "25",
                 "PL": "25",
                 "MOV": "25",
@@ -317,19 +323,19 @@
                 "SRS": "25",
                 "ORtg": "21",
                 "DRtg": "26",
-                "Pace": "25",
+                "Pace": "24",
                 "FTr": "5",
                 "3PAr": "13",
                 "eFG%": "30",
                 "TOV%": "3",
                 "ORB%": "24",
-                "FT/FGA": "19",
+                "FT/FGA": "20",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "11"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/PHI-2025.png",
-        "last_update": "Mar 28 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/PHI-2025.png",
+        "last_update": "Mar 29 2025 22:32:17"
     }
 }

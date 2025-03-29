@@ -37,8 +37,8 @@
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Ankle) - Brogdon did not play in Thursday's (Mar. 27) game against the Pacers."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Ankle) - The Wizards listed Brogdon as Out for Saturday's (Mar. 29) game against the Nets."
             },
             {
                 "Player": "Bilal Coulibaly",
@@ -49,14 +49,14 @@
             {
                 "Player": "Kyshawn George",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Ankle) - George did not play in Thursday's (Mar. 27) game against the Pacers."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Ankle) - The Wizards listed George as Out for Saturday's (Mar. 29) game against the Nets."
             },
             {
                 "Player": "Anthony Gill",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Hip) - Gill will miss the second half of Thursday's (Mar. 27) game against the Pacers due to left hip soreness, as per Josh Robbins of The Athletic."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Hip) - The Wizards listed Gill as Out for Saturday's (Mar. 29) game against the Nets."
             },
             {
                 "Player": "Corey Kispert",
@@ -67,14 +67,14 @@
             {
                 "Player": "Khris Middleton",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Knee) - Middleton is scheduled to get an MRI after leaving Thursday's (Mar. 27) game against the Pacers, HC Brian Keefe told Chase Hughes of Monumental Sports Network."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Knee) - The Wizards listed Middleton as Out for Saturday's (Mar. 29) game against the Nets."
             },
             {
                 "Player": "Marcus Smart",
                 "Team": "Washington Wizards",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Illness) - Smart did not play in Thursday's (Mar. 27) game against the Pacers."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Illness) - The Wizards listed Smart as Questionable for Saturday's (Mar. 29) game against the Nets."
             }
         ],
         "team_stats": {
@@ -130,20 +130,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "27",
-                "FGA": "9",
+                "FGA": "10",
                 "FG%": "28",
                 "3P": "16",
                 "3PA": "7",
                 "3P%": "29",
                 "2P": "23",
                 "2PA": "15",
-                "2P%": "27",
+                "2P%": "26",
                 "FT": "26",
                 "FTA": "23",
-                "FT%": "17",
-                "ORB": "19",
+                "FT%": "18",
+                "ORB": "20",
                 "DRB": "15",
                 "TRB": "16",
                 "AST": "21",
@@ -230,13 +230,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "24",
                 "FG": "28",
                 "FGA": "29",
                 "FG%": "21",
                 "3P": "27",
                 "3PA": "25",
-                "3P%": "24",
+                "3P%": "25",
                 "2P": "26",
                 "2PA": "25",
                 "2P%": "20",
@@ -247,8 +247,8 @@
                 "DRB": "30",
                 "TRB": "30",
                 "AST": "26",
-                "STL": "27",
-                "BLK": "20",
+                "STL": "28",
+                "BLK": "21",
                 "TOV": "24",
                 "PF": "21",
                 "PTS": "30"
@@ -305,7 +305,7 @@
                 "PW": "30",
                 "PL": "30",
                 "MOV": "30",
-                "SOS": "6",
+                "SOS": "5",
                 "SRS": "30",
                 "ORtg": "30",
                 "DRtg": "28",
@@ -321,7 +321,7 @@
                 "Attendance": "30"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/WAS-2025.png",
-        "last_update": "Mar 28 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/WAS-2025.png",
+        "last_update": "Mar 29 2025 22:32:17"
     }
 }

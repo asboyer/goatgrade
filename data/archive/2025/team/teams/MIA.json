@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Alec Burks",
+                "Team": "Miami Heat",
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Day To Day (Back) - The Heat listed Burks as Questionable for Saturday's (Mar. 29) game against the 76ers."
+            },
+            {
                 "Player": "Nikola Jović",
                 "Team": "Miami Heat",
                 "Update": "Tue, Mar 25, 2025",
@@ -37,20 +43,26 @@
             {
                 "Player": "Kevin Love",
                 "Team": "Miami Heat",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Personal) - Love did not play in Thursday's (Mar. 27) game against the Hawks."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Personal) - The Heat listed Love as Out for Saturday's (Mar. 29) game against the 76ers."
             },
             {
                 "Player": "Duncan Robinson",
                 "Team": "Miami Heat",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Back) - Robinson did not play in Thursday's (Mar. 27) game against the Hawks."
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Back) - The Heat listed Robinson as Out for Saturday's (Mar. 29) game against the 76ers."
             },
             {
                 "Player": "Dru Smith",
                 "Team": "Miami Heat",
                 "Update": "Fri, Dec 27, 2024",
                 "Description": "Out For Season (Achilles) - The Heat announced on Friday (Dec. 27) that Smith underwent successful surgery to repair a ruptured left achilles tendon. He will miss the remainder of the season."
+            },
+            {
+                "Player": "Andrew Wiggins",
+                "Team": "Miami Heat",
+                "Update": "Fri, Mar 28, 2025",
+                "Description": "Out (Hamstring) - Wiggins didn't travel with the Heat for their upcoming three-game road trip and won't play in Saturday's (Mar. 29) matchup against the 76ers due to a hamstring injury, per Ira Winderman of the South Florida Sun Sentinel."
             }
         ],
         "team_stats": {
@@ -106,13 +118,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "14",
                 "FG": "25",
                 "FGA": "26",
                 "FG%": "19",
                 "3P": "12",
                 "3PA": "15",
-                "3P%": "14",
+                "3P%": "15",
                 "2P": "25",
                 "2PA": "25",
                 "2P%": "20",
@@ -120,7 +132,7 @@
                 "FTA": "26",
                 "FT%": "10",
                 "ORB": "27",
-                "DRB": "12",
+                "DRB": "13",
                 "TRB": "25",
                 "AST": "16",
                 "STL": "18",
@@ -206,20 +218,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "15",
+                "MP": "14",
+                "FG": "14",
                 "FGA": "15",
                 "FG%": "13",
                 "3P": "19",
                 "3PA": "16",
                 "3P%": "13",
-                "2P": "12",
+                "2P": "11",
                 "2PA": "11",
                 "2P%": "18",
                 "FT": "1",
                 "FTA": "1",
                 "FT%": "16",
-                "ORB": "11",
+                "ORB": "12",
                 "DRB": "27",
                 "TRB": "21",
                 "AST": "15",
@@ -281,23 +293,23 @@
                 "PW": "17",
                 "PL": "17",
                 "MOV": "17",
-                "SOS": "19",
+                "SOS": "18",
                 "SRS": "17",
                 "ORtg": "22",
                 "DRtg": "12",
-                "Pace": "29",
+                "Pace": "30",
                 "FTr": "23",
                 "3PAr": "11",
-                "eFG%": "16",
+                "eFG%": "17",
                 "TOV%": "19",
                 "ORB%": "28",
                 "FT/FGA": "1",
                 "DRB%": "11",
                 "Arena": "",
-                "Attendance": "1"
+                "Attendance": "2"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503253/tlogo/bbr/MIA-2025.png",
-        "last_update": "Mar 28 2025 22:32:18"
+        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/MIA-2025.png",
+        "last_update": "Mar 29 2025 22:32:17"
     }
 }
