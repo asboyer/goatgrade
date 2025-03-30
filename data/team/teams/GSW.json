@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Stephen Curry",
+                "Team": "Golden State Warriors",
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Day To Day (Pelvic) - The Warriors listed Curry as Probable for Sunday's (Mar. 30) game against the Spurs."
+            },
+            {
                 "Player": "Gary Payton II",
                 "Team": "Golden State Warriors",
                 "Update": "Thu, Mar 27, 2025",
@@ -87,13 +93,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "29",
                 "FG": "22",
                 "FGA": "6",
                 "FG%": "26",
                 "3P": "4",
                 "3PA": "3",
-                "3P%": "16",
+                "3P%": "17",
                 "2P": "27",
                 "2PA": "26",
                 "2P%": "23",
@@ -103,12 +109,12 @@
                 "ORB": "4",
                 "DRB": "16",
                 "TRB": "3",
-                "AST": "6",
+                "AST": "5",
                 "STL": "5",
                 "BLK": "14",
                 "TOV": "14",
                 "PF": "23",
-                "PTS": "18"
+                "PTS": "19"
             },
             "Year/Year": {
                 "G": "",
@@ -187,13 +193,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "26",
+                "MP": "29",
                 "FG": "8",
                 "FGA": "6",
                 "FG%": "12",
                 "3P": "9",
                 "3PA": "8",
-                "3P%": "18",
+                "3P%": "19",
                 "2P": "6",
                 "2PA": "12",
                 "2P%": "10",
@@ -241,8 +247,8 @@
                 "PW": "42",
                 "PL": "31",
                 "MOV": "2.22",
-                "SOS": "0.22",
-                "SRS": "2.44",
+                "SOS": "0.21",
+                "SRS": "2.43",
                 "ORtg": "114.1",
                 "DRtg": "111.9",
                 "Pace": "98.8",
@@ -269,16 +275,16 @@
                 "Pace": "16",
                 "FTr": "20",
                 "3PAr": "2",
-                "eFG%": "13",
+                "eFG%": "14",
                 "TOV%": "5",
                 "ORB%": "5",
                 "FT/FGA": "17",
                 "DRB%": "10",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/GSW-2025.png",
-        "last_update": "Mar 29 2025 22:32:17"
+        "last_update": "Mar 30 2025 22:32:19"
     }
 }

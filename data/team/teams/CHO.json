@@ -35,6 +35,18 @@
                 "Description": "Out For Season (Ankle) - Ball will miss the rest of the 2024-25 NBA season as he undergoes two minor procedures to address ankle and wrist issues, per Shams Charania of ESPN."
             },
             {
+                "Player": "Seth Curry",
+                "Team": "Charlotte Hornets",
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Out (Knee) - The Hornets listed Curry as OUT for Sunday's (Mar. 30) game against New Orleans."
+            },
+            {
+                "Player": "Josh Green",
+                "Team": "Charlotte Hornets",
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Day To Day (Shoulder) - The Hornets listed Green as Probable for Sunday's (Mar. 30) game against New Orleans."
+            },
+            {
                 "Player": "Tre Mann",
                 "Team": "Charlotte Hornets",
                 "Update": "Thu, Jan 30, 2025",
@@ -49,14 +61,26 @@
             {
                 "Player": "Josh Okogie",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Mar 28, 2025",
-                "Description": "Day To Day (Hamstring) - Okogie did not play on Friday's (Mar. 28) game against Toronto."
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Day To Day (Hamstring) - The Hornets listed Okogie as Probable for Sunday's (Mar. 30) game against New Orleans."
+            },
+            {
+                "Player": "Tidjane Salaün",
+                "Team": "Charlotte Hornets",
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Day To Day (Ankle) - The Hornets listed Salaun as Questionable for Sunday's (Mar. 30) game against New Orleans."
             },
             {
                 "Player": "Grant Williams",
                 "Team": "Charlotte Hornets",
                 "Update": "Wed, Dec 11, 2024",
                 "Description": "Out For Season (ACL) - The Hornets announced on Wednesday (Dec. 11) that Williams underwent successful surgery to repair multiple tears in his knee, including the ACL, per ESPN's Shams Charania. He is expected to return in 9 to 12 months."
+            },
+            {
+                "Player": "Mark Williams",
+                "Team": "Charlotte Hornets",
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Out (Rest) - The Hornets listed Williams as OUT for Sunday's (Mar. 30) game against New Orleans."
             }
         ],
         "team_stats": {
@@ -112,7 +136,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "27",
                 "FG": "28",
                 "FGA": "15",
                 "FG%": "30",
@@ -129,7 +153,7 @@
                 "DRB": "20",
                 "TRB": "8",
                 "AST": "26",
-                "STL": "26",
+                "STL": "25",
                 "BLK": "21",
                 "TOV": "24",
                 "PF": "19",
@@ -212,7 +236,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "22",
+                "MP": "27",
                 "FG": "14",
                 "FGA": "13",
                 "FG%": "16",
@@ -225,14 +249,14 @@
                 "FT": "17",
                 "FTA": "17",
                 "FT%": "24",
-                "ORB": "16",
+                "ORB": "17",
                 "DRB": "24",
                 "TRB": "23",
                 "AST": "16",
                 "STL": "20",
                 "BLK": "24",
                 "TOV": "22",
-                "PF": "24",
+                "PF": "23",
                 "PTS": "15"
             },
             "Opp Year/Year": {
@@ -266,8 +290,8 @@
                 "PW": "19",
                 "PL": "54",
                 "MOV": "-8.21",
-                "SOS": "-0.07",
-                "SRS": "-8.28",
+                "SOS": "-0.05",
+                "SRS": "-8.25",
                 "ORtg": "107.8",
                 "DRtg": "116.2",
                 "Pace": "97.6",
@@ -287,23 +311,23 @@
                 "PW": "28",
                 "PL": "27",
                 "MOV": "27",
-                "SOS": "19",
+                "SOS": "18",
                 "SRS": "29",
                 "ORtg": "29",
-                "DRtg": "24",
+                "DRtg": "23",
                 "Pace": "22",
                 "FTr": "28",
                 "3PAr": "12",
                 "eFG%": "20",
-                "TOV%": "21",
+                "TOV%": "20",
                 "ORB%": "7",
-                "FT/FGA": "18",
-                "DRB%": "18",
+                "FT/FGA": "19",
+                "DRB%": "19",
                 "Arena": "",
                 "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/CHO-2025.png",
-        "last_update": "Mar 29 2025 22:32:17"
+        "last_update": "Mar 30 2025 22:32:19"
     }
 }

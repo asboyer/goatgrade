@@ -29,16 +29,16 @@
         ],
         "injuries": [
             {
-                "Player": "Steven Adams",
+                "Player": "Tari Eason",
                 "Team": "Houston Rockets",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Wrist) - Adams did not play in Thursday's (Mar. 27) game against the Jazz."
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Out (Rest) - The Rockets have listed Eason as OUT for Sunday's (Mar. 30) game against the Suns."
             },
             {
                 "Player": "Reed Sheppard",
                 "Team": "Houston Rockets",
-                "Update": "Sat, Mar 8, 2025",
-                "Description": "Out (Thumb) - Head coach Ime Udoka told reporters on Saturday (Mar. 8) that Sheppard fractured his right thumb and will be out for at least four weeks, according to Ben DuBose of USA Today."
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Day To Day (Thumb) - The Rockets have listed Sheppard as Questionable for Sunday's (Mar. 30) game against the Suns."
             }
         ],
         "team_stats": {
@@ -94,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "13",
                 "FG": "12",
                 "FGA": "2",
                 "FG%": "24",
@@ -108,13 +108,13 @@
                 "FTA": "5",
                 "FT%": "30",
                 "ORB": "1",
-                "DRB": "7",
+                "DRB": "8",
                 "TRB": "1",
                 "AST": "29",
                 "STL": "10",
                 "BLK": "13",
                 "TOV": "13",
-                "PF": "21",
+                "PF": "22",
                 "PTS": "16"
             },
             "Year/Year": {
@@ -194,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "13",
                 "FG": "4",
                 "FGA": "12",
                 "FG%": "5",
@@ -211,7 +211,7 @@
                 "DRB": "3",
                 "TRB": "5",
                 "AST": "2",
-                "STL": "10",
+                "STL": "11",
                 "BLK": "28",
                 "TOV": "15",
                 "PF": "3",
@@ -248,8 +248,8 @@
                 "PW": "47",
                 "PL": "27",
                 "MOV": "4.57",
-                "SOS": "0.31",
-                "SRS": "4.88",
+                "SOS": "0.30",
+                "SRS": "4.87",
                 "ORtg": "114.9",
                 "DRtg": "110.2",
                 "Pace": "98.4",
@@ -269,9 +269,9 @@
                 "PW": "5",
                 "PL": "5",
                 "MOV": "5",
-                "SOS": "8",
+                "SOS": "7",
                 "SRS": "5",
-                "ORtg": "15",
+                "ORtg": "16",
                 "DRtg": "3",
                 "Pace": "19",
                 "FTr": "12",
@@ -286,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/HOU-2025.png",
-        "last_update": "Mar 29 2025 22:32:17"
+        "last_update": "Mar 30 2025 22:32:19"
     }
 }

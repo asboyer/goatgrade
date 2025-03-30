@@ -31,8 +31,8 @@
             {
                 "Player": "Bradley Beal",
                 "Team": "Phoenix Suns",
-                "Update": "Fri, Mar 28, 2025",
-                "Description": "Day To Day (Hamstring) - Beal did not play on Friday's (Mar. 28) game against the Timberwolves."
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Out (Hamstring) - The Suns have listed Beal as OUT for Sunday's (Mar. 30) game against the Rockets."
             }
         ],
         "team_stats": {
@@ -88,10 +88,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "8",
                 "FG": "17",
                 "FGA": "28",
-                "FG%": "7",
+                "FG%": "8",
                 "3P": "6",
                 "3PA": "12",
                 "3P%": "2",
@@ -103,7 +103,7 @@
                 "FT%": "2",
                 "ORB": "28",
                 "DRB": "12",
-                "TRB": "24",
+                "TRB": "25",
                 "AST": "10",
                 "STL": "29",
                 "BLK": "15",
@@ -188,14 +188,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "8",
                 "FG": "20",
                 "FGA": "20",
                 "FG%": "15",
                 "3P": "24",
                 "3PA": "23",
                 "3P%": "22",
-                "2P": "17",
+                "2P": "18",
                 "2PA": "15",
                 "2P%": "16",
                 "FT": "18",
@@ -204,11 +204,11 @@
                 "ORB": "25",
                 "DRB": "12",
                 "TRB": "17",
-                "AST": "17",
+                "AST": "18",
                 "STL": "18",
                 "BLK": "3",
                 "TOV": "29",
-                "PF": "13",
+                "PF": "12",
                 "PTS": "22"
             },
             "Opp Year/Year": {
@@ -242,8 +242,8 @@
                 "PW": "33",
                 "PL": "41",
                 "MOV": "-1.62",
-                "SOS": "0.01",
-                "SRS": "-1.61",
+                "SOS": "0.00",
+                "SRS": "-1.62",
                 "ORtg": "116.8",
                 "DRtg": "118.4",
                 "Pace": "97.1",
@@ -258,20 +258,20 @@
                 "Attendance": "631,627"
             },
             "Misc Lg Rank": {
-                "W": "17",
+                "W": "18",
                 "L": "12",
                 "PW": "19",
-                "PL": "21",
+                "PL": "20",
                 "MOV": "19",
                 "SOS": "15",
-                "SRS": "18",
+                "SRS": "19",
                 "ORtg": "7",
                 "DRtg": "27",
-                "Pace": "25",
+                "Pace": "24",
                 "FTr": "11",
                 "3PAr": "9",
                 "eFG%": "18",
-                "TOV%": "29",
+                "TOV%": "28",
                 "ORB%": "26",
                 "FT/FGA": "16",
                 "DRB%": "23",
@@ -280,6 +280,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/PHO-2025.png",
-        "last_update": "Mar 29 2025 22:32:17"
+        "last_update": "Mar 30 2025 22:32:19"
     }
 }

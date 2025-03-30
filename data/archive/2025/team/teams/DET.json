@@ -31,14 +31,26 @@
             {
                 "Player": "Cade Cunningham",
                 "Team": "Detroit Pistons",
-                "Update": "Fri, Mar 28, 2025",
-                "Description": "Day To Day (Calf) - Cunningham did not play on Friday's (Mar. 28) game against Cleveland."
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Day To Day (Calf) - The Pistons listed Cunningham as Doubtful for Sunday's (Mar. 30) game against Minnesota."
+            },
+            {
+                "Player": "Tobias Harris",
+                "Team": "Detroit Pistons",
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Day To Day (Achilles) - The Pistons listed Harris as Probable for Sunday's (Mar. 30) game against Minnesota."
             },
             {
                 "Player": "Jaden Ivey",
                 "Team": "Detroit Pistons",
                 "Update": "Thu, Mar 13, 2025",
                 "Description": "Out (Leg) - The Pistons announced on Thursday (Mar. 13) that Ivey has transitioned to weight-bearing strengthening exercises, running progression activity and stationary shooting. His recovery progress will be updated in another four weeks."
+            },
+            {
+                "Player": "Dennis Schröder",
+                "Team": "Detroit Pistons",
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Day To Day (Quad) - The Pistons listed Schroder as Probable for Sunday's (Mar. 30) game against Minnesota."
             }
         ],
         "team_stats": {
@@ -94,19 +106,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "13",
                 "FG": "10",
                 "FGA": "17",
-                "FG%": "9",
-                "3P": "22",
+                "FG%": "10",
+                "3P": "21",
                 "3PA": "24",
-                "3P%": "14",
+                "3P%": "15",
                 "2P": "6",
                 "2PA": "9",
-                "2P%": "13",
-                "FT": "13",
+                "2P%": "12",
+                "FT": "12",
                 "FTA": "13",
-                "FT%": "17",
+                "FT%": "18",
                 "ORB": "10",
                 "DRB": "9",
                 "TRB": "10",
@@ -194,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "13",
                 "FG": "5",
                 "FGA": "7",
                 "FG%": "8",
@@ -204,7 +216,7 @@
                 "2P": "3",
                 "2PA": "7",
                 "2P%": "6",
-                "FT": "28",
+                "FT": "27",
                 "FTA": "28",
                 "FT%": "10",
                 "ORB": "5",
@@ -248,8 +260,8 @@
                 "PW": "43",
                 "PL": "31",
                 "MOV": "2.69",
-                "SOS": "-0.59",
-                "SRS": "2.10",
+                "SOS": "-0.57",
+                "SRS": "2.12",
                 "ORtg": "115.1",
                 "DRtg": "112.4",
                 "Pace": "99.9",
@@ -276,16 +288,16 @@
                 "Pace": "6",
                 "FTr": "14",
                 "3PAr": "24",
-                "eFG%": "11",
+                "eFG%": "10",
                 "TOV%": "8",
                 "ORB%": "10",
                 "FT/FGA": "27",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/DET-2025.png",
-        "last_update": "Mar 29 2025 22:32:17"
+        "last_update": "Mar 30 2025 22:32:19"
     }
 }

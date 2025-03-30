@@ -35,6 +35,12 @@
                 "Description": "Out (Ankle) - The Pelicans announced on Friday (Mar. 7) that Boston Jr. was diagnosed with a left ankle stress reaction and will be re-evaluated in two weeks."
             },
             {
+                "Player": "Jordan Hawkins",
+                "Team": "New Orleans Pelicans",
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Day To Day (Back) - The Pelicans have listed Hawkins as Questionable for Sunday's (Mar. 30) game against the Hornets."
+            },
+            {
                 "Player": "Herbert Jones",
                 "Team": "New Orleans Pelicans",
                 "Update": "Wed, Feb 26, 2025",
@@ -43,8 +49,8 @@
             {
                 "Player": "CJ McCollum",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Mar 28, 2025",
-                "Description": "Day To Day (Foot) - McCollum did not play on Friday's (Mar. 28) game against Golden State."
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Out (Foot) - The Pelicans have listed McCollum as OUT for Sunday's (Mar. 30) game against the Hornets."
             },
             {
                 "Player": "Trey Murphy III",
@@ -59,10 +65,16 @@
                 "Description": "Out For Season (Leg) - Murray suffered a torn right Achilles tendon during Friday's (Jan. 31) game against the Celtics and will now miss the rest of the season, per Shams Charania of ESPN.com."
             },
             {
+                "Player": "Kelly Olynyk",
+                "Team": "New Orleans Pelicans",
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Day To Day (Achilles) - The Pelicans have listed Olynyk as Questionable for Sunday's (Mar. 30) game against the Hornets."
+            },
+            {
                 "Player": "Zion Williamson",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Mar 28, 2025",
-                "Description": "Day To Day (Back) - Williamson did not play on Friday's (Mar. 28) game against Golden State."
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Out (Back) - The Pelicans have listed Williamson as OUT for Sunday's (Mar. 30) game against the Hornets."
             }
         ],
         "team_stats": {
@@ -118,7 +130,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "16",
                 "FG": "20",
                 "FGA": "14",
                 "FG%": "23",
@@ -137,7 +149,7 @@
                 "AST": "19",
                 "STL": "8",
                 "BLK": "7",
-                "TOV": "20",
+                "TOV": "19",
                 "PF": "12",
                 "PTS": "24"
             },
@@ -218,7 +230,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "16",
                 "FG": "26",
                 "FGA": "21",
                 "FG%": "29",
@@ -228,7 +240,7 @@
                 "2P": "22",
                 "2PA": "10",
                 "2P%": "29",
-                "FT": "14",
+                "FT": "15",
                 "FTA": "13",
                 "FT%": "18",
                 "ORB": "27",
@@ -272,8 +284,8 @@
                 "PW": "19",
                 "PL": "55",
                 "MOV": "-8.74",
-                "SOS": "0.85",
-                "SRS": "-7.89",
+                "SOS": "0.83",
+                "SRS": "-7.91",
                 "ORtg": "111.0",
                 "DRtg": "119.8",
                 "Pace": "99.0",
@@ -301,7 +313,7 @@
                 "FTr": "16",
                 "3PAr": "26",
                 "eFG%": "29",
-                "TOV%": "18",
+                "TOV%": "19",
                 "ORB%": "9",
                 "FT/FGA": "12",
                 "DRB%": "29",
@@ -310,6 +322,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/NOP-2025.png",
-        "last_update": "Mar 29 2025 22:32:17"
+        "last_update": "Mar 30 2025 22:32:19"
     }
 }

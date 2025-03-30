@@ -29,18 +29,6 @@
         ],
         "injuries": [
             {
-                "Player": "Ochai Agbaji",
-                "Team": "Toronto Raptors",
-                "Update": "Fri, Mar 28, 2025",
-                "Description": "Day To Day (Rest) - Agbaji did not play on Friday's (Mar. 28) game against Charlotte."
-            },
-            {
-                "Player": "RJ Barrett",
-                "Team": "Toronto Raptors",
-                "Update": "Fri, Mar 28, 2025",
-                "Description": "Day To Day (Rest) - Barrett did not play on Friday's (Mar. 28) game against Charlotte."
-            },
-            {
                 "Player": "Ulrich Chomche",
                 "Team": "Toronto Raptors",
                 "Update": "Wed, Feb 19, 2025",
@@ -49,14 +37,26 @@
             {
                 "Player": "Gradey Dick",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Mar 28, 2025",
-                "Description": "Day To Day (Knee) - Dick did not play on Friday's (Mar. 28) game against Charlotte."
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Out (Knee) - The Heat listed Dick as Out for Sunday's (Mar. 30) game against the 76ers."
             },
             {
                 "Player": "Brandon Ingram",
                 "Team": "Toronto Raptors",
                 "Update": "Sun, Mar 23, 2025",
                 "Description": "Out (Ankle) - The Raptors announced on Sunday (Mar. 23) that Ingram is progressing and will be re-evaluated in approximately 10 days, per Michael Grange of Sportsnet.ca."
+            },
+            {
+                "Player": "Jakob Poeltl",
+                "Team": "Toronto Raptors",
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Out (Rest) - The Heat listed Poeltl as Out for Sunday's (Mar. 30) game against the 76ers."
+            },
+            {
+                "Player": "Immanuel Quickley",
+                "Team": "Toronto Raptors",
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Out (Rest) - The Heat listed Quickley as Out for Sunday's (Mar. 30) game against the 76ers."
             }
         ],
         "team_stats": {
@@ -112,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "9",
                 "FG": "16",
                 "FGA": "8",
                 "FG%": "20",
@@ -122,14 +122,14 @@
                 "2P": "9",
                 "2PA": "3",
                 "2P%": "25",
-                "FT": "25",
+                "FT": "26",
                 "FTA": "17",
                 "FT%": "28",
                 "ORB": "5",
-                "DRB": "22",
+                "DRB": "21",
                 "TRB": "7",
                 "AST": "8",
-                "STL": "21",
+                "STL": "20",
                 "BLK": "26",
                 "TOV": "25",
                 "PF": "30",
@@ -212,12 +212,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "9",
                 "FG": "10",
                 "FGA": "14",
-                "FG%": "11",
+                "FG%": "10",
                 "3P": "12",
-                "3PA": "17",
+                "3PA": "18",
                 "3P%": "3",
                 "2P": "12",
                 "2PA": "9",
@@ -225,11 +225,11 @@
                 "FT": "30",
                 "FTA": "30",
                 "FT%": "8",
-                "ORB": "19",
+                "ORB": "20",
                 "DRB": "14",
                 "TRB": "19",
                 "AST": "10",
-                "STL": "26",
+                "STL": "27",
                 "BLK": "29",
                 "TOV": "13",
                 "PF": "18",
@@ -266,8 +266,8 @@
                 "PW": "27",
                 "PL": "47",
                 "MOV": "-4.62",
-                "SOS": "0.21",
-                "SRS": "-4.41",
+                "SOS": "0.23",
+                "SRS": "-4.40",
                 "ORtg": "110.3",
                 "DRtg": "114.9",
                 "Pace": "99.4",
@@ -287,23 +287,23 @@
                 "PW": "24",
                 "PL": "24",
                 "MOV": "24",
-                "SOS": "10",
+                "SOS": "8",
                 "SRS": "24",
                 "ORtg": "26",
                 "DRtg": "16",
                 "Pace": "11",
                 "FTr": "19",
                 "3PAr": "29",
-                "eFG%": "10",
+                "eFG%": "9",
                 "TOV%": "14",
                 "ORB%": "4",
                 "FT/FGA": "29",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "7"
+                "Attendance": "8"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/TOR-2025.png",
-        "last_update": "Mar 29 2025 22:32:17"
+        "last_update": "Mar 30 2025 22:32:19"
     }
 }

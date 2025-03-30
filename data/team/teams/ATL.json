@@ -2,7 +2,7 @@
     "ATL": {
         "info": {
             "record": "35-38",
-            "standing": "7th in East",
+            "standing": "8th in East",
             "coach": "Quin Snyder (35-38)",
             "gm": "Landry Fields",
             "preseason_odds": "+15000"
@@ -55,8 +55,14 @@
             {
                 "Player": "Keaton Wallace",
                 "Team": "Atlanta Hawks",
-                "Update": "Thu, Mar 27, 2025",
-                "Description": "Day To Day (Shoulder) - Wallace did not play in Thursday's (Mar. 27) game against the Heat."
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Out (Shoulder) - The Hawks have listed Wallace as OUT for Sunday's (Mar. 30) game against the Bucks."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Sat, Mar 29, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks have listed Young as Probable for Sunday's (Mar. 30) game against the Bucks."
             }
         ],
         "team_stats": {
@@ -112,8 +118,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
-                "FG": "8",
+                "MP": "25",
+                "FG": "7",
                 "FGA": "5",
                 "FG%": "14",
                 "3P": "14",
@@ -130,9 +136,9 @@
                 "TRB": "13",
                 "AST": "2",
                 "STL": "2",
-                "BLK": "9",
+                "BLK": "10",
                 "TOV": "26",
-                "PF": "15",
+                "PF": "16",
                 "PTS": "5"
             },
             "Year/Year": {
@@ -212,15 +218,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "25",
                 "FG": "25",
                 "FGA": "19",
                 "FG%": "28",
                 "3P": "23",
-                "3PA": "15",
+                "3PA": "14",
                 "3P%": "27",
-                "2P": "25",
-                "2PA": "20",
+                "2P": "26",
+                "2PA": "21",
                 "2P%": "24",
                 "FT": "22",
                 "FTA": "19",
@@ -229,10 +235,10 @@
                 "DRB": "21",
                 "TRB": "15",
                 "AST": "24",
-                "STL": "27",
+                "STL": "28",
                 "BLK": "16",
-                "TOV": "3",
-                "PF": "5",
+                "TOV": "2",
+                "PF": "6",
                 "PTS": "27"
             },
             "Opp Year/Year": {
@@ -266,8 +272,8 @@
                 "PW": "32",
                 "PL": "41",
                 "MOV": "-1.89",
-                "SOS": "-0.05",
-                "SRS": "-1.94",
+                "SOS": "-0.04",
+                "SRS": "-1.93",
                 "ORtg": "113.7",
                 "DRtg": "115.5",
                 "Pace": "102.8",
@@ -282,17 +288,17 @@
                 "Attendance": "590,245"
             },
             "Misc Lg Rank": {
-                "W": "17",
+                "W": "18",
                 "L": "14",
                 "PW": "20",
-                "PL": "20",
+                "PL": "19",
                 "MOV": "20",
                 "SOS": "17",
-                "SRS": "21",
+                "SRS": "20",
                 "ORtg": "20",
                 "DRtg": "17",
-                "Pace": "2",
-                "FTr": "10",
+                "Pace": "3",
+                "FTr": "9",
                 "3PAr": "19",
                 "eFG%": "28",
                 "TOV%": "4",
@@ -300,10 +306,10 @@
                 "FT/FGA": "21",
                 "DRB%": "9",
                 "Arena": "",
-                "Attendance": "28"
+                "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/ATL-2025.png",
-        "last_update": "Mar 29 2025 22:32:17"
+        "last_update": "Mar 30 2025 22:32:19"
     }
 }
