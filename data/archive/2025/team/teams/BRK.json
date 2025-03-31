@@ -28,22 +28,16 @@
         ],
         "injuries": [
             {
-                "Player": "Nic Claxton",
-                "Team": "Brooklyn Nets",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Day To Day (Rest) - Claxton did not play in Saturday's (Mar. 29) game against the Wizards."
-            },
-            {
                 "Player": "Noah Clowney",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Day To Day (Ankle) - Clowney appeared to tweak his ankle in the fourth quarter of Saturday's (Mar. 29) win over the Wizards, as per Sharif Phillips-Keaton of USA Today."
+                "Update": "Sun, Mar 30, 2025",
+                "Description": "Out (Ankle) - The Nets listed Clowney as OUT for Monday's (Mar. 31) game against Dallas."
             },
             {
                 "Player": "Cameron Johnson",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Day To Day (Back) - Johnson went to the locker room in the fourth quarter of Saturday's (Mar. 29) game against the Wizards, according to Erik Slater of ClutchPoints.com"
+                "Update": "Sun, Mar 30, 2025",
+                "Description": "Day To Day (Back) - The Nets listed Johnson as Questionable for Monday's (Mar. 31) game against Dallas."
             },
             {
                 "Player": "De'Anthony Melton",
@@ -52,16 +46,10 @@
                 "Description": "Out For Season (ACL) - Melton will undergo season-ending surgery on his left ACL, the team announced Wednesday (Nov. 20)."
             },
             {
-                "Player": "D'Angelo Russell",
-                "Team": "Brooklyn Nets",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Day To Day (Ankle) - Russell did not play in Saturday's (Mar. 29) game against the Wizards."
-            },
-            {
                 "Player": "Day'Ron Sharpe",
                 "Team": "Brooklyn Nets",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Day To Day (Knee) - Sharpe did not play in Saturday's (Mar. 29) game against the Wizards."
+                "Update": "Sun, Mar 30, 2025",
+                "Description": "Out (Knee) - The Nets listed Sharpe as OUT for Monday's (Mar. 31) game against Dallas."
             },
             {
                 "Player": "Cam Thomas",
@@ -123,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "5",
                 "FG": "30",
                 "FGA": "27",
                 "FG%": "29",
@@ -134,7 +122,7 @@
                 "2PA": "29",
                 "2P%": "29",
                 "FT": "25",
-                "FTA": "25",
+                "FTA": "24",
                 "FT%": "11",
                 "ORB": "15",
                 "DRB": "29",
@@ -142,7 +130,7 @@
                 "AST": "25",
                 "STL": "21",
                 "BLK": "25",
-                "TOV": "22",
+                "TOV": "23",
                 "PF": "27",
                 "PTS": "30"
             },
@@ -223,26 +211,26 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
-                "FG": "6",
+                "MP": "5",
+                "FG": "5",
                 "FGA": "2",
                 "FG%": "27",
                 "3P": "8",
                 "3PA": "6",
-                "3P%": "17",
+                "3P%": "16",
                 "2P": "7",
-                "2PA": "4",
+                "2PA": "3",
                 "2P%": "27",
-                "FT": "24",
+                "FT": "23",
                 "FTA": "24",
                 "FT%": "21",
                 "ORB": "4",
                 "DRB": "19",
                 "TRB": "11",
                 "AST": "17",
-                "STL": "14",
+                "STL": "13",
                 "BLK": "27",
-                "TOV": "10",
+                "TOV": "9",
                 "PF": "10",
                 "PTS": "9"
             },
@@ -277,8 +265,8 @@
                 "PW": "22",
                 "PL": "53",
                 "MOV": "-6.77",
-                "SOS": "0.18",
-                "SRS": "-6.59",
+                "SOS": "0.16",
+                "SRS": "-6.61",
                 "ORtg": "108.7",
                 "DRtg": "115.7",
                 "Pace": "96.2",
@@ -294,27 +282,27 @@
             },
             "Misc Lg Rank": {
                 "W": "25",
-                "L": "5",
+                "L": "6",
                 "PW": "26",
                 "PL": "26",
                 "MOV": "26",
-                "SOS": "11",
+                "SOS": "12",
                 "SRS": "26",
                 "ORtg": "28",
-                "DRtg": "20",
+                "DRtg": "19",
                 "Pace": "28",
                 "FTr": "18",
-                "3PAr": "6",
+                "3PAr": "5",
                 "eFG%": "26",
                 "TOV%": "6",
                 "ORB%": "18",
                 "FT/FGA": "28",
                 "DRB%": "13",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/BRK-2025.png",
-        "last_update": "Mar 30 2025 22:32:19"
+        "last_update": "Mar 31 2025 22:32:20"
     }
 }

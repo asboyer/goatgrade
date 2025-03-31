@@ -26,20 +26,7 @@
             "JD Davison",
             "Miles Norris"
         ],
-        "injuries": [
-            {
-                "Player": "Al Horford",
-                "Team": "Boston Celtics",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Day To Day (Toe) - Horford did not play in Saturday's (Mar. 29) game against the Spurs."
-            },
-            {
-                "Player": "Payton Pritchard",
-                "Team": "Boston Celtics",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Day To Day (Hip) - Pritchard did not play in Saturday's (Mar. 29) game against the Spurs."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "74",
@@ -93,9 +80,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "18",
                 "FG": "14",
-                "FGA": "12",
+                "FGA": "11",
                 "FG%": "18",
                 "3P": "1",
                 "3PA": "1",
@@ -110,7 +97,7 @@
                 "DRB": "7",
                 "TRB": "11",
                 "AST": "18",
-                "STL": "28",
+                "STL": "27",
                 "BLK": "5",
                 "TOV": "1",
                 "PF": "2",
@@ -193,11 +180,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "18",
                 "FG": "7",
                 "FGA": "16",
                 "FG%": "2",
-                "3P": "5",
+                "3P": "6",
                 "3PA": "10",
                 "3P%": "4",
                 "2P": "9",
@@ -206,7 +193,7 @@
                 "FT": "2",
                 "FTA": "2",
                 "FT%": "16",
-                "ORB": "7",
+                "ORB": "8",
                 "DRB": "15",
                 "TRB": "13",
                 "AST": "3",
@@ -285,6 +272,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/BOS-2025.png",
-        "last_update": "Mar 30 2025 22:32:19"
+        "last_update": "Mar 31 2025 22:32:20"
     }
 }

@@ -2,7 +2,7 @@
     "ORL": {
         "info": {
             "record": "36-39",
-            "standing": "7th in East",
+            "standing": "8th in East",
             "coach": "Jamahl Mosley (36-39)",
             "gm": "Jeff Weltman",
             "preseason_odds": "+8000"
@@ -100,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "12",
                 "FG": "29",
                 "FGA": "29",
                 "FG%": "27",
@@ -110,10 +110,10 @@
                 "2P": "20",
                 "2PA": "17",
                 "2P%": "22",
-                "FT": "3",
+                "FT": "4",
                 "FTA": "2",
                 "FT%": "22",
-                "ORB": "13",
+                "ORB": "12",
                 "DRB": "28",
                 "TRB": "27",
                 "AST": "30",
@@ -200,15 +200,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "12",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "17",
                 "3P": "1",
                 "3PA": "1",
                 "3P%": "25",
-                "2P": "4",
-                "2PA": "8",
+                "2P": "3",
+                "2PA": "7",
                 "2P%": "7",
                 "FT": "26",
                 "FTA": "27",
@@ -219,7 +219,7 @@
                 "AST": "1",
                 "STL": "10",
                 "BLK": "10",
-                "TOV": "4",
+                "TOV": "2",
                 "PF": "1",
                 "PTS": "1"
             },
@@ -271,11 +271,11 @@
             },
             "Misc Lg Rank": {
                 "W": "16",
-                "L": "12",
+                "L": "13",
                 "PW": "17",
                 "PL": "18",
                 "MOV": "18",
-                "SOS": "26",
+                "SOS": "27",
                 "SRS": "18",
                 "ORtg": "27",
                 "DRtg": "2",
@@ -288,10 +288,10 @@
                 "FT/FGA": "30",
                 "DRB%": "1",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/ORL-2025.png",
-        "last_update": "Mar 30 2025 22:32:19"
+        "last_update": "Mar 31 2025 22:32:20"
     }
 }
