@@ -53,10 +53,22 @@
                 "Description": "Out For Season (Knee) - The Hawks announced on Wednesday (Mar. 27) that Nance Jr. will miss the rest of the season while recovering from a right medial femoral condyle fracture."
             },
             {
+                "Player": "Jacob Toppin",
+                "Team": "Atlanta Hawks",
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Out (Calf) - The Hawks listed Toppin as OUT for Tuesday's (Apr. 1) game against Portland."
+            },
+            {
                 "Player": "Keaton Wallace",
                 "Team": "Atlanta Hawks",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Out (Shoulder) - The Hawks have listed Wallace as OUT for Sunday's (Mar. 30) game against the Bucks."
+                "Update": "Sun, Mar 30, 2025",
+                "Description": "Out (Shoulder) - The Hawks listed Wallace as OUT for Tuesday's (Apr. 1) game against Portland."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed G Young as Probable for Tuesday's (Apr. 1) game against Portland."
             }
         ],
         "team_stats": {
@@ -112,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "27",
                 "FG": "7",
                 "FGA": "5",
                 "FG%": "14",
@@ -124,7 +136,7 @@
                 "2P%": "16",
                 "FT": "3",
                 "FTA": "3",
-                "FT%": "20",
+                "FT%": "19",
                 "ORB": "8",
                 "DRB": "22",
                 "TRB": "13",
@@ -212,24 +224,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "20",
+                "MP": "27",
                 "FG": "25",
                 "FGA": "19",
                 "FG%": "29",
                 "3P": "22",
-                "3PA": "13",
+                "3PA": "14",
                 "3P%": "28",
                 "2P": "25",
-                "2PA": "20",
+                "2PA": "21",
                 "2P%": "25",
-                "FT": "24",
+                "FT": "25",
                 "FTA": "23",
                 "FT%": "30",
                 "ORB": "5",
-                "DRB": "21",
+                "DRB": "20",
                 "TRB": "15",
                 "AST": "24",
-                "STL": "27",
+                "STL": "26",
                 "BLK": "15",
                 "TOV": "3",
                 "PF": "5",
@@ -266,7 +278,7 @@
                 "PW": "34",
                 "PL": "40",
                 "MOV": "-1.58",
-                "SOS": "-0.03",
+                "SOS": "-0.02",
                 "SRS": "-1.61",
                 "ORtg": "114.0",
                 "DRtg": "115.6",
@@ -283,7 +295,7 @@
             },
             "Misc Lg Rank": {
                 "W": "16",
-                "L": "14",
+                "L": "16",
                 "PW": "19",
                 "PL": "19",
                 "MOV": "19",
@@ -292,18 +304,18 @@
                 "ORtg": "19",
                 "DRtg": "17",
                 "Pace": "3",
-                "FTr": "9",
+                "FTr": "8",
                 "3PAr": "19",
                 "eFG%": "28",
                 "TOV%": "4",
                 "ORB%": "11",
                 "FT/FGA": "23",
-                "DRB%": "8",
+                "DRB%": "9",
                 "Arena": "",
-                "Attendance": "29"
+                "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/ATL-2025.png",
-        "last_update": "Mar 31 2025 22:32:20"
+        "last_update": "Apr 01 2025 22:32:21"
     }
 }

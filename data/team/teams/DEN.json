@@ -29,16 +29,34 @@
         ],
         "injuries": [
             {
+                "Player": "Christian Braun",
+                "Team": "Denver Nuggets",
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Day To Day (Foot) - The Nuggets listed Braun as Probable for Tuesday's (Apr. 1) game against Minnesota."
+            },
+            {
+                "Player": "Aaron Gordon",
+                "Team": "Denver Nuggets",
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Day To Day (Calf) - The Nuggets listed Murray as Questionable for Tuesday's (Apr. 1) game against Minnesota."
+            },
+            {
                 "Player": "DaRon Holmes",
                 "Team": "Denver Nuggets",
                 "Update": "Sun, Feb 23, 2025",
                 "Description": "Out For Season (Achilles) - Nuggets HC Michael Malone said that Holmes was able to participate in portions of Wednesday's (Feb. 19) practice, as per Brendan Vogt of TheDNVR.com reports."
             },
             {
+                "Player": "Nikola Jokić",
+                "Team": "Denver Nuggets",
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets listed Jokic as Probable for Tuesday's (Apr. 1) game against Minnesota."
+            },
+            {
                 "Player": "Jamal Murray",
                 "Team": "Denver Nuggets",
-                "Update": "Fri, Mar 28, 2025",
-                "Description": "Day To Day (Hamstring) - Murray did not play on Friday's (Mar. 28) game against Utah."
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Day To Day (Hamstring) - The Nuggets listed Murray as Questionable for Tuesday's (Apr. 1) game against Minnesota."
             },
             {
                 "Player": "Julian Strawther",
@@ -100,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "9",
                 "FG": "1",
                 "FGA": "12",
                 "FG%": "1",
@@ -200,25 +218,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "9",
                 "FG": "24",
                 "FGA": "28",
-                "FG%": "13",
+                "FG%": "14",
                 "3P": "21",
                 "3PA": "20",
                 "3P%": "20",
                 "2P": "23",
                 "2PA": "28",
                 "2P%": "12",
-                "FT": "8",
+                "FT": "7",
                 "FTA": "8",
                 "FT%": "14",
                 "ORB": "24",
                 "DRB": "1",
                 "TRB": "6",
-                "AST": "29",
+                "AST": "28",
                 "STL": "22",
-                "BLK": "21",
+                "BLK": "20",
                 "TOV": "25",
                 "PF": "15",
                 "PTS": "23"
@@ -254,7 +272,7 @@
                 "PW": "47",
                 "PL": "28",
                 "MOV": "4.20",
-                "SOS": "-0.13",
+                "SOS": "-0.12",
                 "SRS": "4.08",
                 "ORtg": "120.1",
                 "DRtg": "115.9",
@@ -275,23 +293,23 @@
                 "PW": "7",
                 "PL": "8",
                 "MOV": "8",
-                "SOS": "20",
+                "SOS": "21",
                 "SRS": "7",
                 "ORtg": "4",
                 "DRtg": "22",
                 "Pace": "5",
                 "FTr": "7",
                 "3PAr": "30",
-                "eFG%": "16",
+                "eFG%": "15",
                 "TOV%": "26",
                 "ORB%": "6",
                 "FT/FGA": "5",
-                "DRB%": "20",
+                "DRB%": "21",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "6"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/DEN-2025.png",
-        "last_update": "Mar 31 2025 22:32:20"
+        "last_update": "Apr 01 2025 22:32:21"
     }
 }

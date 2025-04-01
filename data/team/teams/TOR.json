@@ -29,6 +29,18 @@
         ],
         "injuries": [
             {
+                "Player": "Ochai Agbaji",
+                "Team": "Toronto Raptors",
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Out (Rest) - The Raptors listed Agbaji as OUT for Tuesday's (Apr. 1) game against Chicago."
+            },
+            {
+                "Player": "RJ Barrett",
+                "Team": "Toronto Raptors",
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Out (Rest) - The Raptors listed Barrett as OUT for Tuesday's (Apr. 1) game against Chicago."
+            },
+            {
                 "Player": "Ulrich Chomche",
                 "Team": "Toronto Raptors",
                 "Update": "Wed, Feb 19, 2025",
@@ -37,8 +49,8 @@
             {
                 "Player": "Gradey Dick",
                 "Team": "Toronto Raptors",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Out (Knee) - The Heat listed Dick as Out for Sunday's (Mar. 30) game against the 76ers."
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Out (Knee) - The Raptors listed Dick as OUT for Tuesday's (Apr. 1) game against Chicago."
             },
             {
                 "Player": "Brandon Ingram",
@@ -47,16 +59,10 @@
                 "Description": "Out (Ankle) - The Raptors announced on Sunday (Mar. 23) that Ingram is progressing and will be re-evaluated in approximately 10 days, per Michael Grange of Sportsnet.ca."
             },
             {
-                "Player": "Jakob Poeltl",
+                "Player": "Jared Rhoden",
                 "Team": "Toronto Raptors",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Out (Rest) - The Heat listed Poeltl as Out for Sunday's (Mar. 30) game against the 76ers."
-            },
-            {
-                "Player": "Immanuel Quickley",
-                "Team": "Toronto Raptors",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Out (Rest) - The Heat listed Quickley as Out for Sunday's (Mar. 30) game against the 76ers."
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Day To Day (Hand) - The Raptors listed Rhoden as Questionable for Tuesday's (Apr. 1) game against Chicago."
             }
         ],
         "team_stats": {
@@ -112,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "9",
                 "FG": "16",
                 "FGA": "8",
                 "FG%": "20",
@@ -129,7 +135,7 @@
                 "DRB": "21",
                 "TRB": "8",
                 "AST": "8",
-                "STL": "20",
+                "STL": "19",
                 "BLK": "27",
                 "TOV": "25",
                 "PF": "30",
@@ -212,27 +218,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "9",
                 "FG": "10",
-                "FGA": "14",
-                "FG%": "10",
+                "FGA": "15",
+                "FG%": "11",
                 "3P": "11",
-                "3PA": "17",
-                "3P%": "3",
-                "2P": "12",
-                "2PA": "9",
+                "3PA": "16",
+                "3P%": "4",
+                "2P": "13",
+                "2PA": "10",
                 "2P%": "21",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "8",
+                "FT%": "7",
                 "ORB": "19",
                 "DRB": "14",
                 "TRB": "19",
-                "AST": "9",
-                "STL": "28",
+                "AST": "10",
+                "STL": "27",
                 "BLK": "29",
                 "TOV": "13",
-                "PF": "20",
+                "PF": "18",
                 "PTS": "17"
             },
             "Opp Year/Year": {
@@ -266,8 +272,8 @@
                 "PW": "28",
                 "PL": "47",
                 "MOV": "-4.32",
-                "SOS": "0.14",
-                "SRS": "-4.18",
+                "SOS": "0.15",
+                "SRS": "-4.17",
                 "ORtg": "110.4",
                 "DRtg": "114.7",
                 "Pace": "99.5",
@@ -290,20 +296,20 @@
                 "SOS": "13",
                 "SRS": "24",
                 "ORtg": "26",
-                "DRtg": "15",
+                "DRtg": "16",
                 "Pace": "11",
                 "FTr": "20",
                 "3PAr": "29",
-                "eFG%": "9",
+                "eFG%": "10",
                 "TOV%": "14",
                 "ORB%": "4",
                 "FT/FGA": "29",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "9"
+                "Attendance": "10"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/TOR-2025.png",
-        "last_update": "Mar 31 2025 22:32:20"
+        "last_update": "Apr 01 2025 22:32:21"
     }
 }

@@ -55,16 +55,10 @@
                 "Description": "Out For Season (Wrist) - The 76ers announced on Thursday (Feb. 27) that Gordon will be re-evaluated in three months after undergoing successful wrist surgery, as per Keith Pompey of The Philadelphia Inquirer."
             },
             {
-                "Player": "Quentin Grimes",
-                "Team": "Philadelphia 76ers",
-                "Update": "Sun, Mar 30, 2025",
-                "Description": "Out (Rest) - The 76ers listed Grimes as Out for Sunday's (Mar. 30) game against the Raptors."
-            },
-            {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Mar 28, 2025",
-                "Description": "Out (Hip) - The Team announced Lowry remains without an official timetable to return, per Ky Carlin of USA Today."
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Day To Day (Hip) - The 76ers listed Lowry as Questionable for Tuesday's (Apr. 1) game against the Knicks."
             },
             {
                 "Player": "Tyrese Maxey",
@@ -81,14 +75,8 @@
             {
                 "Player": "Kelly Oubre Jr.",
                 "Team": "Philadelphia 76ers",
-                "Update": "Fri, Mar 28, 2025",
-                "Description": "Out (Knee) - Oubre was a partial participant at Friday's (Mar. 28) practice, remains without timetable return, per Ky Carlin of USA Today."
-            },
-            {
-                "Player": "Guerschon Yabusele",
-                "Team": "Philadelphia 76ers",
-                "Update": "Sun, Mar 30, 2025",
-                "Description": "Out (Knee) - The 76ers listed Yabusele as Out for Sunday's (Mar. 30) game against the Raptors."
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Out (Knee) - The 76ers listed Oubre Jr. as Out for Tuesday's (Apr. 1) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -144,7 +132,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "9",
                 "FG": "26",
                 "FGA": "23",
                 "FG%": "22",
@@ -153,9 +141,9 @@
                 "3P%": "26",
                 "2P": "21",
                 "2PA": "19",
-                "2P%": "20",
+                "2P%": "21",
                 "FT": "6",
-                "FTA": "10",
+                "FTA": "9",
                 "FT%": "16",
                 "ORB": "24",
                 "DRB": "30",
@@ -244,21 +232,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "9",
                 "FG": "20",
-                "FGA": "5",
+                "FGA": "4",
                 "FG%": "30",
-                "3P": "26",
+                "3P": "25",
                 "3PA": "15",
                 "3P%": "29",
-                "2P": "17",
+                "2P": "18",
                 "2PA": "4",
                 "2P%": "30",
                 "FT": "14",
                 "FTA": "8",
                 "FT%": "28",
                 "ORB": "18",
-                "DRB": "24",
+                "DRB": "25",
                 "TRB": "24",
                 "AST": "25",
                 "STL": "5",
@@ -298,8 +286,8 @@
                 "PW": "24",
                 "PL": "51",
                 "MOV": "-6.03",
-                "SOS": "-0.01",
-                "SRS": "-6.04",
+                "SOS": "0.00",
+                "SRS": "-6.03",
                 "ORtg": "112.2",
                 "DRtg": "118.3",
                 "Pace": "97.2",
@@ -328,14 +316,14 @@
                 "3PAr": "14",
                 "eFG%": "30",
                 "TOV%": "3",
-                "ORB%": "24",
+                "ORB%": "23",
                 "FT/FGA": "18",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "3"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/PHI-2025.png",
-        "last_update": "Mar 31 2025 22:32:20"
+        "last_update": "Apr 01 2025 22:32:21"
     }
 }

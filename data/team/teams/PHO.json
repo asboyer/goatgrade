@@ -31,8 +31,14 @@
             {
                 "Player": "Bradley Beal",
                 "Team": "Phoenix Suns",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Out (Hamstring) - The Suns have listed Beal as OUT for Sunday's (Mar. 30) game against the Rockets."
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Day To Day (Hamstring) - The Suns have listed Beal as Questionable for Tuesday's (Apr. 1) game against the Bucks."
+            },
+            {
+                "Player": "Kevin Durant",
+                "Team": "Phoenix Suns",
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Out (Ankle) - Durant is expected to miss at least one week of action, per ESPN's Shams Charania reported Monday (Mar. 31)."
             }
         ],
         "team_stats": {
@@ -88,10 +94,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "8",
                 "FG": "17",
                 "FGA": "28",
-                "FG%": "8",
+                "FG%": "7",
                 "3P": "7",
                 "3PA": "12",
                 "3P%": "2",
@@ -102,7 +108,7 @@
                 "FTA": "20",
                 "FT%": "2",
                 "ORB": "28",
-                "DRB": "12",
+                "DRB": "13",
                 "TRB": "25",
                 "AST": "10",
                 "STL": "29",
@@ -188,23 +194,23 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "8",
                 "FG": "21",
                 "FGA": "20",
-                "FG%": "16",
+                "FG%": "17",
                 "3P": "24",
                 "3PA": "21",
-                "3P%": "24",
+                "3P%": "25",
                 "2P": "19",
                 "2PA": "16",
-                "2P%": "16",
+                "2P%": "17",
                 "FT": "18",
                 "FTA": "18",
-                "FT%": "19",
+                "FT%": "20",
                 "ORB": "25",
                 "DRB": "12",
                 "TRB": "18",
-                "AST": "20",
+                "AST": "18",
                 "STL": "19",
                 "BLK": "3",
                 "TOV": "29",
@@ -242,8 +248,8 @@
                 "PW": "33",
                 "PL": "42",
                 "MOV": "-2.12",
-                "SOS": "0.10",
-                "SRS": "-2.02",
+                "SOS": "0.09",
+                "SRS": "-2.03",
                 "ORtg": "116.6",
                 "DRtg": "118.8",
                 "Pace": "97.2",
@@ -261,9 +267,9 @@
                 "W": "19",
                 "L": "12",
                 "PW": "20",
-                "PL": "21",
+                "PL": "20",
                 "MOV": "20",
-                "SOS": "14",
+                "SOS": "15",
                 "SRS": "20",
                 "ORtg": "7",
                 "DRtg": "27",
@@ -271,15 +277,15 @@
                 "FTr": "13",
                 "3PAr": "9",
                 "eFG%": "20",
-                "TOV%": "28",
+                "TOV%": "29",
                 "ORB%": "26",
                 "FT/FGA": "17",
                 "DRB%": "23",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/PHO-2025.png",
-        "last_update": "Mar 31 2025 22:32:20"
+        "last_update": "Apr 01 2025 22:32:21"
     }
 }

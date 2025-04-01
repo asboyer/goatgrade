@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Jonathan Kuminga",
+                "Team": "Golden State Warriors",
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Day To Day (Pelvic) - The Warriors listed Kuminga as Questionable for Tuesday's (Apr. 1) game against Memphis."
+            },
+            {
                 "Player": "Gary Payton II",
                 "Team": "Golden State Warriors",
                 "Update": "Thu, Mar 27, 2025",
@@ -87,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "20",
                 "FGA": "6",
                 "FG%": "26",
@@ -97,7 +103,7 @@
                 "2P": "27",
                 "2PA": "26",
                 "2P%": "23",
-                "FT": "24",
+                "FT": "23",
                 "FTA": "17",
                 "FT%": "27",
                 "ORB": "4",
@@ -187,25 +193,25 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "9",
                 "FGA": "6",
                 "FG%": "12",
                 "3P": "9",
-                "3PA": "8",
+                "3PA": "9",
                 "3P%": "19",
                 "2P": "6",
                 "2PA": "12",
                 "2P%": "11",
                 "FT": "13",
                 "FTA": "14",
-                "FT%": "4",
-                "ORB": "7",
+                "FT%": "3",
+                "ORB": "8",
                 "DRB": "22",
                 "TRB": "17",
                 "AST": "11",
                 "STL": "6",
-                "BLK": "23",
+                "BLK": "24",
                 "TOV": "5",
                 "PF": "22",
                 "PTS": "8"
@@ -241,7 +247,7 @@
                 "PW": "43",
                 "PL": "31",
                 "MOV": "2.76",
-                "SOS": "0.18",
+                "SOS": "0.17",
                 "SRS": "2.93",
                 "ORtg": "114.5",
                 "DRtg": "111.7",
@@ -257,12 +263,12 @@
                 "Attendance": "668,368"
             },
             "Misc Lg Rank": {
-                "W": "9",
+                "W": "10",
                 "L": "21",
                 "PW": "10",
                 "PL": "10",
                 "MOV": "10",
-                "SOS": "10",
+                "SOS": "11",
                 "SRS": "10",
                 "ORtg": "17",
                 "DRtg": "7",
@@ -279,6 +285,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/GSW-2025.png",
-        "last_update": "Mar 31 2025 22:32:20"
+        "last_update": "Apr 01 2025 22:32:21"
     }
 }

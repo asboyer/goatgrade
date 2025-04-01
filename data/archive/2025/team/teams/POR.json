@@ -37,14 +37,26 @@
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sun, Mar 30, 2025",
-                "Description": "Day To Day (Knee) - Grant did not play in Sunday's (Mar. 30) game against the Knicks."
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Day To Day (Knee) - The Blazers listed Grant as Doubtful for Tuesday's (Apr. 1) game against Atlanta."
+            },
+            {
+                "Player": "Scoot Henderson",
+                "Team": "Portland Trail Blazers",
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Out (Concussion Protocol) - The Blazers listed Henderson as OUT for Tuesday's (Apr. 1) game against Atlanta."
             },
             {
                 "Player": "Bryce McGowens",
                 "Team": "Portland Trail Blazers",
                 "Update": "Thu, Mar 27, 2025",
                 "Description": "Out For Season (Rib) - The Trail Blazers announced on Wednesday (Mar. 26) that McGowens will miss the rest of the regular season due to a right rib fracture."
+            },
+            {
+                "Player": "Anfernee Simons",
+                "Team": "Portland Trail Blazers",
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Day To Day (Forearm) - The Blazers listed Simons as Questionable for Tuesday's (Apr. 1) game against Atlanta."
             },
             {
                 "Player": "Robert Williams",
@@ -106,11 +118,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "17",
                 "FG": "23",
                 "FGA": "16",
                 "FG%": "25",
-                "3P": "18",
+                "3P": "19",
                 "3PA": "12",
                 "3P%": "25",
                 "2P": "19",
@@ -119,7 +131,7 @@
                 "FT": "17",
                 "FTA": "13",
                 "FT%": "25",
-                "ORB": "3",
+                "ORB": "2",
                 "DRB": "27",
                 "TRB": "15",
                 "AST": "27",
@@ -206,18 +218,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "17",
                 "FG": "18",
                 "FGA": "11",
                 "FG%": "23",
                 "3P": "5",
-                "3PA": "4",
+                "3PA": "3",
                 "3P%": "21",
                 "2P": "21",
                 "2PA": "22",
                 "2P%": "19",
                 "FT": "22",
-                "FTA": "21",
+                "FTA": "22",
                 "FT%": "29",
                 "ORB": "26",
                 "DRB": "8",
@@ -290,7 +302,7 @@
                 "3PAr": "16",
                 "eFG%": "19",
                 "TOV%": "8",
-                "ORB%": "3",
+                "ORB%": "2",
                 "FT/FGA": "25",
                 "DRB%": "28",
                 "Arena": "",
@@ -298,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/POR-2025.png",
-        "last_update": "Mar 31 2025 22:32:20"
+        "last_update": "Apr 01 2025 22:32:21"
     }
 }

@@ -24,15 +24,14 @@
             "Delon Wright",
             "Anton Watson",
             "MarJon Beauchamp",
-            "Kevin McCullar Jr.",
-            "P.J. Tucker"
+            "Kevin McCullar Jr."
         ],
         "injuries": [
             {
                 "Player": "Jalen Brunson",
                 "Team": "New York Knicks",
-                "Update": "Sat, Mar 22, 2025",
-                "Description": "Out (Ankle) - The Knicks announced on Saturday (Mar. 22) that Brunson is doing controlled court work and his status will be updated in approximately one week."
+                "Update": "Sun, Mar 30, 2025",
+                "Description": "Out (Ankle) - Brunson said prior to Sunday's (Mar. 30) game against the Trail Blazers that he has been cleared for basketball activities, though the Knicks haven't provided a specific timeline for his return, per James L. Edwards III of The Athletic."
             },
             {
                 "Player": "Ariel Hukporti",
@@ -43,14 +42,14 @@
             {
                 "Player": "Miles McBride",
                 "Team": "New York Knicks",
-                "Update": "Sun, Mar 30, 2025",
-                "Description": "Day To Day (Groin) - McBride didf not play in Sunday's (Mar. 30) game against Portland."
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Out (Groin) - The Knicks listed McBride as Out for Tuesday's (Apr. 1) game against the 76ers."
             },
             {
                 "Player": "Cameron Payne",
                 "Team": "New York Knicks",
-                "Update": "Sun, Mar 30, 2025",
-                "Description": "Day To Day (Ankle) - Payne did not play in Sunday's (Mar. 30) game against Portland."
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Out (Ankle) - The Knicks listed Payne as Out for Tuesday's (Apr. 1) game against the 76ers."
             }
         ],
         "team_stats": {
@@ -106,14 +105,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "26",
                 "FG": "5",
                 "FGA": "18",
                 "FG%": "4",
                 "3P": "24",
                 "3PA": "27",
-                "3P%": "10",
-                "2P": "3",
+                "3P%": "9",
+                "2P": "2",
                 "2PA": "5",
                 "2P%": "6",
                 "FT": "21",
@@ -121,7 +120,7 @@
                 "FT%": "5",
                 "ORB": "19",
                 "DRB": "25",
-                "TRB": "23",
+                "TRB": "24",
                 "AST": "11",
                 "STL": "16",
                 "BLK": "29",
@@ -206,22 +205,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "26",
                 "FG": "17",
                 "FGA": "10",
                 "FG%": "22",
                 "3P": "12",
-                "3PA": "5",
+                "3PA": "6",
                 "3P%": "27",
                 "2P": "20",
-                "2PA": "18",
+                "2PA": "19",
                 "2P%": "14",
                 "FT": "4",
                 "FTA": "4",
                 "FT%": "26",
                 "ORB": "11",
                 "DRB": "2",
-                "TRB": "1",
+                "TRB": "2",
                 "AST": "7",
                 "STL": "3",
                 "BLK": "17",
@@ -294,10 +293,10 @@
                 "FT/FGA": "4",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/NYK-2025.png",
-        "last_update": "Mar 31 2025 22:32:20"
+        "last_update": "Apr 01 2025 22:32:21"
     }
 }

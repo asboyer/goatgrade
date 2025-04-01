@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Charles Bassey",
+                "Team": "San Antonio Spurs",
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Out (Knee) - The Spurs have listed Bassey as OUT for Tuesday's (Apr. 1) game against the Magic."
+            },
+            {
                 "Player": "De'Aaron Fox",
                 "Team": "San Antonio Spurs",
                 "Update": "Thu, Mar 13, 2025",
@@ -94,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "28",
                 "FG": "13",
                 "FGA": "13",
                 "FG%": "17",
@@ -107,7 +113,7 @@
                 "FT": "22",
                 "FTA": "21",
                 "FT%": "21",
-                "ORB": "13",
+                "ORB": "12",
                 "DRB": "22",
                 "TRB": "19",
                 "AST": "6",
@@ -115,7 +121,7 @@
                 "BLK": "3",
                 "TOV": "10",
                 "PF": "3",
-                "PTS": "16"
+                "PTS": "15"
             },
             "Year/Year": {
                 "G": "",
@@ -194,16 +200,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "28",
                 "FG": "29",
-                "FGA": "26",
-                "FG%": "25",
+                "FGA": "27",
+                "FG%": "24",
                 "3P": "23",
                 "3PA": "22",
                 "3P%": "18",
                 "2P": "28",
-                "2PA": "26",
-                "2P%": "22",
+                "2PA": "25",
+                "2P%": "23",
                 "FT": "3",
                 "FTA": "3",
                 "FT%": "25",
@@ -212,7 +218,7 @@
                 "TRB": "28",
                 "AST": "23",
                 "STL": "16",
-                "BLK": "7",
+                "BLK": "8",
                 "TOV": "20",
                 "PF": "28",
                 "PTS": "24"
@@ -248,8 +254,8 @@
                 "PW": "31",
                 "PL": "43",
                 "MOV": "-2.65",
-                "SOS": "0.23",
-                "SRS": "-2.42",
+                "SOS": "0.22",
+                "SRS": "-2.43",
                 "ORtg": "114.7",
                 "DRtg": "117.3",
                 "Pace": "99.3",
@@ -267,13 +273,13 @@
                 "W": "23",
                 "L": "8",
                 "PW": "22",
-                "PL": "22",
-                "MOV": "22",
+                "PL": "21",
+                "MOV": "21",
                 "SOS": "9",
                 "SRS": "21",
                 "ORtg": "16",
                 "DRtg": "25",
-                "Pace": "14",
+                "Pace": "13",
                 "FTr": "23",
                 "3PAr": "8",
                 "eFG%": "24",
@@ -286,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/SAS-2025.png",
-        "last_update": "Mar 31 2025 22:32:20"
+        "last_update": "Apr 01 2025 22:32:21"
     }
 }

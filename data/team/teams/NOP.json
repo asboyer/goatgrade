@@ -23,7 +23,6 @@
             "Herbert Jones",
             "Bruce Brown",
             "Kelly Olynyk",
-            "Elfrid Payton",
             "Keion Brooks Jr.",
             "Lester Quiñones"
         ],
@@ -38,7 +37,7 @@
                 "Player": "Jordan Hawkins",
                 "Team": "New Orleans Pelicans",
                 "Update": "Sun, Mar 30, 2025",
-                "Description": "Out (Back) - The Pelicans have listed Hawkins as Out for Sunday's (Mar. 30) game against the Hornets."
+                "Description": "Day To Day (Back) - Hawkins did not play in Sunday's (Mar. 30) game against the Hornets."
             },
             {
                 "Player": "Herbert Jones",
@@ -49,8 +48,8 @@
             {
                 "Player": "CJ McCollum",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Out (Foot) - The Pelicans have listed McCollum as OUT for Sunday's (Mar. 30) game against the Hornets."
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Out For Season (Foot) - The Pelicans announced Monday (Mar. 31) that McCollum will miss the remainder of the 2024-25 season."
             },
             {
                 "Player": "Trey Murphy III",
@@ -67,8 +66,8 @@
             {
                 "Player": "Zion Williamson",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Out (Back) - The Pelicans have listed Williamson as OUT for Sunday's (Mar. 30) game against the Hornets."
+                "Update": "Mon, Mar 31, 2025",
+                "Description": "Out For Season (Back) - The Pelicans announced Monday (Mar. 31) that Williamson won't play for the rest of the 2024-25 season."
             }
         ],
         "team_stats": {
@@ -124,7 +123,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "17",
                 "FG": "22",
                 "FGA": "14",
                 "FG%": "23",
@@ -142,8 +141,8 @@
                 "TRB": "20",
                 "AST": "19",
                 "STL": "8",
-                "BLK": "7",
-                "TOV": "20",
+                "BLK": "6",
+                "TOV": "19",
                 "PF": "12",
                 "PTS": "24"
             },
@@ -224,7 +223,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "17",
                 "FG": "26",
                 "FGA": "21",
                 "FG%": "28",
@@ -232,12 +231,12 @@
                 "3PA": "29",
                 "3P%": "22",
                 "2P": "22",
-                "2PA": "10",
+                "2PA": "11",
                 "2P%": "29",
                 "FT": "15",
                 "FTA": "13",
-                "FT%": "18",
-                "ORB": "27",
+                "FT%": "19",
+                "ORB": "28",
                 "DRB": "23",
                 "TRB": "27",
                 "AST": "27",
@@ -278,8 +277,8 @@
                 "PW": "19",
                 "PL": "56",
                 "MOV": "-8.57",
-                "SOS": "0.72",
-                "SRS": "-7.85",
+                "SOS": "0.71",
+                "SRS": "-7.86",
                 "ORtg": "110.8",
                 "DRtg": "119.5",
                 "Pace": "99.0",
@@ -296,9 +295,9 @@
             "Misc Lg Rank": {
                 "W": "27",
                 "L": "4",
-                "PW": "28",
-                "PL": "29",
-                "MOV": "28",
+                "PW": "29",
+                "PL": "28",
+                "MOV": "29",
                 "SOS": "1",
                 "SRS": "27",
                 "ORtg": "25",
@@ -316,6 +315,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/NOP-2025.png",
-        "last_update": "Mar 31 2025 22:32:20"
+        "last_update": "Apr 01 2025 22:32:21"
     }
 }
