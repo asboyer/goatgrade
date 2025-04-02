@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Dallas Mavericks",
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Groin) - The Mavericks listed Davis as Probable on Wednesday's (Apr. 2) game against the Hawks."
+            },
+            {
                 "Player": "Dante Exum",
                 "Team": "Dallas Mavericks",
                 "Update": "Sat, Mar 15, 2025",
@@ -42,8 +48,14 @@
             {
                 "Player": "Dereck Lively II",
                 "Team": "Dallas Mavericks",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Ankle) - Lively II did not play in Monday's (Mar. 31) game against the Nets."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Ankle) - The Mavericks listed Lively as Questionable on Wednesday's (Apr. 2) game against the Hawks."
+            },
+            {
+                "Player": "Caleb Martin",
+                "Team": "Dallas Mavericks",
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Hip) - The Mavericks listed Martin as Probable on Wednesday's (Apr. 2) game against the Hawks."
             },
             {
                 "Player": "Olivier-Maxence Prosper",
@@ -105,19 +117,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "12",
                 "FG": "11",
                 "FGA": "20",
                 "FG%": "9",
-                "3P": "22",
+                "3P": "21",
                 "3PA": "25",
                 "3P%": "13",
                 "2P": "11",
                 "2PA": "11",
                 "2P%": "14",
-                "FT": "5",
-                "FTA": "6",
-                "FT%": "20",
+                "FT": "6",
+                "FTA": "7",
+                "FT%": "21",
                 "ORB": "23",
                 "DRB": "19",
                 "TRB": "23",
@@ -205,11 +217,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "12",
                 "FG": "23",
                 "FGA": "24",
-                "FG%": "18",
-                "3P": "4",
+                "FG%": "17",
+                "3P": "5",
                 "3PA": "4",
                 "3P%": "17",
                 "2P": "29",
@@ -220,13 +232,13 @@
                 "FT%": "15",
                 "ORB": "27",
                 "DRB": "18",
-                "TRB": "25",
-                "AST": "20",
+                "TRB": "26",
+                "AST": "19",
                 "STL": "11",
-                "BLK": "12",
+                "BLK": "11",
                 "TOV": "24",
                 "PF": "17",
-                "PTS": "18"
+                "PTS": "17"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -259,8 +271,8 @@
                 "PW": "37",
                 "PL": "39",
                 "MOV": "-0.24",
-                "SOS": "0.37",
-                "SRS": "0.13",
+                "SOS": "0.38",
+                "SRS": "0.14",
                 "ORtg": "115.4",
                 "DRtg": "115.7",
                 "Pace": "99.2",
@@ -283,20 +295,20 @@
                 "SOS": "5",
                 "SRS": "16",
                 "ORtg": "11",
-                "DRtg": "19",
-                "Pace": "14",
+                "DRtg": "20",
+                "Pace": "13",
                 "FTr": "4",
                 "3PAr": "22",
-                "eFG%": "13",
+                "eFG%": "12",
                 "TOV%": "23",
                 "ORB%": "22",
-                "FT/FGA": "10",
+                "FT/FGA": "9",
                 "DRB%": "25",
                 "Arena": "",
-                "Attendance": "1"
+                "Attendance": "4"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/DAL-2025.png",
-        "last_update": "Apr 01 2025 22:32:21"
+        "last_update": "Apr 02 2025 22:32:20"
     }
 }

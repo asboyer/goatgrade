@@ -49,26 +49,32 @@
             {
                 "Player": "Walker Kessler",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Illness) - Kessler did not play in Monday's (Mar. 31) game against the Hornets."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Illness) - The Jazz have listed Kessler as Questionable for Wednesday's (Apr. 2) game against the Rockets."
             },
             {
                 "Player": "Lauri Markkanen",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Knee) - Markkanen did not play in Monday's (Mar. 31) game against the Hornets."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Knee) - The Jazz have listed Markkanen as OUT for Wednesday's (Apr. 2) game against the Rockets."
             },
             {
                 "Player": "Collin Sexton",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Hip) - Sexton did not play in Monday's (Mar. 31) game against the Hornets."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Hip) - The Jazz have listed Sexton as Questionable for Wednesday's (Apr. 2) game against the Rockets."
+            },
+            {
+                "Player": "Jaden Springer",
+                "Team": "Utah Jazz",
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Back) - The Jazz have listed Springer as Questionable for Wednesday's (Apr. 2) game against the Rockets."
             },
             {
                 "Player": "Cody Williams",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Illness) - Williams did not play in Monday's (Mar. 31) game against the Hornets."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Illness) - The Jazz have listed Williams as OUT for Wednesday's (Apr. 2) game against the Rockets."
             }
         ],
         "team_stats": {
@@ -124,18 +130,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "7",
                 "FG": "24",
                 "FGA": "21",
                 "FG%": "21",
-                "3P": "10",
+                "3P": "11",
                 "3PA": "8",
                 "3P%": "21",
                 "2P": "24",
                 "2PA": "25",
                 "2P%": "18",
                 "FT": "10",
-                "FTA": "10",
+                "FTA": "9",
                 "FT%": "23",
                 "ORB": "9",
                 "DRB": "12",
@@ -224,21 +230,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "7",
                 "FG": "28",
                 "FGA": "26",
                 "FG%": "26",
                 "3P": "29",
                 "3PA": "30",
                 "3P%": "11",
-                "2P": "24",
+                "2P": "23",
                 "2PA": "13",
                 "2P%": "28",
                 "FT": "19",
                 "FTA": "21",
-                "FT%": "5",
+                "FT%": "3",
                 "ORB": "22",
-                "DRB": "11",
+                "DRB": "10",
                 "TRB": "14",
                 "AST": "30",
                 "STL": "30",
@@ -304,11 +310,11 @@
                 "ORtg": "24",
                 "DRtg": "30",
                 "Pace": "10",
-                "FTr": "6",
+                "FTr": "7",
                 "3PAr": "7",
                 "eFG%": "26",
                 "TOV%": "30",
-                "ORB%": "7",
+                "ORB%": "6",
                 "FT/FGA": "14",
                 "DRB%": "22",
                 "Arena": "",
@@ -316,6 +322,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/UTA-2025.png",
-        "last_update": "Apr 01 2025 22:32:21"
+        "last_update": "Apr 02 2025 22:32:20"
     }
 }

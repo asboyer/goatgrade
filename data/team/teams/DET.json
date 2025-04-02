@@ -31,8 +31,14 @@
             {
                 "Player": "Cade Cunningham",
                 "Team": "Detroit Pistons",
-                "Update": "Sun, Mar 30, 2025",
-                "Description": "Day To Day (Calf) - Cunningham did not play in Sunday's (Mar. 30) game against the Timberwolves."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Calf) - The Pistons listed Cunningham as Doubtful for Wednesday's (Apr. 2) game against the Thunder."
+            },
+            {
+                "Player": "Tobias Harris",
+                "Team": "Detroit Pistons",
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Achilles) - The Pistons listed Harris as Probable for Wednesday's (Apr. 2) game against the Thunder."
             },
             {
                 "Player": "Jaden Ivey",
@@ -94,15 +100,15 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "19",
                 "FG": "10",
-                "FGA": "16",
+                "FGA": "17",
                 "FG%": "13",
-                "3P": "21",
+                "3P": "20",
                 "3PA": "24",
                 "3P%": "15",
                 "2P": "7",
-                "2PA": "8",
+                "2PA": "9",
                 "2P%": "15",
                 "FT": "11",
                 "FTA": "11",
@@ -194,27 +200,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "19",
                 "FG": "6",
                 "FGA": "7",
-                "FG%": "9",
-                "3P": "17",
+                "FG%": "8",
+                "3P": "16",
                 "3PA": "12",
                 "3P%": "23",
                 "2P": "4",
                 "2PA": "8",
                 "2P%": "6",
-                "FT": "29",
+                "FT": "28",
                 "FTA": "28",
-                "FT%": "10",
-                "ORB": "6",
+                "FT%": "9",
+                "ORB": "5",
                 "DRB": "4",
                 "TRB": "3",
                 "AST": "6",
                 "STL": "25",
                 "BLK": "16",
-                "TOV": "7",
-                "PF": "12",
+                "TOV": "8",
+                "PF": "14",
                 "PTS": "14"
             },
             "Opp Year/Year": {
@@ -273,19 +279,19 @@
                 "SRS": "11",
                 "ORtg": "15",
                 "DRtg": "9",
-                "Pace": "8",
+                "Pace": "7",
                 "FTr": "11",
                 "3PAr": "24",
-                "eFG%": "12",
+                "eFG%": "10",
                 "TOV%": "9",
                 "ORB%": "10",
                 "FT/FGA": "27",
-                "DRB%": "4",
+                "DRB%": "5",
                 "Arena": "",
                 "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/DET-2025.png",
-        "last_update": "Apr 01 2025 22:32:21"
+        "last_update": "Apr 02 2025 22:32:20"
     }
 }

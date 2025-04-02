@@ -29,8 +29,8 @@
             {
                 "Player": "Devin Carter",
                 "Team": "Sacramento Kings",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Shoulder) - Carter did not play in Monday's (Mar. 31) game against the Pacers."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Shoulder) - The Kings listed Carter as Out for Wednesday's (Apr. 2) game versus the Wizards."
             },
             {
                 "Player": "Jake LaRavia",
@@ -92,26 +92,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "15",
                 "FG": "9",
                 "FGA": "9",
                 "FG%": "12",
                 "3P": "23",
                 "3PA": "22",
-                "3P%": "20",
+                "3P%": "19",
                 "2P": "4",
                 "2PA": "7",
-                "2P%": "9",
+                "2P%": "10",
                 "FT": "15",
                 "FTA": "19",
                 "FT%": "4",
                 "ORB": "18",
-                "DRB": "14",
-                "TRB": "14",
+                "DRB": "13",
+                "TRB": "15",
                 "AST": "13",
                 "STL": "24",
                 "BLK": "23",
-                "TOV": "8",
+                "TOV": "6",
                 "PF": "18",
                 "PTS": "10"
             },
@@ -192,10 +192,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
-                "FG": "16",
-                "FGA": "9",
-                "FG%": "21",
+                "MP": "15",
+                "FG": "17",
+                "FGA": "10",
+                "FG%": "22",
                 "3P": "30",
                 "3PA": "19",
                 "3P%": "30",
@@ -204,16 +204,16 @@
                 "2P%": "13",
                 "FT": "21",
                 "FTA": "20",
-                "FT%": "22",
+                "FT%": "21",
                 "ORB": "3",
                 "DRB": "13",
                 "TRB": "7",
                 "AST": "18",
-                "STL": "14",
-                "BLK": "9",
+                "STL": "15",
+                "BLK": "8",
                 "TOV": "18",
                 "PF": "18",
-                "PTS": "20"
+                "PTS": "21"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -262,16 +262,16 @@
                 "Attendance": "645,981"
             },
             "Misc Lg Rank": {
-                "W": "16",
+                "W": "17",
                 "L": "14",
                 "PW": "15",
                 "PL": "15",
                 "MOV": "15",
-                "SOS": "10",
+                "SOS": "11",
                 "SRS": "15",
-                "ORtg": "9",
+                "ORtg": "10",
                 "DRtg": "23",
-                "Pace": "17",
+                "Pace": "18",
                 "FTr": "22",
                 "3PAr": "23",
                 "eFG%": "27",
@@ -280,10 +280,10 @@
                 "FT/FGA": "21",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "23"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/SAC-2025.png",
-        "last_update": "Apr 01 2025 22:32:21"
+        "last_update": "Apr 02 2025 22:32:20"
     }
 }

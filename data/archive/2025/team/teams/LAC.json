@@ -31,20 +31,14 @@
             {
                 "Player": "Amir Coffey",
                 "Team": "Los Angeles Clippers",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Knee) - Coffey did not play in Monday's (Mar. 31) game against the Magic."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Knee) - The Clippers listed Coffey as Out on Wednesday's (Apr. 2) game versus the Pelicans."
             },
             {
                 "Player": "Jordan Miller",
                 "Team": "Los Angeles Clippers",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Hamstring) - Miller did not play in Monday's (Mar. 31) game against the Magic."
-            },
-            {
-                "Player": "Ben Simmons",
-                "Team": "Los Angeles Clippers",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Knee) - Simmons did not play in Monday's (Mar. 31) game against the Magic."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Hamstring) - The Clippers listed Miller as Out on Wednesday's (Apr. 2) game versus the Pelicans."
             }
         ],
         "team_stats": {
@@ -100,13 +94,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "19",
                 "FG": "18",
-                "FGA": "26",
+                "FGA": "25",
                 "FG%": "11",
                 "3P": "26",
                 "3PA": "28",
-                "3P%": "10",
+                "3P%": "11",
                 "2P": "12",
                 "2PA": "13",
                 "2P%": "17",
@@ -200,11 +194,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "19",
                 "FG": "3",
                 "FGA": "3",
                 "FG%": "7",
-                "3P": "10",
+                "3P": "9",
                 "3PA": "13",
                 "3P%": "5",
                 "2P": "2",
@@ -212,7 +206,7 @@
                 "2P%": "15",
                 "FT": "9",
                 "FTA": "10",
-                "FT%": "9",
+                "FT%": "8",
                 "ORB": "2",
                 "DRB": "7",
                 "TRB": "1",
@@ -270,10 +264,10 @@
                 "Attendance": "590,776"
             },
             "Misc Lg Rank": {
-                "W": "10",
+                "W": "12",
                 "L": "19",
                 "PW": "9",
-                "PL": "9",
+                "PL": "8",
                 "MOV": "9",
                 "SOS": "7",
                 "SRS": "8",
@@ -288,10 +282,10 @@
                 "FT/FGA": "15",
                 "DRB%": "2",
                 "Arena": "",
-                "Attendance": "29"
+                "Attendance": "30"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/LAC-2025.png",
-        "last_update": "Apr 01 2025 22:32:21"
+        "last_update": "Apr 02 2025 22:32:20"
     }
 }

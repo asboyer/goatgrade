@@ -30,14 +30,26 @@
             {
                 "Player": "Jaylen Brown",
                 "Team": "Boston Celtics",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Knee) - Brown did not play in Monday's (Mar. 31) game against the Grizzlies."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Knee) - The Celtics listed Brown as Questionable on Wednesday's (Apr. 2) game against the Heat."
             },
             {
-                "Player": "Luke Kornet",
+                "Player": "Jrue Holiday",
                 "Team": "Boston Celtics",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Illness) - Kornet did not play in Monday's (Mar. 31) game against the Grizzlies."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Shoulder) - The Celtics listed Holiday as Questionable on Wednesday's (Apr. 2) game against the Heat."
+            },
+            {
+                "Player": "Al Horford",
+                "Team": "Boston Celtics",
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Toe) - The Celtics listed Horford as Doubtful on Wednesday's (Apr. 2) game against the Heat."
+            },
+            {
+                "Player": "Kristaps Porziņģis",
+                "Team": "Boston Celtics",
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Illness) - The Celtics listed Porzingis as Questionable on Wednesday's (Apr. 2) game against the Heat."
             }
         ],
         "team_stats": {
@@ -93,8 +105,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
-                "FG": "14",
+                "MP": "17",
+                "FG": "15",
                 "FGA": "11",
                 "FG%": "19",
                 "3P": "1",
@@ -103,14 +115,14 @@
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "3",
-                "FT": "28",
+                "FT": "29",
                 "FTA": "29",
                 "FT%": "6",
-                "ORB": "13",
+                "ORB": "12",
                 "DRB": "7",
                 "TRB": "10",
-                "AST": "17",
-                "STL": "28",
+                "AST": "18",
+                "STL": "27",
                 "BLK": "5",
                 "TOV": "1",
                 "PF": "2",
@@ -193,11 +205,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "17",
                 "FG": "7",
                 "FGA": "16",
                 "FG%": "2",
-                "3P": "5",
+                "3P": "6",
                 "3PA": "10",
                 "3P%": "3",
                 "2P": "10",
@@ -268,7 +280,7 @@
                 "PW": "3",
                 "PL": "3",
                 "MOV": "3",
-                "SOS": "28",
+                "SOS": "27",
                 "SRS": "3",
                 "ORtg": "2",
                 "DRtg": "5",
@@ -281,10 +293,10 @@
                 "FT/FGA": "2",
                 "DRB%": "6",
                 "Arena": "",
-                "Attendance": "15"
+                "Attendance": "16"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/BOS-2025.png",
-        "last_update": "Apr 01 2025 22:32:21"
+        "last_update": "Apr 02 2025 22:32:20"
     }
 }

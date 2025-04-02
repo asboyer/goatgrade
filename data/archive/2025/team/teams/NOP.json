@@ -30,14 +30,14 @@
             {
                 "Player": "Brandon Boston Jr.",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Mar 7, 2025",
-                "Description": "Out (Ankle) - The Pelicans announced on Friday (Mar. 7) that Boston Jr. was diagnosed with a left ankle stress reaction and will be re-evaluated in two weeks."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Ankle) - The Pelicans listed Boston Jr. as Out on Wednesday's (Apr. 2) matchup against the Clippers."
             },
             {
                 "Player": "Jordan Hawkins",
                 "Team": "New Orleans Pelicans",
-                "Update": "Sun, Mar 30, 2025",
-                "Description": "Day To Day (Back) - Hawkins did not play in Sunday's (Mar. 30) game against the Hornets."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Back) - The Pelicans listed Hawkins as Out on Wednesday's (Apr. 2) matchup against the Clippers."
             },
             {
                 "Player": "Herbert Jones",
@@ -123,9 +123,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "22",
                 "FG": "22",
-                "FGA": "14",
+                "FGA": "13",
                 "FG%": "23",
                 "3P": "28",
                 "3PA": "26",
@@ -135,7 +135,7 @@
                 "2P%": "27",
                 "FT": "20",
                 "FTA": "14",
-                "FT%": "26",
+                "FT%": "27",
                 "ORB": "7",
                 "DRB": "26",
                 "TRB": "20",
@@ -143,7 +143,7 @@
                 "STL": "8",
                 "BLK": "6",
                 "TOV": "19",
-                "PF": "12",
+                "PF": "11",
                 "PTS": "24"
             },
             "Year/Year": {
@@ -223,7 +223,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "22",
                 "FG": "26",
                 "FGA": "21",
                 "FG%": "28",
@@ -231,8 +231,8 @@
                 "3PA": "29",
                 "3P%": "22",
                 "2P": "22",
-                "2PA": "11",
-                "2P%": "29",
+                "2PA": "10",
+                "2P%": "30",
                 "FT": "15",
                 "FTA": "13",
                 "FT%": "19",
@@ -278,7 +278,7 @@
                 "PL": "56",
                 "MOV": "-8.57",
                 "SOS": "0.71",
-                "SRS": "-7.86",
+                "SRS": "-7.87",
                 "ORtg": "110.8",
                 "DRtg": "119.5",
                 "Pace": "99.0",
@@ -302,7 +302,7 @@
                 "SRS": "27",
                 "ORtg": "25",
                 "DRtg": "29",
-                "Pace": "15",
+                "Pace": "16",
                 "FTr": "17",
                 "3PAr": "26",
                 "eFG%": "29",
@@ -311,10 +311,10 @@
                 "FT/FGA": "12",
                 "DRB%": "29",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/NOP-2025.png",
-        "last_update": "Apr 01 2025 22:32:21"
+        "last_update": "Apr 02 2025 22:32:20"
     }
 }

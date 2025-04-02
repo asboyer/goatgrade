@@ -53,6 +53,12 @@
                 "Description": "Day To Day (Rest) - Okogie did not play in Monday's (Mar. 31) game against the Jazz."
             },
             {
+                "Player": "Nick Smith Jr.",
+                "Team": "Charlotte Hornets",
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Ankle) - The Hornets listed Smith as Probable on Wednesday's (Apr. 2) game against the Pacers."
+            },
+            {
                 "Player": "Grant Williams",
                 "Team": "Charlotte Hornets",
                 "Update": "Wed, Dec 11, 2024",
@@ -112,9 +118,9 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "22",
                 "FG": "28",
-                "FGA": "15",
+                "FGA": "16",
                 "FG%": "30",
                 "3P": "15",
                 "3PA": "11",
@@ -131,7 +137,7 @@
                 "AST": "26",
                 "STL": "25",
                 "BLK": "21",
-                "TOV": "24",
+                "TOV": "25",
                 "PF": "16",
                 "PTS": "28"
             },
@@ -212,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "17",
+                "MP": "22",
                 "FG": "13",
                 "FGA": "13",
                 "FG%": "15",
@@ -222,7 +228,7 @@
                 "2P": "7",
                 "2PA": "5",
                 "2P%": "24",
-                "FT": "16",
+                "FT": "17",
                 "FTA": "15",
                 "FT%": "24",
                 "ORB": "17",
@@ -267,7 +273,7 @@
                 "PL": "55",
                 "MOV": "-7.99",
                 "SOS": "-0.26",
-                "SRS": "-8.25",
+                "SRS": "-8.24",
                 "ORtg": "107.7",
                 "DRtg": "115.8",
                 "Pace": "97.6",
@@ -304,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/CHO-2025.png",
-        "last_update": "Apr 01 2025 22:32:21"
+        "last_update": "Apr 02 2025 22:32:20"
     }
 }

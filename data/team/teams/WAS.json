@@ -37,8 +37,8 @@
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Ankle) - Brogdon did not play in Monday's (Mar. 31) game against the Heat."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Ankle) - The Wizards have listed Brogdon as OUT for Wednesday's (Apr. 2) game against the Kings."
             },
             {
                 "Player": "Bilal Coulibaly",
@@ -49,14 +49,8 @@
             {
                 "Player": "Kyshawn George",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Ankle) - George did not play in Monday's (Mar. 31) game against the Heat."
-            },
-            {
-                "Player": "Anthony Gill",
-                "Team": "Washington Wizards",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Hip) - Gill did not play in Monday's (Mar. 31) game against the Heat."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Ankle) - The Wizards have listed George as OUT for Wednesday's (Apr. 2) game against the Kings."
             },
             {
                 "Player": "Corey Kispert",
@@ -67,8 +61,14 @@
             {
                 "Player": "Khris Middleton",
                 "Team": "Washington Wizards",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Knee) - Middleton did not play in Monday's (Mar. 31) game against the Heat."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Knee) - The Wizards have listed Middleton as OUT for Wednesday's (Apr. 2) game against the Kings."
+            },
+            {
+                "Player": "Marcus Smart",
+                "Team": "Washington Wizards",
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Finger) - The Wizards have listed Smart as OUT for Wednesday's (Apr. 2) game against the Kings."
             }
         ],
         "team_stats": {
@@ -124,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "24",
                 "FG": "27",
                 "FGA": "10",
                 "FG%": "28",
@@ -134,7 +134,7 @@
                 "2P": "23",
                 "2PA": "16",
                 "2P%": "26",
-                "FT": "24",
+                "FT": "23",
                 "FTA": "23",
                 "FT%": "17",
                 "ORB": "20",
@@ -224,13 +224,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "24",
                 "FG": "27",
-                "FGA": "29",
-                "FG%": "20",
-                "3P": "27",
+                "FGA": "28",
+                "FG%": "21",
+                "3P": "26",
                 "3PA": "24",
-                "3P%": "26",
+                "3P%": "25",
                 "2P": "26",
                 "2PA": "26",
                 "2P%": "20",
@@ -241,7 +241,7 @@
                 "DRB": "30",
                 "TRB": "30",
                 "AST": "26",
-                "STL": "28",
+                "STL": "27",
                 "BLK": "19",
                 "TOV": "23",
                 "PF": "18",
@@ -279,7 +279,7 @@
                 "PL": "61",
                 "MOV": "-12.33",
                 "SOS": "0.32",
-                "SRS": "-12.01",
+                "SRS": "-12.02",
                 "ORtg": "106.9",
                 "DRtg": "119.0",
                 "Pace": "101.3",
@@ -310,12 +310,12 @@
                 "TOV%": "25",
                 "ORB%": "25",
                 "FT/FGA": "22",
-                "DRB%": "27",
+                "DRB%": "28",
                 "Arena": "",
                 "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/WAS-2025.png",
-        "last_update": "Apr 01 2025 22:32:21"
+        "last_update": "Apr 02 2025 22:32:20"
     }
 }

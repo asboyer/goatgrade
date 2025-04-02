@@ -29,6 +29,12 @@
         ],
         "injuries": [
             {
+                "Player": "Tony Bradley",
+                "Team": "Indiana Pacers",
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Illness) - The Pacers listed Bradley as Out on Wednesday's (Apr. 2) game against the Hornets."
+            },
+            {
                 "Player": "Isaiah Jackson",
                 "Team": "Indiana Pacers",
                 "Update": "Sat, Nov 2, 2024",
@@ -37,14 +43,14 @@
             {
                 "Player": "Bennedict Mathurin",
                 "Team": "Indiana Pacers",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Calf) - Mathurin did not play in Monday's (Mar. 31) game against the Kings."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Calf) - The Pacers listed Mathurin as Questionable on Wednesday's (Apr. 2) game against the Hornets."
             },
             {
                 "Player": "Myles Turner",
                 "Team": "Indiana Pacers",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Illness) - Turner did not play in Monday's (Mar. 31) game against the Kings."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Day To Day (Illness) - The Pacers listed Turner as Questionable on Wednesday's (Apr. 2) game against the Hornets."
             }
         ],
         "team_stats": {
@@ -100,8 +106,8 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
-                "FG": "6",
+                "MP": "17",
+                "FG": "5",
                 "FGA": "19",
                 "FG%": "3",
                 "3P": "15",
@@ -200,8 +206,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
-                "FG": "22",
+                "MP": "17",
+                "FG": "21",
                 "FGA": "18",
                 "FG%": "25",
                 "3P": "7",
@@ -215,12 +221,12 @@
                 "FT%": "11",
                 "ORB": "15",
                 "DRB": "21",
-                "TRB": "21",
+                "TRB": "20",
                 "AST": "12",
                 "STL": "4",
                 "BLK": "5",
                 "TOV": "11",
-                "PF": "21",
+                "PF": "20",
                 "PTS": "19"
             },
             "Opp Year/Year": {
@@ -271,27 +277,27 @@
             },
             "Misc Lg Rank": {
                 "W": "8",
-                "L": "21",
-                "PW": "12",
+                "L": "22",
+                "PW": "13",
                 "PL": "13",
-                "MOV": "12",
-                "SOS": "27",
+                "MOV": "13",
+                "SOS": "26",
                 "SRS": "13",
                 "ORtg": "8",
                 "DRtg": "15",
-                "Pace": "9",
-                "FTr": "21",
+                "Pace": "8",
+                "FTr": "20",
                 "3PAr": "21",
-                "eFG%": "21",
+                "eFG%": "20",
                 "TOV%": "11",
                 "ORB%": "29",
                 "FT/FGA": "20",
                 "DRB%": "20",
                 "Arena": "",
-                "Attendance": "28"
+                "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/IND-2025.png",
-        "last_update": "Apr 01 2025 22:32:21"
+        "last_update": "Apr 02 2025 22:32:20"
     }
 }

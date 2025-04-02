@@ -31,26 +31,20 @@
             {
                 "Player": "Nikola Jović",
                 "Team": "Miami Heat",
-                "Update": "Tue, Mar 25, 2025",
-                "Description": "Out (Hand) - The Heat announced on Tuesday (Mar. 25) that Jovic was cleared to begin on-court work, but there's still no timetable for his return to game action, as per Anthony Chiang of the Miami Herald."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Hand) - The Heat listed Jovic as Out on Wednesday's (Apr. 2) game against the Celtics."
             },
             {
                 "Player": "Kevin Love",
                 "Team": "Miami Heat",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Personal) - Love did not play in Monday's (Mar. 31) game against the Wizards."
-            },
-            {
-                "Player": "Davion Mitchell",
-                "Team": "Miami Heat",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Stomach) - Mitchell did not play in Monday's (Mar. 31) game against the Wizards."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Personal) - The Heat listed Love as Out on Wednesday's (Apr. 2) game against the Celtics."
             },
             {
                 "Player": "Duncan Robinson",
                 "Team": "Miami Heat",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Out (Back) - Robinson did not play in Monday's (Mar. 31) game against the Wizards."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Back) - The Heat listed Robinson as Out on Wednesday's (Apr. 2) game against the Celtics."
             },
             {
                 "Player": "Dru Smith",
@@ -61,8 +55,8 @@
             {
                 "Player": "Andrew Wiggins",
                 "Team": "Miami Heat",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Hamstring) - Wiggins did not play in Monday's (Mar. 31) game against the Wizards."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Hamstring) - The Heat listed Wiggins as Out on Wednesday's (Apr. 2) game against the Celtics."
             }
         ],
         "team_stats": {
@@ -118,12 +112,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "14",
                 "FG": "25",
-                "FGA": "25",
+                "FGA": "24",
                 "FG%": "18",
                 "3P": "12",
-                "3PA": "16",
+                "3PA": "15",
                 "3P%": "14",
                 "2P": "25",
                 "2PA": "24",
@@ -139,7 +133,7 @@
                 "BLK": "30",
                 "TOV": "13",
                 "PF": "1",
-                "PTS": "26"
+                "PTS": "25"
             },
             "Year/Year": {
                 "G": "",
@@ -218,22 +212,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "14",
                 "FG": "12",
                 "FGA": "14",
                 "FG%": "13",
-                "3P": "18",
-                "3PA": "16",
+                "3P": "17",
+                "3PA": "17",
                 "3P%": "13",
                 "2P": "9",
                 "2PA": "9",
-                "2P%": "18",
+                "2P%": "17",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "12",
+                "FT%": "13",
                 "ORB": "10",
-                "DRB": "26",
-                "TRB": "20",
+                "DRB": "27",
+                "TRB": "19",
                 "AST": "15",
                 "STL": "8",
                 "BLK": "13",
@@ -272,7 +266,7 @@
                 "PW": "37",
                 "PL": "38",
                 "MOV": "-0.25",
-                "SOS": "-0.28",
+                "SOS": "-0.29",
                 "SRS": "-0.54",
                 "ORtg": "112.6",
                 "DRtg": "112.8",
@@ -302,7 +296,7 @@
                 "3PAr": "11",
                 "eFG%": "17",
                 "TOV%": "18",
-                "ORB%": "27",
+                "ORB%": "28",
                 "FT/FGA": "1",
                 "DRB%": "11",
                 "Arena": "",
@@ -310,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/MIA-2025.png",
-        "last_update": "Apr 01 2025 22:32:21"
+        "last_update": "Apr 02 2025 22:32:20"
     }
 }

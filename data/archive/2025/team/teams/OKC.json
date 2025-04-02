@@ -31,14 +31,14 @@
             {
                 "Player": "Ousmane Dieng",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Calf) - Dieng did not play in Monday's (Mar. 31) game against the Bulls."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Calf) - The Thunder listed Dieng as Out on Wednesday's (Apr. 2) game against the Pistons."
             },
             {
                 "Player": "Alex Ducas",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Quadriceps) - Ducas did not play in Monday's (Mar. 31) game against the Bulls."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Quadriceps) - The Thunder listed Ducas as Out on Wednesday's (Apr. 2) game against the Pistons."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -55,8 +55,8 @@
             {
                 "Player": "Aaron Wiggins",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Day To Day (Achilles) - Wiggins did not play in Monday's (Mar. 31) game against the Bulls."
+                "Update": "Tue, Apr 1, 2025",
+                "Description": "Out (Achilles) - The Thunder listed Wiggins as Out on Wednesday's (Apr. 2) game against the Pistons."
             }
         ],
         "team_stats": {
@@ -112,25 +112,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "27",
                 "FG": "3",
                 "FGA": "3",
-                "FG%": "5",
+                "FG%": "6",
                 "3P": "6",
                 "3PA": "10",
                 "3P%": "6",
                 "2P": "6",
                 "2PA": "10",
-                "2P%": "7",
+                "2P%": "8",
                 "FT": "19",
                 "FTA": "26",
                 "FT%": "1",
                 "ORB": "21",
-                "DRB": "3",
+                "DRB": "4",
                 "TRB": "12",
                 "AST": "12",
                 "STL": "1",
-                "BLK": "4",
+                "BLK": "3",
                 "TOV": "2",
                 "PF": "25",
                 "PTS": "4"
@@ -212,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "27",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
@@ -224,7 +224,7 @@
                 "2P%": "1",
                 "FT": "23",
                 "FTA": "25",
-                "FT%": "8",
+                "FT%": "7",
                 "ORB": "20",
                 "DRB": "16",
                 "TRB": "22",
@@ -291,7 +291,7 @@
                 "SRS": "1",
                 "ORtg": "3",
                 "DRtg": "1",
-                "Pace": "6",
+                "Pace": "5",
                 "FTr": "27",
                 "3PAr": "17",
                 "eFG%": "1",
@@ -304,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/OKC-2025.png",
-        "last_update": "Apr 01 2025 22:32:21"
+        "last_update": "Apr 02 2025 22:32:20"
     }
 }
