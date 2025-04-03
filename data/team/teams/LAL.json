@@ -2,7 +2,7 @@
     "LAL": {
         "info": {
             "record": "46-29",
-            "standing": "4th in West",
+            "standing": "3rd in West",
             "coach": "JJ Redick (46-29)",
             "gm": "Rob Pelinka",
             "preseason_odds": "+3000"
@@ -27,6 +27,12 @@
             "Maxi Kleber"
         ],
         "injuries": [
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Wed, Apr 2, 2025",
+                "Description": "Day To Day (Groin) - The Lakers listed James as Probable for Thursday's (Apr. 3) game against the Warriors."
+            },
             {
                 "Player": "Maxi Kleber",
                 "Team": "Los Angeles Lakers",
@@ -87,10 +93,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "28",
                 "FG": "19",
                 "FGA": "30",
-                "FG%": "10",
+                "FG%": "11",
                 "3P": "18",
                 "3PA": "19",
                 "3P%": "17",
@@ -98,15 +104,15 @@
                 "2PA": "22",
                 "2P%": "5",
                 "FT": "2",
-                "FTA": "4",
+                "FTA": "5",
                 "FT%": "12",
                 "ORB": "26",
                 "DRB": "18",
                 "TRB": "26",
                 "AST": "16",
-                "STL": "23",
+                "STL": "24",
                 "BLK": "22",
-                "TOV": "11",
+                "TOV": "13",
                 "PF": "5",
                 "PTS": "19"
             },
@@ -187,13 +193,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "28",
                 "FG": "14",
-                "FGA": "17",
+                "FGA": "18",
                 "FG%": "10",
-                "3P": "14",
+                "3P": "15",
                 "3PA": "17",
-                "3P%": "9",
+                "3P%": "10",
                 "2P": "16",
                 "2PA": "14",
                 "2P%": "16",
@@ -207,8 +213,8 @@
                 "STL": "17",
                 "BLK": "4",
                 "TOV": "21",
-                "PF": "6",
-                "PTS": "11"
+                "PF": "5",
+                "PTS": "12"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -241,8 +247,8 @@
                 "PW": "39",
                 "PL": "36",
                 "MOV": "0.83",
-                "SOS": "-0.05",
-                "SRS": "0.78",
+                "SOS": "-0.07",
+                "SRS": "0.76",
                 "ORtg": "115.3",
                 "DRtg": "114.4",
                 "Pace": "97.8",
@@ -258,27 +264,27 @@
             },
             "Misc Lg Rank": {
                 "W": "7",
-                "L": "24",
+                "L": "25",
                 "PW": "14",
                 "PL": "14",
                 "MOV": "14",
-                "SOS": "18",
+                "SOS": "20",
                 "SRS": "14",
-                "ORtg": "13",
+                "ORtg": "14",
                 "DRtg": "14",
                 "Pace": "20",
                 "FTr": "2",
                 "3PAr": "15",
-                "eFG%": "9",
+                "eFG%": "10",
                 "TOV%": "20",
                 "ORB%": "24",
                 "FT/FGA": "6",
                 "DRB%": "12",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/LAL-2025.png",
-        "last_update": "Apr 02 2025 22:32:20"
+        "last_update": "Apr 03 2025 22:32:19"
     }
 }

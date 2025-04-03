@@ -30,8 +30,8 @@
             {
                 "Player": "Jonathan Kuminga",
                 "Team": "Golden State Warriors",
-                "Update": "Tue, Apr 1, 2025",
-                "Description": "Day To Day (Pelvic) - Kuminga did not play in Tuesday's (Apr. 1) game against the Grizzlies."
+                "Update": "Wed, Apr 2, 2025",
+                "Description": "Day To Day (Pelvic) - The Warriors listed Kuminga as Questionable for Thursday's (Apr. 3) game against the Lakers."
             },
             {
                 "Player": "Gary Payton II",
@@ -93,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "21",
                 "FGA": "6",
                 "FG%": "26",
@@ -103,12 +103,12 @@
                 "2P": "27",
                 "2PA": "26",
                 "2P%": "23",
-                "FT": "22",
+                "FT": "21",
                 "FTA": "16",
                 "FT%": "26",
                 "ORB": "4",
                 "DRB": "17",
-                "TRB": "3",
+                "TRB": "4",
                 "AST": "4",
                 "STL": "5",
                 "BLK": "15",
@@ -193,7 +193,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "9",
                 "FGA": "6",
                 "FG%": "12",
@@ -204,7 +204,7 @@
                 "2PA": "12",
                 "2P%": "11",
                 "FT": "13",
-                "FTA": "14",
+                "FTA": "15",
                 "FT%": "4",
                 "ORB": "8",
                 "DRB": "22",
@@ -247,8 +247,8 @@
                 "PW": "44",
                 "PL": "31",
                 "MOV": "2.84",
-                "SOS": "0.23",
-                "SRS": "3.07",
+                "SOS": "0.22",
+                "SRS": "3.06",
                 "ORtg": "114.7",
                 "DRtg": "111.8",
                 "Pace": "99.0",
@@ -263,12 +263,12 @@
                 "Attendance": "668,368"
             },
             "Misc Lg Rank": {
-                "W": "8",
+                "W": "9",
                 "L": "22",
                 "PW": "10",
                 "PL": "10",
                 "MOV": "10",
-                "SOS": "9",
+                "SOS": "8",
                 "SRS": "10",
                 "ORtg": "16",
                 "DRtg": "7",
@@ -279,12 +279,12 @@
                 "TOV%": "4",
                 "ORB%": "5",
                 "FT/FGA": "16",
-                "DRB%": "9",
+                "DRB%": "10",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/GSW-2025.png",
-        "last_update": "Apr 02 2025 22:32:20"
+        "last_update": "Apr 03 2025 22:32:19"
     }
 }

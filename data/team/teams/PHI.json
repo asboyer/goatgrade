@@ -33,8 +33,8 @@
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Mar 29, 2025",
-                "Description": "Out (Toe) - Drummond will miss the next five games for the 76ers, per Noah Levick of NBC Sports Philadelphia."
+                "Update": "Wed, Apr 2, 2025",
+                "Description": "Out (Toe) - The 76ers listed Drummond as Out on Thursday's (Apr. 3) game against the Bucks."
             },
             {
                 "Player": "Joel Embiid",
@@ -55,10 +55,16 @@
                 "Description": "Out For Season (Wrist) - The 76ers announced on Thursday (Feb. 27) that Gordon will be re-evaluated in three months after undergoing successful wrist surgery, as per Keith Pompey of The Philadelphia Inquirer."
             },
             {
+                "Player": "Kyle Lowry",
+                "Team": "Philadelphia 76ers",
+                "Update": "Wed, Apr 2, 2025",
+                "Description": "Out (Hip) - The 76ers listed Lowry as Out on Thursday's (Apr. 3) game against the Bucks."
+            },
+            {
                 "Player": "Tyrese Maxey",
                 "Team": "Philadelphia 76ers",
-                "Update": "Tue, Apr 1, 2025",
-                "Description": "Day To Day (Back) - Maxey did not play in Tuesday's (Apr. 1) game against the Knicks."
+                "Update": "Wed, Apr 2, 2025",
+                "Description": "Out (Finger) - The 76ers listed Maxey as Out on Thursday's (Apr. 3) game against the Bucks."
             },
             {
                 "Player": "Jared McCain",
@@ -69,14 +75,14 @@
             {
                 "Player": "Kelly Oubre Jr.",
                 "Team": "Philadelphia 76ers",
-                "Update": "Tue, Apr 1, 2025",
-                "Description": "Day To Day (Knee) - Oubre Jr. did not play in Tuesday's (Apr. 1) game against the Knicks."
+                "Update": "Wed, Apr 2, 2025",
+                "Description": "Out (Knee) - The 76ers listed Oubre Jr. as Out on Thursday's (Apr. 3) game against the Bucks."
             },
             {
                 "Player": "Guerschon Yabusele",
                 "Team": "Philadelphia 76ers",
-                "Update": "Tue, Apr 1, 2025",
-                "Description": "Day To Day (Knee) - Yabusele did not play in Tuesday's (Apr. 1) game against the Knicks."
+                "Update": "Wed, Apr 2, 2025",
+                "Description": "Day To Day (Knee) - The 76ers listed Yabusel e as Questionable on Thursday's (Apr. 3) game against the Bucks."
             }
         ],
         "team_stats": {
@@ -132,23 +138,23 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "11",
                 "FG": "26",
                 "FGA": "23",
                 "FG%": "22",
-                "3P": "21",
+                "3P": "22",
                 "3PA": "17",
                 "3P%": "27",
                 "2P": "20",
                 "2PA": "19",
                 "2P%": "21",
                 "FT": "7",
-                "FTA": "9",
+                "FTA": "10",
                 "FT%": "16",
-                "ORB": "24",
+                "ORB": "23",
                 "DRB": "30",
                 "TRB": "30",
-                "AST": "28",
+                "AST": "29",
                 "STL": "4",
                 "BLK": "26",
                 "TOV": "7",
@@ -232,21 +238,21 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "11",
                 "FG": "20",
                 "FGA": "4",
                 "FG%": "30",
                 "3P": "25",
-                "3PA": "14",
+                "3PA": "15",
                 "3P%": "29",
                 "2P": "17",
                 "2PA": "4",
                 "2P%": "29",
                 "FT": "14",
-                "FTA": "9",
+                "FTA": "10",
                 "FT%": "28",
                 "ORB": "18",
-                "DRB": "25",
+                "DRB": "26",
                 "TRB": "25",
                 "AST": "25",
                 "STL": "5",
@@ -286,8 +292,8 @@
                 "PW": "24",
                 "PL": "52",
                 "MOV": "-6.13",
-                "SOS": "0.05",
-                "SRS": "-6.08",
+                "SOS": "0.04",
+                "SRS": "-6.09",
                 "ORtg": "111.9",
                 "DRtg": "118.2",
                 "Pace": "97.2",
@@ -307,7 +313,7 @@
                 "PW": "25",
                 "PL": "25",
                 "MOV": "25",
-                "SOS": "15",
+                "SOS": "14",
                 "SRS": "25",
                 "ORtg": "23",
                 "DRtg": "26",
@@ -317,13 +323,13 @@
                 "eFG%": "30",
                 "TOV%": "3",
                 "ORB%": "23",
-                "FT/FGA": "18",
+                "FT/FGA": "19",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "6"
+                "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/PHI-2025.png",
-        "last_update": "Apr 02 2025 22:32:20"
+        "last_update": "Apr 03 2025 22:32:19"
     }
 }
