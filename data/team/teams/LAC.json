@@ -2,7 +2,7 @@
     "LAC": {
         "info": {
             "record": "44-32",
-            "standing": "7th in West",
+            "standing": "8th in West",
             "coach": "Tyronn Lue (44-32)",
             "gm": "Lawrence Frank",
             "preseason_odds": "+3000"
@@ -31,14 +31,20 @@
             {
                 "Player": "Amir Coffey",
                 "Team": "Los Angeles Clippers",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Knee) - Coffey will miss five to seven days due to swelling in his left knee, according to Tomer Azarly of ClutchPoints.com."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Out (Knee) - The Clippers listed Coffey as OUT for Friday's (Apr. 4) game against Dallas."
             },
             {
                 "Player": "Jordan Miller",
                 "Team": "Los Angeles Clippers",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Hamstring) - Miller did not play on Wednesday's (Apr. 2) game versus the Pelicans."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Out (Hamstring) - The Clippers listed Miller as OUT for Friday's (Apr. 4) game against Dallas."
+            },
+            {
+                "Player": "Ben Simmons",
+                "Team": "Los Angeles Clippers",
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Out (Knee) - The Clippers listed Simmons as OUT for Friday's (Apr. 4) game against Dallas."
             }
         ],
         "team_stats": {
@@ -94,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "19",
                 "FG": "18",
                 "FGA": "27",
                 "FG%": "10",
@@ -112,9 +118,9 @@
                 "TRB": "18",
                 "AST": "25",
                 "STL": "3",
-                "BLK": "19",
-                "TOV": "21",
-                "PF": "13",
+                "BLK": "20",
+                "TOV": "22",
+                "PF": "14",
                 "PTS": "20"
             },
             "Year/Year": {
@@ -194,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "19",
                 "FG": "3",
                 "FGA": "3",
                 "FG%": "7",
@@ -202,13 +208,13 @@
                 "3PA": "13",
                 "3P%": "3",
                 "2P": "2",
-                "2PA": "2",
+                "2PA": "3",
                 "2P%": "15",
                 "FT": "8",
                 "FTA": "9",
                 "FT%": "7",
                 "ORB": "2",
-                "DRB": "7",
+                "DRB": "8",
                 "TRB": "1",
                 "AST": "9",
                 "STL": "24",
@@ -248,8 +254,8 @@
                 "PW": "47",
                 "PL": "29",
                 "MOV": "3.95",
-                "SOS": "0.16",
-                "SRS": "4.11",
+                "SOS": "0.17",
+                "SRS": "4.12",
                 "ORtg": "114.3",
                 "DRtg": "110.3",
                 "Pace": "97.6",
@@ -264,7 +270,7 @@
                 "Attendance": "607,885"
             },
             "Misc Lg Rank": {
-                "W": "9",
+                "W": "12",
                 "L": "19",
                 "PW": "9",
                 "PL": "8",
@@ -276,7 +282,7 @@
                 "Pace": "21",
                 "FTr": "8",
                 "3PAr": "25",
-                "eFG%": "7",
+                "eFG%": "8",
                 "TOV%": "7",
                 "ORB%": "21",
                 "FT/FGA": "15",
@@ -286,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/LAC-2025.png",
-        "last_update": "Apr 03 2025 22:32:19"
+        "last_update": "Apr 04 2025 22:32:21"
     }
 }

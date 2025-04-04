@@ -2,7 +2,7 @@
     "DEN": {
         "info": {
             "record": "47-30",
-            "standing": "4th in West",
+            "standing": "3rd in West",
             "coach": "Michael Malone (47-30)",
             "gm": "Calvin Booth",
             "preseason_odds": "+750"
@@ -31,14 +31,14 @@
             {
                 "Player": "Christian Braun",
                 "Team": "Denver Nuggets",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Foot) - Braun did not play on Wednesday's (Apr. 2) game against the Spurs."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Foot) - The Nuggets listed Braun as Probable for Friday's (Apr. 4) game against Golden State."
             },
             {
                 "Player": "Aaron Gordon",
                 "Team": "Denver Nuggets",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Calf) - Gordon did not play on Wednesday's (Apr. 2) game against the Spurs."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Calf) - The Nuggets listed Gordon as Probable for Friday's (Apr. 4) game against Golden State."
             },
             {
                 "Player": "DaRon Holmes",
@@ -49,32 +49,26 @@
             {
                 "Player": "Nikola Jokić",
                 "Team": "Denver Nuggets",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Ankle) - Jokic did not play on Wednesday's (Apr. 2) game against the Spurs."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Ankle) - The Nuggets listed Jokic as Questionable for Friday's (Apr. 4) game against Golden State."
             },
             {
                 "Player": "Jamal Murray",
                 "Team": "Denver Nuggets",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Hamstring) - Murray did not play on Wednesday's (Apr. 2) game against the Spurs."
-            },
-            {
-                "Player": "Michael Porter Jr.",
-                "Team": "Denver Nuggets",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Personal) - Porter Jr. did not play on Wednesday's (Apr. 2) game against the Spurs."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Hamstring) - The Nuggets listed Murray as Questionable for Friday's (Apr. 4) game against Golden State."
             },
             {
                 "Player": "Julian Strawther",
                 "Team": "Denver Nuggets",
                 "Update": "Tue, Mar 4, 2025",
-                "Description": "Out (Knee) - The Nuggets announced on Tuesday (Mar. 4) that Strawther will be re-evaluated in four weeks, per Romi Bean of CBS News Colorado."
+                "Description": "Day To Day (Knee) - The Nuggets listed Strawther as Questionable for Friday's (Apr. 4) game against Golden State."
             },
             {
                 "Player": "Peyton Watson",
                 "Team": "Denver Nuggets",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Knee) - Watson did not play on Wednesday's (Apr. 2) game against the Spurs."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Knee) - The Nuggets listed Watson as Questionable for Friday's (Apr. 4) game against Golden State."
             }
         ],
         "team_stats": {
@@ -130,13 +124,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "3",
                 "FG": "1",
-                "FGA": "12",
+                "FGA": "11",
                 "FG%": "1",
                 "3P": "27",
                 "3PA": "30",
-                "3P%": "5",
+                "3P%": "4",
                 "2P": "1",
                 "2PA": "1",
                 "2P%": "2",
@@ -148,7 +142,7 @@
                 "TRB": "3",
                 "AST": "1",
                 "STL": "17",
-                "BLK": "14",
+                "BLK": "15",
                 "TOV": "17",
                 "PF": "6",
                 "PTS": "3"
@@ -230,7 +224,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "3",
                 "FG": "24",
                 "FGA": "29",
                 "FG%": "14",
@@ -248,7 +242,7 @@
                 "TRB": "7",
                 "AST": "28",
                 "STL": "22",
-                "BLK": "20",
+                "BLK": "19",
                 "TOV": "25",
                 "PF": "10",
                 "PTS": "24"
@@ -284,8 +278,8 @@
                 "PW": "47",
                 "PL": "30",
                 "MOV": "3.99",
-                "SOS": "-0.09",
-                "SRS": "3.89",
+                "SOS": "-0.08",
+                "SRS": "3.90",
                 "ORtg": "119.9",
                 "DRtg": "116.0",
                 "Pace": "99.9",
@@ -322,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/DEN-2025.png",
-        "last_update": "Apr 03 2025 22:32:19"
+        "last_update": "Apr 04 2025 22:32:21"
     }
 }

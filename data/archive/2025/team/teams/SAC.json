@@ -29,8 +29,8 @@
             {
                 "Player": "Devin Carter",
                 "Team": "Sacramento Kings",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Shoulder) - Carter did not play on Wednesday's (Apr. 2) game versus the Wizards."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Shoulder) - The Kings listed Carter as Questionable as Friday's (Apr. 4) game against Charlotte."
             },
             {
                 "Player": "Jake LaRavia",
@@ -92,7 +92,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "14",
                 "FG": "9",
                 "FGA": "9",
                 "FG%": "12",
@@ -102,8 +102,8 @@
                 "2P": "4",
                 "2PA": "7",
                 "2P%": "11",
-                "FT": "14",
-                "FTA": "19",
+                "FT": "13",
+                "FTA": "18",
                 "FT%": "4",
                 "ORB": "18",
                 "DRB": "13",
@@ -192,7 +192,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "14",
                 "FG": "16",
                 "FGA": "9",
                 "FG%": "22",
@@ -213,7 +213,7 @@
                 "BLK": "8",
                 "TOV": "18",
                 "PF": "18",
-                "PTS": "21"
+                "PTS": "20"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -246,8 +246,8 @@
                 "PW": "38",
                 "PL": "38",
                 "MOV": "-0.04",
-                "SOS": "0.02",
-                "SRS": "-0.02",
+                "SOS": "0.03",
+                "SRS": "-0.01",
                 "ORtg": "116.2",
                 "DRtg": "116.2",
                 "Pace": "98.5",
@@ -265,25 +265,25 @@
                 "W": "17",
                 "L": "13",
                 "PW": "17",
-                "PL": "16",
+                "PL": "15",
                 "MOV": "16",
                 "SOS": "15",
                 "SRS": "16",
                 "ORtg": "10",
                 "DRtg": "24",
                 "Pace": "19",
-                "FTr": "21",
+                "FTr": "20",
                 "3PAr": "23",
                 "eFG%": "27",
-                "TOV%": "17",
-                "ORB%": "16",
+                "TOV%": "18",
+                "ORB%": "17",
                 "FT/FGA": "21",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "24"
+                "Attendance": "25"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/SAC-2025.png",
-        "last_update": "Apr 03 2025 22:32:19"
+        "last_update": "Apr 04 2025 22:32:21"
     }
 }

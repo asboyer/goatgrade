@@ -2,7 +2,7 @@
     "DET": {
         "info": {
             "record": "42-34",
-            "standing": "5th in East",
+            "standing": "6th in East",
             "coach": "J.B. Bickerstaff (42-34)",
             "gm": "Trajan Langdon",
             "preseason_odds": "+100000"
@@ -31,8 +31,14 @@
             {
                 "Player": "Cade Cunningham",
                 "Team": "Detroit Pistons",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Calf) - Cunningham did not play on Wednesday's (Apr. 2) game against the Thunder."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Calf) - The Pistons listed Cunningham as Questionable for Friday's (Apr. 4) game against Toronto."
+            },
+            {
+                "Player": "Tobias Harris",
+                "Team": "Detroit Pistons",
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Out (Achilles) - The Pistons listed Harris as Out on Friday's game against the Raptors."
             },
             {
                 "Player": "Jaden Ivey",
@@ -94,13 +100,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "19",
                 "FG": "10",
                 "FGA": "16",
                 "FG%": "13",
                 "3P": "21",
                 "3PA": "24",
-                "3P%": "15",
+                "3P%": "16",
                 "2P": "7",
                 "2PA": "9",
                 "2P%": "15",
@@ -109,8 +115,8 @@
                 "FT%": "18",
                 "ORB": "10",
                 "DRB": "9",
-                "TRB": "10",
-                "AST": "15",
+                "TRB": "9",
+                "AST": "14",
                 "STL": "18",
                 "BLK": "9",
                 "TOV": "23",
@@ -194,27 +200,27 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "19",
                 "FG": "6",
                 "FGA": "7",
                 "FG%": "8",
                 "3P": "16",
                 "3PA": "12",
-                "3P%": "22",
+                "3P%": "21",
                 "2P": "4",
                 "2PA": "8",
-                "2P%": "6",
-                "FT": "28",
+                "2P%": "7",
+                "FT": "29",
                 "FTA": "28",
-                "FT%": "9",
+                "FT%": "8",
                 "ORB": "6",
                 "DRB": "4",
                 "TRB": "4",
-                "AST": "6",
+                "AST": "5",
                 "STL": "25",
                 "BLK": "16",
                 "TOV": "8",
-                "PF": "14",
+                "PF": "13",
                 "PTS": "14"
             },
             "Opp Year/Year": {
@@ -248,7 +254,7 @@
                 "PW": "43",
                 "PL": "33",
                 "MOV": "2.16",
-                "SOS": "-0.29",
+                "SOS": "-0.28",
                 "SRS": "1.87",
                 "ORtg": "114.8",
                 "DRtg": "112.7",
@@ -271,7 +277,7 @@
                 "MOV": "11",
                 "SOS": "25",
                 "SRS": "11",
-                "ORtg": "15",
+                "ORtg": "16",
                 "DRtg": "9",
                 "Pace": "6",
                 "FTr": "11",
@@ -286,6 +292,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/DET-2025.png",
-        "last_update": "Apr 03 2025 22:32:19"
+        "last_update": "Apr 04 2025 22:32:21"
     }
 }

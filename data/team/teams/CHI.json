@@ -31,14 +31,14 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Tue, Apr 1, 2025",
-                "Description": "Day To Day (Wrist) - Ball did not play in Tuesday's (Apr. 1) game against the Raptors."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Wrist) - The Bulls listed Ball as Questionable for Friday's (Apr. 4) game against Portland."
             },
             {
                 "Player": "Jevon Carter",
                 "Team": "Chicago Bulls",
-                "Update": "Tue, Apr 1, 2025",
-                "Description": "Day To Day (Shoulder) - Carter did not play in Tuesday's (Apr. 1) game against the Raptors."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Shoulder) - The Bulls listed Carter as Questionable for Friday's (Apr. 4) game against Portland."
             },
             {
                 "Player": "Ayo Dosunmu",
@@ -55,14 +55,14 @@
             {
                 "Player": "Julian Phillips",
                 "Team": "Chicago Bulls",
-                "Update": "Tue, Apr 1, 2025",
-                "Description": "Day To Day (Quad) - Phillips did not play in Tuesday's (Apr. 1) game against the Raptors."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Quad) - The Bulls listed Phillips as Questionable for Friday's (Apr. 4) game against Portland."
             },
             {
                 "Player": "Dalen Terry",
                 "Team": "Chicago Bulls",
-                "Update": "Tue, Apr 1, 2025",
-                "Description": "Day To Day (Calf) - Terry did not play in Tuesday's (Apr. 1) game against the Raptors."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Calf) - The Bulls listed Terry as Questionable for Friday's (Apr. 4) game against Portland."
             }
         ],
         "team_stats": {
@@ -118,13 +118,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "8",
                 "FGA": "4",
                 "FG%": "15",
                 "3P": "3",
                 "3PA": "3",
-                "3P%": "11",
+                "3P%": "12",
                 "2P": "18",
                 "2PA": "20",
                 "2P%": "12",
@@ -218,11 +218,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "18",
-                "3P": "18",
+                "3P": "17",
                 "3PA": "27",
                 "3P%": "2",
                 "2P": "30",
@@ -303,13 +303,13 @@
                 "eFG%": "16",
                 "TOV%": "29",
                 "ORB%": "28",
-                "FT/FGA": "8",
+                "FT/FGA": "7",
                 "DRB%": "4",
                 "Arena": "",
                 "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/CHI-2025.png",
-        "last_update": "Apr 03 2025 22:32:19"
+        "last_update": "Apr 04 2025 22:32:21"
     }
 }

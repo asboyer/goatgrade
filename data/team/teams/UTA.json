@@ -47,16 +47,22 @@
                 "Description": "Out For Season (Fibula) - Hendricks underwent surgery on Wednesday (Nov. 6) to repair a fractured right fibula and dislocated right ankle, per Andy Larsen of The Salt Lake Tribune."
             },
             {
+                "Player": "Walker Kessler",
+                "Team": "Utah Jazz",
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Nasal) - The Jazz listed Kessler as OUT for Friday's (Apr. 4) game against Indiana."
+            },
+            {
                 "Player": "Lauri Markkanen",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Knee) - Markkanen did not play on Wednesday's (Apr. 2) game against the Rockets."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Out (Knee) - The Jazz listed Markkanen as OUT for Friday's (Apr. 4) game against Indiana."
             },
             {
                 "Player": "Cody Williams",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Illness) - Williams did not play on Wednesday's (Apr. 2) game against the Rockets."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Out (Illness) - The Jazz listed Williams as OUT for Friday's (Apr. 4) game against Indiana."
             }
         ],
         "team_stats": {
@@ -112,10 +118,10 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "7",
                 "FG": "24",
                 "FGA": "20",
-                "FG%": "21",
+                "FG%": "22",
                 "3P": "11",
                 "3PA": "8",
                 "3P%": "22",
@@ -126,7 +132,7 @@
                 "FTA": "9",
                 "FT%": "23",
                 "ORB": "9",
-                "DRB": "12",
+                "DRB": "11",
                 "TRB": "7",
                 "AST": "20",
                 "STL": "30",
@@ -212,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "7",
                 "FG": "29",
                 "FGA": "27",
                 "FG%": "26",
@@ -220,12 +226,12 @@
                 "3PA": "30",
                 "3P%": "11",
                 "2P": "24",
-                "2PA": "13",
+                "2PA": "14",
                 "2P%": "28",
                 "FT": "18",
-                "FTA": "21",
+                "FTA": "22",
                 "FT%": "2",
-                "ORB": "24",
+                "ORB": "23",
                 "DRB": "11",
                 "TRB": "16",
                 "AST": "30",
@@ -266,8 +272,8 @@
                 "PW": "20",
                 "PL": "57",
                 "MOV": "-8.92",
-                "SOS": "0.66",
-                "SRS": "-8.26",
+                "SOS": "0.67",
+                "SRS": "-8.25",
                 "ORtg": "111.0",
                 "DRtg": "119.9",
                 "Pace": "99.9",
@@ -304,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/UTA-2025.png",
-        "last_update": "Apr 03 2025 22:32:19"
+        "last_update": "Apr 04 2025 22:32:21"
     }
 }

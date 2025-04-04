@@ -30,14 +30,14 @@
             {
                 "Player": "Ty Jerome",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Knee) - Jerome did not play on Wednesday's (Apr. 2) game against the Knicks."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Out (Knee) - The Cavaliers listed Jerome as OUT for Friday's (Apr. 4) game against San Antonio."
             },
             {
                 "Player": "Dean Wade",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Illness) - Wade did not play on Wednesday's (Apr. 2) game against the Knicks."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Out (Illness) - The Cavaliers listed Wade as OUT for Friday's (Apr. 4) game against San Antonio."
             }
         ],
         "team_stats": {
@@ -93,7 +93,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "25",
+                "MP": "27",
                 "FG": "3",
                 "FGA": "8",
                 "FG%": "2",
@@ -104,9 +104,9 @@
                 "2PA": "23",
                 "2P%": "1",
                 "FT": "10",
-                "FTA": "13",
+                "FTA": "12",
                 "FT%": "15",
-                "ORB": "17",
+                "ORB": "16",
                 "DRB": "6",
                 "TRB": "8",
                 "AST": "9",
@@ -193,9 +193,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "25",
-                "FG": "11",
-                "FGA": "22",
+                "MP": "27",
+                "FG": "12",
+                "FGA": "23",
                 "FG%": "3",
                 "3P": "14",
                 "3PA": "11",
@@ -205,7 +205,7 @@
                 "2P%": "2",
                 "FT": "10",
                 "FTA": "11",
-                "FT%": "14",
+                "FT%": "13",
                 "ORB": "21",
                 "DRB": "5",
                 "TRB": "10",
@@ -274,17 +274,17 @@
                 "DRtg": "8",
                 "Pace": "9",
                 "FTr": "16",
-                "3PAr": "5",
+                "3PAr": "6",
                 "eFG%": "4",
                 "TOV%": "16",
                 "ORB%": "13",
-                "FT/FGA": "10",
-                "DRB%": "17",
+                "FT/FGA": "11",
+                "DRB%": "16",
                 "Arena": "",
-                "Attendance": "5"
+                "Attendance": "7"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/CLE-2025.png",
-        "last_update": "Apr 03 2025 22:32:19"
+        "last_update": "Apr 04 2025 22:32:21"
     }
 }

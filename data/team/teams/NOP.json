@@ -23,6 +23,7 @@
             "Herbert Jones",
             "Bruce Brown",
             "Kelly Olynyk",
+            "Elfrid Payton",
             "Keion Brooks Jr.",
             "Lester Quiñones"
         ],
@@ -30,8 +31,8 @@
             {
                 "Player": "Brandon Boston Jr.",
                 "Team": "New Orleans Pelicans",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Ankle) - Boston Jr. did not play on Wednesday's (Apr. 2) matchup against the Clippers."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Out (Ankle) - The Pelicans listed Boston Jr. as Out on Friday's (Apr. 4) matchup against the Lakers."
             },
             {
                 "Player": "Jordan Hawkins",
@@ -123,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "22",
                 "FGA": "14",
                 "FG%": "23",
@@ -134,7 +135,7 @@
                 "2PA": "5",
                 "2P%": "27",
                 "FT": "22",
-                "FTA": "15",
+                "FTA": "16",
                 "FT%": "27",
                 "ORB": "7",
                 "DRB": "26",
@@ -143,7 +144,7 @@
                 "STL": "8",
                 "BLK": "7",
                 "TOV": "20",
-                "PF": "12",
+                "PF": "13",
                 "PTS": "24"
             },
             "Year/Year": {
@@ -223,7 +224,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "26",
                 "FGA": "21",
                 "FG%": "28",
@@ -277,8 +278,8 @@
                 "PW": "20",
                 "PL": "56",
                 "MOV": "-8.67",
-                "SOS": "0.74",
-                "SRS": "-7.93",
+                "SOS": "0.76",
+                "SRS": "-7.92",
                 "ORtg": "110.7",
                 "DRtg": "119.4",
                 "Pace": "99.0",
@@ -302,7 +303,7 @@
                 "SRS": "27",
                 "ORtg": "25",
                 "DRtg": "29",
-                "Pace": "16",
+                "Pace": "15",
                 "FTr": "17",
                 "3PAr": "26",
                 "eFG%": "29",
@@ -311,10 +312,10 @@
                 "FT/FGA": "14",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/NOP-2025.png",
-        "last_update": "Apr 03 2025 22:32:19"
+        "last_update": "Apr 04 2025 22:32:21"
     }
 }

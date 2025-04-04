@@ -29,12 +29,6 @@
         ],
         "injuries": [
             {
-                "Player": "Tony Bradley",
-                "Team": "Indiana Pacers",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Illness) - Bradley did not play on Wednesday's (Apr. 2) game against the Hornets."
-            },
-            {
                 "Player": "Isaiah Jackson",
                 "Team": "Indiana Pacers",
                 "Update": "Sat, Nov 2, 2024",
@@ -43,8 +37,20 @@
             {
                 "Player": "Bennedict Mathurin",
                 "Team": "Indiana Pacers",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Calf) - Mathurin did not play on Wednesday's (Apr. 2) game against the Hornets."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Calf) - The Pacers listed Mathurin as Questionable for Friday's (Apr. 4) game against the Jazz."
+            },
+            {
+                "Player": "Aaron Nesmith",
+                "Team": "Indiana Pacers",
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Ankle) - The Pacers listed Nesmith as Questionable for Friday's (Apr. 4) game against the Jazz."
+            },
+            {
+                "Player": "Pascal Siakam",
+                "Team": "Indiana Pacers",
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Olecranon) - The Pacers listed Siakam as Questionable for Friday's (Apr. 4) game against the Jazz."
             }
         ],
         "team_stats": {
@@ -100,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "17",
                 "FG": "5",
                 "FGA": "19",
                 "FG%": "3",
@@ -110,12 +116,12 @@
                 "2P": "5",
                 "2PA": "12",
                 "2P%": "4",
-                "FT": "19",
+                "FT": "20",
                 "FTA": "22",
                 "FT%": "8",
                 "ORB": "29",
                 "DRB": "24",
-                "TRB": "29",
+                "TRB": "28",
                 "AST": "3",
                 "STL": "9",
                 "BLK": "12",
@@ -200,9 +206,9 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "17",
                 "FG": "21",
-                "FGA": "17",
+                "FGA": "18",
                 "FG%": "25",
                 "3P": "5",
                 "3PA": "8",
@@ -214,12 +220,12 @@
                 "FTA": "19",
                 "FT%": "11",
                 "ORB": "15",
-                "DRB": "20",
-                "TRB": "20",
+                "DRB": "21",
+                "TRB": "19",
                 "AST": "12",
                 "STL": "4",
                 "BLK": "5",
-                "TOV": "10",
+                "TOV": "11",
                 "PF": "20",
                 "PTS": "18"
             },
@@ -255,7 +261,7 @@
                 "PL": "34",
                 "MOV": "1.95",
                 "SOS": "-0.59",
-                "SRS": "1.35",
+                "SRS": "1.36",
                 "ORtg": "116.6",
                 "DRtg": "114.7",
                 "Pace": "99.8",
@@ -272,15 +278,15 @@
             "Misc Lg Rank": {
                 "W": "8",
                 "L": "22",
-                "PW": "12",
+                "PW": "13",
                 "PL": "13",
                 "MOV": "12",
-                "SOS": "28",
+                "SOS": "27",
                 "SRS": "13",
                 "ORtg": "8",
-                "DRtg": "15",
+                "DRtg": "14",
                 "Pace": "10",
-                "FTr": "23",
+                "FTr": "22",
                 "3PAr": "21",
                 "eFG%": "20",
                 "TOV%": "11",
@@ -292,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/IND-2025.png",
-        "last_update": "Apr 03 2025 22:32:19"
+        "last_update": "Apr 04 2025 22:32:21"
     }
 }

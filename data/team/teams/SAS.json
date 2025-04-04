@@ -32,7 +32,7 @@
                 "Player": "Charles Bassey",
                 "Team": "San Antonio Spurs",
                 "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Rest) - Bassey did not play on Wednesday's (Apr. 2) game against the Nuggets."
+                "Description": "Day To Day (Rest) - The Spurs listed Bassey as Questionable for Friday's (Apr. 4) game against Cleveland."
             },
             {
                 "Player": "De'Aaron Fox",
@@ -43,8 +43,8 @@
             {
                 "Player": "Keldon Johnson",
                 "Team": "San Antonio Spurs",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Back) - Johnson did not play on Wednesday's (Apr. 2) game against the Nuggets."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Back) - The Spurs listed Johnson as Probable for Friday's (Apr. 4) game against Cleveland."
             },
             {
                 "Player": "Jeremy Sochan",
@@ -118,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "13",
                 "FGA": "13",
                 "FG%": "17",
@@ -128,7 +128,7 @@
                 "2P": "16",
                 "2PA": "18",
                 "2P%": "13",
-                "FT": "25",
+                "FT": "23",
                 "FTA": "21",
                 "FT%": "22",
                 "ORB": "14",
@@ -137,7 +137,7 @@
                 "AST": "6",
                 "STL": "11",
                 "BLK": "4",
-                "TOV": "10",
+                "TOV": "11",
                 "PF": "3",
                 "PTS": "17"
             },
@@ -218,12 +218,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "23",
+                "MP": "25",
                 "FG": "28",
                 "FGA": "26",
                 "FG%": "24",
                 "3P": "23",
-                "3PA": "23",
+                "3PA": "24",
                 "3P%": "17",
                 "2P": "28",
                 "2PA": "25",
@@ -272,8 +272,8 @@
                 "PW": "32",
                 "PL": "44",
                 "MOV": "-2.63",
-                "SOS": "0.24",
-                "SRS": "-2.40",
+                "SOS": "0.25",
+                "SRS": "-2.39",
                 "ORtg": "114.6",
                 "DRtg": "117.2",
                 "Pace": "99.3",
@@ -310,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/SAS-2025.png",
-        "last_update": "Apr 03 2025 22:32:19"
+        "last_update": "Apr 04 2025 22:32:21"
     }
 }

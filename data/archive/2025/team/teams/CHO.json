@@ -37,20 +37,26 @@
             {
                 "Player": "Damion Baugh",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Undisclosed) - Baugh was carried back to the locker room during Wednesday's (Apr. 2) game against the Pacers, as per Tony East of WTHR Channel 13 Indianapolis."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Out (Undisclosed) - The Hornets listed Baugh as OUT for Friday's (Apr. 4) game against Sacramento."
+            },
+            {
+                "Player": "Seth Curry",
+                "Team": "Charlotte Hornets",
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Back) - The Hornets listed Curry as Probable for Friday's (Apr. 4) game against Sacramento."
             },
             {
                 "Player": "Taj Gibson",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Illness) - Gibson did not play on Wednesday's (Apr. 2) game against the Pacers."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Illness) - The Hornets listed Gibson as Probable for Friday's (Apr. 4) game against Sacramento."
             },
             {
                 "Player": "Josh Green",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Shoulder) - Green did not return to the rest of Wednesday's (Apr. 2) game against the Pacers."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Out (Shoulder) - The Hornets listed Green as OUT for Friday's (Apr. 4) game against Sacramento."
             },
             {
                 "Player": "Tre Mann",
@@ -67,8 +73,8 @@
             {
                 "Player": "Nick Smith Jr.",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Ankle) - Smith did not play on Wednesday's (Apr. 2) game against the Pacers."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Ankle) - The Hornets listed Smith Jr. as Questionable for Friday's (Apr. 4) game against Sacramento."
             },
             {
                 "Player": "Grant Williams",
@@ -130,7 +136,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "22",
                 "FG": "28",
                 "FGA": "17",
                 "FG%": "30",
@@ -144,7 +150,7 @@
                 "FTA": "28",
                 "FT%": "14",
                 "ORB": "6",
-                "DRB": "20",
+                "DRB": "19",
                 "TRB": "6",
                 "AST": "26",
                 "STL": "26",
@@ -230,13 +236,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
-                "FG": "13",
+                "MP": "22",
+                "FG": "14",
                 "FGA": "15",
                 "FG%": "15",
                 "3P": "20",
                 "3PA": "26",
-                "3P%": "7",
+                "3P%": "9",
                 "2P": "8",
                 "2PA": "5",
                 "2P%": "24",
@@ -284,7 +290,7 @@
                 "PW": "20",
                 "PL": "56",
                 "MOV": "-8.07",
-                "SOS": "-0.22",
+                "SOS": "-0.21",
                 "SRS": "-8.28",
                 "ORtg": "107.8",
                 "DRtg": "116.0",
@@ -305,7 +311,7 @@
                 "PW": "27",
                 "PL": "27",
                 "MOV": "27",
-                "SOS": "24",
+                "SOS": "23",
                 "SRS": "29",
                 "ORtg": "29",
                 "DRtg": "22",
@@ -316,12 +322,12 @@
                 "TOV%": "21",
                 "ORB%": "6",
                 "FT/FGA": "18",
-                "DRB%": "18",
+                "DRB%": "17",
                 "Arena": "",
                 "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/CHO-2025.png",
-        "last_update": "Apr 03 2025 22:32:19"
+        "last_update": "Apr 04 2025 22:32:21"
     }
 }
