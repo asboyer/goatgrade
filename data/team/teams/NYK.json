@@ -31,8 +31,8 @@
             {
                 "Player": "Jalen Brunson",
                 "Team": "New York Knicks",
-                "Update": "Thu, Apr 3, 2025",
-                "Description": "Out (Ankle) - Brunson (ankle) is expected to be listed as questionable for Saturday's game against the Hawks, NBA reporter Chris Haynes reports."
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Out (Ankle) - Brunson participated in Friday's (Apr. 4) practice, according to James L. Edwards III of The Athletic."
             },
             {
                 "Player": "Ariel Hukporti",
@@ -43,14 +43,14 @@
             {
                 "Player": "Miles McBride",
                 "Team": "New York Knicks",
-                "Update": "Wed, Apr 2, 2025",
+                "Update": "Thu, Apr 3, 2025",
                 "Description": "Day To Day (Groin) - McBride did not play on Wednesday's (Apr. 2) game against the Cavaliers."
             },
             {
                 "Player": "Cameron Payne",
                 "Team": "New York Knicks",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Ankle) - Payne did not play on Wednesday's (Apr. 2) game against the Cavaliers."
+                "Update": "Thu, Apr 3, 2025",
+                "Description": "Day To Day (Ankle) - Payne did not play in Wednesday's (Apr. 2) game against the Cavaliers."
             }
         ],
         "team_stats": {
@@ -106,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "28",
                 "FG": "6",
                 "FGA": "18",
                 "FG%": "4",
@@ -118,7 +118,7 @@
                 "2P%": "6",
                 "FT": "21",
                 "FTA": "24",
-                "FT%": "5",
+                "FT%": "6",
                 "ORB": "19",
                 "DRB": "25",
                 "TRB": "24",
@@ -206,7 +206,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "28",
                 "FG": "17",
                 "FGA": "10",
                 "FG%": "23",
@@ -219,14 +219,14 @@
                 "FT": "4",
                 "FTA": "4",
                 "FT%": "26",
-                "ORB": "12",
+                "ORB": "11",
                 "DRB": "2",
-                "TRB": "2",
+                "TRB": "3",
                 "AST": "7",
                 "STL": "3",
                 "BLK": "17",
                 "TOV": "15",
-                "PF": "15",
+                "PF": "14",
                 "PTS": "10"
             },
             "Opp Year/Year": {
@@ -278,10 +278,10 @@
             "Misc Lg Rank": {
                 "W": "5",
                 "L": "26",
-                "PW": "7",
-                "PL": "7",
-                "MOV": "7",
-                "SOS": "28",
+                "PW": "9",
+                "PL": "8",
+                "MOV": "8",
+                "SOS": "27",
                 "SRS": "9",
                 "ORtg": "5",
                 "DRtg": "13",
@@ -289,15 +289,15 @@
                 "FTr": "25",
                 "3PAr": "28",
                 "eFG%": "21",
-                "TOV%": "13",
+                "TOV%": "12",
                 "ORB%": "12",
                 "FT/FGA": "5",
-                "DRB%": "20",
+                "DRB%": "19",
                 "Arena": "",
                 "Attendance": "4"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/NYK-2025.png",
-        "last_update": "Apr 04 2025 22:32:21"
+        "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/NYK-2025.png",
+        "last_update": "Apr 05 2025 22:32:19"
     }
 }

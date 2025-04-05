@@ -37,8 +37,8 @@
             {
                 "Player": "Cameron Johnson",
                 "Team": "Brooklyn Nets",
-                "Update": "Thu, Apr 3, 2025",
-                "Description": "Day To Day (Back) - Johnson did not play on Thursday's (Apr. 3) game against the Timberwolves."
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Day To Day (Back) - Johnson did not play in Thursday's (Apr. 3) game against the Timberwolves."
             },
             {
                 "Player": "De'Anthony Melton",
@@ -61,14 +61,14 @@
             {
                 "Player": "Ziaire Williams",
                 "Team": "Brooklyn Nets",
-                "Update": "Thu, Apr 3, 2025",
-                "Description": "Day To Day (Rest) - Williams did not play on Thursday's (Apr. 3) game against the Timberwolves."
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Day To Day (Rest) - Williams did not play in Thursday's (Apr. 3) game against the Timberwolves."
             },
             {
                 "Player": "Jalen Wilson",
                 "Team": "Brooklyn Nets",
-                "Update": "Thu, Apr 3, 2025",
-                "Description": "Day To Day (Ankle) - Wilson did not play on Thursday's (Apr. 3) game against the Timberwolves."
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Day To Day (Ankle) - Wilson did not play in Thursday's (Apr. 3) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -124,20 +124,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "15",
                 "FG": "30",
                 "FGA": "25",
                 "FG%": "29",
                 "3P": "13",
-                "3PA": "7",
+                "3PA": "8",
                 "3P%": "26",
                 "2P": "29",
                 "2PA": "29",
                 "2P%": "29",
                 "FT": "25",
                 "FTA": "25",
-                "FT%": "10",
-                "ORB": "17",
+                "FT%": "11",
+                "ORB": "16",
                 "DRB": "29",
                 "TRB": "29",
                 "AST": "24",
@@ -224,7 +224,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "15",
                 "FG": "5",
                 "FGA": "2",
                 "FG%": "27",
@@ -236,7 +236,7 @@
                 "2P%": "27",
                 "FT": "24",
                 "FTA": "24",
-                "FT%": "17",
+                "FT%": "18",
                 "ORB": "4",
                 "DRB": "19",
                 "TRB": "12",
@@ -244,7 +244,7 @@
                 "STL": "13",
                 "BLK": "27",
                 "TOV": "10",
-                "PF": "14",
+                "PF": "13",
                 "PTS": "9"
             },
             "Opp Year/Year": {
@@ -299,23 +299,23 @@
                 "PW": "26",
                 "PL": "26",
                 "MOV": "26",
-                "SOS": "8",
+                "SOS": "10",
                 "SRS": "26",
                 "ORtg": "28",
                 "DRtg": "19",
                 "Pace": "27",
-                "FTr": "19",
-                "3PAr": "4",
+                "FTr": "20",
+                "3PAr": "5",
                 "eFG%": "25",
                 "TOV%": "6",
                 "ORB%": "18",
                 "FT/FGA": "28",
-                "DRB%": "14",
+                "DRB%": "13",
                 "Arena": "",
                 "Attendance": "26"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/BRK-2025.png",
-        "last_update": "Apr 04 2025 22:32:21"
+        "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/BRK-2025.png",
+        "last_update": "Apr 05 2025 22:32:19"
     }
 }

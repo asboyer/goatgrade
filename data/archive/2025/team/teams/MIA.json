@@ -2,7 +2,7 @@
     "MIA": {
         "info": {
             "record": "35-42",
-            "standing": "9th in East",
+            "standing": "10th in East",
             "coach": "Erik Spoelstra (35-42)",
             "gm": "Pat Riley",
             "preseason_odds": "+4000"
@@ -29,22 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Tyler Herro",
+                "Team": "Miami Heat",
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Day To Day (Thigh) - The Heat listed Herro as questionable on Saturday's (Apr. 5) game vs the Bucks."
+            },
+            {
                 "Player": "Nikola Jović",
                 "Team": "Miami Heat",
-                "Update": "Thu, Apr 3, 2025",
-                "Description": "Day To Day (Hand) - Jovic did not play on Thursday's (Apr. 3) game against the Grizzlies."
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Day To Day (Hand) - Jovic did not play in Thursday's (Apr. 3) game against the Grizzlies."
             },
             {
                 "Player": "Kevin Love",
                 "Team": "Miami Heat",
-                "Update": "Thu, Apr 3, 2025",
-                "Description": "Day To Day (Personal) - Love did not play on Thursday's (Apr. 3) game against the Grizzlies."
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Out (Personal) - The Heat listed Love as out for Saturday's (Apr. 5) game vs the Bucks."
             },
             {
                 "Player": "Terry Rozier",
                 "Team": "Miami Heat",
-                "Update": "Thu, Apr 3, 2025",
-                "Description": "Day To Day (Illness) - Rozier did not play on Thursday's (Apr. 3) game against the Grizzlies."
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Day To Day (Illness) - Rozier did not play in Thursday's (Apr. 3) game against the Grizzlies."
             },
             {
                 "Player": "Dru Smith",
@@ -55,8 +61,8 @@
             {
                 "Player": "Andrew Wiggins",
                 "Team": "Miami Heat",
-                "Update": "Thu, Apr 3, 2025",
-                "Description": "Day To Day (Hamstring) - Wiggins did not play on Thursday's (Apr. 3) game against the Grizzlies."
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Out (Hamstring) - The Heat announced that Wiggins will be out for Saturday's (Apr. 5) game against the Bucks."
             }
         ],
         "team_stats": {
@@ -112,26 +118,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "8",
                 "FG": "25",
                 "FGA": "24",
-                "FG%": "18",
+                "FG%": "19",
                 "3P": "12",
                 "3PA": "16",
-                "3P%": "14",
+                "3P%": "13",
                 "2P": "25",
-                "2PA": "24",
+                "2PA": "23",
                 "2P%": "21",
                 "FT": "26",
                 "FTA": "27",
-                "FT%": "9",
-                "ORB": "27",
+                "FT%": "8",
+                "ORB": "26",
                 "DRB": "11",
-                "TRB": "23",
+                "TRB": "22",
                 "AST": "15",
                 "STL": "14",
                 "BLK": "30",
-                "TOV": "10",
+                "TOV": "9",
                 "PF": "1",
                 "PTS": "25"
             },
@@ -212,10 +218,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "8",
                 "FG": "11",
                 "FGA": "13",
-                "FG%": "13",
+                "FG%": "12",
                 "3P": "18",
                 "3PA": "18",
                 "3P%": "13",
@@ -224,10 +230,10 @@
                 "2P%": "17",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "14",
+                "FT%": "13",
                 "ORB": "10",
                 "DRB": "26",
-                "TRB": "20",
+                "TRB": "19",
                 "AST": "15",
                 "STL": "8",
                 "BLK": "13",
@@ -266,8 +272,8 @@
                 "PW": "38",
                 "PL": "38",
                 "MOV": "0.00",
-                "SOS": "-0.12",
-                "SRS": "-0.12",
+                "SOS": "-0.13",
+                "SRS": "-0.13",
                 "ORtg": "113.0",
                 "DRtg": "113.0",
                 "Pace": "96.0",
@@ -284,15 +290,15 @@
             "Misc Lg Rank": {
                 "W": "19",
                 "L": "10",
-                "PW": "15",
+                "PW": "16",
                 "PL": "16",
-                "MOV": "15",
+                "MOV": "16",
                 "SOS": "22",
                 "SRS": "17",
                 "ORtg": "21",
                 "DRtg": "10",
-                "Pace": "30",
-                "FTr": "21",
+                "Pace": "29",
+                "FTr": "22",
                 "3PAr": "11",
                 "eFG%": "17",
                 "TOV%": "17",
@@ -303,7 +309,7 @@
                 "Attendance": "5"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/MIA-2025.png",
-        "last_update": "Apr 04 2025 22:32:21"
+        "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/MIA-2025.png",
+        "last_update": "Apr 05 2025 22:32:19"
     }
 }

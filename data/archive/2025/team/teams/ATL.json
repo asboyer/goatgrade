@@ -55,14 +55,14 @@
             {
                 "Player": "Jacob Toppin",
                 "Team": "Atlanta Hawks",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Calf) - Toppin did not play on Wednesday's (Apr. 2) game against the Mavericks."
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Out (Calf) - The Hawks listed Toppin as Out on Saturday's (Apr. 5) game against the Knicks."
             },
             {
-                "Player": "Keaton Wallace",
+                "Player": "Trae Young",
                 "Team": "Atlanta Hawks",
-                "Update": "Wed, Apr 2, 2025",
-                "Description": "Day To Day (Shoulder) - Wallace did not play on Wednesday's (Apr. 2) game against the Mavericks."
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as Probable on Saturday's (Apr. 5) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -118,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "19",
+                "MP": "29",
                 "FG": "7",
                 "FGA": "5",
                 "FG%": "14",
@@ -131,12 +131,12 @@
                 "FT": "3",
                 "FTA": "1",
                 "FT%": "19",
-                "ORB": "8",
+                "ORB": "9",
                 "DRB": "22",
-                "TRB": "13",
+                "TRB": "14",
                 "AST": "2",
                 "STL": "2",
-                "BLK": "10",
+                "BLK": "11",
                 "TOV": "26",
                 "PF": "22",
                 "PTS": "5"
@@ -218,22 +218,22 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "19",
-                "FG": "25",
-                "FGA": "19",
-                "FG%": "29",
+                "MP": "29",
+                "FG": "26",
+                "FGA": "21",
+                "FG%": "28",
                 "3P": "22",
                 "3PA": "15",
                 "3P%": "28",
-                "2P": "25",
+                "2P": "24",
                 "2PA": "21",
                 "2P%": "26",
-                "FT": "26",
+                "FT": "25",
                 "FTA": "23",
                 "FT%": "30",
                 "ORB": "5",
-                "DRB": "22",
-                "TRB": "15",
+                "DRB": "23",
+                "TRB": "14",
                 "AST": "24",
                 "STL": "27",
                 "BLK": "15",
@@ -272,8 +272,8 @@
                 "PW": "34",
                 "PL": "42",
                 "MOV": "-1.75",
-                "SOS": "-0.03",
-                "SRS": "-1.78",
+                "SOS": "-0.04",
+                "SRS": "-1.79",
                 "ORtg": "113.9",
                 "DRtg": "115.6",
                 "Pace": "102.8",
@@ -288,20 +288,20 @@
                 "Attendance": "607,369"
             },
             "Misc Lg Rank": {
-                "W": "17",
+                "W": "18",
                 "L": "13",
                 "PW": "19",
                 "PL": "19",
                 "MOV": "19",
-                "SOS": "19",
+                "SOS": "17",
                 "SRS": "19",
                 "ORtg": "19",
                 "DRtg": "18",
                 "Pace": "3",
-                "FTr": "9",
+                "FTr": "8",
                 "3PAr": "19",
                 "eFG%": "28",
-                "TOV%": "4",
+                "TOV%": "5",
                 "ORB%": "11",
                 "FT/FGA": "22",
                 "DRB%": "9",
@@ -309,7 +309,7 @@
                 "Attendance": "30"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/ATL-2025.png",
-        "last_update": "Apr 04 2025 22:32:21"
+        "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/ATL-2025.png",
+        "last_update": "Apr 05 2025 22:32:19"
     }
 }

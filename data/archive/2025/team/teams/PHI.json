@@ -26,14 +26,15 @@
             "Lonnie Walker IV",
             "Alex Reese",
             "Jalen Hood-Schifino",
-            "Phillip Wheeler"
+            "Phillip Wheeler",
+            "Colin Castleton"
         ],
         "injuries": [
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Thu, Apr 3, 2025",
-                "Description": "Day To Day (Toe) - Drummond did not play on Thursday's (Apr. 3) game against the Bucks."
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Day To Day (Toe) - Drummond did not play in Thursday's (Apr. 3) game against the Bucks."
             },
             {
                 "Player": "Joel Embiid",
@@ -56,8 +57,8 @@
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Thu, Apr 3, 2025",
-                "Description": "Day To Day (Hip) - Lowry did not play on Thursday's (Apr. 3) game against the Bucks."
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Out (Hip) - The 76ers listed Lowry as Out on Saturday's (Apr. 5) game against the Timberwolves."
             },
             {
                 "Player": "Tyrese Maxey",
@@ -74,14 +75,8 @@
             {
                 "Player": "Kelly Oubre Jr.",
                 "Team": "Philadelphia 76ers",
-                "Update": "Thu, Apr 3, 2025",
-                "Description": "Day To Day (Knee) - Oubre Jr. did not play on Thursday's (Apr. 3) game against the Bucks."
-            },
-            {
-                "Player": "Lonnie Walker IV",
-                "Team": "Philadelphia 76ers",
-                "Update": "Thu, Apr 3, 2025",
-                "Description": "Day To Day (Ankle) - Walker IV did not return on Thursday's (Apr. 3) game against the Bucks."
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Out (Knee) - The 76ers listed Oubre Jr. as Out on Saturday's (Apr. 5) game against the Timberwolves."
             }
         ],
         "team_stats": {
@@ -137,11 +132,11 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "12",
                 "FG": "26",
                 "FGA": "23",
                 "FG%": "21",
-                "3P": "22",
+                "3P": "21",
                 "3PA": "17",
                 "3P%": "27",
                 "2P": "20",
@@ -153,7 +148,7 @@
                 "ORB": "23",
                 "DRB": "30",
                 "TRB": "30",
-                "AST": "28",
+                "AST": "29",
                 "STL": "4",
                 "BLK": "25",
                 "TOV": "8",
@@ -237,7 +232,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "12",
                 "FG": "20",
                 "FGA": "4",
                 "FG%": "30",
@@ -246,7 +241,7 @@
                 "3P%": "29",
                 "2P": "17",
                 "2PA": "4",
-                "2P%": "29",
+                "2P%": "28",
                 "FT": "14",
                 "FTA": "10",
                 "FT%": "28",
@@ -255,9 +250,9 @@
                 "TRB": "25",
                 "AST": "25",
                 "STL": "5",
-                "BLK": "18",
+                "BLK": "19",
                 "TOV": "4",
-                "PF": "16",
+                "PF": "17",
                 "PTS": "21"
             },
             "Opp Year/Year": {
@@ -314,21 +309,21 @@
                 "MOV": "25",
                 "SOS": "14",
                 "SRS": "25",
-                "ORtg": "23",
+                "ORtg": "22",
                 "DRtg": "26",
                 "Pace": "24",
                 "FTr": "5",
-                "3PAr": "14",
+                "3PAr": "15",
                 "eFG%": "30",
                 "TOV%": "3",
                 "ORB%": "23",
-                "FT/FGA": "19",
+                "FT/FGA": "20",
                 "DRB%": "30",
                 "Arena": "",
                 "Attendance": "3"
             }
         },
-        "image_url": "https://cdn.ssref.net/req/202503281/tlogo/bbr/PHI-2025.png",
-        "last_update": "Apr 04 2025 22:32:21"
+        "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/PHI-2025.png",
+        "last_update": "Apr 05 2025 22:32:19"
     }
 }
