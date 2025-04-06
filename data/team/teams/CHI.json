@@ -31,8 +31,8 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Wrist) - Ball did not play on Friday's (Apr. 4) game against Portland."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Wrist) - The Bulls listed Ball as Questionable for Sunday's (Apr. 6) game against the Hornets."
             },
             {
                 "Player": "Ayo Dosunmu",
@@ -45,6 +45,12 @@
                 "Team": "Chicago Bulls",
                 "Update": "Sat, Mar 22, 2025",
                 "Description": "Out (Foot) - The Bulls announced on Saturday (Mar. 22) that Jones has been diagnosed with a left foot sprain and will be re-evaluated in two weeks."
+            },
+            {
+                "Player": "Dalen Terry",
+                "Team": "Chicago Bulls",
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Illness) - The Bulls listed Terry as Probable for Sunday's (Apr. 6) game against the Hornets."
             }
         ],
         "team_stats": {
@@ -100,13 +106,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "8",
                 "FGA": "4",
                 "FG%": "15",
                 "3P": "3",
                 "3PA": "3",
-                "3P%": "12",
+                "3P%": "11",
                 "2P": "18",
                 "2PA": "20",
                 "2P%": "12",
@@ -200,11 +206,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "30",
                 "FGA": "30",
                 "FG%": "17",
-                "3P": "17",
+                "3P": "18",
                 "3PA": "27",
                 "3P%": "2",
                 "2P": "30",
@@ -271,11 +277,11 @@
             },
             "Misc Lg Rank": {
                 "W": "19",
-                "L": "10",
+                "L": "11",
                 "PW": "20",
                 "PL": "20",
                 "MOV": "20",
-                "SOS": "16",
+                "SOS": "18",
                 "SRS": "22",
                 "ORtg": "20",
                 "DRtg": "23",
@@ -285,13 +291,13 @@
                 "eFG%": "14",
                 "TOV%": "29",
                 "ORB%": "28",
-                "FT/FGA": "6",
+                "FT/FGA": "8",
                 "DRB%": "4",
                 "Arena": "",
                 "Attendance": "1"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/CHI-2025.png",
-        "last_update": "Apr 05 2025 22:32:19"
+        "last_update": "Apr 06 2025 22:32:18"
     }
 }

@@ -37,8 +37,8 @@
             {
                 "Player": "Jeremy Sochan",
                 "Team": "San Antonio Spurs",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Back) - Sochan did not play on Friday's (Apr. 4) game against Cleveland."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Out (Back) - The Spurs listed Sochan as OUT for Sunday's (Apr. 6) game against Portland."
             },
             {
                 "Player": "Victor Wembanyama",
@@ -100,14 +100,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
-                "FG": "13",
+                "MP": "24",
+                "FG": "14",
                 "FGA": "12",
                 "FG%": "17",
                 "3P": "8",
                 "3PA": "6",
                 "3P%": "18",
-                "2P": "16",
+                "2P": "17",
                 "2PA": "18",
                 "2P%": "13",
                 "FT": "23",
@@ -119,7 +119,7 @@
                 "AST": "6",
                 "STL": "11",
                 "BLK": "4",
-                "TOV": "9",
+                "TOV": "10",
                 "PF": "3",
                 "PTS": "17"
             },
@@ -200,13 +200,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "24",
                 "FG": "28",
                 "FGA": "26",
                 "FG%": "24",
-                "3P": "25",
+                "3P": "26",
                 "3PA": "25",
-                "3P%": "18",
+                "3P%": "19",
                 "2P": "28",
                 "2PA": "23",
                 "2P%": "23",
@@ -254,8 +254,8 @@
                 "PW": "32",
                 "PL": "45",
                 "MOV": "-2.61",
-                "SOS": "0.35",
-                "SRS": "-2.26",
+                "SOS": "0.34",
+                "SRS": "-2.27",
                 "ORtg": "114.5",
                 "DRtg": "117.1",
                 "Pace": "99.3",
@@ -275,11 +275,11 @@
                 "PW": "22",
                 "PL": "22",
                 "MOV": "22",
-                "SOS": "6",
+                "SOS": "5",
                 "SRS": "21",
-                "ORtg": "17",
+                "ORtg": "18",
                 "DRtg": "25",
-                "Pace": "13",
+                "Pace": "12",
                 "FTr": "24",
                 "3PAr": "8",
                 "eFG%": "24",
@@ -288,10 +288,10 @@
                 "FT/FGA": "2",
                 "DRB%": "26",
                 "Arena": "",
-                "Attendance": "14"
+                "Attendance": "15"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/SAS-2025.png",
-        "last_update": "Apr 05 2025 22:32:19"
+        "last_update": "Apr 06 2025 22:32:18"
     }
 }

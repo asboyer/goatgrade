@@ -38,14 +38,14 @@
             {
                 "Player": "Damion Baugh",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Hip) - Baugh did not play on Friday's (Apr. 4) game against the Kings."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Out (Hip) - The Hornets listed Baugh as OUT for Sunday's (Apr. 6) game against Chicago."
             },
             {
                 "Player": "Josh Green",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Shoulder) - Green did not play on Friday's (Apr. 4) game against the Kings."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Out (Shoulder) - The Hornets listed Green as OUT for Sunday's (Apr. 6) game against Chicago."
             },
             {
                 "Player": "Tre Mann",
@@ -62,8 +62,8 @@
             {
                 "Player": "Nick Smith Jr.",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Ankle) - Smith Jr. did not play on Friday's (Apr. 4) game against the Kings."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Out (Ankle) - The Hornets listed Smith Jr. as OUT for Sunday's (Apr. 6) game against Chicago."
             },
             {
                 "Player": "Grant Williams",
@@ -74,8 +74,8 @@
             {
                 "Player": "Mark Williams",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Back) - Williams did not play on for Friday's (Apr. 4) game against the Kings."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Out (Back) - The Hornets listed Williams as OUT for Sunday's (Apr. 6) game against Chicago."
             }
         ],
         "team_stats": {
@@ -131,7 +131,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "28",
                 "FGA": "17",
                 "FG%": "30",
@@ -231,7 +231,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "14",
                 "FGA": "15",
                 "FG%": "15",
@@ -250,7 +250,7 @@
                 "AST": "16",
                 "STL": "20",
                 "BLK": "23",
-                "TOV": "24",
+                "TOV": "23",
                 "PF": "23",
                 "PTS": "15"
             },
@@ -317,12 +317,12 @@
                 "TOV%": "21",
                 "ORB%": "7",
                 "FT/FGA": "18",
-                "DRB%": "17",
+                "DRB%": "18",
                 "Arena": "",
                 "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/CHO-2025.png",
-        "last_update": "Apr 05 2025 22:32:19"
+        "last_update": "Apr 06 2025 22:32:18"
     }
 }

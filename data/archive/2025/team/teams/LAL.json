@@ -34,10 +34,10 @@
                 "Description": "Day To Day (Knee) - Hachimura did not play on Friday's (Apr. 4) game against the Pelicans."
             },
             {
-                "Player": "Bronny James",
+                "Player": "LeBron James",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Illness) - James Jr. did not play on Friday's (Apr. 4) game against the Pelicans."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Groin) - The Lakers listed James as Probable for Sunday's (Apr. 6) game against Oklahoma City."
             },
             {
                 "Player": "Maxi Kleber",
@@ -99,23 +99,23 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "24",
                 "FG": "20",
                 "FGA": "30",
                 "FG%": "11",
                 "3P": "17",
                 "3PA": "19",
-                "3P%": "17",
-                "2P": "15",
-                "2PA": "22",
+                "3P%": "16",
+                "2P": "16",
+                "2PA": "23",
                 "2P%": "5",
                 "FT": "2",
                 "FTA": "4",
                 "FT%": "10",
-                "ORB": "26",
+                "ORB": "27",
                 "DRB": "20",
                 "TRB": "26",
-                "AST": "17",
+                "AST": "16",
                 "STL": "24",
                 "BLK": "22",
                 "TOV": "11",
@@ -199,12 +199,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "21",
+                "MP": "24",
                 "FG": "13",
                 "FGA": "16",
                 "FG%": "10",
                 "3P": "15",
-                "3PA": "17",
+                "3PA": "18",
                 "3P%": "10",
                 "2P": "14",
                 "2PA": "13",
@@ -212,9 +212,9 @@
                 "FT": "6",
                 "FTA": "7",
                 "FT%": "16",
-                "ORB": "14",
-                "DRB": "8",
-                "TRB": "8",
+                "ORB": "15",
+                "DRB": "9",
+                "TRB": "9",
                 "AST": "22",
                 "STL": "17",
                 "BLK": "4",
@@ -274,11 +274,11 @@
                 "PW": "14",
                 "PL": "14",
                 "MOV": "14",
-                "SOS": "21",
+                "SOS": "22",
                 "SRS": "14",
                 "ORtg": "11",
                 "DRtg": "15",
-                "Pace": "20",
+                "Pace": "21",
                 "FTr": "1",
                 "3PAr": "13",
                 "eFG%": "11",
@@ -291,6 +291,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/LAL-2025.png",
-        "last_update": "Apr 05 2025 22:32:19"
+        "last_update": "Apr 06 2025 22:32:18"
     }
 }

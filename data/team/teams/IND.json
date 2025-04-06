@@ -33,6 +33,18 @@
                 "Team": "Indiana Pacers",
                 "Update": "Sat, Nov 2, 2024",
                 "Description": "Out For Season (Calf) - The Indiana Pacers announced C Isaiah Jackson has sustained a torn right Achilles tendon in Friday's (Nov. 1) game versus the Pelicans and will be out for the remainder of the season, per Shams Charania of ESPN."
+            },
+            {
+                "Player": "Ben Sheppard",
+                "Team": "Indiana Pacers",
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Toe) - The Indiana Pacers listed Sheppard as Doubtful for Sunday's (Apr. 6) game against Denver."
+            },
+            {
+                "Player": "Pascal Siakam",
+                "Team": "Indiana Pacers",
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Bursitis) - The Indiana Pacers listed Siakam as OUT for Sunday's (Apr. 6) game against Denver."
             }
         ],
         "team_stats": {
@@ -88,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "17",
                 "FG": "5",
                 "FGA": "19",
                 "FG%": "3",
@@ -104,7 +116,7 @@
                 "ORB": "29",
                 "DRB": "24",
                 "TRB": "28",
-                "AST": "3",
+                "AST": "2",
                 "STL": "9",
                 "BLK": "8",
                 "TOV": "5",
@@ -188,11 +200,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "17",
                 "FG": "21",
                 "FGA": "18",
                 "FG%": "25",
-                "3P": "6",
+                "3P": "8",
                 "3PA": "8",
                 "3P%": "11",
                 "2P": "27",
@@ -261,7 +273,7 @@
                 "W": "8",
                 "L": "22",
                 "PW": "12",
-                "PL": "12",
+                "PL": "11",
                 "MOV": "11",
                 "SOS": "29",
                 "SRS": "13",
@@ -276,10 +288,10 @@
                 "FT/FGA": "19",
                 "DRB%": "21",
                 "Arena": "",
-                "Attendance": "28"
+                "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/IND-2025.png",
-        "last_update": "Apr 05 2025 22:32:19"
+        "last_update": "Apr 06 2025 22:32:18"
     }
 }

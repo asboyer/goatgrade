@@ -27,7 +27,14 @@
             "N'Faly Dante",
             "David Roddy"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Jabari Smith Jr.",
+                "Team": "Houston Rockets",
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Ankle) - The Rockets listed Smith Jr. as Questionable for Sunday's (Apr. 6) game against Warriors."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "78",
@@ -81,27 +88,27 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "7",
                 "FG": "11",
                 "FGA": "1",
                 "FG%": "24",
                 "3P": "24",
                 "3PA": "20",
                 "3P%": "21",
-                "2P": "9",
+                "2P": "7",
                 "2PA": "1",
                 "2P%": "28",
                 "FT": "16",
-                "FTA": "5",
+                "FTA": "6",
                 "FT%": "30",
                 "ORB": "1",
                 "DRB": "7",
                 "TRB": "1",
-                "AST": "28",
+                "AST": "29",
                 "STL": "10",
                 "BLK": "13",
                 "TOV": "13",
-                "PF": "21",
+                "PF": "20",
                 "PTS": "14"
             },
             "Year/Year": {
@@ -181,13 +188,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "7",
                 "FG": "4",
                 "FGA": "12",
-                "FG%": "4",
+                "FG%": "5",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "7",
+                "3P%": "8",
                 "2P": "18",
                 "2PA": "27",
                 "2P%": "3",
@@ -196,7 +203,7 @@
                 "FT%": "1",
                 "ORB": "9",
                 "DRB": "3",
-                "TRB": "2",
+                "TRB": "3",
                 "AST": "2",
                 "STL": "11",
                 "BLK": "28",
@@ -235,8 +242,8 @@
                 "PW": "52",
                 "PL": "26",
                 "MOV": "5.42",
-                "SOS": "0.31",
-                "SRS": "5.73",
+                "SOS": "0.30",
+                "SRS": "5.72",
                 "ORtg": "115.5",
                 "DRtg": "110.0",
                 "Pace": "98.6",
@@ -256,7 +263,7 @@
                 "PW": "4",
                 "PL": "4",
                 "MOV": "4",
-                "SOS": "7",
+                "SOS": "6",
                 "SRS": "4",
                 "ORtg": "12",
                 "DRtg": "4",
@@ -267,12 +274,12 @@
                 "TOV%": "15",
                 "ORB%": "1",
                 "FT/FGA": "12",
-                "DRB%": "7",
+                "DRB%": "6",
                 "Arena": "",
                 "Attendance": "17"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/HOU-2025.png",
-        "last_update": "Apr 05 2025 22:32:19"
+        "last_update": "Apr 06 2025 22:32:18"
     }
 }

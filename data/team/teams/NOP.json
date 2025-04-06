@@ -30,16 +30,22 @@
         ],
         "injuries": [
             {
+                "Player": "Jose Alvarado",
+                "Team": "New Orleans Pelicans",
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Calf) - The Pelicans listed Alvarado as Questionable for Sunday's (Apr. 6) game against Milwaukee."
+            },
+            {
                 "Player": "Brandon Boston Jr.",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Ankle) - Boston Jr. did not play on Friday's (Apr. 4) matchup against the Lakers."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Out (Ankle) - The Pelicans listed Boston Jr. as OUT for Sunday's (Apr. 6) game against Milwaukee."
             },
             {
                 "Player": "Jordan Hawkins",
                 "Team": "New Orleans Pelicans",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Back) - Hawkins did not play on Friday's (Apr. 4) game against the Lakers."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Out (Back) - The Pelicans listed Hawkins as OUT for Sunday's (Apr. 6) game against Milwaukee."
             },
             {
                 "Player": "Herbert Jones",
@@ -64,6 +70,12 @@
                 "Team": "New Orleans Pelicans",
                 "Update": "Fri, Jan 31, 2025",
                 "Description": "Out For Season (Leg) - Murray suffered a torn right Achilles tendon during Friday's (Jan. 31) game against the Celtics and will now miss the rest of the season, per Shams Charania of ESPN.com."
+            },
+            {
+                "Player": "Kelly Olynyk",
+                "Team": "New Orleans Pelicans",
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Out (Rest) - The Pelicans listed Olynyk as OUT for Sunday's (Apr. 6) game against Milwaukee."
             },
             {
                 "Player": "Zion Williamson",
@@ -125,18 +137,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "22",
                 "FGA": "15",
                 "FG%": "23",
                 "3P": "28",
-                "3PA": "26",
+                "3PA": "25",
                 "3P%": "23",
                 "2P": "13",
                 "2PA": "6",
                 "2P%": "26",
                 "FT": "22",
-                "FTA": "15",
+                "FTA": "16",
                 "FT%": "27",
                 "ORB": "7",
                 "DRB": "27",
@@ -225,10 +237,10 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "18",
+                "MP": "21",
                 "FG": "25",
                 "FGA": "19",
-                "FG%": "29",
+                "FG%": "28",
                 "3P": "28",
                 "3PA": "29",
                 "3P%": "23",
@@ -242,7 +254,7 @@
                 "DRB": "21",
                 "TRB": "27",
                 "AST": "27",
-                "STL": "23",
+                "STL": "24",
                 "BLK": "22",
                 "TOV": "17",
                 "PF": "25",
@@ -279,8 +291,8 @@
                 "PW": "20",
                 "PL": "57",
                 "MOV": "-8.77",
-                "SOS": "0.76",
-                "SRS": "-8.01",
+                "SOS": "0.75",
+                "SRS": "-8.02",
                 "ORtg": "110.8",
                 "DRtg": "119.6",
                 "Pace": "98.9",
@@ -310,13 +322,13 @@
                 "eFG%": "29",
                 "TOV%": "19",
                 "ORB%": "9",
-                "FT/FGA": "15",
+                "FT/FGA": "14",
                 "DRB%": "27",
                 "Arena": "",
-                "Attendance": "27"
+                "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/NOP-2025.png",
-        "last_update": "Apr 05 2025 22:32:19"
+        "last_update": "Apr 06 2025 22:32:18"
     }
 }

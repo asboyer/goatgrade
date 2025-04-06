@@ -29,34 +29,40 @@
         ],
         "injuries": [
             {
+                "Player": "Deni Avdija",
+                "Team": "Portland Trail Blazers",
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Thumb) - The Blazers listed Avdija as Questionable for Sunday's (Apr. 6) game against San Antonio."
+            },
+            {
                 "Player": "Deandre Ayton",
                 "Team": "Portland Trail Blazers",
-                "Update": "Thu, Apr 3, 2025",
-                "Description": "Out (Calf) - The Trail Blazers announced on Wednesday (Apr. 2) that Ayton has been ruled out for Thursday's (Apr. 3) game against the Raptors."
+                "Update": "Fri, Apr 4, 2025",
+                "Description": "Out (Calf) - The Trail Blazers announced on Friday (Apr. 4) that Ayton remains to be out indefinitely as the team hasn't released an update since his initial diagnosis."
             },
             {
                 "Player": "Toumani Camara",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Ankle) - Camara did not play on Friday's (Apr. 4) game versus the Bulls."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Ankle) - The Blazers listed Camara as Questionable for Sunday's (Apr. 6) game against San Antonio."
             },
             {
                 "Player": "Sidy Cissoko",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Ankle) - Cissoko did not play on Friday's (Apr. 4) game versus the Bulls."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Ankle) - The Blazers listed Cissoko as Questionable for Sunday's (Apr. 6) game against San Antonio."
             },
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Knee) - Grants did not play on Friday's (Apr. 4) game against the Bulls."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Knee) - The Blazers listed Grant as Doubtful for Sunday's (Apr. 6) game against San Antonio."
             },
             {
                 "Player": "Scoot Henderson",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Concussion Protocol) - Henderson did not play on Friday's (Apr. 4) game against the Bulls."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Out (Concussion) - The Blazers listed Henderson as OUT for Sunday's (Apr. 6) game against San Antonio."
             },
             {
                 "Player": "Bryce McGowens",
@@ -67,14 +73,14 @@
             {
                 "Player": "Duop Reath",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Knee) - Reath did not play on Friday's (Apr. 4) game against the Bulls."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Knee) - The Blazers listed Reath as Questionable for Sunday's (Apr. 6) game against San Antonio."
             },
             {
                 "Player": "Anfernee Simons",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Forearm) - Simons did not play on Friday's (Apr. 4 ) matchup against the Bulls."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Forearm) - The Blazers listed Simons as Questionable for Sunday's (Apr. 6) game against San Antonio."
             },
             {
                 "Player": "Robert Williams",
@@ -136,12 +142,12 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "11",
                 "FG": "23",
                 "FGA": "10",
                 "FG%": "26",
                 "3P": "19",
-                "3PA": "14",
+                "3PA": "13",
                 "3P%": "25",
                 "2P": "19",
                 "2PA": "14",
@@ -236,16 +242,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "11",
                 "FG": "18",
                 "FGA": "11",
                 "FG%": "22",
                 "3P": "4",
                 "3PA": "3",
-                "3P%": "16",
+                "3P%": "17",
                 "2P": "22",
                 "2PA": "22",
-                "2P%": "18",
+                "2P%": "17",
                 "FT": "22",
                 "FTA": "21",
                 "FT%": "29",
@@ -256,7 +262,7 @@
                 "STL": "29",
                 "BLK": "25",
                 "TOV": "6",
-                "PF": "7",
+                "PF": "6",
                 "PTS": "16"
             },
             "Opp Year/Year": {
@@ -290,8 +296,8 @@
                 "PW": "31",
                 "PL": "47",
                 "MOV": "-3.32",
-                "SOS": "0.44",
-                "SRS": "-2.88",
+                "SOS": "0.43",
+                "SRS": "-2.90",
                 "ORtg": "112.0",
                 "DRtg": "115.3",
                 "Pace": "98.7",
@@ -311,7 +317,7 @@
                 "PW": "23",
                 "PL": "23",
                 "MOV": "23",
-                "SOS": "3",
+                "SOS": "4",
                 "SRS": "23",
                 "ORtg": "23",
                 "DRtg": "17",
@@ -328,6 +334,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/POR-2025.png",
-        "last_update": "Apr 05 2025 22:32:19"
+        "last_update": "Apr 06 2025 22:32:18"
     }
 }

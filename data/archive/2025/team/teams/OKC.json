@@ -31,20 +31,14 @@
             {
                 "Player": "Ousmane Dieng",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Calf) - Dieng did not play on Friday's (Apr. 4) game against the Rockets."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Out (Calf) - The Thunder listed Williams as OUT for Sunday's (Apr. 6) game against the Lakers."
             },
             {
                 "Player": "Alex Ducas",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Quadriceps) - Ducas did not play on Friday's (Apr. 4) game against the Rockets."
-            },
-            {
-                "Player": "Isaiah Joe",
-                "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Knee) - Joe did not play on Friday's (Apr. 4) game versus the Rockets."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Out (Quadriceps) - The Thunder listed Ducas as OUT for Sunday's (Apr. 6) game against the Lakers."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -61,8 +55,8 @@
             {
                 "Player": "Jaylin Williams",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Ankle) - Williams did not play on Friday's (Apr. 4) game against the Rockets."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Out (Ankle) - The Thunder listed Williams as OUT for Sunday's (Apr. 6) game against the Lakers."
             }
         ],
         "team_stats": {
@@ -118,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "28",
                 "FG": "4",
                 "FGA": "3",
                 "FG%": "6",
@@ -218,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "24",
+                "MP": "28",
                 "FG": "1",
                 "FGA": "5",
                 "FG%": "1",
@@ -272,8 +266,8 @@
                 "PW": "64",
                 "PL": "13",
                 "MOV": "13.04",
-                "SOS": "0.06",
-                "SRS": "13.10",
+                "SOS": "0.05",
+                "SRS": "13.09",
                 "ORtg": "120.2",
                 "DRtg": "107.1",
                 "Pace": "100.0",
@@ -304,12 +298,12 @@
                 "TOV%": "2",
                 "ORB%": "21",
                 "FT/FGA": "26",
-                "DRB%": "15",
+                "DRB%": "16",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/OKC-2025.png",
-        "last_update": "Apr 05 2025 22:32:19"
+        "last_update": "Apr 06 2025 22:32:18"
     }
 }

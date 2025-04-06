@@ -28,10 +28,16 @@
         ],
         "injuries": [
             {
-                "Player": "Kristaps Porziņģis",
+                "Player": "Jaylen Brown",
                 "Team": "Boston Celtics",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Face) - Porzingis did not return on Friday's (Apr. 4) game against the Suns."
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Knee) - The Celtics listed Brown as Questionable for Sunday's (Apr. 6) game versus the Wizards."
+            },
+            {
+                "Player": "Jayson Tatum",
+                "Team": "Boston Celtics",
+                "Update": "Sat, Apr 5, 2025",
+                "Description": "Day To Day (Ankle) - The Celtics listed Tatum as Questionable for Sunday's (Apr. 6) game versus the Wizards."
             }
         ],
         "team_stats": {
@@ -87,19 +93,19 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "17",
                 "FG": "15",
                 "FGA": "11",
                 "FG%": "18",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "9",
+                "3P%": "10",
                 "2P": "30",
                 "2PA": "30",
                 "2P%": "3",
                 "FT": "29",
                 "FTA": "30",
-                "FT%": "5",
+                "FT%": "6",
                 "ORB": "11",
                 "DRB": "8",
                 "TRB": "9",
@@ -187,20 +193,20 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "17",
                 "FG": "7",
                 "FGA": "17",
                 "FG%": "2",
-                "3P": "5",
+                "3P": "6",
                 "3PA": "10",
                 "3P%": "5",
-                "2P": "11",
+                "2P": "10",
                 "2PA": "20",
-                "2P%": "4",
+                "2P%": "5",
                 "FT": "2",
                 "FTA": "2",
                 "FT%": "17",
-                "ORB": "7",
+                "ORB": "6",
                 "DRB": "14",
                 "TRB": "11",
                 "AST": "3",
@@ -242,7 +248,7 @@
                 "PL": "19",
                 "MOV": "8.94",
                 "SOS": "-0.53",
-                "SRS": "8.41",
+                "SRS": "8.40",
                 "ORtg": "120.8",
                 "DRtg": "111.6",
                 "Pace": "96.0",
@@ -273,12 +279,12 @@
                 "TOV%": "24",
                 "ORB%": "15",
                 "FT/FGA": "3",
-                "DRB%": "6",
+                "DRB%": "5",
                 "Arena": "",
                 "Attendance": "11"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/BOS-2025.png",
-        "last_update": "Apr 05 2025 22:32:19"
+        "last_update": "Apr 06 2025 22:32:18"
     }
 }
