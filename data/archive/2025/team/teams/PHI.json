@@ -33,14 +33,14 @@
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Apr 5, 2025",
-                "Description": "Day To Day (Toe) - Drummond did not play on Saturday's (Apr. 5) game against the Timberwolves."
+                "Update": "Sun, Apr 6, 2025",
+                "Description": "Out (Toe) - The 76ers listed Drummond as Out for Sunday's (Apr. 6) game against the Heat."
             },
             {
                 "Player": "Justin Edwards",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Apr 5, 2025",
-                "Description": "Day To Day (Ribs) - Edwards did not return to Saturday's game against the Timberwolves due to a rib contusion."
+                "Update": "Sun, Apr 6, 2025",
+                "Description": "Day To Day (Ribs) - The 76ers listed Edwards as Questionable for Sunday's (Apr. 6) game against the Heat."
             },
             {
                 "Player": "Joel Embiid",
@@ -63,8 +63,8 @@
             {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Apr 5, 2025",
-                "Description": "Day To Day (Hip) - Lowry did not play on Saturday's (Apr. 5) game against the Timberwolves."
+                "Update": "Sun, Apr 6, 2025",
+                "Description": "Day To Day (Hip) - The 76ers listed Lowry as Questionable for Sunday's (Apr. 6) game against the Heat."
             },
             {
                 "Player": "Tyrese Maxey",
@@ -81,8 +81,14 @@
             {
                 "Player": "Kelly Oubre Jr.",
                 "Team": "Philadelphia 76ers",
-                "Update": "Sat, Apr 5, 2025",
-                "Description": "Day To Day (Knee) - Oubre Jr. did not play on Saturday's (Apr. 5) game against the Timberwolves."
+                "Update": "Sun, Apr 6, 2025",
+                "Description": "Out (Knee) - The 76ers listed Oubre Jr. as Out for Sunday's (Apr. 6) game against the Heat."
+            },
+            {
+                "Player": "Guerschon Yabusele",
+                "Team": "Philadelphia 76ers",
+                "Update": "Sun, Apr 6, 2025",
+                "Description": "Out (Personal) - The 76ers listed Yabusele as Out for Sunday's (Apr. 6) game against the Heat."
             }
         ],
         "team_stats": {
@@ -138,25 +144,25 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "12",
                 "FG": "26",
                 "FGA": "23",
                 "FG%": "21",
                 "3P": "21",
                 "3PA": "17",
-                "3P%": "27",
+                "3P%": "26",
                 "2P": "20",
                 "2PA": "19",
-                "2P%": "19",
+                "2P%": "20",
                 "FT": "7",
                 "FTA": "11",
                 "FT%": "16",
                 "ORB": "23",
                 "DRB": "30",
                 "TRB": "30",
-                "AST": "28",
-                "STL": "4",
-                "BLK": "25",
+                "AST": "29",
+                "STL": "5",
+                "BLK": "26",
                 "TOV": "8",
                 "PF": "22",
                 "PTS": "26"
@@ -238,14 +244,14 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "12",
                 "FG": "20",
                 "FGA": "4",
                 "FG%": "30",
                 "3P": "24",
-                "3PA": "15",
+                "3PA": "14",
                 "3P%": "29",
-                "2P": "17",
+                "2P": "18",
                 "2PA": "4",
                 "2P%": "29",
                 "FT": "14",
@@ -256,8 +262,8 @@
                 "TRB": "24",
                 "AST": "25",
                 "STL": "5",
-                "BLK": "20",
-                "TOV": "4",
+                "BLK": "21",
+                "TOV": "3",
                 "PF": "17",
                 "PTS": "21"
             },
@@ -293,7 +299,7 @@
                 "PL": "53",
                 "MOV": "-6.21",
                 "SOS": "0.13",
-                "SRS": "-6.08",
+                "SRS": "-6.07",
                 "ORtg": "112.1",
                 "DRtg": "118.4",
                 "Pace": "97.2",
@@ -318,7 +324,7 @@
                 "ORtg": "22",
                 "DRtg": "26",
                 "Pace": "24",
-                "FTr": "6",
+                "FTr": "5",
                 "3PAr": "14",
                 "eFG%": "30",
                 "TOV%": "3",
@@ -326,10 +332,10 @@
                 "FT/FGA": "20",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "2"
+                "Attendance": "3"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/PHI-2025.png",
-        "last_update": "Apr 06 2025 22:32:18"
+        "last_update": "Apr 07 2025 22:32:21"
     }
 }

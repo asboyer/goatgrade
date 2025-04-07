@@ -31,14 +31,14 @@
             {
                 "Player": "Jalen Duren",
                 "Team": "Detroit Pistons",
-                "Update": "Sat, Apr 5, 2025",
-                "Description": "Out (Lower Leg) - The Pistons listed Duren as Out for Saturday's (Apr. 5) game against the Grizzlies."
+                "Update": "Sun, Apr 6, 2025",
+                "Description": "Day To Day (Lower Leg) - The Pistons listed Duren as Questionable for Sunday's (Apr. 6) game against the Kings."
             },
             {
                 "Player": "Tobias Harris",
                 "Team": "Detroit Pistons",
-                "Update": "Sat, Apr 5, 2025",
-                "Description": "Day To Day (Achilles) - Harris did not play on Saturday's (Apr. 5) game against the Grizzlies."
+                "Update": "Sun, Apr 6, 2025",
+                "Description": "Day To Day (Achilles) - The Pistons listed Harris as Questionable for Sunday's (Apr. 6) game against the Kings."
             },
             {
                 "Player": "Jaden Ivey",
@@ -100,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "15",
                 "FG": "10",
                 "FGA": "16",
                 "FG%": "13",
@@ -113,11 +113,11 @@
                 "FT": "8",
                 "FTA": "10",
                 "FT%": "17",
-                "ORB": "10",
+                "ORB": "11",
                 "DRB": "9",
                 "TRB": "10",
                 "AST": "14",
-                "STL": "18",
+                "STL": "17",
                 "BLK": "10",
                 "TOV": "22",
                 "PF": "28",
@@ -200,12 +200,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "7",
+                "MP": "15",
                 "FG": "5",
                 "FGA": "7",
                 "FG%": "8",
                 "3P": "16",
-                "3PA": "12",
+                "3PA": "13",
                 "3P%": "18",
                 "2P": "4",
                 "2PA": "9",
@@ -213,14 +213,14 @@
                 "FT": "29",
                 "FTA": "28",
                 "FT%": "8",
-                "ORB": "8",
-                "DRB": "6",
+                "ORB": "7",
+                "DRB": "7",
                 "TRB": "6",
                 "AST": "5",
                 "STL": "25",
                 "BLK": "16",
                 "TOV": "8",
-                "PF": "11",
+                "PF": "10",
                 "PTS": "14"
             },
             "Opp Year/Year": {
@@ -254,8 +254,8 @@
                 "PW": "44",
                 "PL": "34",
                 "MOV": "2.18",
-                "SOS": "-0.29",
-                "SRS": "1.89",
+                "SOS": "-0.28",
+                "SRS": "1.90",
                 "ORtg": "114.7",
                 "DRtg": "112.5",
                 "Pace": "99.9",
@@ -270,28 +270,28 @@
                 "Attendance": "722,597"
             },
             "Misc Lg Rank": {
-                "W": "13",
+                "W": "14",
                 "L": "17",
-                "PW": "11",
-                "PL": "13",
+                "PW": "12",
+                "PL": "12",
                 "MOV": "12",
-                "SOS": "25",
+                "SOS": "24",
                 "SRS": "11",
                 "ORtg": "16",
                 "DRtg": "9",
-                "Pace": "6",
+                "Pace": "5",
                 "FTr": "11",
                 "3PAr": "23",
                 "eFG%": "9",
                 "TOV%": "9",
                 "ORB%": "10",
                 "FT/FGA": "27",
-                "DRB%": "8",
+                "DRB%": "7",
                 "Arena": "",
-                "Attendance": "13"
+                "Attendance": "14"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/DET-2025.png",
-        "last_update": "Apr 06 2025 22:32:18"
+        "last_update": "Apr 07 2025 22:32:21"
     }
 }

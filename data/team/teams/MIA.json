@@ -29,22 +29,34 @@
         ],
         "injuries": [
             {
+                "Player": "Alec Burks",
+                "Team": "Miami Heat",
+                "Update": "Sun, Apr 6, 2025",
+                "Description": "Day To Day (Back) - The Heat listed Burks as Questionable for Monday's (Apr. 7) game against the 76ers."
+            },
+            {
                 "Player": "Tyler Herro",
                 "Team": "Miami Heat",
-                "Update": "Sat, Apr 5, 2025",
-                "Description": "Day To Day (Thigh) - Herro did not play on Saturday's (Apr. 5) game versus the Bucks."
+                "Update": "Sun, Apr 6, 2025",
+                "Description": "Day To Day (Thigh) - The Heat listed Herro as Questionable for Monday's (Apr. 7) game against the 76ers."
+            },
+            {
+                "Player": "Haywood Highsmith",
+                "Team": "Miami Heat",
+                "Update": "Sun, Apr 6, 2025",
+                "Description": "Day To Day (Achilles) - The Heat listed Highsmith as Questionable for Monday's (Apr. 7) game against the 76ers."
             },
             {
                 "Player": "Nikola Jović",
                 "Team": "Miami Heat",
-                "Update": "Sat, Apr 5, 2025",
-                "Description": "Day To Day (Hand) - Jovic did not play on Saturday's (Apr. 5) game against the Bucks."
+                "Update": "Sun, Apr 6, 2025",
+                "Description": "Out (Hand) - The Heat listed Jovic as Out for Monday's (Apr. 7) game against the 76ers."
             },
             {
                 "Player": "Kevin Love",
                 "Team": "Miami Heat",
-                "Update": "Sat, Apr 5, 2025",
-                "Description": "Day To Day (Personal) - Love did not play on Saturday's (Apr. 5) game versus the Bucks."
+                "Update": "Sun, Apr 6, 2025",
+                "Description": "Out (Personal) - The Heat listed Love as Out for Monday's (Apr. 7) game against the 76ers."
             },
             {
                 "Player": "Dru Smith",
@@ -55,14 +67,14 @@
             {
                 "Player": "Isaiah Stevens",
                 "Team": "Miami Heat",
-                "Update": "Sat, Apr 5, 2025",
-                "Description": "Day To Day (Foot) - Stevens did not play on Saturday's (Apr. 5) game versus the Bucks."
+                "Update": "Sun, Apr 6, 2025",
+                "Description": "Out (Foot) - The Heat listed Stevens as Out for Monday's (Apr. 7) game against the 76ers."
             },
             {
                 "Player": "Andrew Wiggins",
                 "Team": "Miami Heat",
-                "Update": "Sat, Apr 5, 2025",
-                "Description": "Day To Day (Hamstring) - Wiggins did not play on Saturday's (Apr. 5) game against the Bucks."
+                "Update": "Sun, Apr 6, 2025",
+                "Description": "Day To Day (Hamstring) - The Heat listed Wiggins as Questionable for Monday's (Apr. 7) game against the 76ers."
             }
         ],
         "team_stats": {
@@ -118,7 +130,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "7",
                 "FG": "25",
                 "FGA": "24",
                 "FG%": "19",
@@ -128,14 +140,14 @@
                 "2P": "23",
                 "2PA": "22",
                 "2P%": "21",
-                "FT": "26",
-                "FTA": "27",
+                "FT": "25",
+                "FTA": "26",
                 "FT%": "8",
                 "ORB": "26",
                 "DRB": "11",
                 "TRB": "22",
                 "AST": "15",
-                "STL": "16",
+                "STL": "15",
                 "BLK": "30",
                 "TOV": "9",
                 "PF": "1",
@@ -218,19 +230,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "7",
                 "FG": "12",
-                "FGA": "13",
-                "FG%": "13",
-                "3P": "17",
+                "FGA": "14",
+                "FG%": "12",
+                "3P": "18",
                 "3PA": "17",
-                "3P%": "13",
+                "3P%": "12",
                 "2P": "11",
                 "2PA": "10",
                 "2P%": "18",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "14",
+                "FT%": "12",
                 "ORB": "10",
                 "DRB": "26",
                 "TRB": "19",
@@ -272,7 +284,7 @@
                 "PW": "39",
                 "PL": "39",
                 "MOV": "-0.08",
-                "SOS": "-0.11",
+                "SOS": "-0.10",
                 "SRS": "-0.18",
                 "ORtg": "112.9",
                 "DRtg": "113.0",
@@ -288,7 +300,7 @@
                 "Attendance": "768,669"
             },
             "Misc Lg Rank": {
-                "W": "19",
+                "W": "20",
                 "L": "10",
                 "PW": "16",
                 "PL": "16",
@@ -304,12 +316,12 @@
                 "TOV%": "18",
                 "ORB%": "27",
                 "FT/FGA": "1",
-                "DRB%": "11",
+                "DRB%": "10",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/MIA-2025.png",
-        "last_update": "Apr 06 2025 22:32:18"
+        "last_update": "Apr 07 2025 22:32:21"
     }
 }
