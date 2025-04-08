@@ -31,8 +31,14 @@
             {
                 "Player": "Kevin Durant",
                 "Team": "Phoenix Suns",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Out (Ankle) - Durant is expected to miss at least one week of action, per ESPN's Shams Charania reported Monday (Mar. 31)."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Ankle) - The Suns listed Durant as Out for Tuesday's (Apr. 8) game against Golden State."
+            },
+            {
+                "Player": "Nick Richards",
+                "Team": "Phoenix Suns",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Elbow) - The Suns listed Richards as Probable for Tuesday's (Apr. 8) game against Golden State."
             }
         ],
         "team_stats": {
@@ -88,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "18",
                 "FGA": "28",
                 "FG%": "9",
@@ -188,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "21",
                 "FGA": "19",
                 "FG%": "19",
@@ -202,7 +208,7 @@
                 "FTA": "18",
                 "FT%": "23",
                 "ORB": "22",
-                "DRB": "12",
+                "DRB": "13",
                 "TRB": "17",
                 "AST": "21",
                 "STL": "18",
@@ -258,14 +264,14 @@
                 "Attendance": "648,698"
             },
             "Misc Lg Rank": {
-                "W": "20",
+                "W": "21",
                 "L": "10",
                 "PW": "21",
                 "PL": "21",
                 "MOV": "21",
                 "SOS": "10",
                 "SRS": "21",
-                "ORtg": "8",
+                "ORtg": "9",
                 "DRtg": "27",
                 "Pace": "25",
                 "FTr": "15",
@@ -280,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/PHO-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

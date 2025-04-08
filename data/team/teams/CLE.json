@@ -24,9 +24,17 @@
             "Javonte Green",
             "Luke Travers",
             "Emoni Bates",
-            "Nae'Qwan Tomlin"
+            "Nae'Qwan Tomlin",
+            "Chuma Okeke"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Donovan Mitchell",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Ankle) - The Cavaliers listed Mitchell as Out for Tuesday's (Apr. 8) game against the Bulls."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "78",
@@ -181,17 +189,17 @@
             "Opp Lg Rank": {
                 "G": "",
                 "MP": "27",
-                "FG": "11",
+                "FG": "12",
                 "FGA": "22",
                 "FG%": "3",
                 "3P": "14",
-                "3PA": "12",
+                "3PA": "13",
                 "3P%": "14",
                 "2P": "13",
                 "2PA": "24",
                 "2P%": "2",
                 "FT": "11",
-                "FTA": "9",
+                "FTA": "10",
                 "FT%": "13",
                 "ORB": "19",
                 "DRB": "4",
@@ -272,6 +280,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/CLE-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

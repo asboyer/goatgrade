@@ -31,8 +31,8 @@
             {
                 "Player": "Scottie Barnes",
                 "Team": "Toronto Raptors",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Out (Hand) - The Raptors listed Barnes as Out for Sunday's (Apr. 6) game against the Nets."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Hand) - Barnes did not play in Sunday's (Apr. 6) game against the Nets."
             },
             {
                 "Player": "Ulrich Chomche",
@@ -55,14 +55,8 @@
             {
                 "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Hand) - The Raptors listed Poeltl as Out for Sunday's (Apr. 6) game against the Nets."
-            },
-            {
-                "Player": "Immanuel Quickley",
-                "Team": "Toronto Raptors",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Rest) - The Raptors listed Quickley as Out for Sunday's (Apr. 6) game against the Nets."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Hand) - Poeltl did not play in Sunday's (Apr. 6) game against the Nets."
             }
         ],
         "team_stats": {
@@ -118,7 +112,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "4",
                 "FG": "16",
                 "FGA": "7",
                 "FG%": "20",
@@ -135,7 +129,7 @@
                 "DRB": "22",
                 "TRB": "9",
                 "AST": "8",
-                "STL": "18",
+                "STL": "16",
                 "BLK": "27",
                 "TOV": "25",
                 "PF": "30",
@@ -218,7 +212,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "4",
                 "FG": "10",
                 "FGA": "13",
                 "FG%": "11",
@@ -226,11 +220,11 @@
                 "3PA": "16",
                 "3P%": "5",
                 "2P": "16",
-                "2PA": "11",
+                "2PA": "10",
                 "2P%": "21",
                 "FT": "30",
                 "FTA": "30",
-                "FT%": "11",
+                "FT%": "12",
                 "ORB": "21",
                 "DRB": "17",
                 "TRB": "22",
@@ -293,12 +287,12 @@
                 "PW": "24",
                 "PL": "24",
                 "MOV": "24",
-                "SOS": "16",
+                "SOS": "17",
                 "SRS": "24",
                 "ORtg": "26",
                 "DRtg": "16",
                 "Pace": "11",
-                "FTr": "23",
+                "FTr": "22",
                 "3PAr": "29",
                 "eFG%": "12",
                 "TOV%": "11",
@@ -310,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/TOR-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

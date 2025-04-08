@@ -31,8 +31,8 @@
             {
                 "Player": "Deni Avdija",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Thumb) - The Blazers listed Avdija as Out for Sunday's (Apr. 6) game against San Antonio."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Thumb) - Avdija did not play in Sunday's (Apr. 6) game against the Spurs."
             },
             {
                 "Player": "Deandre Ayton",
@@ -43,14 +43,14 @@
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Knee) - The Blazers listed Grant as Out for Sunday's (Apr. 6) game against San Antonio."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Knee) - Grant did not play in Sunday's (Apr. 6) game against the Spurs."
             },
             {
                 "Player": "Scoot Henderson",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sat, Apr 5, 2025",
-                "Description": "Out (Concussion) - The Blazers listed Henderson as OUT for Sunday's (Apr. 6) game against San Antonio."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Concussion) - Henderson did not play in Sunday's (Apr. 6) game against the Spurs."
             },
             {
                 "Player": "Bryce McGowens",
@@ -61,14 +61,14 @@
             {
                 "Player": "Duop Reath",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Knee) - The Blazers listed Reath as Out for Sunday's (Apr. 6) game against San Antonio."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Knee) - Reath did not play in Sunday's (Apr. 6) game against the Spurs."
             },
             {
                 "Player": "Anfernee Simons",
                 "Team": "Portland Trail Blazers",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Forearm) - The Blazers listed Simons as Out for Sunday's (Apr. 6) game against San Antonio."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Forearm) - Simons did not play in Sunday's (Apr. 6) game against the Spurs."
             },
             {
                 "Player": "Robert Williams",
@@ -130,7 +130,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "9",
                 "FG": "23",
                 "FGA": "12",
                 "FG%": "26",
@@ -150,7 +150,7 @@
                 "STL": "12",
                 "BLK": "9",
                 "TOV": "29",
-                "PF": "19",
+                "PF": "18",
                 "PTS": "22"
             },
             "Year/Year": {
@@ -230,7 +230,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "5",
+                "MP": "9",
                 "FG": "18",
                 "FGA": "11",
                 "FG%": "21",
@@ -241,7 +241,7 @@
                 "2PA": "22",
                 "2P%": "17",
                 "FT": "22",
-                "FTA": "21",
+                "FTA": "20",
                 "FT%": "29",
                 "ORB": "27",
                 "DRB": "10",
@@ -284,8 +284,8 @@
                 "PW": "32",
                 "PL": "47",
                 "MOV": "-3.14",
-                "SOS": "0.38",
-                "SRS": "-2.76",
+                "SOS": "0.39",
+                "SRS": "-2.75",
                 "ORtg": "112.0",
                 "DRtg": "115.2",
                 "Pace": "98.8",
@@ -300,7 +300,7 @@
                 "Attendance": "680,699"
             },
             "Misc Lg Rank": {
-                "W": "20",
+                "W": "21",
                 "L": "9",
                 "PW": "23",
                 "PL": "23",
@@ -322,6 +322,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/POR-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

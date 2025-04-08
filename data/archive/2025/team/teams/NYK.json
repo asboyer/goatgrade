@@ -29,10 +29,22 @@
         ],
         "injuries": [
             {
+                "Player": "Jalen Brunson",
+                "Team": "New York Knicks",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Ankle) - The Knicks listed Brunson as Probable for Tuesday's (Apr. 8) game against Boston."
+            },
+            {
                 "Player": "Ariel Hukporti",
                 "Team": "New York Knicks",
                 "Update": "Sat, Mar 29, 2025",
                 "Description": "Out (Knee) - Knicks head coach Tom Thibodeau said Tuesday (Mar. 25) that Hukporti isn't doing much in practice other than individual work, per Kristian Winfield of the New York Daily News. There is no clear timetable yet for his return."
+            },
+            {
+                "Player": "Miles McBride",
+                "Team": "New York Knicks",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Groin) - The Knicks listed McBride as Probable for Tuesday's (Apr. 8) game against Boston."
             }
         ],
         "team_stats": {
@@ -88,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "11",
                 "FG": "6",
                 "FGA": "18",
                 "FG%": "4",
@@ -188,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "11",
                 "FG": "17",
                 "FGA": "10",
                 "FG%": "22",
@@ -242,7 +254,7 @@
                 "PW": "49",
                 "PL": "29",
                 "MOV": "4.42",
-                "SOS": "-0.70",
+                "SOS": "-0.71",
                 "SRS": "3.72",
                 "ORtg": "118.7",
                 "DRtg": "114.2",
@@ -276,10 +288,10 @@
                 "FT/FGA": "4",
                 "DRB%": "21",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "5"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/NYK-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

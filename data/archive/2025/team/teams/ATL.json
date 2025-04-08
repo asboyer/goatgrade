@@ -55,8 +55,14 @@
             {
                 "Player": "Jacob Toppin",
                 "Team": "Atlanta Hawks",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Calf) - The Hawks listed Toppin as OUT for Sunday's (Apr. 6) game against Utah."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Calf) - The Hawks listed Toppin is Out for Tuesday's (Apr. 8) game against the Magic."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young is Probable for Tuesday's (Apr. 8) game against the Magic."
             }
         ],
         "team_stats": {
@@ -112,7 +118,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "16",
                 "FG": "7",
                 "FGA": "4",
                 "FG%": "14",
@@ -132,7 +138,7 @@
                 "STL": "2",
                 "BLK": "11",
                 "TOV": "26",
-                "PF": "21",
+                "PF": "22",
                 "PTS": "5"
             },
             "Year/Year": {
@@ -212,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "16",
                 "FG": "26",
                 "FGA": "20",
                 "FG%": "29",
@@ -231,7 +237,7 @@
                 "AST": "24",
                 "STL": "27",
                 "BLK": "15",
-                "TOV": "4",
+                "TOV": "3",
                 "PF": "8",
                 "PTS": "27"
             },
@@ -298,12 +304,12 @@
                 "TOV%": "5",
                 "ORB%": "11",
                 "FT/FGA": "23",
-                "DRB%": "9",
+                "DRB%": "8",
                 "Arena": "",
                 "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/ATL-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

@@ -37,8 +37,8 @@
             {
                 "Player": "Jamal Murray",
                 "Team": "Denver Nuggets",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Hamstring) - The Nuggets listed Murray as OUT for Sunday's (Apr. 6) game against Indiana."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Hamstring) - Murray did not play in Sunday's (Apr. 6) game against the Pacers."
             }
         ],
         "team_stats": {
@@ -94,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "3",
                 "FG": "1",
                 "FGA": "14",
                 "FG%": "1",
@@ -194,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "1",
+                "MP": "3",
                 "FG": "24",
                 "FGA": "29",
                 "FG%": "14",
@@ -209,7 +209,7 @@
                 "FT%": "14",
                 "ORB": "25",
                 "DRB": "1",
-                "TRB": "5",
+                "TRB": "6",
                 "AST": "29",
                 "STL": "23",
                 "BLK": "19",
@@ -248,7 +248,7 @@
                 "PW": "48",
                 "PL": "31",
                 "MOV": "3.65",
-                "SOS": "-0.04",
+                "SOS": "-0.03",
                 "SRS": "3.61",
                 "ORtg": "119.7",
                 "DRtg": "116.1",
@@ -272,8 +272,8 @@
                 "SOS": "19",
                 "SRS": "9",
                 "ORtg": "4",
-                "DRtg": "23",
-                "Pace": "7",
+                "DRtg": "22",
+                "Pace": "6",
                 "FTr": "6",
                 "3PAr": "30",
                 "eFG%": "16",
@@ -286,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/DEN-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

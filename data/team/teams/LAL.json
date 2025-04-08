@@ -28,16 +28,52 @@
         ],
         "injuries": [
             {
+                "Player": "Luka Dončić",
+                "Team": "Los Angeles Lakers",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Groin) - The Lakers listed Doncic as Questionable for Tuesday's (Apr. 8) game against Oklahoma City."
+            },
+            {
+                "Player": "Dorian Finney-Smith",
+                "Team": "Los Angeles Lakers",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Ankle) - The Lakers listed Finney-Smith as Questionable for Tuesday's (Apr. 8) game against Oklahoma City."
+            },
+            {
                 "Player": "Rui Hachimura",
                 "Team": "Los Angeles Lakers",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Day To Day (Knee) - Hachimura did not play on Friday's (Apr. 4) game against the Pelicans."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Knee) - The Lakers listed Hachimura as OUT for Tuesday's (Apr. 8) game against Oklahoma City."
+            },
+            {
+                "Player": "Bronny James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Illness) - The Lakers listed James as Questionable for Tuesday's (Apr. 8) game against Oklahoma City."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Groin) - The Lakers listed Doncic as Questionable for Tuesday's (Apr. 8) game against Oklahoma City."
             },
             {
                 "Player": "Maxi Kleber",
                 "Team": "Los Angeles Lakers",
                 "Update": "Thu, Apr 3, 2025",
                 "Description": "Out (Foot) - The Lakers announced Thursday (Apr. 3) that Kleber has progressed to on-court activities and he was given an uncertain timetable for his return to the floor, according to Ryan Ward of LakersNation."
+            },
+            {
+                "Player": "Austin Reaves",
+                "Team": "Los Angeles Lakers",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Ankle) - The Lakers listed Reaves as Questionable for Tuesday's (Apr. 8) game against Oklahoma City."
+            },
+            {
+                "Player": "Gabe Vincent",
+                "Team": "Los Angeles Lakers",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Knee) - The Lakers listed Vincent as Questionable for Tuesday's (Apr. 8) game against Oklahoma City."
             }
         ],
         "team_stats": {
@@ -247,7 +283,7 @@
                 "PW": "42",
                 "PL": "36",
                 "MOV": "1.26",
-                "SOS": "0.04",
+                "SOS": "0.05",
                 "SRS": "1.30",
                 "ORtg": "115.9",
                 "DRtg": "114.6",
@@ -285,6 +321,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/LAL-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

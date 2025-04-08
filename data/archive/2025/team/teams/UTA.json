@@ -49,20 +49,20 @@
             {
                 "Player": "Walker Kessler",
                 "Team": "Utah Jazz",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Concussion) - The Jazz listed Kessler as Out for Sunday's (Apr. 6) game against the Hawks."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Concussion) - Kessler did not play in Sunday's (Apr. 6) game against the Hawks."
             },
             {
                 "Player": "Lauri Markkanen",
                 "Team": "Utah Jazz",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Knee) - The Jazz listed Markkanen as Out for Sunday's (Apr. 6) game against the Hawks."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Knee) - Markkanen did not play in Sunday's (Apr. 6) game against the Hawks."
             },
             {
                 "Player": "KJ Martin",
                 "Team": "Utah Jazz",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Illness) - The Jazz listed Martin as OUT for Sunday's (Apr. 6) game against Atlanta."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Illness) - Martin did not play in Sunday's (Apr. 6) game against the Hawks."
             },
             {
                 "Player": "Cody Williams",
@@ -124,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "6",
                 "FG": "24",
                 "FGA": "20",
                 "FG%": "22",
@@ -224,7 +224,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "3",
+                "MP": "6",
                 "FG": "29",
                 "FGA": "27",
                 "FG%": "26",
@@ -278,7 +278,7 @@
                 "PW": "20",
                 "PL": "59",
                 "MOV": "-9.22",
-                "SOS": "0.66",
+                "SOS": "0.67",
                 "SRS": "-8.55",
                 "ORtg": "111.2",
                 "DRtg": "120.4",
@@ -303,7 +303,7 @@
                 "SRS": "28",
                 "ORtg": "24",
                 "DRtg": "30",
-                "Pace": "6",
+                "Pace": "5",
                 "FTr": "7",
                 "3PAr": "7",
                 "eFG%": "27",
@@ -316,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/UTA-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

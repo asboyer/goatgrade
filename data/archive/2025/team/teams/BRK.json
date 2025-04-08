@@ -29,12 +29,6 @@
         ],
         "injuries": [
             {
-                "Player": "Nic Claxton",
-                "Team": "Brooklyn Nets",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Rest) - The Nets listed Claxton as OUT for Sunday's (Apr. 6) game against Toronto."
-            },
-            {
                 "Player": "Noah Clowney",
                 "Team": "Brooklyn Nets",
                 "Update": "Wed, Apr 2, 2025",
@@ -43,8 +37,14 @@
             {
                 "Player": "Cameron Johnson",
                 "Team": "Brooklyn Nets",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Back) - The Nets listed Johnson as OUT for Sunday's (Apr. 6) game against Toronto."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Back) - The Nets listed Johnson as Out for Tuesday's (Apr. 8) game against the Pelicans."
+            },
+            {
+                "Player": "Keon Johnson",
+                "Team": "Brooklyn Nets",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Rest) - The Nets listed Johnson as Out for Tuesday's (Apr. 8) game against the Pelicans."
             },
             {
                 "Player": "De'Anthony Melton",
@@ -55,14 +55,14 @@
             {
                 "Player": "D'Angelo Russell",
                 "Team": "Brooklyn Nets",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Ankle) - The Nets listed Russell as OUT for Sunday's (Apr. 6) game against Toronto."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Ankle) - The Nets listed Russell as Out for Tuesday's (Apr. 8) game against the Pelicans."
             },
             {
                 "Player": "Day'Ron Sharpe",
                 "Team": "Brooklyn Nets",
-                "Update": "Mon, Mar 31, 2025",
-                "Description": "Out (Knee) - Head coach Jordi Fernandez said Monday (Mar. 31) that Sharpe has been limited to stationary work and will have his right knee assessed this week, per Meghan Triplett of YES Network."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Knee) - The Nets listed Sharpe as Out for Tuesday's (Apr. 8) game against the Pelicans."
             },
             {
                 "Player": "Cam Thomas",
@@ -124,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "16",
                 "FG": "30",
                 "FGA": "27",
                 "FG%": "29",
@@ -137,7 +137,7 @@
                 "FT": "23",
                 "FTA": "25",
                 "FT%": "11",
-                "ORB": "17",
+                "ORB": "18",
                 "DRB": "29",
                 "TRB": "29",
                 "AST": "24",
@@ -224,7 +224,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "15",
+                "MP": "16",
                 "FG": "7",
                 "FGA": "2",
                 "FG%": "27",
@@ -316,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/BRK-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

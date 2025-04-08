@@ -37,8 +37,8 @@
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Ankle) - The Wizards listed Brogdon as OUT for Sunday's (Apr. 6) game against Boston."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Ankle) - The Wizards listed Brogdon as OUT for Tuesday's (Apr. 8) game against Indiana."
             },
             {
                 "Player": "Bilal Coulibaly",
@@ -47,16 +47,10 @@
                 "Description": "Out For Season (Hamstring) - The Wizards said on Thursday (Mar. 13) that Coulibaly will be out approximately four-to-six weeks following a right hamstring injury sustained in the first quarter of Monday's (Mar. 10) game against Toronto."
             },
             {
-                "Player": "Kyshawn George",
-                "Team": "Washington Wizards",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Ankle) - The Wizards listed George as OUT for Sunday's (Apr. 6) game against Boston."
-            },
-            {
                 "Player": "Richaun Holmes",
                 "Team": "Washington Wizards",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Shoulder) - The Wizards listed Holmes as Out for Sunday's (Apr. 6) game against Boston."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Shoulder) - The Wizards listed Holmes as Doubtful for Tuesday's (Apr. 8) game against Indiana."
             },
             {
                 "Player": "Corey Kispert",
@@ -67,14 +61,14 @@
             {
                 "Player": "Khris Middleton",
                 "Team": "Washington Wizards",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Knee) - The Wizards listed Middleton as OUT for Sunday's (Apr. 6) game against Boston."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Knee) - The Wizards listed Middleton as OUT for Tuesday's (Apr. 8) game against Indiana."
             },
             {
                 "Player": "Tristan Vukcevic",
                 "Team": "Washington Wizards",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Knee) - The Wizards listed Vukcevic as Out for Sunday's (Apr. 6) game against Boston."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Knee) - The Wizards listed Vukcevic as Questionable for Tuesday's (Apr. 8) game against Indiana."
             }
         ],
         "team_stats": {
@@ -140,14 +134,14 @@
                 "2P": "25",
                 "2PA": "16",
                 "2P%": "26",
-                "FT": "26",
+                "FT": "25",
                 "FTA": "24",
-                "FT%": "18",
+                "FT%": "17",
                 "ORB": "20",
                 "DRB": "16",
                 "TRB": "19",
                 "AST": "23",
-                "STL": "23",
+                "STL": "22",
                 "BLK": "12",
                 "TOV": "27",
                 "PF": "24",
@@ -316,12 +310,12 @@
                 "TOV%": "25",
                 "ORB%": "25",
                 "FT/FGA": "21",
-                "DRB%": "29",
+                "DRB%": "30",
                 "Arena": "",
                 "Attendance": "26"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/WAS-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

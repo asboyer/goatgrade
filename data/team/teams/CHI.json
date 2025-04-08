@@ -31,8 +31,8 @@
             {
                 "Player": "Lonzo Ball",
                 "Team": "Chicago Bulls",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Day To Day (Wrist) - Ball did not play in Sunday's (Apr. 6) game against the Hornets."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Wrist) - The Bulls listed Ball as Out for Tuesday's (Apr. 8) game against the Cavaliers."
             },
             {
                 "Player": "Ayo Dosunmu",
@@ -41,10 +41,34 @@
                 "Description": "Out For Season (Shoulder) - The Bulls announced Dosunmu will undergo surgery and be out for the remainder of the season."
             },
             {
+                "Player": "Josh Giddey",
+                "Team": "Chicago Bulls",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Forearm) - The Bulls listed Giddey as Questionable for Tuesday's (Apr. 8) game against the Cavaliers."
+            },
+            {
+                "Player": "Kevin Huerter",
+                "Team": "Chicago Bulls",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Neck) - The Bulls listed Huerter as Out for Tuesday's (Apr. 8) game against the Cavaliers."
+            },
+            {
                 "Player": "Tre Jones",
                 "Team": "Chicago Bulls",
                 "Update": "Sat, Mar 22, 2025",
                 "Description": "Out (Foot) - The Bulls announced on Saturday (Mar. 22) that Jones has been diagnosed with a left foot sprain and will be re-evaluated in two weeks."
+            },
+            {
+                "Player": "Nikola Vučević",
+                "Team": "Chicago Bulls",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Calf) - The Bulls listed Vucevic as Questionable for Tuesday's (Apr. 8) game against the Cavaliers."
+            },
+            {
+                "Player": "Coby White",
+                "Team": "Chicago Bulls",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Rest) - The Bulls listed White as Out for Tuesday's (Apr. 8) game against the Cavaliers."
             }
         ],
         "team_stats": {
@@ -275,10 +299,10 @@
                 "PW": "20",
                 "PL": "20",
                 "MOV": "20",
-                "SOS": "22",
+                "SOS": "21",
                 "SRS": "20",
                 "ORtg": "20",
-                "DRtg": "22",
+                "DRtg": "21",
                 "Pace": "2",
                 "FTr": "29",
                 "3PAr": "3",
@@ -288,10 +312,10 @@
                 "FT/FGA": "10",
                 "DRB%": "4",
                 "Arena": "",
-                "Attendance": "2"
+                "Attendance": "3"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/CHI-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

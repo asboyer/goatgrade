@@ -28,16 +28,40 @@
         ],
         "injuries": [
             {
+                "Player": "Jaylen Brown",
+                "Team": "Boston Celtics",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Knee) - The Celtics listed Brown as Questionable for Tuesday's (Apr. 8) game against the Knicks."
+            },
+            {
+                "Player": "Jrue Holiday",
+                "Team": "Boston Celtics",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Knee) - The Celtics listed Holiday as Probable for Tuesday's (Apr. 8) game against the Knicks."
+            },
+            {
+                "Player": "Al Horford",
+                "Team": "Boston Celtics",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Knee) - The Celtics listed Horford as Out for Tuesday's (Apr. 8) game against the Knicks."
+            },
+            {
                 "Player": "Kristaps Porziņģis",
                 "Team": "Boston Celtics",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Illness) - The Celtics listed Porzingis as Out for Sunday's (Apr. 6) game against the Wizards."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Illness) - The Celtics listed Porzingis as Questionable for Tuesday's (Apr. 8) game against the Knicks."
             },
             {
                 "Player": "Jayson Tatum",
                 "Team": "Boston Celtics",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Ankle) - The Celtics listed Tatum as Out for Sunday's (Apr. 6) game versus the Wizards."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Ankle) - The Celtics listed Tatum as Questionable for Tuesday's (Apr. 8) game against the Knicks."
+            },
+            {
+                "Player": "Derrick White",
+                "Team": "Boston Celtics",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Toe) - The Celtics listed White as Probable for Tuesday's (Apr. 8) game against the Knicks."
             }
         ],
         "team_stats": {
@@ -93,7 +117,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "14",
                 "FG": "15",
                 "FGA": "10",
                 "FG%": "18",
@@ -193,8 +217,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
-                "FG": "6",
+                "MP": "14",
+                "FG": "5",
                 "FGA": "17",
                 "FG%": "2",
                 "3P": "6",
@@ -204,7 +228,7 @@
                 "2PA": "18",
                 "2P%": "5",
                 "FT": "2",
-                "FTA": "2",
+                "FTA": "1",
                 "FT%": "18",
                 "ORB": "6",
                 "DRB": "14",
@@ -248,7 +272,7 @@
                 "PL": "19",
                 "MOV": "9.26",
                 "SOS": "-0.68",
-                "SRS": "8.58",
+                "SRS": "8.57",
                 "ORtg": "121.1",
                 "DRtg": "111.5",
                 "Pace": "95.9",
@@ -278,13 +302,13 @@
                 "eFG%": "3",
                 "TOV%": "24",
                 "ORB%": "13",
-                "FT/FGA": "2",
+                "FT/FGA": "1",
                 "DRB%": "5",
                 "Arena": "",
                 "Attendance": "9"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/BOS-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

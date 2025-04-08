@@ -31,14 +31,14 @@
             {
                 "Player": "Ousmane Dieng",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Day To Day (Calf) - Dieng did not play in Sunday's (Apr. 6) game against the Lakers."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Calf) - The Thunder listed Dieng as OUT for Tuesday's (Apr. 8) game against Los Angeles."
             },
             {
                 "Player": "Alex Ducas",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Day To Day (Quadriceps) - Ducas did not play in Sunday's (Apr. 6) game against the Lakers."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Out (Quadriceps) - The Thunder listed Ducas as OUT for Tuesday's (Apr. 8) game against Los Angeles."
             },
             {
                 "Player": "Ajay Mitchell",
@@ -55,8 +55,8 @@
             {
                 "Player": "Jaylin Williams",
                 "Team": "Oklahoma City Thunder",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Day To Day (Ankle) - Williams did not play in Sunday's (Apr. 6) game against the Lakers."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Ankle) - The Thunder listed Williams as Questionable for Tuesday's (Apr. 8) game against Los Angeles."
             }
         ],
         "team_stats": {
@@ -123,7 +123,7 @@
                 "2PA": "10",
                 "2P%": "8",
                 "FT": "19",
-                "FTA": "27",
+                "FTA": "26",
                 "FT%": "1",
                 "ORB": "21",
                 "DRB": "5",
@@ -224,11 +224,11 @@
                 "2P%": "1",
                 "FT": "25",
                 "FTA": "26",
-                "FT%": "9",
+                "FT%": "8",
                 "ORB": "19",
                 "DRB": "16",
                 "TRB": "20",
-                "AST": "4",
+                "AST": "5",
                 "STL": "1",
                 "BLK": "14",
                 "TOV": "1",
@@ -266,7 +266,7 @@
                 "PW": "64",
                 "PL": "14",
                 "MOV": "12.53",
-                "SOS": "0.08",
+                "SOS": "0.09",
                 "SRS": "12.61",
                 "ORtg": "120.0",
                 "DRtg": "107.5",
@@ -291,7 +291,7 @@
                 "SRS": "1",
                 "ORtg": "3",
                 "DRtg": "1",
-                "Pace": "8",
+                "Pace": "7",
                 "FTr": "28",
                 "3PAr": "17",
                 "eFG%": "1",
@@ -300,10 +300,10 @@
                 "FT/FGA": "26",
                 "DRB%": "16",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/OKC-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

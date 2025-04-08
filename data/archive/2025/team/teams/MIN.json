@@ -33,6 +33,12 @@
                 "Team": "Minnesota Timberwolves",
                 "Update": "Sat, Apr 5, 2025",
                 "Description": "Day To Day (Groin) - Shannon Jr. did not play on Saturday's (Apr. 5) game against the 76ers."
+            },
+            {
+                "Player": "Terrence Shannon Jr. ",
+                "Team": "Minnesota Timberwolves",
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Groin) - The Timberwolves listed Shannon Jr. as Questionable for Tuesday's (Apr. 8) game against Milwaukee."
             }
         ],
         "team_stats": {
@@ -88,7 +94,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "20",
                 "FGA": "22",
                 "FG%": "16",
@@ -98,12 +104,12 @@
                 "2P": "26",
                 "2PA": "28",
                 "2P%": "18",
-                "FT": "11",
+                "FT": "12",
                 "FTA": "14",
                 "FT%": "12",
                 "ORB": "14",
                 "DRB": "14",
-                "TRB": "15",
+                "TRB": "16",
                 "AST": "18",
                 "STL": "15",
                 "BLK": "14",
@@ -188,7 +194,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "12",
                 "FG": "8",
                 "FGA": "9",
                 "FG%": "9",
@@ -242,7 +248,7 @@
                 "PW": "50",
                 "PL": "28",
                 "MOV": "4.67",
-                "SOS": "0.28",
+                "SOS": "0.29",
                 "SRS": "4.95",
                 "ORtg": "116.2",
                 "DRtg": "111.5",
@@ -276,10 +282,10 @@
                 "FT/FGA": "7",
                 "DRB%": "12",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/MIN-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }

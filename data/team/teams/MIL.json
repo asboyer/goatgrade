@@ -31,14 +31,14 @@
             {
                 "Player": "Giannis Antetokounmpo",
                 "Team": "Milwaukee Bucks",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Shoulder) - The Bucks listed Antetokounmpo as OUT for Sunday's (Apr. 6) game against New Orleans."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Shoulder) - The Bucks listed Antetokounmpo as Probable for Tuesday's (Apr. 8) game against the Timberwolves."
             },
             {
                 "Player": "Pat Connaughton",
                 "Team": "Milwaukee Bucks",
-                "Update": "Sun, Apr 6, 2025",
-                "Description": "Out (Ankle) - The Bucks listed Connaughton as OUT for Sunday's (Apr. 6) game against New Orleans."
+                "Update": "Mon, Apr 7, 2025",
+                "Description": "Day To Day (Ankle) - The Bucks listed Connaughton as Questionable for Tuesday's (Apr. 8) game against the Timberwolves."
             },
             {
                 "Player": "Damian Lillard",
@@ -279,8 +279,8 @@
                 "W": "13",
                 "L": "18",
                 "PW": "13",
-                "PL": "13",
-                "MOV": "13",
+                "PL": "12",
+                "MOV": "12",
                 "SOS": "25",
                 "SRS": "13",
                 "ORtg": "13",
@@ -298,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/MIL-2025.png",
-        "last_update": "Apr 07 2025 22:32:21"
+        "last_update": "Apr 08 2025 22:32:20"
     }
 }
