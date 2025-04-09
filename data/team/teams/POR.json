@@ -31,26 +31,26 @@
             {
                 "Player": "Deni Avdija",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Thumb) - Avdija did not play in Sunday's (Apr. 6) game against the Spurs."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Day To Day (Thumb) - The Trail Blazers listed Avdija as Questionable on Wednesday's (Apr. 9) game against the Jazz."
             },
             {
                 "Player": "Deandre Ayton",
                 "Team": "Portland Trail Blazers",
-                "Update": "Fri, Apr 4, 2025",
-                "Description": "Out (Calf) - The Trail Blazers announced on Friday (Apr. 4) that Ayton remains to be out indefinitely as the team hasn't released an update since his initial diagnosis."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Calf) - The Trail Blazers listed Ayton as Out on Wednesday's (Apr. 9) game against the Jazz."
             },
             {
                 "Player": "Jerami Grant",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Knee) - Grant did not play in Sunday's (Apr. 6) game against the Spurs."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Knee) - The Trail Blazers listed Grant as Out on Wednesday's (Apr. 9) game against the Jazz."
             },
             {
                 "Player": "Scoot Henderson",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Concussion) - Henderson did not play in Sunday's (Apr. 6) game against the Spurs."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Concussion) - The Trail Blazers listed Henderson as Out on Wednesday's (Apr. 9) game against the Jazz."
             },
             {
                 "Player": "Bryce McGowens",
@@ -61,14 +61,14 @@
             {
                 "Player": "Duop Reath",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Knee) - Reath did not play in Sunday's (Apr. 6) game against the Spurs."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Day To Day (Knee) - The Trail Blazers listed Reath as Questionable on Wednesday's (Apr. 9) game against the Jazz."
             },
             {
                 "Player": "Anfernee Simons",
                 "Team": "Portland Trail Blazers",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Forearm) - Simons did not play in Sunday's (Apr. 6) game against the Spurs."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Day To Day (Forearm) - The Trail Blazers listed Simons as Questionable on Wednesday's (Apr. 9) game against the Jazz."
             },
             {
                 "Player": "Robert Williams",
@@ -130,16 +130,16 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "17",
                 "FG": "23",
-                "FGA": "12",
+                "FGA": "11",
                 "FG%": "26",
                 "3P": "19",
-                "3PA": "12",
+                "3PA": "14",
                 "3P%": "25",
-                "2P": "19",
+                "2P": "18",
                 "2PA": "14",
-                "2P%": "23",
+                "2P%": "24",
                 "FT": "16",
                 "FTA": "12",
                 "FT%": "25",
@@ -147,7 +147,7 @@
                 "DRB": "26",
                 "TRB": "13",
                 "AST": "27",
-                "STL": "12",
+                "STL": "13",
                 "BLK": "9",
                 "TOV": "29",
                 "PF": "18",
@@ -230,13 +230,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "17",
                 "FG": "18",
                 "FGA": "11",
                 "FG%": "21",
                 "3P": "4",
                 "3PA": "3",
-                "3P%": "16",
+                "3P%": "17",
                 "2P": "22",
                 "2PA": "22",
                 "2P%": "17",
@@ -245,7 +245,7 @@
                 "FT%": "29",
                 "ORB": "27",
                 "DRB": "10",
-                "TRB": "18",
+                "TRB": "17",
                 "AST": "13",
                 "STL": "29",
                 "BLK": "25",
@@ -284,8 +284,8 @@
                 "PW": "32",
                 "PL": "47",
                 "MOV": "-3.14",
-                "SOS": "0.39",
-                "SRS": "-2.75",
+                "SOS": "0.37",
+                "SRS": "-2.77",
                 "ORtg": "112.0",
                 "DRtg": "115.2",
                 "Pace": "98.8",
@@ -315,13 +315,13 @@
                 "eFG%": "18",
                 "TOV%": "8",
                 "ORB%": "2",
-                "FT/FGA": "24",
+                "FT/FGA": "23",
                 "DRB%": "28",
                 "Arena": "",
-                "Attendance": "20"
+                "Attendance": "21"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/POR-2025.png",
-        "last_update": "Apr 08 2025 22:32:20"
+        "last_update": "Apr 09 2025 22:32:21"
     }
 }

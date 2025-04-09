@@ -33,14 +33,14 @@
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Toe) - Drummond did not play in Monday's (Apr. 7) game against the Heat."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Toe) - The 76ers listed Drummond as Out for Wednesday's (Apr. 9) game against the Wizards."
             },
             {
                 "Player": "Justin Edwards",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Ribs) - Edwards did not play in Monday's (Apr. 7) game against the Heat."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Day To Day (Ribs) - The 76ers listed Edwards as Questionable for Wednesday's (Apr. 9) game against the Wizards."
             },
             {
                 "Player": "Joel Embiid",
@@ -61,6 +61,18 @@
                 "Description": "Out For Season (Wrist) - The 76ers announced on Thursday (Feb. 27) that Gordon will be re-evaluated in three months after undergoing successful wrist surgery, as per Keith Pompey of The Philadelphia Inquirer."
             },
             {
+                "Player": "Quentin Grimes",
+                "Team": "Philadelphia 76ers",
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Day To Day (Back) - The 76ers listed Grimes as Questionable for Wednesday's (Apr. 9) game against the Wizards."
+            },
+            {
+                "Player": "Kyle Lowry",
+                "Team": "Philadelphia 76ers",
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Hip) - The 76ers listed Lowry as Out for Wednesday's (Apr. 9) game against the Wizards."
+            },
+            {
                 "Player": "Tyrese Maxey",
                 "Team": "Philadelphia 76ers",
                 "Update": "Wed, Apr 2, 2025",
@@ -75,14 +87,14 @@
             {
                 "Player": "Kelly Oubre Jr.",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Knee) - Oubre Jr. did not play in Sunday's (Apr. 6) game against the Heat."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Knee) - The 76ers listed Oubre Jr. as Out for Wednesday's (Apr. 9) game against the Wizards."
             },
             {
                 "Player": "Guerschon Yabusele",
                 "Team": "Philadelphia 76ers",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Personal) - Yabusele did not play in Monday's (Apr. 7) game against the Heat."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Personal) - The 76ers listed Yabusele as Out for Wednesday's (Apr. 9) game against the Wizards."
             }
         ],
         "team_stats": {
@@ -138,13 +150,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "8",
                 "FG": "26",
                 "FGA": "23",
                 "FG%": "21",
                 "3P": "21",
                 "3PA": "17",
-                "3P%": "26",
+                "3P%": "27",
                 "2P": "20",
                 "2PA": "19",
                 "2P%": "20",
@@ -238,7 +250,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "8",
                 "FG": "20",
                 "FGA": "4",
                 "FG%": "30",
@@ -257,8 +269,8 @@
                 "AST": "25",
                 "STL": "5",
                 "BLK": "21",
-                "TOV": "4",
-                "PF": "17",
+                "TOV": "3",
+                "PF": "18",
                 "PTS": "21"
             },
             "Opp Year/Year": {
@@ -323,13 +335,13 @@
                 "eFG%": "30",
                 "TOV%": "3",
                 "ORB%": "22",
-                "FT/FGA": "20",
-                "DRB%": "29",
+                "FT/FGA": "18",
+                "DRB%": "30",
                 "Arena": "",
-                "Attendance": "4"
+                "Attendance": "6"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/PHI-2025.png",
-        "last_update": "Apr 08 2025 22:32:20"
+        "last_update": "Apr 09 2025 22:32:21"
     }
 }

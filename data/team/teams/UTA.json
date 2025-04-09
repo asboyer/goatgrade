@@ -35,10 +35,22 @@
                 "Description": "Out For Season (Foot) - Clarkson will miss the rest of the season for the Jazz after having a procedure to address the plantar fasciitis in his left foot, per Sr. NBA writer Marc J. Spears."
             },
             {
+                "Player": "Isaiah Collier",
+                "Team": "Utah Jazz",
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Day To Day (Groin) - The Jazz listed Collier as Questionable on Wednesday's (Apr. 9) game against Portland."
+            },
+            {
                 "Player": "John Collins",
                 "Team": "Utah Jazz",
                 "Update": "Wed, Apr 2, 2025",
                 "Description": "Out (Ankle) - The Jazz announced Wednesday (Apr. 2) that Collins will be re-evaluated in one week, according to Ben Anderson of KSL News Salt Lake City."
+            },
+            {
+                "Player": "Elijah Harkless",
+                "Team": "Utah Jazz",
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Groin) - The Jazz listed Harkless as Out on Wednesday's (Apr. 9) game against Portland."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -49,20 +61,20 @@
             {
                 "Player": "Walker Kessler",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Concussion) - Kessler did not play in Sunday's (Apr. 6) game against the Hawks."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Concussion) - The Jazz listed Kessler as Out on Wednesday's (Apr. 9) game against Portland."
             },
             {
                 "Player": "Lauri Markkanen",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Knee) - Markkanen did not play in Sunday's (Apr. 6) game against the Hawks."
+                "Update": "Wed, Apr 2, 2025",
+                "Description": "Out (Knee) - The Jazz announced Wednesday (Apr. 2) that Markkanen will be re-evaluated in 7-to-10 days, Ben Anderson of KSL News Salt Lake City reports."
             },
             {
                 "Player": "KJ Martin",
                 "Team": "Utah Jazz",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Illness) - Martin did not play in Sunday's (Apr. 6) game against the Hawks."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Illness) - The Jazz listed Martin as Out on Wednesday's (Apr. 9) game against Portland."
             },
             {
                 "Player": "Cody Williams",
@@ -124,7 +136,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "11",
                 "FG": "24",
                 "FGA": "20",
                 "FG%": "22",
@@ -137,9 +149,9 @@
                 "FT": "9",
                 "FTA": "9",
                 "FT%": "21",
-                "ORB": "8",
+                "ORB": "9",
                 "DRB": "12",
-                "TRB": "8",
+                "TRB": "7",
                 "AST": "20",
                 "STL": "30",
                 "BLK": "23",
@@ -224,7 +236,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "11",
                 "FG": "29",
                 "FGA": "27",
                 "FG%": "26",
@@ -234,7 +246,7 @@
                 "2P": "26",
                 "2PA": "14",
                 "2P%": "30",
-                "FT": "20",
+                "FT": "19",
                 "FTA": "22",
                 "FT%": "2",
                 "ORB": "23",
@@ -244,7 +256,7 @@
                 "STL": "30",
                 "BLK": "30",
                 "TOV": "30",
-                "PF": "4",
+                "PF": "5",
                 "PTS": "30"
             },
             "Opp Year/Year": {
@@ -278,8 +290,8 @@
                 "PW": "20",
                 "PL": "59",
                 "MOV": "-9.22",
-                "SOS": "0.67",
-                "SRS": "-8.55",
+                "SOS": "0.66",
+                "SRS": "-8.56",
                 "ORtg": "111.2",
                 "DRtg": "120.4",
                 "Pace": "99.9",
@@ -316,6 +328,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/UTA-2025.png",
-        "last_update": "Apr 08 2025 22:32:20"
+        "last_update": "Apr 09 2025 22:32:21"
     }
 }

@@ -29,20 +29,20 @@
             {
                 "Player": "Jake LaRavia",
                 "Team": "Sacramento Kings",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Thumb) - LaRavia did not play in Monday's (Apr. 7) game against the Pistons."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Thumb) - The Kings listed LaRavia as Out in Wednesday's (Apr. 9) game against Denver."
             },
             {
                 "Player": "Malik Monk",
                 "Team": "Sacramento Kings",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Calf) - Monk did not return to Monday's (Apr. 7) game against the Pistons."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Calf) - The Kings listed Monk as Out in Wednesday's (Apr. 9) game against Denver."
             },
             {
                 "Player": "Keegan Murray",
                 "Team": "Sacramento Kings",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Back) - Murray did not play in Monday's (Apr. 7) game against the Pistons."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Back) - The Kings listed Murray as Out in Wednesday's (Apr. 9) game against Denver."
             }
         ],
         "team_stats": {
@@ -104,7 +104,7 @@
                 "FG%": "12",
                 "3P": "22",
                 "3PA": "22",
-                "3P%": "19",
+                "3P%": "20",
                 "2P": "4",
                 "2PA": "7",
                 "2P%": "9",
@@ -115,8 +115,8 @@
                 "DRB": "13",
                 "TRB": "15",
                 "AST": "13",
-                "STL": "23",
-                "BLK": "25",
+                "STL": "22",
+                "BLK": "24",
                 "TOV": "7",
                 "PF": "19",
                 "PTS": "10"
@@ -166,7 +166,7 @@
                 "TRB": "3353",
                 "AST": "2135",
                 "STL": "630",
-                "BLK": "343",
+                "BLK": "342",
                 "TOV": "1108",
                 "PF": "1472",
                 "PTS": "9128"
@@ -200,14 +200,14 @@
                 "G": "",
                 "MP": "2",
                 "FG": "16",
-                "FGA": "8",
+                "FGA": "9",
                 "FG%": "23",
                 "3P": "29",
                 "3PA": "19",
                 "3P%": "30",
                 "2P": "5",
                 "2PA": "6",
-                "2P%": "13",
+                "2P%": "14",
                 "FT": "21",
                 "FTA": "21",
                 "FT%": "19",
@@ -216,9 +216,9 @@
                 "TRB": "5",
                 "AST": "18",
                 "STL": "13",
-                "BLK": "8",
+                "BLK": "7",
                 "TOV": "18",
-                "PF": "18",
+                "PF": "19",
                 "PTS": "20"
             },
             "Opp Year/Year": {
@@ -241,7 +241,7 @@
                 "TRB": "-0.2%",
                 "AST": "0.4%",
                 "STL": "7.9%",
-                "BLK": "-3.8%",
+                "BLK": "-4.1%",
                 "TOV": "1.0%",
                 "PF": "1.6%",
                 "PTS": "0.6%"
@@ -252,7 +252,7 @@
                 "PW": "41",
                 "PL": "38",
                 "MOV": "0.47",
-                "SOS": "0.05",
+                "SOS": "0.04",
                 "SRS": "0.51",
                 "ORtg": "116.6",
                 "DRtg": "116.2",
@@ -276,20 +276,20 @@
                 "SOS": "16",
                 "SRS": "15",
                 "ORtg": "8",
-                "DRtg": "23",
+                "DRtg": "22",
                 "Pace": "19",
-                "FTr": "20",
+                "FTr": "21",
                 "3PAr": "23",
                 "eFG%": "26",
                 "TOV%": "18",
                 "ORB%": "16",
-                "FT/FGA": "22",
+                "FT/FGA": "21",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "27"
+                "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/SAC-2025.png",
-        "last_update": "Apr 08 2025 22:32:20"
+        "last_update": "Apr 09 2025 22:32:21"
     }
 }

@@ -29,22 +29,22 @@
         ],
         "injuries": [
             {
-                "Player": "Bam Adebayo",
+                "Player": "Haywood Highsmith",
                 "Team": "Miami Heat",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Back) - Adebayo did not play in Monday's (Apr. 7) game against the 76ers."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Day To Day (Achilles) - The Heat listed Highsmith as Probable for Wednesday's (Apr. 9) game against the Bulls."
             },
             {
                 "Player": "Nikola Jović",
                 "Team": "Miami Heat",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Hand) - Jovic did not play in Monday's (Apr. 7) game against the 76ers."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Hand) - The Heat listed Jovic as Out for Wednesday's (Apr. 9) game against the Bulls."
             },
             {
                 "Player": "Kevin Love",
                 "Team": "Miami Heat",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Personal) - Love did not play in Monday's (Apr. 7) game against the 76ers."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Personal) - The Heat listed Love as Out for Wednesday's (Apr. 9) game against the Bulls."
             },
             {
                 "Player": "Dru Smith",
@@ -55,14 +55,14 @@
             {
                 "Player": "Isaiah Stevens",
                 "Team": "Miami Heat",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Foot) - Stevens did not play on Monday's (Apr. 7) game against the 76ers."
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Day To Day (Foot) - The Heat listed Stevens as Questionable for Wednesday's (Apr. 9) game against the Bulls."
             },
             {
                 "Player": "Andrew Wiggins",
                 "Team": "Miami Heat",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Hamstring) - Wiggins did not play in Monday's (Apr. 7) game against the 76ers."
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Day To Day (Hamstring) - The Heat listed Wiggins as Questionable for Wednesday's (Apr. 9) game against the Bulls."
             }
         ],
         "team_stats": {
@@ -124,22 +124,22 @@
                 "FG%": "19",
                 "3P": "12",
                 "3PA": "16",
-                "3P%": "13",
+                "3P%": "12",
                 "2P": "23",
                 "2PA": "22",
                 "2P%": "21",
-                "FT": "26",
+                "FT": "25",
                 "FTA": "27",
                 "FT%": "8",
                 "ORB": "26",
                 "DRB": "10",
                 "TRB": "22",
                 "AST": "15",
-                "STL": "16",
+                "STL": "15",
                 "BLK": "30",
                 "TOV": "9",
                 "PF": "1",
-                "PTS": "24"
+                "PTS": "25"
             },
             "Year/Year": {
                 "G": "",
@@ -221,11 +221,11 @@
                 "MP": "1",
                 "FG": "11",
                 "FGA": "14",
-                "FG%": "12",
-                "3P": "18",
+                "FG%": "13",
+                "3P": "17",
                 "3PA": "17",
                 "3P%": "12",
-                "2P": "11",
+                "2P": "10",
                 "2PA": "9",
                 "2P%": "18",
                 "FT": "1",
@@ -272,7 +272,7 @@
                 "PW": "40",
                 "PL": "39",
                 "MOV": "0.08",
-                "SOS": "-0.18",
+                "SOS": "-0.19",
                 "SRS": "-0.11",
                 "ORtg": "113.0",
                 "DRtg": "112.9",
@@ -289,11 +289,11 @@
             },
             "Misc Lg Rank": {
                 "W": "19",
-                "L": "10",
+                "L": "11",
                 "PW": "16",
                 "PL": "16",
                 "MOV": "16",
-                "SOS": "22",
+                "SOS": "23",
                 "SRS": "16",
                 "ORtg": "21",
                 "DRtg": "10",
@@ -304,12 +304,12 @@
                 "TOV%": "17",
                 "ORB%": "27",
                 "FT/FGA": "2",
-                "DRB%": "11",
+                "DRB%": "10",
                 "Arena": "",
-                "Attendance": "2"
+                "Attendance": "3"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/MIA-2025.png",
-        "last_update": "Apr 08 2025 22:32:20"
+        "last_update": "Apr 09 2025 22:32:21"
     }
 }

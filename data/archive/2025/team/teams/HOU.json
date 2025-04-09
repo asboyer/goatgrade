@@ -27,7 +27,26 @@
             "N'Faly Dante",
             "David Roddy"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Alperen Şengün",
+                "Team": "Houston Rockets",
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Day To Day (Back) - The Rockets listed Sengun as Questionable for Wednesday's (Apr. 9) game versus the Clippers."
+            },
+            {
+                "Player": "Jabari Smith Jr.",
+                "Team": "Houston Rockets",
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Day To Day (Groin) - The Rockets listed Smith Jr. as Questionable for Wednesday's (Apr. 9) game versus the Clippers."
+            },
+            {
+                "Player": "Fred VanVleet",
+                "Team": "Houston Rockets",
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Day To Day (Ankle) - The Rockets listed VanVleet as Questionable for Wednesday's (Apr. 9) game versus the Clippers."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "79",
@@ -81,26 +100,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "11",
                 "FG": "11",
                 "FGA": "1",
                 "FG%": "23",
-                "3P": "25",
+                "3P": "24",
                 "3PA": "21",
                 "3P%": "21",
                 "2P": "7",
                 "2PA": "1",
                 "2P%": "28",
                 "FT": "16",
-                "FTA": "7",
+                "FTA": "8",
                 "FT%": "30",
                 "ORB": "1",
-                "DRB": "7",
+                "DRB": "5",
                 "TRB": "1",
                 "AST": "28",
-                "STL": "10",
+                "STL": "9",
                 "BLK": "13",
-                "TOV": "13",
+                "TOV": "11",
                 "PF": "20",
                 "PTS": "14"
             },
@@ -181,7 +200,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "11",
                 "FG": "4",
                 "FGA": "12",
                 "FG%": "5",
@@ -190,13 +209,13 @@
                 "3P%": "8",
                 "2P": "17",
                 "2PA": "27",
-                "2P%": "3",
+                "2P%": "2",
                 "FT": "9",
                 "FTA": "14",
                 "FT%": "1",
                 "ORB": "9",
                 "DRB": "3",
-                "TRB": "3",
+                "TRB": "4",
                 "AST": "2",
                 "STL": "11",
                 "BLK": "28",
@@ -235,8 +254,8 @@
                 "PW": "53",
                 "PL": "26",
                 "MOV": "5.48",
-                "SOS": "0.32",
-                "SRS": "5.80",
+                "SOS": "0.33",
+                "SRS": "5.81",
                 "ORtg": "115.4",
                 "DRtg": "109.9",
                 "Pace": "98.5",
@@ -256,9 +275,9 @@
                 "PW": "4",
                 "PL": "4",
                 "MOV": "4",
-                "SOS": "8",
+                "SOS": "7",
                 "SRS": "4",
-                "ORtg": "12",
+                "ORtg": "13",
                 "DRtg": "3",
                 "Pace": "18",
                 "FTr": "14",
@@ -269,10 +288,10 @@
                 "FT/FGA": "12",
                 "DRB%": "7",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/HOU-2025.png",
-        "last_update": "Apr 08 2025 22:32:20"
+        "last_update": "Apr 09 2025 22:32:21"
     }
 }

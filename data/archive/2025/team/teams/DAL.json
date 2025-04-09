@@ -28,22 +28,22 @@
         ],
         "injuries": [
             {
-                "Player": "Dante Exum",
+                "Player": "Anthony Davis",
                 "Team": "Dallas Mavericks",
-                "Update": "Sat, Mar 15, 2025",
-                "Description": "Out (Hand) - The Mavericks announced on Saturday (Mar. 15) that Exum suffered a broken bone in his left hand in Friday's (Mar. 14) game against the Rockets and will be re-evaluated in four weeks."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Day To Day (Groin) - The Mavericks listed Davis as Probable for Wednesday's (Apr. 9) game against the Lakers."
             },
             {
-                "Player": "Daniel Gafford",
+                "Player": "Dante Exum",
                 "Team": "Dallas Mavericks",
-                "Update": "Sat, Apr 5, 2025",
-                "Description": "Day To Day (Knee) - Gafford did not play on Saturday's (Apr. 5) game against the Clippers."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Hand) - The Mavericks listed Exum as Questionable for Wednesday's (Apr. 9) game against the Lakers."
             },
             {
                 "Player": "Jaden Hardy",
                 "Team": "Dallas Mavericks",
-                "Update": "Sat, Apr 5, 2025",
-                "Description": "Day To Day (Leg) - Hardy did not play on Saturday's (Apr. 5) game against the Clippers."
+                "Update": "Tue, Apr 8, 2025",
+                "Description": "Out (Leg) - The Mavericks listed Hardy as Out for Wednesday's (Apr. 9) game against the Lakers."
             },
             {
                 "Player": "Kyrie Irving",
@@ -111,7 +111,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "21",
                 "FG": "12",
                 "FGA": "21",
                 "FG%": "11",
@@ -120,18 +120,18 @@
                 "3P%": "14",
                 "2P": "11",
                 "2PA": "11",
-                "2P%": "13",
+                "2P%": "14",
                 "FT": "5",
-                "FTA": "4",
-                "FT%": "23",
+                "FTA": "5",
+                "FT%": "22",
                 "ORB": "24",
-                "DRB": "17",
+                "DRB": "18",
                 "TRB": "23",
-                "AST": "22",
+                "AST": "23",
                 "STL": "21",
                 "BLK": "6",
-                "TOV": "11",
-                "PF": "8",
+                "TOV": "10",
+                "PF": "9",
                 "PTS": "13"
             },
             "Year/Year": {
@@ -211,18 +211,18 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "10",
+                "MP": "21",
                 "FG": "23",
                 "FGA": "24",
                 "FG%": "18",
-                "3P": "8",
+                "3P": "7",
                 "3PA": "4",
                 "3P%": "20",
                 "2P": "29",
                 "2PA": "30",
                 "2P%": "10",
                 "FT": "13",
-                "FTA": "11",
+                "FTA": "12",
                 "FT%": "15",
                 "ORB": "28",
                 "DRB": "18",
@@ -265,7 +265,7 @@
                 "PW": "37",
                 "PL": "42",
                 "MOV": "-0.89",
-                "SOS": "0.46",
+                "SOS": "0.45",
                 "SRS": "-0.43",
                 "ORtg": "115.1",
                 "DRtg": "115.9",
@@ -281,28 +281,28 @@
                 "Attendance": "742,179"
             },
             "Misc Lg Rank": {
-                "W": "16",
-                "L": "13",
+                "W": "17",
+                "L": "14",
                 "PW": "18",
                 "PL": "18",
                 "MOV": "18",
                 "SOS": "3",
                 "SRS": "17",
-                "ORtg": "14",
-                "DRtg": "20",
+                "ORtg": "15",
+                "DRtg": "19",
                 "Pace": "13",
                 "FTr": "4",
                 "3PAr": "24",
-                "eFG%": "14",
+                "eFG%": "13",
                 "TOV%": "23",
                 "ORB%": "23",
-                "FT/FGA": "9",
+                "FT/FGA": "10",
                 "DRB%": "25",
                 "Arena": "",
-                "Attendance": "10"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/DAL-2025.png",
-        "last_update": "Apr 08 2025 22:32:20"
+        "last_update": "Apr 09 2025 22:32:21"
     }
 }
