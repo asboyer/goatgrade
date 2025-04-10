@@ -37,14 +37,8 @@
             {
                 "Player": "Cameron Johnson",
                 "Team": "Brooklyn Nets",
-                "Update": "Tue, Apr 8, 2025",
-                "Description": "Day To Day (Back) - Johnson did not play on Tuesday's (Apr. 8) game against the Pelicans."
-            },
-            {
-                "Player": "Keon Johnson",
-                "Team": "Brooklyn Nets",
-                "Update": "Tue, Apr 8, 2025",
-                "Description": "Day To Day (Rest) - Johnson did not play on Tuesday's (Apr. 8) game against the Pelicans."
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Out (Back) - The Nets listed Johnson as OUT for Thursday's (Apr. 10) game against Atlanta."
             },
             {
                 "Player": "De'Anthony Melton",
@@ -55,14 +49,14 @@
             {
                 "Player": "D'Angelo Russell",
                 "Team": "Brooklyn Nets",
-                "Update": "Tue, Apr 8, 2025",
-                "Description": "Day To Day (Ankle) - Russell did not play on Tuesday's (Apr. 8) game against the Pelicans."
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Out (Ankle) - The Nets listed Russell as OUT for Thursday's (Apr. 10) game against Atlanta."
             },
             {
                 "Player": "Day'Ron Sharpe",
                 "Team": "Brooklyn Nets",
-                "Update": "Tue, Apr 8, 2025",
-                "Description": "Day To Day (Knee) - Sharpe did not play on Tuesday's (Apr. 8) game against the Pelicans."
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Out (Knee) - The Nets listed Sharpe as OUT for Thursday's (Apr. 10) game against Atlanta."
             },
             {
                 "Player": "Cam Thomas",
@@ -124,28 +118,28 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "24",
                 "FG": "30",
                 "FGA": "28",
                 "FG%": "29",
                 "3P": "13",
                 "3PA": "8",
-                "3P%": "26",
+                "3P%": "25",
                 "2P": "29",
                 "2PA": "29",
                 "2P%": "29",
                 "FT": "23",
-                "FTA": "24",
+                "FTA": "25",
                 "FT%": "10",
                 "ORB": "18",
                 "DRB": "29",
                 "TRB": "29",
-                "AST": "22",
+                "AST": "24",
                 "STL": "20",
-                "BLK": "24",
+                "BLK": "26",
                 "TOV": "23",
                 "PF": "27",
-                "PTS": "30"
+                "PTS": "29"
             },
             "Year/Year": {
                 "G": "",
@@ -224,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "24",
                 "FG": "5",
                 "FGA": "2",
                 "FG%": "27",
@@ -235,15 +229,15 @@
                 "2PA": "2",
                 "2P%": "27",
                 "FT": "24",
-                "FTA": "24",
+                "FTA": "25",
                 "FT%": "18",
                 "ORB": "4",
-                "DRB": "19",
+                "DRB": "20",
                 "TRB": "13",
                 "AST": "17",
                 "STL": "14",
                 "BLK": "27",
-                "TOV": "10",
+                "TOV": "11",
                 "PF": "13",
                 "PTS": "10"
             },
@@ -278,8 +272,8 @@
                 "PW": "24",
                 "PL": "55",
                 "MOV": "-6.65",
-                "SOS": "0.07",
-                "SRS": "-6.58",
+                "SOS": "0.08",
+                "SRS": "-6.57",
                 "ORtg": "108.7",
                 "DRtg": "115.5",
                 "Pace": "96.3",
@@ -299,7 +293,7 @@
                 "PW": "26",
                 "PL": "26",
                 "MOV": "26",
-                "SOS": "15",
+                "SOS": "14",
                 "SRS": "26",
                 "ORtg": "28",
                 "DRtg": "18",
@@ -312,10 +306,10 @@
                 "FT/FGA": "28",
                 "DRB%": "13",
                 "Arena": "",
-                "Attendance": "22"
+                "Attendance": "24"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/BRK-2025.png",
-        "last_update": "Apr 09 2025 22:32:21"
+        "last_update": "Apr 10 2025 22:32:21"
     }
 }

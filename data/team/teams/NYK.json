@@ -29,10 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "OG Anunoby",
+                "Team": "New York Knicks",
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Out (Thumb) - The Knicks listed Anunoby as OUT for Thursday's (Apr. 10) game against Detroit."
+            },
+            {
+                "Player": "Josh Hart",
+                "Team": "New York Knicks",
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Out (Knee) - The Knicks listed Hart as OUT for Thursday's (Apr. 10) game against Detroit."
+            },
+            {
                 "Player": "Ariel Hukporti",
                 "Team": "New York Knicks",
                 "Update": "Fri, Apr 4, 2025",
                 "Description": "Out (Knee) - Knicks head coach Tom Thibodeau wouldn't commit Friday (Apr. 4) to Hukporti returning to action during the playoffs, noting that the rookie center is a ways away from being ready to play, per Kristian Winfield of the New York Daily News."
+            },
+            {
+                "Player": "Mitchell Robinson",
+                "Team": "New York Knicks",
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Out (Ankle) - The Knicks listed Robinson as OUT for Thursday's (Apr. 10) game against Detroit."
             }
         ],
         "team_stats": {
@@ -88,24 +106,24 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "21",
                 "FG": "6",
                 "FGA": "17",
                 "FG%": "4",
-                "3P": "24",
+                "3P": "25",
                 "3PA": "27",
-                "3P%": "10",
+                "3P%": "9",
                 "2P": "2",
                 "2PA": "5",
                 "2P%": "6",
                 "FT": "21",
-                "FTA": "23",
+                "FTA": "24",
                 "FT%": "6",
                 "ORB": "19",
                 "DRB": "25",
                 "TRB": "24",
                 "AST": "11",
-                "STL": "14",
+                "STL": "15",
                 "BLK": "29",
                 "TOV": "5",
                 "PF": "4",
@@ -188,11 +206,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "2",
+                "MP": "21",
                 "FG": "17",
                 "FGA": "10",
-                "FG%": "22",
-                "3P": "10",
+                "FG%": "20",
+                "3P": "11",
                 "3PA": "7",
                 "3P%": "26",
                 "2P": "20",
@@ -200,14 +218,14 @@
                 "2P%": "16",
                 "FT": "4",
                 "FTA": "4",
-                "FT%": "26",
+                "FT%": "27",
                 "ORB": "12",
                 "DRB": "2",
                 "TRB": "2",
                 "AST": "7",
                 "STL": "3",
                 "BLK": "17",
-                "TOV": "16",
+                "TOV": "15",
                 "PF": "14",
                 "PTS": "9"
             },
@@ -243,7 +261,7 @@
                 "PL": "29",
                 "MOV": "4.34",
                 "SOS": "-0.59",
-                "SRS": "3.75",
+                "SRS": "3.76",
                 "ORtg": "118.7",
                 "DRtg": "114.3",
                 "Pace": "96.8",
@@ -263,7 +281,7 @@
                 "PW": "8",
                 "PL": "8",
                 "MOV": "8",
-                "SOS": "26",
+                "SOS": "27",
                 "SRS": "8",
                 "ORtg": "5",
                 "DRtg": "13",
@@ -274,12 +292,12 @@
                 "TOV%": "13",
                 "ORB%": "12",
                 "FT/FGA": "4",
-                "DRB%": "20",
+                "DRB%": "19",
                 "Arena": "",
-                "Attendance": "1"
+                "Attendance": "2"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/NYK-2025.png",
-        "last_update": "Apr 09 2025 22:32:21"
+        "last_update": "Apr 10 2025 22:32:21"
     }
 }

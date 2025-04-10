@@ -29,10 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Darius Garland",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Out (Toe) - The Cavaliers listed Garland as Out for Thursday's (Apr. 10) game against the Pacers."
+            },
+            {
                 "Player": "Donovan Mitchell",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Tue, Apr 8, 2025",
-                "Description": "Day To Day (Ankle) - Mitchell did not play on Tuesday's (Apr. 8) game against the Bulls."
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Out (Ankle) - The Cavaliers listed Mitchell as Out for Thursday's (Apr. 10) game against the Pacers."
+            },
+            {
+                "Player": "Evan Mobley",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Out (Rest) - The Cavaliers listed Mobley as Out for Thursday's (Apr. 10) game against the Pacers."
+            },
+            {
+                "Player": "Max Strus",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Out (Toe) - The Cavaliers listed Strus as Out for Thursday's (Apr. 10) game against the Pacers."
             }
         ],
         "team_stats": {
@@ -88,7 +106,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "3",
                 "FGA": "8",
                 "FG%": "2",
@@ -98,14 +116,14 @@
                 "2P": "13",
                 "2PA": "23",
                 "2P%": "1",
-                "FT": "15",
+                "FT": "14",
                 "FTA": "15",
                 "FT%": "15",
                 "ORB": "15",
-                "DRB": "7",
+                "DRB": "6",
                 "TRB": "10",
                 "AST": "9",
-                "STL": "11",
+                "STL": "12",
                 "BLK": "28",
                 "TOV": "3",
                 "PF": "10",
@@ -188,8 +206,8 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
-                "FG": "12",
+                "MP": "29",
+                "FG": "11",
                 "FGA": "22",
                 "FG%": "4",
                 "3P": "13",
@@ -197,19 +215,19 @@
                 "3P%": "14",
                 "2P": "12",
                 "2PA": "23",
-                "2P%": "3",
-                "FT": "12",
+                "2P%": "2",
+                "FT": "11",
                 "FTA": "10",
                 "FT%": "14",
-                "ORB": "19",
+                "ORB": "21",
                 "DRB": "4",
                 "TRB": "10",
                 "AST": "8",
-                "STL": "9",
+                "STL": "10",
                 "BLK": "5",
                 "TOV": "14",
                 "PF": "9",
-                "PTS": "11"
+                "PTS": "12"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -267,7 +285,7 @@
                 "SRS": "2",
                 "ORtg": "1",
                 "DRtg": "8",
-                "Pace": "9",
+                "Pace": "8",
                 "FTr": "18",
                 "3PAr": "4",
                 "eFG%": "4",
@@ -280,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/CLE-2025.png",
-        "last_update": "Apr 09 2025 22:32:21"
+        "last_update": "Apr 10 2025 22:32:21"
     }
 }

@@ -57,6 +57,12 @@
                 "Team": "Atlanta Hawks",
                 "Update": "Tue, Apr 8, 2025",
                 "Description": "Day To Day (Calf) - Toppin did not play on Tuesday's (Apr. 8) game against the Magic."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks have listed Young as Probable for Thursday's (Apr. 10) game against the Nets."
             }
         ],
         "team_stats": {
@@ -112,20 +118,20 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "24",
                 "FG": "7",
                 "FGA": "4",
                 "FG%": "14",
                 "3P": "14",
                 "3PA": "15",
-                "3P%": "18",
+                "3P%": "20",
                 "2P": "8",
                 "2PA": "9",
                 "2P%": "15",
-                "FT": "4",
-                "FTA": "4",
+                "FT": "3",
+                "FTA": "3",
                 "FT%": "19",
-                "ORB": "8",
+                "ORB": "9",
                 "DRB": "24",
                 "TRB": "14",
                 "AST": "2",
@@ -212,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "24",
                 "FG": "26",
                 "FGA": "20",
                 "FG%": "29",
@@ -231,7 +237,7 @@
                 "AST": "24",
                 "STL": "28",
                 "BLK": "15",
-                "TOV": "3",
+                "TOV": "4",
                 "PF": "7",
                 "PTS": "27"
             },
@@ -304,6 +310,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/ATL-2025.png",
-        "last_update": "Apr 09 2025 22:32:21"
+        "last_update": "Apr 10 2025 22:32:21"
     }
 }

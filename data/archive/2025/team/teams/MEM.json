@@ -2,7 +2,7 @@
     "MEM": {
         "info": {
             "record": "47-32",
-            "standing": "7th in West",
+            "standing": "6th in West",
             "coach": "Taylor Jenkins (44-29), Tuomas Iisalo (3-3)",
             "gm": "Zach Kleiman",
             "preseason_odds": "+4000"
@@ -37,8 +37,8 @@
             {
                 "Player": "Zyon Pullin",
                 "Team": "Memphis Grizzlies",
-                "Update": "Tue, Apr 8, 2025",
-                "Description": "Day To Day (Knee) - Pullin did not play on Tuesday's (Apr. 7) game against the Hornets. It's unclear if he has any chance of playing again this season."
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Out (Knee) - The Grizzlies listed Pullin as Out on Thursday's (Apr. 10) game against the Timberwolves. It's unclear if he has any chance of playing again this season."
             },
             {
                 "Player": "Jaylen Wells",
@@ -100,7 +100,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "2",
                 "FGA": "2",
                 "FG%": "8",
@@ -200,24 +200,24 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "27",
+                "MP": "29",
                 "FG": "19",
                 "FGA": "25",
                 "FG%": "3",
-                "3P": "27",
-                "3PA": "28",
+                "3P": "26",
+                "3PA": "27",
                 "3P%": "16",
                 "2P": "8",
                 "2PA": "19",
-                "2P%": "4",
-                "FT": "28",
+                "2P%": "5",
+                "FT": "27",
                 "FTA": "29",
                 "FT%": "5",
                 "ORB": "22",
                 "DRB": "7",
-                "TRB": "12",
-                "AST": "19",
-                "STL": "20",
+                "TRB": "11",
+                "AST": "18",
+                "STL": "21",
                 "BLK": "26",
                 "TOV": "7",
                 "PF": "2",
@@ -254,8 +254,8 @@
                 "PW": "51",
                 "PL": "28",
                 "MOV": "4.90",
-                "SOS": "-0.14",
-                "SRS": "4.76",
+                "SOS": "-0.13",
+                "SRS": "4.77",
                 "ORtg": "117.7",
                 "DRtg": "112.9",
                 "Pace": "103.3",
@@ -270,15 +270,15 @@
                 "Attendance": "648,266"
             },
             "Misc Lg Rank": {
-                "W": "8",
-                "L": "20",
+                "W": "10",
+                "L": "21",
                 "PW": "6",
                 "PL": "6",
                 "MOV": "5",
                 "SOS": "21",
-                "SRS": "6",
+                "SRS": "7",
                 "ORtg": "6",
-                "DRtg": "11",
+                "DRtg": "10",
                 "Pace": "1",
                 "FTr": "10",
                 "3PAr": "20",
@@ -288,10 +288,10 @@
                 "FT/FGA": "25",
                 "DRB%": "14",
                 "Arena": "",
-                "Attendance": "27"
+                "Attendance": "29"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/MEM-2025.png",
-        "last_update": "Apr 09 2025 22:32:21"
+        "last_update": "Apr 10 2025 22:32:21"
     }
 }

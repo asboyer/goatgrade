@@ -29,16 +29,28 @@
         ],
         "injuries": [
             {
+                "Player": "Cade Cunningham",
+                "Team": "Detroit Pistons",
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Day To Day (Knee) - The Pistons listed Cunningham as Probable for Thursday's (Apr. 10) game against New York."
+            },
+            {
                 "Player": "Tobias Harris",
                 "Team": "Detroit Pistons",
-                "Update": "Mon, Apr 7, 2025",
-                "Description": "Day To Day (Achilles) - Harris did not play in Sunday's (Apr. 6) game against the Kings."
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Day To Day (Achilles) - The Pistons listed Harris as Probable for Thursday's (Apr. 10) game against New York."
             },
             {
                 "Player": "Jaden Ivey",
                 "Team": "Detroit Pistons",
                 "Update": "Thu, Mar 13, 2025",
                 "Description": "Out (Leg) - The Pistons announced on Thursday (Mar. 13) that Ivey has transitioned to weight-bearing strengthening exercises, running progression activity and stationary shooting. His recovery progress will be updated in another four weeks."
+            },
+            {
+                "Player": "Isaiah Stewart",
+                "Team": "Detroit Pistons",
+                "Update": "Wed, Apr 9, 2025",
+                "Description": "Day To Day (Knee) - The Pistons listed Stewart as Qustionable for Thursday's (Apr. 10) game against New York."
             }
         ],
         "team_stats": {
@@ -94,26 +106,26 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "24",
                 "FG": "10",
                 "FGA": "16",
                 "FG%": "13",
-                "3P": "20",
-                "3PA": "23",
+                "3P": "21",
+                "3PA": "24",
                 "3P%": "17",
                 "2P": "9",
                 "2PA": "8",
                 "2P%": "17",
-                "FT": "7",
-                "FTA": "10",
-                "FT%": "17",
+                "FT": "8",
+                "FTA": "11",
+                "FT%": "18",
                 "ORB": "10",
                 "DRB": "10",
                 "TRB": "11",
                 "AST": "14",
-                "STL": "15",
+                "STL": "16",
                 "BLK": "10",
-                "TOV": "21",
+                "TOV": "22",
                 "PF": "28",
                 "PTS": "11"
             },
@@ -194,15 +206,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "11",
+                "MP": "24",
                 "FG": "6",
                 "FGA": "7",
-                "FG%": "8",
-                "3P": "15",
+                "FG%": "7",
+                "3P": "16",
                 "3PA": "12",
-                "3P%": "19",
+                "3P%": "20",
                 "2P": "4",
-                "2PA": "11",
+                "2PA": "12",
                 "2P%": "6",
                 "FT": "29",
                 "FTA": "28",
@@ -210,10 +222,10 @@
                 "ORB": "8",
                 "DRB": "8",
                 "TRB": "7",
-                "AST": "5",
+                "AST": "4",
                 "STL": "24",
                 "BLK": "16",
-                "TOV": "9",
+                "TOV": "10",
                 "PF": "10",
                 "PTS": "14"
             },
@@ -271,9 +283,9 @@
                 "MOV": "13",
                 "SOS": "24",
                 "SRS": "12",
-                "ORtg": "16",
+                "ORtg": "17",
                 "DRtg": "9",
-                "Pace": "8",
+                "Pace": "7",
                 "FTr": "11",
                 "3PAr": "22",
                 "eFG%": "9",
@@ -286,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/DET-2025.png",
-        "last_update": "Apr 09 2025 22:32:21"
+        "last_update": "Apr 10 2025 22:32:21"
     }
 }
