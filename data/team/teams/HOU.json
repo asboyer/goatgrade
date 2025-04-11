@@ -31,26 +31,26 @@
             {
                 "Player": "Alperen Şengün",
                 "Team": "Houston Rockets",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Back) - Sengun did not play in Wednesday's (Apr. 9) game against the Clippers."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Back) - The Rockets listed Sengun as Questionable on Friday's (Apr. 11) game against the Lakers."
             },
             {
                 "Player": "Jabari Smith Jr.",
                 "Team": "Houston Rockets",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Groin) - Smith Jr. did not play in Wednesday's (Apr. 9) game against the Clippers."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Groin) - The Rockets listed Smith Jr. as Questionable on Friday's (Apr. 11) game against the Lakers."
             },
             {
-                "Player": "Amen Thompson",
+                "Player": "Jae'Sean Tate",
                 "Team": "Houston Rockets",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Rest) - Thompson did not play in Wednesday's (Apr. 9) game against the Clippers."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Ankle) - The Rockets listed Tate as Out on Friday's (Apr. 11) game against the Lakers."
             },
             {
                 "Player": "Fred VanVleet",
                 "Team": "Houston Rockets",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Ankle) - VanVleet did not play in Wednesday's (Apr. 9) game against the Clippers."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Ankle) - The Rockets listed VanVleet as Questionable on Friday's (Apr. 11) game against the Lakers."
             }
         ],
         "team_stats": {
@@ -106,14 +106,14 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "12",
                 "FG": "11",
                 "FGA": "1",
                 "FG%": "23",
                 "3P": "22",
                 "3PA": "21",
                 "3P%": "21",
-                "2P": "7",
+                "2P": "8",
                 "2PA": "1",
                 "2P%": "28",
                 "FT": "18",
@@ -123,7 +123,7 @@
                 "DRB": "7",
                 "TRB": "1",
                 "AST": "28",
-                "STL": "10",
+                "STL": "9",
                 "BLK": "13",
                 "TOV": "10",
                 "PF": "17",
@@ -206,16 +206,16 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "9",
+                "MP": "12",
                 "FG": "4",
                 "FGA": "11",
                 "FG%": "5",
                 "3P": "2",
                 "3PA": "2",
-                "3P%": "10",
+                "3P%": "9",
                 "2P": "17",
                 "2PA": "27",
-                "2P%": "3",
+                "2P%": "2",
                 "FT": "10",
                 "FTA": "14",
                 "FT%": "1",
@@ -260,8 +260,8 @@
                 "PW": "53",
                 "PL": "27",
                 "MOV": "5.20",
-                "SOS": "0.39",
-                "SRS": "5.59",
+                "SOS": "0.38",
+                "SRS": "5.58",
                 "ORtg": "115.5",
                 "DRtg": "110.2",
                 "Pace": "98.5",
@@ -283,21 +283,21 @@
                 "MOV": "4",
                 "SOS": "6",
                 "SRS": "4",
-                "ORtg": "12",
+                "ORtg": "13",
                 "DRtg": "4",
                 "Pace": "18",
                 "FTr": "15",
                 "3PAr": "27",
                 "eFG%": "3",
-                "TOV%": "14",
+                "TOV%": "15",
                 "ORB%": "1",
                 "FT/FGA": "12",
                 "DRB%": "7",
                 "Arena": "",
-                "Attendance": "19"
+                "Attendance": "20"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/HOU-2025.png",
-        "last_update": "Apr 10 2025 22:32:21"
+        "last_update": "Apr 11 2025 22:32:22"
     }
 }

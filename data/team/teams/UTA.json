@@ -37,8 +37,8 @@
             {
                 "Player": "Isaiah Collier",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Groin) - Collier did not play in Wednesday's (Apr. 9) game against the Trail Blazers."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Groin) - The Jazz listed Collier as Questionable for Friday's (Apr. 11) game against Oklahoma City."
             },
             {
                 "Player": "John Collins",
@@ -49,8 +49,8 @@
             {
                 "Player": "Elijah Harkless",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Groin) - Harkless did not play in Wednesday's (Apr. 9) game against the Trail Blazers."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Groin) - The Jazz listed Harkless as OUT for Friday's (Apr. 11) game against Oklahoma City."
             },
             {
                 "Player": "Taylor Hendricks",
@@ -61,8 +61,8 @@
             {
                 "Player": "Walker Kessler",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Concussion) - Kessler did not play in Wednesday's (Apr. 9) game against the Trail Blazers."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Concussion) - The Jazz listed Kessler as OUT for Friday's (Apr. 11) game against Oklahoma City."
             },
             {
                 "Player": "Lauri Markkanen",
@@ -73,8 +73,8 @@
             {
                 "Player": "KJ Martin",
                 "Team": "Utah Jazz",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Illness) - Martin did not play in Wednesday's (Apr. 9) game against the Trail Blazers."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Illness) - The Jazz listed Martin as OUT for Friday's (Apr. 11) game against Oklahoma City."
             },
             {
                 "Player": "Cody Williams",
@@ -136,17 +136,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "24",
                 "FGA": "20",
                 "FG%": "21",
-                "3P": "10",
+                "3P": "11",
                 "3PA": "7",
                 "3P%": "22",
                 "2P": "24",
                 "2PA": "25",
                 "2P%": "19",
-                "FT": "9",
+                "FT": "8",
                 "FTA": "10",
                 "FT%": "21",
                 "ORB": "8",
@@ -236,7 +236,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "29",
                 "FGA": "28",
                 "FG%": "26",
@@ -245,7 +245,7 @@
                 "3P%": "12",
                 "2P": "27",
                 "2PA": "14",
-                "2P%": "30",
+                "2P%": "29",
                 "FT": "19",
                 "FTA": "22",
                 "FT%": "2",
@@ -290,8 +290,8 @@
                 "PW": "20",
                 "PL": "60",
                 "MOV": "-9.01",
-                "SOS": "0.62",
-                "SRS": "-8.39",
+                "SOS": "0.61",
+                "SRS": "-8.40",
                 "ORtg": "111.3",
                 "DRtg": "120.3",
                 "Pace": "100.0",
@@ -308,8 +308,8 @@
             "Misc Lg Rank": {
                 "W": "29",
                 "L": "1",
-                "PW": "28",
-                "PL": "28",
+                "PW": "27",
+                "PL": "27",
                 "MOV": "29",
                 "SOS": "2",
                 "SRS": "28",
@@ -328,6 +328,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/UTA-2025.png",
-        "last_update": "Apr 10 2025 22:32:21"
+        "last_update": "Apr 11 2025 22:32:22"
     }
 }

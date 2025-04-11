@@ -36,22 +36,16 @@
                 "Description": "Out For Season (Ankle) - Ball will miss the rest of the 2024-25 NBA season as he undergoes two minor procedures to address ankle and wrist issues, per Shams Charania of ESPN."
             },
             {
-                "Player": "Miles Bridges",
-                "Team": "Charlotte Hornets",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Hip) - Bridges did not play in Wednesday's (Apr. 9) game against the Raptors."
-            },
-            {
                 "Player": "Moussa Diabaté",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Illness) - Diabate did not play in Wednesday's (Apr. 9) game against the Raptors."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Illness) - The Hornets listed DiabatÃ© as Questionable for Friday's (Apr. 11) game against Boston."
             },
             {
                 "Player": "Josh Green",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Shoulder) - Green did not play in Wednesday's (Apr. 9) game against the Raptors."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Shoulder) - The Hornets listed Green as OUT for Friday's (Apr. 11) game against Boston."
             },
             {
                 "Player": "Tre Mann",
@@ -74,8 +68,8 @@
             {
                 "Player": "Mark Williams",
                 "Team": "Charlotte Hornets",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Rest) - Williams did not play in Wednesday's (Apr. 9) game against the Raptors."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Rest) - The Hornets listed Williams as OUT for Friday's (Apr. 11) game against Boston."
             }
         ],
         "team_stats": {
@@ -131,7 +125,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "18",
                 "FG": "28",
                 "FGA": "18",
                 "FG%": "30",
@@ -146,7 +140,7 @@
                 "FT%": "14",
                 "ORB": "6",
                 "DRB": "16",
-                "TRB": "9",
+                "TRB": "10",
                 "AST": "26",
                 "STL": "26",
                 "BLK": "21",
@@ -231,7 +225,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "12",
+                "MP": "18",
                 "FG": "15",
                 "FGA": "15",
                 "FG%": "16",
@@ -240,7 +234,7 @@
                 "3P%": "8",
                 "2P": "7",
                 "2PA": "5",
-                "2P%": "25",
+                "2P%": "26",
                 "FT": "16",
                 "FTA": "15",
                 "FT%": "25",
@@ -248,7 +242,7 @@
                 "DRB": "24",
                 "TRB": "23",
                 "AST": "16",
-                "STL": "20",
+                "STL": "21",
                 "BLK": "23",
                 "TOV": "23",
                 "PF": "22",
@@ -305,7 +299,7 @@
                 "L": "3",
                 "PW": "29",
                 "PL": "29",
-                "MOV": "28",
+                "MOV": "27",
                 "SOS": "23",
                 "SRS": "29",
                 "ORtg": "29",
@@ -315,14 +309,14 @@
                 "3PAr": "12",
                 "eFG%": "20",
                 "TOV%": "22",
-                "ORB%": "8",
+                "ORB%": "9",
                 "FT/FGA": "18",
-                "DRB%": "20",
+                "DRB%": "19",
                 "Arena": "",
-                "Attendance": "18"
+                "Attendance": "19"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/CHO-2025.png",
-        "last_update": "Apr 10 2025 22:32:21"
+        "last_update": "Apr 11 2025 22:32:22"
     }
 }

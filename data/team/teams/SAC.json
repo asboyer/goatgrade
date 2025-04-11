@@ -23,26 +23,27 @@
             "Jake LaRavia",
             "Isaiah Crawford",
             "Mason Jones",
-            "Jae Crowder"
+            "Jae Crowder",
+            "Terence Davis"
         ],
         "injuries": [
             {
                 "Player": "Jake LaRavia",
                 "Team": "Sacramento Kings",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Thumb) - LaRavia did not play in Wednesday's (Apr. 9) game against the Nuggets."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Thumb) - The Kings listed LaRavia as Out on Friday's (Apr. 11) game against the Clippers."
             },
             {
                 "Player": "Malik Monk",
                 "Team": "Sacramento Kings",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Calf) - Monk did not play in Wednesday's (Apr. 9) game against the Nuggets."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Calf) - The Kings announced Monk has been diagnosed with a left calf strain. He will be listed as out and will be re-evaluated in 14 days."
             },
             {
                 "Player": "Keegan Murray",
                 "Team": "Sacramento Kings",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Back) - Murray did not play in Wednesday's (Apr. 9) game against the Nuggets."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Back) - The Kings listed Murray as Questionable on Friday's (Apr. 11) game against the Clippers."
             }
         ],
         "team_stats": {
@@ -108,7 +109,7 @@
                 "2P": "4",
                 "2PA": "7",
                 "2P%": "12",
-                "FT": "11",
+                "FT": "12",
                 "FTA": "18",
                 "FT%": "4",
                 "ORB": "17",
@@ -119,7 +120,7 @@
                 "BLK": "24",
                 "TOV": "6",
                 "PF": "20",
-                "PTS": "10"
+                "PTS": "9"
             },
             "Year/Year": {
                 "G": "",
@@ -200,8 +201,8 @@
                 "G": "",
                 "MP": "2",
                 "FG": "16",
-                "FGA": "9",
-                "FG%": "23",
+                "FGA": "8",
+                "FG%": "22",
                 "3P": "29",
                 "3PA": "19",
                 "3P%": "30",
@@ -214,7 +215,7 @@
                 "ORB": "3",
                 "DRB": "12",
                 "TRB": "6",
-                "AST": "19",
+                "AST": "17",
                 "STL": "12",
                 "BLK": "8",
                 "TOV": "18",
@@ -252,8 +253,8 @@
                 "PW": "41",
                 "PL": "39",
                 "MOV": "0.36",
-                "SOS": "0.10",
-                "SRS": "0.46",
+                "SOS": "0.09",
+                "SRS": "0.45",
                 "ORtg": "116.7",
                 "DRtg": "116.4",
                 "Pace": "98.4",
@@ -286,10 +287,10 @@
                 "FT/FGA": "21",
                 "DRB%": "3",
                 "Arena": "",
-                "Attendance": "26"
+                "Attendance": "28"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/SAC-2025.png",
-        "last_update": "Apr 10 2025 22:32:21"
+        "last_update": "Apr 11 2025 22:32:22"
     }
 }

@@ -29,10 +29,10 @@
         ],
         "injuries": [
             {
-                "Player": "Ochai Agbaji",
+                "Player": "RJ Barrett",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Rest) - Agbaji did not play in Wednesday's (Apr. 9) game against the Hornets."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Rest) - The Raptors listed Barrett as Out on Friday's (Apr. 11) game against the Mavericks."
             },
             {
                 "Player": "Ulrich Chomche",
@@ -55,20 +55,26 @@
             {
                 "Player": "Jakob Poeltl",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Hand) - Poeltl did not play in Wednesday's (Apr. 9) game against the Hornets."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Hand) - The Raptors listed Poeltl as Out on Friday's (Apr. 11) game against the Mavericks."
             },
             {
-                "Player": "Jamal Shead",
+                "Player": "Immanuel Quickley",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Rest) - Shead did not play in Wednesday's (Apr. 9) game against the Hornets."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Rest) - The Raptors listed Quickley as Out on Friday's (Apr. 11) game against the Mavericks."
+            },
+            {
+                "Player": "Jared Rhoden",
+                "Team": "Toronto Raptors",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Rest) - The Raptors listed Rhoden as Questionable on Friday's (Apr. 11) game against the Mavericks."
             },
             {
                 "Player": "Ja'Kobe Walter",
                 "Team": "Toronto Raptors",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Hip) - Walter did not play in Wednesday's (Apr. 9) game against the Hornets."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Hip) - The Raptors listed Walter as Out on Friday's (Apr. 11) game against the Mavericks."
             }
         ],
         "team_stats": {
@@ -124,7 +130,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "16",
                 "FGA": "6",
                 "FG%": "20",
@@ -136,12 +142,12 @@
                 "2P%": "25",
                 "FT": "28",
                 "FTA": "20",
-                "FT%": "29",
+                "FT%": "28",
                 "ORB": "5",
                 "DRB": "21",
                 "TRB": "7",
                 "AST": "7",
-                "STL": "17",
+                "STL": "16",
                 "BLK": "27",
                 "TOV": "24",
                 "PF": "30",
@@ -224,12 +230,12 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "10",
                 "FGA": "11",
                 "FG%": "11",
-                "3P": "10",
-                "3PA": "16",
+                "3P": "11",
+                "3PA": "15",
                 "3P%": "4",
                 "2P": "15",
                 "2PA": "10",
@@ -243,7 +249,7 @@
                 "AST": "10",
                 "STL": "27",
                 "BLK": "29",
-                "TOV": "8",
+                "TOV": "9",
                 "PF": "23",
                 "PTS": "17"
             },
@@ -299,7 +305,7 @@
                 "PW": "24",
                 "PL": "24",
                 "MOV": "24",
-                "SOS": "19",
+                "SOS": "20",
                 "SRS": "24",
                 "ORtg": "26",
                 "DRtg": "15",
@@ -316,6 +322,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/TOR-2025.png",
-        "last_update": "Apr 10 2025 22:32:21"
+        "last_update": "Apr 11 2025 22:32:22"
     }
 }

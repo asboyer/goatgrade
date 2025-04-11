@@ -30,20 +30,8 @@
             {
                 "Player": "Jaylen Brown",
                 "Team": "Boston Celtics",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Knee) - Brown did not play in Wednesday's (Apr. 9) game against the Magic."
-            },
-            {
-                "Player": "Jrue Holiday",
-                "Team": "Boston Celtics",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Shoulder) - Holiday did not play in Wednesday's (Apr. 9) game against the Magic."
-            },
-            {
-                "Player": "Al Horford",
-                "Team": "Boston Celtics",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Knee) - Horford did not play in Wednesday's (Apr. 9) game against the Magic."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Knee) - The Celtics listed Brown as OUT for Friday's (Apr. 11) game against Charlotte."
             }
         ],
         "team_stats": {
@@ -99,7 +87,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "5",
                 "FG": "15",
                 "FGA": "11",
                 "FG%": "19",
@@ -199,19 +187,19 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
-                "FG": "7",
+                "MP": "5",
+                "FG": "6",
                 "FGA": "17",
                 "FG%": "2",
                 "3P": "7",
                 "3PA": "10",
                 "3P%": "3",
-                "2P": "10",
-                "2PA": "20",
+                "2P": "9",
+                "2PA": "21",
                 "2P%": "4",
                 "FT": "1",
                 "FTA": "1",
-                "FT%": "17",
+                "FT%": "18",
                 "ORB": "7",
                 "DRB": "14",
                 "TRB": "12",
@@ -287,10 +275,10 @@
                 "FT/FGA": "1",
                 "DRB%": "6",
                 "Arena": "",
-                "Attendance": "12"
+                "Attendance": "13"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/BOS-2025.png",
-        "last_update": "Apr 10 2025 22:32:21"
+        "last_update": "Apr 11 2025 22:32:22"
     }
 }

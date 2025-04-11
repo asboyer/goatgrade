@@ -28,6 +28,12 @@
         ],
         "injuries": [
             {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Groin) - The Lakers listed James as Probable on Friday's (Apr. 11) game against the Rockets."
+            },
+            {
                 "Player": "Maxi Kleber",
                 "Team": "Los Angeles Lakers",
                 "Update": "Thu, Apr 3, 2025",
@@ -87,18 +93,18 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
-                "FG": "19",
+                "MP": "21",
+                "FG": "20",
                 "FGA": "30",
                 "FG%": "9",
                 "3P": "15",
-                "3PA": "18",
+                "3PA": "19",
                 "3P%": "15",
                 "2P": "19",
                 "2PA": "24",
                 "2P%": "5",
                 "FT": "2",
-                "FTA": "2",
+                "FTA": "3",
                 "FT%": "11",
                 "ORB": "26",
                 "DRB": "20",
@@ -187,7 +193,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "21",
                 "FG": "13",
                 "FGA": "16",
                 "FG%": "10",
@@ -199,9 +205,9 @@
                 "2P%": "13",
                 "FT": "6",
                 "FTA": "7",
-                "FT%": "13",
-                "ORB": "14",
-                "DRB": "5",
+                "FT%": "15",
+                "ORB": "15",
+                "DRB": "4",
                 "TRB": "8",
                 "AST": "22",
                 "STL": "17",
@@ -241,7 +247,7 @@
                 "PW": "43",
                 "PL": "37",
                 "MOV": "1.21",
-                "SOS": "0.20",
+                "SOS": "0.19",
                 "SRS": "1.41",
                 "ORtg": "116.0",
                 "DRtg": "114.8",
@@ -275,10 +281,10 @@
                 "FT/FGA": "9",
                 "DRB%": "15",
                 "Arena": "",
-                "Attendance": "11"
+                "Attendance": "12"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/LAL-2025.png",
-        "last_update": "Apr 10 2025 22:32:21"
+        "last_update": "Apr 11 2025 22:32:22"
     }
 }

@@ -31,14 +31,14 @@
             {
                 "Player": "Kevin Durant",
                 "Team": "Phoenix Suns",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Ankle) - Durant did not play in Wednesday's (Apr. 9) game against the Thunder."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Ankle) - The Suns listed Durant as Out on Friday's (Apr. 11) game against the Spurs."
             },
             {
                 "Player": "Nick Richards",
                 "Team": "Phoenix Suns",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Elbow) - Richards did not play in Wednesday's (Apr. 9) game against the Thunder."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Elbow) - The Suns listed Richcards as Out on Friday's (Apr. 11) game against the Spurs."
             }
         ],
         "team_stats": {
@@ -94,17 +94,17 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "5",
                 "FG": "18",
                 "FGA": "27",
                 "FG%": "11",
                 "3P": "7",
                 "3PA": "14",
-                "3P%": "3",
+                "3P%": "4",
                 "2P": "21",
                 "2PA": "26",
                 "2P%": "9",
-                "FT": "15",
+                "FT": "14",
                 "FTA": "21",
                 "FT%": "2",
                 "ORB": "28",
@@ -194,11 +194,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "4",
+                "MP": "5",
                 "FG": "22",
                 "FGA": "19",
-                "FG%": "21",
-                "3P": "23",
+                "FG%": "20",
+                "3P": "22",
                 "3PA": "20",
                 "3P%": "27",
                 "2P": "19",
@@ -215,7 +215,7 @@
                 "BLK": "3",
                 "TOV": "29",
                 "PF": "17",
-                "PTS": "24"
+                "PTS": "23"
             },
             "Opp Year/Year": {
                 "G": "",
@@ -249,7 +249,7 @@
                 "PL": "48",
                 "MOV": "-3.18",
                 "SOS": "0.48",
-                "SRS": "-2.69",
+                "SRS": "-2.70",
                 "ORtg": "116.2",
                 "DRtg": "119.5",
                 "Pace": "97.1",
@@ -271,8 +271,8 @@
                 "MOV": "22",
                 "SOS": "3",
                 "SRS": "22",
-                "ORtg": "9",
-                "DRtg": "29",
+                "ORtg": "10",
+                "DRtg": "28",
                 "Pace": "25",
                 "FTr": "14",
                 "3PAr": "9",
@@ -282,10 +282,10 @@
                 "FT/FGA": "19",
                 "DRB%": "24",
                 "Arena": "",
-                "Attendance": "21"
+                "Attendance": "22"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/PHO-2025.png",
-        "last_update": "Apr 10 2025 22:32:21"
+        "last_update": "Apr 11 2025 22:32:22"
     }
 }

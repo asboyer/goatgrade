@@ -31,14 +31,14 @@
             {
                 "Player": "Saddiq Bey",
                 "Team": "Washington Wizards",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Knee) - Bey did not play in Wednesday's (Apr. 9) game against the 76ers."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Knee) - The Wizards listed Bey as Out on Friday's (Apr. 11) game against the Bulls."
             },
             {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Ankle) - Brogdon did not play in Wednesday's (Apr. 9) game against the 76ers."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Ankle) - The Wizards listed Brogdon as Out on Friday's (Apr. 11) game against the Bulls."
             },
             {
                 "Player": "Bilal Coulibaly",
@@ -55,8 +55,8 @@
             {
                 "Player": "Richaun Holmes",
                 "Team": "Washington Wizards",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Shoulder) - Holmes did not play in Wednesday's (Apr. 9) game against the 76ers."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Shoulder) - The Wizards listed Thor as Doubtful on Friday's (Apr. 11) game against the Bulls."
             },
             {
                 "Player": "Corey Kispert",
@@ -67,20 +67,20 @@
             {
                 "Player": "Khris Middleton",
                 "Team": "Washington Wizards",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Knee) - Middleton did not play in Wednesday's (Apr. 9) game against the 76ers."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Knee) - The Wizards listed Middleton as Out on Friday's (Apr. 11) game against the Bulls."
             },
             {
                 "Player": "Jordan Poole",
                 "Team": "Washington Wizards",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Elbow) - Poole did not play in Wednesday's (Apr. 9) game against the 76ers."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Elbow) - The Wizards listed Poole as Out on Friday's (Apr. 11) game against the Bulls."
             },
             {
                 "Player": "JT Thor",
                 "Team": "Washington Wizards",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Knee) - Thor has been ruled out for the rest of Wednesday's (Apr. 9) game against the 76ers due to right knee soreness."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Knee) - The Wizards listed Thor as Questoinable on Friday's (Apr. 11) game against the Bulls."
             }
         ],
         "team_stats": {
@@ -136,7 +136,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "21",
                 "FG": "27",
                 "FGA": "12",
                 "FG%": "28",
@@ -154,7 +154,7 @@
                 "TRB": "18",
                 "AST": "25",
                 "STL": "23",
-                "BLK": "12",
+                "BLK": "11",
                 "TOV": "27",
                 "PF": "24",
                 "PTS": "27"
@@ -236,15 +236,15 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "21",
                 "FG": "27",
                 "FGA": "27",
                 "FG%": "19",
-                "3P": "27",
+                "3P": "26",
                 "3PA": "24",
                 "3P%": "23",
-                "2P": "24",
-                "2PA": "26",
+                "2P": "25",
+                "2PA": "25",
                 "2P%": "19",
                 "FT": "28",
                 "FTA": "27",
@@ -311,23 +311,23 @@
                 "PW": "30",
                 "PL": "30",
                 "MOV": "30",
-                "SOS": "7",
+                "SOS": "8",
                 "SRS": "30",
                 "ORtg": "30",
                 "DRtg": "27",
                 "Pace": "4",
                 "FTr": "26",
                 "3PAr": "10",
-                "eFG%": "22",
+                "eFG%": "21",
                 "TOV%": "25",
                 "ORB%": "25",
                 "FT/FGA": "22",
                 "DRB%": "30",
                 "Arena": "",
-                "Attendance": "25"
+                "Attendance": "27"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/WAS-2025.png",
-        "last_update": "Apr 10 2025 22:32:21"
+        "last_update": "Apr 11 2025 22:32:22"
     }
 }

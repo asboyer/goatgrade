@@ -37,14 +37,14 @@
             {
                 "Player": "Pelle Larsson",
                 "Team": "Miami Heat",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Ankle) - Larsson sustained a sprained ankle lifting weights before Wednesday's (Apr. 9) game against the Bulls and will be unavailable for the contest, as per Tim Reynolds of Associated Press."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Ankle) - The Heat listed Larsson as Out for Friday's (Apr. 11) game against the Pelicans."
             },
             {
                 "Player": "Kevin Love",
                 "Team": "Miami Heat",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Personal) - Love did not play in Wednesday's (Apr. 9) game against the Bulls."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Personal) - The Heat listed Love as Out for Friday's (Apr. 11) game against the Pelicans."
             },
             {
                 "Player": "Dru Smith",
@@ -55,8 +55,8 @@
             {
                 "Player": "Isaiah Stevens",
                 "Team": "Miami Heat",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Foot) - Stevens did not play in Wednesday's (Apr. 9) game against the Bulls."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Foot) - The Heat listed Stevens as Questionable for Friday's (Apr. 11) game against the Pelicans."
             }
         ],
         "team_stats": {
@@ -118,7 +118,7 @@
                 "FG%": "18",
                 "3P": "12",
                 "3PA": "16",
-                "3P%": "12",
+                "3P%": "13",
                 "2P": "23",
                 "2PA": "22",
                 "2P%": "21",
@@ -126,10 +126,10 @@
                 "FTA": "27",
                 "FT%": "8",
                 "ORB": "27",
-                "DRB": "11",
+                "DRB": "10",
                 "TRB": "22",
-                "AST": "15",
-                "STL": "14",
+                "AST": "14",
+                "STL": "15",
                 "BLK": "30",
                 "TOV": "9",
                 "PF": "1",
@@ -224,7 +224,7 @@
                 "2P%": "18",
                 "FT": "2",
                 "FTA": "2",
-                "FT%": "12",
+                "FT%": "14",
                 "ORB": "10",
                 "DRB": "26",
                 "TRB": "20",
@@ -266,8 +266,8 @@
                 "PW": "40",
                 "PL": "40",
                 "MOV": "-0.03",
-                "SOS": "-0.20",
-                "SRS": "-0.23",
+                "SOS": "-0.19",
+                "SRS": "-0.22",
                 "ORtg": "113.0",
                 "DRtg": "113.0",
                 "Pace": "96.1",
@@ -287,10 +287,10 @@
                 "PW": "16",
                 "PL": "16",
                 "MOV": "16",
-                "SOS": "22",
+                "SOS": "21",
                 "SRS": "16",
                 "ORtg": "21",
-                "DRtg": "11",
+                "DRtg": "10",
                 "Pace": "28",
                 "FTr": "23",
                 "3PAr": "11",
@@ -304,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/MIA-2025.png",
-        "last_update": "Apr 10 2025 22:32:21"
+        "last_update": "Apr 11 2025 22:32:22"
     }
 }

@@ -28,10 +28,28 @@
         ],
         "injuries": [
             {
+                "Player": "Anthony Davis",
+                "Team": "Dallas Mavericks",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Groin) - The Mavericks listed Davis as Probable for Friday's (Apr. 11) game against Toronto."
+            },
+            {
+                "Player": "Spencer Dinwiddie",
+                "Team": "Dallas Mavericks",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Knee) - The Mavericks listed Dinwiddie as Questionable for Friday's (Apr. 11) game against Toronto."
+            },
+            {
+                "Player": "Dante Exum",
+                "Team": "Dallas Mavericks",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Hand) - The Mavericks listed Exum as Questionable for Friday's (Apr. 11) game against Toronto."
+            },
+            {
                 "Player": "Jaden Hardy",
                 "Team": "Dallas Mavericks",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Leg) - Hardy did not play in Wednesday's (Apr. 9) game against the Lakers."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Leg) - The Mavericks listed Hardy as Questionable for Friday's (Apr. 11) game against Toronto."
             },
             {
                 "Player": "Kyrie Irving",
@@ -44,6 +62,12 @@
                 "Team": "Dallas Mavericks",
                 "Update": "Thu, Mar 13, 2025",
                 "Description": "Out For Season (Wrist) - The Mavericks announced on Thursday (Mar. 13) that Prosper has been ruled out for the remainder of the 2024-25 season after undergoing surgery to repair a right wrist injury."
+            },
+            {
+                "Player": "Klay Thompson",
+                "Team": "Dallas Mavericks",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Foot) - The Mavericks listed Thompson as Questionable for Friday's (Apr. 11) game against Toronto."
             }
         ],
         "team_stats": {
@@ -99,23 +123,23 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "21",
                 "FG": "12",
                 "FGA": "21",
                 "FG%": "10",
-                "3P": "26",
+                "3P": "25",
                 "3PA": "26",
                 "3P%": "14",
                 "2P": "11",
                 "2PA": "11",
-                "2P%": "14",
+                "2P%": "15",
                 "FT": "5",
                 "FTA": "4",
                 "FT%": "23",
                 "ORB": "24",
                 "DRB": "19",
                 "TRB": "23",
-                "AST": "23",
+                "AST": "24",
                 "STL": "21",
                 "BLK": "6",
                 "TOV": "13",
@@ -199,7 +223,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "21",
                 "FG": "23",
                 "FGA": "24",
                 "FG%": "18",
@@ -211,13 +235,13 @@
                 "2P%": "10",
                 "FT": "13",
                 "FTA": "11",
-                "FT%": "16",
+                "FT%": "17",
                 "ORB": "28",
                 "DRB": "17",
                 "TRB": "24",
                 "AST": "20",
                 "STL": "13",
-                "BLK": "11",
+                "BLK": "12",
                 "TOV": "24",
                 "PF": "15",
                 "PTS": "19"
@@ -253,8 +277,8 @@
                 "PW": "37",
                 "PL": "43",
                 "MOV": "-1.06",
-                "SOS": "0.47",
-                "SRS": "-0.60",
+                "SOS": "0.46",
+                "SRS": "-0.61",
                 "ORtg": "114.9",
                 "DRtg": "116.0",
                 "Pace": "99.2",
@@ -277,7 +301,7 @@
                 "SOS": "4",
                 "SRS": "17",
                 "ORtg": "16",
-                "DRtg": "19",
+                "DRtg": "20",
                 "Pace": "14",
                 "FTr": "4",
                 "3PAr": "24",
@@ -291,6 +315,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/DAL-2025.png",
-        "last_update": "Apr 10 2025 22:32:21"
+        "last_update": "Apr 11 2025 22:32:22"
     }
 }

@@ -33,14 +33,14 @@
             {
                 "Player": "Andre Drummond",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Toe) - Drummond did not play in Wednesday's (Apr. 9) game against the Wizards."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Toe) - The 76ers listed Drummond as Out for Friday's (Apr. 11) game against the Hawks."
             },
             {
                 "Player": "Justin Edwards",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Ribs) - Edwards did not play in Wednesday's (Apr. 9) game against the Wizards."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Ribs) - The 76ers listed Edwards as Questionable for Friday's (Apr. 11) game against the Hawks."
             },
             {
                 "Player": "Joel Embiid",
@@ -61,10 +61,16 @@
                 "Description": "Out For Season (Wrist) - The 76ers announced on Thursday (Feb. 27) that Gordon will be re-evaluated in three months after undergoing successful wrist surgery, as per Keith Pompey of The Philadelphia Inquirer."
             },
             {
+                "Player": "Quentin Grimes",
+                "Team": "Philadelphia 76ers",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Shoulder) - The 76ers listed Grimes as Questionable for Friday's (Apr. 11) game against the Hawks."
+            },
+            {
                 "Player": "Kyle Lowry",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Hip) - Lowry did not play in Wednesday's (Apr. 9) game against the Wizards."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Hip) - The 76ers listed Lowry as Out for Friday's (Apr. 11) game against the Hawks."
             },
             {
                 "Player": "Tyrese Maxey",
@@ -81,14 +87,20 @@
             {
                 "Player": "Kelly Oubre Jr.",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Knee) - Oubre Jr. did not play in Wednesday's (Apr. 9) game against the Wizards."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Knee) - The 76ers listed Oubre Jr. as Out for Friday's (Apr. 11) game against the Hawks."
+            },
+            {
+                "Player": "Alex Reese",
+                "Team": "Philadelphia 76ers",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Achilles) - The 76ers listed Reese as Questionable for Friday's (Apr. 11) game against the Hawks."
             },
             {
                 "Player": "Guerschon Yabusele",
                 "Team": "Philadelphia 76ers",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Personal) - Yabusele did not play in Wednesday's (Apr. 9) game against the Wizards."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Personal) - The 76ers listed Yabusele as Out for Friday's (Apr. 11) game against the Hawks."
             }
         ],
         "team_stats": {
@@ -144,7 +156,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "26",
                 "FGA": "23",
                 "FG%": "22",
@@ -244,11 +256,11 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "6",
+                "MP": "8",
                 "FG": "20",
                 "FGA": "4",
                 "FG%": "30",
-                "3P": "24",
+                "3P": "23",
                 "3PA": "14",
                 "3P%": "29",
                 "2P": "18",
@@ -259,11 +271,11 @@
                 "FT%": "28",
                 "ORB": "18",
                 "DRB": "25",
-                "TRB": "26",
-                "AST": "25",
+                "TRB": "25",
+                "AST": "24",
                 "STL": "5",
                 "BLK": "19",
-                "TOV": "3",
+                "TOV": "4",
                 "PF": "16",
                 "PTS": "21"
             },
@@ -298,7 +310,7 @@
                 "PW": "26",
                 "PL": "54",
                 "MOV": "-5.96",
-                "SOS": "-0.02",
+                "SOS": "-0.03",
                 "SRS": "-5.99",
                 "ORtg": "112.1",
                 "DRtg": "118.2",
@@ -319,7 +331,7 @@
                 "PW": "25",
                 "PL": "25",
                 "MOV": "25",
-                "SOS": "16",
+                "SOS": "17",
                 "SRS": "25",
                 "ORtg": "22",
                 "DRtg": "26",
@@ -336,6 +348,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/PHI-2025.png",
-        "last_update": "Apr 10 2025 22:32:21"
+        "last_update": "Apr 11 2025 22:32:22"
     }
 }

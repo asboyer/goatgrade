@@ -29,16 +29,40 @@
         ],
         "injuries": [
             {
+                "Player": "Paolo Banchero",
+                "Team": "Orlando Magic",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Ankle) - The Magic listed Banchero as Questionable for Friday's (Apr. 11) game against the Pacers."
+            },
+            {
                 "Player": "Kentavious Caldwell-Pope",
                 "Team": "Orlando Magic",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Knee) - Caldwell-Pope has been ruled out for the rest of the game on Wednesday (Apr. 9) due to a knee issue."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Knee) - The Magic listed Caldwell-Pope as Questionable for Friday's (Apr. 11) game against the Pacers."
+            },
+            {
+                "Player": "Wendell Carter Jr.",
+                "Team": "Orlando Magic",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Hip) - The Magic listed Carter Jr. as Questionable for Friday's (Apr. 11) game against the Pacers."
+            },
+            {
+                "Player": "Cory Joseph",
+                "Team": "Orlando Magic",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Knee) - The Magic listed Joseph as Questionable for Friday's (Apr. 11) game against the Pacers."
             },
             {
                 "Player": "Jalen Suggs",
                 "Team": "Orlando Magic",
                 "Update": "Tue, Mar 4, 2025",
                 "Description": "Out For Season (Quad) - The Magic announced on Tuesday (Mar. 4) that Suggs has been ruled out for the remainder of the 2024-25 campaign after undergoing successful surgery."
+            },
+            {
+                "Player": "Franz Wagner",
+                "Team": "Orlando Magic",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Day To Day (Knee) - The Magic listed Wagner as Questionable for Friday's (Apr. 11) game against the Pacers."
             },
             {
                 "Player": "Moritz Wagner",
@@ -100,7 +124,7 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "21",
                 "FG": "29",
                 "FGA": "29",
                 "FG%": "27",
@@ -200,13 +224,13 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "21",
                 "FG": "2",
                 "FGA": "1",
                 "FG%": "15",
                 "3P": "1",
                 "3PA": "1",
-                "3P%": "18",
+                "3P%": "19",
                 "2P": "3",
                 "2PA": "7",
                 "2P%": "7",
@@ -217,7 +241,7 @@
                 "DRB": "15",
                 "TRB": "3",
                 "AST": "1",
-                "STL": "9",
+                "STL": "10",
                 "BLK": "10",
                 "TOV": "2",
                 "PF": "1",
@@ -254,8 +278,8 @@
                 "PW": "40",
                 "PL": "40",
                 "MOV": "-0.15",
-                "SOS": "-0.58",
-                "SRS": "-0.73",
+                "SOS": "-0.59",
+                "SRS": "-0.74",
                 "ORtg": "109.2",
                 "DRtg": "109.4",
                 "Pace": "96.0",
@@ -275,7 +299,7 @@
                 "PW": "17",
                 "PL": "17",
                 "MOV": "17",
-                "SOS": "26",
+                "SOS": "27",
                 "SRS": "18",
                 "ORtg": "27",
                 "DRtg": "2",
@@ -292,6 +316,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/ORL-2025.png",
-        "last_update": "Apr 10 2025 22:32:21"
+        "last_update": "Apr 11 2025 22:32:22"
     }
 }

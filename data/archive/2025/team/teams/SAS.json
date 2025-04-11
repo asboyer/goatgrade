@@ -35,10 +35,28 @@
                 "Description": "Out For Season (Hand) - The Spurs announced on Thursday (Mar. 13) that Fox will undergo season-ending surgery to repair tendon damage in his left pinkie finger."
             },
             {
+                "Player": "Keldon Johnson",
+                "Team": "San Antonio Spurs",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Ankle) - The Spurs listed Johnson as Out on Friday's (Apr. 11) game against the Suns."
+            },
+            {
+                "Player": "Riley Minix",
+                "Team": "San Antonio Spurs",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Shoulder) - The Spurs listed Minix as Out on Friday's (Apr. 11) game against the Suns."
+            },
+            {
                 "Player": "Jeremy Sochan",
                 "Team": "San Antonio Spurs",
-                "Update": "Wed, Apr 9, 2025",
-                "Description": "Day To Day (Back) - Sochan did not play in Wednesday's (Apr. 9) game against the Warriors."
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Back) - The Spurs listed Sochan as Out on Friday's (Apr. 11) game against the Suns."
+            },
+            {
+                "Player": "Devin Vassell",
+                "Team": "San Antonio Spurs",
+                "Update": "Thu, Apr 10, 2025",
+                "Description": "Out (Ankle) - The Spurs listed Vassell as Out on Friday's (Apr. 11) game against the Suns."
             },
             {
                 "Player": "Victor Wembanyama",
@@ -100,13 +118,13 @@
             },
             "Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "21",
                 "FG": "14",
                 "FGA": "13",
                 "FG%": "17",
                 "3P": "8",
                 "3PA": "6",
-                "3P%": "19",
+                "3P%": "20",
                 "2P": "18",
                 "2PA": "18",
                 "2P%": "13",
@@ -118,10 +136,10 @@
                 "TRB": "19",
                 "AST": "6",
                 "STL": "13",
-                "BLK": "4",
+                "BLK": "3",
                 "TOV": "11",
                 "PF": "3",
-                "PTS": "15"
+                "PTS": "16"
             },
             "Year/Year": {
                 "G": "",
@@ -200,7 +218,7 @@
             },
             "Opp Lg Rank": {
                 "G": "",
-                "MP": "14",
+                "MP": "21",
                 "FG": "28",
                 "FGA": "26",
                 "FG%": "24",
@@ -209,7 +227,7 @@
                 "3P%": "22",
                 "2P": "26",
                 "2PA": "22",
-                "2P%": "22",
+                "2P%": "23",
                 "FT": "3",
                 "FTA": "3",
                 "FT%": "23",
@@ -218,7 +236,7 @@
                 "TRB": "29",
                 "AST": "23",
                 "STL": "15",
-                "BLK": "6",
+                "BLK": "5",
                 "TOV": "20",
                 "PF": "28",
                 "PTS": "22"
@@ -254,8 +272,8 @@
                 "PW": "34",
                 "PL": "46",
                 "MOV": "-2.68",
-                "SOS": "0.41",
-                "SRS": "-2.27",
+                "SOS": "0.40",
+                "SRS": "-2.28",
                 "ORtg": "114.5",
                 "DRtg": "117.2",
                 "Pace": "99.3",
@@ -288,10 +306,10 @@
                 "FT/FGA": "3",
                 "DRB%": "26",
                 "Arena": "",
-                "Attendance": "17"
+                "Attendance": "18"
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/SAS-2025.png",
-        "last_update": "Apr 10 2025 22:32:21"
+        "last_update": "Apr 11 2025 22:32:22"
     }
 }
