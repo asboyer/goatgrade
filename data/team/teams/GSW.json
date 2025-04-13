@@ -26,7 +26,14 @@
             "Braxton Key",
             "Taran Armstrong"
         ],
-        "injuries": [],
+        "injuries": [
+            {
+                "Player": "Stephen Curry",
+                "Team": "Golden State Warriors",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day () - The Warriors listed Curry as Questionable for Sunday's (Apr. 13) game against the Clippers."
+            }
+        ],
         "team_stats": {
             "Team": {
                 "G": "81",
@@ -272,6 +279,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/GSW-2025.png",
-        "last_update": "Apr 12 2025 22:32:19"
+        "last_update": "Apr 13 2025 22:32:20"
     }
 }

@@ -29,46 +29,10 @@
         ],
         "injuries": [
             {
-                "Player": "Dillon Brooks",
-                "Team": "Houston Rockets",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Rest) - Brooks did not play in Friday's (Apr. 11) game against the Lakers."
-            },
-            {
-                "Player": "Tari Eason",
-                "Team": "Houston Rockets",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Leg) - Eason did not play in Friday's (Apr. 11) game against the Lakers."
-            },
-            {
-                "Player": "Alperen Şengün",
-                "Team": "Houston Rockets",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Back) - Sengun did not play in Friday's (Apr. 11) game against the Lakers."
-            },
-            {
-                "Player": "Jabari Smith Jr.",
-                "Team": "Houston Rockets",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Groin) - Smith Jr. did not play in Friday's (Apr. 11) game against the Lakers."
-            },
-            {
                 "Player": "Jae'Sean Tate",
                 "Team": "Houston Rockets",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Ankle) - Tate did not play in Friday's (Apr. 11) game against the Lakers."
-            },
-            {
-                "Player": "Amen Thompson",
-                "Team": "Houston Rockets",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Rest) - Thompson did not play in Friday's (Apr. 11) game against the Lakers."
-            },
-            {
-                "Player": "Fred VanVleet",
-                "Team": "Houston Rockets",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Ankle) - VanVleet did not play in Friday's (Apr. 11) game against the Lakers."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Ankle) - The Rockets listed Tate as OUT for Sunday's (Apr. 13) game against Denver."
             }
         ],
         "team_stats": {
@@ -316,6 +280,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/HOU-2025.png",
-        "last_update": "Apr 12 2025 22:32:19"
+        "last_update": "Apr 13 2025 22:32:20"
     }
 }

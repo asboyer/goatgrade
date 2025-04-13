@@ -27,14 +27,7 @@
             "Tristen Newton",
             "Jesse Edwards"
         ],
-        "injuries": [
-            {
-                "Player": "Joe Ingles",
-                "Team": "Minnesota Timberwolves",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Personal) - Ingles did not play in Friday's (Apr. 11) game against the Nets."
-            }
-        ],
+        "injuries": [],
         "team_stats": {
             "Team": {
                 "G": "81",
@@ -280,6 +273,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/MIN-2025.png",
-        "last_update": "Apr 12 2025 22:32:19"
+        "last_update": "Apr 13 2025 22:32:20"
     }
 }

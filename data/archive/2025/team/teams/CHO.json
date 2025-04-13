@@ -38,20 +38,20 @@
             {
                 "Player": "Miles Bridges",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Hip) - Bridges did not play on Friday's (Apr. 11) game against the Celtics."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Hip) - The Hornets listed Bridges as OUT for Sunday's (Apr. 13) game against Boston."
             },
             {
                 "Player": "Moussa Diabaté",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Illness) - Diabate did not play on Friday's (Apr. 11) game against Boston."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Illness) - The Hornets listed Diabate as Questionable for Sunday's (Apr. 13) game against Boston."
             },
             {
                 "Player": "Josh Green",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Shoulder) - Green did not play on Friday's (Apr. 11) game against Boston."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Shoulder) - The Hornets listed Green as OUT for Sunday's (Apr. 13) game against Boston."
             },
             {
                 "Player": "Tre Mann",
@@ -68,14 +68,20 @@
             {
                 "Player": "Nick Smith Jr.",
                 "Team": "Charlotte Hornets",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Groin) - Smith did not return to Friday's (Apr. 11) game against the Celtics."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Groin) - The Hornets listed Smith Jr. as Questionable for Sunday's (Apr. 13) game against Boston."
             },
             {
                 "Player": "Grant Williams",
                 "Team": "Charlotte Hornets",
                 "Update": "Wed, Dec 11, 2024",
                 "Description": "Out For Season (ACL) - The Hornets announced on Wednesday (Dec. 11) that Williams underwent successful surgery to repair multiple tears in his knee, including the ACL, per ESPN's Shams Charania. He is expected to return in 9 to 12 months."
+            },
+            {
+                "Player": "Mark Williams",
+                "Team": "Charlotte Hornets",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Foot) - The Hornets listed Williams as OUT for Sunday's (Apr. 13) game against Boston."
             }
         ],
         "team_stats": {
@@ -323,6 +329,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/CHO-2025.png",
-        "last_update": "Apr 12 2025 22:32:19"
+        "last_update": "Apr 13 2025 22:32:20"
     }
 }

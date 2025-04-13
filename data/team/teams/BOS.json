@@ -30,8 +30,38 @@
             {
                 "Player": "Jaylen Brown",
                 "Team": "Boston Celtics",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Knee) - Brown did not play on Friday's (Apr. 11) game against Charlotte."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Knee) - Brown received pain management injections on Saturday (Apr. 12) in his right knee and is expected to be ready for the start of the playoffs, per Bobby Manning of Celtics on CLNS."
+            },
+            {
+                "Player": "Jrue Holiday",
+                "Team": "Boston Celtics",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Shoulder) - The Celtics listed Holiday as OUT for Sunday's (Apr. 13) game against Charlotte."
+            },
+            {
+                "Player": "Al Horford",
+                "Team": "Boston Celtics",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Knee) - The Celtics listed White as OUT for Sunday's (Apr. 13) game against Charlotte."
+            },
+            {
+                "Player": "Kristaps Porziņģis",
+                "Team": "Boston Celtics",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Rest) - The Celtics listed Porzingis as OUT for Sunday's (Apr. 13) game against Charlotte."
+            },
+            {
+                "Player": "Jayson Tatum",
+                "Team": "Boston Celtics",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Rest) - The Celtics listed Tatum as OUT for Sunday's (Apr. 13) game against Charlotte."
+            },
+            {
+                "Player": "Derrick White",
+                "Team": "Boston Celtics",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Neck) - The Celtics listed White as OUT for Sunday's (Apr. 13) game against Charlotte."
             }
         ],
         "team_stats": {
@@ -279,6 +309,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/BOS-2025.png",
-        "last_update": "Apr 12 2025 22:32:19"
+        "last_update": "Apr 13 2025 22:32:20"
     }
 }

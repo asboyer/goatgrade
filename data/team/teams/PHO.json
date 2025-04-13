@@ -29,6 +29,18 @@
         ],
         "injuries": [
             {
+                "Player": "Bradley Beal",
+                "Team": "Phoenix Suns",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Rest) - The Suns listed Beal as OUT for Sunday's (Apr. 13) game against Sacaramento."
+            },
+            {
+                "Player": "Devin Booker",
+                "Team": "Phoenix Suns",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Calf) - The Suns listed Booker as OUT for Sunday's (Apr. 13) game against Sacaramento."
+            },
+            {
                 "Player": "Kevin Durant",
                 "Team": "Phoenix Suns",
                 "Update": "Fri, Apr 11, 2025",
@@ -37,8 +49,8 @@
             {
                 "Player": "Nick Richards",
                 "Team": "Phoenix Suns",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Elbow) - Richards did not play in Friday's (Apr. 11) game against the Spurs."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Elbow) - The Suns listed Richards as OUT for Sunday's (Apr. 13) game against Sacaramento."
             }
         ],
         "team_stats": {
@@ -286,6 +298,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/PHO-2025.png",
-        "last_update": "Apr 12 2025 22:32:19"
+        "last_update": "Apr 13 2025 22:32:20"
     }
 }

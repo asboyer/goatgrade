@@ -29,6 +29,24 @@
         ],
         "injuries": [
             {
+                "Player": "OG Anunoby",
+                "Team": "New York Knicks",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Thumb) - The Knicks listed Anunoby as Questionable for Sunday's (Apr. 13) game against the Nets."
+            },
+            {
+                "Player": "Jalen Brunson",
+                "Team": "New York Knicks",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Ankle) - The Knicks listed Brunson as Questionable for Sunday's (Apr. 13) game against the Nets."
+            },
+            {
+                "Player": "Josh Hart",
+                "Team": "New York Knicks",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Knee) - The Knicks listed Hart as Questionable for Sunday's (Apr. 13) game against the Nets."
+            },
+            {
                 "Player": "Ariel Hukporti",
                 "Team": "New York Knicks",
                 "Update": "Fri, Apr 4, 2025",
@@ -37,8 +55,8 @@
             {
                 "Player": "Karl-Anthony Towns",
                 "Team": "New York Knicks",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Knee) - Towns did not play on Friday's (Apr. 11) game against the Cavaliers."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Knee) - The Knicks listed Towns as Questionable for Sunday's (Apr. 13) game against the Nets."
             }
         ],
         "team_stats": {
@@ -286,6 +304,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/NYK-2025.png",
-        "last_update": "Apr 12 2025 22:32:19"
+        "last_update": "Apr 13 2025 22:32:20"
     }
 }

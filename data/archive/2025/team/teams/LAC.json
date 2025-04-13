@@ -31,20 +31,14 @@
             {
                 "Player": "Nicolas Batum",
                 "Team": "Los Angeles Clippers",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Ankle) - Batum did not play in Friday's (Apr. 11) game against the Kings."
-            },
-            {
-                "Player": "Amir Coffey",
-                "Team": "Los Angeles Clippers",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Knee) - Coffey did not play in Friday's (Apr. 11) game against the Kings."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Ankle) - The Clippers listed Batum as OUT for Sunday's (Apr. 13) game against Golden State."
             },
             {
                 "Player": "Patty Mills",
                 "Team": "Los Angeles Clippers",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Illness) - Mills did not play in Friday's (Apr. 11) game against the Kings."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Illness) - The Clippers listed Mills as OUT for Sunday's (Apr. 13) game against Golden State."
             }
         ],
         "team_stats": {
@@ -292,6 +286,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/LAC-2025.png",
-        "last_update": "Apr 12 2025 22:32:19"
+        "last_update": "Apr 13 2025 22:32:20"
     }
 }

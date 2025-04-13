@@ -41,10 +41,22 @@
                 "Description": "Out (Hand) - The Hawks announced on Friday (Mar. 21) that Capela has been diagnosed with a ligament injury in the fourth metacarpal of his left hand. He will be re-evaluated in approximately three-to-four weeks."
             },
             {
+                "Player": "Dyson Daniels",
+                "Team": "Atlanta Hawks",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Rest) - The Hawks listed Daniels as Questionable for Sunday's (Apr. 13) game against Orlando."
+            },
+            {
                 "Player": "Jalen Johnson",
                 "Team": "Atlanta Hawks",
                 "Update": "Wed, Jan 29, 2025",
                 "Description": "Out For Season (Shoulder) - Johnson was diagnosed on Wednesday (Jan. 29) with a torn labrum in his left shoulder and will miss the rest of the season, league sources tell NBA reporter Chris Haynes."
+            },
+            {
+                "Player": "Caris LeVert",
+                "Team": "Atlanta Hawks",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Knee) - The Hawks listed LeVert as Questionable for Sunday's (Apr. 13) game against Orlando."
             },
             {
                 "Player": "Larry Nance Jr.",
@@ -53,10 +65,22 @@
                 "Description": "Out For Season (Knee) - The Hawks announced on Wednesday (Mar. 27) that Nance Jr. will miss the rest of the season while recovering from a right medial femoral condyle fracture."
             },
             {
-                "Player": "Jacob Toppin",
+                "Player": "Georges Niang",
                 "Team": "Atlanta Hawks",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Calf) - Toppin did not play on Friday (Apr. 11) against the 76ers."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Rest) - The Hawks listed Niang as Questionable for Sunday's (Apr. 13) game against Orlando."
+            },
+            {
+                "Player": "Onyeka Okongwu",
+                "Team": "Atlanta Hawks",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Knee) - The Hawks listed Okongwu as Questionable for Sunday's (Apr. 13) game against Orlando."
+            },
+            {
+                "Player": "Trae Young",
+                "Team": "Atlanta Hawks",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Achilles) - The Hawks listed Young as Questionable for Sunday's (Apr. 13) game against Orlando."
             }
         ],
         "team_stats": {
@@ -304,6 +328,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/ATL-2025.png",
-        "last_update": "Apr 12 2025 22:32:19"
+        "last_update": "Apr 13 2025 22:32:20"
     }
 }

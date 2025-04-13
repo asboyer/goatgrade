@@ -29,16 +29,10 @@
         ],
         "injuries": [
             {
-                "Player": "Saddiq Bey",
-                "Team": "Washington Wizards",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Knee) - Bey did not play on Friday's (Apr. 11) game against the Bulls."
-            },
-            {
                 "Player": "Malcolm Brogdon",
                 "Team": "Washington Wizards",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Ankle) - Brogdon did not play on Friday's (Apr. 11) game against the Bulls."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Ankle) - The Wizards listed Brogdon as OUT for Sunday's (Apr. 13) game against the Heat."
             },
             {
                 "Player": "Bilal Coulibaly",
@@ -49,14 +43,14 @@
             {
                 "Player": "Anthony Gill",
                 "Team": "Washington Wizards",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Hamstring) - Gill did not play on Friday's (Apr. 11) game against the Bulls."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Hamstring) - The Wizards listed Gill as OUT for Sunday's (Apr. 13) game against the Heat."
             },
             {
                 "Player": "Richaun Holmes",
                 "Team": "Washington Wizards",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Shoulder) - Holmes did not play on Friday's (Apr. 11) game against the Bulls."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Shoulder) - The Wizards listed Holmes as OUT for Sunday's (Apr. 13) game against the Heat."
             },
             {
                 "Player": "Corey Kispert",
@@ -73,8 +67,14 @@
             {
                 "Player": "Jordan Poole",
                 "Team": "Washington Wizards",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Elbow) - Poole did not play on Friday's (Apr. 11) game against the Bulls."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Elbow) - The Wizards listed Poole as OUT for Sunday's (Apr. 13) game against the Heat."
+            },
+            {
+                "Player": "JT Thor",
+                "Team": "Washington Wizards",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Knee) - The Wizards listed Thor as Questionable for Sunday's (Apr. 13) game against the Heat."
             }
         ],
         "team_stats": {
@@ -322,6 +322,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/WAS-2025.png",
-        "last_update": "Apr 12 2025 22:32:19"
+        "last_update": "Apr 13 2025 22:32:20"
     }
 }

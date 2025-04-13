@@ -28,10 +28,64 @@
         ],
         "injuries": [
             {
+                "Player": "Luka Dončić",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Quad) - The Lakers have listed Doncic as OUT for Sunday's (Apr. 13) game against the Trail Blazers."
+            },
+            {
+                "Player": "Dorian Finney-Smith",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Ankle) - The Lakers have listed Finney-Smith as OUT for Sunday's (Apr. 13) game against the Trail Blazers."
+            },
+            {
+                "Player": "Jordan Goodwin",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Foot) - The Lakers have listed Goodwin as Probable for Sunday's (Apr. 13) game against the Trail Blazers."
+            },
+            {
+                "Player": "Rui Hachimura",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Knee) - The Lakers have listed Hachimura as OUT for Sunday's (Apr. 13) game against the Trail Blazers."
+            },
+            {
+                "Player": "Jaxson Hayes",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Hand) - The Lakers have listed Hayes as Questionable for Sunday's (Apr. 13) game against the Trail Blazers."
+            },
+            {
+                "Player": "LeBron James",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Groin) - The Lakers have listed James as OUT for Sunday's (Apr. 13) game against the Trail Blazers."
+            },
+            {
                 "Player": "Maxi Kleber",
                 "Team": "Los Angeles Lakers",
                 "Update": "Thu, Apr 3, 2025",
                 "Description": "Out (Foot) - The Lakers announced Thursday (Apr. 3) that Kleber has progressed to on-court activities and he was given an uncertain timetable for his return to the floor, according to Ryan Ward of LakersNation."
+            },
+            {
+                "Player": "Austin Reaves",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Ankle) - The Lakers have listed Reaves as OUT for Sunday's (Apr. 13) game against the Trail Blazers."
+            },
+            {
+                "Player": "Jarred Vanderbilt",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Foot) - The Lakers have listed Vanderbilt as Questionable for Sunday's (Apr. 13) game against the Trail Blazers."
+            },
+            {
+                "Player": "Gabe Vincent",
+                "Team": "Los Angeles Lakers",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Day To Day (Knee) - The Lakers have listed Vincent as Questionable for Sunday's (Apr. 13) game against the Trail Blazers."
             }
         ],
         "team_stats": {
@@ -279,6 +333,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/LAL-2025.png",
-        "last_update": "Apr 12 2025 22:32:19"
+        "last_update": "Apr 13 2025 22:32:20"
     }
 }

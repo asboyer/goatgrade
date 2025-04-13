@@ -29,22 +29,40 @@
         ],
         "injuries": [
             {
+                "Player": "Bam Adebayo",
+                "Team": "Miami Heat",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Rest) - The Heat listed Adebayo as OUT for Sunday's (Apr. 13) game against the Wizards."
+            },
+            {
+                "Player": "Alec Burks",
+                "Team": "Miami Heat",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Back) - The Heat listed Burks as OUT for Sunday's (Apr. 13) game against the Wizards."
+            },
+            {
+                "Player": "Tyler Herro",
+                "Team": "Miami Heat",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Rest) - The Heat listed Herro as OUT for Sunday's (Apr. 13) game against the Wizards."
+            },
+            {
                 "Player": "Nikola Jović",
                 "Team": "Miami Heat",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Hand) - Jovic did not play on Friday's (Apr. 11) game versus the Pelicans."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Hand) - The Heat listed Jovic as OUT for Sunday's (Apr. 13) game against the Wizards."
             },
             {
                 "Player": "Pelle Larsson",
                 "Team": "Miami Heat",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Ankle) - Larsson did not play on Friday's (Apr. 11) game against the Pelicans."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Ankle) - The Heat listed Larsson as OUT for Sunday's (Apr. 13) game against the Wizards."
             },
             {
                 "Player": "Kevin Love",
                 "Team": "Miami Heat",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Personal) - Love did not play on Friday's (Apr. 11) game against the Pelicans."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Personal) - The Miami Heat listed Love as OUT for Sunday's (Apr. 13) game against the Wizards."
             },
             {
                 "Player": "Dru Smith",
@@ -55,8 +73,14 @@
             {
                 "Player": "Isaiah Stevens",
                 "Team": "Miami Heat",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Foot) - Stevens did not play on Friday's (Apr. 11) game against the Pelicans."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Foot) - The Heat listed Stevens as OUT for Sunday's (Apr. 13) game against the Wizards."
+            },
+            {
+                "Player": "Andrew Wiggins",
+                "Team": "Miami Heat",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Hamstring) - The Heat listed Wiggins as OUT for Sunday's (Apr. 13) game against the Wizards."
             }
         ],
         "team_stats": {
@@ -304,6 +328,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/MIA-2025.png",
-        "last_update": "Apr 12 2025 22:32:19"
+        "last_update": "Apr 13 2025 22:32:20"
     }
 }

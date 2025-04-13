@@ -29,28 +29,58 @@
         ],
         "injuries": [
             {
+                "Player": "Darius Garland",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Toe) - The Cavaliers listed Garland as OUT for Sunday's (Apr. 13) game against Indiana."
+            },
+            {
                 "Player": "De'Andre Hunter",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Rest) - Hunter did not play on Friday's (Apr. 11) game versus the Knicks."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Rest) - The Cavaliers listed Hunter as OUT for Sunday's (Apr. 13) game against Indiana."
             },
             {
                 "Player": "Ty Jerome",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Knee) - Jerome did not play on Friday's (Apr. 11) game against the Knicks."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Knee) - The Cavaliers listed Jerome as OUT for Sunday's (Apr. 13) game against Indiana."
             },
             {
                 "Player": "Sam Merrill",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Rest) - Merrill did not play on Friday (Apr. 11) against the Knicks."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Rest) - The Cavaliers listed Merrill as OUT for Sunday's (Apr. 13) game against Indiana."
             },
             {
                 "Player": "Donovan Mitchell",
                 "Team": "Cleveland Cavaliers",
-                "Update": "Fri, Apr 11, 2025",
-                "Description": "Day To Day (Ankle) - Mitchell did not play on Friday's (Apr. 11) game against the Knicks."
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Ankle) - The Cavaliers listed Mitchell as OUT for Sunday's (Apr. 13) game against Indiana."
+            },
+            {
+                "Player": "Evan Mobley",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Back) - The Cavaliers listed Mobley as OUT for Sunday's (Apr. 13) game against Indiana."
+            },
+            {
+                "Player": "Isaac Okoro",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Rest) - The Cavaliers listed Okoro as OUT for Sunday's (Apr. 13) game against Indiana."
+            },
+            {
+                "Player": "Max Strus",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Knee) - The Cavaliers listed Strus as OUT for Sunday's (Apr. 13) game against Indiana."
+            },
+            {
+                "Player": "Dean Wade",
+                "Team": "Cleveland Cavaliers",
+                "Update": "Sat, Apr 12, 2025",
+                "Description": "Out (Rest) - The Cavaliers listed Wade as OUT for Sunday's (Apr. 13) game against Indiana."
             }
         ],
         "team_stats": {
@@ -298,6 +328,6 @@
             }
         },
         "image_url": "https://cdn.ssref.net/req/202504041/tlogo/bbr/CLE-2025.png",
-        "last_update": "Apr 12 2025 22:32:19"
+        "last_update": "Apr 13 2025 22:32:20"
     }
 }
