@@ -102,18 +102,20 @@ seasons = [
     2021,
     2022,
     2023,
-    2024
+    2024,
+    2025
 ]
 
 archived_seasons = [
     "2024",
-    "2025"
+    "2025",
+    "2026"
 ]
 
 current_season = {
-    "name": "2024-2025",
-    "start_day": "10-24-2024",
-    "end_day": "04-14-2025",
+    "name": "2025-2026",
+    "start_day": "10-21-2025",
+    "end_day": "04-12-2026",
 }
 
 def get_season_months(start_day, end_day):
